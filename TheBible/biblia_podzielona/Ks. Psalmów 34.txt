@@ -1,0 +1,23 @@
+<v n="1"> Psalm Dawida, gdy zmieni³ swoje zachowanie przed Abimelekiem i wypêdzony przez niego, odszed³. Bêdê b³ogos³awi³ PANA w ka¿dym czasie, jego chwa³a zawsze bêdzie na moich ustach. </v>
+<v n="2"> Moja dusza bêdzie siê chlubiæ PANEM; pokorni to us³ysz¹ i rozraduj¹ siê. </v>
+<v n="3"> Uwielbiajcie PANA ze mn¹ i wspólnie wywy¿szajmy jego imiê. </v>
+<v n="4"> Szuka³em PANA, a on mnie wys³ucha³ i uwolni³ od wszystkich mych trwóg. </v>
+<v n="5"> Spojrzeli na niego i rozpromienili siê, a ich oblicza nie dozna³y wstydu. </v>
+<v n="6"> Ten oto biedak wo³a³, a PAN wys³ucha³ i wybawi³ go ze wszystkich jego utrapieñ. </v>
+<v n="7"> Anio³ PANA rozbija obóz doko³a tych, którzy siê go boj¹, i wybawia ich. </v>
+<v n="8"> Skosztujcie i zobaczcie, jak dobry jest PAN: B³ogos³awiony cz³owiek, który mu ufa. </v>
+<v n="9"> Bójcie siê PANA, jego œwiêci, bo niczego nie braknie tym, którzy siê go boj¹. </v>
+<v n="10"> Lwiêta cierpi¹ niedostatek i g³ód, lecz szukaj¹cym PANA nie zabraknie ¿adnego dobra. </v>
+<v n="11"> ChodŸcie, synowie, s³uchajcie mnie; nauczê was bojaŸni PANA. </v>
+<v n="12"> Który cz³owiek chce d³ugo ¿yæ i pragnie wiele dni, aby móc ogl¹daæ dobro? </v>
+<v n="13"> Strze¿ swego jêzyka od z³a, a swoich warg od podstêpnej mowy. </v>
+<v n="14"> Odwróæ siê od z³a i czyñ dobrze, szukaj pokoju i d¹¿ do niego. </v>
+<v n="15"> Oczy PANA s¹ zwrócone na sprawiedliwych, a jego uszy nachylone na ich wo³anie; </v>
+<v n="16"> Lecz oblicze PANA jest przeciwko z³oczyñcom, aby pamiêæ o nich wymazaæ z ziemi. </v>
+<v n="17"> Wo³aj¹ sprawiedliwi, a PAN wys³uchuje ich i uwalnia od wszelkich trudnoœci. </v>
+<v n="18"> Bliski jest PAN skruszonym w sercu i wybawia z³amanych na duchu. </v>
+<v n="19"> Liczne s¹ cierpienia sprawiedliwego, ale PAN uwalnia go od nich wszystkich. </v>
+<v n="20"> On strze¿e wszystkich jego koœci; ani jedna z nich nie bêdzie z³amana. </v>
+<v n="21"> Z³o zabija niegodziwego i ci, którzy nienawidz¹ sprawiedliwego, bêd¹ zniszczeni; </v>
+<v n="22"> PAN odkupi dusze swoich s³ug i nie bêd¹ zniszczeni ci, którzy mu ufaj¹. </v>
+</c>

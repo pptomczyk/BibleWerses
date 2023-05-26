@@ -1,0 +1,18 @@
+<v n="1"> A jeœli ktoœ bêdzie chcia³ z³o¿yæ ofiarê pojednawcz¹, a by³aby ze stada – czy to samca, czy samicê – niech z³o¿y j¹ bez skazy przed PANEM. </v>
+<v n="2"> I po³o¿y rêkê na g³owie swojej ofiary, i zabije j¹ przed wejœciem do Namiotu Zgromadzenia. I synowie Aarona, kap³ani, pokropi¹ krwi¹ z wierzchu doko³a o³tarz. </v>
+<v n="3"> Potem z ofiary pojednawczej z³o¿y PANU ofiarê ogniow¹: t³uszcz okrywaj¹cy wnêtrznoœci i ca³y t³uszcz, który jest na nich; </v>
+<v n="4"> Obie nerki z t³uszczem, który jest na nich i na lêdŸwiach, i p³at t³uszczu na w¹trobie oddzieli wraz z nerkami. </v>
+<v n="5"> I synowie Aarona spal¹ to na o³tarzu razem z ofiar¹ ca³opaln¹, która jest na drwach le¿¹cych na ogniu. To jest ofiara ogniowa na mi³¹ woñ dla PANA. </v>
+<v n="6"> Jeœli zaœ jego ofiara na ofiarê pojednawcz¹ dla PANA bêdzie z trzody, czy to samiec, czy samica, niech z³o¿y j¹ bez skazy. </v>
+<v n="7"> Jeœli sk³ada owcê na swoj¹ ofiarê, niech z³o¿y j¹ przed PANEM. </v>
+<v n="8"> I po³o¿y rêkê na g³owie swojej ofiary, i zabije j¹ przed Namiotem Zgromadzenia. I synowie Aarona pokropi¹ jej krwi¹ z wierzchu doko³a o³tarz. </v>
+<v n="9"> I z ofiary pojednawczej z³o¿y PANU ofiarê ogniow¹: jej t³uszcz, ca³y ogon, który odetnie przy samej koœci ogonowej, t³uszcz okrywaj¹cy wnêtrznoœci oraz ca³y t³uszcz na wnêtrznoœciach; </v>
+<v n="10"> Obie nerki z t³uszczem, który jest na nich i na lêdŸwiach, i p³at t³uszczu na w¹trobie, który oddzieli wraz z nerkami. </v>
+<v n="11"> I kap³an spali to na o³tarzu. To jest pokarm ofiary ogniowej dla PANA. </v>
+<v n="12"> Jeœli zaœ jego ofiara bêdzie koz¹, niech z³o¿y j¹ przed PANEM. </v>
+<v n="13"> Po³o¿y rêkê na jej g³owie i zabije j¹ przed Namiotem Zgromadzenia. I synowie Aarona pokropi¹ jej krwi¹ o³tarz doko³a. </v>
+<v n="14"> I z³o¿y z niej PANU swoj¹ ofiarê na ofiarê ogniow¹: t³uszcz okrywaj¹cy wnêtrznoœci i ca³y t³uszcz na wnêtrznoœciach; </v>
+<v n="15"> Obie nerki z t³uszczem, który jest na nich i na lêdŸwiach, i p³at t³uszczu na w¹trobie, który oddzieli wraz z nerkami. </v>
+<v n="16"> I kap³an spali to na o³tarzu. To jest pokarm ofiary ogniowej na mi³¹ woñ. Wszelki bowiem t³uszcz nale¿y do PANA. </v>
+<v n="17"> To jest wieczna ustawa dla waszych pokoleñ, we wszystkich waszych mieszkaniach: Nie bêdziecie jeœæ ¿adnego t³uszczu ani ¿adnej krwi. </v>
+</c>

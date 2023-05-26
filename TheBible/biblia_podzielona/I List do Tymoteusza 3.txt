@@ -1,0 +1,17 @@
+<v n="1"> Wiarygodne to s³owa: Jeœli ktoœ pragnie biskupstwa, pragnie dobrej pracy. </v>
+<v n="2"> Biskup wiêc ma byæ nienaganny, m¹¿ jednej ¿ony, czujny, trzeŸwy, przyzwoity, goœcinny, zdolny do nauczania; </v>
+<v n="3"> Nieoddaj¹cy siê piciu wina, niesk³onny do bicia, nie³akomy na brudny zysk, ale opanowany, niek³ótliwy, niechciwy; </v>
+<v n="4"> Dobrze rz¹dz¹cy w³asnym domem, trzymaj¹cy dzieci w pos³uszeñstwie i wszelkim szacunku; </v>
+<v n="5"> Jeœli bowiem ktoœ nie umie rz¹dziæ w³asnym domem, jak¿e bêdzie móg³ troszczyæ siê o koœció³ Bo¿y? </v>
+<v n="6"> Nie nowicjusz, ¿eby nie wbi³ siê w pychê i nie wpad³ w potêpienie diabelskie. </v>
+<v n="7"> Musi te¿ mieæ dobre œwiadectwo od tych, którzy s¹ na zewn¹trz, ¿eby nie œci¹ga³ na siebie hañby i nie wpad³ w sid³a diab³a. </v>
+<v n="8"> Diakoni tak¿e maj¹ byæ powa¿ni, niedwulicowi, nienadu¿ywaj¹cy wina, nie³akomi na brudny zysk; </v>
+<v n="9"> Zachowuj¹cy tajemnicê wiary w czystym sumieniu. </v>
+<v n="10"> I niech bêd¹ najpierw wypróbowani, a potem niech s³u¿¹, jeœli s¹ nienaganni. </v>
+<v n="11"> Ich ¿ony tak¿e niech bêd¹ powa¿ne, nierzucaj¹ce oszczerstw, trzeŸwe, wierne we wszystkim. </v>
+<v n="12"> Diakoni niech bêd¹ mê¿ami jednej ¿ony, rz¹dz¹cy dobrze dzieæmi i w³asnymi domami. </v>
+<v n="13"> Ci bowiem, którzy dobrze pe³ni¹ s³u¿bê, zyskuj¹ sobie zaszczytny stopieñ i wielk¹ œmia³oœæ w wierze, która jest w Chrystusie Jezusie. </v>
+<v n="14"> Piszê ci to, maj¹c nadziejê, ¿e wkrótce przybêdê do ciebie. </v>
+<v n="15"> A gdybym siê opóŸnia³, piszê, abyœ wiedzia³, jak nale¿y postêpowaæ w domu Bo¿ym, który jest koœcio³em Boga ¿ywego, filarem i podpor¹ prawdy. </v>
+<v n="16"> A bez w¹tpienia wielka jest tajemnica pobo¿noœci: Bóg objawiony zosta³ w ciele, usprawiedliwiony w Duchu, widziany by³ przez anio³y, g³oszony by³ poganom, uwierzono mu na œwiecie, wziêty zosta³ w górê do chwa³y. </v>
+</c>

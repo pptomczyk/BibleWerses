@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi chóru. Psalm pouczaj¹cy dla synów Korego. Jak jeleñ pragnie wód strumieni, tak moja dusza pragnie ciebie, Bo¿e. </v>
+<v n="2"> Moja dusza jest spragniona Boga, Boga ¿ywego. Kiedy przyjdê i uka¿ê siê przed obliczem Boga? </v>
+<v n="3"> £zy sta³y siê dla mnie chlebem we dnie i w nocy, gdy mówi¹ do mnie co dzieñ: Gdzie jest twój Bóg? </v>
+<v n="4"> Wylewam sw¹ duszê, gdy wspominam, jak krocz¹c w t³umie, szed³em z nimi do domu Bo¿ego wœród g³osów radoœci i chwa³y, poœród œwiêtuj¹cego t³umu. </v>
+<v n="5"> Dlaczego siê smucisz, moja duszo, i czemu siê we mnie trwo¿ysz? Zaufaj Bogu, bo jeszcze bêdê go wys³awia³ za jego zbawcze oblicze. </v>
+<v n="6"> Mój Bo¿e, smuci siê we mnie moja dusza, dlatego wspominam ciê z ziemi Jordanu i Hermonu, z góry Misar. </v>
+<v n="7"> Przepaœæ przyzywa przepaœæ szumem twoich upustów; wszystkie twoje fale i nawa³nice przewalaj¹ siê nade mn¹. </v>
+<v n="8"> Lecz we dnie PAN udzieli mi swego mi³osierdzia, a w nocy bêdzie we mnie jego pieœñ i moja modlitwa do Boga mego ¿ycia. </v>
+<v n="9"> Powiem Bogu, mojej skale: Czemu o mnie zapomnia³eœ? Czemu chodzê smutny z powodu ucisku wroga? </v>
+<v n="10"> Jak rana w moich koœciach, tak mnie ur¹gaj¹ moi wrogowie, gdy mówi¹ do mnie ka¿dego dnia: Gdzie jest twój Bóg? </v>
+<v n="11"> Czemu siê smucisz, moja duszo, i czemu siê we mnie trwo¿ysz? Zaufaj Bogu, bo jeszcze bêdê go wys³awia³, gdy¿ on jest zbawieniem mego oblicza i moim Bogiem. </v>
+</c>

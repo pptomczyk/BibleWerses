@@ -1,0 +1,23 @@
+<v n="1"> Moja dusza zmêczona jest ¿yciem; dam upust swemu narzekaniu, bêdê mówi³ w goryczy swej duszy. </v>
+<v n="2"> Powiem Bogu: Nie potêpiaj mnie. Oznajmij mi, czemu wiedziesz ze mn¹ spór? </v>
+<v n="3"> Czy dobrze ci z tym, ¿e mnie uciskasz, ¿e odrzucasz dzie³o swoich r¹k i sprzyjasz radzie niegodziwych? </v>
+<v n="4"> Czy masz oczy cielesne? Czy widzisz, jak cz³owiek widzi? </v>
+<v n="5"> Czy twoje dni s¹ jak dni cz³owieka, a twoje lata jak lata ludzkie; </v>
+<v n="6"> ¯e siê wywiadujesz o moj¹ nieprawoœæ i dochodzisz mojego grzechu? </v>
+<v n="7"> Ty wiesz, ¿e nie jestem niegodziwy i nikt nie wyrwie mnie z twoich r¹k. </v>
+<v n="8"> Twoje rêce ukszta³towa³y mnie i uczyni³y mnie ca³ego ze wszystkich stron, lecz mnie niszczysz. </v>
+<v n="9"> Pamiêtaj, proszê, ¿e ulepi³eœ mnie jak glinê; czy obrócisz mnie w proch? </v>
+<v n="10"> Czy nie wyla³eœ mnie jak mleko i nie sprawi³eœ, ¿e jak ser stê¿a³em? </v>
+<v n="11"> Przyoblek³eœ mnie skór¹ i cia³em, a koœæmi i ¿y³ami pospina³eœ mnie. </v>
+<v n="12"> Obdarzy³eœ mnie ¿yciem i mi³osierdziem, a twoja opatrznoœæ strzeg³a mego ducha. </v>
+<v n="13"> I chocia¿ ukry³eœ to wszystko w swoim sercu, wiem jednak, ¿e to jest z twojej woli. </v>
+<v n="14"> Jeœli grzeszê, ty to spostrzegasz i nie uwolnisz mnie od mojej nieprawoœci. </v>
+<v n="15"> Jeœli jestem niegodziwy, biada mi, a choæbym te¿ by³ sprawiedliwy, nie podniosê swojej g³owy. Jestem syty hañby, zwa¿ na moje utrapienie; </v>
+<v n="16"> Gdy¿ go przybywa; gonisz mnie jak okrutny lew i zachowujesz siê dziwnie wobec mnie. </v>
+<v n="17"> Stawiasz przeciwko mnie nowych œwiadków i pomna¿asz nade mn¹ swój gniew; wojsko za wojskiem naciera na mnie. </v>
+<v n="18"> Czemu wyprowadzi³eœ mnie z ³ona? Obym umar³ i nie widzia³o mnie ¿adne oko! </v>
+<v n="19"> By³bym, jakby mnie nie by³o, od ³ona zanieœliby mnie do grobu! </v>
+<v n="20"> Czy nie zosta³o mi niewiele dni? Przestañ wiêc i odejdŸ ode mnie, abym nabra³ trochê otuchy; </v>
+<v n="21"> Zanim odejdê tam, sk¹d ju¿ nie powrócê, do ziemi ciemnoœci i cienia œmierci; </v>
+<v n="22"> Do ziemi ciemnej jak noc i do cienia œmierci i bez³adu, gdzie œwieci tylko ciemnoœæ. </v>
+</c>

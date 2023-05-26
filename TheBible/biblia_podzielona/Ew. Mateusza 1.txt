@@ -1,0 +1,26 @@
+<v n="1"> Ksiêga rodu Jezusa Chrystusa, syna Dawida, syna Abrahama. </v>
+<v n="2"> Abraham sp³odzi³ Izaaka, a Izaak sp³odzi³ Jakuba, a Jakub sp³odzi³ Judê i jego braci. </v>
+<v n="3"> A Juda sp³odzi³ z Tamar Faresa i Zarê, a Fares sp³odzi³ Ezroma, a Ezrom sp³odzi³ Arama. </v>
+<v n="4"> A Aram sp³odzi³ Aminadaba, a Aminadab sp³odzi³ Naasona, a Naason sp³odzi³ Salmona. </v>
+<v n="5"> A Salmon sp³odzi³ z Rachab Booza, a Booz sp³odzi³ z Rut Obeda, a Obed sp³odzi³ Jessego. </v>
+<v n="6"> A Jesse sp³odzi³ króla Dawida, a król Dawid sp³odzi³ Salomona z tej, która by³a ¿on¹ Uriasza. </v>
+<v n="7"> A Salomon sp³odzi³ Roboama, a Roboam sp³odzi³ Abiasza, a Abiasz sp³odzi³ Azê. </v>
+<v n="8"> A Aza sp³odzi³ Jozafata, a Jozafat sp³odzi³ Jorama, a Joram sp³odzi³ Ozjasza. </v>
+<v n="9"> A Ozjasz sp³odzi³ Joatama, a Joatam sp³odzi³ Achaza, a Achaz sp³odzi³ Ezechiasza. </v>
+<v n="10"> A Ezechiasz sp³odzi³ Manassesa, a Manasses sp³odzi³ Amona, a Amon sp³odzi³ Jozjasza. </v>
+<v n="11"> A Jozjasz sp³odzi³ Jechoniasza i jego braci w czasie uprowadzenia do Babilonu. </v>
+<v n="12"> A po uprowadzeniu do Babilonu Jechoniasz sp³odzi³ Salatiela, a Salatiel sp³odzi³ Zorobabela. </v>
+<v n="13"> A Zorobabel sp³odzi³ Abiuda, a Abiud sp³odzi³ Eliakima, a Eliakim sp³odzi³ Azora. </v>
+<v n="14"> A Azor sp³odzi³ Sadoka, a Sadok sp³odzi³ Achima, a Achim sp³odzi³ Eliuda. </v>
+<v n="15"> A Eliud sp³odzi³ Eleazara, a Eleazar sp³odzi³ Matana, a Matan sp³odzi³ Jakuba. </v>
+<v n="16"> A Jakub sp³odzi³ Józefa, mê¿a Marii, z której narodzi³ siê Jezus, zwany Chrystusem. </v>
+<v n="17"> Tak wiêc wszystkich pokoleñ od Abrahama a¿ do Dawida jest czternaœcie; a od Dawida a¿ do uprowadzenia do Babilonu – pokoleñ czternaœcie; a od uprowadzenia do Babilonu a¿ do Chrystusa – pokoleñ czternaœcie. </v>
+<v n="18"> A z narodzeniem Jezusa Chrystusa by³o tak: Gdy Maria, jego matka, zosta³a zaœlubiona Józefowi, zanim siê zeszli, okaza³o siê, ¿e jest brzemienna z Ducha Œwiêtego. </v>
+<v n="19"> Ale Józef, jej m¹¿, bêd¹c sprawiedliwym i nie chc¹c jej znies³awiæ, chcia³ j¹ potajemnie oddaliæ. </v>
+<v n="20"> A gdy o tym rozmyœla³, oto anio³ Pana ukaza³ mu siê we œnie i powiedzia³: Józefie, synu Dawida, nie bój siê przyj¹æ Marii, twojej ¿ony. To bowiem, co siê w niej poczê³o, jest z Ducha Œwiêtego. </v>
+<v n="21"> I urodzi syna, któremu nadasz imiê Jezus. On bowiem zbawi swój lud od jego grzechów. </v>
+<v n="22"> A to wszystko siê sta³o, aby siê wype³ni³o, co powiedzia³ Pan przez proroka: </v>
+<v n="23"> Oto dziewica bêdzie brzemienna i urodzi syna, któremu nadadz¹ imiê Emmanuel, co siê t³umaczy: Bóg z nami. </v>
+<v n="24"> Wtedy Józef, obudziwszy siê ze snu, uczyni³ tak, jak mu rozkaza³ anio³ Pana, i przyj¹³ swoj¹ ¿onê. </v>
+<v n="25"> Ale nie obcowa³ z ni¹, dopóki nie urodzi³a swego pierworodnego syna, któremu nada³ imiê Jezus. </v>
+</c>

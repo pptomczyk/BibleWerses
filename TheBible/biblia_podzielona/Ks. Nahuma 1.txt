@@ -1,0 +1,16 @@
+<v n="1"> Brzemiê Niniwy. Ksiêga widzenia Nahuma Elkoszyty. </v>
+<v n="2"> PAN jest Bogiem zazdrosnym i mœciwym; PAN jest mœciwy i pe³en gniewu; PAN mœci siê nad swoimi przeciwnikami i zachowuje gniew wobec swoich wrogów. </v>
+<v n="3"> PAN jest nieskory do gniewu i wielki w mocy, a winnego nie uniewinni. Droga PANA jest w wichrze i w burzy, a ob³ok jest prochem pod jego stopami. </v>
+<v n="4"> On gromi morze i je wysusza, wysusza te¿ wszystkie rzeki. Przed nim Baszan i Karmel mdleje, a kwiat Libanu wiêdnie; </v>
+<v n="5"> Góry dr¿¹ przed nim, a pagórki siê rozp³ywaj¹; ziemia p³onie przed jego obliczem, okr¹g ziemi i wszyscy jej mieszkañcy. </v>
+<v n="6"> Któ¿ siê ostoi przed jego oburzeniem? Kto wytrzyma zapalczywoœæ jego gniewu? Jego gniew wylewa siê jak ogieñ, a ska³y rozpadaj¹ siê przed nim. </v>
+<v n="7"> Dobry jest PAN – warownia w dniu ucisku; zna tych, którzy mu ufaj¹. </v>
+<v n="8"> Ale gwa³town¹ powodzi¹ zniszczy jej miejsce, ciemnoœæ bêdzie œciga³a jego wrogów. </v>
+<v n="9"> Co zamierzacie przeciwko PANU? On dokona zniszczenia, ucisk nie powstanie po raz drugi. </v>
+<v n="10"> Gdy bowiem bêd¹ jak splecione ciernie i jak pijacy upojeni winem, jak suche œciernisko do szczêtu sp³on¹. </v>
+<v n="11"> Z ciebie wyszed³ ten, który obmyœli³ z³o przeciwko PANU, doradca nikczemny. </v>
+<v n="12"> Tak mówi PAN: Chocia¿ s¹ spokojni i tak liczni, bêd¹ jednak skoszeni, gdy przejdzie. Chocia¿ ciê trapi³em, ju¿ wiêcej nie bêdê ciê trapi³. </v>
+<v n="13"> Teraz bowiem z³amiê jego jarzmo, aby na tobie nie le¿a³o, a rozerwê twoje wiêzy. </v>
+<v n="14"> O tobie PAN rozkaza³, ¿e twoje imiê ju¿ nie bêdzie mia³o wiêcej potomstwa. Wyniszczê z domu twoich bogów rzeŸbione i lane pos¹gi. Przygotujê ci grób, gdy¿ jesteœ nikczemny. </v>
+<v n="15"> Oto na górach nogi opowiadaj¹cego dobre wieœci, zwiastuj¹cego pokój. ObchodŸ, Judo, swoje uroczyste œwiêta, wype³niaj swoje œluby. Nikczemnik bowiem ju¿ nie przejdzie przez ciebie, zosta³ doszczêtnie zg³adzony. </v>
+</c>

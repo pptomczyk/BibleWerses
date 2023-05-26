@@ -1,0 +1,19 @@
+<v n="1"> Hiram, król Tyru, wys³a³ swoje s³ugi do Salomona, bo us³ysza³, ¿e namaszczono go na króla w miejsce jego ojca. Hiram bowiem kocha³ Dawida przez wszystkie dni. </v>
+<v n="2"> Salomon te¿ pos³a³ do Hirama tak¹ wiadomoœæ: </v>
+<v n="3"> Ty wiesz, ¿e mój ojciec Dawid nie móg³ budowaæ domu dla imienia PANA, swego Boga, z powodu wojen, które go otacza³y, dopóki PAN nie podda³ jego wrogów pod stopy jego nóg. </v>
+<v n="4"> Lecz teraz PAN, mój Bóg, da³ mi zewsz¹d odpoczynek, nie ma ¿adnego przeciwnika ani z³ego wydarzenia. </v>
+<v n="5"> Oto postanowi³em zbudowaæ dom dla imienia PANA, swego Boga, zgodnie z tym, co PAN powiedzia³ memu ojcu Dawidowi: Twój syn, którego posadzê po tobie na twoim tronie, on zbuduje dom dla mojego imienia. </v>
+<v n="6"> Teraz wiêc rozka¿, aby œciêto dla mnie cedry z Libanu, a moi s³udzy bêd¹ z twoimi s³ugami. Dam ci zap³atê dla twoich s³ug, jak¹ wyznaczysz. Ty wiesz bowiem, ¿e wœród nas nie ma nikogo, kto by umia³ r¹baæ drzewo tak jak Sydoñczycy. </v>
+<v n="7"> Gdy Hiram us³ysza³ s³owa Salomona, bardzo siê ucieszy³ i powiedzia³: B³ogos³awiony niech bêdzie dzisiaj PAN, który da³ Dawidowi m¹drego syna, aby by³ nad tym wielkim ludem. </v>
+<v n="8"> Wtedy Hiram pos³a³ do Salomona wiadomoœæ: Wys³ucha³em tego, co mi przes³a³eœ. Uczyniê wszystko zgodnie z twoim ¿yczeniem co do drewna cedrowego i drewna cyprysowego. </v>
+<v n="9"> Moi s³udzy sprowadz¹ je z Libanu nad morze, a ja ka¿ê je z³o¿yæ na tratwy i przeprawiæ przez morze a¿ do miejsca, które mi wska¿esz. Tam je roz³aduj¹, a ty je zabierzesz. Ty te¿ spe³nisz moje ¿yczenie i dostarczysz ¿ywnoœæ dla mojego dworu. </v>
+<v n="10"> Hiram dostarcza³ wiêc Salomonowi drewno cedrowe i drewno cyprysowe, tyle ile Salomon chcia³. </v>
+<v n="11"> Salomon z kolei dostarcza³ Hiramowi dwadzieœcia tysiêcy kor pszenicy na ¿ywnoœæ dla jego dworu i dwadzieœcia kor czystej oliwy. Tyle Salomon dostarcza³ Hiramowi ka¿dego roku. </v>
+<v n="12"> A PAN da³ Salomonowi m¹droœæ, tak jak mu obieca³. I panowa³ pokój miêdzy Hiramem a Salomonem, zawarli te¿ ze sob¹ przymierze. </v>
+<v n="13"> Potem król Salomon kaza³ wybraæ robotników z ca³ego Izraela, a by³o tych robotników trzydzieœci tysiêcy mê¿czyzn. </v>
+<v n="14"> Co miesi¹c wysy³a³ ich do Libanu po dziesiêæ tysiêcy na zmianê: miesi¹c przebywali w Libanie, a dwa miesi¹ce w domu. Prze³o¿onym tych robotników by³ Adoniram. </v>
+<v n="15"> Salomon mia³ te¿ siedemdziesi¹t tysiêcy ludzi do dŸwigania ciê¿arów oraz osiemdziesi¹t tysiêcy robotników w kamienio³omach w górach; </v>
+<v n="16"> Oprócz naczelnych urzêdników Salomona, którzy nadzorowali pracê, mia³ te¿ trzy tysi¹ce trzystu prze³o¿onych nad ludŸmi wykonuj¹cymi pracê. </v>
+<v n="17"> Król rozkaza³ równie¿, aby przywieziono kamienie wielkie, kamienie drogie i kamienie ciosane na za³o¿enie fundamentów domu. </v>
+<v n="18"> Ciosali je wiêc budowniczowie Salomona i Hirama oraz Gibilici. I tak przygotowali drewno i kamienie na budowê domu. </v>
+</c>

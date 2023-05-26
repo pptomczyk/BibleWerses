@@ -1,0 +1,24 @@
+<v n="1"> A gdy Jezus urodzi³ siê w Betlejem w Judei za dni króla Heroda, oto mêdrcy ze Wschodu przybyli do Jerozolimy i pytali: </v>
+<v n="2"> Gdzie¿ jest ten król ¯ydów, który siê urodzi³? Widzieliœmy bowiem jego gwiazdê na Wschodzie i przyjechaliœmy, aby oddaæ mu pok³on. </v>
+<v n="3"> Gdy król Herod to us³ysza³, przerazi³ siê, a z nim ca³a Jerozolima. </v>
+<v n="4"> Zebrawszy wiêc wszystkich naczelnych kap³anów i nauczycieli ludu, wypytywa³ ich, gdzie mia³ siê urodziæ Chrystus. </v>
+<v n="5"> A oni mu powiedzieli: W Betlejem w Judei; bo tak jest napisane przez proroka: </v>
+<v n="6"> A ty, Betlejem, ziemio Judy, wcale nie jesteœ najmniejsze wœród w³adców Judei, z ciebie bowiem wyjdzie w³adca, który bêdzie rz¹dzi³ moim ludem, Izraelem. </v>
+<v n="7"> Wtedy Herod wezwa³ potajemnie mêdrców i dowiadywa³ siê dok³adnie o czas ukazania siê gwiazdy. </v>
+<v n="8"> A posy³aj¹c ich do Betlejem, powiedzia³: JedŸcie i wypytajcie siê dok³adnie o to dziecko, a gdy je znajdziecie, donieœcie mi, abym i ja pojecha³ i odda³ mu pok³on. </v>
+<v n="9"> Oni wiêc, wys³uchawszy króla, odeszli. A oto gwiazda, któr¹ widzieli na Wschodzie, prowadzi³a ich, a¿ przysz³a i zatrzyma³a siê nad miejscem, gdzie by³o dziecko. </v>
+<v n="10"> A gdy zobaczyli gwiazdê, ogromnie siê ucieszyli. </v>
+<v n="11"> Kiedy weszli do domu, zobaczyli dziecko z Mari¹, jego matk¹, i upad³szy, oddali mu pok³on, potem otworzyli swoje skarby i ofiarowali mu dary: z³oto, kadzid³o i mirrê. </v>
+<v n="12"> Lecz bêd¹c ostrze¿eni przez Boga we œnie, aby nie wracali do Heroda, powrócili do swojej ziemi inn¹ drog¹. </v>
+<v n="13"> A gdy oni odeszli, oto anio³ Pana ukaza³ siê we œnie Józefowi i powiedzia³: Wstañ, weŸ dziecko oraz jego matkê i uciekaj do Egiptu, i zostañ tam, a¿ ci powiem. Herod bowiem bêdzie szuka³ dziecka, aby je zabiæ. </v>
+<v n="14"> Wsta³ wiêc, wzi¹³ w nocy dziecko oraz jego matkê i uciek³ do Egiptu. </v>
+<v n="15"> I przebywa³ tam a¿ do œmierci Heroda, aby siê wype³ni³o, co powiedzia³ Pan przez proroka: Z Egiptu wezwa³em mego syna. </v>
+<v n="16"> Wówczas Herod, widz¹c, ¿e zosta³ oszukany przez mêdrców, bardzo siê rozgniewa³ i kaza³ zabiæ wszystkie dzieci, które by³y w Betlejem i ca³ej okolicy, w wieku do dwóch lat, stosownie do czasu, o którym siê dok³adnie dowiedzia³ od mêdrców. </v>
+<v n="17"> Wtedy wype³ni³o siê to, co zosta³o powiedziane przez proroka Jeremiasza: </v>
+<v n="18"> S³ychaæ g³os w Rama, lament, p³acz i wielkie zawodzenie. Rachel op³akuje swoje dzieci i nie daje siê pocieszyæ, bo ju¿ ich nie ma. </v>
+<v n="19"> A gdy Herod umar³, oto anio³ Pana ukaza³ siê we œnie Józefowi w Egipcie; </v>
+<v n="20"> I powiedzia³: Wstañ, weŸ dziecko oraz jego matkê i idŸ do ziemi izraelskiej. Umarli bowiem ci, którzy czyhali na ¿ycie dziecka. </v>
+<v n="21"> Wsta³ wiêc, wzi¹³ dziecko oraz jego matkê i przyby³ do ziemi izraelskiej. </v>
+<v n="22"> Lecz gdy us³ysza³, ¿e Archelaus króluje w Judei w miejsce Heroda, swego ojca, ba³ siê tam iœæ. Ale bêd¹c napomniany przez Boga we œnie, odszed³ w strony Galilei. </v>
+<v n="23"> A przyszed³szy, mieszka³ w mieœcie zwanym Nazaret, aby siê wype³ni³o to, co zosta³o powiedziane przez proroków: Bêdzie nazwany Nazarejczykiem. </v>
+</c>

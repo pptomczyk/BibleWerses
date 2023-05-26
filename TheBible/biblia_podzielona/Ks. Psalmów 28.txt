@@ -1,0 +1,10 @@
+<v n="1"> Psalm Dawida. Do ciebie wo³am, PANIE, Ska³o moja; nie b¹dŸ g³uchy na moje wo³anie, abym jeœli siê nie odezwiesz, nie sta³ siê podobny do zstêpuj¹cych do do³u. </v>
+<v n="2"> Us³ysz g³os mego b³agania, gdy wo³am do ciebie, gdy podnoszê rêce ku twojemu miejscu najœwiêtszemu. </v>
+<v n="3"> Nie zabieraj mnie z niegodziwymi i z czyni¹cymi nieprawoœæ, którzy mówi¹ o pokoju z bliŸnimi, a z³o jest w ich sercach. </v>
+<v n="4"> Oddaj im wed³ug ich uczynków i wed³ug z³a ich postêpków; wed³ug czynów ich r¹k odp³aæ im, oddaj im, co im siê nale¿y. </v>
+<v n="5"> Skoro nie zwa¿aj¹ na czyny PANA ani na dzie³a jego r¹k, on zniszczy ich i nie odbuduje. </v>
+<v n="6"> B³ogos³awiony niech bêdzie PAN, bo wys³ucha³ g³osu mego b³agania. </v>
+<v n="7"> PAN jest moj¹ si³¹ i tarcz¹, moje serce jemu zaufa³o i dozna³em pomocy; dlatego moje serce siê rozweseli³o i moj¹ pieœni¹ bêdê go chwaliæ. </v>
+<v n="8"> PAN jest si³¹ dla swoich i twierdz¹ zbawienia swego pomazañca. </v>
+<v n="9"> Wybaw twój lud, PANIE, b³ogos³aw twemu dziedzictwu, paœ ich i nieœ na wieki. </v>
+</c>

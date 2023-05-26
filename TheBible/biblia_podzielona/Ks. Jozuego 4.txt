@@ -1,0 +1,25 @@
+<v n="1"> A gdy ca³y lud zakoñczy³ przeprawê przez Jordan, PAN powiedzia³ do Jozuego: </v>
+<v n="2"> Wybierzcie sobie z ludu dwunastu mê¿czyzn, po jednym z ka¿dego pokolenia. </v>
+<v n="3"> I rozka¿cie im: WeŸcie sobie st¹d, ze œrodka Jordanu, z tego miejsca, gdzie nogi kap³anów sta³y pewnie, dwanaœcie kamieni, zabierzcie je ze sob¹ i po³ó¿cie w miejscu, gdzie tej nocy bêdziecie nocowaæ. </v>
+<v n="4"> Jozue wezwa³ wiêc dwunastu mê¿czyzn, których wybra³ spoœród synów Izraela, po jednym z ka¿dego pokolenia. </v>
+<v n="5"> I Jozue powiedzia³ do nich: PójdŸcie przed ark¹ PANA, swojego Boga, na œrodek Jordanu i niech ka¿dy weŸmie po jednym kamieniu na swe ramiê, wed³ug liczby pokoleñ synów Izraela; </v>
+<v n="6"> Aby to by³o znakiem wœród was, gdy potem wasi synowie zapytaj¹: Co znacz¹ dla was te kamienie? </v>
+<v n="7"> Wtedy powiecie im, ¿e wody Jordanu rozdzieli³y siê przed ark¹ przymierza PANA; gdy przechodzi³a przez Jordan, rozdzieli³y siê wody Jordanu; i te kamienie bêd¹ pami¹tk¹ dla synów Izraela na wieki. </v>
+<v n="8"> I synowie Izraela uczynili tak, jak rozkaza³ Jozue. Wziêli dwanaœcie kamieni ze œrodka Jordanu, jak powiedzia³ PAN do Jozuego, wed³ug liczby pokoleñ synów Izraela, zanieœli je ze sob¹ na miejsce noclegu i tam je z³o¿yli. </v>
+<v n="9"> Jozue te¿ postawi³ dwanaœcie kamieni na œrodku Jordanu, w miejscu, gdzie sta³y nogi kap³anów nios¹cych arkê przymierza. Pozostaj¹ tam a¿ do dziœ. </v>
+<v n="10"> Kap³ani zaœ nios¹cy arkê stali na œrodku Jordanu, a¿ wype³ni³o siê to wszystko, co PAN rozkaza³ Jozuemu powiedzieæ ludowi zgodnie ze wszystkim, co Moj¿esz nakaza³ Jozuemu. Lud natomiast spieszy³ siê i przeszed³. </v>
+<v n="11"> Gdy ca³y lud przeszed³, przeszli te¿ i arka PANA, i kap³ani przed ludem. </v>
+<v n="12"> Synowie Rubena, synowie Gada i po³owa pokolenia Manassesa równie¿ przeszli uzbrojeni przed synami Izraela, jak im Moj¿esz nakaza³. </v>
+<v n="13"> Oko³o czterdziestu tysiêcy uzbrojonych wojowników przesz³o przed PANEM do walki na równinach Jerycha. </v>
+<v n="14"> W tym dniu PAN wywy¿szy³ Jozuego na oczach ca³ego Izraela i bali siê go, jak bali siê Moj¿esza przez wszystkie dni jego ¿ycia. </v>
+<v n="15"> Potem PAN powiedzia³ do Jozuego: </v>
+<v n="16"> Rozka¿ kap³anom nios¹cym arkê œwiadectwa, aby wyszli z Jordanu. </v>
+<v n="17"> Rozkaza³ wiêc Jozue kap³anom: WyjdŸcie z Jordanu. </v>
+<v n="18"> A gdy kap³ani nios¹cy arkê przymierza PANA wyszli ze œrodka Jordanu i stopy ich stanê³y na suchej ziemi, wody Jordanu wróci³y na swoje miejsce i p³ynê³y jak przedtem, wype³nione po brzegi. </v>
+<v n="19"> Lud wyszed³ z Jordanu dziesi¹tego dnia pierwszego miesi¹ca i rozbi³ obóz w Gilgal, po wschodniej stronie Jerycha. </v>
+<v n="20"> A te dwanaœcie kamieni, które wyniesiono z Jordanu, Jozue ustawi³ w Gilgal. </v>
+<v n="21"> I powiedzia³ do synów Izraela: Gdy w przysz³oœci wasi synowie zapytaj¹ swoich ojców: Co znacz¹ te kamienie? </v>
+<v n="22"> Wtedy powiecie swoim synom: Izrael przeszed³ przez Jordan po suchej ziemi; </v>
+<v n="23"> PAN Bóg bowiem osuszy³ wody Jordanu przed wami, a¿ siê przeprawiliœcie – tak jak PAN, wasz Bóg, uczyni³ z Morzem Czerwonym, które wysuszy³ przed nami, a¿ przeszliœmy; </v>
+<v n="24"> Aby wszystkie narody ziemi pozna³y, ¿e rêka PANA jest potê¿na, i ¿ebyœcie bali siê PANA, swojego Boga, po wszystkie dni. </v>
+</c>

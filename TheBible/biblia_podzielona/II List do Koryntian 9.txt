@@ -1,0 +1,16 @@
+<v n="1"> Lecz o pos³udze na rzecz œwiêtych nie ma potrzeby, abym wam pisa³. </v>
+<v n="2"> Znam bowiem wasz¹ gotowoœæ, z powodu której wobec Macedoñczyków chlubiê siê wami, ¿e Achaja jest gotowa od zesz³ego roku, i wasza gorliwoœæ pobudzi³a wielu. </v>
+<v n="3"> Ale pos³a³em braci, ¿eby nasza chluba z was nie okaza³a siê pod tym wzglêdem pró¿na, abyœcie, jak mówi³em, byli przygotowani; </v>
+<v n="4"> I abyœmy, jeœli przypadkiem przybyliby ze mn¹ Macedoñczycy i zastali was nieprzygotowanymi, nie byli zawstydzeni my – ¿eby nie powiedzieæ: wy – za tak œmia³e przechwalanie siê. </v>
+<v n="5"> Uwa¿a³em wiêc za konieczne zachêciæ braci, aby wczeœniej udali siê do was i zawczasu przygotowali przedtem obiecany wasz hojny dar, aby by³ gotowy jako wyraz hojnoœci, a nie sk¹pstwa. </v>
+<v n="6"> Lecz mówiê: Kto sk¹po sieje, sk¹po te¿ ¿¹æ bêdzie, a kto sieje obficie, obficie te¿ ¿¹æ bêdzie. </v>
+<v n="7"> Ka¿dy jak postanowi³ w swym sercu, tak niech zrobi, nie z ¿alem ani z przymusu, gdy¿ radosnego dawcê Bóg mi³uje. </v>
+<v n="8"> A Bóg ma moc udzieliæ wam obficie wszelkiej ³aski, abyœcie, maj¹c zawsze wszystkiego pod dostatkiem, obfitowali we wszelki dobry uczynek; </v>
+<v n="9"> Jak jest napisane: Rozrzuci³, da³ ubogim, jego sprawiedliwoœæ trwa na wieki. </v>
+<v n="10"> A ten, który daje ziarno siewcy, niech i wam da chleba do jedzenia, i wasze ziarno rozmno¿y, i zwiêkszy plon waszej sprawiedliwoœci; </v>
+<v n="11"> Abyœcie byli wzbogaceni we wszystko ku wszelkiej hojnoœci, która sprawia, ¿e z naszego powodu sk³adane jest dziêkczynienie Bogu. </v>
+<v n="12"> Pos³ugiwanie bowiem w tej s³u¿bie nie tylko zaspokaja niedostatki œwiêtych, ale te¿ obfituje w liczne dziêkczynienia sk³adane Bogu. </v>
+<v n="13"> Gdy¿ przez doœwiadczenie tej pos³ugi chwal¹ Boga za to, ¿e jesteœcie pos³uszni wyznawanej przez siebie ewangelii Chrystusa i hojni w udzielaniu im i wszystkim innym; </v>
+<v n="14"> A modl¹c siê za was, têskni¹ za wami z powodu obfituj¹cej w was ³aski Bo¿ej. </v>
+<v n="15"> Bogu niech bêd¹ dziêki za jego niewypowiedziany dar. </v>
+</c>

@@ -1,0 +1,19 @@
+<v n="1"> Po œmierci Achaba Moab zbuntowa³ siê przeciw Izraelowi. </v>
+<v n="2"> A Achazjasz wypad³ przez kratê swej górnej komnaty w Samarii i zachorowa³. Wyprawi³ wiêc pos³añców, mówi¹c im: IdŸcie i zapytajcie Belzebuba, boga Ekronu, czy wyzdrowiejê z tej choroby. </v>
+<v n="3"> Lecz Anio³ PANA powiedzia³ do Eliasza Tiszbity: Wstañ, wyjdŸ naprzeciw pos³añcom króla Samarii i powiedz im: Czy¿ nie ma Boga w Izraelu, ¿e idziecie radziæ siê Belzebuba, boga Ekronu? </v>
+<v n="4"> Dlatego tak mówi PAN: Z ³o¿a, na które siê po³o¿y³eœ, ju¿ nie wstaniesz, ale na pewno umrzesz. I Eliasz odszed³. </v>
+<v n="5"> A gdy pos³añcy wrócili do niego, zapyta³ ich: Czemu wróciliœcie? </v>
+<v n="6"> Odpowiedzieli mu: Pewien cz³owiek wyszed³ nam naprzeciw i powiedzia³ do nas: IdŸcie, wróæcie do króla, który was pos³a³, i powiedzcie mu: Tak mówi PAN: Czy¿ nie ma Boga w Izraelu, ¿e posy³asz pos³añców, aby siê radziæ Belzebuba, boga Ekronu? Z tego powodu z ³o¿a, na którym siê po³o¿y³eœ, nie wstaniesz, ale na pewno umrzesz. </v>
+<v n="7"> I zapyta³ ich: Jak wygl¹da³ ten cz³owiek, który wyszed³ wam naprzeciw i powiedzia³ do was te s³owa? </v>
+<v n="8"> Odpowiedzieli mu: By³ to ow³osiony mê¿czyzna, przepasany skórzanym pasem na biodrach. I powiedzia³: To Eliasz Tiszbita. </v>
+<v n="9"> Pos³a³ wiêc do niego piêædziesi¹tnika wraz z jego piêædziesiêcioma. Ten podszed³ do niego, a oto siedzia³ na szczycie góry. Powiedzia³ mu: Mê¿u Bo¿y, król rozkaza³, abyœ zszed³. </v>
+<v n="10"> Eliasz zaœ odpowiedzia³ piêædziesi¹tnikowi: Jeœli jestem mê¿em Bo¿ym, niech ogieñ spadnie z nieba i poch³onie ciebie oraz twoich piêædziesiêciu. Wtedy spad³ ogieñ z nieba i poch³on¹³ go oraz jego piêædziesiêciu. </v>
+<v n="11"> Znowu pos³a³ do niego drugiego piêædziesi¹tnika wraz z jego piêædziesiêcioma. Ten powiedzia³ do niego: Mê¿u Bo¿y, tak mówi król: ZejdŸ natychmiast. </v>
+<v n="12"> A Eliasz odpowiedzia³ mu: Jeœli jestem mê¿em Bo¿ym, niech spadnie ogieñ z nieba i poch³onie ciebie oraz twoich piêædziesiêciu. Wtedy ogieñ Bo¿y spad³ z nieba i poch³on¹³ go oraz jego piêædziesiêciu. </v>
+<v n="13"> Wtedy znowu pos³a³ trzeciego piêædziesi¹tnika wraz z jego piêædziesiêcioma. Poszed³ wiêc trzeci piêædziesi¹tnik, a gdy przyby³, upad³ na kolana przed Eliaszem i poprosi³ go pokornie: Mê¿u Bo¿y, proszê, niech moje ¿ycie i ¿ycie twoich piêædziesiêciu s³ug bêdzie cenne w twoich oczach. </v>
+<v n="14"> Oto ogieñ spad³ z nieba i poch³on¹³ dwóch poprzednich piêædziesi¹tników wraz z ich piêædziesiêcioma. Teraz wiêc niech moje ¿ycie bêdzie cenne w twoich oczach. </v>
+<v n="15"> Wtedy Anio³ PANA powiedzia³ do Eliasza: ZejdŸ z nim, nie bój siê go. Wsta³ wiêc i zszed³ z nim do króla. </v>
+<v n="16"> I powiedzia³ mu: Tak mówi PAN: Poniewa¿ wys³a³eœ pos³añców, aby radziæ siê Belzebuba, boga Ekronu, jakby nie by³o Boga w Izraelu, którego mo¿na pytaæ o jego s³owo, z tego powodu z ³o¿a, na którym siê po³o¿y³eœ, nie wstaniesz, ale na pewno umrzesz. </v>
+<v n="17"> Umar³ wiêc zgodnie ze s³owem PANA, które wypowiedzia³ Eliasz. A poniewa¿ nie mia³ syna, królowa³ w jego miejsce Joram – w drugim roku Jorama, syna Jehoszafata, króla Judy. </v>
+<v n="18"> A pozosta³e dzieje Achazjasza, które czyni³, czy nie s¹ zapisane w ksiêdze kronik królów Izraela? </v>
+</c>

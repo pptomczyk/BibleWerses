@@ -1,0 +1,12 @@
+<v n="1"> Wtedy Filistyni zebrali wszystkie swoje wojska w Afek. Izraelici zaœ rozbili obóz przy Ÿródle, które jest w Jizreel. </v>
+<v n="2"> A ksi¹¿êta filistyñscy ci¹gnêli setkami i tysi¹cami, a Dawid i jego ludzie ci¹gnêli na koñcu z Akiszem. </v>
+<v n="3"> Ksi¹¿êta filistyñscy zapytali: Po co tutaj ci Hebrajczycy? Akisz odpowiedzia³ ksi¹¿êtom filistyñskim: Czy¿ to nie jest Dawid, s³uga Saula, króla Izraela, który by³ przy mnie przez te dni, nawet przez te lata, a nie znalaz³em w nim ¿adnej winy od tego dnia, kiedy zbieg³ do mnie, a¿ po dziœ dzieñ? </v>
+<v n="4"> Lecz ksi¹¿êta filistyñscy rozgniewali siê i powiedzieli mu: Odpraw tego cz³owieka i niech wróci do swego miejsca, które mu wyznaczy³eœ. Niech nie idzie z nami do bitwy, aby w czasie walki nie sta³ siê naszym przeciwnikiem. Czym bowiem móg³by odzyskaæ ³askê u swego pana jak nie g³owami tych mê¿czyzn? </v>
+<v n="5"> Czy¿ to nie jest ten Dawid, o którym œpiewano wœród tañców: Pobi³ Saul swoje tysi¹ce, lecz Dawid swoich dziesi¹tki tysiêcy? </v>
+<v n="6"> Wtedy Akisz wezwa³ Dawida i powiedzia³ mu: Jak ¿yje PAN, jesteœ prawy, a twoje wychodzenie ze mn¹ z obozu i wchodzenie do niego by³o dobre w moich oczach. Nie znalaz³em bowiem w tobie nic z³ego od dnia, kiedy przyby³eœ do mnie, a¿ do dziœ. Nie podobasz siê jednak ksi¹¿êtom. </v>
+<v n="7"> Teraz wiêc zawróæ i idŸ w pokoju, byœ nie czyni³ niczego, co by³oby z³e w oczach ksi¹¿¹t filistyñskich. </v>
+<v n="8"> Dawid powiedzia³ do Akisza: Có¿ uczyni³em? Co znalaz³eœ u swego s³ugi od dnia, w którym by³em przy tobie, a¿ do dziœ, ¿e nie mogê wyruszyæ do walki z wrogami swego pana, króla? </v>
+<v n="9"> Akisz odpowiedzia³ Dawidowi: Wiem, ¿e jesteœ dobry w moich oczach, jak anio³ Boga, ale ksi¹¿êta filistyñscy powiedzieli: Niech nie wyrusza z nami do bitwy. </v>
+<v n="10"> Dlatego wstañ wczeœnie rano wraz ze s³ugami swego pana, którzy przyszli z tob¹. Wstañcie skoro œwit i odejdŸcie. </v>
+<v n="11"> Dawid wraz ze swoimi ludŸmi wsta³ wiêc wczeœnie rano, aby odejœæ i powróciæ do ziemi Filistynów. Filistyni zaœ nadci¹gnêli do Jizreel. </v>
+</c>

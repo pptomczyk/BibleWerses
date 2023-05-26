@@ -1,0 +1,14 @@
+<v n="1"> A gdy nadszed³ siódmy miesi¹c, a synowie Izraela znajdowali siê w miastach, zgromadzi³ siê lud jak jeden m¹¿ w Jerozolimie. </v>
+<v n="2"> Wtedy powsta³ Jeszua, syn Jocadaka, ze swymi braæmi kap³anami, oraz Zorobabel, syn Szealtiela, wraz ze swymi braæmi, i zbudowali o³tarz Boga Izraela, aby na nim sk³adaæ ca³opalenia, jak jest napisane w Prawie Moj¿esza, mê¿a Bo¿ego. </v>
+<v n="3"> Potem postawili o³tarz na swoich fundamentach i chocia¿ bali siê s¹siednich narodów, sk³adali na nim PANU ca³opalenia – rano i wieczorem. </v>
+<v n="4"> Obchodzili te¿ Œwiêto Namiotów, jak jest napisane, i sk³adali codzienne ca³opalenia w liczbie ustalonej wed³ug zwyczaju na ka¿dy dzieñ; </v>
+<v n="5"> Potem sk³adali ca³opalenie nieustanne – zarówno w dni nowiu, jak i ka¿de œwiêto poœwiêcone PANU – oraz dary od ka¿dego, kto sk³ada³ PANU dobrowoln¹ ofiarê. </v>
+<v n="6"> Od pierwszego dnia siódmego miesi¹ca zaczêli sk³adaæ PANU ca³opalenia, chocia¿ fundamenty œwi¹tyni jeszcze nie zosta³y po³o¿one. </v>
+<v n="7"> Dali te¿ pieni¹dze kamieniarzom i cieœlom oraz ¿ywnoœæ, napój i oliwê Sydoñczykom i Tyryjczykom, aby przywozili drzewo cedrowe z Libanu morzem do Jafy, zgodnie z zezwoleniem Cyrusa, króla Persji. </v>
+<v n="8"> A w drugim roku po ich przybyciu do domu Bo¿ego w Jerozolimie, w drugim miesi¹cu, Zorobabel, syn Szealtiela, i Jeszua, syn Jocadaka, i pozostali ich bracia kap³ani i Lewici oraz wszyscy, którzy powrócili z niewoli do Jerozolimy, zaczêli odbudowê, a ustanowili Lewitów od dwudziestu lat wzwy¿, aby byli nadzorcami robót wokó³ domu PANA. </v>
+<v n="9"> I Jeszua, jego synowie i bracia: Kadmiel i jego synowie, synowie Judy, stanêli jak jeden m¹¿, aby kierowaæ tymi, którzy pracowali przy budowie domu Bo¿ego: synami Chenadada, ich synami i ich braæmi, Lewitami. </v>
+<v n="10"> A gdy budowniczowie po³o¿yli fundamenty œwi¹tyni PANA, postawili kap³anów, ubranych w szaty i z tr¹bami, oraz Lewitów, synów Asafa, z cymba³ami, aby chwaliæ PANA zgodnie z postanowieniem Dawida, króla Izraela. </v>
+<v n="11"> I œpiewali jedni po drugich, chwal¹c PANA i dziêkuj¹c mu za to, ¿e jest dobry – ¿e jego mi³osierdzie nad Izraelem trwa na wieki. Ca³y lud wznosi³ g³oœny okrzyk, gdy chwali³ PANA za to, ¿e zosta³y po³o¿one fundamenty domu PANA. </v>
+<v n="12"> Lecz wielu kap³anów, Lewitów i naczelników rodów, którzy byli starcami i widzieli tamten pierwszy dom, g³oœno p³aka³o, gdy na ich oczach zak³adano fundamenty tego domu, wielu natomiast innych g³oœno krzycza³o z radoœci; </v>
+<v n="13"> Tak ¿e lud nie móg³ odró¿niæ g³oœnego krzyku radoœci od g³oœnego p³aczu ludu. Lud bowiem wznosi³ tak wielki okrzyk, ¿e by³o go s³ychaæ z daleka. </v>
+</c>

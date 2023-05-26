@@ -1,0 +1,13 @@
+<v n="1"> Dlaczego poganie siê buntuj¹, a narody knuj¹ pró¿ne zamys³y? </v>
+<v n="2"> Królowie ziemscy powstaj¹, a w³adcy naradzaj¹ siê wspólnie przeciwko PANU i jego pomazañcowi, mówi¹c: </v>
+<v n="3"> Zerwijmy ich wiêzy i zrzuæmy z siebie ich pêta. </v>
+<v n="4"> Lecz ten, który mieszka w niebie, bêdzie siê œmia³, Pan bêdzie z nich szydzi³. </v>
+<v n="5"> Wtedy przemówi do nich w swoim gniewie i sw¹ zapalczywoœci¹ ich zatrwo¿y: </v>
+<v n="6"> Ja ustanowi³em mojego króla na Syjonie, mojej œwiêtej górze. </v>
+<v n="7"> Og³oszê dekret: PAN powiedzia³ do mnie: Ty jesteœ moim Synem, ja ciebie dziœ zrodzi³em. </v>
+<v n="8"> Poproœ mnie, a dam ci narody w dziedzictwo i krañce ziemi na w³asnoœæ. </v>
+<v n="9"> Pot³uczesz je lask¹ ¿elazn¹, jak naczynie gliniane je pokruszysz. </v>
+<v n="10"> Teraz wiêc, królowie, zrozumcie, przyjmijcie pouczenie, sêdziowie ziemi! </v>
+<v n="11"> S³u¿cie PANU z bojaŸni¹ i radujcie siê z dr¿eniem. </v>
+<v n="12"> Poca³ujcie Syna, by siê nie rozgniewa³ i abyœcie nie zginêli w drodze, gdyby jego gniew choæ trochê siê zapali³. B³ogos³awieni wszyscy, którzy mu ufaj¹. </v>
+</c>

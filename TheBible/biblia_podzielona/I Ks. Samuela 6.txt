@@ -1,0 +1,22 @@
+<v n="1"> I arka PANA przebywa³a w ziemi Filistynów przez siedem miesiêcy. </v>
+<v n="2"> Wtedy Filistyni zwo³ali kap³anów i wró¿bitów i zapytali: Co mamy zrobiæ z ark¹ PANA? Powiedzcie nam, jak mamy j¹ odes³aæ na swoje miejsce? </v>
+<v n="3"> Ci odpowiedzieli: Jeœli odsy³acie arkê Boga Izraela, nie odsy³ajcie jej z niczym, lecz koniecznie oddajcie mu ofiarê za grzech: wtedy bêdziecie uzdrowieni i dowiecie siê, czemu jego rêka nie odst¹pi³a od was. </v>
+<v n="4"> I powiedzieli: Jak¹ ofiarê za grzech mamy mu z³o¿yæ? Odpowiedzieli: Wed³ug liczby ksi¹¿¹t filistyñskich piêæ wrzodów z³otych i piêæ myszy z³otych. Ta sama bowiem plaga dotknê³a was wszystkich i waszych ksi¹¿¹t. </v>
+<v n="5"> I sporz¹dzicie podobizny waszych wrzodów i podobizny waszych myszy, które niszcz¹ ziemiê, i oddacie chwa³ê Bogu Izraela. Mo¿e odejmie swoj¹ rêkê od was, waszych bogów i waszej ziemi. </v>
+<v n="6"> Dlaczego zatwardzacie swoje serca tak, jak Egipcjanie i faraon zatwardzali swoje serca? Czy nie dopiero wtedy, gdy czyni³ wœród nich cudowne rzeczy, wypuœcili ich, aby wyszli? </v>
+<v n="7"> Teraz wiêc przygotujcie nowy wóz, weŸcie dwie mleczne krowy, na które nie na³o¿ono jarzma, i zaprzêgnijcie te krowy do wozu, a ich cielêta odprowadŸcie od nich do domu. </v>
+<v n="8"> WeŸcie te¿ arkê PANA i w³ó¿cie j¹ na wóz; a z³ote przedmioty, które oddajecie jako ofiarê za grzech, w³ó¿cie do skrzynki obok niej. Po czym puœæcie go i niech jedzie. </v>
+<v n="9"> Wtedy patrzcie – jeœli pojedzie drog¹ w³asnej granicy do Bet-Szemesz, to PAN wyrz¹dzi³ nam to wielkie z³o. Lecz jeœli nie, to bêdziemy wiedzieli, ¿e to nie jego rêka nas dotknê³a, ale to, co nas spotka³o, by³o przypadkiem. </v>
+<v n="10"> I ci ludzie tak uczynili: wziêli dwie mleczne krowy i zaprzêgli je do wozu, a ich cielêta zamknêli w domu. </v>
+<v n="11"> Potem w³o¿yli arkê PANA na wóz oraz skrzynkê ze z³otymi myszami i z podobiznami swoich wrzodów. </v>
+<v n="12"> I krowy posz³y prost¹ drog¹ ku Bet-Szemesz. Sz³y jednym goœciñcem, a id¹c, rycza³y i nie zbacza³y ani w prawo, ani w lewo. A ksi¹¿êta filistyñscy szli za nimi a¿ do granicy Bet-Szemesz. </v>
+<v n="13"> W tym czasie mieszkañcy Bet-Szemesz ¿êli pszenicê w dolinie, a gdy podnieœli swe oczy, zobaczyli arkê i uradowali siê na jej widok. </v>
+<v n="14"> Wóz zaœ dotar³ na pole Jozuego z Bet-Szemesz i tam siê zatrzyma³, tam te¿ by³ wielki kamieñ. Wtedy por¹bali drewno z tego wozu i z³o¿yli PANU krowy na ofiarê ca³opaln¹. </v>
+<v n="15"> Lewici zdjêli arkê PANA oraz skrzynkê obok niej, w której by³y z³ote przedmioty, i postawili to na tym wielkim kamieniu. Ludzie zaœ z Bet-Szemesz w tym dniu z³o¿yli PANU ca³opalenia i ofiary. </v>
+<v n="16"> Gdy piêciu ksi¹¿¹t filistyñskich zobaczy³o to wszystko, tego samego dnia powrócili do Ekronu. </v>
+<v n="17"> A oto z³ote wrzody, które Filistyni oddali PANU jako ofiarê za grzech: za Aszdod – jeden, za Gazê – jeden, za Aszkelon – jeden, za Gat – jeden i za Ekron – jeden. </v>
+<v n="18"> Dodatkowo z³ote myszy wed³ug liczby wszystkich miast filistyñskich nale¿¹cych do piêciu ksi¹¿¹t, zarówno warownych miast, jak i wiosek bez muru, i a¿ do tego wielkiego kamienia, na którym postawili arkê PANA. Znajduje siê a¿ do dziœ na polu Jozuego z Bet-Szemesz. </v>
+<v n="19"> Lecz PAN wytraci³ spoœród ludzi z Bet-Szemesz, poniewa¿ zagl¹dali do arki PANA, zabi³ z ludu piêædziesi¹t tysiêcy siedemdziesi¹t osób. I lud ich op³akiwa³, poniewa¿ PAN zada³ ludowi wielk¹ klêskê. </v>
+<v n="20"> Ludzie z Bet-Szemesz mówili: Któ¿ zdo³a ostaæ siê przed tym œwiêtym PANEM Bogiem? I do kogo on pójdzie od nas? </v>
+<v n="21"> Wyprawili wiêc pos³añców do mieszkañców Kiriat-Jearim z wiadomoœci¹: Filistyni zwrócili arkê PANA. PrzyjdŸcie i zabierzcie j¹ do siebie. </v>
+</c>

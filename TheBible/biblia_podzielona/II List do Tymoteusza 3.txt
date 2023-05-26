@@ -1,0 +1,18 @@
+<v n="1"> A to wiedz, ¿e w ostatecznych dniach nastan¹ trudne czasy. </v>
+<v n="2"> Ludzie bowiem bêd¹ samolubni, chciwi, che³pliwi, pyszni, bluŸni¹cy, niepos³uszni rodzicom, niewdziêczni, bezbo¿ni; </v>
+<v n="3"> Bez naturalnej mi³oœci, niedotrzymuj¹cy s³owa, oszczercy, niepowœci¹gliwi, okrutni, niemi³uj¹cy dobrych; </v>
+<v n="4"> Zdrajcy, porywczy, nadêci, mi³uj¹cy bardziej rozkosze ni¿ Boga; </v>
+<v n="5"> Przybieraj¹cy pozór pobo¿noœci, ale wyrzekaj¹cy siê jej mocy. Takich ludzi unikaj. </v>
+<v n="6"> Z takich bowiem s¹ ci, którzy wkradaj¹ siê do domów i usidlaj¹ naiwne kobietki obci¹¿one grzechami, wiedzione przez rozmaite po¿¹dliwoœci; </v>
+<v n="7"> Które zawsze siê ucz¹, a nigdy nie mog¹ dojœæ do poznania prawdy. </v>
+<v n="8"> Jak Jannes i Jambres sprzeciwiali siê Moj¿eszowi, tak te¿ oni sprzeciwiaj¹ siê prawdzie, ludzie o wypaczonym umyœle, odrzuceni jeœli chodzi o wiarê. </v>
+<v n="9"> Lecz daleko nie zajd¹, bo ich g³upota bêdzie jawna dla wszystkich, jak to siê sta³o i z tamtymi. </v>
+<v n="10"> Ale ty poj¹³eœ moj¹ naukê, sposób ¿ycia, d¹¿enia, wiarê, wytrwa³oœæ, mi³oœæ i cierpliwoœæ; </v>
+<v n="11"> Przeœladowania, cierpienia, które mnie spotka³y w Antiochii, w Ikonium i Listrze – przeœladowania, które znios³em, a ze wszystkich wyrwa³ mnie Pan. </v>
+<v n="12"> Tak i wszyscy, którzy chc¹ ¿yæ pobo¿nie w Chrystusie Jezusie, bêd¹ przeœladowani. </v>
+<v n="13"> Lecz ludzie Ÿli i zwodziciele coraz bardziej bêd¹ brn¹æ w z³o, b³¹dz¹c i innych wprowadzaj¹c w b³¹d. </v>
+<v n="14"> Ty zaœ trwaj w tym, czego siê nauczy³eœ i co ci powierzono, wiedz¹c, od kogo siê tego nauczy³eœ; </v>
+<v n="15"> I poniewa¿ od dziecka znasz Pisma œwiête, które ciê mog¹ uczyniæ m¹drym ku zbawieniu przez wiarê, która jest w Chrystusie Jezusie. </v>
+<v n="16"> Ca³e Pismo jest natchnione przez Boga i po¿yteczne do nauki, do strofowania, do poprawiania, do wychowywania w sprawiedliwoœci; </v>
+<v n="17"> Aby cz³owiek Bo¿y by³ doskona³y, do wszelkiego dobrego dzie³a w pe³ni przygotowany. </v>
+</c>

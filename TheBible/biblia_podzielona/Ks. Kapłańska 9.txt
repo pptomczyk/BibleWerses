@@ -1,0 +1,25 @@
+<v n="1"> A ósmego dnia Moj¿esz wezwa³ Aarona, jego synów i starszych Izraela. </v>
+<v n="2"> I powiedzia³ do Aarona: WeŸ sobie m³odego cielca na ofiarê za grzech i barana na ca³opalenie, oba bez skazy, i z³ó¿ je w ofierze przed PANEM. </v>
+<v n="3"> A do synów Izraela powiesz: WeŸcie koz³a z kóz na ofiarê za grzech oraz cielca i barana, jednoroczne i bez skazy, na ca³opalenie; </v>
+<v n="4"> Tak¿e wo³u i barana na ofiary pojednawcze, by z³o¿yæ je przed PANEM, i ofiarê pokarmow¹ zmieszan¹ z oliw¹; bo dziœ PAN wam siê uka¿e. </v>
+<v n="5"> I przyprowadzili to, co Moj¿esz rozkaza³, przed Namiot Zgromadzenia. A ca³y lud zbli¿y³ siê i stan¹³ przed PANEM. </v>
+<v n="6"> Wtedy Moj¿esz powiedzia³: Oto co PAN nakaza³ wam uczyniæ; a uka¿e siê wam chwa³a PANA. </v>
+<v n="7"> Do Aarona zaœ Moj¿esz powiedzia³: Zbli¿ siê do o³tarza i z³ó¿ swoj¹ ofiarê za grzech i swoje ca³opalenie, i dokonaj przeb³agania za siebie i lud. Z³ó¿ te¿ ofiarê ludu i dokonaj za niego przeb³agania, jak PAN rozkaza³. </v>
+<v n="8"> Aaron zbli¿y³ siê wiêc do o³tarza i zabi³ cielca na ofiarê za grzech za siebie. </v>
+<v n="9"> I synowie Aarona podali mu krew, a on umoczy³ swój palec we krwi i pomaza³ ni¹ rogi o³tarza, a resztê krwi wyla³ u podstawy o³tarza; </v>
+<v n="10"> Ale t³uszcz, nerki i p³at t³uszczu na w¹trobie z ofiary za grzech spali³ na o³tarzu, jak PAN rozkaza³ Moj¿eszowi; </v>
+<v n="11"> Miêso zaœ i skórê spali³ w ogniu poza obozem. </v>
+<v n="12"> Zabi³ te¿ ofiarê ca³opaln¹, a synowie Aarona podali mu krew, któr¹ pokropi³ o³tarz doko³a. </v>
+<v n="13"> Przynieœli mu te¿ ofiarê ca³opaln¹ podzielon¹ na czêœci wraz z g³ow¹, a on spali³ to na o³tarzu; </v>
+<v n="14"> Obmy³ te¿ wnêtrznoœci oraz nogi i spali³ je z ofiar¹ ca³opaln¹ na o³tarzu. </v>
+<v n="15"> Potem przyprowadzi³ ofiarê ludu. Wzi¹³ koz³a przeznaczonego na ofiarê za grzech za lud, zabi³ go i z³o¿y³ na ofiarê za grzech, tak jak poprzednio. </v>
+<v n="16"> Przyprowadzi³ te¿ ofiarê ca³opaln¹ i uczyni³ z ni¹ wed³ug przepisu. </v>
+<v n="17"> Przyprowadzi³ te¿ ofiarê pokarmow¹. Wzi¹³ z niej pe³n¹ garœæ i spali³ na o³tarzu, oprócz ofiary ca³opalnej porannej. </v>
+<v n="18"> Zabi³ te¿ wo³u i barana jako ofiarê pojednawcz¹ za lud. I synowie Aarona podali mu krew, któr¹ pokropi³ o³tarz doko³a. </v>
+<v n="19"> Podali mu tak¿e t³uszcz z wo³u i barana, ogon, t³uszcz pokrywaj¹cy wnêtrznoœci oraz nerki i p³at t³uszczu na w¹trobie. </v>
+<v n="20"> W³o¿yli te¿ t³uszcz na mostkach, a on spali³ t³uszcz na o³tarzu; </v>
+<v n="21"> Mostki zaœ i praw¹ ³opatkê Aaron ko³ysa³ na ofiarê ko³ysan¹ przed PANEM, jak Moj¿esz nakaza³. </v>
+<v n="22"> Potem Aaron podniós³ rêce w stronê ludu i pob³ogos³awi³ go, a po z³o¿eniu ofiary za grzech, ofiary ca³opalnej i ofiary pojednawczej zszed³ na dó³. </v>
+<v n="23"> Wtedy Moj¿esz i Aaron weszli do Namiotu Zgromadzenia, potem wyszli i pob³ogos³awili lud. I chwa³a PANA ukaza³a siê ca³emu ludowi. </v>
+<v n="24"> I wyszed³ ogieñ sprzed PANA, i strawi³ na o³tarzu ofiarê ca³opaln¹ oraz t³uszcz. A gdy ca³y lud to ujrza³, krzykn¹³ z radoœci i upad³ na twarz. </v>
+</c>

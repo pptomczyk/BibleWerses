@@ -1,0 +1,26 @@
+<v n="1"> Brzemiê Doliny Widzenia. Co ci siê sta³o, ¿e ca³a wyst¹pi³aœ na dachy? </v>
+<v n="2"> Miasto pe³ne wrzasku i zgie³ku, miasto weso³e! Twoi zabici nie padli od miecza ani nie zginêli w bitwie. </v>
+<v n="3"> Wszyscy twoi dowódcy pierzchli razem, zwi¹zani przez ³uczników. Zostali zwi¹zani razem ci, których znaleziono u ciebie, ci, którzy uciekli z daleka. </v>
+<v n="4"> Dlatego powiedzia³em: Odwróæcie swój wzrok ode mnie, abym gorzko zap³aka³; nie próbujcie mnie pocieszaæ z powodu spustoszenia córki mojego ludu. </v>
+<v n="5"> To jest bowiem dzieñ ucisku, deptania i zamieszania od Pana, BOGA zastêpów, w Dolinie Widzenia, dzieñ burzenia murów i wo³ania na góry. </v>
+<v n="6"> Elam wzi¹³ ko³czan z rydwanami ludu wojennego, a Kir ods³oni³ swoj¹ tarczê. </v>
+<v n="7"> I sta³o siê tak, ¿e najpiêkniejsze doliny by³y pe³ne rydwanów, a jeŸdŸcy ustawili siê potê¿nie przy bramie. </v>
+<v n="8"> I odkryto os³onê Judy, i w tym dniu spogl¹da³eœ na zbrojowniê w Domu Lasu. </v>
+<v n="9"> I spogl¹daliœcie na wy³omy miasta Dawida – na to, ¿e by³y liczne, i zgromadziliœcie wody Dolnej Sadzawki. </v>
+<v n="10"> Policzyliœcie domy w Jerozolimie i burzyliœcie domy, aby wzmocniæ mur. </v>
+<v n="11"> Zrobiliœcie te¿ zbiornik miêdzy dwoma murami na wodê Starej Sadzawki, ale nie spogl¹daliœcie na jej twórcê ani nie widzieliœcie tego, który od dawna j¹ ukszta³towa³. </v>
+<v n="12"> W tym dniu Pan, BÓG zastêpów, wzywa³ do p³aczu i do ¿a³oby, do ostrzy¿enia siê i do przepasania siê worem. </v>
+<v n="13"> A oto radoœæ i wesele, zabijanie wo³ów i owiec, spo¿ywanie miêsa i picie wina: Jedzmy, pijmy, bo jutro umrzemy. </v>
+<v n="14"> Ale PAN zastêpów objawi³ mi to, mówi¹c do mych uszu: Na pewno ta nieprawoœæ nie bêdzie wam przebaczona a¿ do œmierci, mówi Pan, BÓG zastêpów. </v>
+<v n="15"> Tak mówi Pan, BÓG zastêpów: IdŸ, udaj siê do tego skarbnika, do Szebny, prze³o¿onego domu, i powiedz: </v>
+<v n="16"> Co ty tu masz i kogo tu masz, ¿e wyku³eœ sobie w tym miejscu grób? Wyku³eœ sobie grób wysoko, wydr¹¿y³eœ sobie w skale swoje mieszkanie. </v>
+<v n="17"> Oto PAN, który ciê przykry³ jak zacnego cz³owieka i który ciê kosztownie przyoblek³; </v>
+<v n="18"> Tocz¹c ciê, zwinie i rzuci jak kulê w przestronn¹ ziemiê. Tam umrzesz, tam te¿ rydwany twojej chwa³y bêd¹ hañb¹ domu twego pana. </v>
+<v n="19"> Wypêdzê ciê z twego stanowiska, z twego urzêdu œci¹gnê ciê. </v>
+<v n="20"> W tym dniu powo³am swego s³ugê Eliakima, syna Chilkiasza. </v>
+<v n="21"> I ubiorê go w twoj¹ szatê, i przepaszê go twoim pasem, i oddam w jego rêce twoj¹ w³adzê; i bêdzie on ojcem dla mieszkañców Jerozolimy i domu Judy. </v>
+<v n="22"> I po³o¿ê klucz domu Dawida na jego ramieniu; gdy on otworzy, nikt nie zamknie, a gdy zamknie, nikt nie otworzy. </v>
+<v n="23"> I wbijê go jak gwóŸdŸ na miejscu pewnym, a bêdzie tronem chwa³y dla domu swego ojca. </v>
+<v n="24"> I zawiesz¹ na nim ca³a chwa³a domu jego ojca, synowie i córki, wszelkie drobne naczynia, od kubków do wszelkich dzbanów. </v>
+<v n="25"> W tym dniu, mówi PAN zastêpów, gwóŸdŸ, który by³ wbity w miejscu pewnym, zostanie wyjêty i przyciêty, i spadnie; a brzemiê, które wisia³o na nim, zostanie odciête. Tak bowiem PAN to powiedzia³. </v>
+</c>

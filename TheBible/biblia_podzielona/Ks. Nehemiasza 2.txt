@@ -1,0 +1,21 @@
+<v n="1"> I oto zdarzy³o siê w miesi¹cu Nisan, w dwudziestym roku króla Artakserksesa, gdy sta³o przed nim wino, ¿e wzi¹³em je i poda³em królowi, a nigdy przedtem nie by³em taki smutny w jego obecnoœci. </v>
+<v n="2"> Król wiêc zapyta³ mnie: Czemu tak smutno wygl¹dasz, skoro nie jesteœ chory? Nic innego to jak smutek serca. I bardzo siê przerazi³em. </v>
+<v n="3"> I powiedzia³em do króla: Niech król ¿yje na wieki. Jak¿e nie mam wygl¹daæ smutno, gdy miasto, dom grobów moich ojców, jest zburzone, a jego bramy poch³on¹³ ogieñ? </v>
+<v n="4"> Król ponownie zapyta³ mnie: O co chcia³byœ prosiæ? Modli³em siê wiêc do Boga niebios. </v>
+<v n="5"> Potem powiedzia³em do króla: Jeœli król uwa¿a to za dobre i jeœli twój s³uga znalaz³ ³askê w twoich oczach, proszê, abyœ mnie pos³a³ do Judy, do miasta grobów moich ojców, abym je odbudowa³. </v>
+<v n="6"> Król – obok którego siedzia³a królowa – zapyta³ mnie: Jak d³ugo potrwa twoja podró¿ i kiedy powrócisz? Gdy poda³em mu termin, spodoba³o siê to królowi i pos³a³ mnie. </v>
+<v n="7"> Potem powiedzia³em królowi: Jeœli król uwa¿a to za dobre, niech mi dadz¹ listy do namiestników zarzecza, aby mnie przeprowadzili, a¿ przyjdê do Judy; </v>
+<v n="8"> Tak¿e list do Asafa, dozorcy lasu królewskiego, aby mi da³ drewno na belki do bram pa³acu przy domu, na mur miejski i na dom, do którego siê wprowadzê. Król wiêc da³ mi listy, gdy¿ by³a nade mn¹ ³askawa rêka mego Boga. </v>
+<v n="9"> A gdy przyszed³em do namiestników zarzecza, odda³em im listy króla. A król wyprawi³ ze mn¹ dowódców wojskowych i jeŸdŸców. </v>
+<v n="10"> Kiedy Sanballat Choronita i Tobiasz, s³uga ammonicki, us³yszeli o tym, bardzo im siê nie spodoba³o to, ¿e przyszed³ cz³owiek, który bêdzie zabiega³ o dobro synów Izraela. </v>
+<v n="11"> Gdy wiêc przyszed³em do Jerozolimy, spêdzi³em tam trzy dni. </v>
+<v n="12"> Potem wsta³em w nocy, ja i kilku mê¿czyzn ze mn¹ – a nikomu nie wyjawi³em, co mój Bóg po³o¿y³ mi na sercu, abym uczyni³ w Jerozolimie, nie mia³em te¿ ze sob¹ ¿adnego zwierzêcia oprócz tego, na którym jecha³em; </v>
+<v n="13"> I wyjecha³em noc¹ przez Bramê nad Dolin¹ w kierunku ród³a Smoczego do Bramy Gnojnej, i ogl¹da³em mury jerozolimskie, które by³y zburzone, a których bramy by³y strawione ogniem. </v>
+<v n="14"> Potem dotar³em do Bramy ródlanej i do Stawu Królewskiego, gdzie dla zwierzêcia, na którym jecha³em, nie by³o ju¿ przejœcia. </v>
+<v n="15"> Jecha³em wiêc noc¹ przez potok i ogl¹da³em mur, po czym zawróci³em i przejecha³em przez Bramê nad Dolin¹, i tak powróci³em. </v>
+<v n="16"> Ale prze³o¿eni nie wiedzieli, dok¹d siê uda³em ani co uczyni³em. Dotychczas bowiem nie oznajmi³em tego ani ¯ydom, ani kap³anom, ani dostojnikom, ani prze³o¿onym, ani ¿adnemu z budowniczych. </v>
+<v n="17"> Wtedy powiedzia³em do nich: Widzicie, w jakiej niedoli siê znajdujemy, Jerozolima jest spustoszona i jej bramy spalone s¹ ogniem. ChodŸcie i odbudujmy mur Jerozolimy, abyœmy ju¿ nie byli zhañbieni. </v>
+<v n="18"> A gdy opowiedzia³em im o tym, jak ³askawa rêka mego Boga by³a nade mn¹, tak¿e o s³owach, które wypowiedzia³ do mnie król, powiedzieli: Wstañmy i budujmy. I zachêcali siê do tego dobrego dzie³a. </v>
+<v n="19"> Kiedy us³yszeli o tym Sanballat Choronita i Tobiasz, s³uga ammonicki, oraz Geszem Arab, szydzili z nas i wzgardzili nami, mówi¹c: Co to za rzecz, któr¹ robicie? Czy buntujecie siê przeciw królowi? </v>
+<v n="20"> Odpowiedzia³em im: Bóg niebios poszczêœci nam; my wiêc, jego s³udzy, powstaniemy i odbudujemy. Wy zaœ nie macie ani dzia³u, ani prawa, ani pami¹tki w Jerozolimie. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> S³owo PANA, które dosz³o do Joela, syna Petuela. </v>
+<v n="2"> S³uchajcie tego, starcy, nak³oñcie ucha wszyscy mieszkañcy tej ziemi. Czy zdarzy³o siê coœ podobnego za waszych dni albo za dni waszych ojców? </v>
+<v n="3"> Opowiadajcie o tym swoim synom, a wasi synowie niech opowiedz¹ swoim synom, a ich synowie przysz³emu pokoleniu. </v>
+<v n="4"> Co zosta³o po g¹sienicy, zjad³a szarañcza, co zosta³o po szarañczy, zjad³a larwa, a co zosta³o po larwie, zjad³o robactwo. </v>
+<v n="5"> Ocknijcie siê, pijani, i p³aczcie; wszyscy, którzy pijecie wino, zawódŸcie z powodu moszczu, bo zosta³ odjêty od waszych ust. </v>
+<v n="6"> Nadci¹gn¹³ bowiem naród do mojej ziemi, mocny i niezliczony, jego zêby to zêby lwa, a zêby trzonowe ma jak srogi lew. </v>
+<v n="7"> Spustoszy³ moj¹ winoroœl i po³upa³ moje drzewo figowe. Odar³ je doszczêtnie i porzuci³ tak, ¿e zbiela³y jego ga³êzie. </v>
+<v n="8"> Lamentuj jak dziewica przepasana worem nad mê¿em swojej m³odoœci. </v>
+<v n="9"> Odjêto ofiarê z pokarmów i z p³ynów od domu PANA; p³acz¹ kap³ani, s³udzy PANA. </v>
+<v n="10"> Pole zosta³o spustoszone i ziemia siê smuci, poniewa¿ zniszczono zbo¿e. Wysech³ moszcz, zginê³a oliwa. </v>
+<v n="11"> ZawstydŸcie siê, rolnicy; zawódŸcie winogrodnicy z powodu pszenicy i jêczmienia, bo przepad³o ¿niwo polne. </v>
+<v n="12"> Usch³a winoroœl i zwiêd³o drzewo figowe; drzewo granatowe, palma, jab³oñ i wszystkie drzewa polne usch³y, bo radoœæ znik³a spoœród synów ludzkich. </v>
+<v n="13"> Przepaszcie siê i p³aczcie, kap³ani. ZawódŸcie, s³udzy o³tarza. PrzyjdŸcie i nocujcie w worach, s³udzy mojego Boga, bo zabrak³o ofiar z pokarmów i p³ynów w domu waszego Boga. </v>
+<v n="14"> Og³oœcie œwiêty post, zwo³ajcie zgromadzenie, zbierzcie starców i wszystkich mieszkañców ziemi w domu PANA, waszego Boga, i wo³ajcie do PANA: </v>
+<v n="15"> Ach, co to za dzieñ! Bliski bowiem jest dzieñ PANA i nadejdzie jak spustoszenie od Wszechmocnego. </v>
+<v n="16"> Czy¿ na naszych oczach nie zginê³a ¿ywnoœæ, a z domu naszego Boga – radoœæ i wesele? </v>
+<v n="17"> Zgni³y ziarna pod swymi skibami, spustoszone s¹ spichlerze, zburzone stodo³y, bo usch³o zbo¿e. </v>
+<v n="18"> Jak¿e ryczy byd³o? B³¹kaj¹ siê stada wo³ów, bo nie maj¹ pastwisk, nawet i trzody owiec wyginê³y. </v>
+<v n="19"> Do ciebie wo³am, PANIE, bo ogieñ po¿ar³ pastwiska na pustyni, a p³omieñ spali³ wszystkie drzewa polne; </v>
+<v n="20"> Tak¿e i zwierzêta polne rycz¹ do ciebie, poniewa¿ wysch³y strumienie wód, a ogieñ po¿ar³ pastwiska na pustyni. </v>
+</c>

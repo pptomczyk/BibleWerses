@@ -1,0 +1,21 @@
+<v n="1"> A gdy spadnie na ciebie to wszystko, b³ogos³awieñstwo i przekleñstwo, które przed³o¿y³em przed tob¹, a wspomnisz je sobie w swym sercu poœród wszystkich narodów, do których PAN, twój Bóg, ciê wypêdzi; </v>
+<v n="2"> I zawrócisz do PANA, swego Boga, i bêdziesz s³ucha³ jego g³osu we wszystkim, co ci dziœ nakazujê, ty i twoi synowie, z ca³ego swego serca i ca³¹ swoj¹ dusz¹; </v>
+<v n="3"> Wtedy PAN, twój Bóg, wyprowadzi ciê z twego wiêzienia i zlituje siê nad tob¹, i przywróci, i zgromadzi ciê ze wszystkich narodów, wœród których PAN, twój Bóg, ciê rozproszy³. </v>
+<v n="4"> Choæby twoi wygnani byli na krañcu nieba, stamt¹d zgromadzi ciê PAN, twój Bóg, i stamt¹d ciê zabierze; </v>
+<v n="5"> I PAN, twój Bóg, przyprowadzi ciê do ziemi, któr¹ odziedziczyli twoi ojcowie, i posi¹dziesz j¹, i bêdzie ci wyœwiadczaæ dobro oraz rozmno¿y ciê bardziej ni¿ twoich przodków. </v>
+<v n="6"> PAN, twój Bóg, obrzeza twoje serce i serce twego potomstwa, abyœ mi³owa³ PANA, swego Boga, z ca³ego swego serca i ca³¹ swoj¹ dusz¹, abyœ ¿y³. </v>
+<v n="7"> I w³o¿y PAN, twój Bóg, wszystkie te przekleñstwa na twoich wrogów i na tych, którzy ciê nienawidz¹ i którzy ciê przeœladowali. </v>
+<v n="8"> A ty zawrócisz i bêdziesz s³ucha³ g³osu PANA i wype³nia³ wszystkie jego przykazania, które ci dziœ nakazujê. </v>
+<v n="9"> I PAN, twój Bóg, poszczêœci tobie w ka¿dej sprawie twych r¹k, w owocu twego ³ona, w owocu twego byd³a i w owocu twej ziemi, ku dobremu. PAN bowiem znowu bêdzie siê cieszy³ tob¹, czyni¹c ci dobro, jak siê cieszy³ twoimi ojcami; </v>
+<v n="10"> Jeœli bêdziesz s³ucha³ g³osu PANA, swego Boga, by przestrzegaæ jego przykazañ i ustaw zapisanych w ksiêdze tego Prawa, i jeœli zawrócisz do PANA, swego Boga, z ca³ego swego serca i ca³¹ swoj¹ dusz¹. </v>
+<v n="11"> To przykazanie bowiem, które ci dziœ nakazujê, nie jest zakryte przed tob¹ ani nie jest zbyt dalekie; </v>
+<v n="12"> Nie jest w niebie, byœ mia³ mówiæ: Któ¿ dla nas wst¹pi do nieba i przyniesie je nam, i opowie je nam, abyœmy je wype³niali? </v>
+<v n="13"> Nie jest te¿ ono za morzem, byœ mia³ mówiæ: Któ¿ dla nas pop³ynie za morze i przyniesie je nam, i opowie je nam, abyœmy je wype³niali. </v>
+<v n="14"> Lecz to s³owo jest bardzo blisko ciebie, w twoich ustach i w twoim sercu, abyœ je wype³nia³. </v>
+<v n="15"> Oto dziœ po³o¿y³em przed tob¹ ¿ycie i dobro oraz œmieræ i z³o; </v>
+<v n="16"> Gdy¿ dziœ ci nakazujê, abyœ mi³owa³ PANA, swego Boga, i chodzi³ jego drogami, i przestrzega³ jego przykazañ, ustaw i praw, abyœ ¿y³ i rozmno¿y³ siê, i PAN, twój Bóg, bêdzie ci b³ogos³awi³ w ziemi, do której idziesz, aby j¹ posi¹œæ. </v>
+<v n="17"> Jeœli zaœ twoje serce odwróci siê i nie pos³uchasz, ale dasz siê odwieœæ, bêdziesz oddawa³ pok³on innym bogom i im s³u¿y³; </v>
+<v n="18"> Oznajmiam wam dziœ, ¿e na pewno zginiecie i nie przed³u¿ycie swych dni na ziemi, do której siê przeprawiasz przez Jordan, aby tam wejœæ i posi¹œæ j¹. </v>
+<v n="19"> Biorê dziœ na œwiadków przeciwko wam niebo i ziemiê, ¿e po³o¿y³em przed tob¹ ¿ycie i œmieræ, b³ogos³awieñstwo i przekleñstwo. Wybierz wiêc ¿ycie, abyœ ¿y³, ty i twoje potomstwo; </v>
+<v n="20"> I mi³owa³ PANA, swego Boga, s³ucha³ jego g³osu i do niego lgn¹³. On bowiem jest twoim ¿yciem i przed³u¿eniem twoich dni, abyœ mieszka³ w ziemi, któr¹ PAN poprzysi¹g³ daæ twoim ojcom: Abrahamowi, Izaakowi i Jakubowi. </v>
+</c>

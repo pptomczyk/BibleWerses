@@ -1,0 +1,20 @@
+<v n="1"> S³owa Jeremiasza, syna Chilkiasza, z rodu kap³anów, którzy byli w Anatot, w ziemi Beniamina; </v>
+<v n="2"> Do którego dosz³o s³owo PANA za dni Jozjasza, syna Amona, króla Judy, w trzynastym roku jego panowania. </v>
+<v n="3"> Dosz³o tak¿e za dni Joakima, syna Jozjasza, króla Judy, a¿ do koñca jedenastego roku Sedekiasza, syna Jozjasza, króla Judy, a¿ do uprowadzenia do niewoli mieszkañców Jerozolimy w pi¹tym miesi¹cu; </v>
+<v n="4"> Dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="5"> Zanim ukszta³towa³em ciê w ³onie, zna³em ciê, zanim wyszed³eœ z ³ona, uœwiêci³em ciê i ustanowi³em prorokiem dla narodów. </v>
+<v n="6"> Wtedy powiedzia³em: Ach, Panie BO¯E! Oto nie umiem mówiæ, bo jestem dzieckiem. </v>
+<v n="7"> Ale PAN powiedzia³ do mnie: Nie mów: Jestem dzieckiem. Pójdziesz bowiem, do kogokolwiek ciê poœlê, i bêdziesz mówi³, cokolwiek ci rozka¿ê. </v>
+<v n="8"> Nie bój siê ich twarzy, bo ja jestem z tob¹, aby ciê wybawiæ, mówi PAN. </v>
+<v n="9"> Wtedy PAN wyci¹gn¹³ swoj¹ rêkê i dotkn¹³ moich ust. I powiedzia³ do mnie PAN: Oto wk³adam moje s³owa do twoich ust. </v>
+<v n="10"> Patrz, dziœ ustanawiam ciê nad narodami i królestwami, abyœ wykorzenia³, burzy³, wytraca³ i niszczy³, byœ budowa³ i sadzi³. </v>
+<v n="11"> Potem dosz³o do mnie s³owo PANA mówi¹ce: Co widzisz, Jeremiaszu? I odpowiedzia³em: Widzê ga³¹zkê migda³owca. </v>
+<v n="12"> I PAN powiedzia³ do mnie: Dobrze widzisz. Ja bowiem przyspieszam swoje s³owo, aby je wykonaæ. </v>
+<v n="13"> Ponownie dosz³o do mnie s³owo PANA mówi¹ce: Co widzisz? Odpowiedzia³em: Widzê wrz¹cy kocio³, a jego przednia strona skierowana jest ku pó³nocy. </v>
+<v n="14"> I PAN powiedzia³ do mnie: Od pó³nocy spadnie nieszczêœcie na wszystkich mieszkañców tej ziemi; </v>
+<v n="15"> Bo oto zwo³am wszystkie rody z królestw pó³nocnych, mówi PAN, i przyjd¹, a ka¿dy z nich ustawi swój tron u wejœcia do bram Jerozolimy, przeciw wszystkim jej murom i przeciw miastom Judy. </v>
+<v n="16"> I og³oszê przeciwko nim moje s¹dy za ca³¹ ich niegodziwoœæ: przeciwko tym, którzy mnie opuœcili, palili kadzid³o innym bogom i oddali pok³on dzie³om swoich r¹k. </v>
+<v n="17"> Dlatego ty przepasz swoje biodra, wstañ i mów do nich wszystko, co ci nakazujê. Nie bój siê ich twarzy, bym ciê nie nape³ni³ lêkiem przed nimi. </v>
+<v n="18"> Oto bowiem ustanawiam ciê dziœ miastem obronnym, ¿elazn¹ kolumn¹ i murem spi¿owym przeciwko ca³ej tej ziemi, przeciwko królom Judy, ich ksi¹¿êtom, ich kap³anom i ludowi tej ziemi. </v>
+<v n="19"> I bêd¹ walczyæ przeciwko tobie, ale ciê nie przemog¹, bo ja jestem z tob¹, mówi PAN, aby ciê wybawiæ. </v>
+</c>

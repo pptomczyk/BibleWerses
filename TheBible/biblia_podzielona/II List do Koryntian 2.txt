@@ -1,0 +1,18 @@
+<v n="1"> A postanowi³em to sobie, aby nie przychodziæ do was znowu w smutku. </v>
+<v n="2"> Jeœli bowiem ja was zasmucam, to któ¿ mo¿e mnie rozweseliæ, jeœli nie ten, którego ja zasmucam? </v>
+<v n="3"> A to wam napisa³em, abym, gdy przyjdê, nie dozna³ smutku od tych, od których powinienem doznawaæ radoœci, bêd¹c pewien co do was wszystkich, ¿e moja radoœæ jest tak¿e wasz¹ radoœci¹. </v>
+<v n="4"> Gdy¿ w wielkim ucisku i utrapieniu serca, wœród wielu ³ez pisa³em do was nie po to, abyœcie siê smucili, ale ¿ebyœcie poznali, jak wielka jest moja mi³oœæ do was. </v>
+<v n="5"> Jeœli wiêc ktoœ spowodowa³ smutek, to nie mnie zasmuci³, ale po czêœci – by nie obci¹¿yæ – was wszystkich. </v>
+<v n="6"> Takiemu wystarczy kara wymierzona przez wielu z was. </v>
+<v n="7"> Tak wiêc przeciwnie, powinniœcie mu raczej przebaczyæ i pocieszyæ go, aby przypadkiem zbytni smutek go nie poch³on¹³. </v>
+<v n="8"> Dlatego proszê was, abyœcie potwierdzili sw¹ mi³oœæ do niego. </v>
+<v n="9"> Po to te¿ pisa³em, aby was wypróbowaæ i siê przekonaæ, czy we wszystkim jesteœcie pos³uszni. </v>
+<v n="10"> A komu wy coœ przebaczacie, temu i ja, gdy¿ i ja, jeœli coœ przebaczy³em temu, któremu przebaczy³em, zrobi³em to ze wzglêdu na was wobec Chrystusa; </v>
+<v n="11"> Aby nas szatan nie podszed³; jego zamys³y bowiem nie s¹ nam nieznane. </v>
+<v n="12"> Gdy zaœ przyby³em do Troady, aby g³osiæ ewangeliê Chrystusa, a drzwi zosta³y mi otwarte w Panu; </v>
+<v n="13"> Nie zazna³em spokoju ducha, bo nie znalaz³em Tytusa, mego brata. Rozstawszy siê wiêc z nimi, wyruszy³em do Macedonii. </v>
+<v n="14"> Lecz dziêki Bogu, który nam zawsze daje zwyciêstwo w Chrystusie i roznosi przez nas woñ swojego poznania w ka¿dym miejscu. </v>
+<v n="15"> Jesteœmy bowiem dla Boga przyjemn¹ woni¹ Chrystusa wœród tych, którzy s¹ zbawieni, i wœród tych, którzy gin¹. </v>
+<v n="16"> Dla jednych woni¹ œmierci ku œmierci, a dla drugich woni¹ ¿ycia ku ¿yciu. Lecz do tego któ¿ jest zdatny? </v>
+<v n="17"> Nie jesteœmy bowiem jak wielu, którzy fa³szuj¹ s³owo Bo¿e, lecz ze szczeroœci, jak od Boga mówimy w Chrystusie przed obliczem Boga. </v>
+</c>

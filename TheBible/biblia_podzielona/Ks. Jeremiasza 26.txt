@@ -1,0 +1,25 @@
+<v n="1"> Na pocz¹tku królowania Joakima, syna Jozjasza, króla Judy, dosz³o to s³owo od PANA mówi¹ce: </v>
+<v n="2"> Tak mówi PAN: Stañ na dziedziñcu domu PANA i mów do wszystkich miast Judy, do tych, którzy przychodz¹ oddaæ pok³on w domu PANA, wszystkie s³owa, które nakazujê ci mówiæ do nich; nie ujmuj ani s³owa. </v>
+<v n="3"> Mo¿e us³uchaj¹ i odwróc¹ siê, ka¿dy od swojej z³ej drogi, abym ¿a³owa³ nieszczêœcia, które zamierza³em im uczyniæ z powodu z³a ich uczynków. </v>
+<v n="4"> I powiesz im: Tak mówi PAN: Jeœli mnie nie us³uchacie, by postêpowaæ wed³ug mojego prawa, które wam przed³o¿y³em; </v>
+<v n="5"> By s³uchaæ s³ów moich s³ug, proroków, których pos³a³em do was, z wczesnym wstawaniem i przes³aniem, a przecie¿ nie us³uchaliœcie; </v>
+<v n="6"> Wtedy post¹piê z tym domem tak jak z Szilo, a to miasto uczyniê przekleñstwem dla wszystkich narodów ziemi. </v>
+<v n="7"> A kap³ani i prorocy oraz ca³y lud s³yszeli Jeremiasza mówi¹cego te s³owa w domu PANA. </v>
+<v n="8"> A gdy Jeremiasz skoñczy³ mówiæ wszystko, co PAN mu nakaza³ powiedzieæ ca³emu ludowi, pojmali go ci kap³ani i prorocy oraz ca³y lud, mówi¹c: Musisz umrzeæ. </v>
+<v n="9"> Czemu prorokowa³eœ w imiê PANA, g³osz¹c: Z tym domem stanie siê jak z Szilo, a to miasto tak spustoszeje, ¿e nie bêdzie w nim mieszkañca? I zgromadzi³ siê ca³y lud przeciwko Jeremiaszowi w domu PANA. </v>
+<v n="10"> Gdy ksi¹¿êta Judy us³yszeli te rzeczy, przyszli z domu królewskiego do domu PANA i zasiedli u wejœcia nowej bramy PANA. </v>
+<v n="11"> Wtedy kap³ani i prorocy powiedzieli do ksi¹¿¹t i do ca³ego ludu: Ten cz³owiek zas³uguje na œmieræ, bo prorokowa³ przeciwko temu miastu, jak to s³yszeliœcie na w³asne uszy. </v>
+<v n="12"> Jeremiasz zaœ odezwa³ siê do wszystkich ksi¹¿¹t i do ca³ego ludu, mówi¹c: PAN mnie pos³a³, abym prorokowa³ przeciw temu domowi i przeciw temu miastu to wszystko, co s³yszeliœcie. </v>
+<v n="13"> Dlatego teraz poprawcie swoje drogi i swoje uczynki i us³uchajcie g³osu PANA, swego Boga, a po¿a³uje PAN tego nieszczêœcia, jakie zapowiedzia³ przeciwko wam. </v>
+<v n="14"> Co do mnie, ja jestem w waszych rêkach, czyñcie ze mn¹ to, co dobre i sprawiedliwe w waszych oczach. </v>
+<v n="15"> Wiedzcie jednak na pewno – jeœli mnie zabijecie, œci¹gniecie krew niewinn¹ na siebie, na to miasto i na jego mieszkañców. Naprawdê bowiem PAN pos³a³ mnie do was, abym mówi³ te wszystkie s³owa do waszych uszu. </v>
+<v n="16"> Wtedy ksi¹¿êta i ca³y lud powiedzieli do kap³anów i do proroków: Ten cz³owiek nie zas³uguje na œmieræ, poniewa¿ przemawia³ do nas w imiê PANA, naszego Boga. </v>
+<v n="17"> Powstali te¿ niektórzy ze starszych tej ziemi i powiedzieli do ca³ego zgromadzenia ludu: </v>
+<v n="18"> Micheasz z Moreszet prorokowa³ za dni Ezechiasza, króla Judy, i mówi³ do ca³ego ludu Judy: Tak mówi PAN zastêpów: Syjon bêdzie zaorany jak pole, Jerozolima stanie siê rumowiskiem, a góra tego domu – jak zalesione wzgórze. </v>
+<v n="19"> Czy zabi³ go Ezechiasz, król Judy, i Juda? Czy nie ulêkli siê PANA i nie modlili siê do PANA tak, ¿e PAN ¿a³owa³ tego nieszczêœcia, jakie zapowiedzia³ przeciwko nim? Przecie¿ œci¹gniemy na nasze dusze wielkie nieszczêœcie. </v>
+<v n="20"> By³ tak¿e cz³owiek, który prorokowa³ w imiê PANA, Uriasz, syn Szemajasza, z Kiriat-Jearim. Prorokowa³ on przeciwko temu miastu i przeciwko tej ziemi zgodnie ze wszystkimi s³owami Jeremiasza. </v>
+<v n="21"> A gdy król Joakim, wszyscy jego wojownicy i wszyscy ksi¹¿êta us³yszeli jego s³owa, król usi³owa³ go zabiæ. Lecz gdy Uriasz o tym us³ysza³, zl¹k³ siê, uciek³ i przyby³ do Egiptu. </v>
+<v n="22"> Ale król Joakim pos³a³ ludzi do Egiptu: Elnatana, syna Akbora, i innych razem z nim do Egiptu. </v>
+<v n="23"> Ci sprowadzili Uriasza z Egiptu i przyprowadzili go do króla Joakima, a ten zabi³ go mieczem i wrzuci³ jego zw³oki do grobów pospólstwa. </v>
+<v n="24"> Natomiast rêka Achikama, syna Szafana, by³a przy Jeremiaszu, aby nie zosta³ wydany w rêce ludu i nie zosta³ zabity. </v>
+</c>

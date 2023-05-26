@@ -1,0 +1,6 @@
+<v n="1"> Psalm Dawida. PANIE, kto bêdzie przebywa³ w twoim przybytku? Kto zamieszka na twojej œwiêtej górze? </v>
+<v n="2"> Ten, kto postêpuje nienagannie i czyni sprawiedliwoœæ, a w swoim sercu mówi prawdê; </v>
+<v n="3"> Kto nie obmawia swym jêzykiem, nie wyrz¹dza bliŸniemu nic z³ego, nie zniewa¿a bliŸniego; </v>
+<v n="4"> Ten, przed którego oczami bezbo¿ny jest wzgardzony, a który szanuje tych, co siê boj¹ PANA; kto, choæ przysiêga na w³asn¹ niekorzyœæ, nie wycofuje siê; </v>
+<v n="5"> Kto swych pieniêdzy nie po¿ycza na lichwê i nie daje siê przekupiæ przeciwko niewinnemu. Kto tak postêpuje, nigdy siê nie zachwieje. </v>
+</c>

@@ -1,0 +1,19 @@
+<v n="1"> A po up³ywie dwudziestu lat, w których Salomon zbudowa³ dom PANA i swój dom; </v>
+<v n="2"> Odbudowa³ te¿ miasta, które Huram zwróci³ Salomonowi, i odda³ je na mieszkanie synom Izraela. </v>
+<v n="3"> Potem Salomon wyruszy³ do Chamat Soby i zdoby³ je. </v>
+<v n="4"> Odbudowa³ te¿ Tadmor na pustyni oraz wszystkie miasta, w których mia³ sk³ady, a które zbudowa³ w Chamat. </v>
+<v n="5"> Odbudowa³ tak¿e Bet-Choron górne i Bet-Choron dolne, miasta warowne, z murami, bramami i ryglami; </v>
+<v n="6"> Równie¿ Baalat i wszystkie miasta, w których Salomon mia³ sk³ady, wszystkie te¿ miasta rydwanów i miasta jeŸdŸców i wszystko to, co mu siê podoba³o wybudowaæ w Jerozolimie, w Libanie i w ca³ej ziemi swego panowania. </v>
+<v n="7"> A wszystkie ludy, które ocala³y spoœród Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów, które nie by³y z Izraela; </v>
+<v n="8"> Lecz stanowi³y potomstwo tych, którzy pozostali po nich w ziemi, a których synowie Izraela nie mogli wytraciæ – te Salomon obci¹¿y³ prac¹ przymusow¹ a¿ do dziœ. </v>
+<v n="9"> Ale z synów Izraela Salomon nie uczyni³ niewolników do swoich prac, byli tylko dzielnymi wojownikami, naczelnikami jego dowódców i prze³o¿onymi nad jego rydwanami i jeŸdŸcami. </v>
+<v n="10"> Ci byli naczelnikami spoœród wodzów, których mia³ król Salomon; by³o ich dwustu piêædziesiêciu, którzy panowali nad ludem. </v>
+<v n="11"> Lecz córkê faraona Salomon przeniós³ z miasta Dawida do domu, który jej zbudowa³. Powiedzia³ bowiem: Moja ¿ona nie bêdzie mieszka³a w domu Dawida, króla Izraela, bo jest œwiêty przez to, ¿e wesz³a do niego arka PANA. </v>
+<v n="12"> Wtedy Salomon z³o¿y³ PANU ca³opalenia na o³tarzu PANA, który zbudowa³ przed przedsionkiem; </v>
+<v n="13"> Zgodnie ze zwyczajem, sk³adaj¹c ka¿dego dnia wed³ug nakazu Moj¿esza, w szabaty, w dni nowiu ksiê¿yca i w uroczyste œwiêta, trzy razy w roku: w Œwiêto Przaœników, w Œwiêto Tygodni i w Œwiêto Namiotów. </v>
+<v n="14"> I ustanowi³ wed³ug rozporz¹dzenia Dawida, swojego ojca, zmiany kap³anów w ich s³u¿bie oraz Lewitów w ich obowi¹zkach, aby chwalili Boga i s³u¿yli przy kap³anach wed³ug ustalonego porz¹dku ka¿dego dnia. OdŸwiernych te¿ ustanowi³ wed³ug ich zmian przy ka¿dej bramie. Taki bowiem by³ rozkaz Dawida, mê¿a Bo¿ego. </v>
+<v n="15"> I nie odst¹piono w ¿adnej sprawie od rozkazu króla dotycz¹cego kap³anów i Lewitów oraz skarbów. </v>
+<v n="16"> I tak zosta³y przygotowane wszystkie dzie³a Salomona od dnia, w którym po³o¿ono fundamenty domu PANA, a¿ do jego ukoñczenia. W ten sposób zosta³ dokoñczony dom PANA. </v>
+<v n="17"> Wtedy Salomon wyruszy³ do Esjon-Geber i do Elot nad brzegiem morza w ziemi Edomu. </v>
+<v n="18"> I Huram za poœrednictwem swoich s³ug, pos³a³ mu okrêty i ¿eglarzy obeznanych z morzem. Wraz ze s³ugami Salomona pop³ynêli do Ofiru, wziêli stamt¹d czterysta piêædziesi¹t talentów z³ota i przywieŸli je do króla Salomona. </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> Potem Dawid odszed³ stamt¹d i uciek³ do jaskini Adullam. Kiedy jego bracia i ca³a rodzina jego ojca us³yszeli o tym, przyszli tam do niego. </v>
+<v n="2"> I zebrali siê wokó³ niego wszyscy, którzy byli uciœnieni, wszyscy, którzy byli zad³u¿eni, oraz wszyscy, którzy byli rozgoryczeni, a on sta³ siê ich przywódc¹. I by³o przy nim oko³o czterystu mê¿czyzn. </v>
+<v n="3"> Stamt¹d Dawid poszed³ do Mispy w Moabie i powiedzia³ do króla Moabu: Pozwól, proszê, by mój ojciec i moja matka przyszli i mieszkali z wami, a¿ siê dowiem, co Bóg ze mn¹ uczyni. </v>
+<v n="4"> Przyprowadzi³ ich wiêc przed króla Moabu i mieszkali u niego przez wszystkie dni, kiedy Dawid przebywa³ w warowni. </v>
+<v n="5"> Potem prorok Gad powiedzia³ do Dawida: Nie pozostawaj w warowni. Wyrusz i wróæ do ziemi judzkiej. Dawid wyruszy³ wiêc i przyby³ do lasu Cheret. </v>
+<v n="6"> W czasie gdy Saul us³ysza³, ¿e pojawi³ siê Dawid oraz ludzie, którzy z nim byli, Saul przebywa³ w Gibea pod drzewem w Rama, z w³óczni¹ w rêku, a wszyscy jego s³udzy stali przy nim. </v>
+<v n="7"> Saul powiedzia³ wiêc do swych s³ug, którzy stali przy nim: S³uchajcie, Beniaminici: Czy syn Jessego da wam wszystkim pola i winnice i czy wszystkich was ustanowi tysi¹cznikami i setnikami? </v>
+<v n="8"> Czy dlatego sprzysiêgliœcie siê wszyscy przeciwko mnie i nie ma nikogo, kto by mi wyjawi³, ¿e mój syn zawar³ przymierze z synem Jessego, i nie ma nikogo wœród was, kto by mi wspó³czu³ i powiadomi³ mnie, ¿e mój syn podburzy³ mego s³ugê przeciwko mnie, aby czyha³ na mnie, jak to jest dzisiaj? </v>
+<v n="9"> Wtedy Doeg Edomita, prze³o¿ony s³ug Saula, odpowiedzia³: Widzia³em syna Jessego, gdy przyszed³ do Nob, do Achimeleka, syna Achituba. </v>
+<v n="10"> Ten radzi³ siê PANA w jego sprawie i da³ mu ¿ywnoœæ, da³ mu te¿ miecz Goliata Filistyna. </v>
+<v n="11"> Wtedy król pos³a³, by wezwaæ kap³ana Achimeleka, syna Achituba, i ca³y dom jego ojca, czyli kap³anów, którzy byli w Nob. I wszyscy oni przyszli do króla. </v>
+<v n="12"> Saul powiedzia³: S³uchaj teraz, synu Achituba. A ten odpowiedzia³: Oto jestem, mój panie. </v>
+<v n="13"> Saul zapyta³ go: Dlaczego sprzysiêgliœcie siê przeciwko mnie, ty i syn Jessego, ¿e da³eœ mu chleb i miecz i radzi³eœ siê Boga w jego sprawie, by powsta³ przeciwko mnie, czyhaj¹c na mnie, jak to jest dzisiaj? </v>
+<v n="14"> Achimelek odpowiedzia³ królowi: I któ¿ spoœród wszystkich twoich s³ug jest tak wierny jak Dawid, ziêæ króla, który wyrusza na twój rozkaz i jest szanowany w twoim domu? </v>
+<v n="15"> Czy¿ dopiero dziœ zacz¹³em radziæ siê Boga w jego sprawie? Dalekie to ode mnie! Niech król nie obci¹¿a swego s³ugi ani ca³ego domu mego ojca o nic takiego. Twój s³uga bowiem nie mia³ o tym wszystkim najmniejszego pojêcia. </v>
+<v n="16"> Król powiedzia³: Musisz umrzeæ, Achimeleku, ty i ca³y dom twego ojca. </v>
+<v n="17"> Potem król nakaza³ s³ugom, którzy stali przy nim: Odwróæcie siê i zabijcie kap³anów PANA, gdy¿ ich rêka tak¿e jest z Dawidem, a chocia¿ wiedzieli, ¿e on uciek³, nie powiadomili mnie. Lecz s³udzy króla nie chcieli podnieœæ rêki na kap³anów PANA i rzuciæ siê na nich. </v>
+<v n="18"> Wtedy król powiedzia³ do Doega: Odwróæ siê i rzuæ na kap³anów. I Doeg Edomita odwróci³ siê i rzuci³ na kap³anów, i zabi³ w tym dniu osiemdziesiêciu piêciu mê¿czyzn nosz¹cych lniany efod. </v>
+<v n="19"> Równie¿ Nob, miasto kap³anów, wybi³ ostrzem miecza: mê¿czyzn i kobiety, dzieci i niemowlêta, wo³y, os³y i owce – wszystko to ostrzem miecza. </v>
+<v n="20"> Uszed³ tylko jeden syn Achimeleka, syna Achituba, imieniem Abiatar, uciek³ on do Dawida. </v>
+<v n="21"> Abiatar zawiadomi³ Dawida, ¿e Saul zabi³ kap³anów PANA. </v>
+<v n="22"> I Dawid powiedzia³ do Abiatara: Wiedzia³em ju¿ tego dnia, gdy by³ tam Doeg Edomita, ¿e z pewnoœci¹ doniesie o tym Saulowi. To ja spowodowa³em œmieræ wszystkich osób domu twego ojca. </v>
+<v n="23"> Zostañ ze mn¹, nie bój siê. Kto bowiem czyha na moje ¿ycie, czyha te¿ na twoje ¿ycie. Lecz u mnie bêdziesz bezpieczny. </v>
+</c>

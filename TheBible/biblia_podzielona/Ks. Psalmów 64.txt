@@ -1,0 +1,11 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. Wys³uchaj, o Bo¿e, mego g³osu, gdy siê modlê; zachowaj moje ¿ycie od strachu przed wrogiem. </v>
+<v n="2"> Ukryj mnie przed tajemn¹ rad¹ z³oczyñców, przed zgraj¹ czyni¹cych nieprawoœæ; </v>
+<v n="3"> Którzy naostrzyli swój jêzyk jak miecz, na³o¿yli swoje strza³y, s³owa jadowite; </v>
+<v n="4"> Aby strzelaæ z ukrycia w niewinnego; strzelaj¹ znienacka i nikogo siê nie boj¹. </v>
+<v n="5"> Utwierdzaj¹ siê w z³ym zamiarze, zmawiaj¹ siê, jak ukryæ pu³apki, i mówi¹: Któ¿ je zobaczy? </v>
+<v n="6"> Szukaj¹ nieprawoœci, starannie jej poszukuj¹; ich wnêtrze i serce s¹ g³êbokie. </v>
+<v n="7"> Ale Bóg wypuœci na nich strza³ê, nagle odnios¹ rany; </v>
+<v n="8"> W³asny jêzyk doprowadzi ich do upadku; wszyscy, którzy ich zobacz¹, uciekn¹. </v>
+<v n="9"> I zlêkn¹ siê wszyscy ludzie, bêd¹ opowiadali o dziele Boga i zrozumiej¹ jego czyny. </v>
+<v n="10"> A sprawiedliwy bêdzie siê weseliæ w PANU i bêdzie mu ufa³; i bêd¹ siê chlubili wszyscy prawego serca. </v>
+</c>

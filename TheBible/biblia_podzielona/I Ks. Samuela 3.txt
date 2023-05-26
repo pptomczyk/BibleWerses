@@ -1,0 +1,22 @@
+<v n="1"> A ch³opiec Samuel s³u¿y³ PANU przed Helim. W tych dniach s³owo PANA by³o drogocenne i nie by³o jawnego widzenia. </v>
+<v n="2"> Pewnego dnia, gdy Heli le¿a³ na swoim miejscu, a jego oczy ju¿ zaczê³y s³abn¹æ i nie móg³ widzieæ; </v>
+<v n="3"> A lampa Bo¿a jeszcze nie zgas³a w œwi¹tyni PANA, gdzie by³a arka Boga, i Samuel te¿ siê po³o¿y³; </v>
+<v n="4"> PAN zawo³a³ Samuela, a on odpowiedzia³: Oto jestem. </v>
+<v n="5"> I przybieg³ do Heliego, i powiedzia³: Oto jestem, gdy¿ mnie wo³a³eœ. A on odpar³: Nie wo³a³em, wróæ i po³ó¿ siê. Poszed³ wiêc i po³o¿y³ siê. </v>
+<v n="6"> PAN ponownie zawo³a³ Samuela. I Samuel wsta³, poszed³ do Heliego i powiedzia³: Oto jestem, gdy¿ mnie wo³a³eœ. On mu odpowiedzia³: Nie wo³a³em, mój synu; wróæ i po³ó¿ siê. </v>
+<v n="7"> A Samuel jeszcze nie zna³ PANA i s³owo PANA nie zosta³o mu jeszcze objawione. </v>
+<v n="8"> I PAN zawo³a³ Samuela po raz trzeci. Wsta³ wiêc, poszed³ do Heliego i powiedzia³: Oto jestem, gdy¿ mnie wo³a³eœ. Wtedy Heli zrozumia³, ¿e PAN wo³a³ ch³opca. </v>
+<v n="9"> I Heli powiedzia³ do Samuela: IdŸ, po³ó¿ siê, a jeœli ciê zawo³a, powiedz: Mów, PANIE, bo twój s³uga s³ucha. Samuel poszed³ wiêc i po³o¿y³ siê na swoim miejscu. </v>
+<v n="10"> Potem PAN przyszed³, stan¹³ i zawo³a³ tak jak poprzednio: Samuelu, Samuelu! I Samuel odpowiedzia³: Mów, bo twój s³uga s³ucha. </v>
+<v n="11"> Wtedy PAN powiedzia³ do Samuela: Oto uczyniê tak¹ rzecz w Izraelu, ¿e ka¿demu, kto o niej us³yszy, zadzwoni w obu uszach. </v>
+<v n="12"> W tym dniu dokonam na Helim wszystkiego, co mówi³em przeciwko jego domowi, od pocz¹tku do koñca. </v>
+<v n="13"> I da³em mu poznaæ, ¿e os¹dzê jego dom na wieki za nieprawoœæ, o której wiedzia³. Jego synowie bowiem postêpowali nikczemnie, a on ich nie poskromi³. </v>
+<v n="14"> Dlatego przysi¹g³em domowi Heliego, ¿e nieprawoœæ domu Heliego nigdy nie bêdzie oczyszczona ¿adn¹ ofiar¹ krwaw¹ ani ofiar¹ pokarmow¹. </v>
+<v n="15"> I Samuel do rana le¿a³, po czym otworzy³ drzwi domu PANA. Samuel jednak ba³ siê oznajmiæ Heliemu o widzeniu. </v>
+<v n="16"> Wtedy Heli zawo³a³ Samuela: Samuelu, synu mój. Ten odpowiedzia³: Oto jestem. </v>
+<v n="17"> I zapyta³: Có¿ to za s³owa, które PAN ci powiedzia³? Nie ukrywaj tego, proszê, przede mn¹. Niech Bóg tak ci uczyni i tamto dorzuci, jeœli ukryjesz przede mn¹ cokolwiek z tego, co ci powiedzia³. </v>
+<v n="18"> Samuel opowiedzia³ mu wiêc wszystko i nie ukry³ nic przed nim. A on odpar³: To PAN. Niech czyni to, co dobre w jego oczach. </v>
+<v n="19"> I Samuel rós³, a PAN by³ z nim i nie pozwoli³ upaœæ na ziemiê ¿adnemu z jego s³ów. </v>
+<v n="20"> A ca³y Izrael od Dan a¿ do Beer-Szeby pozna³, ¿e Samuel sta³ siê wiernym prorokiem PANA. </v>
+<v n="21"> PAN zaœ ukazywa³ siê znowu w Szilo. PAN bowiem objawi³ siê Samuelowi w Szilo przez s³owo PANA. </v>
+</c>

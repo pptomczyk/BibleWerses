@@ -1,0 +1,23 @@
+<v n="1"> Na pocz¹tku królowania Joakima, syna Jozjasza, króla Judy, dosz³o to s³owo do Jeremiasza od PANA mówi¹ce: </v>
+<v n="2"> Tak mówi do mnie PAN: Sporz¹dŸ sobie wiêzy i jarzma i na³ó¿ je na swoj¹ szyjê; </v>
+<v n="3"> Potem poœlij je do króla Edomu, do króla Moabu, do króla Ammonitów, do króla Tyru i do króla Sydonu przez pos³añców, którzy przyjd¹ do Jerozolimy, do Sedekiasza, króla Judy; </v>
+<v n="4"> I rozka¿ im, aby swym panom powiedzieli: Tak mówi PAN zastêpów, Bóg Izraela. Tak powiecie swym panom: </v>
+<v n="5"> Ja uczyni³em ziemiê, cz³owieka i zwierzêta, które s¹ na powierzchni ziemi, swoj¹ wielk¹ moc¹ i wyci¹gniêtym ramieniem, i dajê temu, który w moich oczach ma upodobanie. </v>
+<v n="6"> A teraz da³em te wszystkie ziemie do r¹k Nabuchodonozora, króla Babilonu, mego s³ugi; odda³em mu nawet zwierzêta polne, aby mu s³u¿y³y. </v>
+<v n="7"> Dlatego bêd¹ mu s³u¿y³y te wszystkie narody, jego synowi i synowi jego syna, a¿ nadejdzie czas na jego ziemiê. Wtedy ujarzmi¹ go liczne narody i wielcy królowie. </v>
+<v n="8"> A ten naród i to królestwo, które nie bêdzie s³u¿y³o Nabuchodonozorowi, królowi Babilonu, i które nie podda swego karku pod jarzmo króla Babilonu, taki naród nawiedzê mieczem, g³odem i zaraz¹, mówi PAN, a¿ wytracê je jego rêk¹. </v>
+<v n="9"> Dlatego nie s³uchajcie swoich proroków, wró¿bitów ani tych, co maj¹ sny, ani swoich wró¿biarzy, ani swoich czarowników, którzy wam mówi¹: Nie bêdziecie s³u¿yæ królowi Babilonu. </v>
+<v n="10"> Oni bowiem prorokuj¹ wam k³amstwo, aby was oddaliæ od waszej ziemi, abym was wygna³ i abyœcie poginêli. </v>
+<v n="11"> A naród, który podda swój kark pod jarzmo króla Babilonu i bêdzie mu s³u¿y³, ten pozostawiê w jego ziemi, mówi PAN, aby j¹ uprawia³ i mieszka³ w niej. </v>
+<v n="12"> A do Sedekiasza, króla Judy, powiedzia³em zgodnie ze wszystkimi tymi s³owami: Poddajcie swoje karki pod jarzmo króla Babilonu i s³u¿cie mu i jego ludowi, a bêdziecie ¿yæ. </v>
+<v n="13"> Czemu macie zgin¹æ, ty i twój lud, od miecza, od g³odu i od zarazy, jak mówi³ PAN o narodzie, który nie chce s³u¿yæ królowi Babilonu? </v>
+<v n="14"> Nie s³uchajcie wiêc s³ów tych proroków, którzy mówi¹ do was: Nie bêdziecie s³u¿yæ królowi Babilonu. Oni bowiem prorokuj¹ wam k³amstwo. </v>
+<v n="15"> Nie pos³a³em ich, mówi PAN, a jednak oni prorokuj¹ k³amliwie w moje imiê, abym was wypêdzi³ i abyœcie zginêli, wy i prorocy, którzy wam prorokuj¹. </v>
+<v n="16"> Tak¿e do kap³anów i do ca³ego ludu powiedzia³em: Tak mówi PAN: Nie s³uchajcie s³ów swoich proroków, którzy prorokuj¹ wam, mówi¹c: Oto naczynia domu PANA zostan¹ ju¿ wkrótce przywrócone z Babilonu. Oni bowiem prorokuj¹ wam k³amstwo. </v>
+<v n="17"> Nie s³uchajcie ich, s³u¿cie królowi Babilonu, a bêdziecie ¿yæ. Czemu to miasto mia³oby staæ siê ruin¹? </v>
+<v n="18"> A jeœli oni s¹ prorokami i jeœli s³owo PANA jest u nich, proszê, niech wstawi¹ siê u PANA zastêpów, aby te naczynia, które pozosta³y w domu PANA, w domu króla Judy i w Jerozolimie, nie dosta³y siê do Babilonu. </v>
+<v n="19"> Tak bowiem mówi PAN zastêpów o tych kolumnach, o morzu, o podstawkach i reszcie naczyñ, które pozosta³y w tym mieœcie; </v>
+<v n="20"> Których nie zabra³ Nabuchodonozor, król Babilonu, gdy uprowadzi³ do niewoli Jechoniasza, syna Joakima, króla Judy, z Jerozolimy do Babilonu, oraz wszystkich dostojników z Judy i Jerozolimy. </v>
+<v n="21"> Tak mówi PAN zastêpów, Bóg Izraela, o tych naczyniach, które pozosta³y w domu PANA, w domu króla Judy i w Jerozolimie: </v>
+<v n="22"> Zostan¹ zawiezione do Babilonu i bêd¹ tam a¿ do dnia, w którym upomnê siê o nie, mówi PAN. Wtedy sprowadzê je i przywrócê na to miejsce. </v>
+</c>

@@ -1,0 +1,23 @@
+<v n="1"> Powstañ, zajaœniej, poniewa¿ przysz³a twoja œwiat³oœæ i chwa³a PANA wzesz³a nad tob¹. </v>
+<v n="2"> Oto bowiem ciemnoœæ okryje ziemiê i mrok – ludy, ale nad tob¹ wzejdzie PAN i jego chwa³a pojawi siê nad tob¹. </v>
+<v n="3"> I pójd¹ narody do twojej œwiat³oœci, a królowie do blasku twojego wschodu. </v>
+<v n="4"> Podnieœ woko³o swe oczy i spójrz: ci wszyscy, którzy siê zgromadzili, przyjd¹ do ciebie. Twoi synowie przyjd¹ z daleka i twoje córki bêd¹ wychowane przy twoim boku. </v>
+<v n="5"> Wtedy zobaczysz i rozweselisz siê, twoje serce zadr¿y i rozszerzy siê, gdy¿ nawróci siê do ciebie t³um morski, a si³y narodów przyjd¹ do ciebie. </v>
+<v n="6"> Okryje ciê mnóstwo wielb³¹dów, dromadery z Midianu i Efy. Przyjd¹ wszyscy z Szeby, przynios¹ z³oto i kadzid³o i bêd¹ g³osiæ chwa³ê PANA. </v>
+<v n="7"> Wszystkie stada Kedaru zgromadz¹ siê u ciebie, barany Nebajotu bêd¹ ci s³u¿yæ: wst¹pi¹ na mój o³tarz, gdzie bêd¹ przyjête; i tak ozdobiê dom mego majestatu. </v>
+<v n="8"> I powiesz: Kim s¹ ci, co nadci¹gaj¹ jak ob³oki i jak go³êbie do swoich okien? </v>
+<v n="9"> Zaprawdê wyspy oczekuj¹ mnie, a na czele okrêty Tarszisz, aby przyprowadziæ twoich synów z daleka, a z nimi ich srebro i z³oto, do imienia PANA, twego Boga, i do Œwiêtego Izraela, bo ciê uwielbi³. </v>
+<v n="10"> Synowie cudzoziemców odbuduj¹ twoje mury i ich królowie bêd¹ ci s³u¿yæ, gdy¿ w moim gniewie uderzy³em ciê, a w mojej ³askawoœci zlitowa³em siê nad tob¹. </v>
+<v n="11"> I twoje bramy bêd¹ nieustannie otwarte, nie bêd¹ zamkniête ani w dzieñ, ani w nocy, aby mo¿na by³o przyprowadziæ do ciebie si³y narodów, i aby ich królowie byli przyprowadzeni. </v>
+<v n="12"> Ten naród i królestwo, które nie bêd¹ ci s³u¿yæ, zgin¹. Takie narody w³aœnie zostan¹ do szczêtu spustoszone. </v>
+<v n="13"> Chwa³a Libanu przyjdzie do ciebie: razem cyprys, sosna oraz bukszpan, na ozdobê miejsca mojej œwi¹tyni. I ws³awiê miejsce moich nóg. </v>
+<v n="14"> Przyjd¹ te¿ do ciebie w pokorze synowie tych, którzy ciê trapili, i bêd¹ siê k³aniaæ do twoich stóp wszyscy ci, którzy tob¹ wzgardzili. I nazw¹ ciê Miastem PANA, Syjonem Œwiêtego Izraela. </v>
+<v n="15"> Za to, ¿e by³aœ opuszczona i znienawidzona tak, ¿e nie by³o nikogo, kto by przez ciebie przechodzi³, uczyniê ciê wiecznym dostojeñstwem, radoœci¹ z pokolenia na pokolenie. </v>
+<v n="16"> Bêdziesz ssaæ mleko narodów i piersiami królów bêdziesz karmiona. I poznasz, ¿e ja jestem PANEM, twoim Zbawicielem i twoim Odkupicielem, Mocarzem Jakuba. </v>
+<v n="17"> Zamiast miedzi naniosê z³ota, a zamiast ¿elaza naniosê srebra, zamiast drewna – miedzi, a zamiast kamieni – ¿elazo. Ustanowiê nad tob¹ spokojnych zwierzchników i urzêdników sprawiedliwych. </v>
+<v n="18"> Nie bêdzie wiêcej s³ychaæ o przemocy w twojej ziemi ani o spustoszeniu i zniszczeniu w twoich granicach; ale nazwiesz swoje mury Zbawieniem, a twoje bramy – Chwa³¹. </v>
+<v n="19"> S³oñce nie bêdzie ju¿ twoj¹ œwiat³oœci¹ za dnia ani ksiê¿yc ju¿ nie zaœwieci ci swoim blaskiem; ale PAN bêdzie twoj¹ wieczn¹ œwiat³oœci¹, a twój Bóg – twoj¹ chwa³¹. </v>
+<v n="20"> Nie zajdzie ju¿ wiêcej twoje s³oñce, a twój ksiê¿yc nie ukryje siê, bo PAN bêdzie twoj¹ wieczn¹ œwiat³oœci¹ i skoñcz¹ siê dni twojej ¿a³oby. </v>
+<v n="21"> Ca³y twój lud bêdzie sprawiedliwy. Odziedziczy ziemiê na wieki, bêdzie latoroœl¹ mego szczepu, dzie³em moich r¹k, abym by³ uwielbiony. </v>
+<v n="22"> Najmniejszy rozmno¿y siê tysi¹ckrotnie, a malutki – w naród potê¿ny. Ja, PAN, dokonam tego rych³o, w swoim czasie. </v>
+</c>

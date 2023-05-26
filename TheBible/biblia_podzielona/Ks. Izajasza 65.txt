@@ -1,0 +1,26 @@
+<v n="1"> Objawi³em siê tym, którzy o mnie nie pytali, zosta³em znaleziony przez tych, którzy mnie nie szukali. Do narodu, który siê nie nazywa³ moim imieniem, mówi³em: Oto jestem, oto jestem. </v>
+<v n="2"> Ca³y dzieñ wyci¹ga³em swoje rêce do ludu buntowniczego, który kroczy drog¹ niedobr¹, za w³asnymi myœlami; </v>
+<v n="3"> Do ludu, który stale i zuchwale pobudza mnie do gniewu, sk³adaj¹c ofiary w ogrodach i pal¹c kadzid³o na ceg³ach; </v>
+<v n="4"> Który przesiaduje na grobach i nocuje przy swoich bo¿kach, który je miêso wieprzowe, a obrzydliwa polewka jest w jego naczyniach; </v>
+<v n="5"> I mówi: Odsuñ siê, nie zbli¿aj siê do mnie, bo jestem œwiêtszy od ciebie. On jest dymem w moich nozdrzach i ogniem p³on¹cym przez ca³y dzieñ. </v>
+<v n="6"> Oto zapisano to przede mn¹. Nie zamilknê, ale oddam i odp³acê im w zanadrzu; </v>
+<v n="7"> Za wasze nieprawoœci i nieprawoœci waszych ojców, mówi PAN, którzy palili kadzid³o na górach i hañbili mnie na pagórkach; dlatego wymierzê im w zanadrze za ich dawne czyny. </v>
+<v n="8"> Tak mówi PAN: Jak wtedy, gdy znajduje siê wino w kiœci i mówi siê: Nie psuj go, bo w nim jest b³ogos³awieñstwo, tak i ja uczyniê przez wzgl¹d na moje s³ugi – nie zniszczê ich wszystkich. </v>
+<v n="9"> Bo wywiodê z Jakuba potomstwo, a z Judy dziedzica moich gór. Moi wybrani posi¹d¹ je i moi s³udzy bêd¹ tam mieszkaæ. </v>
+<v n="10"> A Szaron stanie siê pastwiskiem dla owiec, a dolina Akor legowiskiem dla wo³ów – to dla mojego ludu, który mnie szuka³. </v>
+<v n="11"> Ale was, którzy opuœciliœcie PANA, którzy zapominacie o mojej œwiêtej górze, którzy zastawiacie stó³ dla tego wojska i sk³adacie ofiary z p³ynów temu mnóstwu; </v>
+<v n="12"> Was przeznaczê pod miecz i wy wszyscy schylicie siê na rzeŸ, poniewa¿ wo³a³em, a nie odezwaliœcie siê, mówi³em, a nie s³yszeliœcie, ale czyniliœcie to, co z³e w moich oczach, i wybraliœcie to, co mi siê nie podoba³o. </v>
+<v n="13"> Dlatego tak mówi Pan BÓG: Oto moi s³udzy bêd¹ jeœæ, a wy bêdziecie g³odni. Oto moi s³udzy bêd¹ piæ, a wy bêdziecie spragnieni. Oto moi s³udzy bêd¹ siê radowaæ, a wy bêdziecie zawstydzeni. </v>
+<v n="14"> Oto moi s³udzy bêd¹ œpiewaæ z radoœci serca, a wy bêdziecie krzyczeæ z boleœci serca i zawodziæ z powodu zrozpaczonego ducha. </v>
+<v n="15"> I zostawicie swoje imiê moim wybranym na przekleñstwo, gdy¿ Pan BÓG zabije was, a swoje s³ugi nazwie innym imieniem. </v>
+<v n="16"> Ten, który bêdzie sobie b³ogos³awi³ na ziemi, bêdzie sobie b³ogos³awi³ w Bogu prawdziwym, a kto bêdzie przysiêga³ na ziemi, bêdzie przysiêga³ na Boga prawdziwego, bo dawne uciski pójd¹ w zapomnienie i bêd¹ zakryte przed moimi oczami. </v>
+<v n="17"> Oto bowiem stworzê nowe niebiosa i now¹ ziemiê i nie bêd¹ wspominane pierwsze rzeczy ani nie przyjd¹ na myœl. </v>
+<v n="18"> Lecz weselcie siê i radujcie na wieki wieków z tego, co ja stworzê, bo oto stworzê Jerozolimê radoœci¹ i jej lud weselem. </v>
+<v n="19"> I bêdê siê radowaæ z powodu Jerozolimy i weseliæ z powodu mojego ludu, a nie bêdzie ju¿ s³ychaæ w nim g³osu p³aczu ani narzekania. </v>
+<v n="20"> Nie bêdzie tam ju¿ ani niemowlêcia ¿yj¹cego tylko kilka dni, ani starca, który by nie do¿y³ swoich dni, bo dziecko umrze jako stuletni, ale grzesznik, choæby mia³ i sto lat, bêdzie przeklêty. </v>
+<v n="21"> Pobuduj¹ te¿ domy i bêd¹ w nich mieszkaæ, zasadz¹ winnice i bêd¹ jeœæ z nich owoce. </v>
+<v n="22"> Nie bêd¹ budowaæ, by ktoœ inny tam mieszka³, nie bêd¹ sadziæ, by ktoœ inny jad³, bo dni mojego ludu bêd¹ jak dni drzewa i moi wybrani d³ugo bêd¹ korzystaæ z dzie³a swoich r¹k. </v>
+<v n="23"> Nie bêd¹ trudziæ siê na pró¿no ani rodziæ, aby siê baæ, gdy¿ s¹ potomstwem b³ogos³awionym przez PANA, oni i ich potomkowie wraz z nimi. </v>
+<v n="24"> I bêdzie tak, ¿e zanim zawo³aj¹, ja siê odezwê, gdy jeszcze bêd¹ mówiæ, ja wys³ucham. </v>
+<v n="25"> Wilk z barankiem paœæ siê bêd¹ razem, lew jak wó³ bêdzie jeœæ s³omê i proch bêdzie pokarmem wê¿a. Nie bêd¹ szkodziæ ani niszczyæ na ca³ej mojej œwiêtej górze, mówi PAN. </v>
+</c>

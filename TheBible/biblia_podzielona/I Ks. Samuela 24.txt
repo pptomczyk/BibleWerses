@@ -1,0 +1,23 @@
+<v n="1"> A gdy Saul wróci³ z poœcigu za Filistynami, doniesiono mu: Oto Dawid przebywa na pustyni En-Gedi. </v>
+<v n="2"> Saul wzi¹³ wiêc trzy tysi¹ce doborowych mê¿czyzn spoœród ca³ego Izraela i wyruszy³ na poszukiwanie Dawida i jego ludzi po ska³ach dzikich kóz. </v>
+<v n="3"> I przyby³ do owczych zagród przy drodze, gdzie by³a jaskinia. Wszed³ do niej Saul, by zakryæ sobie nogi. Dawid zaœ i jego ludzie siedzieli w g³êbi jaskini. </v>
+<v n="4"> Ludzie Dawida powiedzieli do niego: Oto dzieñ, o którym PAN ci powiedzia³: Oto wydam twego wroga w twoje rêce, abyœ z nim uczyni³ to, co wyda ci siê s³uszne. Dawid wsta³ wiêc i po cichu odci¹³ skraj p³aszcza Saula. </v>
+<v n="5"> Potem jednak serce Dawida zadr¿a³o z tego powodu, ¿e odci¹³ skraj p³aszcza Saula. </v>
+<v n="6"> I zwróci³ siê do swoich ludzi: Nie daj Bo¿e, ¿ebym mia³ to uczyniæ memu panu, pomazañcowi PANA, bym mia³ wyci¹gn¹æ swoj¹ rêkê na niego, poniewa¿ jest pomazañcem PANA. </v>
+<v n="7"> Tymi s³owami Dawid powstrzyma³ swych ludzi i nie pozwoli³ im powstaæ przeciw Saulowi. Saul zaœ wyszed³ z jaskini i poszed³ swoj¹ drog¹. </v>
+<v n="8"> Potem Dawid równie¿ wsta³, wyszed³ z jaskini i zawo³a³ za Saulem: Mój panie, królu! Kiedy Saul obejrza³ siê za siebie, Dawid schyli³ siê twarz¹ ku ziemi i pok³oni³ siê. </v>
+<v n="9"> Nastêpnie Dawid powiedzia³ do Saula: Dlaczego s³uchasz opowieœci ludzi, którzy mówi¹: Oto Dawid pragnie twojej zguby? </v>
+<v n="10"> Oto dziœ twoje oczy widz¹, ¿e PAN wyda³ ciê w jaskini w moje rêce. I namawiano mnie, bym ciê zabi³, lecz oszczêdzi³em ciê i powiedzia³em: Nie wyci¹gnê swojej rêki na mego pana, bo jest pomazañcem PANA. </v>
+<v n="11"> Zobacz, mój ojcze, zobacz skraj swego p³aszcza w mojej rêce. Odcinaj¹c ci bowiem skraj twego p³aszcza, nie zabi³em ciê. Wiedz i zobacz, ¿e nie ma w mojej rêce z³oœci ani nieprawoœci, ani te¿ nie zgrzeszy³em przeciwko tobie. A ty czyhasz na moje ¿ycie, by mi je odebraæ. </v>
+<v n="12"> Niech PAN rozs¹dzi miêdzy mn¹ a tob¹ i niech PAN za mnie zemœci siê na tobie. Lecz nie podniosê swojej rêki na ciebie. </v>
+<v n="13"> Jak mówi starodawne przys³owie: Od niegodziwych pochodzi niegodziwoœæ, ale nie podniosê swojej rêki na ciebie. </v>
+<v n="14"> Za kim wyruszy³ król Izraela? Kogo gonisz? Zdech³ego psa? Jedn¹ pch³ê? </v>
+<v n="15"> Niech PAN bêdzie sêdzi¹ i niech rozs¹dzi miêdzy mn¹ a tob¹, niech zobaczy i ujmie siê w mojej sprawie, i niech mnie wyzwoli z twojej rêki. </v>
+<v n="16"> I kiedy Dawid przesta³ mówiæ te s³owa do Saula, Saul zawo³a³: Czy to jest twój g³os, synu mój, Dawidzie? I Saul podniós³ swój g³os, i zap³aka³. </v>
+<v n="17"> Potem powiedzia³ do Dawida: Jesteœ sprawiedliwszy ode mnie, bo odda³eœ mi dobrem, a ja tobie odda³em z³em. </v>
+<v n="18"> Dziœ pokaza³eœ, ¿e œwiadczysz mi dobro. Choæ bowiem PAN wyda³ mnie w twoje rêce, nie zabi³eœ mnie. </v>
+<v n="19"> Gdy ktoœ spotka swego wroga, to czy wypuœci go na dobr¹ drogê? Niech PAN odp³aci ci dobrem za to, co mi dziœ uczyni³eœ. </v>
+<v n="20"> A teraz oto wiem, ¿e z pewnoœci¹ bêdziesz królem i ¿e królestwo Izraela ostoi siê w twojej rêce. </v>
+<v n="21"> Przysiêgnij mi wiêc na PANA, ¿e nie wytêpisz mojego potomstwa po mnie i nie wytracisz mojego imienia z domu mego ojca. </v>
+<v n="22"> I Dawid przysi¹g³ Saulowi. Potem Saul wróci³ do swego domu, a Dawid i jego ludzie udali siê do miejsca obronnego. </v>
+</c>

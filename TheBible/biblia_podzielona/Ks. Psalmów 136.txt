@@ -1,0 +1,27 @@
+<v n="1"> Wys³awiajcie PANA, bo jest dobry; bo na wieki jego mi³osierdzie. </v>
+<v n="2"> Wys³awiajcie Boga bogów, bo na wieki jego mi³osierdzie. </v>
+<v n="3"> Wys³awiajcie Pana panów, bo na wieki jego mi³osierdzie; </v>
+<v n="4"> Tego, który sam czyni wielkie cuda, bo na wieki jego mi³osierdzie. </v>
+<v n="5"> Tego, który w m¹droœci uczyni³ niebiosa, bo na wieki jego mi³osierdzie; </v>
+<v n="6"> Tego, który rozpostar³ ziemiê nad wodami, bo na wieki jego mi³osierdzie; </v>
+<v n="7"> Tego, który uczyni³ wielkie œwiat³a, bo na wieki jego mi³osierdzie; </v>
+<v n="8"> S³oñce, aby panowa³o we dnie, bo na wieki jego mi³osierdzie; </v>
+<v n="9"> Ksiê¿yc i gwiazdy, aby panowa³y w nocy, bo na wieki jego mi³osierdzie. </v>
+<v n="10"> Tego, który porazi³ Egipt w jego pierworodnych, bo na wieki jego mi³osierdzie. </v>
+<v n="11"> Tego, który wyprowadzi³ spoœród niego Izraela, bo na wieki jego mi³osierdzie; </v>
+<v n="12"> Mocn¹ rêk¹ i wyci¹gniêtym ramieniem, bo na wieki jego mi³osierdzie. </v>
+<v n="13"> Tego, który rozdzieli³ Morze Czerwone na czêœci, bo na wieki jego mi³osierdzie; </v>
+<v n="14"> I przeprowadzi³ œrodkiem Izraela, bo na wieki jego mi³osierdzie. </v>
+<v n="15"> I wrzuci³ faraona z jego wojskiem w Morze Czerwone, bo na wieki jego mi³osierdzie. </v>
+<v n="16"> Tego, który prowadzi³ swój lud przez pustyniê, bo na wieki jego mi³osierdzie. </v>
+<v n="17"> Tego, który pobi³ wielkich królów, bo na wieki jego mi³osierdzie; </v>
+<v n="18"> I zg³adzi³ potê¿nych królów, bo na wieki jego mi³osierdzie; </v>
+<v n="19"> Sychona, króla Amorytów, bo na wieki jego mi³osierdzie; </v>
+<v n="20"> I Oga, króla Baszanu, bo na wieki jego mi³osierdzie. </v>
+<v n="21"> I da³ ich ziemiê w dziedzictwo, bo na wieki jego mi³osierdzie; </v>
+<v n="22"> W dziedzictwo Izraelowi, swemu s³udze, bo na wieki jego mi³osierdzie. </v>
+<v n="23"> Tego, który w naszym poni¿eniu pamiêta³ o nas, bo na wieki jego mi³osierdzie. </v>
+<v n="24"> I wybawi³ nas od naszych nieprzyjació³, bo na wieki jego mi³osierdzie. </v>
+<v n="25"> Tego, który daje pokarm wszelkiemu cia³u, bo na wieki jego mi³osierdzie. </v>
+<v n="26"> Wys³awiajcie Boga niebios, bo na wieki jego mi³osierdzie. </v>
+</c>

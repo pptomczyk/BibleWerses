@@ -1,0 +1,26 @@
+<v n="1"> W tym czasie król Herod zacz¹³ gnêbiæ niektórych cz³onków koœcio³a. </v>
+<v n="2"> I zabi³ mieczem Jakuba, brata Jana. </v>
+<v n="3"> Widz¹c, ¿e to podoba³o siê ¯ydom, postanowi³ schwytaæ tak¿e Piotra. A by³y to dni Przaœników. </v>
+<v n="4"> Kiedy go schwyta³, wtr¹ci³ go do wiêzienia i odda³ pod stra¿ szesnastu ¿o³nierzom, zamierzaj¹c po œwiêcie Paschy wydaæ go ludowi. </v>
+<v n="5"> Strze¿ono wiêc Piotra w wiêzieniu, a koœció³ nieustannie modli³ siê za niego do Boga. </v>
+<v n="6"> A tej nocy, kiedy Herod mia³ go wydaæ, Piotr spa³ miêdzy dwoma ¿o³nierzami, zwi¹zany dwoma ³añcuchami, a przed drzwiami stra¿nicy strzegli wiêzienia. </v>
+<v n="7"> Wtedy zjawi³ siê anio³ Pana i w wiêzieniu zajaœnia³o œwiat³o. Tr¹ci³ Piotra w bok i obudzi³ go, mówi¹c: Wstañ szybko. I opad³y ³añcuchy z jego r¹k. </v>
+<v n="8"> I powiedzia³ do niego anio³: Przepasz siê i w³ó¿ sanda³y. Tak te¿ zrobi³. I powiedzia³ mu: Narzuæ p³aszcz i chodŸ za mn¹. </v>
+<v n="9"> Piotr wiêc wyszed³ i uda³ siê za nim, a nie wiedzia³, ¿e to, co siê dzia³o za spraw¹ anio³a, dzia³o siê naprawdê, lecz s¹dzi³, ¿e to widzenie. </v>
+<v n="10"> A gdy minêli pierwsz¹ i drug¹ stra¿, doszli do ¿elaznej bramy, która prowadzi do miasta, a ta sama siê przed nimi otworzy³a. Kiedy wyszli i przeszli jedn¹ ulicê, natychmiast anio³ odst¹pi³ od niego. </v>
+<v n="11"> Kiedy Piotr doszed³ do siebie, powiedzia³: Teraz wiem na pewno, ¿e Pan pos³a³ swego anio³a i wyrwa³ mnie z rêki Heroda i z tego wszystkiego, czego oczekiwa³ lud ¿ydowski. </v>
+<v n="12"> Gdy to sobie uœwiadomi³, przyszed³ do domu Marii, matki Jana, którego nazywano Markiem, gdzie wielu zebra³o siê na modlitwie. </v>
+<v n="13"> I zapuka³ Piotr do drzwi w bramie, i wysz³a dziewczyna imieniem Rode, aby nas³uchiwaæ: </v>
+<v n="14"> Gdy pozna³a g³os Piotra, z radoœci nie otworzy³a bramy, lecz pobieg³a i oznajmi³a, ¿e Piotr stoi przed bram¹. </v>
+<v n="15"> A oni powiedzieli do niej: Oszala³aœ! Jednak ona twierdzi³a, ¿e tak jest istotnie. Odpowiedzieli: To jego anio³. </v>
+<v n="16"> Piotr zaœ nie przesta³ pukaæ. A gdy otworzyli, zobaczyli go i zdumieli siê. </v>
+<v n="17"> A dawszy im rêk¹ znak, aby zamilkli, opowiedzia³ im, jak Pan wyprowadzi³ go z wiêzienia, i powiedzia³: Powiadomcie o tym Jakuba i braci. Potem wyszed³ i uda³ siê w inne miejsce. </v>
+<v n="18"> A gdy nasta³ dzieñ, powsta³o niema³e poruszenie wœród ¿o³nierzy z powodu tego, co siê sta³o z Piotrem. </v>
+<v n="19"> Herod zaœ poszukiwa³ go, a gdy go nie znalaz³, przes³ucha³ stra¿ników i kaza³ ich straciæ. Potem wyjecha³ z Judei do Cezarei i tam mieszka³. </v>
+<v n="20"> A Herod by³ bardzo zagniewany na mieszkañców Tyru i Sydonu. Lecz oni jednomyœlnie przyszli do niego, zjednali sobie Blasta, podkomorzego królewskiego, i prosili o pokój, poniewa¿ ich kraj zaopatrywa³ siê w ¿ywnoœæ z ziem królewskich. </v>
+<v n="21"> W wyznaczonym dniu Herod ubrany w szaty królewskie zasiad³ na tronie i wyg³osi³ do nich mowê. </v>
+<v n="22"> A lud wo³a³: G³os Boga, a nie cz³owieka! </v>
+<v n="23"> W tej chwili uderzy³ go anio³ Pana, dlatego ¿e nie odda³ chwa³y Bogu, i wyzion¹³ ducha, stoczony przez robactwo. </v>
+<v n="24"> A s³owo Pana rozrasta³o siê i rozmna¿a³o. </v>
+<v n="25"> Barnaba zaœ i Saul po wykonaniu pos³ugi wrócili z Jerozolimy, zabieraj¹c ze sob¹ Jana, którego nazywano Markiem. </v>
+</c>

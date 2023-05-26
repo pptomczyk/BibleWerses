@@ -1,0 +1,13 @@
+<v n="1"> Psalm i pieœñ na poœwiêcenie przybytku Dawida. PANIE, bêdê ciê wywy¿szaæ, bo podnios³eœ mnie i nie pozwoli³eœ mym wrogom cieszyæ siê z mojego powodu. </v>
+<v n="2"> PANIE, Bo¿e mój, wo³a³em do ciebie i uzdrowi³eœ mnie. </v>
+<v n="3"> PANIE, wyprowadzi³eœ moj¹ duszê z piek³a, zachowa³eœ mnie przy ¿yciu, abym nie zst¹pi³ do do³u. </v>
+<v n="4"> Œpiewajcie PANU, œwiêci jego, i wys³awiajcie go, wspominaj¹c jego œwiêtoœæ. </v>
+<v n="5"> Jego gniew bowiem trwa tylko chwilê, a jego ³askawoœæ przez ca³e ¿ycie; choæby p³acz trwa³ przez noc, rankiem nastanie radoœæ. </v>
+<v n="6"> Powiedzia³em w czasie mej pomyœlnoœci: Nigdy siê nie zachwiejê. </v>
+<v n="7"> PANIE, w swojej ³askawoœci umocni³eœ moj¹ górê; ale gdy ukry³eœ swoje oblicze, strwo¿y³em siê. </v>
+<v n="8"> Wo³a³em do ciebie, PANIE, modli³em siê do PANA: </v>
+<v n="9"> Jaki po¿ytek z mojej krwi, gdybym zst¹pi³ do do³u? Czy proch bêdzie ciê chwaliæ? Czy bêdzie g³osiæ twoj¹ prawdê? </v>
+<v n="10"> Us³ysz, PANIE, i zmi³uj siê nade mn¹; PANIE, b¹dŸ moim pomocnikiem. </v>
+<v n="11"> Mój p³acz zmieni³eœ w taniec, zdj¹³eœ ze mnie wór pokutny, a przepasa³eœ mnie radoœci¹; </v>
+<v n="12"> Aby moja chwa³a œpiewa³a ci i nie milk³a; PANIE, mój Bo¿e, bêdê ciê wys³awiaæ na wieki. </v>
+</c>

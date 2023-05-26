@@ -1,0 +1,20 @@
+<v n="1"> Wtedy Dawid powiedzia³: To jest dom PANA Boga i to jest o³tarz ca³opalenia dla Izraela. </v>
+<v n="2"> Dawid rozkaza³ zgromadziæ cudzoziemców, którzy byli w ziemi Izraela, i ustanowi³ spoœród nich kamieniarzy do obróbki kamieni ciosanych na budowê domu Bo¿ego. </v>
+<v n="3"> Dawid przygotowa³ te¿ bardzo du¿o ¿elaza na gwoŸdzie do drzwi w bramach i na spojenie oraz niezliczon¹ wagê br¹zu; </v>
+<v n="4"> Tak¿e drzewa cedrowego niezliczon¹ iloœæ, bo Sydoñczycy i Tyryjczycy przywieŸli Dawidowi bardzo wiele drewna cedrowego. </v>
+<v n="5"> Dawid powiedzia³: Salomon, mój syn, jest m³ody i niedoœwiadczony, a dom, który ma byæ zbudowany dla PANA, musi byæ niezmiernie okaza³y, aby by³ znany i s³awny we wszystkich krajach. Teraz wiêc poczyniê przygotowania za niego. I wiele przygotowa³ Dawid przed swoj¹ œmierci¹. </v>
+<v n="6"> Potem zawo³a³ swego syna Salomona i nakaza³ mu zbudowaæ dom dla PANA, Boga Izraela. </v>
+<v n="7"> I Dawid powiedzia³ do Salomona: Synu mój! Pragn¹³em zbudowaæ dom dla imienia PANA, swego Boga. </v>
+<v n="8"> Lecz dosz³o do mnie s³owo PANA mówi¹ce: Rozla³eœ wiele krwi i prowadzi³eœ wielkie wojny. Nie bêdziesz budowa³ domu dla mojego imienia, poniewa¿ rozla³eœ wiele krwi na ziemiê przed moim obliczem. </v>
+<v n="9"> Oto urodzi ci siê syn, który bêdzie cz³owiekiem pokoju, bo dam mu odpoczynek od wszystkich jego wrogów woko³o. Bêdzie mia³ na imiê Salomon, poniewa¿ za jego dni dam Izraelowi pokój i odpoczynek. </v>
+<v n="10"> On zbuduje dom dla mojego imienia i on bêdzie mi synem, a ja bêdê mu ojcem i utwierdzê tron jego królestwa nad Izraelem na wieki. </v>
+<v n="11"> Teraz wiêc, mój synu, niech PAN bêdzie z tob¹ i niech ci siê powodzi, abyœ zbudowa³ dom dla PANA, swego Boga, jak zapowiedzia³ o tobie. </v>
+<v n="12"> Oby tylko PAN ci da³ roztropnoœæ i rozwagê i niech ciê ustanowi nad Izraelem, abyœ strzeg³ prawa PANA, swego Boga. </v>
+<v n="13"> Wtedy bêdzie ci siê powodzi³o, jeœli bêdziesz strzeg³ i wype³nia³ przykazania i prawa, które PAN da³ Moj¿eszowi dla Izraela. B¹dŸ silny i mê¿ny, nie bój siê ani siê lêkaj. </v>
+<v n="14"> A oto w moim trudzie przygotowa³em na dom PANA sto tysiêcy talentów z³ota i tysi¹c tysiêcy talentów srebra, br¹zu i ¿elaza zaœ bez wagi, bo tego jest wiele. Przygotowa³em równie¿ drewno i kamieñ, a ty mo¿esz do tego dok³adaæ. </v>
+<v n="15"> Masz te¿ u siebie wielu rzemieœlników, kamieniarzy, murarzy, cieœli i wszelkich bieg³ych w ka¿dym rzemioœle. </v>
+<v n="16"> Z³ota, srebra, br¹zu i ¿elaza jest bez liku. Wstañ wiêc i dzia³aj, a PAN niech bêdzie z tob¹. </v>
+<v n="17"> Dawid te¿ nakaza³ wszystkim ksi¹¿êtom Izraela, aby pomagali jego synowi Salomonowi; </v>
+<v n="18"> Mówi¹c: Czy PAN, wasz Bóg, nie jest z wami? Czy nie da³ wam odpoczynku woko³o? Da³ bowiem w moj¹ rêkê mieszkañców tej ziemi, a ziemia zosta³a poddana PANU i jego ludowi. </v>
+<v n="19"> Teraz wiêc oddajcie swoje serce i swoj¹ duszê ku szukaniu PANA, waszego Boga. Wstañcie i budujcie œwi¹tyniê PANA Boga, abyœcie mogli tam wnieœæ arkê przymierza PANA oraz œwiête naczynia Boga, do domu, który bêdzie zbudowany dla imienia PANA. </v>
+</c>

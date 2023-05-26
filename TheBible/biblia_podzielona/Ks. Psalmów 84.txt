@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi chóru, na Gittyt. Psalm dla synów Korego. O, jak mi³e s¹ twoje przybytki, PANIE zastêpów! </v>
+<v n="2"> Moja dusza wzdycha i omdlewa z têsknoty do przedsionków PANA; moje serce i cia³o wo³aj¹ radoœnie do Boga ¿ywego. </v>
+<v n="3"> Oto nawet wróbel znalaz³ sobie dom i jaskó³ka gniazdo, gdzie sk³ada swe pisklêta, u twoich o³tarzy, PANIE zastêpów, mój Królu i mój Bo¿e! </v>
+<v n="4"> B³ogos³awieni ci, którzy mieszkaj¹ w twoim domu, nieustannie bêd¹ ciê chwaliæ. Sela. </v>
+<v n="5"> B³ogos³awiony cz³owiek, którego si³a jest w tobie, w którego sercu s¹ twoje drogi; </v>
+<v n="6"> Ci, którzy przechodz¹c przez dolinê Baka, zmieniaj¹ j¹ w Ÿród³o, a deszcz okrywa j¹ b³ogos³awieñstwem. </v>
+<v n="7"> I id¹ z mocy w moc, i uka¿¹ siê przed Bogiem na Syjonie. </v>
+<v n="8"> O PANIE, Bo¿e zastêpów, wys³uchaj mojej modlitwy, nak³oñ ucha, Bo¿e Jakuba. Sela. </v>
+<v n="9"> Spójrz, Bo¿e, nasza tarczo, i wejrzyj na oblicze twego pomazañca. </v>
+<v n="10"> Lepszy bowiem jest jeden dzieñ w twoich przedsionkach ni¿ tysi¹c gdzie indziej; wolê raczej staæ w progu domu mego Boga, ni¿ mieszkaæ w namiotach niegodziwców. </v>
+<v n="11"> PAN Bóg bowiem jest s³oñcem i tarcz¹, PAN obdarza ³ask¹ i chwa³¹, nie odmawia dobra tym, którzy postêpuj¹ nienagannie. </v>
+<v n="12"> PANIE zastêpów, b³ogos³awiony cz³owiek, który ufa tobie. </v>
+</c>

@@ -1,0 +1,19 @@
+<v n="1"> M¹droœæ zbudowa³a sobie dom i wyciosa³a siedem s³upów; </v>
+<v n="2"> Zabi³a swoje byd³o, zmiesza³a wino i zastawi³a stó³; </v>
+<v n="3"> Rozes³a³a swoje s³u¿¹ce, wo³a na szczytach najwy¿szych miejsc miasta: </v>
+<v n="4"> Ktokolwiek jest prostym, niech wst¹pi; a do nierozumnego mówi: </v>
+<v n="5"> ChodŸcie, jedzcie mój chleb i pijcie wino, które zmiesza³am. </v>
+<v n="6"> Porzuæcie g³upotê, a bêdziecie ¿yli, i chodŸcie drog¹ roztropnoœci. </v>
+<v n="7"> Kto upomina szydercê, œci¹ga na siebie hañbê, a kto strofuje niegodziwego, ten siê plami. </v>
+<v n="8"> Nie strofuj szydercy, aby ciê nie znienawidzi³; strofuj m¹drego, a bêdzie ciê mi³owa³. </v>
+<v n="9"> Upomnij m¹drego, a bêdzie m¹drzejszy; poucz sprawiedliwego, a pomno¿y sw¹ wiedzê. </v>
+<v n="10"> Pocz¹tkiem m¹droœci jest bojaŸñ PANA, a wiedza o tym, co œwiête, to rozum. </v>
+<v n="11"> Bo dziêki mnie rozmno¿¹ siê twoje dni i przed³u¿¹ siê lata twojego ¿ycia. </v>
+<v n="12"> Jeœli bêdziesz m¹dry, tobie samemu bêdzie s³u¿y³a twoja m¹droœæ; a jeœli szyderc¹, sam poniesiesz szkodê. </v>
+<v n="13"> G³upia kobieta jest wrzaskliwa, prosta i nic nie rozumie; </v>
+<v n="14"> Siedzi u drzwi swego domu, na krzeœle, na wysokich miejscach w mieœcie; </v>
+<v n="15"> Aby wo³aæ na przechodz¹cych, którzy id¹ prosto swoimi œcie¿kami: </v>
+<v n="16"> Ktokolwiek jest prosty, niech wst¹pi; a do nierozumnego mówi: </v>
+<v n="17"> Kradzione wody s¹ s³odkie, a chleb jedzony pok¹tnie smaczny. </v>
+<v n="18"> Ale on nie wie, ¿e tam s¹ umarli, ¿e jej zaproszeni s¹ w g³êbinach piek³a. </v>
+</c>

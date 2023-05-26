@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi chóru, Jedutunowi. Psalm Dawida. Powiedzia³em: Bêdê strzeg³ moich dróg, abym nie zgrzeszy³ jêzykiem; na³o¿ê na usta wêdzid³o, dopóki niegodziwy bêdzie przede mn¹. </v>
+<v n="2"> Zaniemówi³em oniemia³y, zamilk³em nawet w dobrej sprawie, lecz moja boleœæ siê wzmaga³a. </v>
+<v n="3"> Rozgorza³o we mnie serce; gdy rozmyœla³em, zap³on¹³ ogieñ, a wtedy mój jêzyk tak przemówi³: </v>
+<v n="4"> PANIE, daj mi poznaæ mój kres i miarê moich dni, abym wiedzia³, jak jestem s³aby. </v>
+<v n="5"> Oto wymierzy³eœ moje dni na szerokoœæ d³oni, a mój wiek jest niczym przed tob¹; zaprawdê ka¿dy cz³owiek, nawet najlepszy, jest ca³kowit¹ marnoœci¹. Sela. </v>
+<v n="6"> Doprawdy cz³owiek przemija jak cieñ; doprawdy na pró¿no siê k³opocze; gromadzi, a nie wie, kto to zabierze. </v>
+<v n="7"> A teraz czego mam oczekiwaæ, Panie? W tobie jest moja nadzieja. </v>
+<v n="8"> Uwolnij mnie od wszystkich moich wystêpków, nie wystawiaj mnie na poœmiewisko g³upca. </v>
+<v n="9"> Zamilk³em i nie otworzy³em moich ust, bo ty to sprawi³eœ. </v>
+<v n="10"> Oddal ode mnie twoje karanie, bo ginê od uderzeñ twojej rêki. </v>
+<v n="11"> Gdy kar¹ ch³oszczesz cz³owieka za nieprawoœæ, to jak mól niszczysz jego piêkno; doprawdy marnoœci¹ jest ka¿dy cz³owiek. Sela. </v>
+<v n="12"> Wys³uchaj mojej modlitwy, PANIE, i nak³oñ ucha na moje wo³anie; nie b¹dŸ g³uchy na moje ³zy, bo jestem goœciem u ciebie i przychodniem, jak wszyscy moi ojcowie. </v>
+<v n="13"> Oszczêdzaj mnie, abym siê wzmacnia³, zanim odejdê i ju¿ mnie nie bêdzie. </v>
+</c>

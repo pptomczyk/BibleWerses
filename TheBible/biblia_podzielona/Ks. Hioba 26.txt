@@ -1,0 +1,15 @@
+<v n="1"> A Hiob tak odpowiedzia³: </v>
+<v n="2"> Jak¿e uratowa³eœ tego, który nie ma mocy? Jak¿e wybawi³eœ ramiê, które nie ma si³y? </v>
+<v n="3"> Jak¿e doradzi³eœ temu, który nie ma m¹droœci? Jak¿e dok³adnie nauczy³eœ tej sprawy? </v>
+<v n="4"> Komu powiedzia³eœ te s³owa? Czyj to duch wyszed³ od ciebie? </v>
+<v n="5"> Rzeczy martwe rodz¹ siê pod wodami oraz ich mieszkañcy. </v>
+<v n="6"> Piek³o jest odkryte przed nim i zatracenie nie ma przykrycia. </v>
+<v n="7"> Rozci¹gn¹³ pó³noc nad pustym miejscem i ziemiê zawiesi³ na niczym. </v>
+<v n="8"> Zawi¹zuje wody w swoich ob³okach, a ob³ok nie pêka pod nimi. </v>
+<v n="9"> Zatrzymuje widok swego tronu, rozci¹ga nad nim swój ob³ok. </v>
+<v n="10"> Wodom nakreœli³ granice, a¿ nast¹pi koniec œwiat³oœci i ciemnoœci. </v>
+<v n="11"> Filary niebios trzês¹ siê i zdumiewaj¹ siê jego gromem. </v>
+<v n="12"> Swoj¹ moc¹ dzieli morze, a swoj¹ roztropnoœci¹ uœmierza jego nawa³nicê. </v>
+<v n="13"> Swoim duchem przyozdobi³ niebiosa, a jego rêka stworzy³a pokrzywionego wê¿a. </v>
+<v n="14"> Oto tylko cz¹stka jego dróg, ale jak¿e ma³o o nim s³yszymy! A kto pojmie grzmot jego wielkiej potêgi? </v>
+</c>

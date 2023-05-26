@@ -1,0 +1,20 @@
+<v n="1"> S³owo, które dosz³o do Jeremiasza od PANA za dni Joakima, syna Jozjasza, króla Judy, mówi¹ce: </v>
+<v n="2"> IdŸ do domu Rekabitów, porozmawiaj z nimi i wprowadŸ ich do domu PANA, do jednej z komnat, i daj im wino do picia. </v>
+<v n="3"> Zabra³em wiêc ze sob¹ Jaazaniasza, syna Jeremiasza, syna Chabasiniasza, jego braci, wszystkich jego synów i ca³y dom Rekabitów; </v>
+<v n="4"> I wprowadzi³em ich do domu PANA, do komnaty synów Chanana, syna Jigdaliasza, mê¿a Bo¿ego, która by³a obok komnaty ksi¹¿êcej nad komnat¹ Maasejasza, syna Szalluma, stró¿a progu. </v>
+<v n="5"> Potem postawi³em przed synami domu Rekabitów czasze pe³ne wina i kubki i powiedzia³em do nich: Pijcie wino. </v>
+<v n="6"> Lecz oni odpowiedzieli: Nie pijemy wina, bo Jonadab, syn Rekaba, nasz ojciec, nakaza³ nam, mówi¹c: Nie pijcie wina, ani wy, ani wasi synowie, a¿ na wieki. </v>
+<v n="7"> Nie budujcie te¿ domów ani nie obsiewajcie nasieniem, nie sadŸcie winnic ani nie posiadajcie ¿adnej, ale mieszkajcie w namiotach przez wszystkie wasze dni, abyœcie ¿yli przez wiele dni na powierzchni ziemi, w której jesteœcie przybyszami. </v>
+<v n="8"> Byliœmy wiêc pos³uszni g³osowi Jonadaba, syna Rekaba, naszego ojca, we wszystkim, co nam nakaza³: nie piliœmy wina przez wszystkie nasze dni, my, nasze ¿ony, nasi synowie i nasze córki; </v>
+<v n="9"> I nie budowaliœmy sobie domów do zamieszkania ani nie mieliœmy winnicy ani pola, ani siewu. </v>
+<v n="10"> Ale mieszkamy w namiotach; byliœmy pos³uszni i postêpujemy zgodnie ze wszystkim, co nam nakaza³ Jonadab, nasz ojciec. </v>
+<v n="11"> A gdy Nabuchodonozor, król Babilonu, nadci¹gn¹³ do naszej ziemi, powiedzieliœmy: ChodŸcie, wejdŸmy do Jerozolimy przed wojskiem Chaldejczyków i przed wojskiem Syryjczyków. Zostaliœmy wiêc w Jerozolimie. </v>
+<v n="12"> Wówczas dosz³o s³owo PANA do Jeremiasza mówi¹ce: </v>
+<v n="13"> Tak mówi PAN zastêpów, Bóg Izraela: IdŸ i powiedz Judejczykom i mieszkañcom Jerozolimy: Czy nie przyjmiecie pouczenia, by s³uchaæ moich s³ów? – mówi PAN. </v>
+<v n="14"> Wype³niane s¹ s³owa Jonadaba, syna Rekaba, które przykaza³ swoim synom, aby nie pili wina. Nie pij¹ go bowiem a¿ do dziœ, bo s¹ pos³uszni przykazaniu swego ojca. Ja jednak mówi³em do was, z wczesnym wstawaniem i mówieniem, lecz nie s³uchaliœcie mnie. </v>
+<v n="15"> Pos³a³em te¿ do was wszystkie swe s³ugi, proroków, z wczesnym wstawaniem i przes³aniem, mówi¹c: Niech ka¿dy zawróci ju¿ ze swej z³ej drogi i poprawi swoje uczynki, nie chodŸcie za innymi bogami ani im nie s³u¿cie, a bêdziecie mieszkaæ w tej ziemi, któr¹ da³em wam i waszym ojcom. Ale nie nak³oniliœcie swego ucha ani mnie nie us³uchaliœcie. </v>
+<v n="16"> I chocia¿ synowie Jonadaba, syna Rekaba, wype³nili nakaz swego ojca, który im przekaza³, to jednak ten lud nie by³ mi pos³uszny. </v>
+<v n="17"> Dlatego tak mówi PAN, Bóg zastêpów, Bóg Izraela: Oto sprowadzê na Judê i na wszystkich mieszkañców Jerozolimy ca³e nieszczêœcie, które wypowiedzia³em przeciwko nim, gdy¿ mówi³em do nich, a nie s³uchali, wo³a³em ich, a nie odpowiedzieli. </v>
+<v n="18"> Domowi Rekabitów Jeremiasz zaœ powiedzia³: Tak mówi PAN zastêpów, Bóg Izraela: Poniewa¿ byliœcie pos³uszni nakazowi Jonadaba, waszego ojca, i przestrzegaliœcie wszystkich jego przykazañ, i postêpowaliœcie zgodnie ze wszystkim, co wam nakaza³; </v>
+<v n="19"> Dlatego tak mówi PAN zastêpów, Bóg Izraela: Nie zabraknie Jonadabowi, synowi Rekaba, potomka, który by sta³ przede mn¹ po wszystkie dni. </v>
+</c>

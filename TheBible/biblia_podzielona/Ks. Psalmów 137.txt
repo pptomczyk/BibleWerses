@@ -1,0 +1,10 @@
+<v n="1"> Nad rzekami Babilonu, tam siedzieliœmy i p³akaliœmy, wspominaj¹c Syjon. </v>
+<v n="2"> Na wierzbach tamtej krainy zawiesiliœmy nasze harfy; </v>
+<v n="3"> Bo tam ci, którzy nas wziêli w niewolê, ¿¹dali od nas pieœni, a nasi ciemiêzcy – radoœci, mówi¹c: Œpiewajcie nam któr¹œ z pieœni Syjonu. </v>
+<v n="4"> Jak¿e mo¿emy œpiewaæ pieœñ PANA na obcej ziemi? </v>
+<v n="5"> Jeœli zapomnê o tobie, Jeruzalem, niech sama o sobie zapomni moja prawica. </v>
+<v n="6"> Niech mi jêzyk przylgnie do podniebienia, jeœli nie bêdê pamiêta³ o tobie, jeœli nie postawiê Jeruzalem ponad najwiêksz¹ moj¹ radoœæ. </v>
+<v n="7"> Pamiêtaj, PANIE, synów Edomu i dzieñ Jeruzalem, gdy mówili: Zburzcie, zburzcie je a¿ do jego fundamentu. </v>
+<v n="8"> O córko Babilonu, i ty bêdziesz spustoszona. B³ogos³awiony, kto ci odp³aci za z³o, jakie nam uczyni³aœ. </v>
+<v n="9"> B³ogos³awiony, kto schwyci i roztrzaska twe dzieci o ska³ê. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Nie pojmiesz sobie ¿ony ani nie bêdziesz mia³ synów i córek na tym miejscu. </v>
+<v n="3"> Tak bowiem mówi PAN o synach i córkach urodzonych na tym miejscu, o ich matkach, które ich urodz¹, i o ich ojcach, którzy ich sp³odz¹ w tej ziemi: </v>
+<v n="4"> Pomr¹ od ciê¿kich œmiertelnych chorób; nie bêd¹ op³akiwani ani pogrzebani, lecz stan¹ siê nawozem na powierzchni ziemi. Wygin¹ od miecza i g³odu, a ich trupy bêd¹ pokarmem dla ptactwa nieba i zwierz¹t ziemi. </v>
+<v n="5"> Tak bowiem mówi PAN: Nie wchodŸ do domu ¿a³oby i nie chodŸ op³akiwaæ ani ¿a³owaæ ich, bo odj¹³em mój pokój od tego ludu, mi³osierdzie i litoœæ, mówi PAN. </v>
+<v n="6"> Pomr¹ wielcy i mali w tej ziemi. Nie bêd¹ pogrzebani ani op³akiwani, nikt nie bêdzie dla nich siê nacina³ ani robi³ sobie ³ysiny; </v>
+<v n="7"> Nikt nie bêdzie ³amaæ chleba z tymi, którzy s¹ w ¿a³obie, aby ich pocieszyæ po zmar³ym, ani nie dadz¹ im piæ z kubka pocieszenia za ich ojca lub matkê. </v>
+<v n="8"> Nie wchodŸ do domu uczty, by zasi¹œæ z nimi do jedzenia i picia. </v>
+<v n="9"> Tak bowiem mówi PAN zastêpów, Bóg Izraela: Oto sprawiê, ¿e na waszych oczach i za waszych dni ustanie na tym miejscu g³os wesela i g³os radoœci, g³os oblubieñca i g³os oblubienicy. </v>
+<v n="10"> A gdy og³osisz temu ludowi wszystkie te s³owa, a zapytaj¹ ciê: Czemu PAN zapowiedzia³ przeciwko nam ca³e to wielkie nieszczêœcie? I jaka jest nasza nieprawoœæ, i jaki nasz grzech, który pope³niliœmy przeciwko PANU, naszemu Bogu? </v>
+<v n="11"> Wtedy powiesz im: Dlatego, ¿e wasi ojcowie opuœcili mnie, mówi PAN, i poszli za innymi bogami, s³u¿yli im i oddawali im pok³on, mnie zaœ opuœcili i nie przestrzegali mojego prawa. </v>
+<v n="12"> A wy czyniliœcie jeszcze gorzej ni¿ wasi ojcowie, bo oto ka¿dy z was postêpuje wed³ug uporu swego z³ego serca, nie s³uchaj¹c mnie; </v>
+<v n="13"> Dlatego wyrzucê was z tej ziemi do ziemi, której nie znaliœcie, ani wy, ani wasi ojcowie, i tam bêdziecie s³u¿yæ innym bogom dniem i noc¹, gdzie nie oka¿ê wam mi³osierdzia. </v>
+<v n="14"> Dlatego oto nadchodz¹ dni, mówi PAN, ¿e ju¿ nie bêd¹ mówiæ: Jak ¿yje PAN, który wyprowadzi³ synów Izraela z ziemi Egiptu; </v>
+<v n="15"> Ale: Jak ¿yje PAN, który wyprowadzi³ synów Izraela z ziemi pó³nocnej i ze wszystkich ziem, do których ich wygna³. I sprowadzê ich znowu do ich ziemi, któr¹ da³em ich ojcom. </v>
+<v n="16"> Oto poœlê po wielu rybaków, mówi PAN, i ci ich wy³owi¹; potem poœlê po wielu myœliwych, i ci ich upoluj¹ na ka¿dej górze i na ka¿dym pagórku, i w rozpadlinach skalnych. </v>
+<v n="17"> Moje oczy bowiem patrz¹ na wszystkie ich drogi. Nie s¹ ukryte przed moim obliczem ani ich nieprawoœæ nie jest zakryta przed moimi oczami. </v>
+<v n="18"> Najpierw odp³acê im podwójnie za ich nieprawoœci i za ich grzechy, za to, ¿e zbezczeœcili moj¹ ziemiê trupami swoich obrzydliwoœci i nape³nili moje dziedzictwo swoimi ohydami. </v>
+<v n="19"> PANIE, moja mocy i si³o, moja ucieczko w dniu utrapienia! Do ciebie przyjd¹ poganie od krañców ziemi i powiedz¹: Zaprawdê, nasi ojcowie odziedziczyli k³amstwa i marnoœci, w których nie by³o ¿adnego po¿ytku. </v>
+<v n="20"> Czy cz³owiek mo¿e uczyniæ sobie bogów? Przecie¿ to nie s¹ bogowie. </v>
+<v n="21"> Dlatego oto ja sprawiê, ¿e poznaj¹ tym razem; sprawiê, ¿e poznaj¹ moj¹ rêkê i moc, i dowiedz¹ siê, ¿e moje imiê to PAN. </v>
+</c>

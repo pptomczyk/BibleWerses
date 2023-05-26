@@ -1,0 +1,18 @@
+<v n="1"> Brzemiê, które widzia³ prorok Habakuk. </v>
+<v n="2"> PANIE, jak d³ugo bêdê wo³aæ, a nie bêdziesz wys³uchiwa³? Jak d³ugo bêdê krzyczeæ do ciebie o krzywdzie, a nie bêdziesz wybawia³? </v>
+<v n="3"> Czemu dopuszczasz, abym patrzy³ na nieprawoœæ i widzia³ bezprawie? Zguba i przemoc s¹ przede mn¹ i znajduje siê ten, który roznieca spory i niezgodê. </v>
+<v n="4"> Dlatego prawo jest naruszone, a nie ma ju¿ sprawiedliwoœci. Niegodziwy bowiem osacza sprawiedliwego, dlatego wydawane s¹ b³êdne wyroki. </v>
+<v n="5"> Spójrzcie na narody, zobaczcie i zdumiejcie siê bardzo, gdy¿ dokonujê dzie³a za waszych dni, w które nie uwierzycie, gdy wam o nim opowiedz¹. </v>
+<v n="6"> Oto bowiem wzbudzê Chaldejczyków, naród srogi i gwa³towny; przejd¹ przez szerokoœæ ziemi, aby posi¹œæ cudze miejsca zamieszkania. </v>
+<v n="7"> Straszni s¹ i groŸni. Sami ustalaj¹ swój s¹d i swoj¹ wielkoœæ. </v>
+<v n="8"> Ich konie s¹ szybsze ni¿ lamparty, dziksze ni¿ wilki o zmierzchu. Ich jeŸdŸcy rozci¹gn¹ siê szeroko, ich jeŸdŸcy przybêd¹ z daleka, przylec¹ jak orze³ spiesz¹cy siê na ¿er. </v>
+<v n="9"> Ka¿dy z nich przybêdzie dla ³upu. Ich twarze bêd¹ zwrócone na wschód i zgromadz¹ jeñców jak piasek. </v>
+<v n="10"> Bêd¹ szydziæ z królów, a ksi¹¿êta bêd¹ u nich przedmiotem pogardy. Z ka¿dej twierdzy bêd¹ siê naœmiewaæ, usypi¹ wa³y i zdobêd¹ j¹. </v>
+<v n="11"> Wtedy jego duch siê odmieni, a wyst¹pi i zawini, myœl¹c, ¿e jego moc pochodzi od jego boga. </v>
+<v n="12"> Czy ty nie jesteœ od wieków, PANIE, mój Bo¿e, mój Œwiêty? My nie umrzemy. PANIE, postawi³eœ ich na s¹d. Ty, nasza Ska³o, przeznaczy³eœ ich na karanie. </v>
+<v n="13"> Twoje oczy s¹ tak czyste, ¿e nie mo¿esz patrzeæ na z³o ani widzieæ bezprawia. Czemu patrzysz na czyni¹cych przewrotnoœæ? Czemu milczysz, gdy niegodziwy po¿era sprawiedliwszego ni¿ on sam? </v>
+<v n="14"> Czemu czynisz ludzi jak ryby morskie, jak zwierzêta pe³zaj¹ce, które nie maj¹ pana? </v>
+<v n="15"> Wyci¹ga wszystkie wêdk¹, zagarnia je swoim niewodem i gromadzi je w swojej sieci. Dlatego cieszy siê i raduje. </v>
+<v n="16"> Dlatego sk³ada ofiarê swemu niewodowi i pali kadzid³o swojej sieci. Przez nie bowiem jego dzia³ jest obfity i jego po¿ywienie bogatsze. </v>
+<v n="17"> Czy dlatego bêdzie zarzucaæ swoj¹ sieæ, by nieustannie zabijaæ narody bez litoœci? </v>
+</c>

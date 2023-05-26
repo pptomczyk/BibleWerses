@@ -1,0 +1,18 @@
+<v n="1"> Jozue wsta³ wczeœnie rano i on oraz wszyscy synowie Izraela wyruszyli z Szittim, i przyszli nad Jordan; i tam przenocowali, zanim siê przeprawili przez rzekê. </v>
+<v n="2"> A po up³ywie trzech dni prze³o¿eni przeszli przez obóz; </v>
+<v n="3"> I rozkazali ludowi: Gdy ujrzycie arkê przymierza PANA, swojego Boga, i nios¹cych j¹ kap³anów Lewitów, wy tak¿e wyruszycie ze swego miejsca i pójdziecie za ni¹. </v>
+<v n="4"> Pomiêdzy wami a ni¹ niech bêdzie jednak odleg³oœæ oko³o dwóch tysiêcy ³okci. Nie zbli¿ajcie siê do niej, abyœcie poznali drogê, któr¹ macie iœæ, gdy¿ nie szliœcie t¹ drog¹ nigdy dot¹d. </v>
+<v n="5"> Wtedy Jozue powiedzia³ do ludu: Poœwiêæcie siê, gdy¿ jutro PAN dokona cudów poœród was. </v>
+<v n="6"> Do kap³anów zaœ Jozue powiedzia³: WeŸcie arkê przymierza i idŸcie przed ludem. Wziêli wiêc arkê przymierza i szli przed ludem. </v>
+<v n="7"> I PAN powiedzia³ do Jozuego: Dziœ zacznê ciê wywy¿szaæ na oczach ca³ego Izraela, aby poznali, ¿e jak by³em z Moj¿eszem, tak bêdê i z tob¹. </v>
+<v n="8"> Rozka¿ kap³anom nios¹cym arkê przymierza: Gdy dojdziecie do brzegu wód Jordanu, zatrzymajcie siê w Jordanie. </v>
+<v n="9"> Wtedy Jozue powiedzia³ do synów Izraela: Zbli¿cie siê i s³uchajcie s³ów PANA, swojego Boga. </v>
+<v n="10"> I Jozue doda³: Po tym poznacie, ¿e Bóg ¿ywy jest wœród was i ¿e na pewno wypêdzi przed wami Kananejczyków, Chetytów, Chiwwitów, Peryzzytów, Girgaszytów, Amorytów i Jebusytów. </v>
+<v n="11"> Oto arka przymierza PANA ca³ej ziemi przejdzie przed wami przez Jordan. </v>
+<v n="12"> Teraz wiêc wybierzcie sobie dwunastu mê¿czyzn z pokoleñ Izraela, po jednym z ka¿dego pokolenia; </v>
+<v n="13"> A gdy stopy kap³anów nios¹cych arkê PANA, Pana ca³ej ziemi, stan¹ w wodzie Jordanu, wtedy wody Jordanu siê rozdziel¹ i wody p³yn¹ce z góry stan¹ jak jeden wa³. </v>
+<v n="14"> Gdy wiêc lud wyruszy³ ze swoich namiotów, aby przeprawiæ siê przez Jordan, a kap³ani nios¹cy arkê przymierza szli przed ludem; </v>
+<v n="15"> I kiedy nios¹cy arkê przyszli nad Jordan, a nogi kap³anów, którzy nieœli arkê, zanurzy³y siê w wodzie przy brzegu (Jordan bowiem wzbiera i wylewa na wszystkie swoje brzegi przez ca³y czas ¿niwa); </v>
+<v n="16"> Wtedy wody p³yn¹ce z góry zatrzyma³y siê i stanê³y jak jeden wa³ bardzo daleko od miasta Adam le¿¹cego w pobli¿u Sartan. A te, które p³ynê³y w dó³ do Morza Pustyni, czyli do Morza S³onego, odp³ynê³y zupe³nie. I tak lud przeprawi³ siê naprzeciw Jerycha. </v>
+<v n="17"> A kap³ani nios¹cy arkê przymierza PANA stali pewnie na suchej ziemi poœrodku Jordanu, a wszyscy Izraelici szli po suchej ziemi, a¿ ca³y lud przeprawi³ siê przez Jordan. </v>
+</c>

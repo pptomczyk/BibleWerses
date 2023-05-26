@@ -1,0 +1,23 @@
+<v n="1"> Cz³owiek, urodzony przez kobietê, ma dni niewiele i ma pe³no k³opotów; </v>
+<v n="2"> Wyrasta jak kwiat i zostaje podciêty, znika jak cieñ i siê nie ostaje. </v>
+<v n="3"> A jednak na takiego otwierasz swoje oczy i wzywasz mnie przed siebie na s¹d. </v>
+<v n="4"> Któ¿ mo¿e wydobyæ czystego z nieczystego? Ani jeden. </v>
+<v n="5"> Gdy¿ jego dni s¹ ustalone, liczba jego miesiêcy jest u ciebie; wyznaczy³eœ mu kres, którego nie mo¿e przekroczyæ. </v>
+<v n="6"> Odst¹p od niego, aby odpocz¹³, a¿ zakoñczy swój dzieñ jak najemnik. </v>
+<v n="7"> Dla drzewa bowiem jest nadzieja, choæ je wytn¹, ¿e znowu odroœnie, ¿e jego latoroœl nie ustanie. </v>
+<v n="8"> Choæ jego korzeñ zestarzeje siê w ziemi i jego pieñ umrze w prochu; </v>
+<v n="9"> To jednak gdy poczuje wodê, odrasta i rozpuszcza ga³êzie jak sadzonka. </v>
+<v n="10"> Ale cz³owiek umiera i marnieje; a gdy oddaje ducha, gdzie on jest? </v>
+<v n="11"> Jak ubywa wód z morza i rzeka opada, i wysycha; </v>
+<v n="12"> Tak jest z cz³owiekiem, gdy siê po³o¿y i ju¿ nie wstanie; dopóki niebiosa bêd¹ trwaæ, nie ocknie siê ani nie bêdzie obudzony ze swego snu. </v>
+<v n="13"> Obyœ mnie w grobie ukry³ i schowa³, a¿ twój gniew siê uciszy, wyznaczy³ mi czas i wspomnia³ na mnie. </v>
+<v n="14"> Gdy cz³owiek umrze, czy znowu o¿yje? Przez wszystkie dni wyznaczonego mi czasu bêdê czeka³, a¿ nadejdzie moja zmiana. </v>
+<v n="15"> Zawo³asz, a ja ci odpowiem; zatêsknisz za dzie³em swoich r¹k. </v>
+<v n="16"> Teraz jednak liczysz moje kroki. Czy nie zwa¿asz na mój grzech? </v>
+<v n="17"> Mój wystêpek jest zapieczêtowany w woreczku, gromadzisz moje nieprawoœci. </v>
+<v n="18"> Doprawdy, góra pada i rozsypuje siê, i ska³a przesuwa siê ze swego miejsca. </v>
+<v n="19"> Wody wydr¹¿aj¹ kamienie, ulewa podrywa to, co wyroœnie z prochu ziemi, a ty nadziejê cz³owieka obracasz wniwecz. </v>
+<v n="20"> Stale pokonujesz go, a on odchodzi; zmieniasz jego oblicze i odprawiasz go. </v>
+<v n="21"> Jego synowie darzeni s¹ szacunkiem, lecz on o tym nie wie; ¿yj¹ w pogardzie, lecz na to nie zwa¿a. </v>
+<v n="22"> Ale jego w³asne cia³o odczuwa ból, a jego dusza w nim p³acze. </v>
+</c>

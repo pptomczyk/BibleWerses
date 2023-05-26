@@ -1,0 +1,7 @@
+<v n="1"> Przewodnikowi chóru, na Machalat. Psalm pouczaj¹cy Dawida. G³upi mówi w swoim sercu: Nie ma Boga. S¹ zepsuci i czyni¹ obrzydliw¹ nieprawoœæ; nie ma nikogo, kto by czyni³ dobro. </v>
+<v n="2"> Bóg spojrza³ z niebios na synów ludzkich, aby zobaczyæ, czy jest ktoœ rozumny i szukaj¹cy Boga. </v>
+<v n="3"> Wszyscy zboczyli z drogi, wszyscy jednakowo znikczemnieli; nie ma nikogo, kto by czyni³ dobro, nie ma ani jednego. </v>
+<v n="4"> Czy¿ s¹ nierozumni czyni¹cy nieprawoœæ, którzy po¿eraj¹ mój lud, jakby chleb jedli, a Boga nie wzywaj¹? </v>
+<v n="5"> Tam ogarn¹³ ich strach, gdzie nie by³o powodu do strachu, Bóg bowiem rozproszy³ koœci tych, którzy ciê oblegali; ty okryjesz ich hañb¹, bo Bóg nimi wzgardzi³. </v>
+<v n="6"> Któ¿ zeœle z Syjonu zbawienie Izraelowi? Gdy Bóg odwróci niewolê swego ludu, Jakub siê rozraduje i rozweseli siê Izrael. </v>
+</c>

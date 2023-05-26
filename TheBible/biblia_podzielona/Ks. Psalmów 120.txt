@@ -1,0 +1,8 @@
+<v n="1"> Pieœñ stopni. Wo³a³em do PANA w swoim utrapieniu i wys³ucha³ mnie. </v>
+<v n="2"> Ocal, PANIE, moj¹ duszê od warg k³amliwych i od zdradliwego jêzyka. </v>
+<v n="3"> Có¿ bêdzie ci dane albo co siê stanie z tob¹, zdradliwy jêzyku? </v>
+<v n="4"> Ostre strza³y mocarza i wêgle z ja³owca. </v>
+<v n="5"> Biada mi, ¿e przebywam w Meszek i mieszkam w namiotach Kedaru. </v>
+<v n="6"> Moja dusza d³ugo mieszka z tymi, którzy nienawidz¹ pokoju. </v>
+<v n="7"> Ja jestem za pokojem, ale gdy o tym mówiê, oni s¹ za wojn¹. </v>
+</c>

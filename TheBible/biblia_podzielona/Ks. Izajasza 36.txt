@@ -1,0 +1,23 @@
+<v n="1"> W czternastym roku królowania Ezechiasza Sennacheryb, król Asyrii, wyruszy³ przeciwko wszystkim warownym miastom Judy i zdoby³ je. </v>
+<v n="2"> I król Asyrii pos³a³ Rabszaka z Lakisz do Jerozolimy, do króla Ezechiasza, z wielkim wojskiem. Ten stan¹³ przy kanale górnej sadzawki przy drodze pola folusznika. </v>
+<v n="3"> Wtedy wyszli do niego Eliakim, syn Chilkiasza, prze³o¿ony domu, i Szebna, pisarz, oraz Joach, syn Asafa, kronikarz. </v>
+<v n="4"> Wtedy Rabszak powiedzia³ do nich: Proszê, powiedzcie Ezechiaszowi: Tak mówi wielki król, król Asyrii: Co to za ufnoœæ, na której polegasz? </v>
+<v n="5"> Mówisz – ale to s³owa daremne – mam doœæ du¿o rad i si³y do wojny. Teraz wiêc w kim pok³adasz ufnoœæ, ¿e zbuntowa³eœ siê przeciwko mnie? </v>
+<v n="6"> Oto opierasz siê na tej nad³amanej lasce trzcinowej – na Egipcie – która, gdy ktoœ siê oprze na niej, wbija mu siê w d³oñ i przebija j¹. Taki jest faraon, król Egiptu, dla wszystkich, którzy mu ufaj¹. </v>
+<v n="7"> A jeœli mi powiesz: Ufamy PANU, naszemu Bogu, czy on nie jest tym, którego wy¿yny i o³tarze zniós³ Ezechiasz i nakaza³ Judzie i Jerozolimie: Przed tym o³tarzem bêdziecie oddawaæ pok³on? </v>
+<v n="8"> Dlatego teraz proszê, daj zastaw memu panu, królowi Asyrii, a ja dam ci dwa tysi¹ce koni, jeœli zdo³asz posadziæ na nich jeŸdŸców. </v>
+<v n="9"> Jak¿e wiêc stawisz opór jednemu dowódcy z najmniejszych s³ug mego pana, a pok³adasz nadziejê w Egipcie, ¿e otrzymasz rydwany i jeŸdŸców? </v>
+<v n="10"> Poza tym czy bez woli PANA wyruszy³em przeciw tej ziemi, aby j¹ zniszczyæ? PAN powiedzia³ do mnie: Wyrusz przeciwko tej ziemi i spustosz j¹. </v>
+<v n="11"> Wtedy Eliakim, Szebna i Joach powiedzieli do Rabszaka: Proszê, mów do swoich s³ug po syryjsku, bo rozumiemy, a nie mów do nas po hebrajsku wobec ludu, który jest na murze. </v>
+<v n="12"> Lecz Rabszak odpowiedzia³: Czy do twego pana i do ciebie pos³a³ mnie mój pan, abym mówi³ te s³owa? Czy¿ nie do tych mê¿czyzn siedz¹cych na murze, aby jedli swój ka³ i pili swój mocz razem z wami? </v>
+<v n="13"> Sta³ wiêc Rabszak i zawo³a³ donoœnym g³osem po hebrajsku tymi s³owami: S³uchajcie s³ów wielkiego króla, króla Asyrii. </v>
+<v n="14"> Tak mówi król: Niech was nie zwodzi Ezechiasz, bo nie bêdzie móg³ was wybawiæ. </v>
+<v n="15"> A nie dajcie siê przekonaæ Ezechiaszowi, by zaufaæ PANU, gdy mówi: Na pewno PAN nas wybawi i to miasto nie bêdzie wydane w rêce króla Asyrii. </v>
+<v n="16"> Nie s³uchajcie Ezechiasza. Tak bowiem powiedzia³ król Asyrii: Zawrzyjcie ze mn¹ przymierze i wyjdŸcie do mnie, a ka¿dy bêdzie jeœæ ze swojej winoroœli i ze swego drzewa figowego i ka¿dy bêdzie piæ wodê ze swojej studni; </v>
+<v n="17"> A¿ przyjdê i zabiorê was do ziemi podobnej do waszej ziemi, do ziemi zbo¿a i wina, do ziemi chleba i winnic. </v>
+<v n="18"> Niech Ezechiasz nie zwodzi was, mówi¹c: PAN nas wybawi. Czy bogowie innych narodów mogli wybawiæ swoj¹ ziemiê z rêki króla Asyrii? </v>
+<v n="19"> Gdzie s¹ bogowie Chamatu i Arpadu? Gdzie s¹ bogowie Sefarwaim? Czy wybawili Samariê z mojej rêki? </v>
+<v n="20"> Którzy spoœród wszystkich bogów tych ziem wybawili swoj¹ ziemiê z mojej rêki, ¿eby PAN mia³ wybawiæ Jerozolimê z mojej rêki? </v>
+<v n="21"> Lecz lud milcza³ i nie odpowiedzia³ mu ani s³owa, bo taki by³ rozkaz króla: Nie odpowiadajcie mu. </v>
+<v n="22"> Wtedy prze³o¿ony domu Eliakim, syn Chilkiasza, pisarz Szebna i kronikarz Joach, syn Asafa, przyszli do Ezechiasza z rozdartymi szatami i oznajmili mu s³owa Rabszaka. </v>
+</c>

@@ -1,0 +1,10 @@
+<v n="1"> PAN króluje, niech dr¿¹ narody; siedzi miêdzy cherubinami, niech zachwieje siê ziemia. </v>
+<v n="2"> Wielki jest PAN na Syjonie i wywy¿szony nad wszystkie narody. </v>
+<v n="3"> Niech wys³awiaj¹ twoje wielkie i straszne imiê, bo jest œwiête. </v>
+<v n="4"> Moc króla mi³uje s¹d, ty ustanowi³eœ s³usznoœæ, ty wykonujesz s¹d i sprawiedliwoœæ w Jakubie. </v>
+<v n="5"> Wywy¿szajcie PANA, naszego Boga, i oddajcie pok³on u podnó¿ka jego stóp, bo on jest œwiêty. </v>
+<v n="6"> Moj¿esz i Aaron wœród jego kap³anów, a Samuel wœród tych, którzy wzywaj¹ jego imienia; wo³ali do PANA, a on ich wys³ucha³. </v>
+<v n="7"> W s³upie ob³oku mówi³ do nich, a oni strzegli jego œwiadectw i praw, które im da³. </v>
+<v n="8"> PANIE, nasz Bo¿e, ty ich wys³uchiwa³eœ, by³eœ dla nich Bogiem, który przebacza, choæ kara³eœ ich za ich wystêpki. </v>
+<v n="9"> Wywy¿szajcie PANA, naszego Boga, i oddajcie pok³on na jego œwiêtej górze, bo PAN, nasz Bóg, jest œwiêty. </v>
+</c>

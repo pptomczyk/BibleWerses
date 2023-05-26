@@ -1,0 +1,20 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida, gdy do niego przyszed³ prorok Natan po tym, jak on wszed³ do Batszeby. Zmi³uj siê nade mn¹, Bo¿e, wed³ug twojego mi³osierdzia; wed³ug twojej wielkiej litoœci zg³adŸ moje wystêpki. </v>
+<v n="2"> Obmyj mnie zupe³nie z mojej nieprawoœci i oczyœæ mnie z mego grzechu. </v>
+<v n="3"> Uznajê bowiem moje wystêpki, a mój grzech zawsze jest przede mn¹. </v>
+<v n="4"> Przeciw tobie, tobie samemu, zgrzeszy³em i z³o uczyni³em na twoich oczach, abyœ okaza³ siê sprawiedliwy w swoich s³owach i czysty w swoim s¹dzie. </v>
+<v n="5"> Oto zosta³em zrodzony w nieprawoœci i w grzechu poczê³a mnie moja matka. </v>
+<v n="6"> Oto mi³ujesz prawdê wewnêtrzn¹ i w g³êbi serca dasz mi poznaæ m¹droœæ. </v>
+<v n="7"> Oczyœæ mnie hizopem, a bêdê oczyszczony; obmyj mnie, a stanê siê bielszy od œniegu. </v>
+<v n="8"> Daj mi us³yszeæ radoœæ i wesele; niech siê rozraduj¹ koœci, które skruszy³eœ. </v>
+<v n="9"> Odwróæ swe oblicze od moich grzechów i zg³adŸ wszystkie moje nieprawoœci. </v>
+<v n="10"> Stwórz we mnie serce czyste, o Bo¿e, i odnów we mnie ducha prawego. </v>
+<v n="11"> Nie odrzucaj mnie sprzed twego oblicza i nie odbieraj mi swego Ducha Œwiêtego. </v>
+<v n="12"> Przywróæ mi radoœæ twego zbawienia i wesprzyj mnie duchem ochoczym. </v>
+<v n="13"> Wtedy bêdê naucza³ przestêpców twoich dróg i grzesznicy nawróc¹ siê do ciebie. </v>
+<v n="14"> Uwolnij mnie od winy za przelanie krwi, o Bo¿e, Bo¿e mego zbawienia, a mój jêzyk bêdzie wys³awia³ twoj¹ sprawiedliwoœæ. </v>
+<v n="15"> Panie, otwórz moje wargi, a moje usta bêd¹ g³osiæ twoj¹ chwa³ê. </v>
+<v n="16"> Ty bowiem nie pragniesz ofiar, choæbym ci je da³, ani nie przyjmiesz ca³opalenia. </v>
+<v n="17"> Ofiary dla Boga to duch skruszony; sercem skruszonym i zgnêbionym nie wzgardzisz, o Bo¿e! </v>
+<v n="18"> Oka¿ dobroæ Syjonowi wed³ug twego upodobania; odbuduj mury Jeruzalem. </v>
+<v n="19"> Wtedy przyjmiesz ofiary sprawiedliwoœci, ofiary ogniste i ca³opalenia; wtedy bêd¹ sk³adaæ cielce na twoim o³tarzu. </v>
+</c>

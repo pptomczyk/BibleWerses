@@ -1,0 +1,11 @@
+<v n="1"> Wtedy s³owo PANA dosz³o do Jonasza po raz drugi mówi¹ce: </v>
+<v n="2"> Wstañ, idŸ do Niniwy, tego wielkiego miasta, i g³oœ przeciwko niej to, co ci rozkazujê. </v>
+<v n="3"> Wsta³ wiêc Jonasz i poszed³ do Niniwy zgodnie ze s³owem PANA. A Niniwa by³a bardzo wielkim miastem, na trzy dni drogi. </v>
+<v n="4"> Jonasz zacz¹³ chodziæ po mieœcie, ile móg³ przejœæ w jeden dzieñ, i wo³a³: Po czterdziestu dniach Niniwa zostanie zburzona. </v>
+<v n="5"> I mieszkañcy Niniwy uwierzyli Bogu, og³osili post i oblekli siê w wory, od najwiêkszego z nich a¿ do najmniejszego. </v>
+<v n="6"> Dosz³a bowiem ta sprawa do króla Niniwy i powsta³ z tronu, i zdj¹³ z siebie p³aszcz, po czym oblek³ siê w wór i siedzia³ w popiele. </v>
+<v n="7"> Rozkaza³ og³osiæ i opowiadaæ w Niniwie z dekretu króla i swoich ksi¹¿¹t: Ludzie i zwierzêta, wo³y i owce niech nic nie jedz¹, niech siê nie pas¹ i wody nie pij¹; </v>
+<v n="8"> Ale ludzie i zwierzêta niech siê okryj¹ worami i niech gorliwie wo³aj¹ do Boga. Niech ka¿dy siê odwróci od swojej z³ej drogi i od grabie¿y pope³nianej swoimi rêkami. </v>
+<v n="9"> Kto wie, czy Bóg siê nie odwróci i nie po¿a³uje, i nie odst¹pi od zapalczywoœci swego gniewu, abyœmy nie zginêli. </v>
+<v n="10"> I Bóg widzia³ ich czyny, ¿e odwrócili siê od swojej z³ej drogi, i Bóg po¿a³owa³ tego nieszczêœcia, które zapowiedzia³ im czyniæ, a nie uczyni³. </v>
+</c>

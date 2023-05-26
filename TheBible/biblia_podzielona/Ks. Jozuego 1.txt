@@ -1,0 +1,19 @@
+<v n="1"> Po œmierci Moj¿esza, s³ugi PANA, powiedzia³ PAN do Jozuego, syna Nuna, s³ugi Moj¿esza: </v>
+<v n="2"> Moj¿esz, mój s³uga, umar³; teraz wiêc wstañ, przepraw siê przez ten Jordan, ty i ca³y ten lud, do ziemi, któr¹ dajê im, synom Izraela. </v>
+<v n="3"> Ka¿de miejsce, po którym bêdzie st¹paæ wasza noga, da³em wam, jak obieca³em Moj¿eszowi. </v>
+<v n="4"> Od pustyni i od Libanu a¿ do wielkiej rzeki, rzeki Eufrat, ca³a ziemia Chetytów, a¿ do Morza Wielkiego na zachodzie, bêdzie wasza granica. </v>
+<v n="5"> Nikt nie ostoi siê przed tob¹ po wszystkie dni twego ¿ycia; jak by³em z Moj¿eszem, tak bêdê z tob¹. Nie porzucê ciê ani ciê nie opuszczê. </v>
+<v n="6"> Wzmocnij siê i b¹dŸ mê¿ny. Ty bowiem dasz temu ludowi w dziedzictwo ziemiê, któr¹ przysi¹g³em daæ ich ojcom. </v>
+<v n="7"> Tylko wzmocnij siê i b¹dŸ bardzo mê¿ny, abyœ pilnowa³ wype³niania wszystkiego wed³ug prawa, które nakaza³ ci Moj¿esz, mój s³uga. Nie odstêpuj od niego ani na prawo, ani na lewo, aby ci siê wiod³o, dok¹dkolwiek pójdziesz. </v>
+<v n="8"> Niech ta ksiêga Prawa nie oddala siê od twoich ust, ale rozmyœlaj o niej we dnie i w nocy, abyœ pilnowa³ wype³nienia wszystkiego, co w niej jest napisane. Wtedy bowiem poszczêœci siê twojej drodze i bêdzie ci siê wiod³o. </v>
+<v n="9"> Czy¿ ci nie nakaza³em? Wzmocnij siê i b¹dŸ mê¿ny. Nie lêkaj siê i nie przera¿aj, gdy¿ PAN, twój Bóg, jest z tob¹, dok¹dkolwiek pójdziesz. </v>
+<v n="10"> Wtedy Jozue rozkaza³ prze³o¿onym ludu: </v>
+<v n="11"> PrzejdŸcie przez obóz i rozka¿cie ludowi: Przygotujcie sobie ¿ywnoœæ, bo za trzy dni przejdziecie przez ten Jordan, aby wejœæ i posi¹œæ ziemiê, któr¹ PAN, wasz Bóg, daje wam w posiadanie. </v>
+<v n="12"> A do Rubenitów, Gadytów i po³owy pokolenia Manassesa Jozue powiedzia³: </v>
+<v n="13"> Przypomnijcie sobie s³owo, które nakaza³ wam Moj¿esz, s³uga PANA: PAN, wasz Bóg, zapewni³ wam odpoczynek i da³ wam tê ziemiê; </v>
+<v n="14"> Niech wasze ¿ony, dzieci i byd³o zostan¹ w ziemi, któr¹ Moj¿esz da³ wam po tej stronie Jordanu; wy zaœ, wszyscy dzielni wojownicy, pójdziecie uzbrojeni przed waszymi braæmi i bêdziecie im pomagaæ; </v>
+<v n="15"> A¿ PAN da odpoczynek waszym braciom, jak i wam, i oni posi¹d¹ ziemiê, któr¹ daje im PAN, wasz Bóg. Potem wrócicie do ziemi swojej posiad³oœci, któr¹ da³ wam Moj¿esz, s³uga PANA, po tej stronie Jordanu na wschodzie, i posi¹dziecie j¹. </v>
+<v n="16"> I odpowiedzieli Jozuemu: Wszystko, co nam nakaza³eœ, uczynimy i gdziekolwiek nas poœlesz, pójdziemy. </v>
+<v n="17"> Jak byliœmy pos³uszni Moj¿eszowi we wszystkim, tak bêdziemy pos³uszni i tobie. Niech tylko PAN, twój Bóg, bêdzie z tob¹, jak by³ z Moj¿eszem. </v>
+<v n="18"> Ktokolwiek sprzeciwi siê twemu rozkazowi i nie bêdzie pos³uszny twoim s³owom we wszystkim, co mu rozka¿esz, niech umrze. Tylko wzmocnij siê i b¹dŸ mê¿ny. </v>
+</c>

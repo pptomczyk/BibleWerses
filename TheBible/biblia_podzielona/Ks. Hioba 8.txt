@@ -1,0 +1,23 @@
+<v n="1"> Wtedy Bildad z Szuach odpowiedzia³: </v>
+<v n="2"> Jak d³ugo bêdziesz mówi³ takie rzeczy? Jak d³ugo s³owa z twoich ust bêd¹ jak gwa³towny wiatr? </v>
+<v n="3"> Czy Bóg wypacza s¹d? Czy Wszechmocny wypacza sprawiedliwoœæ? </v>
+<v n="4"> Jeœli twoi synowie zgrzeszyli przeciwko niemu, a on ich odrzuci³ za ich nieprawoœæ; </v>
+<v n="5"> Jeœli zwrócisz siê pilnie do Boga i bêdziesz b³agaæ Wszechmocnego; </v>
+<v n="6"> Jeœli jesteœ czysty i prawy, wtedy na pewno obudzi siê dla ciebie i poszczêœci mieszkaniu twojej sprawiedliwoœci. </v>
+<v n="7"> A choæby twój pocz¹tek by³ niewielki, jednak twój koniec bardzo siê rozmno¿y. </v>
+<v n="8"> Bo zapytaj, proszê, dawnych pokoleñ i rozwa¿ doœwiadczenie ich ojców; </v>
+<v n="9"> (My bowiem jesteœmy wczorajsi i nic nie wiemy, poniewa¿ nasze dni na ziemi s¹ jak cieñ). </v>
+<v n="10"> Czy oni nie poucz¹ ciê i nie powiedz¹ ci, i czy z ich serc nie wyp³yn¹ s³owa? </v>
+<v n="11"> Czy sitowie uroœnie bez wilgoci? Czy trzcina uroœnie bez wody? </v>
+<v n="12"> Chocia¿ jeszcze jest œwie¿a i nieskoszona, prêdzej usycha ni¿ inna trawa. </v>
+<v n="13"> Takie s¹ drogi wszystkich, którzy zapominaj¹ Boga, i tak zginie nadzieja ob³udnika. </v>
+<v n="14"> Jego nadzieja zostanie podciêta, a jego ufnoœæ bêdzie jak pajêczyna. </v>
+<v n="15"> Oprze siê o swój dom, ale siê nie ostoi; uchwyci siê go, ale nie przetrwa. </v>
+<v n="16"> Zieleni siê na s³oñcu i w ogrodzie jego œwie¿a latoroœl wyrasta. </v>
+<v n="17"> Jego korzenie s¹ spl¹tane wœród kamieni i wyrastaj¹ spoœród nich. </v>
+<v n="18"> Ale gdy go wyrw¹ z jego miejsca, wtedy miejsce to wyprze siê go, mówi¹c: Nie widzia³em ciê. </v>
+<v n="19"> Takie oto jest szczêœcie jego drogi, a z ziemi wyrosn¹ inni. </v>
+<v n="20"> Oto Bóg nie odrzuci cz³owieka prawego, ale z³oczyñcom nie poda rêki; </v>
+<v n="21"> A¿ siê nape³ni¹ twoje usta uœmiechem, a twoje wargi radoœci¹. </v>
+<v n="22"> Gdy¿ ci, którzy ciê nienawidz¹, okryj¹ siê hañb¹, a namiotu niegodziwych ju¿ nie bêdzie. </v>
+</c>

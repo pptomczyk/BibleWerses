@@ -1,0 +1,25 @@
+<v n="1"> S³owo, które dosz³o do Jeremiasza od PANA, mówi¹ce: </v>
+<v n="2"> Tak mówi PAN, Bóg Izraela: Napisz sobie w ksiêdze wszystkie s³owa, które powiedzia³em do ciebie. </v>
+<v n="3"> Oto bowiem nadchodz¹ dni, mówi PAN, gdy odwrócê niewolê swego ludu Izraela i Judy, mówi PAN, i sprowadzê ich do ziemi, któr¹ da³em ich ojcom, i posi¹d¹ j¹. </v>
+<v n="4"> A to s¹ s³owa, które PAN mówi³ o Izraelu i o Judzie: </v>
+<v n="5"> Tak mówi PAN: S³yszeliœmy g³os strachu i lêku, a nie pokoju. </v>
+<v n="6"> Pytajcie teraz i zobaczcie: Czy mê¿czyzna mo¿e rodziæ? Czemu wiêc widzê, ¿e ka¿dy mê¿czyzna trzyma rêce na biodrach – jak u rodz¹cej – i ¿e ich twarze sta³y siê blade? </v>
+<v n="7"> Biada! Bo wielki jest ten dzieñ, ¿e nie bêdzie mu równego. To jest czas utrapienia Jakuba, ale bêdzie z niego wybawiony. </v>
+<v n="8"> W tym dniu bowiem, mówi PAN zastêpów, z³amiê jego jarzmo znad twojej szyi i rozerwê twoje wiêzy, i cudzoziemcy ju¿ nie bêd¹ go ujarzmiaæ; </v>
+<v n="9"> Ale bêd¹ s³u¿yæ PANU, swemu Bogu, i Dawidowi, swemu królowi, którego im wzbudzê. </v>
+<v n="10"> Dlatego nie bój siê, mój s³ugo, Jakubie, mówi PAN, nie lêkaj siê, Izraelu! Oto bowiem wybawiê ciê z daleka, twoje potomstwo z ziemi jego niewoli. Powróci Jakub, aby zaznaæ odpoczynku i spokoju i nikt nie bêdzie go straszy³. </v>
+<v n="11"> Ja bowiem jestem z tob¹, mówi PAN, aby ciê wybawiæ. A chocia¿ po³o¿ê kres wszystkim narodom, wœród których ciê rozproszy³em, tobie jednak nie po³o¿ê kresu, ale ukarzê ciê sprawiedliwie, nie zostawiê ciê ca³kiem bez kary. </v>
+<v n="12"> Tak mówi PAN: Twoje zranienie jest nieuleczalne, bardzo bolesna twoja rana. </v>
+<v n="13"> Nie ma nikogo, kto by broni³ twojej sprawy, abyœ by³a uleczona. Nie masz lekarstwa na gojenie ran. </v>
+<v n="14"> Wszyscy twoi kochankowie zapomnieli o tobie, nie szukaj¹ ciê, gdy¿ zrani³em ciê ciosem wroga i okrutnym karaniem z powodu mnóstwa twoich nieprawoœci i twoich niezliczonych grzechów. </v>
+<v n="15"> Czemu wo³asz z powodu swej rany i ciê¿kiej boleœci? Za ogrom twoich nieprawoœci i twoje niezliczone grzechy uczyni³em ci to. </v>
+<v n="16"> Wszyscy jednak, co ciê po¿eraj¹, zostan¹ po¿arci; wszyscy, którzy ciê uciskaj¹, pójd¹ w niewolê; ci, którzy ciê ograbiaj¹, zostan¹ ograbieni; a wszystkich, którzy ciê ³upi¹, wydam na ³up. </v>
+<v n="17"> Przywrócê ci bowiem zdrowie i uleczê ciê z twoich ran, mówi PAN, gdy¿ nazwali ciê Odrzucon¹, mówi¹c: To jest Syjon, o który nikt siê nie troszczy. </v>
+<v n="18"> Tak mówi PAN: Oto odwrócê niewolê namiotów Jakuba i zlitujê siê nad jego mieszkaniem, i miasto zostanie odbudowane na swoim wzgórzu, a pa³ac wystawiony wed³ug swego porz¹dku. </v>
+<v n="19"> I rozlegnie siê stamt¹d dziêkczynienie i g³os wesel¹cych siê. Rozmno¿ê ich i nie bêdzie ich ubywa³o, uwielbiê ich i nie bêd¹ poni¿eni. </v>
+<v n="20"> Jego synowie bêd¹ tak jak dawniej i jego zgromadzenie bêdzie utwierdzone przede mn¹, ale ukarzê wszystkich, którzy ich trapi¹. </v>
+<v n="21"> I z niego powstanie jego w³adca, panuj¹cy nad nim spoœród niego wyjdzie; ka¿ê mu siê zbli¿yæ, a przyst¹pi do mnie. Kim bowiem jest ten, co odwa¿y³by siê w sercu zbli¿yæ do mnie? – mówi PAN. </v>
+<v n="22"> I bêdziecie moim ludem, a ja bêdê waszym Bogiem. </v>
+<v n="23"> Oto wicher PANA zrywa siê w zapalczywoœci, trwaj¹cy wicher spadnie nad g³owy bezbo¿nych. </v>
+<v n="24"> Zapalczywoœæ gniewu PANA nie odwróci siê, a¿ on to uczyni i wykona zamys³y swego serca. W dniach ostatecznych to zrozumiecie. </v>
+</c>

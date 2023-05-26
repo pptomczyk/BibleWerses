@@ -1,0 +1,11 @@
+<v n="1"> Przewodnikowi chóru. Al taszchet. Psalm i pieœñ Asafa. Wys³awiamy ciê, Bo¿e, wys³awiamy, bo bliskie twoje imiê; opowiadaj¹ to twoje cudowne dzie³a. </v>
+<v n="2"> Gdy wyznaczê czas, bêdê s¹dziæ sprawiedliwie. </v>
+<v n="3"> Roztopi³a siê ziemia i wszyscy jej mieszkañcy, ale ja umacniam jej filary. Sela. </v>
+<v n="4"> Powiedzia³em g³upcom: Nie szalejcie, a niegodziwym: Nie podnoœcie rogu. </v>
+<v n="5"> Nie podnoœcie wysoko swego rogu i nie mówcie wynioœle; </v>
+<v n="6"> Bo nie ze wschodu ani z zachodu, ani z po³udnia przychodzi wywy¿szenie. </v>
+<v n="7"> Lecz Bóg jest sêdzi¹; tego poni¿a, a tamtego wywy¿sza. </v>
+<v n="8"> W rêku PANA bowiem jest kielich mêtnego wina, pe³nego przypraw; z niego nalewa tak, ¿e wszyscy niegodziwi ziemi wycisn¹ nawet mêty i wypij¹ je. </v>
+<v n="9"> Ja zaœ bêdê zawsze opowiada³, bêdê œpiewa³ Bogu Jakuba. </v>
+<v n="10"> I po³amiê wszystkie rogi niegodziwych, a rogi sprawiedliwego bêd¹ wzniesione. </v>
+</c>

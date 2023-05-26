@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi chóru, na Neginot. Psalm i pieœñ Asafa. Bóg znany jest w Judzie, jego imiê jest wielkie w Izraelu. </v>
+<v n="2"> W Salem jest jego przybytek, a jego mieszkanie na Syjonie. </v>
+<v n="3"> Tam po³ama³ ogniste strza³y ³uku, tarczê i miecz i po³o¿y³ kres bitwie. Sela. </v>
+<v n="4"> Wspanialszy jesteœ i dostojniejszy ni¿ góry zdobyczy. </v>
+<v n="5"> Odwa¿ni stali siê ³upem, pogr¹¿yli siê we œnie, mê¿ni nie znaleŸli si³y w swych rêkach. </v>
+<v n="6"> Od twego gromienia, Bo¿e Jakuba, mocno zasnê³y wozy i konie. </v>
+<v n="7"> Ty, ty sam, jesteœ straszliwy; i któ¿ siê ostoi przed twoim obliczem, gdy siê rozgniewasz? </v>
+<v n="8"> Z nieba dajesz s³yszeæ swój wyrok, ziemia siê zlêk³a i zamilk³a; </v>
+<v n="9"> Gdy Bóg powsta³ na s¹d, aby wybawiæ wszystkich pokornych na ziemi. Sela. </v>
+<v n="10"> Doprawdy nawet gniew cz³owieka bêdzie ciê chwaliæ, a ty resztkê tego gniewu powstrzymasz. </v>
+<v n="11"> Sk³adajcie œluby i wype³niajcie je wobec PANA, waszego Boga; wszyscy otaczaj¹cy go, przynoœcie dary temu, który napawa strachem. </v>
+<v n="12"> On zabierze ducha ksi¹¿¹t, on wzbudza strach u królów ziemi. </v>
+</c>

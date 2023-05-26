@@ -1,0 +1,26 @@
+<v n="1"> A oto przykazania, nakazy i prawa, których PAN, wasz Bóg, nakaza³ was nauczyæ, ¿ebyœcie je wype³niali w ziemi, do której idziecie, by j¹ posi¹œæ; </v>
+<v n="2"> A¿ebyœ ba³ siê PANA, swego Boga, tak byœ przestrzega³ wszystkich jego nakazów i przykazañ, które tobie nakazujê, tobie, twojemu synowi i synowi twego syna, po wszystkie dni twego ¿ycia, i aby twoje dni siê przed³u¿y³y. </v>
+<v n="3"> S³uchaj wiêc, Izraelu, i pilnuj wype³niania tego, aby dobrze ci siê powodzi³o i ¿ebyœcie siê bardzo rozmno¿yli, tak jak obieca³ ci PAN, Bóg twoich ojców, w ziemi op³ywaj¹cej mlekiem i miodem. </v>
+<v n="4"> S³uchaj, Izraelu! PAN, nasz Bóg, PAN jest jeden. </v>
+<v n="5"> Bêdziesz mi³owa³ PANA, swego Boga, ca³ym swym sercem, ca³¹ sw¹ dusz¹ i z ca³ej swej si³y; </v>
+<v n="6"> A te s³owa, które ja dziœ nakazujê tobie, bêd¹ w twoim sercu; </v>
+<v n="7"> I bêdziesz je czêsto przypomina³ swoim synom i rozmawia³ o nich, przebywaj¹c w swoim domu, id¹c drog¹, k³ad¹c siê i wstaj¹c. </v>
+<v n="8"> Przywi¹¿esz je jako znak do swoich r¹k i bêd¹ jako przepaski miêdzy twymi oczami. </v>
+<v n="9"> Wypiszesz je te¿ na odrzwiach swego domu i na swoich bramach. </v>
+<v n="10"> A gdy PAN, twój Bóg, wprowadzi ciê do ziemi, któr¹ poprzysi¹g³ twoim ojcom: Abrahamowi, Izaakowi i Jakubowi, ¿e da tobie miasta wielkie i dobre, których nie budowa³eœ; </v>
+<v n="11"> I wype³nione dobrami domy, których nie nape³nia³eœ, i wykute studnie, których nie wykuwa³eœ, winnice i ogrody oliwne, których nie sadzi³eœ; gdy wiêc bêdziesz jad³ do syta; </v>
+<v n="12"> Strze¿ siê, abyœ nie zapomnia³ PANA, który ciê wyprowadzi³ z ziemi Egiptu, z domu niewoli. </v>
+<v n="13"> Bêdziesz siê ba³ PANA, swego Boga, i bêdziesz mu s³u¿yæ, i na jego imiê przysiêgaæ. </v>
+<v n="14"> Nie pójdziecie za obcymi bogami, za bogami narodów, które s¹ doko³a was; </v>
+<v n="15"> (PAN bowiem, twój Bóg, znajduj¹cy siê poœród ciebie, jest Bogiem zazdrosnym), by nie rozpali³ siê gniew PANA, twego Boga, przeciw tobie i aby nie wytêpi³ ciê z powierzchni ziemi. </v>
+<v n="16"> Nie bêdziecie wystawiaæ na próbê PANA, swojego Boga, tak jak go wystawialiœcie na próbê w Massa. </v>
+<v n="17"> Bêdziecie pilnie przestrzegaæ przykazañ PANA, swojego Boga, jego œwiadectw i nakazów, które ci nakaza³. </v>
+<v n="18"> A czyñ to, co jest prawe i dobre w oczach PANA, aby ci siê dobrze powodzi³o, abyœ wszed³ i posiad³ tê dobr¹ ziemiê, któr¹ PAN przysi¹g³ twoim ojcom; </v>
+<v n="19"> Aby wypêdziæ przed tob¹ wszystkich twoich wrogów, jak to PAN powiedzia³. </v>
+<v n="20"> A gdy twój syn zapyta ciê kiedyœ: Co to za œwiadectwa, nakazy i prawa, które wam nakaza³ PAN, nasz Bóg? </v>
+<v n="21"> Wtedy powiesz swemu synowi: Byliœmy niewolnikami faraona w Egipcie i PAN wyprowadzi³ nas z Egiptu potê¿n¹ rêk¹. </v>
+<v n="22"> I na naszych oczach PAN czyni³ w Egipcie znaki i cuda, wielkie i dotkliwe, nad faraonem i nad ca³ym jego domem. </v>
+<v n="23"> Lecz wyprowadzi³ nas stamt¹d, aby nas wprowadziæ i daæ nam tê ziemiê, któr¹ przysi¹g³ naszym ojcom. </v>
+<v n="24"> I PAN nakaza³ nam wype³niaæ wszystkie te nakazy i baæ siê PANA, naszego Boga, ¿eby nam siê dobrze powodzi³o po wszystkie dni, aby nas zachowaæ przy ¿yciu, tak jak dziœ. </v>
+<v n="25"> I bêdzie to nasza sprawiedliwoœæ, gdy bêdziemy przestrzegaæ wszystkich tych przykazañ i wype³niaæ je przed PANEM, naszym Bogiem, tak jak nam nakaza³. </v>
+</c>

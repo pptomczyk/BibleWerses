@@ -1,0 +1,22 @@
+<v n="1"> Wtedy Bildad z Szuach odpowiedzia³: </v>
+<v n="2"> Kiedy wreszcie po³o¿ycie kres tym s³owom? Pomyœlcie, potem bêdziemy mówiæ. </v>
+<v n="3"> Czemu uwa¿acie nas za byd³o? Czemu jesteœmy obrzydliwi w waszych oczach? </v>
+<v n="4"> Ty, który szarpiesz gniewem sw¹ duszê – czy z twojego powodu bêdzie opuszczona ziemia i ska³y bêd¹ przesuniête ze swego miejsca? </v>
+<v n="5"> Tak, œwiat³o niegodziwych zgaœnie, a iskra jego ognia ju¿ nie zaœwieci. </v>
+<v n="6"> Œwiat³o jego przybytku siê zaæmi i jego pochodnia nad nim zagaœnie. </v>
+<v n="7"> Kroki jego si³y bêd¹ skrêpowane, jego w³asna rada powali go. </v>
+<v n="8"> Jego nogi bowiem zawiod¹ go w sieæ, chodzi po sid³ach. </v>
+<v n="9"> Sid³o uchwyci go za piêtê i przemo¿e go ³upie¿ca. </v>
+<v n="10"> Sid³o dla niego ukryte jest w ziemi, a pu³apka na niego – na drodze. </v>
+<v n="11"> Zewsz¹d bêd¹ go przera¿aæ strachy, œcigaj¹ go na ka¿dym kroku. </v>
+<v n="12"> G³ód os³abi jego si³y i zniszczenie bêdzie czyha³o u jego boku. </v>
+<v n="13"> Po¿re ¿y³y jego skóry, pierworodny œmierci po¿re jego cz³onki. </v>
+<v n="14"> Jego ufnoœæ bêdzie wykorzeniona z jego namiotu i zostanie on przyprowadzony do króla strachów. </v>
+<v n="15"> Strach bêdzie mieszka³ w jego namiocie, bo ten nie nale¿y do niego; jego mieszkanie bêdzie posypane siark¹. </v>
+<v n="16"> Od spodu uschn¹ jego korzenie, a z wierzchu bêdzie obciêta jego ga³¹Ÿ. </v>
+<v n="17"> Pamiêæ o nim zginie z ziemi, a jego imienia nie wspomn¹ na ulicach. </v>
+<v n="18"> Wypêdz¹ go ze œwiat³a do ciemnoœci i wyrzuc¹ go z okrêgu œwiata. </v>
+<v n="19"> Nie bêdzie mia³ syna ani wnuka poœród swego ludu i nikt nie pozostanie w jego mieszkaniach. </v>
+<v n="20"> Ci, którzy przyjd¹ po nim, os³upiej¹ na jego dzieñ, tak jak poprzednich ogarn¹³ strach. </v>
+<v n="21"> Takie s¹ mieszkania niegodziwych i takie jest miejsce tego, który nie zna Boga. </v>
+</c>

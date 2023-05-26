@@ -1,0 +1,27 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, powiedz ksiêciu Tyru: Tak mówi Pan BÓG: Poniewa¿ unios³o siê twoje serce i powiedzia³eœ: Ja jestem Bogiem, zasiadam na Bo¿ym tronie w sercu mórz – ale ty jesteœ cz³owiekiem, a nie Bogiem, choæ twoje serce stawiasz na równi z sercem Boga; </v>
+<v n="3"> Oto jesteœ m¹drzejszy od Daniela, ¿adna tajemnica nie jest zakryta przed tob¹; </v>
+<v n="4"> Swoj¹ m¹droœci¹ i roztropnoœci¹ zdoby³eœ sobie bogactwo i nagromadzi³eœ z³ota i srebra w swoich skarbcach; </v>
+<v n="5"> Dziêki wielkoœci twojej m¹droœci i twojemu kupiectwu rozmno¿y³eœ swoje bogactwa; a tak unios³o siê twoje serce z powodu twoich bogactw; </v>
+<v n="6"> Dlatego tak mówi Pan BÓG: Poniewa¿ postawi³eœ swoje serce jak serce Boga; </v>
+<v n="7"> Oto sprowadzê na ciebie cudzoziemców, najsro¿sze z narodów. Dobêd¹ swoje miecze przeciwko piêknoœci twej m¹droœci i splugawi¹ twój blask. </v>
+<v n="8"> Str¹c¹ ciê do do³u i umrzesz srog¹ œmierci¹ w sercu mórz. </v>
+<v n="9"> Czy powiesz przed tym, który ciê zabije: Jestem Bogiem? Przecie¿ jesteœ cz³owiekiem, a nie Bogiem w rêku tego, który ciê zabije. </v>
+<v n="10"> Umrzesz œmierci¹ nieobrzezanych, z rêki cudzoziemców. Ja bowiem to powiedzia³em, mówi Pan BÓG. </v>
+<v n="11"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="12"> Synu cz³owieczy, podnieœ lament nad królem Tyru i mów do niego: Tak mówi Pan BÓG: Ty pieczêtujesz sumê, pe³en m¹droœci i doskona³y w swej piêknoœci; </v>
+<v n="13"> By³eœ w Edenie, ogrodzie Bo¿ym; twoim nakryciem by³ wszelki drogi kamieñ: karneol, topaz i jaspis, chryzolit, onyks i beryl, szafir, karbunku³ i szmaragd oraz z³oto. Wykonanie twoich bêbenków i fletów zosta³o przygotowane w dniu, kiedy zosta³eœ stworzony. </v>
+<v n="14"> Ty jesteœ namaszczonym cherubinem nakrywaj¹cym; ja ciê ustanowi³em. By³eœ na œwiêtej górze Boga, przechadza³eœ siê wœród kamieni ognistych. </v>
+<v n="15"> By³eœ doskona³y w swoich drogach od dnia, kiedy zosta³eœ stworzony, a¿ znalaz³a siê w tobie nieprawoœæ. </v>
+<v n="16"> Przez twój ogromny handel pe³no poœród ciebie bezprawia, i zgrzeszy³eœ. Dlatego zrzucê ciê z góry Boga, cherubinie nakrywaj¹cy, wyniszczê ciê spoœród kamieni ognistych. </v>
+<v n="17"> Unios³o siê twoje serce z powodu twojej piêknoœci, zniewa¿y³eœ swoj¹ m¹droœæ z powodu twojego blasku. Rzucê ciê na ziemiê i postawiê ciê przed królami, aby siê tobie przypatrzyli. </v>
+<v n="18"> Mnóstwem twoich nieprawoœci i nieprawoœci¹ twego handlu splugawi³eœ swoj¹ œwi¹tyniê. Dlatego wywiodê ogieñ z twego wnêtrza, który ciê po¿re, a zamieniê ciê w popió³ na ziemi na oczach wszystkich, którzy na ciebie patrz¹. </v>
+<v n="19"> Wszyscy, którzy ciê znaj¹ wœród narodów, zdumiej¹ siê nad tob¹. Staniesz siê postrachem i nie bêdzie ciebie ju¿ na wieki. </v>
+<v n="20"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="21"> Synu cz³owieczy, zwróæ swoj¹ twarz przeciw Sydonowi i prorokuj przeciw niemu; </v>
+<v n="22"> Mów: Tak mówi Pan BÓG: Oto jestem przeciwko tobie, Sydonie, bêdê uwielbiony poœród ciebie. I poznaj¹, ¿e ja jestem PANEM, gdy wykonam na niego s¹dy i bêdê w nim uœwiêcony. </v>
+<v n="23"> I zeœlê na niego zarazê i krew na jego ulice; zranieni upadn¹ poœród niego od miecza, który spadnie na nich ze wszystkich stron. I poznaj¹, ¿e ja jestem PANEM. </v>
+<v n="24"> I tak dla domu Izraela nie bêdzie ju¿ k³uj¹cego ciernia ani bolesnego kolca spoœród wszystkich okolicznych mieszkañców, którzy nim wzgardzili. I poznaj¹, ¿e ja jestem Panem BOGIEM. </v>
+<v n="25"> Tak mówi Pan BÓG: Gdy zgromadzê dom Izraela spoœród narodów, wœród których zosta³ rozproszony, i bêdê w nich uœwiêcony na oczach pogan, wtedy bêd¹ mieszkaæ w swojej ziemi, któr¹ da³em swemu s³udze Jakubowi. </v>
+<v n="26"> I bêd¹ w niej mieszkaæ bezpiecznie, pobuduj¹ domy i zasadz¹ winnice. Bêd¹ mieszkaæ bezpiecznie, gdy wykonam s¹dy na wszystkich doko³a nich, którzy nimi wzgardzili. I poznaj¹, ¿e ja jestem PANEM, ich Bogiem. </v>
+</c>

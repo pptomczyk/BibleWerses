@@ -1,0 +1,18 @@
+<v n="1"> Prosimy was, bracia, przez wzgl¹d na przyjœcie naszego Pana Jezusa Chrystusa i nasze zgromadzenie siê przy nim; </v>
+<v n="2"> Abyœcie nie tak ³atwo dali siê zachwiaæ w waszym umyœle i zatrwo¿yæ siê ani przez ducha, ani przez mowê, ani przez list rzekomo przez nas pisany, jakoby ju¿ nadchodzi³ dzieñ Chrystusa. </v>
+<v n="3"> Niech was nikt w ¿aden sposób nie zwodzi. Ten dzieñ bowiem nie nadejdzie, dopóki najpierw nie przyjdzie odstêpstwo i nie objawi siê cz³owiek grzechu, syn zatracenia; </v>
+<v n="4"> Który siê sprzeciwia i wynosi ponad wszystko, co siê nazywa Bogiem lub co jest przedmiotem czci, tak ¿e zasi¹dzie w œwi¹tyni Boga jako Bóg, podaj¹c siê za Boga. </v>
+<v n="5"> Czy nie pamiêtacie, ¿e jeszcze bêd¹c u was, mówi³em o tym? </v>
+<v n="6"> A teraz wiecie, co przeszkadza, tak ¿e siê objawi w swoim czasie. </v>
+<v n="7"> Tajemnica nieprawoœci bowiem ju¿ dzia³a. Tylko ¿e ten, który teraz przeszkadza, bêdzie przeszkadza³, a¿ zostanie usuniêty z drogi. </v>
+<v n="8"> Wówczas pojawi siê ów niegodziwiec, którego Pan zabije duchem swoich ust i zniszczy blaskiem swego przyjœcia. </v>
+<v n="9"> Niegodziwiec przyjdzie za spraw¹ szatana, z ca³¹ moc¹, wœród znaków i fa³szywych cudów; </v>
+<v n="10"> Wœród wszelkiego zwodzenia nieprawoœci wobec tych, którzy gin¹, poniewa¿ nie przyjêli mi³oœci prawdy, by zostali zbawieni. </v>
+<v n="11"> Dlatego Bóg zsy³a im silne omamienie, tak ¿e uwierz¹ k³amstwu; </v>
+<v n="12"> Aby zostali os¹dzeni wszyscy, którzy nie uwierzyli prawdzie, ale upodobali sobie niesprawiedliwoœæ. </v>
+<v n="13"> Lecz my nieustannie powinniœmy dziêkowaæ Bogu za was, bracia umi³owani przez Pana, ¿e Bóg od pocz¹tku wybra³ was do zbawienia przez uœwiêcenie Ducha i wiarê w prawdê. </v>
+<v n="14"> Do tego powo³a³ was przez nasz¹ ewangeliê, abyœcie dost¹pili chwa³y naszego Pana Jezusa Chrystusa. </v>
+<v n="15"> Dlatego, bracia, stójcie niewzruszenie i trzymajcie siê przekazanych nauk, o których zostaliœcie pouczeni czy to przez mowê, czy przez nasz list. </v>
+<v n="16"> A sam nasz Pan Jezus Chrystus i Bóg, nasz Ojciec, który nas umi³owa³ i da³ wieczn¹ pociechê i dobr¹ nadziejê przez ³askê; </v>
+<v n="17"> Niech pocieszy wasze serca i utwierdzi was w ka¿dym dobrym s³owie i uczynku. </v>
+</c>

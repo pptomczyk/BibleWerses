@@ -1,0 +1,13 @@
+<v n="1"> Psalm Dawida. PANIE, wys³uchaj mojej modlitwy i nadstaw ucha na moje proœby; wys³uchaj mnie w swojej wiernoœci i sprawiedliwoœci. </v>
+<v n="2"> A nie stawiaj przed s¹dem swojego s³ugi, bo nikt z ¿yj¹cych nie bêdzie usprawiedliwiony przed tob¹. </v>
+<v n="3"> Nieprzyjaciel bowiem przeœladuje moj¹ duszê, powali³ na ziemiê moje ¿ycie; sprawi³, ¿e muszê mieszkaæ w ciemnoœci jak dawno umar³y. </v>
+<v n="4"> I mój duch jest zdruzgotany we mnie, serce we mnie niszczeje. </v>
+<v n="5"> Wspominam dawne dni, rozmyœlam o wszystkich twoich dzie³ach i rozwa¿am czyny twoich r¹k. </v>
+<v n="6"> Wyci¹gam ku tobie swoje rêce; moja dusza pragnie ciebie jak sucha ziemia. Sela. </v>
+<v n="7"> Wys³uchaj mnie prêdko, PANIE; mój duch omdlewa; nie ukrywaj przede mn¹ swego oblicza, bym siê nie sta³ jak ci, którzy schodz¹ do do³u. </v>
+<v n="8"> Spraw, abym rano s³ysza³ o twoim mi³osierdziu, bo tobie ufam; oznajmij mi drogê, któr¹ mam chodziæ, bo do ciebie wznoszê moj¹ duszê. </v>
+<v n="9"> Ocal mnie od moich wrogów, PANIE; do ciebie siê uciekam. </v>
+<v n="10"> Naucz mnie czyniæ twoj¹ wolê, bo ty jesteœ moim Bogiem; twój duch jest dobry; prowadŸ mnie do ziemi prawoœci. </v>
+<v n="11"> O¿yw mnie, PANIE, dla twojego imienia; ze wzglêdu na twoj¹ sprawiedliwoœæ wyprowadŸ moj¹ duszê z utrapienia. </v>
+<v n="12"> W swoim mi³osierdziu wytraæ moich wrogów i zg³adŸ wszystkich przeciwników mojej duszy, bo jestem twoim s³ug¹. </v>
+</c>

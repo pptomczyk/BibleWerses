@@ -1,0 +1,27 @@
+<v n="1"> Pierwsz¹ ksiêgê napisa³em, Teofilu, o wszystkim, co Jezus zacz¹³ czyniæ i czego nauczaæ; </v>
+<v n="2"> A¿ do dnia, w którym zosta³ wziêty w górê po tym, jak przez Ducha Œwiêtego udzieli³ poleceñ aposto³om, których wybra³. </v>
+<v n="3"> Im te¿ po swojej mêce objawi³ siê jako ¿ywy w wielu niew¹tpliwych dowodach, przez czterdzieœci dni ukazuj¹c siê im i mówi¹c o królestwie Bo¿ym. </v>
+<v n="4"> A gdy byli zebrani razem, nakaza³ im: Nie odchodŸcie z Jerozolimy, ale oczekujcie obietnicy Ojca, o której s³yszeliœcie ode mnie. </v>
+<v n="5"> Jan bowiem chrzci³ wod¹, ale wy po niewielu dniach bêdziecie ochrzczeni Duchem Œwiêtym. </v>
+<v n="6"> Tak wiêc zebrani pytali go: Panie, czy w tym czasie przywrócisz królestwo Izraelowi? </v>
+<v n="7"> Lecz on im odpowiedzia³: Nie do was nale¿y znaæ czasy i pory, które Ojciec ustanowi³ swoj¹ w³adz¹. </v>
+<v n="8"> Ale przyjmiecie moc Ducha Œwiêtego, który zst¹pi na was, i bêdziecie mi œwiadkami w Jerozolimie, w ca³ej Judei, w Samarii i a¿ po krañce ziemi. </v>
+<v n="9"> Kiedy to powiedzia³, a oni patrzyli, zosta³ uniesiony w górê i ob³ok zabra³ go sprzed ich oczu. </v>
+<v n="10"> A gdy siê wpatrywali w niebo, jak wstêpowa³, oto stanêli przy nich dwaj mê¿owie w bia³ych szatach; </v>
+<v n="11"> I powiedzieli: Mê¿owie z Galilei, dlaczego stoicie, wpatruj¹c siê w niebo? Ten Jezus, który zosta³ od was wziêty w górê do nieba, przyjdzie tak samo, jak go widzieliœcie wstêpuj¹cego do nieba. </v>
+<v n="12"> Wtedy wrócili do Jerozolimy z góry zwanej Oliwn¹, która le¿y blisko Jerozolimy, w odleg³oœci drogi szabatowej. </v>
+<v n="13"> A gdy przyszli, weszli do sali na górze, gdzie przebywali Piotr i Jakub, Jan i Andrzej, Filip i Tomasz, Bart³omiej i Mateusz, Jakub, syn Alfeusza, i Szymon Zelota oraz Juda, brat Jakuba. </v>
+<v n="14"> Ci wszyscy trwali jednomyœlnie w modlitwie i proœbach razem z kobietami, z Mari¹, matk¹ Jezusa, i jego braæmi. </v>
+<v n="15"> W tych dniach Piotr stan¹³ poœród uczniów (a by³o zgromadzonych oko³o stu dwudziestu osób) i powiedzia³: </v>
+<v n="16"> Mê¿owie bracia, musia³o siê wype³niæ s³owo Pisma, w którym Duch Œwiêty zapowiedzia³ przez usta Dawida o Judaszu, który by³ przewodnikiem tych, którzy schwytali Jezusa. </v>
+<v n="17"> Zalicza³ siê on bowiem do nas i mia³ udzia³ w tym pos³ugiwaniu. </v>
+<v n="18"> On naby³ pole za zap³atê za nieprawoœæ i spad³szy g³ow¹ w dó³, pêk³ na pó³ i wyp³ynê³y wszystkie jego wnêtrznoœci. </v>
+<v n="19"> Roznios³o siê to wœród wszystkich mieszkañców Jerozolimy, tak ¿e nazwano to pole w ich jêzyku Hakeldamach, to znaczy: Pole Krwi. </v>
+<v n="20"> Jest bowiem napisane w Ksiêdze Psalmów: Niech jego dom bêdzie pusty, niech nikt w nim nie mieszka; oraz: Jego biskupstwo niech przejmie inny. </v>
+<v n="21"> Trzeba wiêc, aby jeden z tych mê¿czyzn, którzy z nami byli przez ca³y czas, kiedy Pan Jezus przebywa³ wœród nas; </v>
+<v n="22"> Pocz¹wszy od chrztu Jana a¿ do dnia, w którym zosta³ wziêty od nas w górê, sta³ siê wraz z nami œwiadkiem jego zmartwychwstania. </v>
+<v n="23"> I wybrali dwóch: Józefa, zwanego Barsab¹, z przydomkiem Justus, i Macieja. </v>
+<v n="24"> I tak siê modlili: Ty, Panie, który znasz serca wszystkich, wska¿ z tych dwóch jednego, którego wybra³eœ; </v>
+<v n="25"> Aby zaj¹³ miejsce w tym pos³ugiwaniu i apostolstwie, któremu sprzeniewierzy³ siê Judasz, aby odejœæ na swoje miejsce. </v>
+<v n="26"> I dali im losy, a los pad³ na Macieja. I zosta³ przy³¹czony do jedenastu aposto³ów. </v>
+</c>

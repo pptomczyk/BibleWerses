@@ -1,0 +1,19 @@
+<v n="1"> Tak wiêc Abram wyszed³ z Egiptu, on i jego ¿ona, i wszystko, co mia³, i Lot z nim, i udali siê ku po³udniu. </v>
+<v n="2"> A Abram by³ bardzo bogaty w byd³o, srebro i z³oto. </v>
+<v n="3"> I szed³, robi¹c postoje, od po³udnia a¿ do Betel, do tego miejsca, gdzie poprzednio by³ jego namiot, miêdzy Betel a Aj; </v>
+<v n="4"> Do miejsca, gdzie poprzednio zbudowa³ o³tarz. Tam wezwa³ Abram imienia PANA. </v>
+<v n="5"> Lot, który szed³ z Abramem, równie¿ mia³ owce, wo³y i namioty. </v>
+<v n="6"> A ziemia ta nie mog³a ich pomieœciæ, ¿eby mieszkali razem, bo ich maj¹tek by³ tak wielki, ¿e nie mogli mieszkaæ razem. </v>
+<v n="7"> I wynik³a sprzeczka miêdzy pasterzami stad Abrama a pasterzami stad Lota. Kananejczycy i Peryzzyci mieszkali wówczas na tej ziemi. </v>
+<v n="8"> Abram powiedzia³ wiêc do Lota: Proszê, niech nie bêdzie sporu miêdzy mn¹ a tob¹, tak¿e miêdzy moimi pasterzami a twoimi pasterzami, bo jesteœmy braæmi. </v>
+<v n="9"> Czy¿ ca³a ziemia nie stoi przed tob¹? Od³¹cz siê, proszê, ode mnie. Jeœli pójdziesz w lewo, ja pójdê w prawo, a jeœli ty pójdziesz w prawo, ja pójdê w lewo. </v>
+<v n="10"> Wtedy Lot podniós³ swe oczy i zobaczy³, ¿e ca³a równina nad Jordanem by³a dobrze nawodniona – zanim PAN zniszczy³ Sodomê i Gomorê – jak ogród PANA, jak ziemia Egiptu, a¿ do Zoar. </v>
+<v n="11"> Lot wybra³ wiêc sobie ca³¹ tê równinê nad Jordanem i uda³ siê na wschód. I roz³¹czyli siê bracia jeden od drugiego. </v>
+<v n="12"> Abram mieszka³ w ziemi Kanaan, a Lot mieszka³ w miastach tej równiny i rozbi³ swój namiot a¿ do Sodomy. </v>
+<v n="13"> Ale mê¿czyŸni Sodomy byli Ÿli i wielkimi grzesznikami przed PANEM. </v>
+<v n="14"> I PAN powiedzia³ do Abrama, gdy Lot ju¿ od³¹czy³ siê od niego: Podnieœ teraz swe oczy i spójrz z miejsca, na którym teraz jesteœ, na pó³noc i na po³udnie, na wschód i na zachód. </v>
+<v n="15"> Bo ca³¹ ziemiê, któr¹ widzisz, dam tobie i twemu potomstwu na wieki. </v>
+<v n="16"> I rozmno¿ê twoje potomstwo jak proch ziemi, tak ¿e jeœli ktoœ bêdzie móg³ zliczyæ proch ziemi, to równie¿ twoje potomstwo bêdzie policzone. </v>
+<v n="17"> Wstañ i przejdŸ tê ziemiê wzd³u¿ i wszerz, bo dam ci j¹. </v>
+<v n="18"> Abram zwin¹³ wiêc namiot, przyszed³ i mieszka³ na równinach Mamre, które s¹ w Hebronie, i tam zbudowa³ o³tarz dla PANA. </v>
+</c>

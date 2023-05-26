@@ -1,0 +1,9 @@
+<v n="1"> Pieœñ stopni. Oczy moje podnoszê ku górom, sk¹d przyjdzie mi pomoc. </v>
+<v n="2"> Moja pomoc jest od PANA, który stworzy³ niebo i ziemiê. </v>
+<v n="3"> Nie pozwoli zachwiaæ siê twojej nodze; twój stró¿ nie drzemie. </v>
+<v n="4"> Oto ten, który strze¿e Izraela, nie zdrzemnie siê ani nie zaœnie. </v>
+<v n="5"> PAN jest twoim stró¿em, PAN jest cieniem twoim po twojej prawicy. </v>
+<v n="6"> S³oñce nie porazi ciê za dnia ani ksiê¿yc w nocy. </v>
+<v n="7"> PAN bêdzie ciê strzeg³ od wszelkiego z³a; on bêdzie strzeg³ twojej duszy. </v>
+<v n="8"> PAN bêdzie strzeg³ twego wyjœcia i przyjœcia, odt¹d a¿ na wieki. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Kiedy Mardocheusz dowiedzia³ siê o wszystkim, co siê sta³o, rozdar³ swoje szaty i przyodzia³ siê w wór, nastêpnie posypa³ siê popio³em, wyszed³ na œrodek miasta i lamentowa³ g³oœno i gorzko. </v>
+<v n="2"> I doszed³ a¿ do bramy królewskiej, gdy¿ nie wolno by³o wejœæ w bramê królewsk¹ przyodzianemu w wór. </v>
+<v n="3"> W ka¿dej prowincji, gdzie tylko dotar³ rozkaz króla i jego dekret, nasta³a wielka ¿a³oba wœród ¯ydów, nasta³ te¿ post, p³acz i lament, a wielu le¿a³o w worze i w popiele. </v>
+<v n="4"> Przysz³y wiêc s³u¿¹ce Estery i jej eunuchowie i opowiedzieli jej o tym. Wtedy królowa bardzo siê zasmuci³a i pos³a³a szaty, aby ubraæ Mardocheusza i zdj¹æ z niego wór. Ale on ich nie przyj¹³. </v>
+<v n="5"> Wtedy Estera zawo³a³a Hataka, jednego z eunuchów króla, którego on da³ jej do pos³ugi, i rozkaza³a mu pójœæ do Mardocheusza, aby siê dowiedzia³, co to ma znaczyæ i dlaczego tak siê sta³o. </v>
+<v n="6"> Wyszed³ wiêc Hatak do Mardocheusza na plac miejski, który by³ przed bram¹ królewsk¹; </v>
+<v n="7"> I Mardocheusz opowiedzia³ mu wszystko, co mu siê przydarzy³o, tak¿e o sumie srebra, któr¹ Haman obieca³ odwa¿yæ do skarbca królewskiego za ¯ydów, aby zostali wytraceni. </v>
+<v n="8"> Ponadto da³ mu odpis dekretu o ich zag³adzie, który og³oszono w Suzie, aby pokaza³ go Esterze, powiadomi³ j¹ i rozkaza³, aby posz³a do króla, b³agaj¹c go o swój lud i wstawiaj¹c siê za nim. </v>
+<v n="9"> Przyszed³ wiêc Hatak i przekaza³ Esterze s³owa Mardocheusza. </v>
+<v n="10"> I Estera odpowiedzia³a Hatakowi i poleci³a mu iœæ do Mardocheusza: </v>
+<v n="11"> Wszyscy s³udzy króla oraz lud z prowincji królewskich wiedz¹, ¿e ktokolwiek – mê¿czyzna lub kobieta – wejdzie do króla na dziedziniec wewnêtrzny, nie bêd¹c wezwany, podlega tylko jednemu prawu – ma zostaæ zabity, z wyj¹tkiem tego, nad którym król wyci¹gnie z³ote ber³o, ten zostanie przy ¿yciu. Ale mnie nie wezwano, aby wejœæ do króla, ju¿ od trzydziestu dni. </v>
+<v n="12"> I powiedziano Mardocheuszowi s³owa Estery. </v>
+<v n="13"> Wtedy Mardocheusz poleci³ przekazaæ Esterze tak¹ odpowiedŸ: Nie myœl sobie, ¿e ty jedna spoœród wszystkich ¯ydów ocalejesz w domu królewskim. </v>
+<v n="14"> Jeœli bowiem ty ca³kowicie bêdziesz milczeæ w tym czasie, uwolnienie i wybawienie dla ¯ydów przyjdzie z innego miejsca, ale ty i dom twego ojca zginiecie. A kto wie, czy nie na tê w³aœnie chwilê dost¹pi³aœ godnoœci królestwa? </v>
+<v n="15"> Estera poleci³a, by odpowiedziano Mardocheuszowi: </v>
+<v n="16"> IdŸ, zbierz wszystkich ¯ydów, którzy siê znajduj¹ w Suzie, i poœæcie za mnie, nie jedzcie ani nie pijcie przez trzy dni, noc¹ i dniem. Ja tak¿e i moje s³u¿¹ce bêdziemy poœciæ, a potem wejdê do króla, choæ to niezgodne z prawem. A jeœli zginê, to zginê. </v>
+<v n="17"> Poszed³ wiêc Mardocheusz i uczyni³ wszystko, co mu rozkaza³a Estera. </v>
+</c>

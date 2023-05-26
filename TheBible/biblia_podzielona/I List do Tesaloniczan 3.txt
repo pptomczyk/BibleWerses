@@ -1,0 +1,14 @@
+<v n="1"> Dlatego nie mog¹c tego d³u¿ej znosiæ, postanowiliœmy sami pozostaæ w Atenach; </v>
+<v n="2"> A Tymoteusza, naszego brata, s³ugê Boga i wspó³pracownika w ewangelii Chrystusa pos³aliœmy, aby was utwierdzi³ i doda³ wam otuchy w wierze; </v>
+<v n="3"> Aby nikt siê nie zachwia³ wœród tych utrapieñ. Sami przecie¿ wiecie, ¿e do tego zostaliœmy wyznaczeni. </v>
+<v n="4"> Gdy bowiem byliœmy u was, zapowiadaliœmy wam, ¿e bêdziemy cierpieæ ucisk, co siê te¿ sta³o, jak wiecie. </v>
+<v n="5"> Dlatego i ja, nie mog¹c tego d³u¿ej znosiæ, pos³a³em go, aby rozezna³ siê w waszej wierze, czy was kusiciel czasem nie kusi³, a nasza praca nie okaza³a siê daremna. </v>
+<v n="6"> Teraz zaœ Tymoteusz wróci³ od was do nas i zwiastowa³ nam radosn¹ wieœæ o waszej wierze i mi³oœci, i o tym, ¿e nas zawsze dobrze wspominacie, pragn¹c nas widzieæ, podobnie jak my was. </v>
+<v n="7"> Dlatego dziêki wam, bracia, zostaliœmy pocieszeni przez wasz¹ wiarê we wszelkim naszym ucisku i potrzebie. </v>
+<v n="8"> Teraz bowiem ¿yjemy, jeœli wy trwacie w Panu. </v>
+<v n="9"> Jakie wiêc dziêkczynienie mo¿emy z³o¿yæ Bogu za was, za ca³¹ radoœæ, jakiej z powodu was doznajemy przed naszym Bogiem; </v>
+<v n="10"> Gdy w nocy i we dnie bardzo gorliwie modlimy siê, abyœmy mogli zobaczyæ was osobiœcie i uzupe³niæ braki waszej wiary? </v>
+<v n="11"> A sam Bóg i nasz Ojciec i nasz Pan Jezus Chrystus niech utoruje nasz¹ drogê do was. </v>
+<v n="12"> Pan zaœ niech sprawi, ¿e bêdziecie wzrastaæ i obfitowaæ w mi³oœæ do siebie nawzajem i do wszystkich, tak¹, jak¹ i my mamy do was; </v>
+<v n="13"> Aby wasze serca zosta³y utwierdzone jako nienaganne w œwiêtoœci wobec naszego Boga i Ojca na przyjœcie naszego Pana Jezusa Chrystusa wraz ze wszystkimi jego œwiêtymi. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. Z têsknot¹ czeka³em na PANA, a sk³oni³ siê ku mnie i wys³ucha³ mojego wo³ania. </v>
+<v n="2"> Wyci¹gn¹³ mnie ze strasznego do³u i z b³ota grz¹skiego i postawi³ moje stopy na skale, i umocni³ moje kroki. </v>
+<v n="3"> I w³o¿y³ w moje usta now¹ pieœñ, chwa³ê dla naszego Boga. Wielu to zobaczy i ulêknie siê, i zaufa PANU. </v>
+<v n="4"> B³ogos³awiony cz³owiek, który pok³ada w PANU swoj¹ nadziejê, a nie ma wzglêdu na pysznych ani na tych, którzy pod¹¿aj¹ za k³amstwem. </v>
+<v n="5"> Wiele uczyni³eœ cudów, PANIE, mój Bo¿e, a twoich zamys³ów wobec nas nikt nie potrafi wyliczyæ przed tob¹; gdybym chcia³ je opowiedzieæ i og³osiæ, jest ich wiêcej, ni¿ zdo³a³bym wypowiedzieæ. </v>
+<v n="6"> Ofiary i daru nie chcia³eœ, lecz otworzy³eœ mi uszy; nie ¿¹da³eœ ca³opalenia i ofiary za grzech. </v>
+<v n="7"> Wtedy powiedzia³em: Oto przychodzê, na pocz¹tku ksiêgi jest napisane o mnie; </v>
+<v n="8"> Pragnê czyniæ twoj¹ wolê, mój Bo¿e, a twoje prawo jest w moim wnêtrzu. </v>
+<v n="9"> G³osi³em twoj¹ sprawiedliwoœæ w wielkim zgromadzeniu; oto nie powœci¹ga³em moich ust; ty wiesz o tym, PANIE. </v>
+<v n="10"> Twojej sprawiedliwoœci nie kry³em w g³êbi serca, opowiada³em twoj¹ wiernoœæ i zbawienie; nie tai³em twego mi³osierdzia i prawdy w wielkim zgromadzeniu. </v>
+<v n="11"> Dlatego ty, PANIE, nie odmawiaj mi twej litoœci; twoje mi³osierdzie i prawda niech mnie zawsze strzeg¹. </v>
+<v n="12"> Otoczy³y mnie bowiem nieszczêœcia, których nie sposób zliczyæ; dosiêg³y mnie moje nieprawoœci, tak ¿e nie mogê ich przejrzeæ; wiêcej ich ni¿ w³osów na mej g³owie, wiêc serce we mnie ustaje. </v>
+<v n="13"> PANIE, racz mnie ocaliæ; PANIE, pospiesz mi na pomoc. </v>
+<v n="14"> Niech siê zawiod¹ i zawstydz¹ wszyscy, którzy czyhaj¹, by zatraciæ moj¹ duszê; niech siê cofn¹ i zawstydz¹ ci, którzy mi Ÿle ¿ycz¹. </v>
+<v n="15"> Niech bêd¹ spustoszeni wskutek swej hañby ci, którzy mi mówi¹: Ha, ha! </v>
+<v n="16"> Niech siê raduj¹ i wesel¹ w tobie wszyscy, którzy ciê szukaj¹; niech ci, którzy mi³uj¹ twoje zbawienie, mówi¹ zawsze: Niech PAN bêdzie wywy¿szony. </v>
+<v n="17"> Ja wprawdzie jestem ubogi i nêdzny, lecz Pan myœli o mnie. Ty jesteœ moj¹ pomoc¹ i wybawicielem, mój Bo¿e, nie zwlekaj. </v>
+</c>

@@ -1,0 +1,17 @@
+<v n="1"> Przewodnikowi chóru, na Gittyt. Asafa. Radoœnie œpiewajcie Bogu, naszej mocy; radoœnie wykrzykujcie Bogu Jakuba. </v>
+<v n="2"> WeŸcie psalm, przynieœcie bêben, wdziêczn¹ harfê i cytrê. </v>
+<v n="3"> Zadmijcie w tr¹bê w czas nowiu, w czasie wyznaczonym, w dniu naszego uroczystego œwiêta. </v>
+<v n="4"> Jest bowiem taki nakaz w Izraelu, prawo Boga Jakuba. </v>
+<v n="5"> Ustanowi³ to œwiadectwem dla Józefa, kiedy wyszed³ przeciw ziemi Egiptu, gdzie s³ysza³em jêzyk, którego nie zrozumia³em. </v>
+<v n="6"> Uwolni³em od brzemienia jego barki, a jego rêce od dŸwigania kot³ów. </v>
+<v n="7"> Wzywa³eœ mnie w ucisku i wybawi³em ciê; odpowiedzia³em ci w skrytoœci gromu, doœwiadczy³em ciê u wód Meriba. Sela. </v>
+<v n="8"> S³uchaj, mój ludu, a oœwiadczê ci; Izraelu, jeœli bêdziesz mnie s³ucha³; </v>
+<v n="9"> Nie bêdziesz mia³ cudzego boga ani nie oddasz pok³onu obcemu bogu; </v>
+<v n="10"> Ja, PAN, jestem twoim Bogiem, który ciê wyprowadzi³ z ziemi Egiptu; otwórz usta, a ja je nape³niê. </v>
+<v n="11"> Lecz mój lud nie us³ucha³ mego g³osu, a Izrael nie chcia³ mnie. </v>
+<v n="12"> Zostawi³em ich wiêc ¿¹dzom ich serca i postêpowali wed³ug swoich zamys³ów. </v>
+<v n="13"> O, gdyby mój lud mnie pos³ucha³, a Izrael chodzi³ moimi drogami! </v>
+<v n="14"> W krótkim czasie poni¿y³bym ich nieprzyjació³ i zwróci³bym rêkê przeciw ich wrogom. </v>
+<v n="15"> Nienawidz¹cy PANA, choæ ob³udnie, musieliby mu siê poddaæ, a ich czas trwa³by wiecznie. </v>
+<v n="16"> I karmi³bym ich wyborn¹ pszenic¹, a nasyci³bym ciê miodem ze ska³y. </v>
+</c>

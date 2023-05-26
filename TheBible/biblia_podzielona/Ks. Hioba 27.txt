@@ -1,0 +1,24 @@
+<v n="1"> Hiob ci¹gn¹³ dalej swoj¹ odpowiedŸ: </v>
+<v n="2"> Jak ¿yje Bóg, który odrzuci³ mój s¹d, i Wszechmocny, który rozgoryczy³ moj¹ duszê; </v>
+<v n="3"> Dopóki jest we mnie tchnienie i duch Bo¿y w moich nozdrzach; </v>
+<v n="4"> Moje wargi nie bêd¹ mówi³y niegodziwoœci, a mój jêzyk nie wypowie fa³szu. </v>
+<v n="5"> Nie daj Bo¿e, abym mia³ was usprawiedliwiaæ; do œmierci nie odst¹piê od swej niewinnoœci. </v>
+<v n="6"> Bêdê trzyma³ siê swojej sprawiedliwoœci i nie puszczê jej; moje serce nie oskar¿y mnie, póki ¿yjê. </v>
+<v n="7"> Niech mój wróg bêdzie jak niegodziwiec, a ten, który powstaje przeciwko mnie, jak niesprawiedliwy. </v>
+<v n="8"> Jaka bowiem jest nadzieja ob³udnika, choæby zysk osi¹gn¹³, gdy Bóg zabiera mu duszê? </v>
+<v n="9"> Czy Bóg us³yszy jego wo³anie, gdy spadnie na niego nieszczêœcie? </v>
+<v n="10"> Czy bêdzie siê rozkoszowaæ Wszechmocnym? Czy bêdzie wci¹¿ wzywa³ Boga? </v>
+<v n="11"> Pouczê was, bêd¹c w rêce Boga, nie zatajê niczego o Wszechmocnym. </v>
+<v n="12"> Oto wy wszyscy to widzicie; po co wiêc te pró¿ne s³owa? </v>
+<v n="13"> Taki jest dzia³ niegodziwca u Boga i takie dziedzictwo, które otrzymaj¹ od Wszechmocnego ciemiêzcy. </v>
+<v n="14"> Jeœli rozmno¿¹ siê jego synowie, pójd¹ pod miecz; a jego potomstwo nie nasyci siê chlebem. </v>
+<v n="15"> Ci, którzy po nim pozostan¹, bêd¹ pogrzebani w œmierci, a jego wdowy nie bêd¹ go op³akiwa³y; </v>
+<v n="16"> Choæby nagromadzi³ srebra jak prochu i przygotowa³ sobie szat jak gliny; </v>
+<v n="17"> To choæ je przygotuje, w³o¿y je sprawiedliwy, a niewinny bêdzie dzieliæ srebro. </v>
+<v n="18"> Zbuduje swój dom jak mól, jak sza³as, który stawia stró¿. </v>
+<v n="19"> Bogaty zaœnie, a nie bêdzie pogrzebany; otworzy oczy, ale ju¿ go nie ma. </v>
+<v n="20"> Ogarnie go strach jak wody, w nocy porwie go wicher. </v>
+<v n="21"> Uniesie go wiatr wschodni, a odejdzie; bo wicher wyrwie go z jego miejsca. </v>
+<v n="22"> To bowiem Bóg rzuci na niego i nie oszczêdzi go, choæ bardzo chcia³ uciekaæ przed jego rêk¹. </v>
+<v n="23"> Bêd¹ klaskaæ nad nim w d³onie i wygwizdywaæ go z jego miejsca. </v>
+</c>

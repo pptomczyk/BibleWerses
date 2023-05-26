@@ -1,0 +1,24 @@
+<v n="1"> A gdy us³ysza³ o tym Jabin, król Chasoru, pos³a³ wiadomoœæ do Jobaba, króla Madonu, do króla Szimronu, do króla Akszafu; </v>
+<v n="2"> I do królów, którzy byli na pó³nocy, w górach i na polach, na po³udnie od Kinneret, na równinach i w krainach Dor na zachodzie; </v>
+<v n="3"> Do Kananejczyków na wschodzie i na zachodzie, do Amorytów, Chetytów, Peryzzytów, Jebusytów w górach i Chiwwitów pod gór¹ Hermon, w ziemi Mispa. </v>
+<v n="4"> I wyruszyli oni wraz z ca³ym swym wojskiem, lud liczny jak piasek na brzegu morskim, maj¹cy bardzo wiele koni i rydwanów. </v>
+<v n="5"> A gdy wszyscy ci królowie zgromadzili siê, przybyli i razem rozbili obóz nad wodami Meromu, aby walczyæ przeciwko Izraelowi. </v>
+<v n="6"> I PAN powiedzia³ do Jozuego: Nie bój siê ich, bo jutro o tej porze wydam ich wszystkich pobitych Izraelowi. Ich koniom podetniesz œciêgna, a ich rydwany spalisz ogniem. </v>
+<v n="7"> Wtedy Jozue i ca³y waleczny lud z nim wyruszyli niespodziewanie przeciwko nim nad wody Meromu i napadli na nich. </v>
+<v n="8"> I PAN wyda³ ich w rêce Izraela, który pobi³ ich i œciga³ a¿ do Sydonu Wielkiego i a¿ do Misreft-Maim, i a¿ do doliny Mispa na wschodzie. Pobili ich tak, ¿e nikogo nie pozostawili przy ¿yciu. </v>
+<v n="9"> I Jozue uczyni³ im tak, jak mu PAN rozkaza³: ich koniom podci¹³ œciêgna, a ich rydwany spali³ ogniem. </v>
+<v n="10"> W tym czasie Jozue zawróci³ i zdoby³ Chasor, a jego króla zabi³ mieczem. Chasor bowiem by³ przedtem g³ow¹ wszystkich tych królestw. </v>
+<v n="11"> Ka¿d¹ duszê, która w nim by³a, pobili ostrzem miecza, wytracaj¹c j¹. Nikt nie pozosta³ przy ¿yciu, a Chasor spali³ ogniem. </v>
+<v n="12"> Jozue zdoby³ te¿ wszystkie miasta tych królów i pojma³ wszystkich królów, pobi³ ich ostrzem miecza i wytraci³, tak jak nakaza³ Moj¿esz, s³uga PANA. </v>
+<v n="13"> Izrael nie spali³ jednak ¿adnego z miast warownych, oprócz samego Chasoru, który spali³ Jozue. </v>
+<v n="14"> Ca³y ³up tych miast oraz byd³o synowie Izraela zabrali dla siebie; tylko wszystkich ludzi pobili ostrzem miecza, a¿ ich zg³adzili, nie zostawiaj¹c nikogo przy ¿yciu. </v>
+<v n="15"> Jak PAN rozkaza³ Moj¿eszowi, swemu s³udze, tak Moj¿esz nakaza³ Jozuemu i tak Jozue uczyni³; nie zaniedba³ niczego z tego wszystkiego, co PAN rozkaza³ Moj¿eszowi. </v>
+<v n="16"> Tak Jozue zdoby³ ca³¹ ziemiê: góry i ca³¹ ziemiê na po³udniu, ca³¹ ziemiê Goszen, równiny, pola i górê Izrael z jej równin¹; </v>
+<v n="17"> Od góry Halak, która wznosi siê ku Seirowi, a¿ do Baal-Gad w dolinie Libanu pod gór¹ Hermon. A wszystkich królów pojma³, pobi³ i pozabija³. </v>
+<v n="18"> Przez d³ugi czas Jozue prowadzi³ wojnê z tymi wszystkimi królami. </v>
+<v n="19"> Nie by³o miasta, które by zawar³o pokój z synami Izraela, oprócz Chiwwitów, którzy mieszkali w Gibeonie; wszystkie inne zdobyli podczas wojny. </v>
+<v n="20"> Od PANA bowiem wysz³o, by zatwardziæ ich serca, aby wyruszali na bitwê z Izraelem i ¿eby ich wyniszczy³ bez mi³osierdzia, a¿ do wytracenia, jak PAN rozkaza³ Moj¿eszowi. </v>
+<v n="21"> W tym czasie Jozue wyruszy³ i wytraci³ Anakitów z gór, z Hebronu, z Debiru, z Anabu, ze wszystkich gór Judy i ze wszystkich gór Izraela. Jozue zniszczy³ ich razem z ich miastami. </v>
+<v n="22"> Nikt z Anakitów nie zosta³ w ziemi synów Izraela; zostali tylko w Gazie, w Gat i w Azdodzie. </v>
+<v n="23"> Zdoby³ wiêc Jozue ca³¹ ziemiê, tak jak PAN powiedzia³ do Moj¿esza, i odda³ j¹ Jozue jako dziedzictwo Izraelowi zgodnie z ich przydzia³ami wed³ug pokoleñ. I ziemia zazna³a pokoju od wojny. </v>
+</c>

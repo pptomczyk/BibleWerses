@@ -1,0 +1,18 @@
+<v n="1"> Wtedy Hiob odpowiedzia³: </v>
+<v n="2"> Równie¿ dziœ moja skarga jest gorzka, choæ moje nieszczêœcie jest ciê¿sze ni¿ moje jêki. </v>
+<v n="3"> O gdybym wiedzia³, gdzie móg³bym go znaleŸæ, uda³bym siê a¿ do jego tronu. </v>
+<v n="4"> Przedstawi³bym mu swoj¹ sprawê, a moje usta nape³ni³bym dowodami; </v>
+<v n="5"> Pozna³bym s³owa jego odpowiedzi i zrozumia³bym, co chce mi powiedzieæ. </v>
+<v n="6"> Czy w swojej wielkiej mocy bêdzie siê spiera³ ze mn¹? Nie, raczej sam doda mi si³y. </v>
+<v n="7"> Tam cz³owiek prawy rozprawia³by z nim, a ja na zawsze by³bym wolny od mojego sêdziego. </v>
+<v n="8"> Ale oto idê prosto, a jego nie ma; cofam siê, a nie dostrzegam go. </v>
+<v n="9"> Idê w lewo, gdzie on dzia³a, a nie ogl¹dam go; idê na prawo, a nie widzê go. </v>
+<v n="10"> Gdy¿ on zna drogê, któr¹ kroczê; kiedy mnie doœwiadczy, wyjdê jak z³oto. </v>
+<v n="11"> Moja noga trzyma³a siê jego œladu, przestrzega³em jego drogi i nie zbacza³em z niej. </v>
+<v n="12"> Od przykazania jego ust nie odchodzi³em; ceni³em s³owa jego ust bardziej ni¿ mój w³asny pokarm. </v>
+<v n="13"> Lecz on jest niezmienny, któ¿ go odwróci? Czego bowiem jego dusza zapragnie, to uczyni; </v>
+<v n="14"> Bo on wykona, co postanowi³ o mnie; u niego jest wiele takich przyk³adów. </v>
+<v n="15"> Dlatego dr¿ê przed jego obliczem; gdy to rozwa¿am, lêkam siê go. </v>
+<v n="16"> Bóg os³abi³ moje serce, Wszechmocny mnie zatrwo¿y³. </v>
+<v n="17"> O ma³o bowiem nie zgin¹³em od ciemnoœci, nie zakry³ mroku przed moim obliczem. </v>
+</c>

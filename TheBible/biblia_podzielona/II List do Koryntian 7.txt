@@ -1,0 +1,17 @@
+<v n="1"> Maj¹c wiêc te obietnice, najmilsi, oczyœæmy siê z wszelkiego brudu cia³a i ducha, dope³niaj¹c uœwiêcenia w bojaŸni Bo¿ej. </v>
+<v n="2"> Przyjmijcie nas; nikogo nie skrzywdziliœmy, nikogo nie zepsuliœmy, nikogo nie wykorzystaliœmy. </v>
+<v n="3"> Nie mówiê tego, aby was potêpiaæ; wczeœniej bowiem powiedzia³em, ¿e jesteœcie w naszych sercach na wspóln¹ œmieræ i wspólne ¿ycie. </v>
+<v n="4"> Mam wielk¹ swobodê w mówieniu do was, bardzo siê wami chlubiê, jestem pe³en pociechy, obfitujê w radoœæ w ka¿dym naszym ucisku. </v>
+<v n="5"> Kiedy bowiem przybyliœmy do Macedonii, nasze cia³o nie zazna³o ¿adnego odpoczynku, ale zewsz¹d byliœmy uciœnieni: na zewn¹trz walki, a wewn¹trz obawy. </v>
+<v n="6"> Lecz Bóg, który pociesza uni¿onych, pocieszy³ nas przez przybycie Tytusa. </v>
+<v n="7"> A nie tylko przez jego przybycie, ale te¿ przez pociechê, jakiej dozna³ wœród was, gdy opowiedzia³ nam o waszej têsknocie, o waszym p³aczu, o waszej gorliwoœci wzglêdem mnie, tak ¿e uradowa³em siê jeszcze bardziej. </v>
+<v n="8"> Choæ bowiem zasmuci³em was listem, nie ¿a³ujê tego, a mimo ¿e ¿a³owa³em (bo widzê, ¿e ten list zasmuci³ was, chocia¿ tylko na chwilê); </v>
+<v n="9"> To teraz siê radujê, nie dlatego, ¿e byliœcie zasmuceni, ale ¿e byliœcie zasmuceni ku pokucie. Zostaliœcie bowiem zasmuceni wed³ug Boga, ¿ebyœcie w niczym nie ponieœli szkody przez nas. </v>
+<v n="10"> Bo smutek, który jest wed³ug Boga, przynosi pokutê ku zbawieniu, czego nikt nie ¿a³uje; lecz smutek wed³ug œwiata przynosi œmieræ. </v>
+<v n="11"> To bowiem, ¿e byliœcie zasmuceni wed³ug Boga, jak¹¿ wielk¹ wzbudzi³o w was pilnoœæ, jakie uniewinnianie siê, jakie oburzenie, jak¹ bojaŸñ, jak¹ têsknotê, jak¹ gorliwoœæ, jakie wymierzenie kary! We wszystkim okazaliœcie siê czyœci w tej sprawie. </v>
+<v n="12"> Dlatego chocia¿ pisa³em do was, nie pisa³em z powodu tego, który wyrz¹dzi³ krzywdê, ani z powodu tego, który krzywdy dozna³, lecz aby okazaæ nasze zatroskanie o was przed Bogiem. </v>
+<v n="13"> Tak wiêc zostaliœmy pocieszeni wasz¹ pociech¹. A jeszcze bardziej uradowaliœmy siê radoœci¹ Tytusa, bo jego duch zosta³ pokrzepiony przez was wszystkich. </v>
+<v n="14"> Bo jeœli w czymœ chlubi³em siê wami przed nim, nie zosta³em zawstydzony. Lecz tak, jak mówiliœmy wam wszystko zgodnie z prawd¹, tak te¿ nasza chluba przed Tytusem okaza³a siê prawdziwa. </v>
+<v n="15"> A jego serce jeszcze bardziej sk³ania siê ku wam, gdy wspomina pos³uszeñstwo was wszystkich i to, jak przyjêliœcie go z bojaŸni¹ i dr¿eniem. </v>
+<v n="16"> Radujê siê wiêc, ¿e we wszystkim mogê wam ufaæ. </v>
+</c>

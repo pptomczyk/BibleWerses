@@ -1,0 +1,22 @@
+<v n="1"> W trzecim roku Cyrusa, króla Persji, zosta³o objawione s³owo Danielowi, któremu nadano imiê Belteszassar; to s³owo by³o prawdziwe i zamierzony czas by³ d³ugi. Zrozumia³ to s³owo, bo otrzyma³ zrozumienie w widzeniu. </v>
+<v n="2"> W tych dniach ja, Daniel, by³em smutny przez trzy tygodnie. </v>
+<v n="3"> Nie jad³em smacznego chleba, miêsa i wina nie bra³em do ust, i nie namaszcza³em siê olejkiem, a¿ siê wype³ni³y trzy tygodnie. </v>
+<v n="4"> A dwudziestego czwartego dnia pierwszego miesi¹ca by³em nad brzegiem wielkiej rzeki, to jest Chiddekel; </v>
+<v n="5"> I podnios³em swoje oczy, i spojrza³em, a oto sta³ pewien m¹¿ ubrany w lnian¹ szatê, a jego biodra by³y przepasane czystym z³otem z Ufas; </v>
+<v n="6"> Jego cia³o by³o jak z berylu, jego oblicze z wygl¹du jak b³yskawica, jego oczy – jak pochodnie ogniste, jego ramiona i nogi – jak blask wypolerowanej miedzi, a dŸwiêk jego s³ów – jak g³os t³umu. </v>
+<v n="7"> Tylko ja sam, Daniel, mia³em to widzenie. Mê¿czyŸni, którzy byli ze mn¹, nie mieli tego widzenia; ale wielki strach pad³ na nich i pouciekali, aby siê ukryæ. </v>
+<v n="8"> A ja sam zosta³em i mia³em to wielkie widzenie, ale nie pozosta³o we mnie si³y. Moja uroda zmieni³a siê i zepsu³a, i nie mia³em ¿adnej si³y. </v>
+<v n="9"> Wtedy us³ysza³em dŸwiêk jego s³ów; a gdy us³ysza³em dŸwiêk jego s³ów, upad³em na twarz w g³êboki sen, twarz¹ ku ziemi. </v>
+<v n="10"> I oto dotknê³a mnie rêka, i podnios³a mnie na moje kolana i na d³onie moich r¹k. </v>
+<v n="11"> I powiedzia³ do mnie: Danielu, mê¿u bardzo umi³owany, uwa¿aj na moje s³owa, które mówiê do ciebie, i stañ na nogi, bo jestem teraz pos³any do ciebie. A gdy przemówi³ do mnie to s³owo, stan¹³em dr¿¹c. </v>
+<v n="12"> Wtedy powiedzia³ do mnie: Nie bój siê, Danielu, bo od pierwszego dnia, gdy wzi¹³eœ sobie do serca to, aby zrozumieæ i ukorzyæ siê przed swoim Bogiem, twoje s³owa zosta³y wys³uchane, a ja przyby³em ze wzglêdu na twoje s³owa. </v>
+<v n="13"> Lecz ksi¹¿ê królestwa Persji sprzeciwia³ mi siê przez dwadzieœcia jeden dni, ale oto Micha³, jeden z przedniejszych ksi¹¿¹t, przyszed³ mi z pomoc¹; a ja zosta³em tam przy królach Persji. </v>
+<v n="14"> Ale przyby³em, aby ci oznajmiæ, co spotka twój lud w dniach ostatecznych, bo to widzenie bêdzie jeszcze na te dni. </v>
+<v n="15"> A gdy mówi³ do mnie tymi s³owy, opuœci³em twarz ku ziemi i zamilk³em. </v>
+<v n="16"> A oto ktoœ jakby podobny do synów ludzkich dotkn¹³ moich warg. Otworzy³em usta i mówi³em, powiedzia³em do stoj¹cego przede mn¹: Mój panie, z powodu tego widzenia dopad³y mnie boleœci i nie mam ¿adnej si³y. </v>
+<v n="17"> A jak¿e bêdzie móg³ taki s³uga mego pana rozmawiaæ w ten sposób z moim panem? Gdy¿ od tego czasu nie zosta³a we mnie si³a i nie ma we mnie tchu. </v>
+<v n="18"> Wtedy ponownie dotkn¹³ mnie ten, który by³ podobny do cz³owieka, i wzmocni³ mnie; </v>
+<v n="19"> I powiedzia³: Nie bój siê, mê¿u bardzo umi³owany, pokój tobie! Wzmocnij siê, mówiê, wzmocnij siê. A gdy mówi³ do mnie, nabra³em si³y i powiedzia³em: Niech mój pan mówi, bo mnie wzmocni³eœ. </v>
+<v n="20"> Powiedzia³: Czy wiesz, dlaczego przyby³em do ciebie? Teraz wrócê, aby walczyæ z ksiêciem Persji. A gdy odejdê stamt¹d, oto nadejdzie ksi¹¿ê Grecji. </v>
+<v n="21"> Ale oznajmiê ci to, co jest zapisane w piœmie prawdy. I nie ma nikogo, który by mê¿nie sta³ przy mnie w tych sprawach, oprócz Micha³a, waszego ksiêcia. </v>
+</c>

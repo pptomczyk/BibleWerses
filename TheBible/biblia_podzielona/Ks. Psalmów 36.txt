@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida, s³ugi PANA. Nieprawoœæ niegodziwego œwiadczy w mym sercu, ¿e nie ma bojaŸni Bo¿ej przed jego oczyma. </v>
+<v n="2"> Schlebia sobie bowiem w swoich oczach, a¿ jego nieprawoœæ oka¿e siê obrzydliwa. </v>
+<v n="3"> S³owa jego ust to niegodziwoœæ i fa³sz, porzuci³ m¹droœæ i czynienie dobra. </v>
+<v n="4"> Na swoim ³o¿u obmyœla nieprawoœæ, stoi na drodze niedobrej i nie brzydzi siê z³em. </v>
+<v n="5"> PANIE, twoje mi³osierdzie siêga niebios, twoja wiernoœæ a¿ do ob³oków. </v>
+<v n="6"> Twoja sprawiedliwoœæ jak najwy¿sze góry, twoje s¹dy jak wielka przepaœæ; ty, PANIE, zachowujesz ludzi i zwierzêta! </v>
+<v n="7"> Jak cenne jest twoje mi³osierdzie, Bo¿e! Dlatego synowie ludzcy chroni¹ siê w cieniu twoich skrzyde³. </v>
+<v n="8"> Nasyc¹ siê obfitoœci¹ twego domu, napoisz ich strumieniem twoich rozkoszy. </v>
+<v n="9"> U ciebie bowiem jest Ÿród³o ¿ycia, w twojej œwiat³oœci ujrzymy œwiat³oœæ. </v>
+<v n="10"> Roztocz twe mi³osierdzie nad tymi, którzy ciê znaj¹, a twoj¹ sprawiedliwoœæ nad ludŸmi prawego serca. </v>
+<v n="11"> Niech nie nastêpuje na mnie noga pysza³ka, niech nie wygania mnie rêka niegodziwego. </v>
+<v n="12"> Oto tam upadli czyni¹cy nieprawoœæ, zostali powaleni i nie bêd¹ mogli powstaæ. </v>
+</c>

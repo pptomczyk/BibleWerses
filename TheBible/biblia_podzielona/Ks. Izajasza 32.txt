@@ -1,0 +1,21 @@
+<v n="1"> Oto król bêdzie panowa³ w sprawiedliwoœci, a ksi¹¿êta bêd¹ rz¹dziæ w prawoœci. </v>
+<v n="2"> I ten mê¿czyzna bêdzie jak zas³ona przed wiatrem i jak schronienie przed burz¹; jak strumienie wód w suchym miejscu, jak cieñ wielkiej ska³y w spragnionej ziemi. </v>
+<v n="3"> Oczy patrz¹cych nie bêd¹ zaæmione i uszy s³uchaj¹cych bêd¹ uwa¿nie s³uchaæ. </v>
+<v n="4"> Serce pochopnych zrozumie wiedzê, a jêzyk j¹kaj¹cych siê bêdzie mówiæ pewnie i wyraŸnie. </v>
+<v n="5"> Nieszlachetnego nie bêd¹ ju¿ nazywaæ szlachetnym ani o sk¹pym nie powie siê, ¿e jest szczodry; </v>
+<v n="6"> Nieszlachetny bowiem mówi nikczemnie i jego serce obmyœla nieprawoœæ, aby postêpowa³ ob³udnie i mówi³ przeciwko PANU przewrotnie, by wyniszczy³ duszê g³odnego i spragnionego pozbawi³ napoju. </v>
+<v n="7"> Zamierzenia sk¹pego s¹ z³e, bo chytrze obmyœla, jak zniszczyæ biednych s³owami k³amstwa i mówiæ przeciwko ubogim przed s¹dem. </v>
+<v n="8"> Ale szczodry ma szczodrobliwe myœli i bêdzie obstawaæ przy swojej szczodrobliwoœci. </v>
+<v n="9"> Kobiety beztroskie, powstañcie, s³uchajcie mego g³osu; córki pewne siebie, nak³oñcie ucha na moj¹ mowê. </v>
+<v n="10"> Przez wiele dni i lat bêdziecie zatrwo¿one, wy pewne siebie! Ustanie bowiem winobranie, zbioru nie bêdzie. </v>
+<v n="11"> Zatrwó¿cie siê, wy beztroskie, ulêknijcie siê, pewne siebie! Rozbierzcie siê i obna¿cie siê, a przepaszcie worem biodra. </v>
+<v n="12"> Nastanie lament nad piersiami, nad rozkosznymi polami i nad urodzajn¹ winoroœl¹. </v>
+<v n="13"> Na ziemi mojego ludu wyrosn¹ ciernie i osty – tak, we wszystkich weso³ych domach w rozbawionym mieœcie. </v>
+<v n="14"> Pa³ace bowiem zostan¹ opuszczone, ustanie wrzawa miasta, zamek i baszty stan¹ siê jaskiniami na zawsze, miejscem uciechy dla dzikich os³ów, pastwiskiem dla stad; </v>
+<v n="15"> A¿ zostanie wylany na nas duch z wysoka, pustynia obróci siê w urodzajne pole, a urodzajne pole bêdzie uwa¿ane za las. </v>
+<v n="16"> S¹d zamieszka na pustyni, sprawiedliwoœæ osi¹dzie na urodzajnym polu. </v>
+<v n="17"> Dzie³em sprawiedliwoœci bêdzie pokój, owocem sprawiedliwoœci odpoczynek i bezpieczeñstwo na wieki. </v>
+<v n="18"> Mój lud bowiem bêdzie mieszka³ w przybytku pokoju, w bezpiecznych mieszkaniach i w spokojnych miejscach odpoczynku; </v>
+<v n="19"> Gdy spadnie na las grad, a miasto bêdzie bardzo poni¿one. </v>
+<v n="20"> B³ogos³awieni jesteœcie, wy, którzy siejecie na wszelkich urodzajnych miejscach, puszczaj¹c tam wolno wo³y i os³y. </v>
+</c>

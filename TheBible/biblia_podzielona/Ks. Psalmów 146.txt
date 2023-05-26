@@ -1,0 +1,11 @@
+<v n="1"> Alleluja. Chwal, duszo moja, PANA. </v>
+<v n="2"> Bêdê chwaliæ PANA, póki ¿yjê; bêdê œpiewa³ memu Bogu, póki bêdê istnia³. </v>
+<v n="3"> Nie pok³adajcie ufnoœci we w³adcach ani w ¿adnym synu ludzkim, u którego nie ma wybawienia. </v>
+<v n="4"> Opuszcza go duch i wraca do swojej ziemi; w tym¿e dniu zgin¹ wszystkie jego myœli. </v>
+<v n="5"> B³ogos³awiony ten, kogo pomoc¹ jest Bóg Jakuba, kto nadziejê pok³ada w PANU, jego Bogu; </v>
+<v n="6"> Który uczyni³ niebo i ziemiê, morze i wszystko, co w nich jest; który dochowuje prawdy na wieki; </v>
+<v n="7"> Który oddaje sprawiedliwoœæ pokrzywdzonym i daje chleb g³odnym; PAN uwalnia wiêŸniów. </v>
+<v n="8"> PAN otwiera oczy œlepych; PAN podnosi przygnêbionych; PAN mi³uje sprawiedliwych. </v>
+<v n="9"> PAN strze¿e przychodniów, wspomaga sierotê i wdowê, ale krzy¿uje drogê niegodziwych. </v>
+<v n="10"> PAN bêdzie królowa³ na wieki, twój Bóg, o Syjonie, z pokolenia na pokolenie. Alleluja. </v>
+</c>

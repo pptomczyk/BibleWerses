@@ -1,0 +1,15 @@
+<v n="1"> A ty podnieœ lament nad ksi¹¿êtami Izraela; </v>
+<v n="2"> I mów: Czym by³a twoja matka? Lwic¹ le¿¹c¹ miêdzy lwami, która karmi³a swoje szczeniêta wœród lwi¹t. </v>
+<v n="3"> A gdy odchowa³a jedno ze swoich szczeni¹t, sta³o siê m³odym lwem, który siê nauczy³ chwytaæ ³up; po¿era³ te¿ ludzi. </v>
+<v n="4"> Narody o nim us³ysza³y, zosta³ schwytany w ich dó³ i zaprowadzony w ³añcuchach do ziemi Egiptu. </v>
+<v n="5"> Gdy lwica zobaczy³a, ¿e daremnie czeka i ¿e jej nadzieja przepad³a, wziê³a inne ze swoich szczeni¹t i uczyni³a je m³odym lwem; </v>
+<v n="6"> Chodzi³o w œrodku lwów i sta³o siê m³odym lwem, który nauczy³ siê chwytaæ ³up; po¿era³ te¿ ludzi. </v>
+<v n="7"> Burzy³ ich pa³ace i pustoszy³ ich miasta tak, ¿e ziemia i to, co j¹ nape³nia, sta³y siê spustoszone od jego g³oœnego ryku. </v>
+<v n="8"> Wtedy zebra³y siê przeciwko niemu narody z okolicznych krain i zarzuci³y na niego swoj¹ sieæ. Zosta³ schwytany w ich dó³. </v>
+<v n="9"> I wsadzi³y go do klatki w ³añcuchach, i przyprowadzi³y do króla Babilonu. Wprowadzi³y go do ciê¿kiego wiêzienia, aby jego g³os nie by³ wiêcej s³yszany na górach Izraela. </v>
+<v n="10"> Twoja matka by³a jak winoroœl w twojej krwi, zasadzona przy wodach. By³a p³odna i ga³êzista dziêki obfitoœci wód. </v>
+<v n="11"> I mia³a potê¿ne rózgi na ber³a dla panuj¹cych, a jej wzrost górowa³ nad gêstymi ga³êziami tak, ¿e by³a widoczna z powodu swej wysokoœci dziêki mnóstwu swoich ga³êzi. </v>
+<v n="12"> Ale w gniewie zosta³a wyrwana i rzucona na ziemiê, a wschodni wiatr wysuszy³ jej owoc. Jej potê¿ne rózgi zosta³y z³amane i usch³y, ogieñ je strawi³. </v>
+<v n="13"> A teraz zosta³a zasadzona na pustyni, na ziemi suchej i spragnionej. </v>
+<v n="14"> Nadto ogieñ wyszed³ z rózgi jej ga³êzi i poch³on¹³ jej owoc tak, ¿e nie ma na niej potê¿nej rózgi na ber³a dla panuj¹cego. Jest to lament i bêdzie to lamentem. </v>
+</c>

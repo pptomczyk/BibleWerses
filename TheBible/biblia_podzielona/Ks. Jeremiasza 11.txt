@@ -1,0 +1,24 @@
+<v n="1"> S³owo, które dosz³o do Jeremiasza od PANA, mówi¹ce: </v>
+<v n="2"> S³uchajcie s³ów tego przymierza i mówcie do mê¿czyzn Judy i do mieszkañców Jerozolimy; </v>
+<v n="3"> Powiedz do nich: Tak mówi PAN, Bóg Izraela: Przeklêty ten cz³owiek, który nie pos³ucha s³ów tego przymierza; </v>
+<v n="4"> Które nakaza³em waszym ojcom w dniu, kiedy wyprowadzi³em ich z ziemi Egiptu, z pieca do topienia ¿elaza, mówi¹c: S³uchajcie mojego g³osu i czyñcie to wszystko, co wam nakazujê; i bêdziecie moim ludem, a ja bêdê waszym Bogiem; </v>
+<v n="5"> Abym móg³ wype³niæ przysiêgê, któr¹ z³o¿y³em waszym ojcom, ¿e dam im ziemiê op³ywaj¹c¹ mlekiem i miodem, jak to jest dzisiaj. A ja odpowiedzia³em: Amen, PANIE! </v>
+<v n="6"> I PAN powiedzia³ do mnie: G³oœ wszystkie te s³owa w miastach Judy i po ulicach Jerozolimy, mówi¹c: S³uchajcie s³ów tego przymierza i wype³niajcie je. </v>
+<v n="7"> Usilnie bowiem ostrzega³em waszych ojców od dnia, kiedy wyprowadzi³em ich z ziemi Egiptu, a¿ do dziœ, z wczesnym wstawaniem i ostrzeganiem, mówi¹c: S³uchajcie mego g³osu. </v>
+<v n="8"> Oni jednak nie us³uchali ani nie nak³onili swego ucha, ale ka¿dy postêpowa³ wed³ug uporu swego z³ego serca. Dlatego sprowadzi³em na nich wszystkie s³owa tego przymierza, które nakaza³em im wype³niaæ, a nie wype³nili. </v>
+<v n="9"> I PAN powiedzia³ do mnie: Znalaz³ siê spisek wœród mê¿czyzn Judy i mieszkañców Jerozolimy. </v>
+<v n="10"> Wrócili do nieprawoœci swoich przodków, którzy nie chcieli s³uchaæ moich s³ów; poszli i oni za innymi bogami, aby im s³u¿yæ. Dom Izraela i dom Judy z³ama³y moje przymierze, które zawar³em z ich ojcami. </v>
+<v n="11"> Dlatego tak mówi PAN: Oto sprowadzê na nich nieszczêœcie, z którego nie bêd¹ mogli siê wydostaæ; a choæby wo³ali do mnie, nie wys³ucham ich. </v>
+<v n="12"> I pójd¹ miasta Judy i mieszkañcy Jerozolimy i bêd¹ wo³aæ do bogów, którym pal¹ kadzid³o, lecz oni wcale ich nie wybawi¹ w czasie ich utrapienia. </v>
+<v n="13"> Ile bowiem jest twoich miast, tylu twoich bogów, Judo! Ile ulic w Jerozolimie, tyle wznieœliœcie o³tarzy obrzydliwoœci, o³tarzy do palenia kadzid³a Baalowi. </v>
+<v n="14"> Dlatego ty siê nie módl za ten lud i nie zanoœ za niego wo³ania ani modlitwy, bo ja go nie wys³ucham, gdy do mnie bêdzie wo³aæ w czasie swego utrapienia. </v>
+<v n="15"> Có¿ chce moja umi³owana w moim domu, skoro bez wstydu dopuœci³a siê sproœnoœci z wieloma, a ofiary œwiête odesz³y od ciebie? Radujesz siê, gdy czynisz z³o. </v>
+<v n="16"> PAN nazwa³ ciê zielonym drzewem oliwnym, piêknym, daj¹cym piêkny owoc, ale wœród huku wielkiej burzy rozpali³ nad nim ogieñ, po³amane s¹ jego ga³êzie. </v>
+<v n="17"> PAN zastêpów bowiem, który ciê zasadzi³, zapowiedzia³ przeciwko tobie to nieszczêœcie z powodu niegodziwoœci domu Izraela i domu Judy, któr¹ pope³ni³y na w³asn¹ szkodê, aby mnie pobudzaæ do gniewu, pal¹c kadzid³o Baalowi. </v>
+<v n="18"> A PAN oznajmi³ mi to i zrozumia³em; wtedy ukaza³eœ mi ich uczynki. </v>
+<v n="19"> Ja zaœ by³em jak baranek i wó³ prowadzony na rzeŸ, bo nie wiedzia³em, ¿e przeciwko mnie knuli zamys³y, mówi¹c: Zniszczmy drzewo wraz z jego owocem i wykorzeñmy go z ziemi ¿yj¹cych, aby jego imiê ju¿ nie by³o wspominane. </v>
+<v n="20"> Lecz, PANIE zastêpów, który s¹dzisz sprawiedliwie i badasz nerki i serca, niech zobaczê twoj¹ pomstê nad nimi. Wyjawi³em ci bowiem swoj¹ sprawê. </v>
+<v n="21"> Dlatego tak mówi PAN o mê¿czyznach z Anatot, którzy nastaj¹ na twoje ¿ycie i mówi¹: Nie prorokuj w imiê PANA, abyœ nie zgin¹³ z naszej rêki. </v>
+<v n="22"> Dlatego tak mówi PAN zastêpów: Oto nawiedzê ich; ich m³odzieñcy zgin¹ od miecza, ich synowie i córki umr¹ z g³odu. </v>
+<v n="23"> I nikt z nich nie zostanie, bo sprowadzê nieszczêœcie na ludzi z Anatot w roku ich nawiedzenia. </v>
+</c>

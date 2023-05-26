@@ -1,0 +1,24 @@
+<v n="1"> A Józef zosta³ zaprowadzony do Egiptu. I Potifar, dworzanin faraona, dowódca stra¿y, Egipcjanin, kupi³ go od Izmaelitów, którzy go tam zaprowadzili. </v>
+<v n="2"> PAN by³ z Józefem, tak ¿e sta³ siê cz³owiekiem, któremu siê dobrze powodzi³o, i mieszka³ w domu swego pana Egipcjanina. </v>
+<v n="3"> Jego pan widzia³, ¿e PAN jest z nim i ¿e PAN szczêœci mu we wszystkim, co on czyni. </v>
+<v n="4"> I Józef znalaz³ ³askê w jego oczach, i s³u¿y³ mu. Uczyni³ go zarz¹dc¹ swego domu i wszystko, co mia³, odda³ w jego rêce. </v>
+<v n="5"> A od tego czasu, gdy uczyni³ go zarz¹dc¹ swego domu i wszystkiego, co mia³, PAN b³ogos³awi³ domowi Egipcjanina ze wzglêdu na Józefa. I b³ogos³awieñstwo PANA by³o nad wszystkim, co mia³ w domu i na polu. </v>
+<v n="6"> Dlatego odda³ wszystko, co mia³, w rêce Józefa i o niczym u siebie nie wiedzia³, tylko o chlebie, który spo¿ywa³. A Józef by³ przystojny i mi³y dla oka. </v>
+<v n="7"> Po tych wydarzeniach ¿ona jego pana zwróci³a swe oczy na Józefa i powiedzia³a: Po³ó¿ siê ze mn¹. </v>
+<v n="8"> Ale odmówi³ i powiedzia³ do ¿ony swego pana: Mój pan nie wie tak dobrze jak ja, co jest w jego domu, bo wszystko, co mia³, odda³ w moje rêce. </v>
+<v n="9"> I nie ma w tym domu nikogo wiêkszego ode mnie, i nie zabroni³ mi niczego oprócz ciebie, bo ty jesteœ jego ¿on¹. Jak wiêc móg³bym pope³niæ tak wielkie z³o i zgrzeszyæ przeciwko Bogu? </v>
+<v n="10"> I chocia¿ namawia³a Józefa dzieñ w dzieñ, on nie zgadza³ siê z ni¹ po³o¿yæ ani z ni¹ byæ. </v>
+<v n="11"> Pewnego dnia, gdy wszed³ do domu, aby wykonaæ swoje obowi¹zki, a nie by³o tam nikogo z domowników; </v>
+<v n="12"> Uchwyci³a go za szatê i powiedzia³a: Po³ó¿ siê ze mn¹. Ale on zostawi³ swoj¹ szatê w jej rêku, uciek³ i wyszed³ na zewn¹trz. </v>
+<v n="13"> A gdy ona zobaczy³a, ¿e zostawi³ szatê w jej rêku i uciek³ na zewn¹trz; </v>
+<v n="14"> Zawo³a³a swoich domowników i powiedzia³a do nich: Patrzcie, pan sprowadzi³ do nas Hebrajczyka, aby nas zel¿y³. Przyszed³ bowiem do mnie, aby siê ze mn¹ po³o¿yæ, ale krzyknê³am donoœnym g³osem. </v>
+<v n="15"> A gdy us³ysza³, ¿e podnoszê swój g³os i wo³am, zostawi³ szatê u mnie, uciek³ i wyszed³ na zewn¹trz. </v>
+<v n="16"> I zatrzyma³a u siebie jego szatê, a¿ przyszed³ do domu jego pan; </v>
+<v n="17"> I powiedzia³a do niego te s³owa: Przyszed³ do mnie s³uga, ten Hebrajczyk, którego przyprowadzi³eœ do nas, aby mnie zel¿yæ. </v>
+<v n="18"> A gdy podnios³am swój g³os i zawo³a³am, zostawi³ szatê u mnie i uciek³ na zewn¹trz. </v>
+<v n="19"> Gdy jego pan us³ysza³ s³owa swojej ¿ony, które do niego powiedzia³a: Tak mi uczyni³ twój s³uga, rozgniewa³ siê bardzo. </v>
+<v n="20"> Potem pan Józefa wzi¹³ go i odda³ do wiêzienia, tam gdzie sadzano wiêŸniów królewskich. I przebywa³ tam w wiêzieniu. </v>
+<v n="21"> A PAN by³ z Józefem, okaza³ mu mi³osierdzie i da³ mu ³askê w oczach prze³o¿onego wiêzienia. </v>
+<v n="22"> Prze³o¿ony wiêzienia odda³ wiêc pod w³adzê Józefa wszystkich wiêŸniów, którzy byli w wiêzieniu; a wszystkim, co tam siê dzia³o, on zarz¹dza³. </v>
+<v n="23"> A prze³o¿ony wiêzienia nie dogl¹da³ tego, co mu powierzy³, bo PAN by³ z nim, i co on czyni³, to PAN szczêœci³. </v>
+</c>

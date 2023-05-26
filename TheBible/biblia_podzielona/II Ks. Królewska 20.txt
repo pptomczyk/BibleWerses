@@ -1,0 +1,22 @@
+<v n="1"> W tych dniach Ezechiasz œmiertelnie zachorowa³. Przyszed³ do niego prorok Izajasz, syn Amosa, i powiedzia³ mu: Tak mówi PAN: Rozporz¹dŸ swym domem, bo umrzesz i nie bêdziesz ¿y³. </v>
+<v n="2"> Wtedy Ezechiasz odwróci³ swoj¹ twarz do œciany i modli³ siê do PANA: </v>
+<v n="3"> O PANIE, proszê ciê, wspomnij teraz, ¿e postêpowa³em wobec ciebie w prawdzie i z doskona³ym sercem, czyni¹c to, co dobre w twoich oczach. I p³aka³ Ezechiasz rzewnie. </v>
+<v n="4"> Ale zanim Izajasz wyszed³ do œrodkowego dziedziñca, dosz³o do niego s³owo PANA: </v>
+<v n="5"> Wróæ i powiedz Ezechiaszowi, wodzowi mego ludu: Tak mówi PAN, Bóg Dawida, twego ojca: Wys³ucha³em twojej modlitwy i widzia³em twoje ³zy. Oto uzdrawiam ciê: trzeciego dnia wejdziesz do domu PANA. </v>
+<v n="6"> Dodam te¿ do twoich dni piêtnaœcie lat i wybawiê ciebie i to miasto z rêki króla Asyrii. I bêdê broniæ tego miasta ze wzglêdu na siebie i ze wzglêdu na Dawida, swego s³ugê. </v>
+<v n="7"> Nastêpnie Izajasz powiedzia³: Przynieœcie garstkê suchych fig. Gdy wziêli je i po³o¿yli na wrzód, wyzdrowia³. </v>
+<v n="8"> Ezechiasz zapyta³ Izajasza: Jaki bêdzie znak tego, ¿e PAN mnie uzdrowi i ¿e na trzeci dzieñ pójdê do domu PANA? </v>
+<v n="9"> Izajasz odpowiedzia³: To bêdzie znakiem od PANA, ¿e uczyni PAN tê rzecz, któr¹ obieca³: Czy cieñ ma siê posun¹æ o dziesiêæ stopni, czy ma siê cofn¹æ o dziesiêæ stopni? </v>
+<v n="10"> Ezechiasz odpowiedzia³: £atwo cieniowi posun¹æ siê o dziesiêæ stopni. Nie – niech cieñ cofnie siê o dziesiêæ stopni. </v>
+<v n="11"> Wtedy prorok Izajasz zawo³a³ do PANA. I on cofn¹³ cieñ o dziesiêæ stopni, po których przesun¹³ siê na zegarze s³onecznym Achaza. </v>
+<v n="12"> W tym czasie Berodach-Baladan, syn Baladana, król Babilonu, pos³a³ listy i dar do Ezechiasza. Us³ysza³ bowiem, ¿e Ezechiasz chorowa³. </v>
+<v n="13"> I Ezechiasz wys³ucha³ pos³añców, i pokaza³ im ca³y skarbiec swoich kosztownoœci, srebro, z³oto, wonnoœci, drogocenne olejki oraz swoj¹ zbrojowniê, a tak¿e wszystko, co siê znajdowa³o w jego sk³adach. Nie by³o nic, czego Ezechiasz by im nie pokaza³ w swoim domu i w ca³ym swoim pañstwie. </v>
+<v n="14"> Wtedy prorok Izajasz przyszed³ do króla Ezechiasza i zapyta³ go: Co powiedzieli ci mê¿czyŸni i sk¹d przybyli do ciebie? Ezechiasz odpowiedzia³: Przybyli z dalekiej ziemi, z Babilonu. </v>
+<v n="15"> Znowu zapyta³: Co widzieli w twoim domu? Ezechiasz odpowiedzia³: Widzieli wszystko, co jest w moim domu. Nie by³o nic, czego bym im nie pokaza³ w swoich skarbcach. </v>
+<v n="16"> Wtedy Izajasz powiedzia³ do Ezechiasza: S³uchaj s³owa PANA. </v>
+<v n="17"> Oto przyjd¹ dni, kiedy wszystko, co jest w twoim domu i co zgromadzili twoi ojcowie a¿ do tego dnia, zostanie zabrane do Babilonu. Nic nie pozostanie, mówi PAN. </v>
+<v n="18"> Z twoich synów, którzy bêd¹ pochodziæ od ciebie i których sp³odzisz, zabior¹ niektórych i bêd¹ eunuchami w pa³acu króla Babilonu. </v>
+<v n="19"> Wtedy Ezechiasz powiedzia³ do Izajasza: Dobre jest s³owo PANA, które wypowiedzia³eœ. I doda³: Czy¿ ono nie jest dobre, jeœli za moich dni bêdzie pokój i prawda? </v>
+<v n="20"> A pozosta³e dzieje Ezechiasza, ca³a jego potêga i to, jak zbudowa³ sadzawkê i kana³, którymi sprowadzi³ wodê do miasta, czy nie s¹ zapisane w ksiêdze kronik królów Judy? </v>
+<v n="21"> I Ezechiasz zasn¹³ ze swoimi ojcami, a jego syn Manasses królowa³ w jego miejsce. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> Pawe³, aposto³ Jezusa Chrystusa wed³ug nakazu Boga, naszego Zbawiciela, i Pana Jezusa Chrystusa, który jest nasz¹ nadziej¹; </v>
+<v n="2"> Do Tymoteusza, mego w³asnego syna w wierze. £aska, mi³osierdzie i pokój od Boga, naszego Ojca, i Chrystusa Jezusa, naszego Pana. </v>
+<v n="3"> Jak ciê prosi³em, gdy wybiera³em siê do Macedonii, byœ pozosta³ w Efezie, tak teraz proszê, abyœ nakaza³ niektórym, ¿eby inaczej nie nauczali; </v>
+<v n="4"> I nie zajmowali siê baœniami i niekoñcz¹cymi siê rodowodami, które wywo³uj¹ raczej spory ni¿ zbudowanie Bo¿e, które oparte jest na wierze. </v>
+<v n="5"> Koñcem zaœ przykazania jest mi³oœæ p³yn¹ca z czystego serca, z prawego sumienia i wiary nieob³udnej; </v>
+<v n="6"> Od czego niektórzy odst¹pili i zwrócili siê ku czczej gadaninie; </v>
+<v n="7"> Chc¹c byæ nauczycielami prawa, nie rozumiej¹c ani tego, co mówi¹, ani tego, co stanowczo twierdz¹. </v>
+<v n="8"> Wiemy zaœ, ¿e prawo jest dobre, jeœli ktoœ je w³aœciwie stosuje. </v>
+<v n="9"> Rozumiemy, ¿e prawo nie jest ustanowione dla sprawiedliwego, ale dla nieprawych i niepos³usznych, dla bezbo¿nych i grzeszników, dla niegodziwych i nieczystych, dla ojcobójców, matkobójców i morderców; </v>
+<v n="10"> Dla rozpustników, mê¿czyzn wspó³¿yj¹cych ze sob¹, handlarzy ludŸmi, dla k³amców, krzywoprzysiêzców i dla wszystkiego, co jest przeciwne zdrowej nauce; </v>
+<v n="11"> Zgodnie z chwalebn¹ ewangeli¹ b³ogos³awionego Boga, któr¹ mi powierzono. </v>
+<v n="12"> Dziêkujê wiêc temu, który mnie umocni³, Chrystusowi Jezusowi, naszemu Panu, ¿e uzna³ mnie za wiernego, przeznaczaj¹c mnie do pos³ugi; </v>
+<v n="13"> Mnie, który przedtem by³em bluŸnierc¹, przeœladowc¹ i gnêbicielem, ale dost¹pi³em mi³osierdzia, bo czyni³em to nieœwiadomie, w niewierze. </v>
+<v n="14"> A ³aska naszego Pana sta³a siê bardzo obfita wraz z wiar¹ i mi³oœci¹, która jest w Chrystusie Jezusie. </v>
+<v n="15"> Wiarygodne to s³owa i godne ca³kowitego przyjêcia, ¿e Chrystus Jezus przyszed³ na œwiat, aby zbawiæ grzeszników, z których ja jestem pierwszy. </v>
+<v n="16"> Lecz dost¹pi³em mi³osierdzia po to, aby we mnie pierwszym Jezus Chrystus okaza³ wszelk¹ cierpliwoœæ jako przyk³ad dla tych, którzy maj¹ w niego uwierzyæ ku ¿yciu wiecznemu. </v>
+<v n="17"> A Królowi wieków, nieœmiertelnemu, niewidzialnemu, jedynemu m¹dremu Bogu niech bêdzie czeœæ i chwa³a na wieki wieków. Amen. </v>
+<v n="18"> Ten nakaz dajê tobie, synu Tymoteuszu, wed³ug wczeœniej wyg³oszonych o tobie proroctw, abyœ toczy³ zgodnie z nimi dobry bój; </v>
+<v n="19"> Maj¹c wiarê i czyste sumienie, które niektórzy odrzucili i stali siê rozbitkami w wierze. </v>
+<v n="20"> Do nich nale¿¹ Hymenajos i Aleksander, których odda³em szatanowi, aby nauczyli siê nie bluŸniæ. </v>
+</c>

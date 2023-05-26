@@ -1,0 +1,18 @@
+<v n="1"> S³owo PANA dosz³o do Jonasza, syna Amittaja, mówi¹ce: </v>
+<v n="2"> Wstañ, idŸ do Niniwy, tego wielkiego miasta, i wo³aj przeciwko niej, bo jej niegodziwoœæ wznios³a siê przed moje oblicze. </v>
+<v n="3"> Ale Jonasz wsta³, aby uciec do Tarszisz sprzed oblicza PANA, i przyby³ do Jafy. Znalaz³ okrêt, który p³yn¹³ do Tarszisz, zap³aci³ za przejazd i wsiad³ na niego, aby p³yn¹æ z nimi do Tarszisz i uciec sprzed oblicza PANA. </v>
+<v n="4"> Lecz PAN zes³a³ gwa³towny wiatr na morze i powsta³a potê¿na burza na morzu, tak ¿e zdawa³o siê, ¿e okrêt siê rozbije. </v>
+<v n="5"> A ¿eglarze przestraszyli siê i ka¿dy z nich wo³a³ do swego boga, a wyrzucali do morza ³adunek, który by³ na okrêcie, aby ten by³ l¿ejszy. Ale Jonasz zszed³ wczeœniej na ni¿szy pok³ad okrêtu, po³o¿y³ siê i twardo zasn¹³. </v>
+<v n="6"> Przyszed³ wiêc do niego sternik i zapyta³ go: Có¿ ty czynisz, œpiochu? Wstañ, wo³aj do swego Boga, mo¿e Bóg wspomni na nas, abyœmy nie zginêli. </v>
+<v n="7"> Wtedy powiedzieli jeden do drugiego: ChodŸcie, rzuæmy losy, abyœmy siê dowiedzieli, przez kogo spad³o na nas to nieszczêœcie. Rzucili wiêc losy i pad³o na Jonasza. </v>
+<v n="8"> I powiedzieli do niego: Powiedz nam, prosimy, przez kogo spad³o na nas to nieszczêœcie. Jaki jest twój zawód? Sk¹d pochodzisz? Z jakiego kraju i z jakiego narodu jesteœ? </v>
+<v n="9"> Odpowiedzia³ im: Jestem Hebrajczykiem i bojê siê PANA, Boga nieba, który stworzy³ morze i ziemiê. </v>
+<v n="10"> Wtedy ci mê¿czyŸni bardzo siê zlêkli i zapytali: Czemu tak uczyni³eœ? Oni bowiem dowiedzieli siê, ¿e ucieka sprzed oblicza PANA, bo im to powiedzia³. </v>
+<v n="11"> Powiedzieli jeszcze do niego: Có¿ mamy z tob¹ uczyniæ, aby morze siê uspokoi³o? Morze bowiem coraz bardziej siê burzy³o. </v>
+<v n="12"> Odpowiedzia³ im: WeŸcie mnie i wrzuæcie do morza, a ono uspokoi siê dla was, gdy¿ wiem, ¿e z mojego powodu ta wielka burza przysz³a na was. </v>
+<v n="13"> Lecz ci mê¿czyŸni wios³owali silniej, aby dotrzeæ do brzegu, ale nie mogli, bo morze coraz bardziej siê burzy³o przeciwko nim. </v>
+<v n="14"> Zawo³ali wiêc do PANA: PANIE, prosimy, nie pozwól nam zgin¹æ z powodu ¿ycia tego cz³owieka i nie obci¹¿aj nas krwi¹ niewinn¹. Ty bowiem, PANIE, uczyni³eœ, jak ci siê spodoba³o. </v>
+<v n="15"> Potem wziêli Jonasza i wrzucili do morza, a morze przesta³o siê burzyæ. </v>
+<v n="16"> Wtedy ci mê¿czyŸni, zdjêci wielkim strachem przed PANEM, z³o¿yli PANU ofiarê i uczynili œluby. </v>
+<v n="17"> A PAN przygotowa³ wielk¹ rybê, która po³knê³a Jonasza. I Jonasz by³ we wnêtrznoœciach tej ryby trzy dni i trzy noce. </v>
+</c>

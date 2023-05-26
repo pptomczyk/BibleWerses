@@ -1,0 +1,21 @@
+<v n="1"> Wtedy Sofar z Naamy odpowiedzia³: </v>
+<v n="2"> Czy nie nale¿y odpowiedzieæ na takie mnóstwo s³ów? Czy cz³owiek gadatliwy ma byæ usprawiedliwiony? </v>
+<v n="3"> Czy ludzie maj¹ milczeæ na twoje k³amstwa? A gdy kpisz, nikt ciê nie zawstydzi? </v>
+<v n="4"> Powiedzia³eœ bowiem: Moja nauka jest czysta, jestem czysty w twoich oczach. </v>
+<v n="5"> O gdyby Bóg zechcia³ przemówiæ i otworzyæ usta przeciwko tobie; </v>
+<v n="6"> Gdyby objawi³ tajemnice m¹droœci – ¿e zas³ugujesz na dwa razy wiêksz¹ karê. Poznaj wiêc, ile Bóg ci przebaczy³ za twoj¹ nieprawoœæ. </v>
+<v n="7"> Czy wybadasz tajemnice Boga? Czy zg³êbisz doskona³oœæ Wszechmocnego? </v>
+<v n="8"> S¹ wy¿ej ni¿ niebiosa, co mo¿esz z tym uczyniæ? G³êbsze ni¿ piek³o, czy mo¿esz je poznaæ? </v>
+<v n="9"> Ich miara jest d³u¿sza ni¿ ziemia i szersza ni¿ morze. </v>
+<v n="10"> Jeœli wycina, zamyka albo gromadzi, któ¿ go powstrzyma? </v>
+<v n="11"> On bowiem zna marnoœæ ludzi i widzi niegodziwoœæ. Czy mia³by na to nie zwa¿aæ? </v>
+<v n="12"> Cz³owiek nierozumny mo¿e nabyæ rozumu, choæ cz³owiek rodzi siê jak Ÿrebiê dzikiego os³a. </v>
+<v n="13"> Jeœli przygotujesz swoje serce i wyci¹gniesz do niego swoje rêce; </v>
+<v n="14"> Jeœli w twoich rêkach jest nieprawoœæ, oddal j¹ i nie pozwól, aby niegodziwoœæ mieszka³a w twoich przybytkach. </v>
+<v n="15"> Wtedy podniesiesz swoje oblicze bez zmazy, bêdziesz sta³y i nie bêdziesz siê ba³. </v>
+<v n="16"> Zapomnisz bowiem o swojej udrêce i wspomnisz j¹ tak jak wody, które przep³ynê³y. </v>
+<v n="17"> I twoje ¿ycie bêdzie jaœniejsze ni¿ po³udnie; twoja ciemnoœæ bêdzie jak poranek. </v>
+<v n="18"> Bêdziesz ufa³, maj¹c nadziejê; bêdziesz kopaæ doko³a i odpoczniesz bezpiecznie. </v>
+<v n="19"> Po³o¿ysz siê i nikt ciê nie przestraszy; wielu uni¿y siê przed twoim obliczem. </v>
+<v n="20"> Ale oczy niegodziwych przygasn¹ i nie bêdzie dla nich ucieczki, a ich nadzieja bêdzie jak wyzioniêcie ducha. </v>
+</c>

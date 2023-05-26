@@ -1,0 +1,15 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. Niebiosa g³osz¹ chwa³ê Boga, a firmament obwieszcza dzie³o jego r¹k. </v>
+<v n="2"> Dzieñ dniowi opowiada s³owo, a noc nocy oznajmia wiedzê. </v>
+<v n="3"> Nie ma jêzyka ani mowy, w których nie s³ychaæ ich g³osu. </v>
+<v n="4"> Ich zasiêg rozchodzi siê po ca³ej ziemi i na krañce œwiata ich s³owa. Na nich wystawi³ namiot s³oñcu. </v>
+<v n="5"> A ono wychodzi jak oblubieniec ze swojej komnaty, cieszy siê jak mocarz, który rozpoczyna bieg. </v>
+<v n="6"> Wyrusza z jednego krañca nieba i obchodzi je a¿ na drugi kraniec, a nic nie ukryje siê przed jego ¿arem. </v>
+<v n="7"> Prawo PANA jest doskona³e, nawracaj¹ce duszê; œwiadectwo PANA pewne, daj¹ce m¹droœæ prostemu. </v>
+<v n="8"> Nakazy PANA s¹ prawe, raduj¹ce serce; przykazanie PANA czyste, oœwiecaj¹ce oczy. </v>
+<v n="9"> BojaŸñ PANA jest czysta, trwaj¹ca na wieki; s¹dy PANA prawdziwe, wszystkie s¹ s³uszne. </v>
+<v n="10"> Bardziej po¿¹dane ni¿ z³oto, ni¿ mnóstwo szczerego z³ota, i s³odsze ni¿ miód, nawet ni¿ plaster miodu. </v>
+<v n="11"> Tak¿e twój s³uga jest przez nie pouczony, a kto ich przestrzega, otrzymuje wielk¹ nagrodê. </v>
+<v n="12"> Lecz kto dostrze¿e w³asne b³êdy? Oczyœæ mnie z tych, które s¹ ukryte przede mn¹. </v>
+<v n="13"> Chroñ te¿ swego s³ugê od zuchwa³ych grzechów, aby nie panowa³y nade mn¹. Wtedy bêdê nienaganny i wolny od wielkiego przestêpstwa. </v>
+<v n="14"> Niech bêd¹ ci mi³e s³owa moich ust i rozmyœlanie mego serca, PANIE, moja Ska³o i mój Odkupicielu! </v>
+</c>

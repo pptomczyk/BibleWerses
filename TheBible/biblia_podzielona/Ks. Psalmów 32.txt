@@ -1,0 +1,12 @@
+<v n="1"> Psalm Dawida. Pieœñ pouczaj¹ca. B³ogos³awiony ten, komu przebaczono wystêpek, komu grzech zakryto. </v>
+<v n="2"> B³ogos³awiony cz³owiek, któremu PAN nie poczytuje nieprawoœci i w którego duchu nie ma podstêpu. </v>
+<v n="3"> Gdy milcza³em, moje koœci sch³y od moich ca³odziennych narzekañ. </v>
+<v n="4"> We dnie i w nocy bowiem ci¹¿y³a na mnie twoja rêka, usycha³em jak podczas letniej suszy. Sela. </v>
+<v n="5"> Wyzna³em ci swój grzech i nie kry³em mojej nieprawoœci. Powiedzia³em: Wyznam moje wystêpki PANU, a ty przebaczy³eœ nieprawoœæ mego grzechu. Sela. </v>
+<v n="6"> Dlatego do ciebie bêdzie siê modli³ ka¿dy pobo¿ny w czasie, gdy mo¿na ciê znaleŸæ; nawet w czasie powodzi wielkich wód, one go nie dosiêgn¹. </v>
+<v n="7"> Ty jesteœ moim schronieniem, zachowasz mnie od ucisku; otaczasz mnie pieœniami wybawienia. Sela. </v>
+<v n="8"> Pouczê ciê i nauczê ciê drogi, któr¹ masz kroczyæ, poprowadzê ciê swoim okiem. </v>
+<v n="9"> Nie b¹dŸcie bezrozumni jak koñ czy jak mu³, których pyski trzeba okie³znaæ uzd¹ i wêdzid³em, aby siê na ciebie nie porywa³y. </v>
+<v n="10"> Wiele cierpieñ spada na niegodziwego, lecz ufaj¹cego PANU otoczy mi³osierdzie. </v>
+<v n="11"> Weselcie siê w PANU i radujcie siê sprawiedliwi, wykrzykujcie radoœnie, wszyscy prawego serca. </v>
+</c>

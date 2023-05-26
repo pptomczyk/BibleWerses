@@ -1,0 +1,12 @@
+<v n="1"> W pierwszym roku Cyrusa, króla Persji – aby wype³ni³o siê s³owo PANA z ust Jeremiasza – PAN wzbudzi³ ducha Cyrusa, króla Persji, tak ¿e og³osi³ ustnie po ca³ym swoim królestwie, a tak¿e na piœmie, co nastêpuje: </v>
+<v n="2"> Tak mówi Cyrus, król Persji: PAN, Bóg niebios, da³ mi wszystkie królestwa ziemi. On te¿ rozkaza³ mi, abym zbudowa³ dla niego dom w Jerozolimie, która jest w Judzie. </v>
+<v n="3"> Kto wiêc spoœród was nale¿y do jego ludu, niech bêdzie z nim jego Bóg; ten niech uda siê do Jerozolimy w Judzie i niech buduje dom PANA, Boga Izraela – on jest Bogiem – który jest w Jerozolimie. </v>
+<v n="4"> A ka¿dego, kto zosta³ w jakimkolwiek miejscu, gdzie teraz przebywa, niech ludzie tego miejsca wspomagaj¹ go srebrem, z³otem, dobytkiem i byd³em, a tak¿e dobrowolnymi ofiarami dla domu Bo¿ego, który jest w Jerozolimie. </v>
+<v n="5"> Wtedy powstali przywódcy rodów Judy i Beniamina, kap³ani i Lewici, wszyscy, których ducha Bóg pobudzi³, aby poszli budowaæ dom PANA, bêd¹cy w Jerozolimie. </v>
+<v n="6"> Wszyscy, którzy mieszkali doko³a nich, wspomogli ich naczyniem srebrnym, z³otem, dobytkiem, byd³em i kosztownoœciami, poza tym wszystkim, co dobrowolnie ofiarowano. </v>
+<v n="7"> Równie¿ król Cyrus wyniós³ naczynia domu PANA, które Nabuchodonozor zabra³ z Jerozolimy, i z³o¿y³ w domu swego boga. </v>
+<v n="8"> Wyniós³ je Cyrus, król Persji, przez rêce skarbnika Mitredata, który rozliczy³ siê z nich z Szeszbassarem, ksiêciem Judy. </v>
+<v n="9"> A oto ich liczba: trzydzieœci czasz z³otych, tysi¹c czasz srebrnych, dwadzieœcia dziewiêæ no¿y; </v>
+<v n="10"> Trzydzieœci z³otych pucharów, czterysta dziesiêæ pucharów mniejszej wartoœci i tysi¹c innych naczyñ. </v>
+<v n="11"> Wszystkich naczyñ z³otych i srebrnych – piêæ tysiêcy czterysta. Wszystko to zabra³ Szeszbassar, gdy lud powróci³ z niewoli, z Babilonu do Jerozolimy. </v>
+</c>

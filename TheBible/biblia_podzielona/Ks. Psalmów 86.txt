@@ -1,0 +1,18 @@
+<v n="1"> Modlitwa Dawida. Nak³oñ swego ucha, PANIE, wys³uchaj mnie, bo jestem nêdzny i ubogi. </v>
+<v n="2"> Strze¿ mojej duszy, bo jestem pobo¿ny; mój Bo¿e, wybaw twego s³ugê, który ufa tobie. </v>
+<v n="3"> Zmi³uj siê nade mn¹, Panie, bo do ciebie codziennie wo³am. </v>
+<v n="4"> Rozraduj duszê twego s³ugi, bo do ciebie, Panie, wznoszê sw¹ duszê. </v>
+<v n="5"> Bo ty, Panie, jesteœ dobry i przebaczaj¹cy, i pe³en mi³osierdzia dla wszystkich, którzy ciê wzywaj¹. </v>
+<v n="6"> Wys³uchaj, PANIE, mojej modlitwy i zwa¿ na g³os mojego b³agania. </v>
+<v n="7"> Wzywam ciê w dniu mego ucisku, bo ty mnie wys³uchasz. </v>
+<v n="8"> Nie ma wœród bogów podobnego tobie, Panie, i nie ma dzie³ takich jak twoje. </v>
+<v n="9"> Wszystkie narody, które stworzy³eœ, przyjd¹ i oddadz¹ ci pok³on, Panie, i bêd¹ wielbiæ twoje imiê; </v>
+<v n="10"> Bo ty jesteœ wielki i czynisz cuda; tylko ty jesteœ Bogiem. </v>
+<v n="11"> Naucz mnie, PANIE, twojej drogi, abym chodzi³ w twojej prawdzie; nak³oñ moje serce ku bojaŸni twego imienia. </v>
+<v n="12"> Bêdê ciê chwali³, Panie, mój Bo¿e, z ca³ego serca i bêdê wielbi³ twoje imiê na wieki; </v>
+<v n="13"> Bo wielkie jest twoje mi³osierdzie dla mnie; ty ocali³eœ moj¹ duszê z najg³êbszego piek³a. </v>
+<v n="14"> Bo¿e, pyszni powstali przeciwko mnie i zgraja gwa³towników czyha³a na moj¹ duszê, a nie maj¹ ciebie przed oczyma. </v>
+<v n="15"> Ale ty, Panie, jesteœ Bogiem ³askawym i litoœciwym, nieskorym do gniewu, pe³nym mi³osierdzia i prawdy. </v>
+<v n="16"> Spójrz na mnie i zmi³uj siê nade mn¹, udziel swojej mocy twemu s³udze i wybaw syna twojej s³u¿¹cej. </v>
+<v n="17"> Daj mi znak twojej dobroci, aby ci, którzy mnie nienawidz¹, zobaczyli i zawstydzili siê, ¿e ty, PANIE, wspomog³eœ mnie i pocieszy³eœ. </v>
+</c>

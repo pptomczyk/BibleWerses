@@ -1,0 +1,22 @@
+<v n="1"> W tym dniu œpiewana bêdzie taka pieœñ w ziemi Judy: Mamy miasto obronne, Bóg zaopatrzy je w zbawienie jako mur i wa³y obronne. </v>
+<v n="2"> Otwórzcie bramy, niech wejdzie naród sprawiedliwy, który strze¿e prawdy. </v>
+<v n="3"> Cz³owieka polegaj¹cego na tobie zachowujesz w doskona³ym pokoju, bo tobie ufa. </v>
+<v n="4"> Pok³adajcie nadziejê w PANU na wieki, bo JEHOWA BÓG jest wieczn¹ ska³¹. </v>
+<v n="5"> On bowiem poni¿a tych, którzy mieszkaj¹ wysoko; burzy miasto wynios³e, burzy je a¿ do ziemi, i str¹ca a¿ do prochu. </v>
+<v n="6"> Depcze je noga; nogi ubogiego, stopy nêdzarzy. </v>
+<v n="7"> Œcie¿ka sprawiedliwego jest prosta; wyrównujesz prost¹ drogê sprawiedliwego. </v>
+<v n="8"> Na drodze twoich s¹dów, o PANIE, oczekujemy ciê; pragnieniem naszej duszy jest twoje imiê i wspominanie ciebie. </v>
+<v n="9"> Moja dusza pragnie ciê w nocy; swoim duchem, który jest we mnie, szukam ciê nawet rano. Gdy bowiem twoje s¹dy odbywaj¹ siê na ziemi, mieszkañcy œwiata ucz¹ siê sprawiedliwoœci. </v>
+<v n="10"> Choæ niegodziwemu oka¿e siê ³askê, nie nauczy siê sprawiedliwoœci. W ziemi prawoœci bêdzie czyniæ nieprawoœæ i nie bêdzie zwa¿aæ na majestat PANA. </v>
+<v n="11"> PANIE, choæ twoja rêka jest wywy¿szona, oni jednak tego nie widz¹. Ale ujrz¹ i bêd¹ zawstydzeni z powodu ich zazdroœci wobec twego ludu; ponadto ogieñ twoich wrogów po¿re ich. </v>
+<v n="12"> PANIE, zaprowadzisz nam pokój, bo wszystko, co siê dzia³o przy nas, czyni³eœ ku naszemu dobru. </v>
+<v n="13"> PANIE, nasz Bo¿e, panowali nad nami inni panowie ni¿ ty, ale my, ufaj¹c tylko tobie, wspominamy twoje imiê. </v>
+<v n="14"> Umarli oni i nie o¿yj¹, s¹ martwi i nie powstan¹, poniewa¿ nawiedzi³eœ ich i wytêpi³eœ, i zg³adzi³eœ wszelk¹ pamiêæ o nich. </v>
+<v n="15"> Rozmno¿y³eœ naród, PANIE, rozmno¿y³eœ naród. Jesteœ uwielbiony, choæ go wypêdzi³eœ na wszystkie krañce ziemi. </v>
+<v n="16"> PANIE, w ucisku ciebie szukali; gdy ich kara³eœ, wylewali swoje modlitwy. </v>
+<v n="17"> Jak brzemienna, gdy zbli¿a siê poród, odczuwa ból i wo³a w boleœciach, takimi byliœmy przed tob¹, PANIE. </v>
+<v n="18"> Poczêliœmy, wiliœmy siê z bólu, ale zrodziliœmy jakby tylko wiatr; ¿adnego wybawienia nie dokonaliœmy na ziemi i nie upadli mieszkañcy œwiata. </v>
+<v n="19"> Twoi umarli o¿yj¹, wraz z moim trupem powstan¹. Ocuæcie siê i œpiewajcie, wy, którzy spoczywacie w prochu! Twoja rosa bowiem bêdzie jak rosa na zio³ach, a ziemia wyda umar³ych. </v>
+<v n="20"> ChodŸ, mój ludu! WejdŸ do swoich komnat i zamknij swoje drzwi za sob¹. Skryj siê na krótk¹ chwilê, a¿ gniew przeminie. </v>
+<v n="21"> Oto bowiem PAN wychodzi ze swojego miejsca, aby nawiedziæ nieprawoœæ mieszkañców ziemi. Wtedy ziemia ujawni swoj¹ krew i nie bêdzie ju¿ ukrywaæ swoich zabitych. </v>
+</c>

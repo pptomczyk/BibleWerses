@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. Niech ciê wys³ucha PAN w dniu utrapienia, niech ciê chroni imiê Boga Jakuba. </v>
+<v n="2"> Niech ci zeœle pomoc ze œwi¹tyni i niech ciê wesprze z Syjonu. </v>
+<v n="3"> Niech pamiêta wszystkie twoje ofiary i niech przyjmie twoje ca³opalenia. Sela. </v>
+<v n="4"> Niech da ci wszystko, czego pragnie twoje serce, i ka¿dy twój zamys³ niech wype³ni. </v>
+<v n="5"> Bêdziemy siê radowaæ z twojego zbawienia i w imiê naszego Boga sztandary podniesiemy. Niech PAN spe³ni wszystkie twoje proœby. </v>
+<v n="6"> Teraz wiem, ¿e PAN wybawia swego pomazañca, wys³ucha go ze swego œwiêtego nieba zbawcz¹ moc¹ swojej prawicy. </v>
+<v n="7"> Jedni pok³adaj¹ ufnoœæ w rydwanach, inni w koniach, lecz my bêdziemy wspominaæ imiê PANA, naszego Boga. </v>
+<v n="8"> Tamci zachwiali siê i upadli, a my powstaliœmy i ostoimy siê. </v>
+<v n="9"> PANIE, wybaw nas, a król niech nas wys³ucha w dniu naszego wo³ania. </v>
+</c>

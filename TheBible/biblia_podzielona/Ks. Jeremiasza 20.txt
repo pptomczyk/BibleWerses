@@ -1,0 +1,19 @@
+<v n="1"> A kap³an Paszchur, syn Immera, który by³ naczelnym przywódc¹ w domu PANA, us³ysza³ Jeremiasza prorokuj¹cego o tym; </v>
+<v n="2"> I Paszchur uderzy³ proroka Jeremiasza, i zaku³ go w dyby, które by³y w Górnej Bramie Beniamina, przy domu PANA. </v>
+<v n="3"> A nazajutrz, gdy Paszchur uwolni³ Jeremiasza z dybów, Jeremiasz powiedzia³ do niego: PAN nie nazwa³ ciê Paszchur, lecz Magormissabib. </v>
+<v n="4"> Tak bowiem mówi PAN: Oto uczyniê z ciebie postrach dla ciebie samego i dla wszystkich twoich przyjació³. Padn¹ od miecza swoich wrogów, a twoje oczy bêd¹ na to patrzeæ. Ca³¹ Judê wydam w rêce króla Babilonu, który ich uprowadzi do niewoli do Babilonu i pozabija mieczem. </v>
+<v n="5"> Wydam te¿ wszystkie bogactwa tego miasta, ca³y jego dobytek, wszystkie jego kosztownoœci i wszystkie skarby królów Judy – wydam w rêce ich wrogów. Ci z³upi¹ je, zabior¹ i wywioz¹ do Babilonu. </v>
+<v n="6"> Ale ty, Paszchurze, i wszyscy, którzy mieszkaj¹ w twym domu, pójdziecie do niewoli. Przyjdziesz do Babilonu i tam umrzesz, i tam zostaniesz pogrzebany, ty i wszyscy twoi przyjaciele, którym k³amliwie prorokowa³eœ. </v>
+<v n="7"> Namówi³eœ mnie, PANIE, a da³em siê namówiæ. Ty jesteœ silniejszy ode mnie i mnie przemog³eœ. Jestem wystawiony na poœmiewisko ka¿dego dnia, ka¿dy siê ze mnie naœmiewa. </v>
+<v n="8"> Odk¹d bowiem zacz¹³em mówiæ, wo³am; krzyczê o przemocy i spustoszeniu, bo s³owo PANA sta³o siê dla mnie pohañbieniem i poœmiewiskiem ka¿dego dnia. </v>
+<v n="9"> I powiedzia³em: Nie bêdê go wspomina³ ani nie bêdê ju¿ mówi³ w jego imiê. Ale s³owo Bo¿e jest w moim sercu jakby ogieñ p³on¹cy, zamkniêty w moich koœciach, i usi³owa³em je wstrzymaæ, ale nie mog³em. </v>
+<v n="10"> S³yszê bowiem oszczerstwo wielu, strach doko³a. Mówi¹: Donoœcie, a my o tym doniesiemy. Wszyscy moi przyjaciele czyhaj¹ na mój upadek, mówi¹c: Mo¿e da siê zwabiæ, potem przemo¿emy go i zemœcimy siê na nim. </v>
+<v n="11"> Ale PAN jest ze mn¹ jak straszliwy mocarz. Dlatego moi przeœladowcy upadn¹ i nie przemog¹ mnie. Bêd¹ bardzo zawstydzeni, ¿e im siê nie powiod³o. Ich wieczna hañba nie bêdzie zapomniana. </v>
+<v n="12"> Dlatego, PANIE zastêpów, który doœwiadczasz sprawiedliwego, który widzisz nerki i serce, niech zobaczê twoj¹ pomstê nad nimi. Tobie bowiem powierzy³em swoj¹ sprawê. </v>
+<v n="13"> Œpiewajcie PANU, chwalcie PANA, gdy¿ wybawi³ duszê ubogiego z rêki z³oczyñców. </v>
+<v n="14"> Przeklêty dzieñ, w którym siê urodzi³em. Niech dzieñ, w którym urodzi³a mnie moja matka, nie bêdzie b³ogos³awiony. </v>
+<v n="15"> Przeklêty cz³owiek, który oznajmi³ memu ojcu, mówi¹c: Urodzi³o ci siê dziecko, ch³opiec, sprawiaj¹c mu wielk¹ radoœæ. </v>
+<v n="16"> Niech ten cz³owiek bêdzie jak miasta, które PAN zniszczy³ bez ¿alu. Niech s³yszy krzyk o poranku i wo³anie w po³udnie; </v>
+<v n="17"> Za to, ¿e mnie nie zabi³ zaraz od ³ona, by moja matka by³a moim grobem, a jej ³ono – wiecznie brzemienne! </v>
+<v n="18"> Po co wyszed³em z ³ona – aby doznawaæ trudu i smutku, aby moje dni by³y strawione wœród hañby? </v>
+</c>

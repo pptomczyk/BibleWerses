@@ -1,0 +1,25 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. PANIE, przenikn¹³eœ mnie i znasz mnie. </v>
+<v n="2"> Wiesz, kiedy siedzê i wstajê, z daleka znasz moje myœli. </v>
+<v n="3"> Otaczasz moj¹ œcie¿kê i spoczynek, wszystkie moje drogi s¹ ci znane. </v>
+<v n="4"> Zanim na moim jêzyku pojawi siê s³owo, ty, PANIE, ju¿ je znasz. </v>
+<v n="5"> Otaczasz mnie z ty³u i z przodu i po³o¿y³eœ na mnie twoj¹ rêkê. </v>
+<v n="6"> Zbyt cudowna jest dla mnie twoja wiedza; jest wznios³a, nie mogê jej poj¹æ. </v>
+<v n="7"> Dok¹d ujdê przed twoim duchem? Dok¹d ucieknê przed twoim obliczem? </v>
+<v n="8"> Jeœli wst¹piê do nieba, jesteœ tam; jeœli przygotujê sobie pos³anie w piekle, tam te¿ jesteœ. </v>
+<v n="9"> Gdybym wzi¹³ skrzyd³a zorzy porannej, aby zamieszkaæ na krañcu morza; </v>
+<v n="10"> I tam twoja rêka prowadzi³aby mnie i twoja prawica by mnie podtrzyma³a. </v>
+<v n="11"> Jeœli powiem: Na pewno zakryj¹ mnie ciemnoœci, to i noc bêdzie doko³a mnie œwiat³em. </v>
+<v n="12"> Nawet ciemnoœæ nic przed tob¹ nie skryje, dla ciebie noc œwieci jak dzieñ, ciemnoœæ jest jak œwiat³oœæ. </v>
+<v n="13"> Ty bowiem panujesz nad moimi nerkami; okry³eœ mnie w ³onie mojej matki. </v>
+<v n="14"> Wys³awiam ciê, bo zosta³em stworzony w sposób zadziwiaj¹cy i cudowny; przedziwne s¹ twoje dzie³a, a moja dusza zna je bardzo dobrze. </v>
+<v n="15"> ¯adna moja koœæ nie by³a zakryta przed tob¹, gdy zosta³em stworzony w skrytoœci i misternie z³o¿ony w g³êbiach ziemi. </v>
+<v n="16"> Twoje oczy widzia³y niedoskona³y p³ód mego cia³a; w twojej ksiêdze s¹ zapisane wszystkie moje cz³onki i dni, w które by³y kszta³towane, gdy jeszcze ¿adnego z nich nie by³o. </v>
+<v n="17"> Jak drogie s¹ dla mnie twoje myœli, Bo¿e! Jak wielka jest ich liczba! </v>
+<v n="18"> Gdybym chcia³ je zliczyæ, by³oby ich wiêcej ni¿ piasku; gdy siê budzê, jeszcze jestem z tob¹. </v>
+<v n="19"> Zg³adzisz, Bo¿e, niegodziwego; niech odst¹pi¹ ode mnie ludzie krwawi; </v>
+<v n="20"> Którzy mówi¹ obrzydliwoœci przeciwko tobie, twoi wrogowie nadaremnie bior¹ twoje imiê. </v>
+<v n="21"> Czy nie nienawidzê tych, PANIE, którzy nienawidz¹ ciebie? I nie brzydzê siê tymi, którzy przeciwko tobie powstaj¹? </v>
+<v n="22"> Nienawidzê ich pe³ni¹ nienawiœci i mam ich za wrogów. </v>
+<v n="23"> Przeniknij mnie, Bo¿e, i poznaj moje serce; wypróbuj mnie i poznaj moje myœli; </v>
+<v n="24"> I zobacz, czy jest we mnie droga nieprawoœci, a prowadŸ mnie drog¹ wieczn¹. </v>
+</c>

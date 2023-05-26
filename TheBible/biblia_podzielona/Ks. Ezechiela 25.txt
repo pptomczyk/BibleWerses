@@ -1,0 +1,18 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, zwróæ swoj¹ twarz przeciwko Ammonitom i prorokuj przeciwko nim. </v>
+<v n="3"> Powiedz Ammonitom: S³uchajcie s³owa Pana BOGA. Tak mówi Pan BÓG: Poniewa¿ mówi³eœ: Ha! na moj¹ œwi¹tyniê, gdy zosta³a zbezczeszczona, i na ziemiê Izraela, gdy by³a spustoszona, i na dom Judy, gdy poszed³ w niewolê; </v>
+<v n="4"> Oto wydam ciê w posiadanie narodom Wschodu. Pobuduj¹ swoje pa³ace u ciebie i urz¹dz¹ u ciebie swoje mieszkania. Bêd¹ jeœæ twoje plony i bêd¹ piæ twoje mleko. </v>
+<v n="5"> I uczyniê z Rabby legowisko dla wielb³¹dów, a z miast Ammonitów – legowisko dla trzód. I poznacie, ¿e ja jestem PANEM. </v>
+<v n="6"> Tak bowiem mówi Pan BÓG: Poniewa¿ klaska³eœ rêkami, tupa³eœ nogami i cieszy³eœ siê w sercu z ca³¹ pogard¹ wobec ziemi Izraela; </v>
+<v n="7"> Oto wyci¹gnê sw¹ rêkê przeciwko tobie i wydam ciê na ³up poganom; wytnê ciê spoœród narodów, wytracê ciê z ziem i wyniszczê ciê. I poznasz, ¿e ja jestem PANEM. </v>
+<v n="8"> Tak mówi Pan BÓG: Poniewa¿ Moab i Seir mówi¹: Oto dom Judy jest jak wszystkie inne narody; </v>
+<v n="9"> Dlatego ods³oniê zbocze Moabu od miast, od jego granicznych miast, które s¹ ozdob¹ ziemi: Bet-Jeszimot, Baal-Meon i Kiriataim; </v>
+<v n="10"> Przed narodami Wschodu wraz z Ammonitami; dam je w posiadanie, aby nie wspominano Ammonitów miêdzy narodami. </v>
+<v n="11"> I dokonam s¹dów nad Moabem, i poznaj¹, ¿e ja jestem PANEM. </v>
+<v n="12"> Tak mówi Pan BÓG: Poniewa¿ Edom srodze siê mœci³ nad domem Judy i ciê¿ko zawini³, mszcz¹c siê nad nim; </v>
+<v n="13"> Tak mówi Pan BÓG: Wyci¹gnê te¿ swoj¹ rêkê na ziemiê Edomu i wytracê z niej ludzi i zwierzêta, i zamieniê j¹ w pustyniê; od Temanu a¿ do Dedanu polegn¹ od miecza. </v>
+<v n="14"> I dokonam swojej zemsty na Edomie przez rêce mego ludu Izraela, a post¹pi¹ z Edomem wed³ug mojej zapalczywoœci i wed³ug mojego gniewu. I poznaj¹ moj¹ pomstê, mówi Pan BÓG. </v>
+<v n="15"> Tak mówi Pan BÓG: Poniewa¿ Filistyni siê mœcili i dokonali zemsty z³oœliwym sercem, aby prowadziæ do zguby z powodu odwiecznej nieprzyjaŸni; </v>
+<v n="16"> Dlatego tak mówi Pan BÓG: Oto wyci¹gnê swoj¹ rêkê na Filistynów, wykorzeniê Keretytów i wytracê resztkê wybrze¿a morskiego. </v>
+<v n="17"> I dokonam na nich wielkiej pomsty, karz¹c ich w zapalczywoœci; i poznaj¹, ¿e ja jestem PANEM, gdy wywrê na nich swoj¹ pomstê. </v>
+</c>

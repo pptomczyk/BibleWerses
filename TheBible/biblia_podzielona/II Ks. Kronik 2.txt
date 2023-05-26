@@ -1,0 +1,19 @@
+<v n="1"> Wtedy Salomon postanowi³ zbudowaæ dom dla imienia PANA oraz pa³ac królewski dla siebie. </v>
+<v n="2"> I odliczy³ Salomon siedemdziesi¹t tysiêcy mê¿czyzn do noszenia ciê¿arów i osiemdziesi¹t tysiêcy mê¿czyzn do ciosania na górze, a nad nimi – trzy tysi¹ce szeœciuset nadzorców. </v>
+<v n="3"> Salomon pos³a³ te¿ do Hurama, króla Tyru, wiadomoœæ: Jak post¹pi³eœ z moim ojcem Dawidem, gdy przys³a³eœ mu drzewa cedrowego, aby zbudowa³ sobie dom na mieszkanie, tak post¹p ze mn¹. </v>
+<v n="4"> Oto chcê budowaæ dom dla imienia PANA, swego Boga, aby mu go poœwiêciæ i aby paliæ przed nim wonne kadzid³o, sk³adaæ nieustannie chleb pok³adny oraz ca³opalenia poranne i wieczorne – w szabaty, w dni nowiu oraz w uroczyste œwiêta PANA, naszego Boga. To jest wieczny nakaz w Izraelu. </v>
+<v n="5"> A dom, który mam zbudowaæ, bêdzie wielki, gdy¿ nasz Bóg jest wiêkszy od wszystkich bogów. </v>
+<v n="6"> Któ¿ jednak zdo³a zbudowaæ mu dom, skoro niebiosa i niebiosa niebios nie mog¹ go ogarn¹æ? A kim jestem ja, ¿ebym mia³ mu dom zbudowaæ? Chyba tylko do palenia przed nim kadzid³a. </v>
+<v n="7"> Dlatego wiêc przyœlij mi teraz cz³owieka uzdolnionego w obróbce z³ota, srebra, br¹zu, ¿elaza, purpury, karmazynu i b³êkitu, i który umie rzeŸbiæ wraz z innymi rzemieœlnikami bêd¹cymi przy mnie w Judzie i Jerozolimie, wyznaczonymi przez mego ojca Dawida. </v>
+<v n="8"> Przyœlij mi te¿ z Libanu drzewa cedrowego, cyprysowego i sanda³owego, bo wiem, ¿e twoi s³udzy umiej¹ r¹baæ drzewa w Libanie, a oto moi s³udzy bêd¹ z twoimi s³ugami; </v>
+<v n="9"> Aby przygotowali mi jak najwiêcej drzewa. Dom bowiem, który chcê zbudowaæ, ma byæ nad podziw wielki. </v>
+<v n="10"> A oto twoim s³ugom, robotnikom, którzy maj¹ wycinaæ drzewo, dam dwadzieœcia tysiêcy kor wym³óconej pszenicy, dwadzieœcia tysiêcy kor jêczmienia, dwadzieœcia tysiêcy bat wina oraz dwadzieœcia tysiêcy bat oliwy. </v>
+<v n="11"> Wtedy Huram, król Tyru, odpowiedzia³ w piœmie, które wys³a³ do Salomona: Poniewa¿ PAN umi³owa³ swój lud, ustanowi³ ciê nad nim królem. </v>
+<v n="12"> Huram mówi³ dalej: B³ogos³awiony niech bêdzie PAN, Bóg Izraela, który uczyni³ niebo i ziemiê, który da³ królowi Dawidowi syna m¹drego, zdolnego, rozumnego i roztropnego, aby zbudowa³ dom dla PANA oraz pa³ac królewski dla siebie. </v>
+<v n="13"> Posy³am ci wiêc cz³owieka m¹drego, zdolnego i roztropnego: Hurama-Abiego; </v>
+<v n="14"> Syna kobiety spoœród córek Dana, którego ojcem by³ mieszkaniec Tyru, a który umie pracowaæ przy z³ocie, srebrze, br¹zie, ¿elazie, kamieniu, drewnie – z purpur¹, b³êkitem, bisiorem i karmazynem, który umie wykonywaæ wszelkie rzeŸby i obmyœlaæ ka¿d¹ powierzon¹ mu pracê, razem z twymi rzemieœlnikami i rzemieœlnikami mego pana Dawida, twojego ojca. </v>
+<v n="15"> Teraz wiêc niech mój pan przyœle swoim s³ugom pszenicê, jêczmieñ, oliwê i wino, o których mówi³. </v>
+<v n="16"> A my nawycinamy drzew z Libanu, ile ci bêdzie potrzeba, i sprowadzimy je morzem na tratwach do Jafy, a ty je ka¿esz sprowadziæ do Jerozolimy. </v>
+<v n="17"> Wtedy Salomon obliczy³ wszystkich cudzoziemców, którzy byli w ziemi Izraela po tym spisie, którego dokona³ jego ojciec Dawid, i znalaz³o siê ich sto piêædziesi¹t trzy tysi¹ce szeœciuset. </v>
+<v n="18"> I przeznaczy³ z nich siedemdziesi¹t tysiêcy do dŸwigania ciê¿arów, osiemdziesi¹t tysiêcy do ciosania w górach i trzy tysi¹ce szeœciuset nadzorców nad robotami ludu. </v>
+</c>

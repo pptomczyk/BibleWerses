@@ -1,0 +1,15 @@
+<v n="1"> Pieœñ i psalm dla synów Korego. Wielki jest PAN i godzien wielkiej chwa³y w mieœcie naszego Boga, na swej œwiêtej górze. </v>
+<v n="2"> Piêknie wzniesiona, radoœci¹ ca³ej ziemi jest góra Syjon na krañcach pó³nocy, miasto wielkiego Króla. </v>
+<v n="3"> Bóg w pa³acach jego jest uznany za twierdzê. </v>
+<v n="4"> Bo oto zgromadzili siê królowie i razem ruszyli. </v>
+<v n="5"> Gdy zobaczyli, zdumieli siê, przerazili siê i uciekli. </v>
+<v n="6"> Strach ich tam ogarn¹³ i ból, jak rodz¹c¹ kobietê. </v>
+<v n="7"> Wiatrem wschodnim rozbijasz okrêty Tarszisz. </v>
+<v n="8"> To, co s³yszeliœmy, to zobaczyliœmy w mieœcie PANA zastêpów, w mieœcie naszego Boga; Bóg je ugruntuje na wieki. Sela. </v>
+<v n="9"> Rozwa¿amy, o Bo¿e, twoje mi³osierdzie we wnêtrzu twej œwi¹tyni. </v>
+<v n="10"> Jak twoje imiê, Bo¿e, tak i chwa³a twoja siêga a¿ po krañce ziemi; twoja prawica pe³na jest sprawiedliwoœci. </v>
+<v n="11"> Niech siê weseli góra Syjon, niech siê raduj¹ córki Judy z powodu twoich s¹dów. </v>
+<v n="12"> Okr¹¿cie Syjon i obejdŸcie go, policzcie jego wie¿e. </v>
+<v n="13"> Przyjrzyjcie siê jego wa³om obronnym, ogl¹dajcie jego pa³ace, abyœcie mogli opowiadaæ przysz³emu pokoleniu. </v>
+<v n="14"> Bo ten Bóg jest naszym Bogiem na wieki wieków, on bêdzie nas prowadzi³ a¿ do œmierci. </v>
+</c>

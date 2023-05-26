@@ -1,0 +1,13 @@
+<v n="1"> PAN króluje, raduj siê, ziemio, i weselcie siê, niezliczone wyspy! </v>
+<v n="2"> Chmury i ciemnoœæ wokó³ niego, sprawiedliwoœæ i s¹d podstaw¹ jego tronu. </v>
+<v n="3"> Ogieñ idzie przed nim i po¿era jego wrogów woko³o. </v>
+<v n="4"> Jego b³yskawice oœwietlaj¹ œwiat, widzi to ziemia i dr¿y. </v>
+<v n="5"> Góry topi¹ siê jak wosk przed obliczem PANA, przed obliczem Pana ca³ej ziemi. </v>
+<v n="6"> Niebiosa opowiadaj¹ jego sprawiedliwoœæ, a wszystkie narody widz¹ jego chwa³ê. </v>
+<v n="7"> Niech bêd¹ zawstydzeni wszyscy, którzy s³u¿¹ pos¹gom, którzy chlubi¹ siê bo¿kami; oddajcie mu pok³on, wszyscy bogowie. </v>
+<v n="8"> Syjon to us³ysza³ i weseli siê, a córki Judy bêd¹ siê radowaæ z powodu twoich s¹dów, PANIE! </v>
+<v n="9"> Ty bowiem, PANIE, jesteœ Najwy¿szy na ca³ej ziemi, wywy¿szony ponad wszystkich bogów. </v>
+<v n="10"> Wy, którzy mi³ujecie PANA, miejcie w nienawiœci z³o; on strze¿e dusz swoich œwiêtych, ocala ich z rêki niegodziwych. </v>
+<v n="11"> Œwiat³o jest zasiane dla sprawiedliwego i radoœæ dla tych, którzy s¹ prawego serca. </v>
+<v n="12"> Weselcie siê w PANU, sprawiedliwi, i wys³awiajcie go, pamiêtaj¹c o jego œwiêtoœci. </v>
+</c>

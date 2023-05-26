@@ -1,0 +1,26 @@
+<v n="1"> Zifejczycy przyszli do Saula, do Gibea, i powiedzieli: Czy Dawid nie ukrywa siê na wzgórzu Hakila, naprzeciwko Jeszimonu? </v>
+<v n="2"> Saul wyruszy³ wiêc i uda³ siê na pustyniê Zif, a razem z nim trzy tysi¹ce doborowych mê¿czyzn spoœród Izraela, aby szukaæ Dawida na pustyni Zif. </v>
+<v n="3"> Saul rozbi³ obóz na wzgórzu Hakila, które le¿y naprzeciwko Jeszimonu, przy drodze. Dawid zaœ przebywa³ na pustyni i dowiedzia³ siê, ¿e Saul przyby³ za nim na pustyniê. </v>
+<v n="4"> Dawid wys³a³ wiêc zwiadowców i przekona³ siê, ¿e Saul rzeczywiœcie przyby³. </v>
+<v n="5"> Wtedy Dawid wsta³ i przyby³ na miejsce, gdzie Saul rozbi³ obóz. I Dawid spostrzeg³ miejsce, gdzie le¿eli Saul i Abner, syn Nera, dowódca jego wojska. Saul bowiem spa³ w œrodku obozu, a ludzie le¿eli wokó³ niego. </v>
+<v n="6"> I Dawid odezwa³ siê do Achimeleka Chetyty i do Abiszaja, syna Serui, brata Joaba: Kto pójdzie ze mn¹ do Saula do obozu? Abiszaj odpowiedzia³: Ja pójdê z tob¹. </v>
+<v n="7"> Przyszli wiêc Dawid i Abiszaj w nocy do tych ludzi. I oto Saul, le¿¹c, spa³ w œrodku obozu, a jego w³ócznia by³a wbita w ziemiê przy jego g³owie. Abner zaœ i ludzie le¿eli doko³a niego. </v>
+<v n="8"> Wtedy Abiszaj powiedzia³ do Dawida: Dziœ Bóg wyda³ twego wroga w twoje rêce. Pozwól mi wiêc teraz go przybiæ w³óczni¹ do ziemi jeden raz, drugiego nie bêdzie trzeba. </v>
+<v n="9"> Ale Dawid odpowiedzia³ Abiszajowi: Nie zabijaj go, bo któ¿ mo¿e wyci¹gn¹æ rêkê na pomazañca PANA i pozostaæ niewinny? </v>
+<v n="10"> Dawid doda³: Jak ¿yje PAN, sam PAN go zabije albo nadejdzie jego dzieñ i umrze, albo wyruszy na wojnê i zginie. </v>
+<v n="11"> Nie daj Bo¿e, abym mia³ wyci¹gn¹æ swoj¹ rêkê na pomazañca PANA. Tylko weŸ, proszê, w³óczniê, która jest przy jego g³owie, oraz dzban na wodê i odejdŸmy. </v>
+<v n="12"> Dawid wzi¹³ wiêc w³óczniê i dzban na wodê, które le¿a³y przy g³owie Saula, i odeszli. Nikt tego nie widzia³ ani nie zauwa¿y³, ani siê nie obudzi³, bo wszyscy spali. Spad³ na nich bowiem twardy sen od PANA. </v>
+<v n="13"> Potem Dawid przeszed³ na drug¹ stronê i stan¹³ na szczycie góry daleko od obozu, tak ¿e odleg³oœæ miêdzy nimi by³a wielka. </v>
+<v n="14"> Wtedy Dawid zawo³a³ do ludzi i do Abnera, syna Nera: Czy nie odezwiesz siê, Abnerze? Abner odpowiedzia³: Któ¿ ty jesteœ, który wo³asz do króla? </v>
+<v n="15"> Dawid odpowiedzia³ Abnerowi: Czy ty nie jesteœ dzielnym mê¿czyzn¹? A któ¿ w Izraelu jest jak ty? Dlaczego wiêc nie strzeg³eœ króla, swego pana? Przyszed³ bowiem jeden z ludu, aby zabiæ króla, twego pana. </v>
+<v n="16"> Nie jest dobre to, co uczyni³eœ. Jak ¿yje PAN, zas³ugujecie na œmieræ, bo nie strzegliœcie swojego pana, pomazañca PANA. A teraz patrz, gdzie jest w³ócznia króla i dzban na wodê, które by³y przy jego g³owie. </v>
+<v n="17"> Wtedy Saul rozpozna³ g³os Dawida i zawo³a³: Czy to twój g³os, mój synu, Dawidzie? Dawid odpowiedzia³: To mój g³os, mój panie, królu. </v>
+<v n="18"> I doda³: Dlaczego mój pan œciga swego s³ugê? Có¿ bowiem uczyni³em? A jakie¿ z³o znajduje siê w moich rêkach? </v>
+<v n="19"> Teraz wiêc, proszê, niech mój pan, król, pos³ucha s³ów swego s³ugi. Jeœli PAN pobudzi³ ciê przeciwko mnie, niech przyjmie ofiary. Lecz jeœli synowie ludzcy, to niech bêd¹ przeklêci przed PANEM, gdy¿ wypêdzaj¹ mnie dziœ, abym nie mieszka³ w dziedzictwie PANA, mówi¹c: IdŸ, s³u¿ obcym bogom. </v>
+<v n="20"> A teraz niech moja krew nie zostanie wylana na ziemiê przed obliczem PANA. Wyszed³ bowiem król Izraela, aby szukaæ jednej pch³y, jak wtedy, gdy poluje siê na kuropatwê w górach. </v>
+<v n="21"> Wtedy Saul powiedzia³: Zgrzeszy³em. Wróæ, mój synu, Dawidzie, bo nie uczyniê ci ju¿ nic z³ego, poniewa¿ dziœ moja dusza by³a cenna w twoich oczach. Oto g³upio post¹pi³em i wielce zb³¹dzi³em. </v>
+<v n="22"> Dawid odpowiedzia³: Oto w³ócznia króla. Niech przyjdzie jeden ze s³ug i j¹ odbierze. </v>
+<v n="23"> I niech PAN wynagrodzi ka¿demu za jego sprawiedliwoœæ i wiernoœæ. PAN bowiem wyda³ ciê dziœ w moje rêce, ale nie chcia³em wyci¹gn¹æ swojej rêki na pomazañca PANA. </v>
+<v n="24"> Oto jak powa¿ane by³o dziœ twoje ¿ycie w moich oczach, tak niech bêdzie powa¿ane moje ¿ycie w oczach PANA i niech mnie PAN wybawi z wszelkiego ucisku. </v>
+<v n="25"> Wtedy Saul powiedzia³ do Dawida: B¹dŸ b³ogos³awiony ty, mój synu, Dawidzie. Wielu dzie³ dokonasz i bêdziesz zwyciê¿a³. Potem Dawid poszed³ swoj¹ drog¹, a Saul wróci³ na swoje miejsce. </v>
+</c>

@@ -1,0 +1,9 @@
+<v n="1"> Przewodnikowi chóru, na Neginot. Psalm Dawida. Wys³uchaj mnie, gdy ciê wzywam, Bo¿e mojej sprawiedliwoœci! Ty wyzwoli³eœ mnie w czasie ucisku. Zmi³uj siê nade mn¹ i wys³uchaj mojej modlitwy. </v>
+<v n="2"> Synowie ludzcy, jak d³ugo bêdziecie zniewa¿aæ moj¹ chwa³ê? Jak d³ugo bêdziecie mi³owaæ marnoœæ i szukaæ k³amstwa? Sela. </v>
+<v n="3"> Wiedzcie, ¿e PAN oddzieli³ dla siebie pobo¿nego. PAN wys³ucha, gdy zawo³am do niego. </v>
+<v n="4"> Zadr¿yjcie i nie grzeszcie. Rozmyœlajcie w swym sercu na ³o¿u i zamilczcie. Sela. </v>
+<v n="5"> Sk³adajcie ofiary sprawiedliwoœci i ufajcie PANU. </v>
+<v n="6"> Wielu mówi: Któ¿ poka¿e nam dobro? PANIE, wznieœ nad nami œwiat³o twego oblicza. </v>
+<v n="7"> Wla³eœ w moje serce wiêcej radoœci ni¿ w czasie, gdy obfitowa³y ich zbo¿e i wino. </v>
+<v n="8"> W spokoju siê po³o¿ê i zasnê, bo ty sam, PANIE, sprawiasz, ¿e mieszkam bezpiecznie. </v>
+</c>

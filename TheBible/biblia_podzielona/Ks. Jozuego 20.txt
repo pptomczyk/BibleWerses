@@ -1,0 +1,10 @@
+<v n="1"> Potem PAN powiedzia³ do Jozuego: </v>
+<v n="2"> Powiedz synom Izraela: Wyznaczcie sobie miasta schronienia, o których mówi³em wam przez Moj¿esza; </v>
+<v n="3"> Aby tam ucieka³ zabójca, który by zabi³ cz³owieka niechc¹cy i mimowolnie. Bêd¹ dla was schronieniem przed mœcicielem krwi. </v>
+<v n="4"> Gdy ktoœ ucieknie do jednego z tych miast i stanie przy wejœciu do bramy miejskiej, opowie do uszu starszych tego miasta swoj¹ sprawê, a oni przyjm¹ go do miasta do siebie i dadz¹ mu miejsce, i bêdzie z nimi mieszka³. </v>
+<v n="5"> A gdy bêdzie go œciga³ mœciciel krwi, to nie wydadz¹ zabójcy w jego rêce, gdy¿ nieumyœlnie zabi³ swego bliŸniego i nie czu³ do niego przedtem nienawiœci. </v>
+<v n="6"> I bêdzie mieszka³ w tym mieœcie, dopóki nie stanie przed zgromadzeniem na s¹d i a¿ do œmierci najwy¿szego kap³ana, który bêdzie w tym czasie. Wtedy zabójca wróci i przyjdzie do swego miasta i do swego domu, do miasta, z którego uciek³. </v>
+<v n="7"> I wyznaczyli Kedesz w Galilei na górze Neftalego, Sychem na górze Efraim oraz Kiriat-Arba, czyli Hebron, na górze Judy. </v>
+<v n="8"> Z drugiej zaœ strony Jordanu, na wschód od Jerycha, wyznaczyli Beser na pustyni, na równinie, z pokolenia Rubena, Ramot w Gileadzie z pokolenia Gada oraz Golan w Baszanie z pokolenia Manassesa. </v>
+<v n="9"> Oto miasta ucieczki dla wszystkich synów Izraela i cudzoziemców, którzy mieszkaj¹ poœród nich, aby móg³ tam uciec ka¿dy, kto zabi³ kogoœ przez nieuwagê i nie poniós³ œmierci z rêki mœciciela krwi, zanim stanie przed zgromadzeniem. </v>
+</c>

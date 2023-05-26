@@ -1,0 +1,26 @@
+<v n="1"> Ten, kto ma zgniecione j¹dra lub odciêty cz³onek, nie wejdzie do zgromadzenia PANA. </v>
+<v n="2"> ¯aden bêkart nie wejdzie do zgromadzenia PANA; nawet jego dziesi¹te pokolenie nie wejdzie do zgromadzenia PANA. </v>
+<v n="3"> Nie wejdzie te¿ Ammonita ani Moabita do zgromadzenia PANA; nawet ich dziesi¹te pokolenie nie wejdzie do zgromadzenia PANA a¿ na wieki; </v>
+<v n="4"> Dlatego ¿e nie wyszli do was z chlebem i wod¹ w czasie, gdy wyszliœcie z Egiptu i byliœcie w drodze, i poniewa¿ najêli za op³atê przeciw tobie Balaama, syna Beora, z Petor w Mezopotamii, aby ciê przeklina³. </v>
+<v n="5"> PAN, twój Bóg, nie chcia³ jednak wys³uchaæ Balaama, lecz zamieni³ ci PAN, twój Bóg, przekleñstwo w b³ogos³awieñstwo, gdy¿ umi³owa³ ciê PAN, twój Bóg. </v>
+<v n="6"> Nie zabiegaj o ich pokój ani dobro po wszystkie swoje dni na wieki. </v>
+<v n="7"> Nie bêdziesz siê brzydzi³ Edomit¹, gdy¿ jest on twoim bratem. Nie bêdziesz siê brzydzi³ Egipcjaninem, gdy¿ by³eœ przybyszem w jego ziemi. </v>
+<v n="8"> Dzieci, które urodz¹ siê im w trzecim pokoleniu, wejd¹ do zgromadzenia PANA. </v>
+<v n="9"> Gdy wyruszysz z wojskiem przeciwko swoim wrogom, wystrzegaj siê wszelkiej niegodziwoœci. </v>
+<v n="10"> Jeœli bêdzie poœród was cz³owiek nieczysty z powodu nocnego zdarzenia, to wyjdzie za obóz i nie wróci do niego. </v>
+<v n="11"> A pod wieczór umyje siê wod¹, a gdy zajdzie s³oñce, wejdzie do obozu. </v>
+<v n="12"> Bêdziesz te¿ mia³ miejsce za obozem, gdzie bêdziesz wychodzi³; </v>
+<v n="13"> I wœród swoich przyborów bêdziesz mia³ ³opatkê; a gdy wyjdziesz na zewn¹trz za potrzeb¹, wykopiesz ni¹ do³ek, potem odwrócisz siê i przykryjesz swoje nieczystoœci. </v>
+<v n="14"> PAN, twój Bóg, przechadza siê bowiem poœród twego obozu, aby ciê wybawiæ i wydaæ ci twoich wrogów; niech wiêc twój obóz bêdzie œwiêty, aby nie widzia³ u ciebie ¿adnej nieprzyzwoitoœci i nie odwróci³ siê od ciebie. </v>
+<v n="15"> Nie wydasz panu s³ugi, który uciek³ do ciebie od swego pana. </v>
+<v n="16"> Bêdzie z tob¹ mieszka³ poœród ciebie w miejscu, które sobie wybierze w jednym z twoich miast, gdzie mu siê podoba. Nie bêdziesz go gnêbi³. </v>
+<v n="17"> Nie bêdzie ¿adnej nierz¹dnicy wœród córek Izraela ani nie bêdzie sodomity wœród synów Izraela. </v>
+<v n="18"> Nie przyniesiesz do domu PANA, swego Boga, zap³aty nierz¹dnicy ani zarobku psa jako ofiary œlubowanej, gdy¿ obie rzeczy budz¹ odrazê u PANA, twego Boga. </v>
+<v n="19"> Nie bêdziesz bra³ odsetek od brata za po¿yczone pieni¹dze, ¿ywnoœæ ani cokolwiek, co siê po¿ycza na procent. </v>
+<v n="20"> Obcemu mo¿esz po¿yczaæ na procent, lecz swemu bratu nie po¿yczysz na procent, aby PAN, twój Bóg, b³ogos³awi³ ciê w ka¿dym dziele twoich r¹k w ziemi, do której wchodzisz, by j¹ posi¹œæ. </v>
+<v n="21"> Jeœli z³o¿ysz PANU, swemu Bogu, jakiœ œlub, nie zwlekaj z jego spe³nieniem, gdy¿ PAN, twój Bóg, z pewnoœci¹ bêdzie siê tego domaga³ od ciebie, a na tobie bêdzie ci¹¿y³ grzech. </v>
+<v n="22"> Lecz jeœli nie bêdziesz œlubowa³, grzech nie bêdzie na tobie ci¹¿y³. </v>
+<v n="23"> To, co wyjdzie z twoich ust, wype³nisz i uczynisz, gdy¿ dobrowolnie œlubowa³eœ PANU, swemu Bogu, co powiedzia³eœ swoimi ustami. </v>
+<v n="24"> Gdy wejdziesz do winnicy swego bliŸniego, mo¿esz jeœæ do syta tyle winogron, ile chcesz, lecz do swego naczynia nie wk³adaj. </v>
+<v n="25"> Gdy wejdziesz w zbo¿e swego bliŸniego, mo¿esz zrywaæ k³osy swoj¹ rêk¹, lecz sierpa nie zapuszczaj w zbo¿e swego bliŸniego. </v>
+</c>

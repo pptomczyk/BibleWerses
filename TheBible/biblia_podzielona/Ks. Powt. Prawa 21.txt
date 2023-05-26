@@ -1,0 +1,24 @@
+<v n="1"> Jeœli w ziemi, któr¹ PAN, twój Bóg, daje ci w posiadanie, zostanie znaleziony zabity cz³owiek le¿¹cy na polu, a nie wiadomo, kto go zabi³; </v>
+<v n="2"> Wtedy twoi starsi i sêdziowie wyjd¹ i zmierz¹ odleg³oœæ do miast le¿¹cych doko³a zabitego. </v>
+<v n="3"> A starsi tego miasta, które le¿y najbli¿ej zabitego, wezm¹ ja³ówkê, której jeszcze nie u¿yto do pracy i która jeszcze nie ci¹gnê³a w jarzmie; </v>
+<v n="4"> I zaprowadz¹ starsi tego miasta ja³ówkê do kamienistej doliny, gdzie nigdy nie uprawiano ani nie zasiewano, i tam utn¹ kark ja³ówki w tej dolinie. </v>
+<v n="5"> Potem przyjd¹ kap³ani, synowie Lewiego, gdy¿ ich wybra³ PAN, twój Bóg, aby mu s³u¿yli i aby b³ogos³awili w imiê PANA, a wed³ug ich uznania ma byæ rozstrzygniêty ka¿dy spór i ka¿de zranienie; </v>
+<v n="6"> I wszyscy starsi tego miasta, które le¿y najbli¿ej zabitego, umyj¹ swoje rêce nad ja³ówk¹, któr¹ œciêto w dolinie; </v>
+<v n="7"> I oœwiadcz¹: Nasze rêce nie wyla³y tej krwi i nasze oczy tego nie widzia³y. </v>
+<v n="8"> PANIE, przyjmij przeb³aganie za twój lud Izraela, który odkupi³eœ, a nie poczytaj twemu ludowi Izraela niewinnej krwi. I bêd¹ oczyszczeni od tej krwi. </v>
+<v n="9"> W ten sposób usuniesz niewinn¹ krew spoœród siebie, gdy uczynisz to, co jest prawe w oczach PANA. </v>
+<v n="10"> Gdy te¿ wyruszysz na wojnê przeciwko swoim wrogom i PAN, twój Bóg, wyda ich w twoje rêce, i weŸmiesz z nich jeñców; </v>
+<v n="11"> I zobaczysz wœród jeñców piêkn¹ kobietê, któr¹ sobie upodobasz, i chcia³byœ poj¹æ j¹ za ¿onê; </v>
+<v n="12"> Wtedy przyprowadzisz j¹ do swego domu, a ona ogoli swoj¹ g³owê i obetnie sobie paznokcie; </v>
+<v n="13"> I z³o¿y z siebie szatê, w której zosta³a pojmana, zostanie w twoim domu i bêdzie op³akiwaæ swego ojca i matkê przez ca³y miesi¹c. Potem bêdziesz z ni¹ obcowa³ i bêdziesz jej mê¿em, a ona bêdzie twoj¹ ¿on¹. </v>
+<v n="14"> A jeœli nie bêdzie ci siê podobaæ, wtedy pozwolisz jej odejœæ, dok¹d zechce; ¿adn¹ miar¹ nie sprzedasz jej za pieni¹dze i nie bêdziesz ni¹ kupczyæ, gdy¿ j¹ poni¿y³eœ. </v>
+<v n="15"> Gdyby mê¿czyzna mia³ dwie ¿ony, jedn¹ kochan¹, a drug¹ znienawidzon¹, i one urodz¹ mu synów – kochana i znienawidzona – a pierworodny bêdzie synem znienawidzonej; </v>
+<v n="16"> To gdy bêdzie przydziela³ dobra swoim synom w dziedzictwo, nie bêdzie móg³ ustanowiæ pierworodnym syna kochanej przed pierworodnym synem znienawidzonej; </v>
+<v n="17"> Ale za pierworodnego uzna syna znienawidzonej, daj¹c mu podwójn¹ czêœæ wszystkiego, co ma, gdy¿ on jest pocz¹tkiem jego si³y, jemu przys³uguje prawo pierworództwa. </v>
+<v n="18"> Jeœli ktoœ ma syna upartego i krn¹brnego, który nie s³ucha ani g³osu swojego ojca, ani g³osu swojej matki, a choæ go karc¹, nie s³ucha ich; </v>
+<v n="19"> Wtedy jego ojciec i matka wezm¹ go i przyprowadz¹ do starszych swego miasta i do bramy jego miejscowoœci; </v>
+<v n="20"> I powiedz¹ do starszych miasta: Ten nasz syn jest uparty i krn¹brny, nie s³ucha naszego g³osu, jest ¿ar³okiem i pijakiem; </v>
+<v n="21"> Wtedy wszyscy mê¿czyŸni tego miasta ukamienuj¹ go na œmieræ; w ten sposób usuniesz z³o spoœród siebie, a ca³y Izrael us³yszy o tym i bêdzie siê baæ. </v>
+<v n="22"> A jeœli ktoœ pope³ni grzech zas³uguj¹cy na œmieræ i poniesie œmieræ, a powiesisz go na drzewie; </v>
+<v n="23"> Jego trup nie pozostanie na drzewie przez noc, lecz musisz go pochowaæ tego samego dnia, bo ten, kto wisi, jest przeklêty przez Boga. Nie bêdziesz plugawi³ twojej ziemi, któr¹ PAN, twój Bóg, daje ci w dziedzictwo. </v>
+</c>

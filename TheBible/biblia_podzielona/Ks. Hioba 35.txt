@@ -1,0 +1,17 @@
+<v n="1"> Elihu mówi³ dalej: </v>
+<v n="2"> Czy uwa¿asz to za s³uszne, ¿e powiedzia³eœ: Mam wiêcej sprawiedliwoœci ni¿ Bóg? </v>
+<v n="3"> Powiedzia³eœ bowiem: Có¿ mi pomo¿e? Jaki bêdê mia³ po¿ytek z tego, ¿e zostanê oczyszczony z grzechu? </v>
+<v n="4"> Odpowiem dowodnie tobie i twoim towarzyszom wraz z tob¹. </v>
+<v n="5"> Spójrz w niebo i zobacz, przypatrz siê ob³okom, które s¹ wy¿ej od ciebie. </v>
+<v n="6"> Jeœli zgrzeszysz, co zrobisz przeciwko niemu? A jeœli pomno¿¹ siê twoje nieprawoœci, co mu uczynisz? </v>
+<v n="7"> Jeœli jesteœ sprawiedliwy, co mu dajesz? Albo co otrzymuje z twojej rêki? </v>
+<v n="8"> Twoja niegodziwoœæ zaszkodzi cz³owiekowi takiemu jak ty, a twoja sprawiedliwoœæ pomo¿e synowi cz³owieka. </v>
+<v n="9"> Ludzie krzycz¹ z powodu mnóstwa ucisków, wo³aj¹ z powodu ramienia mocarzy. </v>
+<v n="10"> Ale nikt nie mówi: Gdzie jest Bóg, mój Stwórca, który w nocy daje pieœni; </v>
+<v n="11"> Ten, który uczy nas wiêcej ni¿ zwierzêta ziemskie i czyni nas m¹drzejszymi od ptactwa niebieskiego? </v>
+<v n="12"> Tak wiêc wo³aj¹, ale nikt nie wys³uchuje z powodu pychy z³ych ludzi. </v>
+<v n="13"> Doprawdy, Bóg nie wys³ucha s³ów ob³udy, Wszechmocny na ni¹ nie zwa¿a. </v>
+<v n="14"> Chocia¿ mówisz, ¿e go nie widzisz, s¹d jest przed nim, wiêc mu zaufaj. </v>
+<v n="15"> Teraz jednak jego gniew spad³ na ciebie w niewielkim stopniu, jakby nie zna³ wielkoœci twoich grzechów. </v>
+<v n="16"> Dlatego Hiob na pró¿no otwiera swe usta; mno¿y s³owa bez poznania. </v>
+</c>

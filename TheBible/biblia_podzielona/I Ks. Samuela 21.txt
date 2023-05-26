@@ -1,0 +1,16 @@
+<v n="1"> Potem Dawid przyszed³ do Nob, do kap³ana Achimeleka. Achimelek wyszed³ przestraszony naprzeciw Dawida i zapyta³ go: Dlaczego jesteœ sam i nie ma z tob¹ nikogo? </v>
+<v n="2"> Dawid odpowiedzia³ kap³anowi Achimelekowi: Król zleci³ mi pewn¹ sprawê, nakazuj¹c: Niech nikt nie wie o tej sprawie, z któr¹ ciê wysy³am i któr¹ ci zleci³em. Z tego powodu umówi³em siê ze swoimi s³ugami w pewnym miejscu. </v>
+<v n="3"> Teraz wiêc, co masz pod rêk¹? Daj mi do rêki piêæ chlebów lub cokolwiek siê znajdzie. </v>
+<v n="4"> Kap³an odpowiedzia³ Dawidowi: Nie mam pod rêk¹ zwyk³ego chleba, tylko chleb poœwiêcony. Dam ci go, ale pod warunkiem, ¿e s³udzy wstrzymali siê od kobiet. </v>
+<v n="5"> Dawid odpowiedzia³ kap³anowi: Na pewno kobiety by³y oddalone od nas przez trzy dni, odk¹d wyruszy³em. Naczynia m³odzieñców s¹ wiêc œwiête. A chleb jest w pewien sposób zwyk³y, chocia¿ zosta³ dziœ poœwiêcony w naczyniu. </v>
+<v n="6"> Kap³an da³ mu wiêc poœwiêcony chleb, gdy¿ nie by³o tam innego chleba oprócz chleba pok³adnego, który zabrano sprzed oblicza PANA, aby w dniu jego usuniêcia po³o¿yæ œwie¿y chleb. </v>
+<v n="7"> W tym dniu by³ tam pewien cz³owiek spoœród s³ug Saula, zatrzymany przed PANEM. Mia³ na imiê Doeg, by³ to Edomita, prze³o¿ony nad pasterzami Saula. </v>
+<v n="8"> I Dawid zapyta³ Achimeleka: Czy nie masz tu pod rêk¹ w³óczni albo miecza? Bo nie wzi¹³em ze sob¹ ani swego miecza, ani ¿adnej swojej broni, gdy¿ sprawa króla by³a pilna. </v>
+<v n="9"> Kap³an odpowiedzia³: Miecz Goliata, Filistyna, którego zabi³eœ w dolinie Ela, jest zawiniêty w szatê za efodem. Jeœli chcesz go sobie wzi¹æ, weŸ. Nie ma tu bowiem innego oprócz tego. Dawid odpowiedzia³: Nie ma od niego lepszego. Daj mi go. </v>
+<v n="10"> Dawid wsta³ wiêc i uciek³ tego dnia przed Saulem, i przyby³ do Akisza, króla Gat. </v>
+<v n="11"> A s³udzy Akisza mówili do niego: Czy to nie jest Dawid, król ziemi? Czy nie o nim œpiewano wœród pl¹sów: Saul pobi³ swoje tysi¹ce, a Dawid swoich dziesi¹tki tysiêcy? </v>
+<v n="12"> I Dawid wzi¹³ sobie te s³owa do serca, i bardzo siê ba³ Akisza, króla Gat. </v>
+<v n="13"> Zmieni³ wiêc przed nimi swoje zachowanie i udawa³ szalonego w ich rêkach, bazgra³ na wrotach bramy i pozwala³, aby œlina sp³ywa³a mu po brodzie. </v>
+<v n="14"> Wtedy Akisz powiedzia³ do swoich s³ug: Oto widzicie cz³owieka szalonego. Dlaczego przyprowadziliœcie go do mnie? </v>
+<v n="15"> Czy brakuje mi szaleñców, ¿e przyprowadziliœcie tego, aby szala³ przede mn¹? Czy on ma wejœæ do mego domu? </v>
+</c>

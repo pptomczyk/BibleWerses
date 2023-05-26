@@ -1,0 +1,25 @@
+<v n="1"> Samolub szuka tego, co mu siê podoba, i wtr¹ca siê w ka¿d¹ sprawê. </v>
+<v n="2"> G³upi nie ma upodobania w rozumie, lecz w tym, co serce mu objawia. </v>
+<v n="3"> Gdy przychodzi niegodziwy, przychodzi te¿ pogarda, a z hañb¹ ur¹ganie. </v>
+<v n="4"> S³owa ust cz³owieka s¹ jak g³êbokie wody, a Ÿród³o m¹droœci jak p³yn¹cy potok. </v>
+<v n="5"> Niedobrze przez wzgl¹d na osobê niegodziw¹ krzywdziæ sprawiedliwego w s¹dzie. </v>
+<v n="6"> Wargi g³upiego wchodz¹ w spór, a jego usta wo³aj¹ o razy. </v>
+<v n="7"> Usta g³upiego s¹ jego zgub¹, a jego wargi sid³em jego duszy. </v>
+<v n="8"> S³owa plotkarza s¹ jak rany i przenikaj¹ do g³êbi wnêtrznoœci. </v>
+<v n="9"> Kto jest niedba³y w pracy, jest bratem marnotrawcy. </v>
+<v n="10"> Imiê PANA jest potê¿n¹ wie¿¹, sprawiedliwy ucieka do niej i jest bezpieczny. </v>
+<v n="11"> Zamo¿noœæ bogacza jest jego warownym miastem i jak wysoki mur w jego wyobra¿eniu. </v>
+<v n="12"> Przed upadkiem serce cz³owieka jest wynios³e, a chwa³ê poprzedza pokora. </v>
+<v n="13"> Kto odpowiada, zanim wys³ucha, ujawnia g³upotê i œci¹ga na siebie hañbê. </v>
+<v n="14"> Duch cz³owieka zniesie jego chorobê, ale któ¿ zniesie strapionego ducha? </v>
+<v n="15"> Serce rozumnego zdobywa wiedzê, a ucho m¹drych szuka wiedzy. </v>
+<v n="16"> Dar cz³owieka toruje mu drogê i prowadzi go przed wielkich. </v>
+<v n="17"> Ten, który jest pierwszy w swojej sprawie, zdaje siê sprawiedliwy, ale przychodzi jego bliŸni i sprawdza go. </v>
+<v n="18"> Los k³adzie kres sporom i rozstrzyga miêdzy mo¿nymi. </v>
+<v n="19"> Brat obra¿ony trudniejszy do zdobycia ni¿ warowne miasto, a spory s¹ jak rygle w zamku. </v>
+<v n="20"> Owocem swoich ust nasyci cz³owiek swoje wnêtrze, nasyci siê plonem swych warg. </v>
+<v n="21"> Œmieræ i ¿ycie s¹ w mocy jêzyka, a kto go mi³uje, spo¿yje jego owoc. </v>
+<v n="22"> Kto znalaz³ ¿onê, znalaz³ coœ dobrego i dost¹pi³ ³aski od PANA. </v>
+<v n="23"> Ubogi prosi pokornie, ale bogaty odpowiada surowo. </v>
+<v n="24"> Cz³owiek, który ma przyjació³, musi obchodziæ siê z nimi po przyjacielsku, a jest przyjaciel, który przylgnie bardziej ni¿ brat. </v>
+</c>

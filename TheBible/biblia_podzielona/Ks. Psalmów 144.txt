@@ -1,0 +1,16 @@
+<v n="1"> Pieœñ Dawida. B³ogos³awiony PAN, moja ska³a, który zaprawia moje rêce do walki, a moje palce do wojny. </v>
+<v n="2"> Moje mi³osierdzie i moja twierdza, moja warownia, mój wybawiciel i moja tarcza; ten, któremu ufam, on mi poddaje mój lud. </v>
+<v n="3"> PANIE, czym jest cz³owiek, ¿e zwracasz na niego uwagê? Albo syn cz³owieczy, ¿e go powa¿asz? </v>
+<v n="4"> Cz³owiek jest podobny do marnoœci; jego dni jak cieñ, który przemija. </v>
+<v n="5"> PANIE, nachyl twoich niebios i zst¹p; dotknij gór, a bêd¹ dymiæ. </v>
+<v n="6"> Zab³yœnij b³yskawic¹ i rozprosz ich; wypuœæ swoje strza³y i poraŸ ich. </v>
+<v n="7"> Wyci¹gnij sw¹ rêkê z wysokoœci; wybaw mnie i ocal z wielkich wód, z r¹k cudzoziemców; </v>
+<v n="8"> Których usta mówi¹ k³amstwo, a ich prawica jest prawic¹ fa³szyw¹. </v>
+<v n="9"> Bo¿e, zaœpiewam tobie now¹ pieœñ; bêdê ci œpiewa³ przy dŸwiêkach lutni i harfy o dziesiêciu strunach. </v>
+<v n="10"> Ty dajesz królom zwyciêstwo, a Dawida, swego s³ugê, wybawiasz od srogiego miecza. </v>
+<v n="11"> Wybaw mnie i ocal z r¹k cudzoziemców, których usta mówi¹ k³amstwo, a ich prawica jest prawic¹ fa³szyw¹; </v>
+<v n="12"> Aby nasi synowie byli jak szczepy wyros³e w swojej m³odoœci, a nasze córki jak kamienie wêgielne, wyrzeŸbione na wzór pa³acu; </v>
+<v n="13"> Aby nasze spichlerze by³y pe³ne, obficie zaopatrzone we wszystko, nasze stada rodzi³y tysi¹ce i dziesiêæ tysiêcy w naszych zagrodach; </v>
+<v n="14"> Aby nasze wo³y by³y t³uste, ¿eby nie by³o w³amañ ani ucieczek, ani narzekania na naszych ulicach. </v>
+<v n="15"> B³ogos³awiony lud, któremu siê tak dzieje. B³ogos³awiony lud, którego Bogiem jest PAN. </v>
+</c>

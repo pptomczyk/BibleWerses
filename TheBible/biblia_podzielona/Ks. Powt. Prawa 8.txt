@@ -1,0 +1,21 @@
+<v n="1"> Wszystkich przykazañ, które ci dziœ nakazujê, bêdziecie przestrzegaæ i wype³niaæ je, abyœcie ¿yli, rozmna¿ali siê, weszli i posiedli ziemiê, któr¹ PAN przysi¹g³ waszym ojcom. </v>
+<v n="2"> Pamiêtaj ca³¹ drogê, któr¹ prowadzi³ ciê PAN, twój Bóg, przez te czterdzieœci lat po pustyni, by ciê ukorzyæ i doœwiadczaæ, aby poznaæ, co jest w twoim sercu, czy bêdziesz przestrzega³ jego przykazañ, czy nie. </v>
+<v n="3"> Upokorzy³ ciê, dawa³ ci odczuæ g³ód i karmi³ ciê mann¹, której nie zna³eœ ani ty, ani twoi ojcowie, aby ciê nauczyæ, ¿e nie samym chlebem cz³owiek ¿yje, ale ¿e cz³owiek ¿yje ka¿dym s³owem, które wychodzi z ust PANA. </v>
+<v n="4"> Twoja odzie¿ nie zniszczy³a siê na tobie i twoja noga nie opuch³a przez te czterdzieœci lat. </v>
+<v n="5"> Rozwa¿ wiêc w swym sercu, ¿e jak cz³owiek karze swego syna, tak PAN, twój Bóg, karze ciebie. </v>
+<v n="6"> Dlatego przestrzegaj przykazañ PANA, swego Boga, abyœ chodzi³ jego drogami i ba³ siê go. </v>
+<v n="7"> PAN, twój Bóg, prowadzi ciê bowiem do ziemi dobrej, do ziemi potoków wód, Ÿróde³ i g³êbin, wytryskaj¹cych w dolinach i górach; </v>
+<v n="8"> Do ziemi pszenicy i jêczmienia, winoroœli, figowców i drzew granatu; do ziemi oliwy i miodu; </v>
+<v n="9"> Do ziemi, w której bêdziesz jeœæ chleb, nie odczuwaj¹c niedostatku; w której niczego ci nie zabraknie; do ziemi, której kamienie s¹ ¿elazem, a z jej gór bêdziesz wydobywaæ miedŸ. </v>
+<v n="10"> Gdy bêdziesz jad³ do syta, bêdziesz b³ogos³awi³ PANA, swego Boga, za dobr¹ ziemiê, któr¹ ci da³. </v>
+<v n="11"> Strze¿ siê, byœ nie zapomnia³ PANA, swego Boga, i nie zaniedba³ jego przykazañ, jego praw i jego nakazów, które ci dziœ nakazujê; </v>
+<v n="12"> Aby – gdy najesz siê do syta, pobudujesz piêkne domy i zamieszkasz w nich; </v>
+<v n="13"> I kiedy twoje byd³o i owce rozmno¿¹ siê, przybêdzie ci srebra i z³ota oraz wszystko, co bêdziesz mia³, powiêkszy siê; </v>
+<v n="14"> Twoje serce nie unios³o siê i abyœ nie zapomnia³ PANA, swego Boga, który ciê wyprowadzi³ z ziemi Egiptu, z domu niewoli; </v>
+<v n="15"> Który ciê przeprowadzi³ przez tê wielk¹ i straszn¹ pustyniê, gdzie by³y wê¿e jadowite i skorpiony, przez such¹ ziemiê, bez wody, i wydoby³ ci wodê z krzemiennej ska³y; </v>
+<v n="16"> Który ciê karmi³ na pustyni mann¹, której nie znali twoi ojcowie, aby ciê ukorzyæ i doœwiadczaæ, by w przysz³oœci wyœwiadczyæ ci dobro; </v>
+<v n="17"> Abyœ nie mówi³ w swym sercu: Moja moc i si³a mojej rêki zdoby³y mi to bogactwo; </v>
+<v n="18"> Ale pamiêtaj PANA, swego Boga, gdy¿ to on daje ci si³ê do zdobywania bogactwa, aby potwierdziæ swoje przymierze, które poprzysi¹g³ twoim ojcom, jak siê to dziœ okazuje. </v>
+<v n="19"> Ale jeœli ca³kiem zapomnisz PANA, swego Boga, i pójdziesz za innymi bogami, bêdziesz im s³u¿y³ i oddawa³ pok³on, to oœwiadczam wam dziœ, ¿e na pewno zginiecie. </v>
+<v n="20"> Jak narody, które PAN niszczy przed wami, tak zginiecie, poniewa¿ nie s³uchaliœcie g³osu PANA, waszego Boga. </v>
+</c>

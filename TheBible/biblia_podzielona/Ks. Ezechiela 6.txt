@@ -1,0 +1,15 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, zwróæ swoj¹ twarz ku górom Izraela i prorokuj przeciwko nim; </v>
+<v n="3"> I mów: Góry Izraela, s³uchajcie s³owa Pana BOGA. Tak mówi Pan BÓG do gór i pagórków, do strumieni i dolin: Oto ja, w³aœnie ja sprowadzê na was miecz i zniszczê wasze wy¿yny. </v>
+<v n="4"> Wasze o³tarze bêd¹ spustoszone i wasze pos¹gi bêd¹ po³amane, a porozrzucam waszych pobitych przed waszymi bo¿kami. </v>
+<v n="5"> Trupy synów Izraela po³o¿ê przed ich bo¿kami i rozrzucê wasze koœci wokó³ waszych o³tarzy. </v>
+<v n="6"> Wszêdzie, gdzie mieszkacie, miasta zostan¹ spustoszone i wy¿yny spustoszej¹, tak ¿e wasze o³tarze bêd¹ zburzone i zniszczone, wasze bo¿ki bêd¹ rozbite i przestan¹ istnieæ, wasze pos¹gi bêd¹ wyciête, a wasze dzie³a wyniszczone. </v>
+<v n="7"> I pobici padn¹ poœród was, a poznacie, ¿e ja jestem PANEM. </v>
+<v n="8"> Lecz pozostawiê niektórych spoœród was, którzy ujd¹ spod miecza pogan, gdy bêdziecie rozproszeni po krajach. </v>
+<v n="9"> Ci z was, którzy ocalej¹, bêd¹ o mnie pamiêtaæ poœród narodów, do których zostan¹ uprowadzeni, bo ubolewam nad ich cudzo³o¿nym sercem, które odst¹pi³o ode mnie, i nad ich oczami, które uprawia³y nierz¹d, id¹c za swymi bo¿kami. I poczuj¹ wstrêt do samych siebie z powodu z³a, które pope³nili we wszystkich swoich obrzydliwoœciach. </v>
+<v n="10"> I poznaj¹, ¿e ja jestem PANEM i ¿e nie na pró¿no mówi³em, ¿e sprowadzê na nich to nieszczêœcie. </v>
+<v n="11"> Tak mówi Pan BÓG: Klaœnij sw¹ d³oni¹, tupnij sw¹ nog¹ i mów: Biada z powodu wszystkich z³ych obrzydliwoœci domu Izraela! Padn¹ bowiem od miecza, od g³odu i od zarazy. </v>
+<v n="12"> Ten, co bêdzie daleko, umrze od zarazy, ten, co blisko, polegnie od miecza, a ten, co pozostanie i bêdzie oblê¿ony, umrze od g³odu. Tak dope³niê na nich swej zapalczywoœci. </v>
+<v n="13"> Wtedy poznacie, ¿e ja jestem PANEM, gdy ich pobici bêd¹ le¿eli wœród ich bo¿ków i doko³a ich o³tarzy, na ka¿dym wysokim pagórku, po wszystkich szczytach górskich, pod ka¿dym drzewem zielonym i pod ka¿dym roz³o¿ystym dêbem, gdzie sk³adali mi³¹ woñ wszystkim swoim bo¿kom. </v>
+<v n="14"> Wyci¹gnê swoj¹ rêkê przeciwko nim i uczyniê tê ziemiê spustoszon¹, bardziej spustoszon¹ od pustyni Diblat, wszêdzie, gdzie mieszkaj¹. I tak poznaj¹, ¿e ja jestem PANEM. </v>
+</c>

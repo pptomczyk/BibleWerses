@@ -1,0 +1,12 @@
+<v n="1"> Psalm Dawida, gdy przebywa³ na Pustyni Judzkiej. Bo¿e, ty jesteœ moim Bogiem, od rana ciê szukam; pragnie ciebie moja dusza, têskni do ciebie moje cia³o w ziemi suchej i spragnionej, w której nie ma wody; </v>
+<v n="2"> Abym widzia³ twoj¹ moc i chwa³ê tak, jak ciê ujrza³em w twojej œwi¹tyni; </v>
+<v n="3"> Skoro lepsze jest twoje mi³osierdzie ni¿ ¿ycie, moje wargi bêd¹ ciê chwali³y; </v>
+<v n="4"> Tak b³ogos³awiæ ciê bêdê póki ¿yjê, wzniosê swe rêce w imiê twoje. </v>
+<v n="5"> Jak t³uszczem i sad³em bêdzie nasycona moja dusza, moje usta bêd¹ ciê wielbiæ radosnymi wargami; </v>
+<v n="6"> Gdy ciê wspominam na moim pos³aniu i rozmyœlam o tobie podczas nocnych stra¿y. </v>
+<v n="7"> Poniewa¿ by³eœ mi pomoc¹, w cieniu twoich skrzyde³ bêdê siê weseli³. </v>
+<v n="8"> Moja dusza przylgnê³a do ciebie, twoja prawica mnie podtrzymuje. </v>
+<v n="9"> Ale ci, którzy d¹¿¹ do zguby mojej duszy, sami zejd¹ do g³êbi ziemi. </v>
+<v n="10"> Bêd¹ wydani pod ostrze miecza, stan¹ siê ³upem lisów. </v>
+<v n="11"> Lecz król bêdzie siê weseli³ w Bogu, bêdzie siê chlubi³ ka¿dy, kto na niego przysiêga, a usta k³amców zostan¹ zamkniête. </v>
+</c>

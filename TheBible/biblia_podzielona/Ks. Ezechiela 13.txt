@@ -1,0 +1,24 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, prorokuj przeciw prorokom Izraela, którzy prorokuj¹, i mów do tych, którzy prorokuj¹ z w³asnego serca: S³uchajcie s³owa PANA. </v>
+<v n="3"> Tak mówi Pan BÓG: Biada g³upim prorokom, którzy id¹ za swoim duchem, choæ nic nie widzieli! </v>
+<v n="4"> Izraelu, twoi prorocy s¹ jak lisy na pustyniach. </v>
+<v n="5"> Nie wst¹piliœcie na wy³omy ani nie uzupe³niliœcie muru wokó³ domu Izraela, aby móg³ ostaæ siê w bitwie w dzieñ PANA. </v>
+<v n="6"> Widz¹ u³udê i k³amliwe wró¿by i mówi¹: PAN mówi, choæ PAN ich nie pos³a³. I daj¹ nadziejê ludowi, ¿e ich s³owo siê spe³ni. </v>
+<v n="7"> Czy nie mieliœcie z³udnego widzenia i nie g³osiliœcie k³amliwej wró¿by? Mówicie bowiem: PAN mówi, chocia¿ ja nie mówi³em. </v>
+<v n="8"> Dlatego tak mówi Pan BÓG: Poniewa¿ mówicie rzeczy z³udne i widzicie k³amstwo, oto ja jestem przeciwko wam, mówi Pan BÓG. </v>
+<v n="9"> I moja rêka bêdzie przeciwko prorokom, którzy widz¹ rzeczy z³udne i wró¿¹ k³amstwo. Nie bêd¹ w zgromadzeniu mego ludu i w poczet domu Izraela nie bêd¹ wpisani, i do ziemi Izraela nie wejd¹. A poznacie, ¿e ja jestem Pan BÓG. </v>
+<v n="10"> Dlatego, w³aœnie dlatego, ¿e zwodzili mój lud, mówi¹c: Pokój, choæ nie by³o pokoju; jeden zbudowa³ glinian¹ œcianê, a inni tynkowali j¹ s³abym tynkiem. </v>
+<v n="11"> Mów do tych, którzy j¹ tynkuj¹ s³abym tynkiem: Zawali siê. Przyjdzie ulewny deszcz, a wy, wielkie kule gradu, spadniecie, i gwa³towny wiatr j¹ zburzy. </v>
+<v n="12"> A oto gdy œciana runie, czy nie powiedz¹ wam: Gdzie jest tynk, którym tynkowaliœcie? </v>
+<v n="13"> Dlatego tak mówi Pan BÓG: W mojej zapalczywoœci zburzê j¹ gwa³townym wiatrem; na skutek mojego gniewu przyjdzie ulewny deszcz i na skutek mojego oburzenia przyjdzie wielki grad, by j¹ zniszczyæ. </v>
+<v n="14"> I zburzê tê œcianê, któr¹ tynkowaliœcie s³abym tynkiem, zrównam j¹ z ziemi¹ tak, ¿e jej fundamenty zostan¹ ods³oniête, i runie, a wy zginiecie poœród niej. I poznacie, ¿e ja jestem PANEM. </v>
+<v n="15"> A gdy dope³niê mojego gniewu nad t¹ œcian¹ i nad tymi, którzy j¹ tynkowali s³abym tynkiem, powiem do was: Nie ma ju¿ tej œciany, nie ma tych, którzy j¹ tynkowali; </v>
+<v n="16"> To jest proroków Izraela, którzy prorokuj¹ o Jerozolimie i maj¹ o niej widzenia pokoju, choæ nie ma pokoju, mówi Pan BÓG. </v>
+<v n="17"> Ale ty, synu cz³owieczy, zwróæ sw¹ twarz przeciwko córkom swego ludu, które prorokuj¹ z w³asnego serca, i prorokuj przeciwko nim; </v>
+<v n="18"> I mów: Tak mówi Pan BÓG: Biada tym kobietom, które szyj¹ poduszki pod wszystkie ³okcie r¹k mego ludu i robi¹ nakrycia g³owy dla ludzi ka¿dego wzrostu, aby ³owiæ dusze! Czy bêdziecie ³owiæ dusze mego ludu, aby zachowaæ dusze, które przybêd¹ do was? </v>
+<v n="19"> Bo bezczeœcicie mnie wobec mego ludu dla garœci jêczmienia i dla kêsa chleba, zabijaj¹c dusze, które nie powinny umrzeæ, a oszczêdzaj¹c dusze, które nie powinny ¿yæ – gdy ok³amujecie mój lud, który s³ucha k³amstwa. </v>
+<v n="20"> Dlatego tak mówi Pan BÓG: Oto wyst¹piê przeciwko waszym poduszkom, którymi ³owicie dusze, aby je zwieœæ. Zerwê je z waszych ramion i wypuszczê dusze, które ³owicie, aby je zwieœæ. </v>
+<v n="21"> I rozerwê wasze nakrycia, i wybawiê swój lud z waszej rêki, aby ju¿ nie by³ ³upem w waszym rêku. I poznacie, ¿e ja jestem PANEM. </v>
+<v n="22"> Poniewa¿ zasmucacie k³amstwem serce sprawiedliwego, chocia¿ ja go nie zasmuci³em, i wzmacniacie rêce bezbo¿nego, aby siê nie odwróci³ od swojej z³ej drogi, o¿ywiaj¹c go; </v>
+<v n="23"> Dlatego nie bêdziecie ju¿ mieæ widzeñ z³udnych i nie bêdziecie prorokowaæ ¿adnej wró¿by. Wyrwê bowiem swój lud z waszej rêki i poznacie, ¿e ja jestem PANEM. </v>
+</c>

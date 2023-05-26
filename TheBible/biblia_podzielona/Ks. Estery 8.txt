@@ -1,0 +1,18 @@
+<v n="1"> Tego dnia król Aswerus da³ królowej Esterze dom Hamana, wroga ¯ydów, a Mardocheusz przyszed³ przed króla, gdy¿ Estera powiedzia³a mu, kim on jest dla niej. </v>
+<v n="2"> Wtedy król zdj¹³ swój pierœcieñ, który zabra³ Hamanowi, i da³ go Mardocheuszowi. Estera zaœ ustanowi³a Mardocheusza nad domem Hamana. </v>
+<v n="3"> Potem Estera jeszcze mówi³a do króla, upad³a mu do nóg i z p³aczem prosi³a go, aby odwróci³ z³oœæ Hamana, Agagity, i jego zamiar, który powzi¹³ przeciwko ¯ydom. </v>
+<v n="4"> Wtedy król wyci¹gn¹³ ku Esterze z³ote ber³o, a Estera wsta³a i stanê³a przed królem. </v>
+<v n="5"> I powiedzia³a: Jeœli królowi siê podoba, jeœli znalaz³am ³askê w jego oczach, jeœli król uzna to za s³uszne i jeœli ja jestem mi³a w jego oczach, niech zostanie napisane, aby wycofano listy obmyœlone przez Hamana, syna Hammedaty, Agagity, które napisa³, aby wytraciæ ¯ydów, którzy s¹ we wszystkich prowincjach królewskich. </v>
+<v n="6"> Jak¿e bowiem mog³abym patrzeæ na to nieszczêœcie, które spotka mój lud? Jak mog³abym patrzeæ na zgubê mojej rodziny? </v>
+<v n="7"> Wtedy król Aswerus powiedzia³ do królowej Estery i do ¯yda Mardocheusza: Oto da³em Esterze dom Hamana, a jego powieszono na szubienicy, poniewa¿ podniós³ rêkê na ¯ydów. </v>
+<v n="8"> Napiszcie wiêc do ¯ydów to, co uznacie za s³uszne, w imieniu króla i zapieczêtujcie pierœcieniem królewskim. To bowiem, co zosta³o napisane w imieniu króla i zapieczêtowane pierœcieniem królewskim, nie mo¿e byæ odwo³ane. </v>
+<v n="9"> Zwo³ano wiêc pisarzy króla w tym czasie, trzeciego miesi¹ca, to jest miesi¹ca Siwan, dwudziestego trzeciego dnia tego miesi¹ca, i napisano wszystko, tak jak nakaza³ Mardocheusz, do ¯ydów, do satrapów, do namiestników i do prze³o¿onych prowincji, które rozci¹gaj¹ siê od Indii a¿ do Etiopii, do stu dwudziestu siedmiu prowincji, do ka¿dej prowincji jej pismem i do ka¿dego ludu w jego jêzyku, i do ¯ydów ich pismem i w ich jêzyku. </v>
+<v n="10"> A gdy napisa³ w imieniu króla Aswerusa i zapieczêtowa³ pierœcieniem królewskim, rozes³a³ listy przez goñców je¿d¿¹cych na koniach szybkich i na mu³ach m³odych; </v>
+<v n="11"> ¯e król da³ wolnoœæ ¯ydom, którzy byli we wszystkich miastach, aby zgromadzili siê i stanêli w obronie swego ¿ycia, aby te¿ wytracili, zabili i wygubili wszystkich zbrojnych napadaj¹cych na nich wœród ludu i prowincji, wraz z ich dzieæmi i kobietami, a ich mienie zabrali jako ³up; </v>
+<v n="12"> I to w jednym dniu we wszystkich prowincjach króla Aswerusa, mianowicie trzynastego dnia dwunastego miesi¹ca, to jest miesi¹ca Adar. </v>
+<v n="13"> Odpis tego pisma, w którym wydano dekret dla ka¿dej prowincji, og³oszono wszystkim ludom, ¿e ¯ydzi bêd¹ gotowi na ten dzieñ do pomsty nad swymi wrogami. </v>
+<v n="14"> Wtedy wyruszyli goñcy, je¿d¿¹cy na szybkich koniach i na mu³ach, przynaglani rozkazem króla. Dekret og³oszono tak¿e w pa³acu Suza. </v>
+<v n="15"> A Mardocheusz wyszed³ od króla ubrany w niebieskie i bia³e szaty królewskie, z wielk¹ koron¹ z³ot¹ i w p³aszcz z bisioru i purpury. A miasto Suza weseli³o i radowa³o siê. </v>
+<v n="16"> Dla ¯ydów nasta³y œwiat³o i wesele, radoœæ i czeœæ. </v>
+<v n="17"> A w ka¿dej prowincji i w ka¿dym mieœcie, dok¹dkolwiek rozkaz króla i jego dekret dotar³y, ¯ydzi mieli wesele, radoœæ, ucztê i donios³y dzieñ. Wielu zaœ spoœród ludu tych ziem zosta³o ¯ydami. Pad³ bowiem na nich strach przed ¯ydami. </v>
+</c>

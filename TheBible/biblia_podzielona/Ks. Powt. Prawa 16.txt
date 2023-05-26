@@ -1,0 +1,23 @@
+<v n="1"> Przestrzegaj miesi¹ca Abib i obchodŸ Paschê dla PANA, swego Boga, poniewa¿ w miesi¹cu Abib PAN, twój Bóg, wyprowadzi³ ciê w nocy z Egiptu. </v>
+<v n="2"> Z³o¿ysz PANU, swemu Bogu, ofiarê paschaln¹ z owiec i wo³ów w miejscu, które PAN wybierze na mieszkanie dla swego imienia. </v>
+<v n="3"> Nie bêdziesz jad³ wraz z ni¹ chleba kwaszonego; przez siedem dni bêdziesz jad³ z ni¹ przaœniki, chleb utrapienia – gdy¿ w poœpiechu wyszed³eœ z ziemi Egiptu – abyœ pamiêta³ dzieñ swego wyjœcia z ziemi Egiptu po wszystkie dni swego ¿ycia. </v>
+<v n="4"> Nie zobaczy siê u ciebie kwasu we wszystkich twoich granicach przez siedem dni. Z miêsa, które z³o¿y³eœ pierwszego dnia wieczorem, nie zostawisz nic przez noc do rana. </v>
+<v n="5"> Nie bêdziesz móg³ sk³adaæ ofiary paschalnej w ¿adnej twojej miejscowoœci, któr¹ daje ci PAN, twój Bóg; </v>
+<v n="6"> Lecz w miejscu, które PAN, twój Bóg, wybierze na mieszkanie dla swego imienia, tam bêdziesz sk³ada³ ofiarê paschaln¹ wieczorem o zachodzie s³oñca, w porze swego wyjœcia z Egiptu. </v>
+<v n="7"> Upieczesz j¹ i spo¿yjesz w miejscu, które PAN, twój Bóg, wybierze. Potem rano zawrócisz i pójdziesz do swoich namiotów. </v>
+<v n="8"> Przez szeœæ dni bêdziesz jad³ przaœniki, a siódmego dnia bêdzie uroczyste œwiêto dla PANA, twego Boga. Nie bêdziesz wtedy wykonywa³ ¿adnej pracy. </v>
+<v n="9"> Odliczysz sobie siedem tygodni. Zaczniesz liczyæ te siedem tygodni od zapuszczenia sierpa w zbo¿e. </v>
+<v n="10"> Potem bêdziesz obchodzi³ Œwiêto Tygodni dla PANA, swego Boga, z dobrowoln¹ ofiar¹ twojej rêki, któr¹ dasz stosownie do tego, jak ciê b³ogos³awi³ PAN, twój Bóg. </v>
+<v n="11"> A w miejscu, które PAN, twój Bóg, wybierze na mieszkanie dla swego imienia, bêdziesz siê radowa³ przed PANEM, swoim Bogiem, ty, twój syn i twoja córka, twój s³uga i twoja s³u¿¹ca, Lewita, który jest w twoich bramach, przybysz, sierota i wdowa, którzy bêd¹ wœród was. </v>
+<v n="12"> I bêdziesz pamiêta³, ¿e by³eœ niewolnikiem w Egipcie. Dlatego pilnuj wype³nienia tych nakazów. </v>
+<v n="13"> Bêdziesz obchodzi³ Œwiêto Namiotów przez siedem dni, gdy zbierzesz plony ze swojego klepiska i t³oczni. </v>
+<v n="14"> I bêdziesz siê radowa³ podczas tego œwiêta, ty, twój syn i twoja córka, twój s³uga i twoja s³u¿¹ca, Lewita, który jest w twoich bramach, przybysz, sierota i wdowa, którzy bêd¹ w obrêbie twoich bram. </v>
+<v n="15"> Przez siedem dni bêdziesz obchodzi³ uroczyste œwiêto dla PANA, swego Boga, w miejscu, które PAN wybierze, gdy¿ PAN, twój Bóg, bêdzie ciê b³ogos³awi³ we wszystkich twoich zbiorach i w ka¿dej pracy twoich r¹k; i bêdziesz pe³ny radoœci. </v>
+<v n="16"> Trzy razy w roku wszyscy twoi mê¿czyŸni poka¿¹ siê przed PANEM, twoim Bogiem, w miejscu, które on wybierze: na Œwiêto Przaœników, na Œwiêto Tygodni i na Œwiêto Namiotów. A nikt nie poka¿e siê przed PANEM z pustymi rêkami. </v>
+<v n="17"> Ka¿dy przyjdzie z darem ze swojej rêki wed³ug b³ogos³awieñstwa PANA, twojego Boga, które on ci daje. </v>
+<v n="18"> Ustanowisz sobie sêdziów i urzêdników we wszystkich swoich miastach, które PAN, twój Bóg, daje ci dla wszystkich waszych pokoleñ, aby s¹dzili lud sprawiedliwym s¹dem. </v>
+<v n="19"> Nie bêdziesz nagina³ s¹du, nie bêdziesz mia³ wzglêdu na osobê i nie bêdziesz bra³ daru, gdy¿ dar zaœlepia oczy m¹drych i wypacza s³owa sprawiedliwych. </v>
+<v n="20"> Pod¹¿aj ca³kowicie za sprawiedliwoœci¹, abyœ ¿y³ i posiad³ ziemiê, któr¹ daje ci PAN, twój Bóg. </v>
+<v n="21"> Nie posadzisz sobie gaju z ¿adnego drzewa doko³a o³tarza PANA, swego Boga, jaki sobie zbudujesz. </v>
+<v n="22"> Nie postawisz sobie pos¹gu, gdy¿ PAN, twój Bóg, nienawidzi tego. </v>
+</c>

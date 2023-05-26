@@ -1,0 +1,18 @@
+<v n="1"> Modlitwa Moj¿esza, mê¿a Bo¿ego. Panie, ty by³eœ nasz¹ ucieczk¹ z pokolenia na pokolenie. </v>
+<v n="2"> Zanim zrodzi³y siê góry, zanim ukszta³towa³eœ ziemiê i œwiat, od wieków na wieki ty jesteœ Bogiem. </v>
+<v n="3"> Obracasz cz³owieka w proch i mówisz: Wracajcie, synowie ludzcy. </v>
+<v n="4"> Tysi¹c lat bowiem w twoich oczach jest jak dzieñ wczorajszy, który min¹³, i jak stra¿ nocna. </v>
+<v n="5"> Porywasz ich jakby powodzi¹, s¹ jak sen i jak trawa, która roœnie o poranku. </v>
+<v n="6"> Rano kwitnie i roœnie, a wieczorem zostaje skoszona i usycha. </v>
+<v n="7"> Giniemy bowiem od twego gniewu i jesteœmy przera¿eni twoj¹ zapalczywoœci¹. </v>
+<v n="8"> Po³o¿y³eœ przed sob¹ nasze nieprawoœci, nasze skryte grzechy w œwietle twego oblicza. </v>
+<v n="9"> Wszystkie nasze dni przemijaj¹ z powodu twego gniewu, nasze lata nikn¹ jak westchnienie. </v>
+<v n="10"> Liczb¹ naszych dni jest lat siedemdziesi¹t, a jeœli si³ starczy, lat osiemdziesi¹t, a to, co w nich najlepsze, to tylko k³opot i cierpienie, bo szybko mijaj¹, a my odlatujemy. </v>
+<v n="11"> Któ¿ zna srogoœæ twego gniewu? Albo kto, boj¹c siê ciebie, zna twoj¹ zapalczywoœæ? </v>
+<v n="12"> Naucz nas liczyæ nasze dni, abyœmy przywiedli serce do m¹droœci. </v>
+<v n="13"> Powróæ, PANIE. Jak d³ugo jeszcze? Zlituj siê nad swymi s³ugami. </v>
+<v n="14"> Nasyæ nas z rana twoim mi³osierdziem, abyœmy mogli siê cieszyæ i radowaæ przez wszystkie nasze dni. </v>
+<v n="15"> Spraw nam radoœæ wed³ug dni, w których nas trapi³eœ; wed³ug lat, w których zaznaliœmy z³a. </v>
+<v n="16"> Niech siê uka¿e twoim s³ugom twoje dzie³o, a twoja chwa³a ich synom. </v>
+<v n="17"> Niech dobroæ PANA, naszego Boga, bêdzie z nami; i utwierdŸ wœród nas dzie³o naszych r¹k; utwierdŸ dzie³o naszych r¹k! </v>
+</c>

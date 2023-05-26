@@ -1,0 +1,21 @@
+<v n="1"> Nie z³o¿ysz PANU, swemu Bogu, ofiary z cielca lub owcy, które maj¹ skazê lub jak¹kolwiek wadê, gdy¿ to budzi odrazê w PANU, twym Bogu. </v>
+<v n="2"> Jeœli znajdzie siê poœród was w jakimkolwiek z twoich miast, które daje ci PAN, twój Bóg, mê¿czyzna czy kobieta, którzy dopuszcz¹ siê z³a w oczach PANA, twego Boga, przekraczaj¹c jego przymierze; </v>
+<v n="3"> I id¹c, bêd¹ s³u¿yæ innym bogom i oddawaæ pok³on im lub s³oñcu, ksiê¿ycowi albo ca³emu zastêpowi niebios, czego nie nakaza³em; </v>
+<v n="4"> I zostanie ci o tym doniesione, a ty wys³uchasz tego, zbadasz to dok³adnie i oka¿e siê to prawd¹ i rzecz¹ pewn¹, ¿e pope³niono tak¹ obrzydliwoœæ w Izraelu; </v>
+<v n="5"> Wtedy wyprowadzisz do swoich bram tego mê¿czyznê lub tê kobietê, którzy dopuœcili siê tego z³a, i tego mê¿czyznê lub tê kobietê ukamienujesz, a¿ umr¹. </v>
+<v n="6"> Na podstawie zeznania dwóch lub trzech œwiadków ma byæ zabity skazany na œmieræ; nie wolno skazaæ go na œmieræ na podstawie zeznania jednego œwiadka. </v>
+<v n="7"> Rêka œwiadków bêdzie na nim, aby go zabiæ, a potem rêce ca³ego ludu. Tak usuniesz z³o spoœród siebie. </v>
+<v n="8"> Jeœli sprawa s¹dowa dotycz¹ca przelania krwi, roszczeñ, zranieñ oraz sporów w twoich bramach bêdzie dla ciebie za trudna, wtedy wstaniesz i pójdziesz do miejsca, które PAN, twój Bóg, wybierze. </v>
+<v n="9"> I przyjdziesz do kap³anów Lewitów, i do sêdziego, który w tym czasie bêdzie urzêdowa³, i poradzisz siê ich, a oni oznajmi¹ ci orzeczenie. </v>
+<v n="10"> I post¹pisz zgodnie z orzeczeniem, które ci przeka¿¹ na tym miejscu, które PAN wybra³, i pilnie wykonasz wszystko tak, jak ciê poucz¹. </v>
+<v n="11"> Post¹pisz zgodnie z pouczeniem prawa, którego ci udziel¹, i zgodnie z rozstrzygniêciem, które ci przeka¿¹. Nie odst¹pisz od orzeczenia, które ci oznajmi¹ ani na prawo, ani na lewo. </v>
+<v n="12"> A cz³owiek, który post¹pi zuchwale i nie pos³ucha kap³ana pe³ni¹cego tam s³u¿bê przed PANEM, twoim Bogiem, lub sêdziego, poniesie œmieræ. Tak usuniesz to z³o z Izraela. </v>
+<v n="13"> A ca³y lud us³yszy o tym i bêdzie siê ba³, i nie post¹pi ju¿ zuchwale. </v>
+<v n="14"> Gdy wejdziesz do ziemi, któr¹ daje ci PAN, twój Bóg, gdy posi¹dziesz j¹ i zamieszkasz w niej, i powiesz sobie: Ustanowiê nad sob¹ króla tak jak wszystkie okoliczne narody; </v>
+<v n="15"> Tego tylko ustanowisz królem nad sob¹, którego PAN, twój Bóg, wybierze. Spoœród swoich braci ustanowisz nad sob¹ króla; nie mo¿esz ustanowiæ nad sob¹ cudzoziemca, który nie jest twoim bratem. </v>
+<v n="16"> Tylko niech nie pomna¿a sobie koni ani nie prowadzi ludu do Egiptu, aby nabyæ wiele koni, poniewa¿ PAN wam powiedzia³: Nie wracajcie t¹ drog¹ nigdy wiêcej. </v>
+<v n="17"> Nie bêdzie te¿ pomna¿a³ sobie ¿on, aby jego serce siê nie odwróci³o; niech nie nabywa zbyt wiele srebra i z³ota. </v>
+<v n="18"> A gdy ju¿ zasi¹dzie na swym królewskim tronie, napisze sobie w ksiêdze odpis tego prawa od kap³anów Lewitów. </v>
+<v n="19"> I bêdzie go mia³ przy sobie, i bêdzie go czyta³ po wszystkie dni swego ¿ycia, aby siê nauczy³ baæ PANA, swego Boga, by przestrzega³ wszystkich s³ów tego prawa oraz tych ustaw i aby je wykonywa³; </v>
+<v n="20"> Aby jego serce nie wynosi³o siê ponad jego braci i ¿eby nie odst¹pi³ od tego przykazania ani na prawo, ani na lewo, aby ¿y³ d³ugo w swoim królestwie, on i jego synowie, poœród Izraela. </v>
+</c>

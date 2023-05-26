@@ -1,0 +1,24 @@
+<v n="1"> Psalm Asafa. Bóg nad bogami, PAN, przemówi³ i wezwa³ ziemiê od wschodu s³oñca a¿ do jego zachodu. </v>
+<v n="2"> Z Syjonu, doskona³ego piêkna, zajaœnia³ Bóg. </v>
+<v n="3"> Nasz Bóg przyjdzie i nie bêdzie milcza³; ogieñ bêdzie trawi³ przed nim, a wokó³ niego powstanie potê¿na burza. </v>
+<v n="4"> Wezwie z góry niebiosa i ziemiê, aby s¹dziæ swój lud: </v>
+<v n="5"> ZgromadŸcie mi moich œwiêtych, którzy zawarli ze mn¹ przymierze przez ofiarê. </v>
+<v n="6"> Wtedy niebiosa og³osz¹ jego sprawiedliwoœæ, bo sam Bóg jest sêdzi¹. Sela. </v>
+<v n="7"> S³uchaj, mój ludu, a bêdê mówi³; s³uchaj, Izraelu, a bêdê œwiadczy³ przeciw tobie: Ja jestem Bogiem, twoim Bogiem. </v>
+<v n="8"> Nie bêdê ciê gani³ za twoje ofiary ani za twoje ca³opalenia, które s¹ zawsze przede mn¹. </v>
+<v n="9"> Nie przyjmê cielca z twojego domu ani koz³ów z twoich zagród. </v>
+<v n="10"> Do mnie bowiem nale¿y wszelkie zwierzê leœne i tysi¹ce byd³a na górach. </v>
+<v n="11"> Znam wszelkie ptactwo górskie i moje s¹ zwierzêta polne. </v>
+<v n="12"> Gdybym by³ g³odny, nie mówi³bym ci o tym, bo mój jest œwiat i wszystko, co go nape³nia. </v>
+<v n="13"> Czy¿ bêdê jad³ miêso wo³ów albo pi³ krew koz³ów? </v>
+<v n="14"> Ofiaruj Bogu dziêkczynienie i spe³nij swoje œluby wobec Najwy¿szego; </v>
+<v n="15"> I wzywaj mnie w dniu utrapienia; wtedy ciê wybawiê, a ty mnie uwielbisz. </v>
+<v n="16"> Lecz do niegodziwego Bóg mówi: Po co og³aszasz moje prawa i masz na ustach moje przymierze; </v>
+<v n="17"> Skoro nienawidzisz karnoœci i rzucasz za siebie moje s³owa? </v>
+<v n="18"> Gdy widzisz z³odzieja, pochwalasz go, i zadajesz siê z cudzo³o¿nikami. </v>
+<v n="19"> Pozwalasz swym ustom Ÿle mówiæ, a twój jêzyk knuje podstêpy. </v>
+<v n="20"> Siedzisz i mówisz przeciwko twemu bratu, obmawiasz syna swej matki. </v>
+<v n="21"> To czyni³eœ, a ja milcza³em; s¹dzi³eœ, ¿e jestem do ciebie podobny, ale bêdê ciê napomina³ i postawiê ci to przed oczy. </v>
+<v n="22"> Zrozumcie to teraz wy, którzy zapominacie o Bogu, bym was nie rozszarpa³, a nie by³oby nikogo, kto by was ocali³. </v>
+<v n="23"> Kto mi ofiaruje chwa³ê, ten oddaje mi czeœæ; a temu, kto chodzi prost¹ drog¹, uka¿ê Bo¿e zbawienie. </v>
+</c>

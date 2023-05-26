@@ -1,0 +1,21 @@
+<v n="1"> Potem Jakub podniós³ oczy i zobaczy³, ¿e Ezaw nadchodzi, a z nim czterystu mê¿czyzn. Podzieli³ wiêc dzieci miêdzy Leê, Rachelê a dwie s³u¿¹ce. </v>
+<v n="2"> I postawi³ na przodzie s³u¿¹ce i ich dzieci, za nimi Leê i jej dzieci, a na koñcu Rachelê z Józefem. </v>
+<v n="3"> Sam zaœ wyszed³ przed nich i pok³oni³ siê siedem razy a¿ do ziemi, zanim doszed³ do swego brata. </v>
+<v n="4"> Ale Ezaw wybieg³ mu naprzeciw, obj¹³ go, rzuci³ mu siê na szyjê i ca³owa³ go. I p³akali. </v>
+<v n="5"> Potem podniós³ oczy, zobaczy³ ¿ony i dzieci i zapyta³: A kim s¹ ci przy tobie? I odpowiedzia³: To s¹ dzieci, które Bóg w swej ³askawoœci da³ twemu s³udze. </v>
+<v n="6"> Wtedy przybli¿y³y siê s³u¿¹ce ze swoimi dzieæmi i pok³oni³y siê. </v>
+<v n="7"> Przybli¿y³a siê te¿ Lea ze swoimi dzieæmi i pok³oni³y siê. Potem przybli¿yli siê Józef i Rachela i pok³onili siê. </v>
+<v n="8"> I Ezaw zapyta³: Co znaczy ca³y ten obóz, z którym siê spotka³em? Jakub odpowiedzia³: Abym znalaz³ ³askê w oczach mego pana. </v>
+<v n="9"> Wtedy Ezaw powiedzia³: Ja mam dosyæ, mój bracie, zatrzymaj to, co twoje. </v>
+<v n="10"> I Jakub powiedzia³: Nie, proszê, jeœli znalaz³em teraz ³askê w twoich oczach, przyjmij dar z mojej rêki, bo gdy zobaczy³em twoje oblicze, to jakbym widzia³ oblicze Boga, i ty ³askawie mnie przyj¹³eœ. </v>
+<v n="11"> Przyjmij, proszê, mój dar, który ci przynios³em, bo Bóg hojnie mi b³ogos³awi³, a mam doœæ wszystkiego. I tak nalega³ na niego, ¿e to przyj¹³. </v>
+<v n="12"> Ezaw powiedzia³: Ruszajmy w drogê i chodŸmy, a ja pójdê przed tob¹. </v>
+<v n="13"> I Jakub mu odpowiedzia³: Mój pan wie, ¿e mam ze sob¹ dzieci w¹t³e, a owce i krowy karmi¹ m³ode. Jeœli popêdzi siê je przez ca³y dzieñ, zginie ca³e stado. </v>
+<v n="14"> Niech mój pan, proszê, idzie przed swoim s³ug¹, a ja bêdê szed³ powoli, jak nad¹¿y stado, które jest przede mn¹, i jak nad¹¿¹ dzieci, a¿ przyjdê do mego pana do Seiru. </v>
+<v n="15"> Wtedy Ezaw powiedzia³: Zostawiê wiêc przy tobie czêœæ ludzi, którzy s¹ ze mn¹. A on odpowiedzia³: A na có¿ to? Obym znalaz³ ³askê w oczach mego pana. </v>
+<v n="16"> I tego dnia Ezaw wróci³ sw¹ drog¹ do Seiru. </v>
+<v n="17"> A Jakub wyruszy³ do Sukkot i zbudowa³ sobie dom, i zrobi³ sza³asy dla swoich stad. Dlatego nazwa³ to miejsce Sukkot. </v>
+<v n="18"> I Jakub przyszed³ szczêœliwie do miasta Sychem, które by³o w ziemi Kanaan, gdy wróci³ z Paddan-Aram, i rozbi³ obóz przed miastem. </v>
+<v n="19"> I za sto monet kupi³ od synów Hemora, ojca Sychema, czêœæ pola, na którym rozbi³ swój namiot. </v>
+<v n="20"> Tam te¿ postawi³ o³tarz i nazwa³ go: Mocny Bóg Izraela. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> Wtedy Achab opowiedzia³ Jezabel o wszystkim, co Eliasz uczyni³, oraz o tym, jak zabi³ mieczem wszystkich proroków. </v>
+<v n="2"> Jezabel wys³a³a wiêc pos³añca do Eliasza ze s³owami: Niech to mi uczyni¹ bogowie i tamto dorzuc¹, jeœli jutro o tym czasie twojego ¿ycia nie uczyniê takim jak ¿ycie jednego z nich. </v>
+<v n="3"> Kiedy to zrozumia³, wsta³ i odszed³, aby ocaliæ swoje ¿ycie. Przyby³ do Beer-Szeby, która nale¿y do Judy, i zostawi³ tam swego s³ugê. </v>
+<v n="4"> A sam poszed³ na pustyniê na jeden dzieñ drogi, a gdy tam doszed³, usiad³ pod ja³owcem i ¿yczy³ sobie œmierci, mówi¹c: Dosyæ ju¿, PANIE. Zabierz moj¹ duszê, bo nie jestem lepszy od swoich ojców. </v>
+<v n="5"> Potem po³o¿y³ siê i zasn¹³ pod tym ja³owcem. A wtedy Anio³ dotkn¹³ go i powiedzia³ mu: Wstañ i jedz. </v>
+<v n="6"> A gdy spojrza³, oto przy jego g³owie le¿a³ placek pieczony na wêgielkach i dzban wody. Jad³ wiêc i pi³, i znowu siê po³o¿y³. </v>
+<v n="7"> Anio³ PANA wróci³ ponownie, dotkn¹³ go i powiedzia³: Wstañ i jedz, bo masz przed sob¹ dalek¹ drogê. </v>
+<v n="8"> Wsta³ wiêc i jad³, i pi³, i szed³ dziêki mocy tego pokarmu czterdzieœci dni i czterdzieœci nocy a¿ do Horebu, góry Boga. </v>
+<v n="9"> Tam wszed³ do jaskini, gdzie przenocowa³. A oto s³owo PANA dosz³o do niego: Co tu robisz, Eliaszu? </v>
+<v n="10"> Odpowiedzia³: By³em bardzo gorliwy wzglêdem PANA, Boga zastêpów. Synowie Izraela bowiem porzucili twoje przymierze, zburzyli twoje o³tarze i pomordowali mieczem twoich proroków. Ja sam tylko pozosta³em i szukaj¹ mojej duszy, aby mi j¹ odebraæ. </v>
+<v n="11"> Wtedy on powiedzia³: WyjdŸ, stañ na górze przed PANEM. A oto PAN przechodzi³, a potê¿ny i gwa³towny wiatr rozrywa³ góry i kruszy³ ska³y przed PANEM, ale PAN nie by³ w tym wietrze. Po wietrze by³o trzêsienie ziemi, ale PAN nie by³ i w tym trzêsieniu ziemi. </v>
+<v n="12"> Po trzêsieniu ziemi by³ ogieñ, ale PAN nie by³ w ogniu. A po tym ogniu by³ cichy i delikatny g³os. </v>
+<v n="13"> Gdy Eliasz go us³ysza³, zas³oni³ p³aszczem swoj¹ twarz, wyszed³ i stan¹³ u wejœcia do jaskini. A oto g³os przemówi³ do niego: Co tu robisz, Eliaszu? </v>
+<v n="14"> A on odpowiedzia³: By³em bardzo gorliwy wzglêdem PANA, Boga zastêpów. Synowie Izraela bowiem porzucili twoje przymierze, zburzyli twoje o³tarze i pomordowali mieczem twoich proroków. Ja sam tylko pozosta³em i szukaj¹ mojej duszy, aby mi j¹ odebraæ. </v>
+<v n="15"> Ale PAN powiedzia³ do niego: IdŸ, wróæ t¹ sam¹ drog¹ na pustyniê Damaszku. A kiedy tam przybêdziesz, namaœcisz Chazaela na króla nad Syri¹. </v>
+<v n="16"> A Jehu, syna Nimsziego, namaœcisz na króla nad Izraelem. Elizeusza zaœ, syna Szafata, z Abel-Mechola, namaœcisz na proroka po tobie. </v>
+<v n="17"> I stanie siê tak, ¿e ktokolwiek uniknie miecza Chazaela, tego zabije Jehu, a ktokolwiek uniknie miecza Jehu, tego zabije Elizeusz. </v>
+<v n="18"> Jednak zachowa³em sobie w Izraelu siedem tysiêcy, których kolana nie zgina³y siê przed Baalem i których usta nie ca³owa³y go. </v>
+<v n="19"> Odszed³ wiêc stamt¹d i znalaz³ Elizeusza, syna Szafata, gdy ora³. Dwanaœcie zaprzêgów wo³ów sz³o przed nim, a on by³ przy dwunastym. Eliasz przeszed³ obok niego i wrzuci³ na niego swój p³aszcz. </v>
+<v n="20"> Wtedy opuœci³ wo³y, pobieg³ za Eliaszem i powiedzia³: Pozwól mi uca³owaæ swego ojca i swoj¹ matkê, a pójdê za tob¹. Odpowiedzia³: IdŸ, wróæ. Có¿ bowiem ci uczyni³em? </v>
+<v n="21"> Odszed³ wiêc od niego, wzi¹³ zaprzêg wo³ów i zabi³ je. A na sprzêcie tych wo³ów ugotowa³ ich miêso i da³ ludowi, a oni jedli. Potem wsta³ i poszed³ za Eliaszem, i s³u¿y³ mu. </v>
+</c>

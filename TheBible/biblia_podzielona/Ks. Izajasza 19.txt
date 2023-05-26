@@ -1,0 +1,26 @@
+<v n="1"> Brzemiê Egiptu. Oto PAN jedzie na lekkim ob³oku i przybêdzie do Egiptu. Zadr¿¹ przed nim bo¿ki Egiptu, a serce Egiptu stopnieje w jego wnêtrzu. </v>
+<v n="2"> Podburzê Egipcjan przeciw Egipcjanom, tak ¿e ka¿dy bêdzie walczyæ przeciwko swemu bratu i ka¿dy przeciwko swemu bliŸniemu, miasto przeciwko miastu, królestwo przeciwko królestwu. </v>
+<v n="3"> I os³abnie duch Egiptu, a jego zamiar obrócê wniwecz. I bêd¹ siê radziæ bo¿ków i zaklinaczy, czarowników i wró¿bitów. </v>
+<v n="4"> I wydam Egipcjan w rêce okrutnego pana, a srogi król bêdzie panowaæ nad nimi, mówi Pan, PAN zastêpów. </v>
+<v n="5"> I zgin¹ wody z morza, a rzeka opadnie i wyschnie. </v>
+<v n="6"> Ustan¹ rzeki, opadn¹ i powysychaj¹ potoki ujête groblami, a trzcina i sitowie powiêdn¹. </v>
+<v n="7"> Trawa przy brzegach potoków i przy ich ujœciu oraz wszelki zasiew przy potokach wyschn¹ i wygin¹, i ju¿ ich nie bêdzie. </v>
+<v n="8"> Rybacy bêd¹ siê smuciæ, bêd¹ lamentowaæ wszyscy, którzy w rzece zarzucaj¹ wêdkê, i ci, którzy rozci¹gaj¹ sieci na wodzie, bêd¹ rozpaczaæ. </v>
+<v n="9"> Zawiedzeni bêd¹ te¿ ci, którzy uprawiaj¹ wyborny len, i ci, którzy tkaj¹ sieci. </v>
+<v n="10"> Bêd¹ przygnêbieni swoim losem wszyscy, którzy robi¹ stawy do hodowli ryb. </v>
+<v n="11"> Doprawdy, ksi¹¿êta Soanu s¹ g³upcami, zg³upia³a rada m¹drych doradców faraona. Jak mo¿ecie mówiæ do faraona: Jestem synem mêdrców, synem staro¿ytnych królów? </v>
+<v n="12"> Gdzie teraz s¹ twoi mêdrcy? Niech ci teraz oznajmi¹, jeœli wiedz¹, co PAN zastêpów postanowi³ wobec Egiptu. </v>
+<v n="13"> Zg³upieli ksi¹¿êta Soanu, zwiedzeni s¹ ksi¹¿êta Nof; zwiedli Egipt naczelnicy jego rodów. </v>
+<v n="14"> PAN umieœci³ poœród nich wypaczonego ducha, a oni sprawili, ¿e Egipt zb³¹dzi³ w ka¿dej swojej sprawie, tak jak b³¹dzi wymiotuj¹cy pijak. </v>
+<v n="15"> I nie bêdzie ¿adnego dzie³a w Egipcie, którego bêd¹ mog³y dokonaæ g³owa lub ogon, ga³¹Ÿ lub sitowie. </v>
+<v n="16"> W tym dniu Egipt bêdzie podobny do kobiet, bo bêdzie siê lêkaæ i dr¿eæ przed rêk¹ PANA zastêpów, któr¹ podniesie przeciwko niemu. </v>
+<v n="17"> Ziemia Judy stanie siê postrachem dla Egiptu. Ka¿dy, kto o niej wspomni, bêdzie siê lêka³ z powodu zamiaru, który powzi¹³ przeciwko niemu PAN zastêpów. </v>
+<v n="18"> W tym dniu w ziemi Egiptu bêdzie piêæ miast mówi¹cych jêzykiem Kanaanu i przysiêgaj¹cych na PANA zastêpów, a jedno z nich bêdzie nazwane Miastem Spustoszenia. </v>
+<v n="19"> W tym dniu bêdzie o³tarz dla PANA poœród ziemi Egiptu i s³up dla PANA przy jego granicy. </v>
+<v n="20"> I bêdzie to znakiem i œwiadectwem dla PANA zastêpów w ziemi Egiptu. A gdy zawo³aj¹ do PANA z powodu ciemiêzców, poœle im zbawiciela i ksiêcia, który ich wybawi. </v>
+<v n="21"> I PAN bêdzie znany w Egipcie, gdy¿ Egipcjanie tego dnia poznaj¹ PANA i bêd¹ sk³adaæ mu ofiary i dary, bêd¹ sk³adaæ PANU œluby i wype³ni¹ je. </v>
+<v n="22"> A PAN uderzy Egipt, uderzy go i uzdrowi. Oni nawróc¹ siê do PANA, a on da siê im ub³agaæ i uzdrowi ich. </v>
+<v n="23"> W tym dniu bêdzie droga z Egiptu do Asyrii i Asyryjczyk bêdzie chodziæ do Egiptu, a Egipcjanin do Asyrii, i Egipcjanie bêd¹ s³u¿yæ z Asyryjczykami. </v>
+<v n="24"> W tym dniu Izrael bêdzie jako trzeci wraz z Egiptem i Asyri¹, bêdzie b³ogos³awieñstwem poœrodku ziemi. </v>
+<v n="25"> PAN zastêpów bowiem bêdzie im b³ogos³awi³: Niech bêdzie b³ogos³awiony mój lud Egipt i Asyria, dzie³o moich r¹k, oraz Izrael, moje dziedzictwo. </v>
+</c>

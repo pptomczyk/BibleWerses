@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi chóru, na Nechylot. Psalm Dawida. Nak³oñ ucha ku moim s³owom, PANIE, zwa¿ na moje westchnienie. </v>
+<v n="2"> S³uchaj pilnie g³osu mego wo³ania, mój Królu i mój Bo¿e, bo siê do ciebie modlê. </v>
+<v n="3"> PANIE, z rana us³yszysz mój g³os, z rana zaniosê do ciebie modlitwê i bêdê czeka³. </v>
+<v n="4"> Ty bowiem nie jesteœ Bogiem, który mi³uje nieprawoœæ, z³y z tob¹ nie zamieszka. </v>
+<v n="5"> G³upcy nie ostoj¹ siê przed twymi oczyma. Nienawidzisz wszystkich czyni¹cych nieprawoœæ. </v>
+<v n="6"> Wytracisz tych, którzy mówi¹ k³amstwa. PAN brzydzi siê cz³owiekiem krwawym i podstêpnym. </v>
+<v n="7"> Lecz ja dziêki obfitoœci twego mi³osierdzia wejdê do twego domu, oddam pok³on przed twoim œwiêtym przybytkiem w twojej bojaŸni. </v>
+<v n="8"> ProwadŸ mnie, PANIE, w swojej sprawiedliwoœci ze wzglêdu na moich wrogów; wyprostuj przede mn¹ twoj¹ drogê. </v>
+<v n="9"> Bo w ich ustach nie ma szczeroœci, ich wnêtrze pe³ne przewrotnoœci, ich gard³o jest grobem otwartym, swoim jêzykiem pochlebiaj¹. </v>
+<v n="10"> Spustosz ich, Bo¿e! Niech upadn¹ przez w³asne zamiary. Z powodu ich licznych wystêpków odtr¹æ ich, poniewa¿ buntuj¹ siê przeciwko tobie. </v>
+<v n="11"> Lecz niech siê raduj¹ wszyscy, którzy tobie ufaj¹; niech zawsze wykrzykuj¹ z radoœci, bo ty bêdziesz ich os³ania³. Niech rozraduj¹ siê w tobie ci, którzy mi³uj¹ twoje imiê. </v>
+<v n="12"> Ty bowiem, PANIE, bêdziesz b³ogos³awi³ sprawiedliwego, os³onisz go dobroci¹ jak tarcz¹. </v>
+</c>

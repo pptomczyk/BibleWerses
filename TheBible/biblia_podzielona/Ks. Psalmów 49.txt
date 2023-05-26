@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi chóru. Psalm dla synów Korego. S³uchajcie tego wszystkie narody, nadstawcie ucha wszyscy mieszkañcy œwiata. </v>
+<v n="2"> Zarówno wy, proœci, jak i wy, mo¿ni; zarówno bogaty, jak i ubogi. </v>
+<v n="3"> Moje usta wypowiedz¹ m¹droœæ, a rozmyœlaniem mego serca bêdzie roztropnoœæ. </v>
+<v n="4"> Nak³oniê ucha ku przypowieœci, przy harfie rozwi¹¿ê moj¹ zagadkê. </v>
+<v n="5"> Dlaczego mam siê baæ w dniach niedoli, gdy otacza mnie nieprawoœæ tych, którzy mnie depcz¹? </v>
+<v n="6"> Ci, którzy ufaj¹ swym bogactwom i chlubi¹ siê swym wielkim dostatkiem; </v>
+<v n="7"> Nikt z nich w ¿aden sposób nie odkupi swego brata ani nie mo¿e daæ Bogu za niego okupu; </v>
+<v n="8"> (Kosztowny bowiem jest okup za ich dusze i nigdy siê nie zdarzy); </v>
+<v n="9"> Aby ¿y³ na wieki i nie dozna³ zniszczenia. </v>
+<v n="10"> Ka¿dy bowiem widzi, ¿e m¹drzy umieraj¹, tak samo jak ginie g³upiec i prostak, i zostawiaj¹ obcym swoje bogactwa. </v>
+<v n="11"> Myœl¹, ¿e ich domy s¹ wieczne, a ich mieszkania bêd¹ trwaæ z pokolenia na pokolenie; nazywaj¹ ziemie swymi imionami. </v>
+<v n="12"> Lecz cz³owiek, choæ otoczony czci¹, nie przetrwa; podobny jest do bydl¹t, które gin¹. </v>
+<v n="13"> Ich droga jest ich g³upstwem, mimo to ich potomkowie pochwalaj¹ ich mowê. Sela. </v>
+<v n="14"> Jak owce bêd¹ z³o¿eni w grobie, œmieræ ich po¿re; prawi bêd¹ nad nimi panowaæ o poranku, ich postaæ zostanie zniszczona w grobie, gdy opuszcz¹ swoje mieszkanie. </v>
+<v n="15"> Ale Bóg wykupi moj¹ duszê z mocy grobu, bo mnie przyjmie. Sela. </v>
+<v n="16"> Nie bój siê, gdy siê ktoœ wzbogaci, gdy siê rozmno¿y s³awa jego domu; </v>
+<v n="17"> Bo gdy umrze, niczego ze sob¹ nie weŸmie i nie pójdzie za nim jego s³awa. </v>
+<v n="18"> Chocia¿ za ¿ycia swej duszy pochlebia³ i chwalono go, gdy dobrze siê urz¹dzi³; </v>
+<v n="19"> Pójdzie jednak do grona swych ojców; nigdy nie ujrz¹ œwiat³a. </v>
+<v n="20"> Cz³owiek, który jest otoczony czci¹, a nie rozumie tego, podobny jest do bydl¹t, które gin¹. </v>
+</c>

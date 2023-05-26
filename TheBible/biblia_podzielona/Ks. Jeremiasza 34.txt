@@ -1,0 +1,23 @@
+<v n="1"> S³owo, które dosz³o do Jeremiasza od PANA, gdy Nabuchodonozor, król Babilonu, ca³e jego wojsko, wszystkie królestwa ziemi podleg³e jego w³adzy oraz wszystkie ludy walczyli przeciwko Jerozolimie i przeciwko wszystkim jej miastom, mówi¹ce: </v>
+<v n="2"> Tak mówi PAN, Bóg Izraela: IdŸ i przemów do Sedekiasza, króla Judy, i powiedz mu: Tak mówi PAN: Oto wydam to miasto w rêce króla Babilonu, a on spali je ogniem; </v>
+<v n="3"> Ty te¿ nie ujdziesz jego rêki, lecz na pewno zostaniesz pojmany i wydany w jego rêce; twoje oczy zobacz¹ oczy króla Babilonu i on bêdzie z tob¹ rozmawia³ z ust do ust, a ty pójdziesz do Babilonu. </v>
+<v n="4"> Pos³uchaj jednak s³owa PANA, Sedekiaszu, królu Judy: Tak mówi PAN o tobie: Nie umrzesz od miecza. </v>
+<v n="5"> Umrzesz w pokoju i podobnie jak palono wonnoœci dla twoich ojców, dawniejszych królów, którzy byli przed tob¹, tak bêd¹ paliæ dla ciebie; i bêd¹ ciê op³akiwaæ, mówi¹c: Ach, panie! Ja bowiem wyrzek³em to s³owo, mówi PAN. </v>
+<v n="6"> Wtedy prorok Jeremiasz powiedzia³ wszystkie te s³owa do Sedekiasza, króla Judy, w Jerozolimie; </v>
+<v n="7"> Gdy wojsko króla Babilonu walczy³o przeciwko Jerozolimie i przeciwko wszystkim pozosta³ym miastom Judy: przeciwko Lakisz i przeciw Azece. Tylko bowiem te warowne miasta pozosta³y z miast Judy. </v>
+<v n="8"> S³owo, które dosz³o do Jeremiasza od PANA, gdy król Sedekiasz zawar³ przymierze z ca³ym ludem, który by³ w Jerozolimie, dla og³oszenia mu wolnoœci; </v>
+<v n="9"> ¯e ka¿dy puœci wolno swego niewolnika Hebrajczyka i niewolnicê Hebrajkê, aby nikt nie trzyma³ w niewoli ¯yda, swego brata. </v>
+<v n="10"> Wszyscy ksi¹¿êta i ca³y lud, którzy zawarli przymierze o tym, aby ka¿dy wypuœci³ wolno swego niewolnika i sw¹ niewolnicê, by ich ju¿ nie trzymano w niewoli, us³uchali i puœcili ich wolno. </v>
+<v n="11"> Lecz potem rozmyœlili siê i z powrotem œci¹gnêli niewolników i niewolnice, których puœcili wolno, i zmusili ich do s³u¿by jako niewolników i niewolnice. </v>
+<v n="12"> Dlatego od PANA dosz³o do Jeremiasza s³owo PANA mówi¹ce: </v>
+<v n="13"> Tak mówi PAN, Bóg Izraela: Ja zawar³em przymierze z waszymi ojcami w dniu, w którym wyprowadzi³em ich z ziemi Egiptu, z domu niewoli, mówi¹c: </v>
+<v n="14"> Po up³ywie siedmiu lat niech ka¿dy puœci wolno swego brata Hebrajczyka, który siê tobie zaprzeda³; bêdzie ci s³u¿y³ przez szeœæ lat, po czym puœcisz go wolno od siebie. Ale wasi ojcowie nie s³uchali mnie ani nie nak³onili swego ucha. </v>
+<v n="15"> Wy zaœ nawróciliœcie siê dziœ i uczyniliœcie to, co jest dobre w moich oczach, og³aszaj¹c wolnoœæ – ka¿dy swemu bliŸniemu, i zawarliœcie przymierze przede mn¹ w domu nazywanym moim imieniem. </v>
+<v n="16"> Lecz cofnêliœcie siê i splugawiliœcie moje imiê, bo ka¿dy z powrotem œci¹gn¹³ swego niewolnika i sw¹ niewolnicê, których poprzednio puœci³ wolno wed³ug ¿yczenia, i zmusi³ ich do s³u¿by jako niewolników i niewolnice. </v>
+<v n="17"> Dlatego tak mówi PAN: Nie pos³uchaliœcie mnie, aby ka¿dy og³osi³ wolnoœæ swemu bratu i bliŸniemu. Oto og³aszam wam, mówi PAN, wolnoœæ pod miecz, na zarazê i g³ód, i wydam was na wysiedlenie do wszystkich królestw ziemi. </v>
+<v n="18"> Wydam tych ludzi, którzy przekroczyli moje przymierze i nie dotrzymali s³ów tego przymierza, jakie wypowiedzieli przede mn¹, gdy rozciêli cielca na dwoje i przeszli pomiêdzy jego czêœciami; </v>
+<v n="19"> To jest ksi¹¿¹t Judy i ksi¹¿¹t Jerozolimy, dworzan i kap³anów oraz ca³y lud tej ziemi, tych, którzy przeszli pomiêdzy czêœciami tego cielca; </v>
+<v n="20"> W³aœnie ich wydam w rêce ich wrogów i w rêce czyhaj¹cych na ich ¿ycie, i ich trupy bêd¹ ¿erem dla ptactwa nieba i zwierz¹t ziemi. </v>
+<v n="21"> Równie¿ Sedekiasza, króla Judy, i jego ksi¹¿¹t wydam w rêce ich wrogów i w rêce czyhaj¹cych na ich ¿ycie, w rêce wojska króla Babilonu, które odst¹pi³o od was. </v>
+<v n="22"> Oto wydam rozkaz, mówi PAN, i sprowadzê ich z powrotem do tego miasta, i bêd¹ walczyæ przeciwko niemu, zdobêd¹ je i spal¹ ogniem. Miasta Judy zamieniê w pustkowie, bez mieszkañców. </v>
+</c>

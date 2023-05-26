@@ -1,0 +1,16 @@
+<v n="1"> A gdy wszyscy królowie amoryccy, którzy mieszkali po zachodniej stronie Jordanu, i wszyscy królowie Kanaanu, którzy mieszkali nad morzem, us³yszeli, ¿e PAN wysuszy³ wody Jordanu przed synami Izraela, a¿ siê przeprawili, struchla³o ich serce i stracili ca³¹ odwagê wobec synów Izraela. </v>
+<v n="2"> W tym czasie PAN powiedzia³ do Jozuego: Zrób sobie ostre no¿e i ponownie obrzezaj synów Izraela. </v>
+<v n="3"> Jozue zrobi³ wiêc sobie ostre no¿e i obrzeza³ synów Izraela na pagórku napletków. </v>
+<v n="4"> A oto powód, dla którego Jozue ich obrzeza³: Ca³y lud, który wyszed³ z Egiptu, p³ci mêskiej, wszyscy wojownicy, pomarli na pustyni, w drodze po wyjœciu z Egiptu. </v>
+<v n="5"> Ca³y lud, który wyszed³, by³ obrzezany. Lecz ca³y lud, który urodzi³ siê na pustyni, w drodze po wyjœciu z Egiptu, nie by³ obrzezany. </v>
+<v n="6"> Czterdzieœci lat bowiem synowie Izraela chodzili po pustyni, a¿ wymar³ ca³y naród wojowników, którzy wyszli z Egiptu, gdy¿ nie s³uchali g³osu PANA. Przysi¹g³ im PAN, ¿e nie pozwoli im zobaczyæ ziemi, któr¹ PAN pod przysiêg¹ obieca³ ich ojcom, ¿e nam j¹ da, ziemiê op³ywaj¹c¹ mlekiem i miodem. </v>
+<v n="7"> Ich synów, których wzbudzi³ na ich miejsce, Jozue obrzeza³. Byli bowiem nieobrzezani, gdy¿ ich nie obrzezano w drodze. </v>
+<v n="8"> A gdy ju¿ ca³y lud zosta³ obrzezany, pozosta³ on na swoim miejscu w obozie a¿ do wyzdrowienia. </v>
+<v n="9"> Potem PAN powiedzia³ do Jozuego: Dzisiaj zdj¹³em z was hañbê Egiptu. Dlatego to miejsce nazywa siê Gilgal a¿ do dziœ. </v>
+<v n="10"> Wtedy synowie Izraela rozbili obóz w Gilgal i obchodzili œwiêto Paschy czternastego dnia tego miesi¹ca, wieczorem, na równinach Jerycha. </v>
+<v n="11"> Nazajutrz po œwiêcie Paschy jedli z plonów tej ziemi, chleby przaœne i pra¿one ziarno, tego samego dnia. </v>
+<v n="12"> I nastêpnego dnia po tym, jak zaczêli jeœæ zbo¿a tej ziemi, usta³a manna; i synowie Izraela ju¿ wiêcej manny nie mieli, ale jedli tegoroczne plony ziemi Kanaan. </v>
+<v n="13"> A gdy Jozue by³ w pobli¿u Jerycha, podniós³ oczy i spojrza³, a oto m¹¿ sta³ naprzeciw niego z wydobytym mieczem w rêku. Jozue podszed³ do niego i zapyta³: Czy ty jesteœ po naszej stronie, czy po stronie naszych wrogów? </v>
+<v n="14"> A on odpowiedzia³: Nie, gdy¿ jako wódz wojska PANA teraz przyszed³em. Wtedy Jozue upad³ twarz¹ do ziemi, odda³ pok³on i zapyta³: Co mój Pan rozka¿e swemu s³udze? </v>
+<v n="15"> I wódz wojska PANA powiedzia³ do Jozuego: Zdejmij obuwie ze swoich nóg, bo miejsce, na którym stoisz, jest œwiête. I Jozue tak uczyni³. </v>
+</c>

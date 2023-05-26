@@ -1,0 +1,27 @@
+<v n="1"> I s³owo PANA dosz³o do Jeremiasza po raz drugi, gdy ten by³ jeszcze zamkniêty na dziedziñcu wiêzienia, mówi¹ce: </v>
+<v n="2"> Tak mówi PAN, Sprawca tego: PAN, który to ukszta³towa³ i utwierdzi³; PAN to jego imiê. </v>
+<v n="3"> Wo³aj do mnie, a odpowiem ci i oznajmiê ci rzeczy wielkie i ukryte, których nie znasz. </v>
+<v n="4"> Tak bowiem mówi PAN, Bóg Izraela, o domach tego miasta i o domach królów Judy, które s¹ zburzone dziêki taranom i mieczom: </v>
+<v n="5"> Id¹, aby walczyæ z Chaldejczykami, ale nape³ni¹ te domy trupami ludzi, których pobi³em w swoim gniewie i w swojej zapalczywoœci i zakry³em swoje oblicze przed tym miastem z powodu ca³ej ich niegodziwoœci. </v>
+<v n="6"> Oto dam mu zdrowie i uleczenie, i uzdrowiê ich oraz objawiê im obfitoœæ pokoju i prawdy. </v>
+<v n="7"> Odwrócê bowiem niewolê Judy i niewolê Izraela i odbudujê ich jak przedtem. </v>
+<v n="8"> Oczyszczê ich z wszelkiej nieprawoœci, któr¹ zgrzeszyli przeciwko mnie, i przebaczê im wszystkie winy, jakimi zgrzeszyli przeciwko mnie i jakimi wykroczyli przeciwko mnie. </v>
+<v n="9"> A bêdzie dla mnie przyczyn¹ radoœci, chwa³¹ i ozdob¹ wœród wszystkich narodów ziemi, które us³ysz¹ o wszelkim dobru, jakie im wyœwiadczam. Zlêkn¹ siê i zadr¿¹ z powodu ca³ej tej dobroci i pomyœlnoœci, które im przygotowujê. </v>
+<v n="10"> Tak mówi PAN: Na tym miejscu, o którym wy mówicie: Zostanie spustoszone, pozbawione cz³owieka i zwierzêcia, w miastach Judy i na ulicach Jerozolimy, spustoszonych, bezludnych i pozbawionych mieszkañców i zwierz¹t, znów bêdzie s³ychaæ; </v>
+<v n="11"> G³os radoœci i g³os wesela, g³os oblubieñca i g³os oblubienicy, g³os tych, którzy mówi¹: Wys³awiajcie PANA zastêpów, bo PAN jest dobry, bo jego mi³osierdzie trwa na wieki; to g³os przynosz¹cych ofiarê chwa³y do domu PANA. Odwrócê bowiem niewolê tej ziemi, jak na pocz¹tku, mówi PAN. </v>
+<v n="12"> Tak mówi PAN zastêpów: Znowu na tym spustoszonym miejscu bez ludzi i zwierz¹t i we wszystkich jego miastach bêdzie schronisko dla pasterzy, daj¹cych trzodom odpoczynek. </v>
+<v n="13"> W miastach górskich, w miastach na równinach i w miastach na po³udnie, w ziemi Beniamina i w okolicach Jerozolimy oraz w miastach Judy znowu bêd¹ przechodziæ trzody pod rêk¹ tego, który je liczy, mówi PAN. </v>
+<v n="14"> Oto nadchodz¹ dni, mówi PAN, kiedy utwierdzê to dobre s³owo, które zapowiedzia³em domowi Izraela i domowi Judy. </v>
+<v n="15"> W tych dniach i w tym czasie sprawiê, ¿e wyroœnie Dawidowi Latoroœl sprawiedliwa. Bêdzie on sprawowa³ s¹d i wymierza³ sprawiedliwoœæ na ziemi. </v>
+<v n="16"> W tych dniach Juda bêdzie zbawiona, a Jerozolima bêdzie mieszkaæ bezpiecznie. A takie jest imiê, którym bêd¹ j¹ nazywaæ: PAN nasz¹ sprawiedliwoœci¹. </v>
+<v n="17"> Tak bowiem mówi PAN: Nie zabraknie Dawidowi potomka zasiadaj¹cego na tronie domu Izraela. </v>
+<v n="18"> Kap³anom Lewitom te¿ nie zabraknie przede mn¹ cz³owieka, by sk³ada³ ca³opalenia, spala³ ofiary z pokarmów i sk³ada³ ofiary przez wszystkie dni. </v>
+<v n="19"> Nastêpnie do Jeremiasza dosz³o s³owo PANA mówi¹ce: </v>
+<v n="20"> Tak mówi PAN: Jeœli bêdziecie mogli z³amaæ moje przymierze z dniem i moje przymierze z noc¹, aby nie by³o dnia ani nocy w swoim czasie; </v>
+<v n="21"> Wtedy te¿ bêdzie z³amane moje przymierze z Dawidem, moim s³ug¹, aby nie mia³ syna, który by królowa³ na jego tronie, i z Lewitami kap³anami, moimi s³ugami. </v>
+<v n="22"> Jak niezliczone s¹ zastêpy niebios i niezmierzony piasek morski tak rozmno¿ê potomstwo Dawida, mojego s³ugi, i Lewitów, którzy mi s³u¿¹. </v>
+<v n="23"> Ponownie do Jeremiasza dosz³o s³owo PANA mówi¹ce: </v>
+<v n="24"> Czy¿ nie widzisz, co ten lud mówi: Dwa rody, które PAN wybra³, ju¿ odrzuci³! Tak wiêc gardz¹ moim ludem, jakby ju¿ nie by³ narodem w ich oczach. </v>
+<v n="25"> Tak mówi PAN: Jeœli nie istnieje moje przymierze z dniem i noc¹ i jeœli nie ustali³em praw dla niebios i ziemi; </v>
+<v n="26"> Wtedy potomstwo Jakuba i Dawida, mego s³ugi, odrzucê, aby nie braæ z jego rodu tych, którzy mieliby panowaæ nad potomstwem Abrahama, Izaaka i Jakuba. Odwrócê bowiem ich niewolê i zlitujê siê nad nimi. </v>
+</c>

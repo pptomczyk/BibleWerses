@@ -1,0 +1,25 @@
+<v n="1"> PAN powiedzia³ te¿ do Moj¿esza: Mów do kap³anów, synów Aarona i powiedz im: Niech nikt z was nie zanieczyœci siê z powodu umar³ych spoœród swego ludu; </v>
+<v n="2"> Z wyj¹tkiem najbli¿szych krewnych, czyli swej matki, swego ojca, swego syna, swej córki i swego brata; </v>
+<v n="3"> A tak¿e swej siostry dziewicy, bliskiej mu, która nie mia³a mê¿a; z jej powodu mo¿e siê zanieczyœciæ. </v>
+<v n="4"> Jako prze³o¿ony wœród swego ludu nie zanieczyœci siê, tak ¿eby by³ skalany. </v>
+<v n="5"> Nie bêd¹ sobie czynili ³ysiny na swej g³owie ani nie bêd¹ goliæ skrajów swej brody, ani nie bêd¹ nacinaæ swego cia³a. </v>
+<v n="6"> Bêd¹ œwiêci dla swego Boga i nie bêd¹ bezczeœcili imienia swego Boga, sk³adaj¹ bowiem ofiary PANA spalane w ogniu oraz chleb swego Boga. Bêd¹ wiêc œwiêci. </v>
+<v n="7"> Nie pojm¹ sobie za ¿onê nierz¹dnicy lub naruszonej w panieñstwie; nie bêd¹ tak¿e pojmowaæ kobiety oddalonej przez jej mê¿a, gdy¿ ka¿dy z nich jest œwiêty dla swego Boga. </v>
+<v n="8"> Miej go wiêc za œwiêtego, bo on sk³ada w ofierze chleb twego Boga; dlatego bêdzie œwiêty dla ciebie, bo ja, PAN, który was poœwiêca, jestem œwiêty. </v>
+<v n="9"> Jeœli córka kap³ana zbezczeœci siê przez nierz¹d, zbezczeœci swego ojca. Bêdzie spalona w ogniu. </v>
+<v n="10"> Najwy¿szy kap³an wœród swoich braci, na którego g³owê zosta³a wylana oliwa namaszczenia i który zosta³ poœwiêcony, aby wk³adaæ na siebie œwiête szaty, nie bêdzie ods³ania³ swej g³owy i nie rozedrze swoich szat; </v>
+<v n="11"> I nie zbli¿y siê do ¿adnego zmar³ego, nawet nie zanieczyœci siê z powodu swego ojca lub z powodu swej matki. </v>
+<v n="12"> Nie wyjdzie ze œwi¹tyni i nie zbezczeœci œwi¹tyni swego Boga, gdy¿ korona oliwy namaszczenia swego Boga jest na nim: Ja jestem PAN. </v>
+<v n="13"> I weŸmie sobie dziewicê za ¿onê. </v>
+<v n="14"> Nie weŸmie sobie ani wdowy, ani oddalonej, ani zhañbionej, ani nierz¹dnicy, lecz weŸmie sobie za ¿onê dziewicê ze swego ludu. </v>
+<v n="15"> I nie zbezczeœci swego potomstwa wœród swego ludu, bo ja jestem PAN, który go uœwiêca. </v>
+<v n="16"> Przemówi³ dalej PAN do Moj¿esza, mówi¹c: </v>
+<v n="17"> Powiedz Aaronowi tymi s³owy: Ktokolwiek z twego potomstwa w ich pokoleniach mia³ jak¹œ wadê, niech nie zbli¿a siê, aby sk³adaæ w ofierze chleb swego Boga. </v>
+<v n="18"> ¯aden mê¿czyzna, który ma jak¹œ wadê, nie zbli¿y siê: ani niewidomy, ani chromy, ani maj¹cy p³aski nos, ani nieproporcjonalnie zbudowany; </v>
+<v n="19"> Ani ten, który ma z³aman¹ nogê lub rêkê; </v>
+<v n="20"> Ani garbaty, ani z bielmem na oku, ani chory na œwierzb, ani pokryty liszajami, ani eunuch: </v>
+<v n="21"> ¯aden mê¿czyzna z potomków kap³ana Aarona, który ma jak¹œ wadê, nie zbli¿y siê, by sk³adaæ ofiary PANA spalane w ogniu. Ma wadê, wiêc nie zbli¿y siê, aby sk³adaæ w ofierze chleb swego Boga. </v>
+<v n="22"> Mo¿e jednak spo¿ywaæ chleb swego Boga, zarówno œwiêty, jak i najœwiêtszy. </v>
+<v n="23"> Lecz nie mo¿e wchodziæ poza zas³onê ani zbli¿aæ siê do o³tarza, bo ma wadê, ¿eby nie zbezczeœci³ mojej œwi¹tyni. Ja bowiem jestem PAN, który j¹ poœwiêca. </v>
+<v n="24"> I Moj¿esz powiedzia³ to Aaronowi, jego synom i wszystkim synom Izraela. </v>
+</c>

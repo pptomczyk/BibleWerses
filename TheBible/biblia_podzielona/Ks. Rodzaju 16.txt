@@ -1,0 +1,17 @@
+<v n="1"> Saraj, ¿ona Abrama, nie urodzi³a mu dzieci. Mia³a zaœ s³u¿¹c¹ Egipcjankê, która mia³a na imiê Hagar. </v>
+<v n="2"> I powiedzia³a Saraj do Abrama: Oto PAN nie pozwoli³ mi urodziæ. WejdŸ, proszê, do mojej s³u¿¹cej, mo¿e z niej bêdê mia³a dzieci. I Abram us³ucha³ g³osu Saraj. </v>
+<v n="3"> Wziê³a wiêc Saraj, ¿ona Abrama, swoj¹ s³u¿¹c¹ Hagar, Egipcjankê, i da³a j¹ swemu mê¿owi Abramowi za ¿onê po dziesiêciu latach zamieszkania Abrama w ziemi Kanaan. </v>
+<v n="4"> Obcowa³ wiêc z Hagar, a ona poczê³a. A gdy spostrzeg³a, ¿e poczê³a, ze wzgard¹ patrzy³a na swoj¹ pani¹. </v>
+<v n="5"> I Saraj powiedzia³a do Abrama: Jesteœ winien mojej krzywdy. Da³am moj¹ s³u¿¹c¹ w twe ramiona. Ona jednak, widz¹c, ¿e poczê³a, patrzy³a na mnie ze wzgard¹. Niech PAN rozs¹dzi miêdzy mn¹ a tob¹. </v>
+<v n="6"> Abram powiedzia³ do Saraj: Oto twoja s³u¿¹ca jest w twoim rêku, zrób z ni¹, co uwa¿asz za s³uszne. I gdy Saraj drêczy³a j¹, uciek³a od niej. </v>
+<v n="7"> I Anio³ PANA znalaz³ j¹ u Ÿród³a wód na pustyni, u Ÿród³a przy drodze do Szur. </v>
+<v n="8"> I zapyta³: Hagar, s³u¿¹co Saraj, sk¹d przysz³aœ i dok¹d idziesz? Ona odpowiedzia³a: Uciekam od swojej pani Saraj. </v>
+<v n="9"> Anio³ PANA powiedzia³ jej: Wróæ do swojej pani i poddaj siê pod jej w³adzê. </v>
+<v n="10"> Powiedzia³ jej te¿ Anio³ PANA: Rozmno¿ê twoje potomstwo tak bardzo, ¿e z powodu jego mnogoœci nie bêdzie go mo¿na policzyæ. </v>
+<v n="11"> Potem Anio³ PANA powiedzia³ jej: Oto poczê³aœ i urodzisz syna, a nadasz mu imiê Izmael, bo PAN us³ysza³ twoje cierpienie. </v>
+<v n="12"> Bêdzie on dzikim cz³owiekiem: jego rêka bêdzie przeciwko wszystkim, a rêka wszystkich przeciwko jemu; i bêdzie mieszkaæ w obecnoœci wszystkich swoich braci. </v>
+<v n="13"> I nazwa³a PANA, który mówi³ do niej: Ty jesteœ Bogiem, który mnie widzi. Powiedzia³a bowiem: Czy¿ tu nie spogl¹da³am na tego, który widzi mnie? </v>
+<v n="14"> Dlatego nazwa³a tê studniê studni¹ ¯yj¹cego, który widzi mnie. Jest ona miêdzy Kadesz i Bered. </v>
+<v n="15"> Potem Hagar urodzi³a Abramowi syna. I nada³ Abram swemu synowi, którego urodzi³a Hagar, imiê Izmael. </v>
+<v n="16"> A Abram mia³ osiemdziesi¹t szeœæ lat, gdy Hagar urodzi³a mu Izmaela. </v>
+</c>

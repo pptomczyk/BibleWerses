@@ -1,0 +1,16 @@
+<v n="1"> Modlitwa Dawida. Wys³uchaj, PANIE, mojej s³usznej sprawy, zwa¿ na moje wo³anie, nak³oñ ucha na modlitwê moich nieob³udnych ust. </v>
+<v n="2"> Niech wyrok o mnie wyjdzie sprzed twego oblicza, niech twoje oczy widz¹ to, co s³uszne. </v>
+<v n="3"> Doœwiadczy³eœ moje serce, nawiedzi³eœ mnie noc¹, wypróbowa³eœ mnie ogniem, ale nic nie znalaz³eœ. Postanowi³em, ¿e moje usta nie zgrzesz¹. </v>
+<v n="4"> Co siê tyczy spraw ludzkich, dziêki s³owom twoich ust wystrzega³em siê dróg okrutnika. </v>
+<v n="5"> Zatrzymaj moje kroki na twoich drogach, aby nie zachwia³y siê moje nogi. </v>
+<v n="6"> Wzywam ciê, Bo¿e, bo mnie wys³uchasz. Nak³oñ ku mnie swego ucha, wys³uchaj moich s³ów. </v>
+<v n="7"> Oka¿ swoje mi³osierdzie, ty, który wybawiasz ufaj¹cych tobie od tych, którzy powstaj¹ przeciwko twojej prawicy. </v>
+<v n="8"> Strze¿ mnie jak Ÿrenicy oka, ukryj mnie w cieniu swych skrzyde³; </v>
+<v n="9"> Przed niegodziwymi, którzy mnie gnêbi¹, przed wrogami mojej duszy, którzy mnie osaczyli. </v>
+<v n="10"> Okryli siê swoim t³uszczem, zuchwale mówi¹ swymi ustami. </v>
+<v n="11"> Gdziekolwiek idziemy, otaczaj¹ nas, wytê¿aj¹ swój wzrok, aby nas powaliæ na ziemiê. </v>
+<v n="12"> Podobni s¹ do lwa ¿¹dnego ³upu, do lwi¹tka siedz¹cego w ukryciu. </v>
+<v n="13"> Powstañ, PANIE, wyst¹p przeciwko niemu i powal go, swoim mieczem ocal moj¹ duszê od niegodziwego; </v>
+<v n="14"> A swoj¹ rêk¹, PANIE, od ludzi, od ludzi tego œwiata, których udzia³em jest to ¿ycie, a których brzuchy nape³niasz swymi skarbami, tak ¿e nasyceni s¹ nawet ich synowie, a resztê zostawiaj¹ ich dzieciom. </v>
+<v n="15"> Ja zaœ w sprawiedliwoœci ujrzê twe oblicze, a gdy siê obudzê, nasycê siê twoim podobieñstwem. </v>
+</c>

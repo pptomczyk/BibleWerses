@@ -1,0 +1,17 @@
+<v n="1"> S³uchajcie tego, co mówi PAN: Wstañ, spieraj siê z górami i niech pagórki s³uchaj¹ twego g³osu. </v>
+<v n="2"> S³uchajcie, góry, sporu PANA, i najmocniejsze fundamenty ziemi, bo PAN wiedzie spór ze swoim ludem i rozprawia siê z Jerozolim¹. </v>
+<v n="3"> Mój ludu, có¿ ci uczyni³em? W czym ci siê uprzykrzy³em? Zeznaj przeciwko mnie. </v>
+<v n="4"> Wyprowadzi³em ciê bowiem z ziemi Egiptu, odkupi³em ciê z domu niewolników i pos³a³em przed tob¹ Moj¿esza, Aarona i Miriam. </v>
+<v n="5"> Mój ludu! Wspomnij teraz, co zamierza³ Balak, król Moabu, a co mu odpowiedzia³ Balaam, syn Beora; wspomnij te¿, co siê dzia³o od Szittim a¿ do Gilgal, abyœ pozna³ sprawiedliwoœæ PANA. </v>
+<v n="6"> Z czym mam siê stawiæ przed PANEM i pok³oniæ siê Bogu najwy¿szemu? Czy mam stawiæ siê przed nim z ofiarami ca³opalnymi i jednorocznymi cielcami? </v>
+<v n="7"> Czy PAN ma upodobanie w tysi¹cach baranów i w dziesi¹tkach tysiêcy strumieni oliwy? Czy mam mu daæ swego pierworodnego za mój wystêpek, owoc mego ³ona za grzech mojej duszy? </v>
+<v n="8"> On ci oznajmi³, cz³owieku, co jest dobre i czego PAN ¿¹da od ciebie: jedynie tego, byœ czyni³ sprawiedliwie, kocha³ mi³osierdzie i pokornie chodzi³ z twoim Bogiem. </v>
+<v n="9"> G³os PANA wo³a do miasta (ale roztropny sam ujrzy twoje imiê): S³uchajcie rózgi i tego, kto j¹ ustanowi³. </v>
+<v n="10"> Czy jeszcze s¹ w domu bezbo¿nego skarby niesprawiedliwe i miara niesprawiedliwa i obrzydliwa? </v>
+<v n="11"> Czy mam usprawiedliwiæ oszukañcz¹ wagê i worek fa³szywych odwa¿ników? </v>
+<v n="12"> Jego bogacze s¹ pe³ni zdzierstwa, jego mieszkañcy mówi¹ k³amstwo i ich jêzyk w ich ustach jest k³amliwy. </v>
+<v n="13"> Dlatego te¿ dotknê ciê chorob¹, uderzê ciê i zniszczê z powodu twoich grzechów. </v>
+<v n="14"> Bêdziesz jeœæ, ale siê nie nasycisz; twoje poni¿enie bêdzie w œrodku ciebie. Pochwycisz, ale nie ocalisz, a co ocalisz, wydam pod miecz. </v>
+<v n="15"> Bêdziesz sia³, ale nie bêdziesz ¿¹³; bêdziesz t³oczy³ oliwki, ale nie namaœcisz siê oliw¹; bêdziesz wyciska³ moszcz, ale nie napijesz siê wina. </v>
+<v n="16"> Przestrzegacie bowiem ustaw Omriego i wszystkich czynów domu Achaba i postêpujecie wed³ug ich rad. Dlatego ciê wydam na spustoszenie i jego mieszkañców na poœmiewisko. Bêdziecie wiêc nosiæ hañbê mego ludu. </v>
+</c>

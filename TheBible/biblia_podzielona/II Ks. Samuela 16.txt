@@ -1,0 +1,24 @@
+<v n="1"> A gdy Dawid zszed³ trochê ze szczytu góry, oto Siba, s³uga Mefiboszeta, zaszed³ mu drogê z par¹ osiod³anych os³ów, na których by³o dwieœcie chlebów, sto pêczków rodzynek, sto œwie¿ych owoców i buk³ak wina. </v>
+<v n="2"> Wtedy król zapyta³ Sibê: Po co to? Siba odpowiedzia³: Os³y s¹ dla rodziny króla, by na nich jeŸdzi³a, chleb i owoc na posi³ek dla s³ug, a wino jest do picia dla znu¿onych na pustyni. </v>
+<v n="3"> Zapyta³ król: A gdzie jest syn twego pana? Siba odpowiedzia³ królowi: Zosta³ w Jerozolimie. Powiedzia³ bowiem: Dziœ dom Izraela przywróci mi królestwo mojego ojca. </v>
+<v n="4"> Wtedy król powiedzia³ do Siby: Oto twoje jest wszystko, co nale¿a³o do Mefiboszeta. Siba pok³oni³ siê i odpowiedzia³: Obym znalaz³ ³askê w twoich oczach, mój panie, królu. </v>
+<v n="5"> Kiedy król Dawid przyby³ do Bachurim, oto wyszed³ stamt¹d cz³owiek z rodziny domu Saula imieniem Szimei, syn Gery. Ten wyszed³, a gdy szed³, przeklina³. </v>
+<v n="6"> I rzuca³ kamieniami w Dawida i wszystkie s³ugi króla Dawida, chocia¿ ca³y lud i wszyscy wojownicy szli po jego prawej i lewej stronie. </v>
+<v n="7"> I tak mówi³ Szimei, przeklinaj¹c: WyjdŸ, wyjdŸ, krwawy cz³owieku, cz³owieku Beliala. </v>
+<v n="8"> PAN sprowadzi³ na ciebie ca³¹ krew domu Saula, w miejsce którego zosta³eœ królem, i odda³ PAN królestwo w rêce Absaloma, twego syna. A oto twoje z³o spotka³o ciebie, bo jesteœ krwawym cz³owiekiem. </v>
+<v n="9"> Wtedy Abiszaj, syn Serui, powiedzia³ do króla: Czemu ten zdech³y pies przeklina mojego pana, króla? Pozwól, ¿e pójdê i utnê mu g³owê. </v>
+<v n="10"> Ale król odpowiedzia³: Co ja mam z wami, synowie Serui? Niech przeklina, gdy¿ PAN mu kaza³: Przeklinaj Dawida. Któ¿ wiêc mo¿e powiedzieæ: Czemu tak czynisz? </v>
+<v n="11"> Dawid powiedzia³ jeszcze do Abiszaja i do wszystkich swoich s³ug: Oto mój syn, który wyszed³ z mego wnêtrza, nastaje na moje ¿ycie. Có¿ dopiero ten Beniaminita? Zostawcie go, niech przeklina, bo PAN mu tak rozkaza³. </v>
+<v n="12"> Mo¿e PAN wejrzy na moje utrapienie i odp³aci mi dobrem za jego dzisiejsze przekleñstwo. </v>
+<v n="13"> Dawid i jego ludzie szli wiêc drog¹, Szimei zaœ szed³ zboczem góry obok niego, a id¹c, przeklina³, rzuca³ kamieniami w niego i miota³ prochem. </v>
+<v n="14"> I tak król i ca³y lud, który by³ z nim, przybyli znu¿eni i odpoczêli tam. </v>
+<v n="15"> Lecz Absalom i ca³y lud, mê¿czyŸni Izraela, przyszli do Jerozolimy, a Achitofel by³ z nim. </v>
+<v n="16"> A gdy Chuszaj Arkita, przyjaciel Dawida, przyszed³ do Absaloma, Chuszaj powiedzia³ do Absaloma: Niech ¿yje król, niech ¿yje król! </v>
+<v n="17"> Wtedy Absalom zapyta³ Chuszaja: Taka to jest twoja mi³oœæ do twego przyjaciela? Czemu nie poszed³eœ ze swoim przyjacielem? </v>
+<v n="18"> Chuszaj odpowiedzia³ Absalomowi: Nie! Lecz kogo wybierze PAN, ten lud i wszyscy mê¿czyŸni Izraela, do tego bêdê nale¿a³ i z nim pozostanê. </v>
+<v n="19"> Po drugie: Komu bêdê s³u¿y³? Czy nie jego synowi? Jak s³u¿y³em twemu ojcu, tak bêdê i tobie. </v>
+<v n="20"> Wtedy Absalom powiedzia³ do Achitofela: RadŸcie, co mam czyniæ. </v>
+<v n="21"> Achitofel odpowiedzia³ Absalomowi: WejdŸ do na³o¿nic swego ojca, które zostawi³, aby strzeg³y domu. A gdy ca³y Izrael us³yszy, ¿e zosta³eœ znienawidzony przez swego ojca, wtedy wzmocni¹ siê rêce wszystkich, którzy s¹ z tob¹. </v>
+<v n="22"> Rozbili wiêc dla Absaloma namiot na dachu. I Absalom wszed³ do na³o¿nic swego ojca na oczach ca³ego Izraela. </v>
+<v n="23"> A rada Achitofela, której udziela³ w tym czasie, by³a niczym rada od Boga. Taka by³a wszelka rada Achitofela, zarówno u Dawida, jak i u Absaloma. </v>
+</c>

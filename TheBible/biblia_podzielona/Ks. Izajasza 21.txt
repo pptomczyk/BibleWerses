@@ -1,0 +1,18 @@
+<v n="1"> Brzemiê pustynnego morza. Jak wicher na po³udnie nadci¹ga, tak przyjdzie z pustyni, ze strasznej ziemi. </v>
+<v n="2"> Srogie widzenie jest mi pokazane. Zdrajca zdradza, niszczyciel niszczy. Nadci¹gnij, Elamie! Oblegaj, Medio! Po³o¿ê kres wszelkiemu wzdychaniu. </v>
+<v n="3"> Dlatego moje biodra s¹ wype³nione bólem, ogarnê³y mnie skurcze jak skurcze rodz¹cej. Wstrz¹œniêty jestem tym, co s³yszê, przera¿ony tym, co widzê. </v>
+<v n="4"> Zlêk³o siê moje serce, strach mnie ogarn¹³. Noc moich rozkoszy zamieni³a siê w postrach. </v>
+<v n="5"> Przygotuj stó³, niech stra¿nik trzyma stra¿; jedz, pij. Wstañcie, ksi¹¿êta, namaszczajcie tarcze. </v>
+<v n="6"> Tak bowiem powiedzia³ mi Pan: IdŸ, postaw stra¿nika, niech mówi, co widzi. </v>
+<v n="7"> I zobaczy³ rydwan z dwoma jeŸdŸcami, który ci¹gnê³y os³y, i rydwan, który ci¹gnê³y wielb³¹dy; i przypatrywa³ siê im z wielk¹ uwag¹. </v>
+<v n="8"> Wtedy zawo³a³ jak lew: Panie mój! Stojê ci¹gle za dnia na wie¿y stra¿niczej; stojê na warcie ca³ymi nocami. </v>
+<v n="9"> A oto nadci¹gaj¹ mê¿czyŸni na rydwanie z dwoma jeŸdŸcami. I zawo³a³: Upad³, upad³ Babilon i wszystkie rzeŸbione pos¹gi jego bogów roztrzaskane zosta³y o ziemiê. </v>
+<v n="10"> O moi wym³óceni i zbo¿e mego klepiska! Co us³ysza³em od PANA zastêpów, Boga Izraela, to wam oznajmi³em. </v>
+<v n="11"> Brzemiê Dumy. Z Seiru ktoœ wo³a do mnie: Stra¿niku, co siê sta³o w nocy? Stra¿niku, co siê sta³o w nocy? </v>
+<v n="12"> Stra¿nik odpowiedzia³: Nadchodzi poranek, a tak¿e noc. Jeœli chcecie dopytywaæ, dopytujcie, nawróæcie siê, przyjdŸcie. </v>
+<v n="13"> Brzemiê na Arabiê. W lasach Arabii bêdziecie nocowaæ, wy, karawany Dedanitów. </v>
+<v n="14"> Niech mieszkañcy Tema wyjd¹ z wod¹ naprzeciw spragnionych, ze swoim chlebem niech wyjd¹ na spotkanie uciekaj¹cym. </v>
+<v n="15"> Bêd¹ bowiem uciekali przed mieczami, przed dobytym mieczem, przed napiêtym ³ukiem, przed ciê¿k¹ bitw¹. </v>
+<v n="16"> Gdy¿ tak Pan powiedzia³ do mnie: Za rok, liczony jak rok najemnika, ustanie ca³a chwa³a Kedaru. </v>
+<v n="17"> A reszta spoœród ³uczników, dzielni wojownicy spoœród synów Kedaru, bêdzie zmniejszona. Tak bowiem powiedzia³ PAN, Bóg Izraela. </v>
+</c>

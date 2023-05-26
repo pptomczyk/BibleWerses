@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi chóru. Pieœñ i psalm. Radoœnie wykrzykujcie Bogu, wszystkie ziemie; </v>
+<v n="2"> Wyœpiewujcie chwa³ê jego imienia, oddawajcie mu chwalebn¹ czeœæ. </v>
+<v n="3"> Powiedzcie Bogu: Jak straszliwe s¹ twe dzie³a! Z powodu twojej wielkiej mocy poddadz¹ siê twoi wrogowie. </v>
+<v n="4"> Ca³a ziemia odda ci pok³on i œpiewaæ ci bêdzie; œpiewaæ bêdzie twemu imieniu. Sela. </v>
+<v n="5"> ChodŸcie, zobaczcie dzie³a Bo¿e, straszliwe s¹ jego dzie³a poœród synów ludzkich. </v>
+<v n="6"> Zamieni³ morze w such¹ ziemiê, pieszo przeszli przez rzekê; tam siê nim weseliliœmy. </v>
+<v n="7"> Panuje w swej mocy na wieki, jego oczy patrz¹ na narody, buntownicy nie wywy¿sz¹ siê. Sela. </v>
+<v n="8"> B³ogos³awcie, narody, naszego Boga i rozg³aszajcie jego chwa³ê. </v>
+<v n="9"> Zachowa³ przy ¿yciu nasz¹ duszê i nie da³ siê zachwiaæ naszej nodze. </v>
+<v n="10"> Doœwiadczy³eœ nas bowiem, Bo¿e, wypróbowa³eœ nas ogniem, jak srebro jest oczyszczone. </v>
+<v n="11"> Zaprowadzi³eœ nas w sid³a, w³o¿y³eœ ucisk na nasze biodra. </v>
+<v n="12"> Pozwoli³eœ ludziom deptaæ nam po g³owach, przeszliœmy przez ogieñ i wodê, ale nas wyprowadzi³eœ na miejsce obfitoœci. </v>
+<v n="13"> Dlatego wejdê do twego domu z ca³opaleniem i wype³niê œluby; </v>
+<v n="14"> Które wyrazi³y moje wargi i wypowiedzia³y moje usta w utrapieniu. </v>
+<v n="15"> Bêdê ci sk³ada³ w ofierze ca³opalenia z t³ustych zwierz¹t wraz z wonnoœci¹ baranów, ofiarujê ci wo³y i koz³y. Sela. </v>
+<v n="16"> ChodŸcie, s³uchajcie, wszyscy, którzy siê boicie Boga, a opowiem, co uczyni³ dla mojej duszy. </v>
+<v n="17"> Do niego wo³a³em moimi ustami i wychwala³em go moim jêzykiem. </v>
+<v n="18"> Gdybym zwa¿a³ na nieprawoœæ w swoim sercu, Pan by mnie nie wys³ucha³. </v>
+<v n="19"> A jednak Bóg wys³ucha³, przychyli³ siê do g³osu mojej modlitwy. </v>
+<v n="20"> B³ogos³awiony Bóg, który nie odrzuci³ mojej modlitwy i nie odebra³ mi swego mi³osierdzia. </v>
+</c>

@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi chóru. Al taszchet. Miktam Dawida. O zgromadzenie, czy rzeczywiœcie mówicie to, co sprawiedliwe? Czy s³usznie s¹dzicie, synowie ludzcy? </v>
+<v n="2"> Przeciwnie, w sercu knujecie nieprawoœci, wymierzacie przemoc waszych r¹k na ziemi. </v>
+<v n="3"> Niegodziwi zeszli na bezdro¿a ju¿ od ³ona matki, od urodzenia b³¹dz¹, mówi¹c k³amstwo. </v>
+<v n="4"> Ich jad podobny do jadu wê¿a, s¹ jak g³ucha ¿mija, która zatyka uszy; </v>
+<v n="5"> Aby nie s³yszeæ g³osu zaklinaczy ani czarownika, co biegle zaklina. </v>
+<v n="6"> Bo¿e, skrusz zêby w ich ustach; PANIE, po³am zêby trzonowe lwi¹t. </v>
+<v n="7"> Niech znikn¹ jak sp³ywaj¹ca woda, niech bêd¹ jak ten, który naci¹ga ³uk, lecz jego strza³y siê ³ami¹. </v>
+<v n="8"> Niech przemin¹ jak œlimak, który siê rozp³ywa; jak poroniony p³ód kobiety niech nie zobacz¹ s³oñca. </v>
+<v n="9"> Zanim wasze ciernie wypuszcz¹ kolce, gdy jeszcze s¹ zielone, porwie je wicher gniewu Boga. </v>
+<v n="10"> Bêdzie siê weseli³ sprawiedliwy, gdy ujrzy pomstê; swoje stopy umyje we krwi niegodziwego. </v>
+<v n="11"> A ludzie powiedz¹: Jest, doprawdy, nagroda dla sprawiedliwego; doprawdy jest Bóg, który s¹dzi na ziemi. </v>
+</c>

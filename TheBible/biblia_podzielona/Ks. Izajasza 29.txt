@@ -1,0 +1,25 @@
+<v n="1"> Biada Arielu, Arielu, miasto, w którym mieszka³ Dawid. Dodawajcie rok do roku, niech zarzynaj¹ barany. </v>
+<v n="2"> Zeœlê jednak ucisk na Ariela i nastanie smutek i lament, i bêdzie mi jak Ariel. </v>
+<v n="3"> Rozbijê obóz przeciwko tobie doko³a, otoczê ciê wa³ami i wzniosê przeciwko tobie baszty. </v>
+<v n="4"> Wtedy poni¿ony bêdziesz mówi³ z ziemi, z prochu ledwie wyjdzie twoja mowa i twój g³os bêdzie mówi³ z ziemi jak g³os czarownika, a twoja mowa z prochu jak szept. </v>
+<v n="5"> Mnóstwo twoich wrogów bêdzie jak drobny py³, a zgraja okrutników jak rozwiane plewy. A stanie siê to nagle, w okamgnieniu. </v>
+<v n="6"> Zostaniesz nawiedzony od PANA zastêpów grzmotem, trzêsieniem ziemi i wielkim hukiem, wichur¹, burz¹ i p³omieniem trawi¹cego ognia. </v>
+<v n="7"> Jak sen nocnego widzenia bêdzie zgraja wszystkich narodów walcz¹cych przeciwko Arielowi i wszystkich, którzy walcz¹ przeciwko niemu i jego twierdzom, oraz tych, którzy go uciskaj¹. </v>
+<v n="8"> Bêdzie tak jak wtedy, gdy œni siê g³odnemu, ¿e je, ale gdy siê obudzi, ma pusty ¿o³¹dek; i jak wtedy, gdy œni siê spragnionemu, ¿e pije, a gdy siê obudzi, nadal jest s³aby i jego dusza jest spragniona. Tak bêdzie ze zgraj¹ wszystkich narodów walcz¹cych przeciwko górze Syjon. </v>
+<v n="9"> Zatrzymujcie siê i zdumiewajcie; rozkoszujcie, choæbyœcie mieli wo³aæ na pomoc. Upili siê, ale nie winem; zataczaj¹ siê, ale nie od mocnego napoju. </v>
+<v n="10"> PAN bowiem wyla³ na was ducha twardego snu i zamkn¹³ wasze oczy. Oczy waszych proroków i ksi¹¿¹t, widz¹cych, zas³oni³. </v>
+<v n="11"> Dlatego ca³e to widzenie sta³o siê dla was jak s³owa zapieczêtowanej ksiêgi, któr¹ podaje siê temu, kto umie czytaæ, mówi¹c: Przeczytaj to, proszê, na co odpowiada: Nie mogê, bo jest zapieczêtowana. </v>
+<v n="12"> A jeœli podaje siê ksiêgê temu, kto nie umie czytaæ, mówi¹c: Czytaj to, proszê, ten wtedy odpowiada: Nie umiem czytaæ. </v>
+<v n="13"> Mówi wiêc PAN: Poniewa¿ ten lud zbli¿a siê do mnie swymi ustami i czci mnie swymi wargami, a jego serce jest daleko ode mnie i jego bojaŸñ wobec mnie jest wyuczon¹ przez nakazy ludzi; </v>
+<v n="14"> Dlatego ja bêdê postêpowa³ przedziwnie z tym ludem, przedziwnie i cudownie; zginie m¹droœæ jego m¹drych, a rozum jego roztropnych siê skryje. </v>
+<v n="15"> Biada tym, którzy g³êboko przed PANEM ukrywaj¹ swój zamys³, których czyny s¹ pope³nione w ciemnoœci i mówi¹: Kto nas widzi? Kto o nas wie? </v>
+<v n="16"> Wasze przewrotne myœli s¹ jak glina garncarska. Czy¿ glina powie o tym, co j¹ uczyni³: Nie uczyni³ mnie? Czy¿ to, co ulepione, powie o tym, co je ulepi³: Nie mia³ rozumu? </v>
+<v n="17"> Czy¿ nie w bardzo krótkim czasie Liban obróci siê w pole, a pole bêdzie uwa¿ane za las? </v>
+<v n="18"> Tego dnia g³usi us³ysz¹ s³owa ksiêgi, a oczy œlepych przejrz¹ z mroku i ciemnoœci. </v>
+<v n="19"> Cisi jeszcze bardziej siê rozwesel¹ w PANU, a ubodzy spoœród ludzi rozraduj¹ siê w Œwiêtym Izraela. </v>
+<v n="20"> Gdy¿ nastanie kres dla okrutnika, zniszczeje szyderca i zostan¹ wytêpieni wszyscy, którzy czyhaj¹ na nieprawoœæ; </v>
+<v n="21"> Którzy obwiniaj¹ cz³owieka za s³owo, zastawiaj¹ sid³o na tego, który ich strofuje w bramie, i bez powodu doprowadzaj¹ sprawiedliwego do upadku. </v>
+<v n="22"> Dlatego tak mówi PAN, który odkupi³ Abrahama, o domu Jakuba: Jakub ju¿ wiêcej nie zazna wstydu ani jego twarz ju¿ nie zblednie. </v>
+<v n="23"> Gdy bowiem ujrzy poœród siebie swoich synów, dzie³o moich r¹k, poœwiêc¹ moje imiê, poœwiêc¹ Œwiêtego Jakuba, i bêd¹ siê baæ Boga Izraela. </v>
+<v n="24"> Ci, którzy b³¹dzili duchem, nabior¹ rozumu, ci, którzy szemrali, przyjm¹ naukê. </v>
+</c>

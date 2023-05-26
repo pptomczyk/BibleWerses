@@ -1,0 +1,23 @@
+<v n="1"> Psalm Dawida. Do ciebie, PANIE, wznoszê moj¹ duszê. </v>
+<v n="2"> Mój Bo¿e, tobie ufam, niech nie doznam wstydu; niech moi wrogowie nie tryumfuj¹ nade mn¹. </v>
+<v n="3"> Zaprawdê nikt, kto ciebie oczekuje, nie dozna wstydu; zawstydz¹ siê ci, którzy bez powodu pope³niaj¹ nieprawoœæ. </v>
+<v n="4"> PANIE, daj mi poznaæ twe drogi, naucz mnie twoich œcie¿ek. </v>
+<v n="5"> ProwadŸ mnie w twojej prawdzie i pouczaj mnie, bo ty jesteœ Bogiem mego zbawienia; ciebie co dzieñ oczekujê. </v>
+<v n="6"> Pamiêtaj o swoim mi³osierdziu, PANIE, i o twoich ³askach, które trwaj¹ od wieków. </v>
+<v n="7"> I nie wspominaj grzechów mojej m³odoœci i moich wystêpków; pamiêtaj o mnie wed³ug twego mi³osierdzia, ze wzglêdu na tw¹ dobroæ, PANIE. </v>
+<v n="8"> PAN jest dobry i prawy, dlatego grzeszników naucza drogi. </v>
+<v n="9"> Poprowadzi pokornych w sprawiedliwoœci, pokornych nauczy swojej drogi. </v>
+<v n="10"> Wszystkie œcie¿ki PANA to mi³osierdzie i prawda dla tych, którzy strzeg¹ jego przymierza i œwiadectwa. </v>
+<v n="11"> PANIE, przez wzgl¹d na twoje imiê przebacz moj¹ nieprawoœæ, bo jest wielka. </v>
+<v n="12"> Który to cz³owiek, co siê boi PANA? Nauczy go drogi, któr¹ ma wybraæ. </v>
+<v n="13"> Jego dusza bêdzie trwaæ w szczêœciu i jego potomstwo odziedziczy ziemiê. </v>
+<v n="14"> Tajemnica PANA jest objawiona tym, którzy siê go boj¹, oznajmi im swoje przymierze. </v>
+<v n="15"> Moje oczy nieustannie patrz¹ na PANA, bo on wyrwie z sid³a moje nogi. </v>
+<v n="16"> Zwróæ siê ku mnie i zmi³uj siê nade mn¹, bo jestem nêdzny i opuszczony. </v>
+<v n="17"> Utrapienia mego serca rozmno¿y³y siê, wyzwól mnie z moich udrêczeñ. </v>
+<v n="18"> Spójrz na moje utrapienie i trud i przebacz wszystkie moje grzechy. </v>
+<v n="19"> Popatrz, jak wielu jest moich wrogów i jak strasznie mnie nienawidz¹. </v>
+<v n="20"> Strze¿ mojej duszy i ocal mnie, abym nie dozna³ wstydu; w tobie bowiem pok³adam nadziejê. </v>
+<v n="21"> Niech mnie strzeg¹ uczciwoœæ i prawoœæ, bo ciebie oczekujê. </v>
+<v n="22"> Bo¿e, wybaw Izraela ze wszystkich jego udrêczeñ. </v>
+</c>

@@ -1,0 +1,11 @@
+<v n="1"> Rzucaj swój chleb na wody, bo po wielu dniach odnajdziesz go. </v>
+<v n="2"> Rozdaj dzia³ siedmiu lub oœmiu, bo nie wiesz, co z³ego wydarzy siê na ziemi. </v>
+<v n="3"> Gdy chmury nape³niaj¹ siê deszczem, spuszczaj¹ go na ziemiê. Gdy drzewo upada na po³udnie lub na pó³noc, w miejscu, gdzie upadnie to drzewo, tam zostanie. </v>
+<v n="4"> Kto zwa¿a na wiatr, nigdy nie bêdzie sia³, a kto patrzy na chmury, nie bêdzie ¿¹æ. </v>
+<v n="5"> Jak nie wiesz, jaka jest droga ducha, i jak siê kszta³tuj¹ koœci w ³onie brzemiennej, tak nie znasz spraw Boga, który wszystko czyni. </v>
+<v n="6"> Rano siej swoje ziarno, a wieczorem nie pozwól spocz¹æ swojej rêce, gdy¿ nie wiesz, co siê uda, czy to, czy tamto, czy te¿ oboje bêd¹ równie dobre. </v>
+<v n="7"> Doprawdy, œwiat³o jest s³odkie i mi³a to rzecz dla oczu widzieæ s³oñce. </v>
+<v n="8"> A choæby cz³owiek ¿y³ przez wiele lat i radowa³ siê nimi wszystkimi, to niech pamiêta o dniach ciemnoœci, bo bêdzie ich wiele. Wszystko, co nast¹pi, to tylko marnoœæ. </v>
+<v n="9"> Dlatego raduj siê, m³odzieñcze, w swojej m³odoœci, niech twoje serce cieszy ciê za dni twojej m³odoœci i krocz drogami swego serca oraz wed³ug zdania swoich oczu, ale wiedz, ¿e za to wszystko Bóg przyprowadzi ciê na s¹d. </v>
+<v n="10"> Usuñ wiêc gniew ze swojego serca i odrzuæ z³o od swego cia³a, gdy¿ dzieciñstwo i m³odoœæ s¹ marnoœci¹. </v>
+</c>

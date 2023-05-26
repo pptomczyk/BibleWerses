@@ -1,0 +1,24 @@
+<v n="1"> I przemówi³ PAN do Moj¿esza na pustyni Synaj, w pierwszym miesi¹cu drugiego roku po ich wyjœciu z ziemi Egiptu, tymi s³owy: </v>
+<v n="2"> Niech synowie Izraela obchodz¹ Paschê w wyznaczonym czasie. </v>
+<v n="3"> Bêdziecie j¹ obchodziæ w wyznaczonym czasie, czternastego dnia tego miesi¹ca pod wieczór; macie j¹ obchodziæ wed³ug wszystkich jej obrzêdów i wszystkich jej ceremonii. </v>
+<v n="4"> Moj¿esz nakaza³ wiêc synom Izraela, aby obchodzili Paschê. </v>
+<v n="5"> I obchodzili Paschê w pierwszym miesi¹cu, czternastego dnia, pod wieczór, na pustyni Synaj. Zgodnie ze wszystkim, co PAN nakaza³ Moj¿eszowi, tak synowie Izraela uczynili. </v>
+<v n="6"> Byli jednak pewni ludzie, którzy zanieczyœcili siê przy zw³okach ludzkich, i nie mogli obchodziæ Paschy tego dnia. Przyszli wiêc w tym dniu do Moj¿esza i Aarona; </v>
+<v n="7"> I powiedzieli do niego: Zanieczyœciliœmy siê przy zw³okach ludzkich. Czemu nie bêdzie nam wolno z³o¿yæ PANU ofiar w wyznaczonym czasie wspólnie z synami Izraela? </v>
+<v n="8"> Moj¿esz odpowiedzia³ im: Stójcie, a ja pos³ucham, co PAN rozka¿e o was. </v>
+<v n="9"> Wtedy PAN powiedzia³ do Moj¿esza: </v>
+<v n="10"> Powiedz synom Izraela tak: Jeœli kto z was lub z waszych potomków zanieczyœci siê przy zmar³ym albo te¿ bêdzie w dalekiej podró¿y, mimo to bêdzie obchodzi³ Paschê dla PANA. </v>
+<v n="11"> Bêd¹ j¹ obchodziæ w drugim miesi¹cu, czternastego dnia, pod wieczór, i bêd¹ j¹ jeœæ z przaœnymi chlebami i z gorzkimi zio³ami. </v>
+<v n="12"> Nie pozostawi¹ z niej nic do rana ani nie po³ami¹ jej koœci. Zgodnie ze wszystkimi przepisami Paschy bêd¹ j¹ obchodziæ. </v>
+<v n="13"> Lecz cz³owiek, który jest czysty, a nie znajduje siê w drodze, i nie bêdzie obchodzi³ Paschy, to ta dusza bêdzie wykluczona ze swego ludu, bo ofiary PANA nie z³o¿y³a w wyznaczonym czasie. Ten cz³owiek obci¹¿a siê grzechem. </v>
+<v n="14"> A jeœli przybysz, który mieszka poœród was, bêdzie obchodzi³ Paschê dla PANA, to ma j¹ obchodziæ wed³ug ustawy i zwyczajów Paschy. Bêdzie jedna ustawa dla was, zarówno dla przybysza, jak i dla rodowitego mieszkañca ziemi. </v>
+<v n="15"> W dniu, w którym wystawiono przybytek, ob³ok okry³ przybytek, czyli Namiot Œwiadectwa, a wieczorem by³ nad przybytkiem i przypomina³ z wygl¹du ogieñ, a¿ do rana. </v>
+<v n="16"> Tak by³o stale: ob³ok okrywa³ go w dzieñ, a w nocy jakby ogieñ. </v>
+<v n="17"> A gdy ob³ok unosi³ siê znad namiotu, wtedy synowie Izraela wyruszali, a gdziekolwiek ob³ok zatrzyma³ siê, tam synowie Izraela rozbijali obóz. </v>
+<v n="18"> Na rozkaz PANA synowie Izraela wyruszali i na rozkaz PANA rozbijali obóz. Przez wszystkie dni, w których ob³ok pozostawa³ nad przybytkiem, stali obozem. </v>
+<v n="19"> A kiedy ob³ok pozostawa³ nad przybytkiem przez wiele dni, wtedy synowie Izraela przestrzegali rozkazu PANA i nie wyruszali. </v>
+<v n="20"> Lecz gdy ob³ok pozostawa³ nad przybytkiem przez kilka dni, na rozkaz PANA stawali obozem i na rozkaz PANA wyruszali. </v>
+<v n="21"> A gdy ob³ok pozostawa³ od wieczora do rana i unosi³ siê rano, wówczas wyruszali. Czy ob³ok unosi³ siê za dnia, czy w nocy, oni wyruszali. </v>
+<v n="22"> A jeœli ob³ok trwa³ i pozostawa³ nad przybytkiem przez dwa dni albo przez miesi¹c b¹dŸ te¿ przez rok, synowie Izraela stali obozem i nie wyruszali, lecz gdy siê unosi³, wyruszali. </v>
+<v n="23"> Na rozkaz PANA stawali obozem i na rozkaz PANA wyruszali. Przestrzegali nakazu PANA, tak jak PAN rozkaza³ przez Moj¿esza. </v>
+</c>

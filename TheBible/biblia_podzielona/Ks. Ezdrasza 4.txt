@@ -1,0 +1,25 @@
+<v n="1"> A gdy wrogowie Judy i Beniamina us³yszeli, ¿e lud, który powróci³ z niewoli, budowa³ œwi¹tyniê PANU, Bogu Izraela; </v>
+<v n="2"> Wówczas przybyli do Zorobabela i naczelników rodów i powiedzieli im: Bêdziemy budowaæ z wami, gdy¿ szukamy waszego Boga tak jak wy i sk³adamy mu ofiary od czasów Asarchaddona, króla Asyrii, który nas tu przyprowadzi³. </v>
+<v n="3"> Ale Zorobabel, Jeszua i pozostali naczelnicy rodów z Izraela odpowiedzieli im: Nie wolno wam razem z nami budowaæ domu naszemu Bogu, ale my sami bêdziemy budowaæ PANU, Bogu Izraela, jak nam rozkaza³ Cyrus, król Persji. </v>
+<v n="4"> Wtedy lud tej ziemi zacz¹³ zniechêcaæ lud Judy i przeszkadza³ im w budowie. </v>
+<v n="5"> Ponadto przekupywa³ przeciwko nim radców, aby udaremniæ ich zamiar po wszystkie dni Cyrusa, króla Persji, a¿ do panowania Dariusza, króla Persji. </v>
+<v n="6"> Za panowania Aswerusa, na pocz¹tku jego panowania, napisali skargê przeciwko obywatelom Judy i Jerozolimy; </v>
+<v n="7"> A za czasów Artakserksesa Biszlam, Mitredat, Tabeel wraz z pozosta³ymi towarzyszami napisali do Artakserksesa, króla Persji. List by³ sporz¹dzony pismem syryjskim i przet³umaczony na jêzyk syryjski. </v>
+<v n="8"> Kanclerz Rechum i pisarz Szimszaj napisali do króla Artakserksesa list przeciwko Jerozolimie nastêpuj¹cej treœci: </v>
+<v n="9"> Kanclerz Rechum, pisarz Szimszaj i pozostali ich towarzysze: Dynajczycy, Afarsadchajczycy, Tarpelajczycy, Afarsajczycy, Arkewijczycy, Babiloñczycy, Susanchici, Dehawici i Elamici; </v>
+<v n="10"> I reszta narodów, które wielki i s³awny Asnappar przyprowadzi³ i osiedli³ w miastach Samarii, oraz pozostali, którzy s¹ za rzek¹ – otó¿; </v>
+<v n="11"> To jest odpis listu, który pos³ali do króla Artakserksesa – Twoi s³udzy, ludzie mieszkaj¹cy za rzek¹ – otó¿: </v>
+<v n="12"> Niech królowi bêdzie wiadomo, ¿e ¯ydzi, którzy wyszli od ciebie, przybyli do nas, do Jerozolimy, i odbudowuj¹ to buntownicze i niegodziwe miasto, ju¿ wznosili mury i po³o¿yli fundamenty. </v>
+<v n="13"> Niech wiêc bêdzie królowi wiadomo, ¿e jeœli to miasto zostanie odbudowane i jego mury bêd¹ wzniesione, wtedy podatku, danin ani c³a oni nie bêd¹ p³aciæ, a to przyniesie szkodê dochodom króla. </v>
+<v n="14"> Teraz wiêc, poniewa¿ jesteœmy na utrzymaniu twego pa³acu i nie przystoi nam patrzeæ na zniewagê króla, posy³amy królowi tê wiadomoœæ; </v>
+<v n="15"> Aby poszukano w ksiêdze kronik twoich ojców, a znajdziesz w niej i dowiesz siê, ¿e to miasto jest miastem buntowniczym i przynosi szkodê królom i prowincjom i ¿e od dawien dawna wzniecano w nim bunty. Z tego powodu to miasto zosta³o zburzone. </v>
+<v n="16"> Zawiadamiamy króla, ¿e jeœli to miasto zostanie odbudowane i jego mury bêd¹ wzniesione, wtedy ju¿ nie bêdziesz mia³ udzia³u za rzek¹. </v>
+<v n="17"> Wtedy król wys³a³ tak¹ odpowiedŸ: Kanclerzowi Rechumowi, pisarzowi Szimszajowi i pozosta³ym ich towarzyszom, którzy mieszkaj¹ w Samarii, a tak¿e i pozosta³ym za rzek¹: Pokój! Otó¿: </v>
+<v n="18"> List, który do nas przys³aliœcie, zosta³ przede mn¹ dok³adnie odczytany. </v>
+<v n="19"> Dlatego rozkaza³em, aby poszukano. I znaleziono, ¿e to miasto od dawna powstawa³o przeciwko królom, a bunt i rozruchy by³y w nim wzniecane; </v>
+<v n="20"> Ponadto potê¿ni królowie panowali nad Jerozolim¹ i rz¹dzili nad wszystkimi za rzek¹, i p³acono im podatek, daninê i c³o. </v>
+<v n="21"> Wydajcie wiêc wyrok, aby powstrzymaæ tych mê¿czyzn, ¿eby to miasto nie zosta³o odbudowane, dopóki inny rozkaz nie bêdzie przeze mnie wydany. </v>
+<v n="22"> Pilnujcie, abyœcie nie zaniedbali tego. Dlaczego mia³oby to wzrastaæ na szkodê królów? </v>
+<v n="23"> Gdy wiêc odpis listu króla Artakserksesa zosta³ odczytany przed Rechumem, pisarzem Szimszajem i ich towarzyszami, udali siê spiesznie do ¯ydów w Jerozolimie i si³¹ i moc¹ wstrzymali budowê. </v>
+<v n="24"> W ten sposób usta³a praca przy domu Bo¿ym, który by³ w Jerozolimie. I zosta³a wstrzymana a¿ do drugiego roku panowania Dariusza, króla Persji. </v>
+</c>

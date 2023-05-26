@@ -1,0 +1,23 @@
+<v n="1"> Psalm Dawida. B³ogos³aw, moja duszo, PANA, i ca³e moje wnêtrze – jego œwiête imiê. </v>
+<v n="2"> B³ogos³aw, moja duszo, PANA, i nie zapominaj o wszystkich jego dobrodziejstwach. </v>
+<v n="3"> On przebacza wszystkie twoje nieprawoœci, on uzdrawia wszystkie twoje choroby; </v>
+<v n="4"> On wybawia twoje ¿ycie od zguby, on ciê koronuje mi³osierdziem i wielk¹ litoœci¹. </v>
+<v n="5"> On nasyca dobrem twoje usta i odnawia twoj¹ m³odoœæ jak u or³a. </v>
+<v n="6"> PAN wymierza sprawiedliwoœæ i s¹d wszystkim uciœnionym. </v>
+<v n="7"> Da³ poznaæ swe drogi Moj¿eszowi, a synom Izraela swoje dzie³a. </v>
+<v n="8"> £askawy i litoœciwy jest PAN, nieskory do gniewu i pe³en wielkiego mi³osierdzia. </v>
+<v n="9"> Nie bêdzie siê spiera³ bez koñca ani wiecznie gniewu chowa³. </v>
+<v n="10"> Nie postêpuje z nami wed³ug naszych grzechów ani nie odp³aca nam wed³ug naszych nieprawoœci. </v>
+<v n="11"> Jak wysoko bowiem s¹ niebiosa nad ziemi¹, tak wielkie jest jego mi³osierdzie nad tymi, którzy siê go boj¹. </v>
+<v n="12"> Jak daleko jest wschód od zachodu, tak daleko oddali³ od nas nasze wystêpki. </v>
+<v n="13"> Jak ojciec ma litoœæ nad dzieæmi, tak PAN ma litoœæ nad tymi, którzy siê go boj¹. </v>
+<v n="14"> On bowiem wie, z czego jesteœmy ulepieni; pamiêta, ¿e jesteœmy prochem. </v>
+<v n="15"> Dni cz³owieka s¹ jak trawa, kwitnie jak kwiat polny. </v>
+<v n="16"> Wiatr na niego powieje, a ju¿ go nie ma i nie pozna go ju¿ jego miejsce. </v>
+<v n="17"> Ale mi³osierdzie PANA od wieków na wieki nad tymi, którzy siê go boj¹, a jego sprawiedliwoœæ nad synami synów; </v>
+<v n="18"> Nad tymi, którzy strzeg¹ jego przymierza i pamiêtaj¹, aby wype³niæ jego przykazania. </v>
+<v n="19"> PAN na niebiosach ustanowi³ swój tron, a jego królestwo panuje nad wszystkimi. </v>
+<v n="20"> B³ogos³awcie PANA, jego anio³owie, potê¿ni si³¹, którzy wype³niacie jego rozkazy, bêd¹c pos³uszni g³osowi jego s³owa. </v>
+<v n="21"> B³ogos³awcie PANA, wszystkie jego zastêpy, jego s³udzy, którzy spe³niacie jego wolê. </v>
+<v n="22"> B³ogos³awcie PANA, wszystkie jego dzie³a, we wszystkich miejscach jego panowania. B³ogos³aw, moja duszo, PANA. </v>
+</c>

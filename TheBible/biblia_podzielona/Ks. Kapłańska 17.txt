@@ -1,0 +1,17 @@
+<v n="1"> Wtedy PAN powiedzia³ do Moj¿esza: </v>
+<v n="2"> Mów do Aarona i do jego synów, i do wszystkich synów Izraela i powiedz im: Oto co PAN nakaza³: </v>
+<v n="3"> Ktokolwiek z domu Izraela zabije wo³u, owcê albo kozê w obozie lub zabije je poza obozem; </v>
+<v n="4"> A nie przyprowadzi tego przed wejœcie do Namiotu Zgromadzenia, aby z³o¿yæ w ofierze PANU przed przybytkiem PANA, to bêdzie on winien krwi, bo przela³ krew. Ten cz³owiek zostanie wykluczony spoœród swego ludu. </v>
+<v n="5"> Ma tak byæ, aby synowie Izraela przyprowadzili swoje ofiary, które dotychczas zabijali na polu, by przyprowadzili je do PANA przed wejœcie do Namiotu Zgromadzenia, do kap³ana, i z³o¿yli je jako ofiary pojednawcze PANU. </v>
+<v n="6"> Kap³an pokropi krwi¹ o³tarz PANA u wejœcia do Namiotu Zgromadzenia, a t³uszcz spali jako mi³¹ woñ dla PANA. </v>
+<v n="7"> I nie bêd¹ ju¿ wiêcej sk³adaæ swoich ofiar demonom, z którymi uprawiali nierz¹d. To bêdzie dla nich wieczna ustawa przez wszystkie ich pokolenia. </v>
+<v n="8"> Powiedz im jeszcze: Jeœli ktokolwiek z domu Izraela albo z przybyszów mieszkaj¹cych wœród was bêdzie sk³ada³ ca³opalenie lub inn¹ ofiarê; </v>
+<v n="9"> A nie przyprowadzi jej przed wejœcie do Namiotu Zgromadzenia, aby j¹ z³o¿yæ PANU, to cz³owiek ten bêdzie wykluczony ze swego ludu. </v>
+<v n="10"> A gdyby ktokolwiek z domu Izraela lub z przybyszów, którzy goszcz¹ wœród was, spo¿ywa³ jak¹kolwiek krew, to zwrócê swoje oblicze przeciw cz³owiekowi, który spo¿ywa krew, i wykluczê go spoœród jego ludu. </v>
+<v n="11"> ¯ycie wszelkiego cia³a bowiem jest we krwi. Ja da³em j¹ wam na o³tarz dla dokonywania przeb³agania za wasze dusze, gdy¿ to krew dokonuje przeb³agania za duszê. </v>
+<v n="12"> Dlatego powiedzia³em synom Izraela: ¯adna dusza wœród was nie bêdzie spo¿ywa³a krwi ani ¿aden przybysz, który goœci wœród was, nie bêdzie spo¿ywa³ krwi. </v>
+<v n="13"> I ktokolwiek z synów Izraela lub z przybyszów, którzy goszcz¹ wœród was, upoluje jakieœ zwierzê lub ptaka, które wolno jeœæ, to wypuœci jego krew i przykryje j¹ piaskiem. </v>
+<v n="14"> Gdy¿ to jest ¿ycie wszelkiego cia³a, krew stanowi jego ¿ycie. Dlatego powiedzia³em synom Izraela: Krwi wszelkiego cia³a spo¿ywaæ nie bêdziecie, bo ¿yciem wszelkiego cia³a jest jego krew. Ktokolwiek j¹ spo¿ywa, zostanie wytracony. </v>
+<v n="15"> Ka¿da dusza, która spo¿ywa zwierzê pad³e lub rozszarpane, czy to rodowity mieszkaniec, czy przybysz, wypierze swoje szaty i obmyje siê w wodzie, i bêdzie nieczysta a¿ do wieczora. Potem bêdzie czysta. </v>
+<v n="16"> Ale jeœli nie wypierze swoich szat ani nie obmyje swego cia³a, obci¹¿y siê nieprawoœci¹. </v>
+</c>

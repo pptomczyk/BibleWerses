@@ -1,0 +1,17 @@
+<v n="1"> Mój oddech jest ska¿ony, moje dni gasn¹, groby na mnie czekaj¹. </v>
+<v n="2"> Czy nie szydercy s¹ przy mnie? Czy moje oko nie czuwa przez ich zniewagi? </v>
+<v n="3"> Z³ó¿ wiêc zastaw za mnie u siebie. Któ¿ jest ten, który za mnie porêczy? </v>
+<v n="4"> Ich serce bowiem ukry³eœ przed zrozumieniem, dlatego ich nie wywy¿szysz. </v>
+<v n="5"> Kto pochlebia przyjacio³om, tego dzieciom zgasn¹ oczy. </v>
+<v n="6"> Uczyni³ mnie tematem przys³owia wœród ludzi i poœmiewiskiem przed nimi. </v>
+<v n="7"> Moje oko zaæmi³o siê od smutku, a wszystkie moje cz³onki s¹ jak cieñ. </v>
+<v n="8"> Prawi zdumiej¹ siê nad tym, a niewinny powstanie przeciwko ob³udnikowi. </v>
+<v n="9"> Sprawiedliwy bêdzie trwa³ przy swojej drodze, a kto ma czyste rêce, nabierze si³y. </v>
+<v n="10"> Lecz wy wszyscy zawróæcie i przyjdŸcie; bo m¹drego wœród was nie znajdujê. </v>
+<v n="11"> Moje dni przeminê³y, rozwia³y siê moje zamiary, myœli mego serca. </v>
+<v n="12"> Noc zamieniaj¹ w dzieñ, œwiat³oœæ skraca siê z powodu ciemnoœci. </v>
+<v n="13"> Gdybym czegoœ oczekiwa³, grób bêdzie moim domem, w ciemnoœci roz³o¿y³em swoje pos³anie. </v>
+<v n="14"> Powiedzia³em do zniszczenia: Jesteœ moim ojcem, a robactwu: Moja matko i moja siostro. </v>
+<v n="15"> Gdzie jest wiêc teraz moja nadzieja? Kto zobaczy moj¹ nadziejê? </v>
+<v n="16"> Zst¹pi¹ do zasuw grobu, gdy razem odpoczniemy w prochu. </v>
+</c>

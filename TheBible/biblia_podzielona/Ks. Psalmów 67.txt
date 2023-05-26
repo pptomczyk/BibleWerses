@@ -1,0 +1,8 @@
+<v n="1"> Przewodnikowi chóru, na Neginot. Psalm i pieœñ. Niech Bóg siê zmi³uje nad nami i b³ogos³awi nam, niech rozjaœni nad nami swoje oblicze. Sela. </v>
+<v n="2"> Aby poznano na ziemi twoj¹ drogê, wœród wszystkich narodów twoje zbawienie. </v>
+<v n="3"> Niech ciê wys³awiaj¹ ludy, o Bo¿e, niech ciê wys³awiaj¹ wszystkie ludy. </v>
+<v n="4"> Niech narody siê raduj¹ i wykrzykuj¹, bo ty bêdziesz s¹dzi³ ludy sprawiedliwie i rz¹dziæ bêdziesz narodami na ziemi. Sela. </v>
+<v n="5"> Niech ciê wys³awiaj¹ ludy, o Bo¿e, niech ciê wys³awiaj¹ wszystkie ludy. </v>
+<v n="6"> Wtedy ziemia wyda swój plon i Bóg, nasz Bóg, bêdzie nam b³ogos³awiæ. </v>
+<v n="7"> Niech nam Bóg b³ogos³awi i niech siê go boj¹ wszystkie krañce ziemi. </v>
+</c>

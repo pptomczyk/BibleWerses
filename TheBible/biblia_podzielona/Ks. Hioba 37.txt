@@ -1,0 +1,25 @@
+<v n="1"> I dr¿y z tego powodu moje serce, i wyrywa siê ze swego miejsca. </v>
+<v n="2"> S³uchajcie uwa¿nie grzmotu jego g³osu i dŸwiêku, który wychodzi z jego ust. </v>
+<v n="3"> Pod ca³ym niebem go wypuszcza, a jego b³yskawicê – na krañce ziemi. </v>
+<v n="4"> Po niej huczy grzmot, grzmi g³osem swojego majestatu, i nie powstrzymuje ich, gdy s³ychaæ jego g³os. </v>
+<v n="5"> Bóg cudownie grzmi swoim g³osem, czyni wielkie rzeczy, których nie mo¿emy zrozumieæ. </v>
+<v n="6"> Mówi bowiem do œniegu: Padaj na ziemiê, a tak¿e do deszczu i do ulewy jego potêgi. </v>
+<v n="7"> Pieczêtuje rêkê ka¿dego cz³owieka, aby wszyscy ludzie poznali jego dzie³o. </v>
+<v n="8"> Wtedy zwierzêta wchodz¹ do jaskini i zostaj¹ w swoich jamach. </v>
+<v n="9"> Od po³udnia przychodzi wicher, a zima od wiatrów pó³nocnych. </v>
+<v n="10"> Swoim tchnieniem Bóg czyni lód i œcinaj¹ siê szerokie wody. </v>
+<v n="11"> Tak¿e wilgoci¹ ziemi obci¹¿a ob³ok, rozpêdza chmurê swoim œwiat³em. </v>
+<v n="12"> One kr¹¿¹ wed³ug jego rady, aby czyni³y wszystko, co rozkazuje na powierzchni okrêgu ziemi. </v>
+<v n="13"> A on sprawia, ¿e siê pojawiaj¹ – czy to dla karania, czy dla swojej ziemi, czy dla okazywania mi³osierdzia. </v>
+<v n="14"> S³uchaj tego uwa¿nie, Hiobie; zastanów siê i rozwa¿ cudowne dzie³a Boga. </v>
+<v n="15"> Czy wiesz, kiedy i co postanawia Bóg o tych sprawach albo kiedy rozjaœnia œwiat³o swej chmury? </v>
+<v n="16"> Czy wiesz, jak wisz¹ chmury – cuda tego, który jest doskona³y we wszelkiej wiedzy? </v>
+<v n="17"> Czy wiesz, jak twoje szaty siê rozgrzewaj¹, gdy on uspokaja ziemiê wiatrem po³udniowym? </v>
+<v n="18"> Czy rozpoœciera³eœ z nim niebiosa, które s¹ trwa³e i podobne do zwierciad³a odlanego? </v>
+<v n="19"> Poucz nas, co mamy mu powiedzieæ, bo nie mo¿emy u³o¿yæ s³ów z powodu ciemnoœci. </v>
+<v n="20"> Czy nale¿y go powiadomiæ, ¿e przemawiam? Przecie¿ jeœli ktoœ przemówi, zostanie na pewno po¿arty. </v>
+<v n="21"> Teraz jednak ludzie nie mog¹ patrzyæ na œwiat³o, gdy jaœnieje w chmurach, gdy wiatr przechodzi i rozprasza je. </v>
+<v n="22"> Od pó³nocy przychodzi jakby z³oty blask, ale w Bogu jest straszliwy majestat. </v>
+<v n="23"> On jest Wszechmocny, nie mo¿emy go doœcign¹æ. On jest wielki w potêdze i s¹dzie i bogaty w sprawiedliwoœæ. Nie uciska nikogo. </v>
+<v n="24"> Dlatego boj¹ siê go ludzie. On nie ma wzglêdu na ¿adnego, który jest m¹dry w sercu. </v>
+</c>

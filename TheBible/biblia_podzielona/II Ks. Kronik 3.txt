@@ -1,0 +1,18 @@
+<v n="1"> Wtedy Salomon zacz¹³ budowaæ dom PANA w Jerozolimie na górze Moria, która zosta³a wskazana Dawidowi, jego ojcu, na miejscu, które Dawid przygotowa³ na klepisku Ornana Jebusyty. </v>
+<v n="2"> A zacz¹³ go budowaæ w drugim miesi¹cu, drugiego dnia, w czwartym roku swojego panowania. </v>
+<v n="3"> Takie s¹ wymiary, wed³ug których Salomon zbudowa³ dom Bo¿y: d³ugoœæ – szeœædziesi¹t ³okci, w ³okciach wed³ug miary dawnej, szerokoœæ – dwadzieœcia ³okci. </v>
+<v n="4"> Przedsionek zaœ, który by³ przed domem i odpowiada³ jego szerokoœci, mia³ dwadzieœcia ³okci d³ugoœci i sto dwadzieœcia ³okci wysokoœci. Wewn¹trz pokry³ go szczerym z³otem. </v>
+<v n="5"> A wnêtrze wielkiego domu wy³o¿y³ drzewem cyprysowym i pokry³ czystym z³otem, a na wierzchu przyozdobi³ je palmami i ³añcuchami. </v>
+<v n="6"> Pokry³ te¿ dom drogocennymi kamieniami dla ozdoby, a z³oto by³o z³otem z Parwaim. </v>
+<v n="7"> Ponadto z³otem pokry³ dom, belki, odrzwia, jego œciany i jego drzwi, a na œcianach wyrzeŸbi³ cherubiny. </v>
+<v n="8"> Zbudowa³ te¿ dom najœwiêtszy, którego d³ugoœæ odpowiada³a szerokoœæ domu – dwadzieœcia ³okci, a jego szerokoœæ – dwadzieœcia ³okci; i pokry³ go czystym z³otem o wadze szeœciuset talentów. </v>
+<v n="9"> GwoŸdzie wa¿y³y piêædziesi¹t syklów z³ota. Górne sale tak¿e pokry³ z³otem. </v>
+<v n="10"> Wykona³ te¿ w domu najœwiêtszym dwa cherubiny misternie rzeŸbione i pokry³ je z³otem. </v>
+<v n="11"> A skrzyd³a cherubinów by³y d³ugie na dwadzieœcia ³okci. Skrzyd³o jednego, na piêæ ³okci, siêga³o œciany domu, a drugie skrzyd³o, tak¿e na piêæ ³okci, siêga³o skrzyd³a drugiego cherubina. </v>
+<v n="12"> Tak¿e skrzyd³o drugiego cherubina, na piêæ ³okci, siêga³o œciany domu, a drugie skrzyd³o, na piêæ ³okci, siêga³o skrzyd³a drugiego cherubina. </v>
+<v n="13"> W ten sposób skrzyd³a tych cherubinów rozci¹ga³y siê na dwadzieœcia ³okci. Sta³y one na swoich nogach, a ich twarze by³y zwrócone ku domowi. </v>
+<v n="14"> Wykona³ te¿ zas³onê z b³êkitu, purpury, karmazynu i bisioru oraz wyhaftowa³ na niej cherubiny. </v>
+<v n="15"> Uczyni³ te¿ przed domem dwie kolumny wysokie na trzydzieœci piêæ ³okci, a g³owice, które by³y na ich wierzchach mia³y po piêæ ³okci. </v>
+<v n="16"> Zrobi³ te¿ ³añcuszki, jak w Miejscu Najœwiêtszym, a umieœci³ je na wierzcho³kach tych kolumn, wykona³ te¿ sto jab³ek granatu, które zawiesi³ na tych ³añcuszkach. </v>
+<v n="17"> Wzniós³ te kolumny przed œwi¹tyni¹, jedn¹ po prawej, a drug¹ po lewej stronie; praw¹ nazwa³ Jakin, a lew¹ – Boaz. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> Wtedy Samuel przemówi³ do ca³ego Izraela: Pos³ucha³em waszego g³osu we wszystkim, o czym mi mówiliœcie, i ustanowi³em nad wami króla. </v>
+<v n="2"> A teraz król chodzi przed wami. Ja zaœ zestarza³em siê i osiwia³em. Oto moi synowie s¹ z wami, a ja chodzi³em przed wami od mojej m³odoœci a¿ do dziœ. </v>
+<v n="3"> Oto jestem tu. Œwiadczcie przeciwko mnie przed PANEM i przed jego pomazañcem: Czy komu zabra³em wo³u? Czy komu zabra³em os³a? Czy kogoœ oszuka³em? Czy kogoœ uciska³em? Czy z czyjejœ rêki przyj¹³em podarunek, aby na coœ przymkn¹æ oczy? Jeœli tak, oddam wam wszystko. </v>
+<v n="4"> I odpowiedzieli: Nie oszuka³eœ nas ani nie uciska³eœ nas, ani nie wzi¹³eœ ¿adnej rzeczy z niczyjej rêki. </v>
+<v n="5"> Wtedy powiedzia³ do nich: PAN jest œwiadkiem przeciwko wam, œwiadkiem jest te¿ dzisiaj pomazaniec, ¿e nic nie znaleŸliœcie w mojej rêce. A oni odpowiedzieli: On jest œwiadkiem. </v>
+<v n="6"> Samuel przemówi³ dalej do ludu: To PAN, który ustanowi³ Moj¿esza i Aarona i który wyprowadzi³ waszych ojców z ziemi Egiptu. </v>
+<v n="7"> Dlatego teraz stañcie, abym spiera³ siê z wami przed PANEM o wszystkie sprawiedliwe dzie³a PANA, które czyni³ wam i waszym ojcom. </v>
+<v n="8"> Gdy Jakub przyby³ do Egiptu, a wasi ojcowie wo³ali do PANA, pos³a³ PAN Moj¿esza i Aarona, którzy wyprowadzili waszych ojców z Egiptu i posadzili ich na tym miejscu. </v>
+<v n="9"> A gdy zapomnieli PANA, swego Boga, wyda³ ich w rêce Sisery, dowódcy wojska Chasoru, w rêce Filistynów i w rêce króla Moabu, a oni walczyli z nimi. </v>
+<v n="10"> Lecz gdy wo³ali do PANA, mówi¹c: Zgrzeszyliœmy, bo opuœciliœmy PANA i s³u¿yliœmy Baalom i Asztartom. Teraz jednak wybaw nas z r¹k naszych wrogów, a bêdziemy tobie s³u¿yli; </v>
+<v n="11"> Wtedy PAN pos³a³ Jerubbaala, Bedana, Jeftego i Samuela i wyrwa³ was z r¹k waszych wrogów, którzy was otaczali, i mieszkaliœcie bezpiecznie. </v>
+<v n="12"> A gdy widzieliœcie, ¿e Nachasz, król synów Ammona, nadci¹gn¹³ przeciwko wam, powiedzieliœcie do mnie: Nie tak, lecz król bêdzie panowa³ nad nami. Choæ PAN, wasz Bóg, by³ waszym królem. </v>
+<v n="13"> Teraz wiêc oto jest król, którego sobie wybraliœcie, którego ¿¹daliœcie. Oto PAN ustanowi³ nad wami króla. </v>
+<v n="14"> Jeœli bêdziecie siê bali PANA, jemu s³u¿yli, s³uchali jego g³osu i nie sprzeciwiali siê s³owu PANA, wtedy i wy, i król, który panuje nad wami, bêdziecie szczêœliwie chodziæ za PANEM, swoim Bogiem. </v>
+<v n="15"> Lecz jeœli nie bêdziecie s³uchaæ g³osu PANA, a sprzeciwicie siê s³owu PANA, to rêka PANA bêdzie przeciwko wam, tak jak by³a przeciwko waszym ojcom. </v>
+<v n="16"> Teraz stójcie wiêc i zobaczcie tê wielk¹ rzecz, któr¹ PAN uczyni na waszych oczach. </v>
+<v n="17"> Czy nie dziœ s¹ ¿niwa pszeniczne? Bêdê wzywa³ PANA, a on zeœle grzmoty i deszcz, abyœcie poznali i zobaczyli, jak wielka jest wasza niegodziwoœæ, której siê dopuœciliœcie w oczach PANA, ¿¹daj¹c dla siebie króla. </v>
+<v n="18"> Samuel wo³a³ wiêc do PANA, a PAN zes³a³ grzmoty i deszcz tego samego dnia. I ca³y lud bardzo ba³ siê PANA i Samuela. </v>
+<v n="19"> Wtedy ca³y lud powiedzia³ do Samuela: Módl siê za swoimi s³ugami do PANA, swego Boga, abyœmy nie pomarli. Dodaliœmy bowiem do wszystkich naszych grzechów to z³o, ¿e prosiliœmy dla siebie o króla. </v>
+<v n="20"> Samuel odpowiedzia³ ludowi: Nie bójcie siê. Wprawdzie uczyniliœcie ca³e to z³o. Nie odstêpujcie jednak od PANA, lecz s³u¿cie PANU z ca³ego swego serca; </v>
+<v n="21"> A nie zbaczajcie z tej drogi, by iœæ za marnoœciami, które w niczym wam nie pomog¹ ani was nie wybawi¹, gdy¿ s¹ marnoœci¹. </v>
+<v n="22"> PAN bowiem nie opuœci swego ludu przez wzgl¹d na swoje wielkie imiê, gdy¿ spodoba³o siê PANU uczyniæ was swoim ludem. </v>
+<v n="23"> A jeœli chodzi o mnie, nie daj Bo¿e, bym mia³ grzeszyæ przeciw PANU, przestaj¹c siê modliæ za was. Przeciwnie, bêdê was uczy³ dobrej i prostej drogi. </v>
+<v n="24"> Tylko bójcie siê PANA i s³u¿cie mu w prawdzie z ca³ego swego serca. Spójrzcie, jak wielkie rzeczy wam uczyni³. </v>
+<v n="25"> Lecz jeœli bêdziecie trwaæ w niegodziwoœci, to zarówno wy, jak i wasz król zginiecie. </v>
+</c>

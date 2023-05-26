@@ -1,0 +1,14 @@
+<v n="1"> Potem PAN powiedzia³ do Moj¿esza: </v>
+<v n="2"> Mów do synów Izraela i weŸ od ka¿dego z nich po lasce wed³ug domów ich ojców, od wszystkich ich naczelników wed³ug domów ich ojców dwanaœcie lasek, a imiê ka¿dego napisz na jego lasce. </v>
+<v n="3"> A imiê Aarona napiszesz na lasce Lewiego, gdy¿ jedna laska bêdzie dla ka¿dego naczelnika z domu ich ojców. </v>
+<v n="4"> I po³o¿ysz je w Namiocie Zgromadzenia przed Œwiadectwem, gdzie siê z wami spotykam. </v>
+<v n="5"> I stanie siê tak, ¿e laska tego, kogo wybiorê, zakwitnie; i uœmierzê przed sob¹ szemrania synów Izraela, jakie kieruj¹ przeciwko wam. </v>
+<v n="6"> Gdy Moj¿esz przekaza³ to synom Izraela, wszyscy ich naczelnicy oddali mu swoje laski, po jednej lasce od ka¿dego naczelnika z domu swego ojca, razem dwanaœcie lasek. Wœród ich lasek by³a te¿ laska Aarona. </v>
+<v n="7"> Potem Moj¿esz z³o¿y³ te laski przed PANEM w Namiocie Œwiadectwa. </v>
+<v n="8"> Nazajutrz, gdy Moj¿esz przyszed³ do Namiotu Œwiadectwa, oto laska Aarona, z domu Lewiego, zakwit³a, wypuœci³a p¹czki, wyda³a kwiat i dojrza³e migda³y. </v>
+<v n="9"> Wtedy Moj¿esz wyniós³ wszystkie laski sprzed PANA do wszystkich synów Izraela; a gdy je ujrzeli, ka¿dy z nich wzi¹³ swoj¹ laskê. </v>
+<v n="10"> I PAN powiedzia³ do Moj¿esza: Po³ó¿ laskê Aarona z powrotem przed Œwiadectwem, aby by³a zachowana na znak dla buntowników, a po³o¿ysz kres ich szemraniu przeciwko mnie, aby nie pomarli. </v>
+<v n="11"> I Moj¿esz tak uczyni³; jak PAN mu rozkaza³, tak uczyni³. </v>
+<v n="12"> I synowie Izraela powiedzieli do Moj¿esza: Oto umieramy, giniemy, wszyscy giniemy; </v>
+<v n="13"> Ka¿dy, kto zbli¿a siê do przybytku PANA, umrze. Czy mamy doszczêtnie zgin¹æ? </v>
+</c>

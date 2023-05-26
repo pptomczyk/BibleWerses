@@ -1,0 +1,8 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. W PANU pok³adam ufnoœæ. Jak¿e wiêc mo¿ecie mówiæ mojej duszy: Odleæ jak ptak na twoj¹ górê? </v>
+<v n="2"> Bo oto niegodziwi napinaj¹ ³uk, k³ad¹ strza³ê na ciêciwê, aby w ciemnoœci strzelaæ do tych, którzy s¹ prawego serca. </v>
+<v n="3"> Gdy zostan¹ zburzone fundamenty, có¿ mo¿e zrobiæ sprawiedliwy? </v>
+<v n="4"> PAN jest w swym œwiêtym przybytku, tron PANA jest w niebie, jego oczy patrz¹, jego powieki badaj¹ synów ludzkich. </v>
+<v n="5"> PAN doœwiadcza sprawiedliwego, ale jego dusza nienawidzi niegodziwego i tego, kto kocha bezprawie. </v>
+<v n="6"> Spuœci na niegodziwych deszcz side³, ognia i siarki, a pal¹cy wicher bêdzie udzia³em ich kielicha. </v>
+<v n="7"> Bo sprawiedliwy PAN kocha sprawiedliwoœæ, jego oczy patrz¹ na prawego. </v>
+</c>

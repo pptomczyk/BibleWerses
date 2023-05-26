@@ -1,0 +1,25 @@
+<v n="1"> Potem Jozue, syn Nuna, wys³a³ potajemnie z Szittim dwóch szpiegów, mówi¹c: IdŸcie, obejrzyjcie ziemiê i Jerycho. Poszli wiêc i weszli do domu pewnej nierz¹dnicy, która mia³a na imiê Rachab, i tam odpoczêli. </v>
+<v n="2"> I doniesiono królowi Jerycha: Oto jacyœ mê¿czyŸni spoœród synów Izraela przyszli tu tej nocy, aby wybadaæ tê ziemiê. </v>
+<v n="3"> Król Jerycha pos³a³ wiêc do Rachab, rozkazuj¹c: WyprowadŸ mê¿czyzn, którzy przyszli do ciebie i weszli do twego domu, bo przyszli wybadaæ ca³¹ tê ziemiê. </v>
+<v n="4"> Kobieta jednak wziê³a tych dwóch mê¿czyzn, ukry³a ich i powiedzia³a: To prawda, ¿e przyszli do mnie mê¿czyŸni, ale nie wiedzia³am, sk¹d oni s¹. </v>
+<v n="5"> A gdy miano zamykaæ bramê o zmierzchu, mê¿czyŸni ci wyszli i nie wiem, dok¹d poszli. Œcigajcie ich prêdko, to ich dogonicie. </v>
+<v n="6"> Ona zaœ zaprowadzi³a ich na dach i przykry³a wi¹zkami lnu, które roz³o¿y³a na dachu. </v>
+<v n="7"> Wys³ani mê¿czyŸni œcigali ich w kierunku Jordanu a¿ do brodów; i jak tylko œcigaj¹cy wyszli, zamkniêto bramê. </v>
+<v n="8"> A zanim usnêli, ona wysz³a do nich na dach; </v>
+<v n="9"> I powiedzia³a do tych mê¿czyzn: Wiem, ¿e PAN da³ wam tê ziemiê, bo strach przed wami pad³ na nas i wszyscy obywatele tej ziemi truchlej¹ przed wami. </v>
+<v n="10"> S³yszeliœmy bowiem, jak PAN wysuszy³ przed wami wody Morza Czerwonego, gdy wychodziliœcie z Egiptu, i co uczyniliœcie dwom królom amorejskim, którzy byli po tamtej stronie Jordanu, Sichonowi i Ogowi, których pobiliœcie. </v>
+<v n="11"> Gdy o tym us³yszeliœmy, nasze serca struchla³y i nie by³o ju¿ odwagi w nikim z waszego powodu; bo PAN, wasz Bóg, jest Bogiem wysoko na niebie i nisko na ziemi. </v>
+<v n="12"> Dlatego teraz, proszê, przysiêgnijcie mi na PANA, ¿e jak ja okaza³am wam mi³osierdzie, tak i wy oka¿ecie mi³osierdzie domowi mego ojca, i dajcie mi pewny znak; </v>
+<v n="13"> ¯e zachowacie przy ¿yciu mego ojca i moj¹ matkê, moich braci i moje siostry, i wszystko, co do nich nale¿y, i ocalicie nas od œmierci. </v>
+<v n="14"> Odpowiedzieli jej mê¿czyŸni: Rêczymy za was naszym ¿yciem, jeœli nie wydacie tej naszej sprawy, i gdy PAN odda nam tê ziemiê, oka¿emy ci mi³osierdzie i wiernoœæ. </v>
+<v n="15"> Potem spuœci³a ich na sznurze z okna, bo jej dom przylega³ do muru i ona mieszka³a w murze. </v>
+<v n="16"> I powiedzia³a im: IdŸcie w góry, by nie spotkali was œcigaj¹cy; ukryjcie siê tam przez trzy dni, a¿ powróc¹ œcigaj¹cy, a potem pójdziecie swoj¹ drog¹. </v>
+<v n="17"> Mê¿czyŸni powiedzieli jej: Bêdziemy wolni od tej przysiêgi, któr¹ kaza³aœ nam z³o¿yæ; </v>
+<v n="18"> Gdy wejdziemy do ziemi, przywi¹¿esz do okna czerwony sznur, po którym nas spuœci³aœ, i zbierzesz u siebie, w domu swego ojca, swoj¹ matkê, swoich braci i ca³y dom swego ojca. </v>
+<v n="19"> Ktokolwiek bowiem wyjdzie poza drzwi twego domu, jego krew spadnie mu na g³owê, a my bêdziemy bez winy. Lecz krew ka¿dego, kto bêdzie z tob¹ w domu, spadnie na nasz¹ g³owê, jeœli czyjaœ rêka go dotknie. </v>
+<v n="20"> Jeœli jednak wydasz nasz¹ sprawê, bêdziemy wolni od przysiêgi, któr¹ kaza³aœ nam z³o¿yæ. </v>
+<v n="21"> I odpowiedzia³a: Jak powiedzieliœcie, niech tak bêdzie. Wtedy wypuœci³a ich i poszli. I przywi¹za³a czerwony sznur do okna. </v>
+<v n="22"> Odeszli wiêc i przyszli na górê, i pozostali tam przez trzy dni, a¿ powrócili œcigaj¹cy. A œcigaj¹cy szukali ich po wszystkich drogach, ale nie znaleŸli. </v>
+<v n="23"> I zawrócili ci dwaj mê¿czyŸni, zeszli z góry, przeprawili siê przez rzekê, przyszli do Jozuego, syna Nuna, i opowiedzieli mu wszystko, co siê z nimi dzia³o; </v>
+<v n="24"> I mówili do Jozuego: PAN odda³ w nasze rêce ca³¹ tê ziemiê, bo wszyscy obywatele tej ziemi struchleli przed nami. </v>
+</c>

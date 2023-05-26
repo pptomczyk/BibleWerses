@@ -1,0 +1,22 @@
+<v n="1"> Kiedy Atalia, matka Achazjasza, zobaczy³a, ¿e jej syn umar³, powsta³a i zg³adzi³a ca³e potomstwo królewskie. </v>
+<v n="2"> Ale Jehoszeba, córka króla Jorama, siostra Achazjasza, wziê³a Joasza, syna Achazjasza, i wykrad³a go spoœród synów króla, których zabito; i ukry³a go przed Atali¹ wraz z jego mamk¹ w pokoju sypialnym, i nie zosta³ zabity. </v>
+<v n="3"> I przebywa³ z ni¹ szeœæ lat ukryty w domu PANA. Tymczasem Atalia królowa³a nad ziemi¹. </v>
+<v n="4"> A w siódmym roku Jehojada pos³a³ i wezwa³ setników, dowódców i gwardzistów, przyprowadzi³ ich do siebie, do domu PANA, zawar³ z nimi przymierze, kaza³ im z³o¿yæ przysiêgê w domu PANA i pokaza³ im syna króla. </v>
+<v n="5"> I rozkaza³ im: Oto co macie uczyniæ: trzecia czêœæ z was, którzy przychodzicie w szabat, niech pe³ni stra¿ w domu królewskim; </v>
+<v n="6"> Trzecia czêœæ zostanie w bramie Sur i trzecia czêœæ bêdzie w bramie za gwardzistami. Bêdziecie trzymali stra¿ nad domem w razie ataku. </v>
+<v n="7"> A dwie czêœci spoœród was – wszyscy, którzy wychodz¹ w szabat, niech trzymaj¹ stra¿ w domu PANA przy królu. </v>
+<v n="8"> A tak otoczycie króla wokó³, ka¿dy z broni¹ w rêku. Ktokolwiek zbli¿y siê do szeregów, niech bêdzie zabity. A wy b¹dŸcie przy królu, gdy bêdzie wychodziæ i wchodziæ. </v>
+<v n="9"> Setnicy uczynili wszystko tak, jak rozkaza³ kap³an Jehojada. Ka¿dy wzi¹³ swoich ludzi, którzy przychodzili w szabat, i tych, którzy odchodzili w szabat, i przyszli do kap³ana Jehojady. </v>
+<v n="10"> Wtedy kap³an da³ setnikom w³ócznie i tarcze króla Dawida, które by³y w domu PANA. </v>
+<v n="11"> A gwardziœci stali, ka¿dy z broni¹ w rêku, doko³a króla, od prawej strony œwi¹tyni a¿ do lewej strony œwi¹tyni, przy o³tarzu i œwi¹tyni. </v>
+<v n="12"> Wtedy wyprowadzi³ syna króla, w³o¿y³ na niego koronê i wrêczy³ mu Œwiadectwo. I ustanowiono go królem, i namaszczono go, a klaskaj¹c w d³onie, wo³ano: Niech ¿yje król! </v>
+<v n="13"> Kiedy Atalia us³ysza³a okrzyk gwardzistów i ludu, przysz³a do ludu, do œwi¹tyni PANA. </v>
+<v n="14"> A gdy spojrza³a, oto król sta³ przy kolumnie wed³ug zwyczaju, a wokó³ króla ksi¹¿êta i trêbacze. Ca³y lud ziemi radowa³ siê i d¹³ w tr¹by. Wtedy Atalia rozdar³a swoje szaty i wo³a³a: Zdrada! Zdrada! </v>
+<v n="15"> Lecz kap³an Jehojada wyda³ rozkaz setnikom i dowódcom wojska i powiedzia³ do nich: WyprowadŸcie j¹ ze œwi¹tyni poza szeregi, a ktokolwiek pójdzie za ni¹, niech bêdzie zabity mieczem. Kap³an bowiem powiedzia³: Niech nie bêdzie zabita w domu PANA. </v>
+<v n="16"> Pochwycili wiêc j¹, a gdy wesz³a na drogê, któr¹ wje¿d¿aj¹ konie do domu królewskiego, zosta³a tam zabita. </v>
+<v n="17"> Wtedy Jehojada zawar³ przymierze miêdzy PANEM a królem i ludem, aby byli ludem PANA, oraz miêdzy królem a ludem. </v>
+<v n="18"> I ca³y lud tej ziemi wszed³ do domu Baala i zburzy³ go. Rozbili doszczêtnie jego o³tarze i pos¹gi, a Mattana, kap³ana Baala, zabili przed o³tarzami. Nastêpnie kap³an ustanowi³ stra¿ nad domem PANA. </v>
+<v n="19"> Potem wzi¹³ setników, dowódców i gwardzistów oraz ca³y lud tej ziemi. I sprowadzili króla z domu PANA, i przyszli przez bramê gwardii do domu królewskiego. I zasiad³ na tronie królów. </v>
+<v n="20"> I ca³y lud tej ziemi radowa³ siê, a miasto siê uspokoi³o. Ataliê zabili mieczem przy domu królewskim. </v>
+<v n="21"> Jehoasz mia³ siedem lat, gdy zacz¹³ królowaæ. </v>
+</c>

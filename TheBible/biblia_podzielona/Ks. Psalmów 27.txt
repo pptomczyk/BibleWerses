@@ -1,0 +1,15 @@
+<v n="1"> Psalm Dawida. PAN jest moj¹ œwiat³oœci¹ i moim zbawieniem, kogó¿ bêdê siê baæ? PAN jest moc¹ mego ¿ycia, kogó¿ mam siê lêkaæ? </v>
+<v n="2"> Gdy z³oczyñcy, moi przeciwnicy i wrogowie, wyst¹pili przeciwko mnie, aby po¿reæ moje cia³o, potknêli siê i upadli. </v>
+<v n="3"> Choæby wojsko rozbi³o naprzeciw mnie obóz, moje serce siê nie ulêknie; choæby wojna wybuch³a przeciw mnie, nawet wtedy bêdê ufa³. </v>
+<v n="4"> O jedno proszê PANA i o to bêdê zabiega³: abym mieszka³ w domu PANA po wszystkie dni mego ¿ycia, abym ogl¹da³ piêkno PANA i dowiadywa³ siê w jego œwi¹tyni. </v>
+<v n="5"> Skryje mnie bowiem w dniu niedoli w swoim przybytku, schowa mnie w ukryciu swego namiotu i wyniesie mnie na ska³ê. </v>
+<v n="6"> A teraz moja g³owa bêdzie wzniesiona nad moimi nieprzyjació³mi, którzy mnie otaczaj¹; bêdê sk³ada³ w jego przybytku ofiary radoœci, bêdê œpiewa³ i oddawa³ PANU chwa³ê. </v>
+<v n="7"> Us³ysz, PANIE, mój g³os, gdy wo³am; zmi³uj siê nade mn¹ i wys³uchaj mnie. </v>
+<v n="8"> Gdy mówi³eœ: Szukajcie mojego oblicza, moje serce mówi³o do ciebie: Twojego oblicza, PANIE, bêdê szukaæ. </v>
+<v n="9"> Nie ukrywaj przede mn¹ twojego oblicza ani nie odtr¹caj w gniewie swego s³ugi; ty jesteœ moj¹ pomoc¹, nie opuszczaj mnie i nie odchodŸ, Bo¿e mego zbawienia. </v>
+<v n="10"> Choæby ojciec i matka opuœcili mnie, to PAN mnie przygarnie. </v>
+<v n="11"> Naucz mnie, PANIE, twojej drogi i prowadŸ mnie œcie¿k¹ prost¹ ze wzglêdu na moich wrogów. </v>
+<v n="12"> Nie wydawaj mnie na pastwê moich nieprzyjació³, bo powstali przeciwko mnie fa³szywi œwiadkowie i ci, którzy dysz¹ okrucieñstwem. </v>
+<v n="13"> Zniechêci³bym siê, gdybym nie wierzy³, ¿e bêdê ogl¹da³ dobroæ PANA w ziemi ¿yj¹cych. </v>
+<v n="14"> Oczekuj PANA, b¹dŸ dzielny, a on umocni twoje serce; oczekuj wiêc PANA. </v>
+</c>

@@ -1,0 +1,6 @@
+<v n="1"> Psalm na dziêkczynienie. Radoœnie wykrzykujcie PANU, wszystkie ziemie! </v>
+<v n="2"> S³u¿cie PANU z weselem, przychodŸcie z radoœci¹ przed jego oblicze. </v>
+<v n="3"> Wiedzcie, ¿e PAN jest Bogiem, to on nas uczyni³, a nie my sami siebie; jesteœmy jego ludem i owcami jego pastwiska. </v>
+<v n="4"> WejdŸcie w jego bramy z dziêkczynieniem i do jego przedsionków z wychwalaniem; wys³awiajcie go, b³ogos³awcie jego imiê; </v>
+<v n="5"> PAN bowiem jest dobry, jego mi³osierdzie trwa na wieki, a jego prawda z pokolenia na pokolenie. </v>
+</c>

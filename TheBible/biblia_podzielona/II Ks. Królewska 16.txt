@@ -1,0 +1,21 @@
+<v n="1"> W siedemnastym roku Pekacha, syna Remaliasza, Achaz, syn Jotama, króla Judy, zacz¹³ królowaæ. </v>
+<v n="2"> Achaz mia³ dwadzieœcia lat, kiedy zacz¹³ królowaæ, i królowa³ szesnaœcie lat w Jerozolimie, ale nie czyni³ tego, co s³uszne w oczach PANA, swego Boga, jak Dawid, jego ojciec; </v>
+<v n="3"> Lecz chodzi³ drogami królów Izraela, a nawet swojego syna przeprowadzi³ przez ogieñ wed³ug obrzydliwoœci pogan, których PAN wypêdzi³ sprzed oblicza synów Izraela. </v>
+<v n="4"> Sk³ada³ ofiary i pali³ kadzid³o na wy¿ynach, na pagórkach i pod ka¿dym zielonym drzewem. </v>
+<v n="5"> Wtedy Resin, król Syrii, i Pekach, syn Remaliasza, król Izraela, wyruszyli na wojnê przeciw Jerozolimie i oblegli Achaza, ale nie mogli go pokonaæ. </v>
+<v n="6"> W tym samym czasie Resin, król Syrii, przywróci³ Syrii Elat i wypêdzi³ ¯ydów z Elat, a Syryjczycy przybyli do Elat i mieszkaj¹ tam a¿ do dziœ. </v>
+<v n="7"> Achaz wiêc wys³a³ pos³añców do Tiglat-Pilesera, króla Asyrii, ze s³owami: Jestem twoim s³ug¹ i twoim synem. PrzyjdŸ i wybaw mnie z rêki króla Syrii i z rêki króla Izraela, którzy powstali przeciw mnie. </v>
+<v n="8"> Wtedy Achaz wzi¹³ srebro i z³oto, które znajdowa³y siê w domu PANA i w skarbcach domu królewskiego, i pos³a³ je jako dar królowi Asyrii. </v>
+<v n="9"> I król Asyrii wys³ucha³ go. Wyruszy³ bowiem król Asyrii przeciw Damaszkowi, zdoby³ go i uprowadzi³ jego mieszkañców do Kir, a Resina zabi³. </v>
+<v n="10"> Potem król Achaz uda³ siê do Damaszku na spotkanie z Tiglat-Pilserem, królem Asyrii. Gdy zobaczy³ w Damaszku o³tarz, król Achaz pos³a³ do kap³ana Uriasza wzór tego o³tarza i ca³y plan jego budowy. </v>
+<v n="11"> I kap³an Uriasz zbudowa³ o³tarz dok³adnie wed³ug tego, co król Achaz przes³a³ z Damaszku. Tak to uczyni³ kap³an Uriasz, zanim król Achaz wróci³ z Damaszku. </v>
+<v n="12"> A gdy król wróci³ z Damaszku, zobaczy³ o³tarz, zbli¿y³ siê do niego i z³o¿y³ na nim ofiary. </v>
+<v n="13"> Spali³ swoje ca³opalenie i ofiarê z pokarmów, wyla³ swoj¹ ofiarê z p³ynów i pokropi³ o³tarz krwi¹ swoich ofiar pojednawczych. </v>
+<v n="14"> O³tarz zaœ z br¹zu, który by³ przed PANEM, przeniós³ z przedniej czêœci domu, gdzie znajdowa³ siê miêdzy o³tarzem a domem PANA, i postawi³ go po pó³nocnej stronie o³tarza. </v>
+<v n="15"> Król Achaz rozkaza³ te¿ kap³anowi Uriaszowi: Na wielkim o³tarzu bêdziesz pali³ porann¹ ofiarê ca³opaln¹ i wieczorn¹ ofiarê z pokarmów, a tak¿e ca³opaln¹ ofiarê króla i jego ofiarê z pokarmów oraz ca³opaln¹ ofiarê ca³ego ludu ziemi, ich ofiarê z pokarmów i ich ofiary z p³ynów. Bêdziesz te¿ kropi³ na nim wszelk¹ krwi¹ ca³opalenia i wszelk¹ krwi¹ z ofiar krwawych, ale o³tarz z br¹zu bêdzie dla mnie do szukania rady. </v>
+<v n="16"> I kap³an Uriasz uczyni³ wszystko zgodnie z tym, jak rozkaza³ król Achaz. </v>
+<v n="17"> Król Achaz odci¹³ te¿ listwy podstawek i wyj¹³ z nich kadzie. Zdj¹³ równie¿ morze sponad wo³ów z br¹zu, które pod nim by³y, a postawi³ je na posadzce kamiennej. </v>
+<v n="18"> Zadaszenie na szabat, które zbudowano w domu, oraz zewnêtrzne wejœcie królewskie usun¹³ z domu PANA ze wzglêdu na króla Asyrii. </v>
+<v n="19"> A pozosta³e dzieje Achaza, które czyni³, s¹ zapisane w ksiêdze kronik królów Judy. </v>
+<v n="20"> I Achaz zasn¹³ ze swymi ojcami, i zosta³ pogrzebany z nimi w mieœcie Dawida. A Ezechiasz, jego syn, królowa³ w jego miejsce. </v>
+</c>

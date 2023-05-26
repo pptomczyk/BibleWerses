@@ -1,0 +1,19 @@
+<v n="1"> S³owa Kaznodziei, syna Dawida, króla w Jerozolimie. </v>
+<v n="2"> Marnoœæ nad marnoœciami – mówi Kaznodzieja – marnoœæ nad marnoœciami. Wszystko jest marnoœci¹. </v>
+<v n="3"> Jaki po¿ytek ma cz³owiek z ca³ego swego trudu, który podejmuje pod s³oñcem? </v>
+<v n="4"> Jedno pokolenie przemija, drugie pokolenie przychodzi, lecz ziemia trwa na wieki. </v>
+<v n="5"> S³oñce wschodzi i s³oñce zachodzi, i spieszy do swego miejsca, z którego znów wschodzi. </v>
+<v n="6"> Wiatr idzie na po³udnie i zawraca na pó³noc, kr¹¿y nieustannie i znowu wraca na drogê swego kr¹¿enia. </v>
+<v n="7"> Wszystkie rzeki p³yn¹ do morza, lecz morze siê nie przepe³nia; do miejsca, z którego rzeki p³yn¹, znowu wracaj¹. </v>
+<v n="8"> Wszystkie rzeczy s¹ pe³ne trudu, a cz³owiek nie zdo³a tego wyraziæ. Oko nie nasyci siê patrzeniem ani ucho nie nape³ni siê s³uchaniem. </v>
+<v n="9"> To, co by³o, jest tym, co bêdzie; a to, co siê sta³o, jest tym, co siê stanie. I nie ma nic nowego pod s³oñcem. </v>
+<v n="10"> Czy jest coœ, o czym mo¿na by powiedzieæ: Patrz, to jest coœ nowego? I to ju¿ by³o w dawnych czasach, które by³y przed nami. </v>
+<v n="11"> Nie ma pamiêci o dawnych rzeczach; tak¿e o tych, które bêd¹, nie bêdzie pamiêci u tych, którzy potem nastan¹. </v>
+<v n="12"> Ja, Kaznodzieja, by³em królem nad Izraelem w Jerozolimie. </v>
+<v n="13"> I przy³o¿y³em siê w swoim sercu do tego, aby m¹droœci¹ szukaæ wszystkiego i wybadaæ wszystko, co siê dzieje pod niebem. To uci¹¿liwe zadanie Bóg da³ synom ludzkim, aby siê nim trudzili. </v>
+<v n="14"> Widzia³em wszystkie sprawy, jakie siê dziej¹ pod s³oñcem, a oto wszystko jest marnoœci¹ i utrapieniem ducha. </v>
+<v n="15"> Tego, co krzywe, nie da siê wyprostowaæ, a tego, czego brak, nie da siê policzyæ. </v>
+<v n="16"> Tak wiêc pomyœla³em w swoim sercu: Oto wzbogaci³em siê i dano mi wiêcej m¹droœci ni¿ wszystkim, którzy byli przede mn¹ w Jerozolimie. I moje serce doœwiadczy³o wielkiej m¹droœci i wiedzy. </v>
+<v n="17"> I przy³o¿y³em siê w swoim sercu do tego, aby poznaæ m¹droœæ, a tak¿e by poznaæ szaleñstwo i g³upotê. Ale pozna³em, ¿e i to jest utrapieniem ducha. </v>
+<v n="18"> Gdzie bowiem jest wiele m¹droœci, tam jest wiele smutku. A kto przysparza wiedzy, przysparza i cierpienia. </v>
+</c>

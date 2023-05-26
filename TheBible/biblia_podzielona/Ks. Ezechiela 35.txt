@@ -1,0 +1,16 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, zwróæ swoj¹ twarz przeciwko górze Seir i prorokuj przeciwko niej. </v>
+<v n="3"> Mów do niej: Tak mówi Pan BÓG: Oto jestem przeciwko tobie, góro Seir, wyci¹gnê moj¹ rêkê przeciwko tobie i wydam ciê na wielkie spustoszenie. </v>
+<v n="4"> Twoje miasta zamieniê w ruiny i bêdziesz spustoszona. I poznasz, ¿e ja jestem PANEM. </v>
+<v n="5"> Poniewa¿ ¿ywi³aœ wieczn¹ nienawiœæ i wyda³aœ synów Izraela pod ostrze miecza w czasie ich utrapienia, w czasie wykonywania ich kary; </v>
+<v n="6"> Dlatego, jak ¿yjê, mówi Pan BÓG, wydam ciê na zabicie i krew bêdzie ciê œcigaæ. Poniewa¿ nie znienawidzi³aœ krwi, krew bêdzie ciê œcigaæ. </v>
+<v n="7"> I zamieniê górê Seir w wielkie spustoszenie, wygubiê z niej ka¿dego, który przechodzi i który wraca. </v>
+<v n="8"> Jej góry nape³niê jej zabitymi. Na twoich pagórkach, na twoich dolinach i we wszystkich twoich strumieniach padn¹ pobici mieczem. </v>
+<v n="9"> Zamieniê ciê w wieczne spustoszenie i twoje miasta nie bêd¹ zamieszka³e. I poznacie, ¿e ja jestem PANEM. </v>
+<v n="10"> Poniewa¿ powiedzia³aœ: Te dwa narody i te dwa kraje bêd¹ moje, weŸmiemy je w posiadanie, chocia¿ PAN tam przebywa³; </v>
+<v n="11"> Jak ¿yjê, mówi Pan BÓG, uczyniê wed³ug twego gniewu i wed³ug twojej zawiœci, z jak¹ post¹pi³aœ w swej nienawiœci wzglêdem nich, i dam siê poznaæ wœród nich, gdy ciê os¹dzê. </v>
+<v n="12"> I poznasz, ¿e ja jestem PANEM i s³ysza³em wszystkie twoje obelgi, które wypowiedzia³aœ przeciw górom Izraela, mówi¹c: S¹ spustoszone, zosta³y nam dane na po¿arcie. </v>
+<v n="13"> Tak siê wynosiliœcie swoimi ustami przeciwko mnie i mno¿yliœcie swoje s³owa przeciwko mnie. Ja to s³ysza³em. </v>
+<v n="14"> Tak mówi Pan BÓG: Kiedy ca³a ziemia bêdzie siê radowaæ, wtedy zamieniê ciê w pustkowie. </v>
+<v n="15"> Jak ty siê radowa³aœ nad dziedzictwem domu Izraela, ¿e zosta³o spustoszone, tak uczyniê i tobie: bêdziesz spustoszona, góro Seir i ca³y Edomie. I poznaj¹, ¿e ja jestem PANEM. </v>
+</c>

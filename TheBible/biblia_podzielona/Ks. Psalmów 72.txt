@@ -1,0 +1,21 @@
+<v n="1"> Psalm dla Salomona. Bo¿e, daj królowi swoje s¹dy i swoj¹ sprawiedliwoœæ synowi króla; </v>
+<v n="2"> Bêdzie s¹dzi³ twój lud w sprawiedliwoœci, a twoich ubogich w prawoœci. </v>
+<v n="3"> Góry przynios¹ ludowi pokój, a pagórki sprawiedliwoœæ. </v>
+<v n="4"> Bêdzie s¹dzi³ ubogich z ludu, wybawi synów potrzebuj¹cego, a zgniecie ciemiê¿yciela. </v>
+<v n="5"> Bêd¹ siê baæ ciebie, póki trwaæ bêdzie s³oñce i ksiê¿yc, z pokolenia na pokolenie. </v>
+<v n="6"> Zst¹pi jak deszcz na skoszon¹ trawê, jak krople deszczu nawadniaj¹ce ziemiê. </v>
+<v n="7"> Za jego dni zakwitnie sprawiedliwy i bêdzie obfitoœæ pokoju, dopóki ksiê¿yc trwa. </v>
+<v n="8"> Bêdzie panowa³ od morza do morza, od rzeki a¿ po krañce ziemi. </v>
+<v n="9"> Przed nim upadn¹ mieszkañcy pustyni, a jego wrogowie bêd¹ proch lizaæ. </v>
+<v n="10"> Królowie Tarszisz i wysp przynios¹ dary, królowie Szeby i Saby z³o¿¹ daninê. </v>
+<v n="11"> I oddadz¹ mu pok³on wszyscy królowie; wszystkie narody bêd¹ mu s³u¿yæ. </v>
+<v n="12"> Ocali bowiem ubogiego, gdy zawo³a, i nêdznego, który nie ma pomocnika. </v>
+<v n="13"> Zmi³uje siê nad ubogim i potrzebuj¹cym i wybawi dusze nêdzarzy. </v>
+<v n="14"> Wybawi ich dusze od podstêpu i przemocy, bo ich krew jest cenna w jego oczach. </v>
+<v n="15"> I bêdzie ¿y³, i dadz¹ mu z³oto z Szeby; nieustannie bêd¹ siê za niego modliæ i codziennie mu b³ogos³awiæ. </v>
+<v n="16"> Gdy siê zasieje garœæ zbo¿a w ziemi na szczytach gór, jego plon zaszumi jak Liban, a mieszkañcy miast zakwitn¹ jak polna trawa. </v>
+<v n="17"> Jego imiê trwaæ bêdzie na wieki; póki s³oñce trwa, trwaæ bêdzie jego imiê; ludzie bêd¹ b³ogos³awieni w nim, a wszystkie narody nazw¹ go b³ogos³awionym. </v>
+<v n="18"> B³ogos³awiony niech bêdzie PAN Bóg, Bóg Izraela, który sam jeden czyni cuda. </v>
+<v n="19"> I b³ogos³awione na wieki jego chwalebne imiê; niech ca³a ziemia bêdzie nape³niona jego chwa³¹. Amen, amen. </v>
+<v n="20"> I tu siê koñcz¹ modlitwy Dawida, syna Jessego. </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> Synu mój, zwa¿aj na moj¹ m¹droœæ i nak³oñ twego ucha ku mojemu rozumowi; </v>
+<v n="2"> Abyœ zachowa³ rozwagê i aby twoje wargi strzeg³y wiedzy. </v>
+<v n="3"> Bo wargi obcej kobiety ociekaj¹ miodem, a jej usta g³adsze s¹ ni¿ oliwa; </v>
+<v n="4"> Lecz jej koniec jest gorzki jak pio³un, ostry jak miecz obosieczny. </v>
+<v n="5"> Jej nogi zstêpuj¹ do œmierci, jej kroki prowadz¹ do piek³a. </v>
+<v n="6"> Abyœ nie rozwa¿a³ œcie¿ki ¿ycia, jej drogi s¹ tak niesta³e, ¿e nie poznasz ich. </v>
+<v n="7"> Teraz wiêc, synowie, s³uchajcie mnie i nie odstêpujcie od s³ów moich ust. </v>
+<v n="8"> Oddal od niej sw¹ drogê i nie zbli¿aj siê do drzwi jej domu; </v>
+<v n="9"> Abyœ nie odda³ obcym twojej s³awy, a twoich lat okrutnikowi; </v>
+<v n="10"> Aby obcy nie nasycili siê twoim dobytkiem, a twój dorobek nie zosta³ w cudzym domu; </v>
+<v n="11"> I abyœ nie jêcza³ u kresu swych dni, gdy twoja skóra i cia³o bêd¹ zniszczone; </v>
+<v n="12"> I nie musia³ powiedzieæ: O, jak¿e nienawidzi³em karnoœci i moje serce gardzi³o upomnieniem! </v>
+<v n="13"> Nie s³ucha³em g³osu moich wychowawców i nie nak³ania³em ucha ku tym, którzy mnie nauczali! </v>
+<v n="14"> O ma³o co nie wpad³em we wszelkie nieszczêœcie wœród zebrania i zgromadzenia. </v>
+<v n="15"> Pij wodê z w³asnego zdroju i wody p³yn¹ce z twojego Ÿród³a! </v>
+<v n="16"> Niech rozprosz¹ siê twoje Ÿród³a, a po ulicach strumienie wód. </v>
+<v n="17"> Niech nale¿¹ tylko do ciebie, a nie do obcych wraz z tob¹. </v>
+<v n="18"> Niech twój zdrój bêdzie b³ogos³awiony i ciesz siê ¿on¹ twojej m³odoœci. </v>
+<v n="19"> Niech bêdzie jak wdziêczna ³ania i rozkoszna sarna; niech jej piersi zawsze ciê nasycaj¹, nieustannie zachwycaj siê jej mi³oœci¹. </v>
+<v n="20"> Dlaczego, synu mój, masz zachwycaæ siê obc¹ kobiet¹ i obejmowaæ piersi cudzej? </v>
+<v n="21"> Gdy¿ drogi cz³owieka s¹ przed oczami PANA i wa¿y on wszystkie jego œcie¿ki. </v>
+<v n="22"> Niegodziwego schwytaj¹ jego w³asne nieprawoœci i uwik³a siê w powrozy swego grzechu. </v>
+<v n="23"> Umrze z braku karnoœci i bêdzie b³¹dzi³ z powodu swojej wielkiej g³upoty. </v>
+</c>

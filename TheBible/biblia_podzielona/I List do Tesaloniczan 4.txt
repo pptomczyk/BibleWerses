@@ -1,0 +1,19 @@
+<v n="1"> Ponadto, bracia, prosimy was i zachêcamy przez Pana Jezusa, abyœcie – wed³ug otrzymanego od nas pouczenia o tym, jak nale¿y postêpowaæ i podobaæ siê Bogu – coraz bardziej w tym obfitowali. </v>
+<v n="2"> Wiecie przecie¿, jakie nakazy daliœmy wam przez Pana Jezusa. </v>
+<v n="3"> Taka jest bowiem wola Boga, wasze uœwiêcenie, ¿ebyœcie powstrzymywali siê od nierz¹du; </v>
+<v n="4"> Aby ka¿dy z was umia³ utrzymaæ swoje naczynie w œwiêtoœci i poszanowaniu; </v>
+<v n="5"> Nie w namiêtnoœci ¿¹dzy jak poganie, którzy nie znaj¹ Boga; </v>
+<v n="6"> I aby nikt nie wykorzystywa³ i nie oszukiwa³ w ¿adnej sprawie swego brata, bo Pan jest mœcicielem tego wszystkiego, jak wam to przedtem mówiliœmy i zaœwiadczaliœmy. </v>
+<v n="7"> Bóg bowiem nie powo³a³ nas do nieczystoœci, ale do œwiêtoœci. </v>
+<v n="8"> A wiêc kto to odrzuca, odrzuca nie cz³owieka, lecz Boga, który nam te¿ da³ swego Ducha Œwiêtego. </v>
+<v n="9"> A o mi³oœci braterskiej nie ma potrzeby wam pisaæ, bo sami zostaliœcie pouczeni przez Boga, aby siê wzajemnie mi³owaæ. </v>
+<v n="10"> Czynicie to przecie¿ wzglêdem wszystkich braci w ca³ej Macedonii; ale zachêcamy was, bracia, ¿ebyœcie coraz bardziej w ni¹ obfitowali; </v>
+<v n="11"> I gorliwie starali siê ¿yæ spokojnie, dbaæ o swoje sprawy i pracowaæ w³asnymi rêkami, jak wam nakazaliœmy; </v>
+<v n="12"> Abyœcie uczciwie postêpowali wobec tych, którzy s¹ na zewn¹trz, i w niczym nie mieli niedostatku. </v>
+<v n="13"> A nie chcê, bracia, abyœcie byli w niewiedzy co do tych, którzy zasnêli, abyœcie siê nie smucili jak inni, którzy nie maj¹ nadziei. </v>
+<v n="14"> Jeœli bowiem wierzymy, ¿e Jezus umar³ i zmartwychwsta³, to te¿ tych, którzy zasnêli w Jezusie, Bóg przyprowadzi wraz z nim. </v>
+<v n="15"> Bo to wam mówimy przez s³owo Pana, ¿e my, którzy pozostaniemy ¿ywi do przyjœcia Pana, nie wyprzedzimy tych, którzy zasnêli. </v>
+<v n="16"> Gdy¿ sam Pan z okrzykiem, z g³osem archanio³a i dŸwiêkiem tr¹by Bo¿ej zst¹pi z nieba, a zmarli w Chrystusie powstan¹ pierwsi. </v>
+<v n="17"> Potem my, którzy pozostaniemy ¿ywi, razem z nimi bêdziemy porwani w ob³oki, w powietrze, na spotkanie Pana, i tak zawsze bêdziemy z Panem. </v>
+<v n="18"> Dlatego pocieszajcie siê wzajemnie tymi s³owami. </v>
+</c>

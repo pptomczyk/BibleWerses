@@ -1,0 +1,15 @@
+<v n="1"> Brzemiê Damaszku. Oto Damaszek przestanie byæ miastem, a stanie siê rumowiskiem. </v>
+<v n="2"> Miasta Aroeru bêd¹ opuszczone. Bêd¹ dla trzód, by siê tam k³ad³y, a nikt ich nie sp³oszy. </v>
+<v n="3"> Nast¹pi koniec twierdzy Efraima i królestwa Damaszku. A z resztk¹ Syrii bêdzie jak z chwa³¹ synów Izraela, mówi PAN zastêpów. </v>
+<v n="4"> I stanie siê w tym dniu tak, ¿e chwa³a Jakuba zmaleje, a jego t³uste cia³o schudnie. </v>
+<v n="5"> I bêdzie tak jak wtedy, gdy ¿niwiarz zbiera zbo¿e, a jego ramiê œcina k³osy; bêdzie jak ten, co zbiera k³osy w dolinie Refaim. </v>
+<v n="6"> Pozostanie na nim jednak pok³osie, jak przy otrz¹saniu drzewa oliwnego: dwie lub trzy oliwki zostan¹ na samym wierzcho³ku drzewa, a cztery lub piêæ na urodzajnych ga³êziach, mówi PAN, Bóg Izraela. </v>
+<v n="7"> W tym dniu cz³owiek spojrzy na swego Stwórcê i jego oczy bêd¹ spogl¹daæ na Œwiêtego Izraela. </v>
+<v n="8"> A nie popatrzy wiêcej na o³tarze, dzie³o swoich r¹k, ani nie bêdzie patrzeæ na to, co uczyni³y jego palce ani na gaje, ani na pos¹gi. </v>
+<v n="9"> W tym dniu jego miasta warowne bêd¹ jak porzucony konar i sucha ga³¹Ÿ, które opuœcili przed synami Izraela – i bêdzie spustoszenie. </v>
+<v n="10"> A poniewa¿ zapomnia³eœ o Bogu twojego zbawienia i nie pamiêta³eœ o skale twojej mocy, to choæ zasadzasz rozkoszne sadzonki i sadzisz obce winoroœle; </v>
+<v n="11"> I w dniu sprawiasz, ¿e sadzonka roœnie, i rano doprowadzasz swój siew do rozkwitu, w dniu ¿niwa bêdziesz ¿¹æ mnóstwo smutku i nieuleczalnej rozpaczy. </v>
+<v n="12"> Biada t³umom licznych ludów, które hucz¹ jak rozhukane morze, i zgie³kowi narodów, które szumi¹ jak szum wód gwa³townych! </v>
+<v n="13"> Narody szumi¹ jak szum wielkich wód, ale PAN je zgromi i uciekn¹ daleko gnane wiatrem jak plewy na górach i jak biegacz stepowy przed wichur¹. </v>
+<v n="14"> Oto w porze wieczornej trwoga, a nim nadejdzie poranek, ju¿ go nie ma. Taki jest dzia³ tych, którzy nas ³upi¹, i los tych, którzy nas pl¹druj¹. </v>
+</c>

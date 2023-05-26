@@ -1,0 +1,25 @@
+<v n="1"> A oto królowie ziemi, których pobili synowie Izraela i posiedli ich ziemiê za Jordanem na wschodzie, od rzeki Arnon a¿ do góry Hermon, i ca³¹ równinê na wschodzie: </v>
+<v n="2"> Sichon, król Amorytów, który mieszka³ w Cheszbonie, a panowa³ od Aroeru, le¿¹cego nad brzegiem rzeki Arnon, i od po³owy tej rzeki oraz po³owy Gileadu a¿ do rzeki Jabbok, granicy synów Ammona; </v>
+<v n="3"> A od równin a¿ do morza Kinneret na wschodzie, i a¿ do Morza Równiny, czyli Morza S³onego, na wschód, w kierunku Bet-Jeszimot, i od po³udnia pod górê Pisga. </v>
+<v n="4"> I obszar Oga, króla Baszanu, który pozosta³ z Refaitów i mieszka³ w Asztarot i w Edrei; </v>
+<v n="5"> Panowa³ on na górze Hermon, i w Salce oraz w ca³ym Baszanie a¿ do granic Geszurytów i Maakatytów i nad po³ow¹ Gileadu, granic¹ Sichona, króla Cheszbonu. </v>
+<v n="6"> Pobi³ ich Moj¿esz, s³uga PANA, wraz z synami Izraela. I Moj¿esz, s³uga PANA, da³ tê ziemiê w posiadanie Rubenitom i Gadytom, i po³owie pokolenia Manassesa. </v>
+<v n="7"> A oto królowie ziemi, których pobili Jozue i synowie Izraela po zachodniej stronie Jordanu, od Baal-Gad w dolinie Libanu a¿ do góry Chalak, która wznosi siê ku Seirowi, a których obszar Jozue da³ pokoleniom Izraela w posiadanie wed³ug ich przydzia³ów; </v>
+<v n="8"> Na górach, na równinach, na polach, na nizinach, na pustyni i na po³udniowej ziemi; ziemie Chetytów, Amorytów, Kananejczyków, Peryzzytów, Chiwwitów i Jebusytów. </v>
+<v n="9"> Król Jerycha – jeden; król Aj, które jest obok Betel – jeden. </v>
+<v n="10"> Król Jerozolimy – jeden; król Hebronu – jeden. </v>
+<v n="11"> Król Jarmutu – jeden; król Lakisz – jeden. </v>
+<v n="12"> Król Eglonu – jeden; król Gezer – jeden. </v>
+<v n="13"> Król Debir – jeden; król Gederu – jeden. </v>
+<v n="14"> Król Chormy – jeden; król Aradu – jeden. </v>
+<v n="15"> Król Libny – jeden; król Adullam – jeden. </v>
+<v n="16"> Król Makkedy – jeden; król Betel – jeden. </v>
+<v n="17"> Król Tappuach – jeden; król Cheferu – jeden. </v>
+<v n="18"> Król Afek – jeden; król Laszaronu – jeden. </v>
+<v n="19"> Król Madonu – jeden; król Chasoru – jeden. </v>
+<v n="20"> Król Szimron-Meronu – jeden; król Achszafu – jeden. </v>
+<v n="21"> Król Tanaku – jeden; król Megiddo – jeden. </v>
+<v n="22"> Król Kedeszu – jeden; król Jokneamu z Karmelu – jeden. </v>
+<v n="23"> Król Doru z krainy Dor – jeden; król narodów z Gilgal – jeden. </v>
+<v n="24"> Król Tirsy – jeden. Wszystkich królów by³o trzydziestu jeden. </v>
+</c>

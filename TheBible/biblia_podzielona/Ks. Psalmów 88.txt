@@ -1,0 +1,19 @@
+<v n="1"> Pieœñ i psalm dla synów Korego, przewodnikowi chóru, na Machalat do œpiewania, pouczaj¹cy, od Hemana Ezrachity. PANIE, Bo¿e mego zbawienia, we dnie i w nocy wo³am do ciebie. </v>
+<v n="2"> Niech dojdzie do ciebie moja modlitwa, nak³oñ swego ucha na moje wo³anie. </v>
+<v n="3"> Moja dusza bowiem jest nasycona utrapieniem, a moje ¿ycie zbli¿a siê do grobu. </v>
+<v n="4"> Zaliczono mnie do tych, którzy zstêpuj¹ do do³u; sta³em siê jak cz³owiek bez si³y. </v>
+<v n="5"> Zaliczono mnie do umar³ych; jestem jak zabici, którzy le¿¹ w grobie, o których ju¿ nie pamiêtasz i którzy s¹ od³¹czeni od twojej rêki. </v>
+<v n="6"> Str¹ci³eœ mnie w najg³êbszy dó³, w ciemnoœci, w g³êbie. </v>
+<v n="7"> Twój gniew ci¹¿y na mnie i przyt³oczy³eœ mnie wszystkimi twymi falami. Sela. </v>
+<v n="8"> Oddali³eœ ode mnie moich znajomych, uczyni³eœ mnie dla nich ohyd¹; jestem uwiêziony i nie mam wyjœcia. </v>
+<v n="9"> Moje oko p³acze nad moim utrapieniem; wzywam ciê, PANIE, codziennie, wyci¹gam do ciebie swe rêce. </v>
+<v n="10"> Czy dla umar³ych bêdziesz czyni³ cuda? Czy umarli powstan¹, aby ciê wys³awiaæ? Sela. </v>
+<v n="11"> Czy w grobie bêdzie siê opowiadaæ o twoim mi³osierdziu, a o twojej wiernoœci – w zniszczeniu? </v>
+<v n="12"> Czy twoje cuda pozna siê w ciemnoœciach, a twoj¹ sprawiedliwoœæ w ziemi zapomnienia? </v>
+<v n="13"> Lecz ja, PANIE, do ciebie wo³am; rankiem wita ciê moja modlitwa. </v>
+<v n="14"> Dlaczego, PANIE, odrzucasz moj¹ duszê i ukrywasz przede mn¹ swoje oblicze? </v>
+<v n="15"> Jestem strapiony i od m³odoœci bliski œmierci; znoszê twoj¹ grozê i trwo¿ê siê. </v>
+<v n="16"> Twój srogi gniew spad³ na mnie i wyniszczy³a mnie twoja groza. </v>
+<v n="17"> Ogarniaj¹ mnie co dzieñ jak woda, wszystkie mnie otaczaj¹. </v>
+<v n="18"> Oddali³eœ ode mnie przyjaciela i towarzysza, a moich znajomych – w ciemnoœci. </v>
+</c>

@@ -1,0 +1,16 @@
+<v n="1"> Po tych wydarzeniach król Aswerus uczyni³ wielkim Hamana, syna Hammedaty, Agagitê, wywy¿szy³ go i umieœci³ jego tron ponad wszystkimi ksi¹¿êtami, którzy byli przy nim. </v>
+<v n="2"> A wszyscy s³udzy króla, którzy stali w bramie królewskiej, klêkali przed Hamanem i oddawali mu pok³on. Tak bowiem rozkaza³ co do niego król. Ale Mardocheusz nie klêka³ przed nim ani nie oddawa³ mu pok³onu. </v>
+<v n="3"> Dlatego te¿ s³udzy króla, którzy stali w bramie królewskiej, pytali Mardocheusza: Czemu przekraczasz rozkaz króla? </v>
+<v n="4"> A gdy tak do niego dzieñ po dniu mówili, a on ich nie s³ucha³, donieœli o tym Hamanowi, aby siê przekonaæ, czy Mardocheusz bêdzie obstawa³ przy swoim. Powiedzia³ im bowiem, ¿e jest ¯ydem. </v>
+<v n="5"> A gdy Haman zobaczy³, ¿e Mardocheusz nie klêka ani nie oddaje mu pok³onu, Haman nape³ni³ siê gniewem. </v>
+<v n="6"> Uwa¿a³ to za rzecz zbyt ³agodn¹ podnieœæ rêkê na samego Mardocheusza, poniewa¿ doniesiono mu, z jakiego ludu pochodzi Mardocheusz. Szuka³ wiêc Haman sposobnoœci, aby wytraciæ wszystkich ¯ydów, którzy byli w ca³ym królestwie Aswerusa, to jest lud Mardocheusza. </v>
+<v n="7"> Tak wiêc w pierwszym miesi¹cu, w miesi¹cu Nisan, w dwunastym roku króla Aswerusa, rzucano przed Hamanem Pur, czyli los, od dnia do dnia i od miesi¹ca do miesi¹ca, a¿ do dwunastego miesi¹ca, to jest miesi¹ca Adar. </v>
+<v n="8"> Potem Haman powiedzia³ do króla Aswerusa: Jest pewien lud rozproszony i rozsypany pomiêdzy ludami we wszystkich prowincjach twego królestwa. Jego prawa s¹ inne od praw wszystkich ludów, a praw króla nie przestrzega. Dlatego wiêc nie jest korzystne dla króla tak go pozostawiæ. </v>
+<v n="9"> Jeœli król uzna to za s³uszne, niech zostanie zapisane, ¿e ten lud ma byæ wytracony. A ja odwa¿ê dziesiêæ tysiêcy talentów srebra do r¹k prze³o¿onych nad t¹ prac¹, aby je wnieœli do skarbca królewskiego. </v>
+<v n="10"> Wtedy król zdj¹³ pierœcieñ ze swojej rêki i da³ go Hamanowi Agagicie, synowi Hammedaty, wrogowi ¯ydów. </v>
+<v n="11"> Król powiedzia³ do Hamana: Przekazujê ci to srebro i ten lud, abyœ uczyni³ z nim, co ci siê podoba. </v>
+<v n="12"> Wezwano wiêc pisarzy króla w pierwszym miesi¹cu, dnia trzynastego tego miesi¹ca, i napisano wszystko tak, jak Haman rozkaza³, do satrapów królewskich, do namiestników z ka¿dej prowincji i do dowódców ka¿dego ludu z ka¿dej prowincji wed³ug jej pisma i do ka¿dego narodu wed³ug jego jêzyka. Listy napisano w imieniu króla Aswerusa i opieczêtowano je sygnetem króla. </v>
+<v n="13"> Potem rozes³ano je przez goñców do wszystkich prowincji królewskich, aby zg³adzono, wymordowano i wytracono wszystkich ¯ydów, od m³odego do starca, dzieci i kobiety, w jeden dzieñ, mianowicie trzynastego dnia dwunastego miesi¹ca, miesi¹ca Adar, a ich mienie zagrabiono. </v>
+<v n="14"> A odpis tego pisma mia³ byæ podany we wszystkich prowincjach, og³oszony wszystkim ludom, aby by³y gotowe na ten dzieñ. </v>
+<v n="15"> Goñcy wiêc wyruszyli przynaglani rozkazem króla, a dekret og³oszono tak¿e w pa³acu Suza. A król i Haman zasiedli, aby piæ, lecz miasto Suza by³o zatrwo¿one. </v>
+</c>

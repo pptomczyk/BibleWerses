@@ -1,0 +1,26 @@
+<v n="1"> Starszego cz³owieka nie strofuj, lecz nak³aniaj jak ojca, m³odszych – jak braci; </v>
+<v n="2"> Starsze kobiety – jak matki, m³odsze – jak siostry, z ca³¹ czystoœci¹. </v>
+<v n="3"> Okazuj szacunek wdowom, które rzeczywiœcie s¹ wdowami. </v>
+<v n="4"> Jeœli zaœ jakaœ wdowa ma dzieci lub wnuki, niech siê one najpierw ucz¹ byæ pobo¿nymi wzglêdem w³asnego domu i odwzajemniaæ siê rodzicom; jest to bowiem rzecz dobra i mi³a w oczach Boga. </v>
+<v n="5"> Ta zaœ, która rzeczywiœcie jest wdow¹ i jest osamotniona, pok³ada nadziejê w Bogu i trwa w proœbach i modlitwach we dnie i w nocy. </v>
+<v n="6"> Lecz ta, która oddaje siê rozkoszom, jest martwa, chocia¿ ¿yje. </v>
+<v n="7"> To wiêc nakazuj, ¿eby by³y nienaganne. </v>
+<v n="8"> A jeœli ktoœ nie dba o swoich, a zw³aszcza o domowników, ten wypar³ siê wiary i gorszy jest od niewierz¹cego. </v>
+<v n="9"> Do wdów niech bêdzie zaliczona taka, która nie ma mniej ni¿ szeœædziesi¹t lat, by³a ¿on¹ jednego mê¿a; </v>
+<v n="10"> Znana z dobrych uczynków, jeœli wychowa³a dzieci, jeœli udziela³a goœciny, jeœli obmywa³a nogi œwiêtym, jeœli wspomaga³a strapionych, jeœli wykonywa³a ka¿dy dobry uczynek. </v>
+<v n="11"> Natomiast m³odszych wdów do nich nie zaliczaj, bo gdy rozkosze odwodz¹ je od Chrystusa, chc¹ wyjœæ za m¹¿; </v>
+<v n="12"> Œci¹gaj¹c na siebie potêpienie, poniewa¿ odrzuci³y pierwsz¹ wiarê. </v>
+<v n="13"> Co wiêcej, ucz¹ siê bezczynnoœci, chodz¹c od domu do domu, i nie tylko s¹ bezczynne, lecz te¿ gadatliwe, wœcibskie, mówi¹ce to, co nie wypada. </v>
+<v n="14"> Chcê wiêc, ¿eby m³odsze wychodzi³y za m¹¿, rodzi³y dzieci, zajmowa³y siê domem, nie dawa³y przeciwnikowi ¿adnego powodu do obmowy. </v>
+<v n="15"> Ju¿ bowiem niektóre odwróci³y siê i posz³y za szatanem. </v>
+<v n="16"> A jeœli jakiœ wierz¹cy lub wierz¹ca ma w rodzinie wdowy, niech im pomaga, aby koœció³ nie by³ obci¹¿ony i móg³ przyjœæ z pomoc¹ tym, które rzeczywiœcie s¹ wdowami. </v>
+<v n="17"> Starsi, którzy dobrze przewodz¹, niech bêd¹ uwa¿ani za godnych podwójnej czci, a zw³aszcza ci, którzy pracuj¹ w s³owie i w nauce. </v>
+<v n="18"> Mówi bowiem Pismo: M³óc¹cemu wo³owi nie zawi¹¿esz pyska, oraz: Godny jest robotnik swojej zap³aty. </v>
+<v n="19"> Nie przyjmuj oskar¿enia przeciwko starszemu, chyba ¿e na podstawie zeznania dwóch albo trzech œwiadków. </v>
+<v n="20"> A tych, którzy grzesz¹, strofuj w obecnoœci wszystkich, aby i inni siê bali. </v>
+<v n="21"> Zaklinam ciê wobec Boga i Pana Jezusa Chrystusa, i wybranych anio³ów, abyœ tego przestrzega³, nie maj¹c wzglêdu na osoby, nie kieruj¹c siê stronniczoœci¹. </v>
+<v n="22"> R¹k na nikogo pospiesznie nie wk³adaj ani nie b¹dŸ uczestnikiem cudzych grzechów. Siebie samego zachowaj czystym. </v>
+<v n="23"> Samej wody ju¿ nie pij, ale u¿ywaj trochê wina ze wzglêdu na twój ¿o³¹dek i czêste niedomagania. </v>
+<v n="24"> Grzechy niektórych ludzi s¹ jawne, jeszcze zanim zostan¹ os¹dzone, a za niektórymi id¹ w œlad. </v>
+<v n="25"> Podobnie dobre uczynki s¹ jawne, a te, które nie s¹, pozostaæ w ukryciu nie mog¹. </v>
+</c>

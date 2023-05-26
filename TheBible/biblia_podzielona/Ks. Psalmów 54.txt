@@ -1,0 +1,8 @@
+<v n="1"> Przewodnikowi chóru, na Neginot. Psalm pouczaj¹cy Dawida, gdy przyszli mieszkañcy Zif i powiedzieli do Saula: Dawid siê u nas ukrywa. Bo¿e, wybaw mnie twoim imieniem i twoj¹ moc¹ broñ mojej sprawy. </v>
+<v n="2"> Bo¿e, wys³uchaj mojej modlitwy, nak³oñ ucha ku s³owom moich ust. </v>
+<v n="3"> Gdy¿ obcy powstali przeciwko mnie, a okrutnicy czyhaj¹ na moj¹ duszê; nie maj¹ Boga przed oczami. Sela. </v>
+<v n="4"> Oto Bóg jest moim pomocnikiem; Pan jest z tymi, którzy podtrzymuj¹ moje ¿ycie. </v>
+<v n="5"> Odp³aci z³em moim wrogom; w twojej prawdzie wytraæ ich. </v>
+<v n="6"> Bêdê ci dobrowolnie sk³ada³ ofiary, bêdê wys³awia³ twoje imiê, PANIE, bo jest dobre. </v>
+<v n="7"> Uwolni³eœ mnie bowiem z ka¿dego utrapienia, a moje oko widzia³o zemstê nad moimi wrogami. </v>
+</c>

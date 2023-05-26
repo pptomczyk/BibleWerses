@@ -1,0 +1,22 @@
+<v n="1"> W trzecim roku panowania Joakima, króla Judy, do Jerozolimy nadci¹gn¹³ Nabuchodonozor, król Babilonu, i obleg³ j¹. </v>
+<v n="2"> I Pan wyda³ w jego rêkê Joakima, króla Judy, oraz czêœæ naczyñ domu Bo¿ego, a on je zabra³ do ziemi Szinear, do domu swego boga, i wniós³ te naczynia do skarbca swego boga. </v>
+<v n="3"> I król rozkaza³ Aszpenazowi, prze³o¿onemu swoich eunuchów, aby przyprowadzi³ niektórych spoœród synów Izraela, z potomstwa króla i z ksi¹¿¹t; </v>
+<v n="4"> M³odzieñców, w których by nie by³o ¿adnej skazy, o piêknym wygl¹dzie, bieg³ych we wszelkiej m¹droœci, posiadaj¹cych wiedzê i pojêtnych w nauce, którzy byliby zdatni stan¹æ w pa³acu króla, i aby ich nauczaæ pisma i jêzyka chaldejskiego. </v>
+<v n="5"> I król wyznaczy³ im codzienn¹ porcjê potraw królewskich i wina, które on sam pi³. Mieli byæ tak wychowywani, by po up³ywie trzech lat mogli stan¹æ przed królem. </v>
+<v n="6"> Wœród nich, spoœród synów Judy, byli: Daniel, Chananiasz, Miszael i Azariasz. </v>
+<v n="7"> I prze³o¿ony eunuchów nada³ im imiona: Daniela nazwa³ Belteszassarem, Chananiasza – Szadrakiem, Miszaela – Meszakiem i Azariasza – Abed-Nego. </v>
+<v n="8"> Ale Daniel postanowi³ w swoim sercu, ¿e nie splami siê potrawami króla ani winem, które król pi³. Poprosi³ wiêc prze³o¿onego eunuchów, aby nie musia³ siê splamiæ. </v>
+<v n="9"> I Bóg zjedna³ Danielowi ³askê i mi³oœæ prze³o¿onego eunuchów. </v>
+<v n="10"> Prze³o¿ony eunuchów powiedzia³ do Daniela: Bojê siê króla, mojego pana, który wyznaczy³ wasz pokarm i wasz napój. Jeœli zobaczy, ¿e wasze twarze s¹ chudsze ni¿ innych m³odzieñców, którzy razem z wami maj¹ byæ wychowani, wtedy narazicie u króla na niebezpieczeñstwo moj¹ g³owê. </v>
+<v n="11"> Wtedy Daniel powiedzia³ do s³ugi, którego prze³o¿ony eunuchów ustanowi³ nad Danielem, Chananiaszem, Miszaelem i Azariaszem; </v>
+<v n="12"> Poddaj próbie, proszê, twoje s³ugi przez dziesiêæ dni. Niech nam daj¹ jarzyny do jedzenia i wodê do picia. </v>
+<v n="13"> Potem przypatrzysz siê naszym twarzom oraz twarzom m³odzieñców, którzy jadaj¹ pokarm z potraw królewskich, i wed³ug tego, co zobaczysz, tak post¹pisz ze swoimi s³ugami. </v>
+<v n="14"> I pos³ucha³ ich w tej sprawie, i podda³ ich próbie przez dziesiêæ dni. </v>
+<v n="15"> A po up³ywie dziesiêciu dni okaza³o siê, ¿e ich twarze wygl¹da³y lepiej i ich cia³a by³y tê¿sze ni¿ wszystkich m³odzieñców, którzy jadali pokarm z potraw królewskich. </v>
+<v n="16"> S³uga zabra³ wiêc ich potrawy oraz wino, które mieli piæ, a da³ im jarzyny. </v>
+<v n="17"> Tym czterem m³odzieñcom da³ Bóg wiedzê i zrozumienie we wszelkim piœmie oraz m¹droœæ. Ponadto Danielowi da³ zrozumienie wszelkich widzeñ i snów. </v>
+<v n="18"> Gdy minê³y dni wyznaczone przez króla, by ich przyprowadziæ, prze³o¿ony dworzan wprowadzi³ ich przed Nabuchodonozora. </v>
+<v n="19"> I król rozmawia³ z nimi, ale nie znalaz³ siê poœród nich wszystkich nikt taki, jak Daniel, Chananiasz, Miszael i Azariasz. I stanêli przed królem. </v>
+<v n="20"> We wszystkich sprawach m¹droœci i rozumu, o które pyta³ ich król, stwierdza³, ¿e s¹ dziesiêciokrotnie bieglejsi od wszystkich magów i astrologów, którzy byli w ca³ym jego królestwie. </v>
+<v n="21"> I Daniel by³ tam a¿ do pierwszego roku króla Cyrusa. </v>
+</c>

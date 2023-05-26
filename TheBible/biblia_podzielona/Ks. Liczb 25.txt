@@ -1,0 +1,19 @@
+<v n="1"> Potem Izrael zamieszka³ w Szittim i lud zacz¹³ uprawiaæ nierz¹d z córkami Moabu. </v>
+<v n="2"> One zaprasza³y lud do ofiar swoich bogów. A lud jad³ i oddawa³ pok³on ich bogom. </v>
+<v n="3"> I Izrael przy³¹czy³ siê do Baal-Peora, i PAN bardzo rozgniewa³ siê na Izraela. </v>
+<v n="4"> Wtedy PAN powiedzia³ do Moj¿esza: Zbierz wszystkich naczelników ludu i powieœ ich przed PANEM na s³oñcu, aby zapalczywoœæ gniewu PANA odwróci³a siê od Izraela. </v>
+<v n="5"> Moj¿esz powiedzia³ wiêc do sêdziów Izraela: Niech ka¿dy z was zabije swoich ludzi, którzy przy³¹czyli siê do Baal-Peora. </v>
+<v n="6"> A oto jeden z synów Izraela przyszed³ i przyprowadzi³ do swoich braci Midianitkê na oczach Moj¿esza i na oczach ca³ego zgromadzenia synów Izraela, którzy p³akali przed wejœciem do Namiotu Zgromadzenia. </v>
+<v n="7"> Gdy zobaczy³ to Pinchas, syn Eleazara, syna Aarona, kap³ana, wsta³ spoœród zgromadzenia i wzi¹³ do rêki oszczep. </v>
+<v n="8"> I poszed³ za tym Izraelit¹ do namiotu, przebi³ oboje, tego Izraelitê oraz kobietê przez jej podbrzusze. I plaga wœród synów Izraela zosta³a powstrzymana. </v>
+<v n="9"> A tych, którzy umarli od tej plagi, by³o dwadzieœcia cztery tysi¹ce. </v>
+<v n="10"> Potem PAN powiedzia³ do Moj¿esza: </v>
+<v n="11"> Pinchas, syn Eleazara, syna Aarona, kap³ana, odwróci³ mój gniew od synów Izraela, gdy¿ okaza³ wœród nich gorliwoœæ ze wzglêdu na mnie, tak ¿e nie wytraci³em synów Izraela w mojej zazdroœci. </v>
+<v n="12"> Dlatego powiedz mu: Oto zawieram z nim moje przymierze pokoju; </v>
+<v n="13"> Bêdzie to dla niego i dla jego potomstwa po nim przymierze wiecznego kap³añstwa, poniewa¿ okaza³ gorliwoœæ o swego Boga i dokona³ przeb³agania za synów Izraela. </v>
+<v n="14"> A imiê tego Izraelity, który zosta³ zabity wraz z Midianitk¹, by³o Zimri; by³ to syn Salu, naczelnika domu swego ojca, z pokolenia Symeona. </v>
+<v n="15"> Imiê zabitej Midianitki by³o Kozbi, by³a to córka Sura, naczelnika w swoim narodzie i w domu swego ojca w Midianie. </v>
+<v n="16"> I PAN powiedzia³ do Moj¿esza: </v>
+<v n="17"> Odnoœcie siê wrogo do Midianitów i pobijcie ich; </v>
+<v n="18"> Poniewa¿ oni odnosili siê wrogo do was przez swoje podstêpy, a podeszli was przez Baal-Peora i przez ich siostrê Kozbi, córkê ksiêcia Midianu, która zosta³a zabita w dniu plagi z powodu Peora. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> M¹dry syn przyjmuje pouczenie ojca, a szyderca nie s³ucha strofowania. </v>
+<v n="2"> Cz³owiek bêdzie spo¿ywaæ dobro z owocu swoich ust, a dusza przewrotnych bêdzie spo¿ywaæ przemoc. </v>
+<v n="3"> Kto strze¿e swych ust, strze¿e swojej duszy; kto szeroko otwiera swe wargi, bêdzie zniszczony. </v>
+<v n="4"> Dusza leniwego pragnie, a nic nie ma, a dusza pracowitych zostanie obficie nasycona. </v>
+<v n="5"> Sprawiedliwy nienawidzi k³amliwego s³owa, a niegodziwy staje siê obrzydliwy i zhañbiony. </v>
+<v n="6"> Sprawiedliwoœæ strze¿e tego, który postêpuje uczciwie, a niegodziwoœæ powala grzesznika. </v>
+<v n="7"> Znajduje siê taki, który czyni siebie bogatym, a nie ma nic; inny czyni siebie ubogim, choæ ma wiele bogactw. </v>
+<v n="8"> Okupem za ¿ycie cz³owieka jest jego bogactwo, a ubogi nie s³ucha strofowania. </v>
+<v n="9"> Radoœnie b³yszczy œwiat³o sprawiedliwych, a pochodnia niegodziwych zgaœnie. </v>
+<v n="10"> Spór powstaje tylko dziêki pysze, a m¹droœæ jest przy tych, co przyjmuj¹ radê. </v>
+<v n="11"> £atwo zdobyte bogactwo zmniejsza siê, a kto je gromadzi sw¹ rêk¹, pomna¿a je. </v>
+<v n="12"> Przed³u¿aj¹ca siê nadzieja sprawia ból sercu, a spe³nione pragnienie jest drzewem ¿ycia. </v>
+<v n="13"> Kto gardzi s³owem Bo¿ym, ten zginie, a kto siê boi przykazania, dostanie nagrodê. </v>
+<v n="14"> Prawo m¹drego jest Ÿród³em ¿ycia, by unikn¹æ side³ œmierci. </v>
+<v n="15"> Prawdziwy rozum daje ³askê, a droga przewrotnych jest ciê¿ka. </v>
+<v n="16"> Ka¿dy roztropny postêpuje rozwa¿nie, a g³upi ujawnia g³upotê. </v>
+<v n="17"> Niegodziwy pos³aniec popada w z³o, a wierny wys³annik jest lekarstwem. </v>
+<v n="18"> Ubóstwo i hañba spadn¹ na tego, który odrzuca karnoœæ, a kto szanuje upomnienia, dozna czci. </v>
+<v n="19"> Spe³nione pragnienie jest s³odkie dla duszy, a odwrócenie siê od z³a budzi odrazê w g³upcach. </v>
+<v n="20"> Kto przestaje z m¹drymi, bêdzie m¹dry, a towarzysz g³upców bêdzie zniszczony. </v>
+<v n="21"> Nieszczêœcie œciga grzeszników, a sprawiedliwych Bóg nagrodzi dobrem. </v>
+<v n="22"> Dobry cz³owiek zostawia dziedzictwo dzieciom swoich dzieci, a maj¹tek grzesznika jest zachowany dla sprawiedliwego. </v>
+<v n="23"> Obfita ¿ywnoœæ jest na roli ubogich, lecz i ta mo¿e niszczeæ przez nieroztropnoœæ. </v>
+<v n="24"> Kto oszczêdza sw¹ rózgê, nienawidzi swego syna, a kto go kocha, karze w porê. </v>
+<v n="25"> Sprawiedliwy je i syci swoj¹ duszê, a ¿o³¹dek niegodziwych cierpi niedostatek. </v>
+</c>

@@ -1,0 +1,15 @@
+<v n="1"> Gdy Filistyni walczyli z Izraelem, Izraelici uciekli przed nimi i padli zabici na górze Gilboa. </v>
+<v n="2"> I Filistyni œcigali Saula i jego synów, i zabili Jonatana, Abinadaba i Malkiszuê, synów Saula. </v>
+<v n="3"> A gdy rozgorza³a bitwa przeciw Saulowi, ³ucznicy trafili w niego i zosta³ przez nich ciê¿ko zraniony. </v>
+<v n="4"> Wtedy Saul powiedzia³ do swego giermka: Dob¹dŸ swój miecz i przebij mnie nim, aby nie przyszli ci nieobrzezani i nie znêcali siê nade mn¹. Ale jego giermek nie chcia³ tego zrobiæ, poniewa¿ bardzo siê ba³. Saul wiêc wzi¹³ miecz i sam rzuci³ siê na niego. </v>
+<v n="5"> A gdy jego giermek zobaczy³, ¿e Saul umar³, rzuci³ siê i on na swój miecz i umar³. </v>
+<v n="6"> Tak umarli Saul i jego trzej synowie, a ca³y jego dom zgin¹³ razem z nim. </v>
+<v n="7"> A gdy wszyscy Izraelici, którzy mieszkali w dolinie, zobaczyli, ¿e Izraelici uciekli oraz ¿e Saul i jego synowie umarli, opuœcili swoje miasta i uciekli. Przyszli wiêc Filistyni i mieszkali w nich. </v>
+<v n="8"> Kiedy nazajutrz Filistyni przyszli, aby z³upiæ zabitych, znaleŸli Saula i jego synów poleg³ych na górze Gilboa. </v>
+<v n="9"> Obdarli go wiêc z szat, wziêli jego g³owê i zbrojê i rozes³ali po ca³ej ziemi filistyñskiej, aby og³osiæ radosn¹ wieœæ swoim bo¿kom i swojemu ludowi. </v>
+<v n="10"> Jego zbrojê po³o¿yli w domu swoich bogów, a jego g³owê powiesili w œwi¹tyni Dagona. </v>
+<v n="11"> Kiedy wszyscy mieszkañcy Jabesz-Gilead us³yszeli o wszystkim, co Filistyni uczynili Saulowi; </v>
+<v n="12"> Powstali wszyscy waleczni mê¿czyŸni, wziêli cia³o Saula oraz cia³a jego synów, przynieœli je do Jabesz i pogrzebali ich koœci pod dêbem w Jabesz. Potem poœcili przez siedem dni. </v>
+<v n="13"> Tak umar³ Saul z powodu swojego przestêpstwa, które pope³ni³ przeciwko PANU i przeciwko s³owu PANA, którego nie przestrzega³, oraz za to, ¿e szuka³ rady czarownika; </v>
+<v n="14"> A nie radzi³ siê PANA. PAN zabi³ go wiêc i przeniós³ królestwo na Dawida, syna Jessego. </v>
+</c>

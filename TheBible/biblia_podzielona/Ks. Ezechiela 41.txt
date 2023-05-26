@@ -1,0 +1,27 @@
+<v n="1"> Potem wprowadzi³ mnie do œwi¹tyni i zmierzy³ filary: szeœæ ³okci wynosi³a szerokoœæ z jednej strony i szeœæ ³okci szerokoœæ z drugiej strony, wed³ug szerokoœci przybytku. </v>
+<v n="2"> A szerokoœæ drzwi wynosi³a dziesiêæ ³okci, a boczne œciany wejœcia mia³y piêæ ³okci z jednej i piêæ ³okci z drugiej strony. I zmierzy³ jej d³ugoœæ: czterdzieœci ³okci, a jej szerokoœæ: dwadzieœcia ³okci. </v>
+<v n="3"> Nastêpnie wszed³ do wnêtrza i zmierzy³ filary przy wejœciu – dwa ³okcie, drzwi – szeœæ ³okci, a szerokoœæ drzwi – siedem ³okci. </v>
+<v n="4"> Zmierzy³ te¿ d³ugoœæ – dwadzieœcia ³okci, jego szerokoœæ – dwadzieœcia ³okci, odpowiednio do œwi¹tyni. I powiedzia³ do mnie: To jest Miejsce Najœwiêtsze. </v>
+<v n="5"> Potem zmierzy³ mur domu – szeœæ ³okci, a szerokoœæ ka¿dej bocznej komory – cztery ³okcie wokó³ ca³ego domu. </v>
+<v n="6"> Boczne komory znajdowa³y siê na trzech poziomach, jedna nad drug¹, w liczbie trzydziestu. Wchodzi³y one w mur otaczaj¹cy dom, aby komory na nim siê opiera³y, ale nie opiera³y siê na murze domu. </v>
+<v n="7"> I rozszerza³y siê boczne komory doko³a domu, odpowiednio do wzrastaj¹cej wysokoœci, gdy¿ mur doko³a domu traci³ na gruboœci. Dlatego szerokoœæ domu wzrasta³a od najni¿szych komór do najwy¿szych, do których siê wchodzi³o schodami poprzez te œrodkowe. </v>
+<v n="8"> Widzia³em te¿ wysokoœæ domu doko³a i fundament tych komór, a mia³ pe³ny prêt – szeœæ ³okci. </v>
+<v n="9"> Gruboœæ zewnêtrznego muru bocznych komór wynosi³a piêæ ³okci, a przed komorami, które by³y przy domu, pozosta³a wolna przestrzeñ. </v>
+<v n="10"> A miêdzy komorami i komórkami odleg³oœæ wynosi³a dwadzieœcia ³okci wszêdzie wokó³ domu. </v>
+<v n="11"> A drzwi bocznych komór wychodzi³y na woln¹ przestrzeñ, jedne drzwi na pó³noc, a drugie na po³udnie. Szerokoœæ tej wolnej przestrzeni wynosi³a piêæ ³okci wszêdzie doko³a. </v>
+<v n="12"> A budowla, która by³a poza obszarem wyznaczonym na stronie zachodniej, mia³a szerokoœæ siedemdziesiêciu ³okci, mur tej budowli mia³ gruboœæ piêciu ³okci wszêdzie woko³o i jej d³ugoœæ wynosi³a dziewiêædziesi¹t ³okci. </v>
+<v n="13"> Potem zmierzy³ dom – mia³ d³ugoœæ stu ³okci; a obszar wyznaczony, budowla i jej mury mia³y d³ugoœæ stu ³okci; </v>
+<v n="14"> Tak¿e szerokoœæ fasady domu oraz obszaru wyznaczonego od strony wschodniej wynosi³a sto ³okci. </v>
+<v n="15"> Zmierzy³ te¿ d³ugoœæ budowli przed obszarem wyznaczonym, która by³a za nim, tak¿e i jej kru¿ganki z jednej i z drugiej strony, i wynosi³a sto ³okci, a tak samo by³o z wewnêtrzn¹ œwi¹tyni¹ wraz z przedsionkami dziedziñca. </v>
+<v n="16"> Progi, w¹skie okna, kru¿ganki woko³o trzech stron naprzeciwko progu pokryte by³y deskami doko³a, od ziemi a¿ do okien, a okna by³y pokryte deskami; </v>
+<v n="17"> Od wierzchu drzwi a¿ do wewnêtrznej i zewnêtrznej strony domu, i ca³y mur wszêdzie doko³a, wewn¹trz i zewn¹trz, dobrze wymierzony. </v>
+<v n="18"> Tak oto by³y wykonane cherubiny i palmy: ka¿da palma by³a miêdzy dwoma cherubinami, a ka¿dy cherubin mia³ dwie twarze; </v>
+<v n="19"> Twarz ludzka by³a zwrócona w stronê palmy z jednej strony, a twarz m³odego lwa zwrócona w stronê palmy z drugiej strony. Tak wykonano to w ca³ym domu wszêdzie woko³o. </v>
+<v n="20"> Od ziemi a¿ ponad wejœcie by³y wyrzeŸbione cherubiny i palmy, tak¿e na œcianie œwi¹tyni. </v>
+<v n="21"> Filary œwi¹tyni by³y czworok¹tne, a wygl¹d Miejsca Najœwiêtszego by³ jak wygl¹d œwi¹tyni. </v>
+<v n="22"> O³tarz drewniany by³ wysoki na trzy ³okcie i szeroki na dwa ³okcie; jego rogi, jego podstawa i jego œciany by³y z drewna. Wtedy powiedzia³ do mnie: To jest stó³, który stoi przed PANEM. </v>
+<v n="23"> A œwi¹tynia i Miejsce Najœwiêtsze mia³y podwójne drzwi. </v>
+<v n="24"> A drzwi by³y dwuskrzyd³owe, mia³y dwa skrzyd³a obrotowe; dwa skrzyd³a mia³y jedne drzwi i dwa mia³y drugie. </v>
+<v n="25"> A wykonano na nich, na tych drzwiach œwi¹tyni, cherubiny i palmy, tak jak wykonano je na œcianach; by³y tak¿e drewniane belki nad przedsionkiem na zewn¹trz. </v>
+<v n="26"> Na w¹skich oknach by³y palmy po obu stronach, na bokach przedsionka, tak¿e na bocznych komorach domu i na belkach. </v>
+</c>

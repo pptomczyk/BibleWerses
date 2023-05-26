@@ -1,0 +1,17 @@
+<v n="1"> S³owo, które dosz³o od PANA do Jeremiasza, po uwolnieniu go z Rama przez Nebuzaradana, dowódcê gwardii, gdy go zabra³ zwi¹zanego ³añcuchami spoœród wszystkich wiêŸniów Jerozolimy i Judy, których uprowadzono do Babilonu. </v>
+<v n="2"> Dowódca gwardii wzi¹³ Jeremiasza i powiedzia³ do niego: PAN, twój Bóg, zapowiedzia³ to nieszczêœcie przeciwko temu miejscu. </v>
+<v n="3"> PAN wiêc sprowadzi³ je i spe³ni³, jak powiedzia³. Zgrzeszyliœcie bowiem przeciwko PANU i nie s³uchaliœcie jego g³osu, dlatego was to spotka³o. </v>
+<v n="4"> Teraz oto uwalniam ciê dziœ z tych ³añcuchów, które s¹ na twoich rêkach. Jeœli uwa¿asz za s³uszne pójœæ ze mn¹ do Babilonu, chodŸ; ja zatroszczê siê o ciebie. A jeœli uwa¿asz za nies³uszne pójœæ ze mn¹ do Babilonu, zaniechaj tego. Oto ca³a ziemia jest przed tob¹. Gdzie uwa¿asz, ¿e dobrze i s³usznie by³oby pójœæ, tam idŸ. </v>
+<v n="5"> A gdy on jeszcze nie odchodzi³, powiedzia³: Udaj siê do Gedaliasza, syna Achikama, syna Szafana, którego król Babilonu ustanowi³ namiestnikiem nad miastami Judy, i zamieszkaj z nim poœród ludu albo idŸ, gdziekolwiek uwa¿asz za s³uszne. I dowódca gwardii da³ mu ¿ywnoœæ i podarunek i odprawi³ go. </v>
+<v n="6"> Wtedy Jeremiasz uda³ siê do Gedaliasza, syna Achikama, do Mispy, i mieszka³ z nim wœród ludu, który pozosta³ w ziemi. </v>
+<v n="7"> A gdy wszyscy dowódcy wojsk, którzy przebywali na polach, oni i ich ludzie, us³yszeli, ¿e król Babilonu ustanowi³ Gedaliasza, syna Achikama, namiestnikiem w ziemi i ¿e powierzy³ mu mê¿czyzn, kobiety, dzieci i ubogich tej ziemi, których nie uprowadzono do Babilonu; </v>
+<v n="8"> Do Gedaliasza do Mispy przyszli: Izmael, syn Netaniasza, Jochanan i Jonatan, synowie Kareacha, Serajasz, syn Tanchumeta, synowie Efaja Netofatyty, oraz Jezaniasz, syn Maachatyty, oni i ich ludzie. </v>
+<v n="9"> Wtedy Gedaliasz, syn Achikama, syna Szafana, przysi¹g³ im i ich ludziom: Nie bójcie siê s³u¿yæ Chaldejczykom. Pozostañcie w ziemi i s³u¿cie królowi Babilonu, a bêdzie wam dobrze. </v>
+<v n="10"> Oto bowiem mieszkam w Mispie, aby s³u¿yæ Chaldejczykom, którzy przyjd¹ do nas; a wy zbierajcie wino, letnie owoce i oliwê, gromadŸcie w swoich naczyniach i mieszkajcie w swoich miastach, które zajmujecie. </v>
+<v n="11"> Tak¿e i wszyscy ¯ydzi, którzy byli w Moabie, poœród synów Ammona, w Edomie i we wszystkich innych ziemiach, gdy us³yszeli, ¿e król Babilonu pozostawi³ resztkê z Judy i ¿e ustanowi³ nad nimi Gedaliasza, syna Achikama, syna Szafana; </v>
+<v n="12"> Wrócili wszyscy ci ¯ydzi ze wszystkich miejsc, do których zostali wygnani, i przyszli do ziemi Judy, do Gedaliasza do Mispy, i nazbierali bardzo obficie wina i letnich owoców. </v>
+<v n="13"> Ale Jochanan, syn Kareacha, i wszyscy dowódcy wojsk, którzy przebywali na polach, przyszli do Gedaliasza do Mispy; </v>
+<v n="14"> I powiedzieli do niego: Czy wiesz o tym, ¿e Baalis, król synów Ammona, pos³a³ Izmaela, syna Netaniasza, aby ciê zabiæ? Ale Gedaliasz, syn Achikama, nie uwierzy³ im. </v>
+<v n="15"> Wtedy Jochanan, syn Kareacha, powiedzia³ potajemnie do Gedaliasza w Mispie: Pozwól mi pójœæ, proszê, i zabijê Izmaela, syna Netaniasza, a nikt siê o tym nie dowie. Dlaczego ma ciê zabiæ, aby zostali rozproszeni wszyscy ¯ydzi, którzy siê zebrali u ciebie, i aby zginê³a resztka Judy? </v>
+<v n="16"> Ale Gedaliasz, syn Achikama, odpowiedzia³ Jochananowi, synowi Kareacha: Nie czyñ tego, bo to, co mówisz o Izmaelu, jest nieprawd¹. </v>
+</c>

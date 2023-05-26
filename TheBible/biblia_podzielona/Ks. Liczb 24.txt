@@ -1,0 +1,26 @@
+<v n="1"> Gdy Balaam zauwa¿y³, ¿e PAN upodoba³ sobie b³ogos³awiæ Izraela, nie poszed³ jak przedtem szukaæ wró¿by, lecz zwróci³ swoj¹ twarz ku pustyni. </v>
+<v n="2"> I Balaam podniós³ swoje oczy, i zobaczy³ Izraela obozuj¹cego wed³ug swoich pokoleñ. Wtedy Duch Bo¿y spocz¹³ na nim. </v>
+<v n="3"> I rozpocz¹³ swoj¹ przypowieœæ tymi s³owy: WypowiedŸ Balaama, syna Beora, wypowiedŸ cz³owieka, który ma otwarte oczy; </v>
+<v n="4"> WypowiedŸ tego, który s³ysza³ s³owa Boga, który mia³ widzenie Wszechmocnego, a padaj¹c, mia³ otwarte oczy: </v>
+<v n="5"> Jak piêkne s¹ twoje namioty, Jakubie, twoje przybytki, Izraelu! </v>
+<v n="6"> Rozci¹gnê³y siê jak doliny, jak ogrody przy rzece, jak aloesy, które PAN zasadzi³, jak cedry nad wodami. </v>
+<v n="7"> Pop³ynie woda z jego wiadra, jego nasienie bêdzie w wielu wodach, jego król przewy¿szy Agaga i jego królestwo bêdzie wyniesione. </v>
+<v n="8"> Bóg wyprowadzi³ go z Egiptu, jego moc jest jak u jednoro¿ca; po¿re wrogie sobie narody, pokruszy ich koœci i przeszyje je swymi strza³ami. </v>
+<v n="9"> Po³o¿y³ siê, le¿y jak lew, jak silny lew: któ¿ go obudzi? B³ogos³awiony ten, kto ciê b³ogos³awi, a przeklêty ten, kto ciê przeklina. </v>
+<v n="10"> Wtedy zap³on¹³ gniew Balaka na Balaama i klasn¹³ w d³onie. I Balak powiedzia³ do Balaama: Wezwa³em ciê, abyœ przeklina³ moich wrogów, a oto ju¿ trzy razy ich b³ogos³awi³eœ. </v>
+<v n="11"> Uciekaj wiêc teraz do siebie. Powiedzia³em, ¿e wielce ciê uczczê, lecz oto PAN pozbawi³ ciê tej czci. </v>
+<v n="12"> I Balaam powiedzia³ do Balaka: Czy i twoim pos³om, których do mnie wys³a³eœ, nie powiedzia³em: </v>
+<v n="13"> Choæby Balak da³ mi swój dom pe³en srebra i z³ota, nie bêdê móg³ przekroczyæ s³owa PANA, bym sam z siebie uczyni³ coœ dobrego lub z³ego; co PAN mi powie, to bêdê mówi³. </v>
+<v n="14"> Teraz idê do mego ludu, ale chodŸ i oznajmiê ci, co ten lud uczyni twemu ludowi w przysz³oœci. </v>
+<v n="15"> I rozpocz¹³ swoj¹ przypowieœæ tymi s³owy: WypowiedŸ Balaama, syna Beora, wypowiedŸ cz³owieka, który ma otwarte oczy; </v>
+<v n="16"> WypowiedŸ tego, który s³ysza³ s³owa Boga, który ma wiedzê o Najwy¿szym, który mia³ widzenie Wszechmocnego, a padaj¹c, mia³ otwarte oczy: </v>
+<v n="17"> Ujrzê go, ale nie teraz; zobaczê go, ale nie z bliska; gwiazda wzejdzie z Jakuba, ber³o powstanie z Izraela i pobije ksi¹¿¹t Moabu oraz wytraci wszystkich synów Seta. </v>
+<v n="18"> Edom stanie siê posiad³oœci¹, Seir te¿ stanie siê posiad³oœci¹ swoich wrogów, a Izrael bêdzie sobie poczyna³ mê¿nie. </v>
+<v n="19"> Z Jakuba powstanie w³adca i wyniszczy resztki miasta. </v>
+<v n="20"> A gdy spojrza³ na Amaleka, rozpocz¹³ sw¹ przypowieœæ tymi s³owy: Amalek by³ pierwszym z narodów, lecz jego koñcem bêdzie wieczna zguba. </v>
+<v n="21"> Potem spojrza³ na Kenitów i rozpocz¹³ sw¹ przypowieœæ tymi s³owy: Twoje mieszkanie jest mocne, a swoje gniazdo za³o¿y³eœ na skale; </v>
+<v n="22"> A jednak Kenita bêdzie spustoszony, a¿ Aszszur weŸmie ciê w niewolê. </v>
+<v n="23"> Znowu rozpocz¹³ sw¹ przypowieœæ tymi s³owy: Ach! Któ¿ ¿yw zostanie, gdy Bóg to uczyni? </v>
+<v n="24"> Przyp³yn¹ bowiem okrêty od wybrze¿a Kittim i pognêbi¹ Aszszur, pognêbi¹ te¿ Eber; lecz i oni sami zgin¹ na zawsze. </v>
+<v n="25"> Potem Balaam wsta³ i odszed³, i wróci³ do siebie. Balak tak¿e poszed³ swoj¹ drog¹. </v>
+</c>

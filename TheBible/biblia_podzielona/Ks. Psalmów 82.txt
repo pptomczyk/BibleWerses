@@ -1,0 +1,9 @@
+<v n="1"> Psalm Asafa. Bóg stoi w zgromadzeniu Bo¿ym, poœród bogów sprawuje s¹d: </v>
+<v n="2"> Jak d³ugo bêdziecie s¹dziæ niesprawiedliwie i trzymaæ stronê niegodziwych? Sela. </v>
+<v n="3"> Bierzcie w obronê ubogiego i sierotê, oddajcie sprawiedliwoœæ strapionemu i potrzebuj¹cemu. </v>
+<v n="4"> Wyzwólcie biedaka i nêdzarza, ocalcie go z rêki niegodziwych. </v>
+<v n="5"> Lecz oni nic nie wiedz¹ i nie rozumiej¹, ci¹gle chodz¹ w ciemnoœci; zachwia³y siê wszystkie fundamenty ziemi. </v>
+<v n="6"> Powiedzia³em: Jesteœcie bogami i wszyscy wy jesteœcie synami Najwy¿szego. </v>
+<v n="7"> Lecz pomrzecie jak inni ludzie i upadniecie jak jeden z ksi¹¿¹t. </v>
+<v n="8"> Powstañ, Bo¿e, os¹dŸ ziemiê, bo ty otrzymasz w dziedzictwo wszystkie narody. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> Alleluja. Chwalcie imiê PANA; chwalcie, s³udzy PANA; </v>
+<v n="2"> Którzy stoicie w domu PANA, w przedsionkach domu naszego Boga. </v>
+<v n="3"> Chwalcie PANA, bo PAN jest dobry; œpiewajcie jego imieniu, bo jest wdziêczne. </v>
+<v n="4"> PAN bowiem wybra³ sobie Jakuba i Izraela na swoj¹ szczególn¹ w³asnoœæ. </v>
+<v n="5"> Wiem, ¿e wielki jest PAN, a nasz Pan jest ponad wszystkimi bogami. </v>
+<v n="6"> Wszystko, co PAN chce, to czyni na niebie i na ziemi, w morzu i we wszystkich g³êbinach. </v>
+<v n="7"> On sprawia, ¿e mg³y wznosz¹ siê z krañców ziemi; wywo³uje b³yskawice i deszcz, wydobywa wiatr ze swoich skarbców; </v>
+<v n="8"> Porazi³ pierworodnych w Egipcie, od cz³owieka a¿ do zwierzêcia. </v>
+<v n="9"> Zes³a³ znaki i cuda poœród ciebie, Egipcie; na faraona i na wszystkie jego s³ugi. </v>
+<v n="10"> Pobi³ wiele narodów i zg³adzi³ potê¿nych królów; </v>
+<v n="11"> Sychona, króla Amorytów, i Oga, króla Baszanu, i wszystkie królestwa Kanaanu; </v>
+<v n="12"> I da³ ich ziemiê w dziedzictwo, w dziedzictwo Izraelowi, swemu ludowi. </v>
+<v n="13"> Twoje imiê, PANIE, trwa na wieki; twoja pamiêæ, PANIE, z pokolenia na pokolenie. </v>
+<v n="14"> Bo PAN bêdzie s¹dziæ swój lud i zmi³uje siê nad swymi s³ugami. </v>
+<v n="15"> Bo¿ki pogan to srebro i z³oto, dzie³o ludzkich r¹k. </v>
+<v n="16"> Maj¹ usta, ale nie mówi¹; maj¹ oczy, ale nie widz¹; </v>
+<v n="17"> Maj¹ uszy, ale nie s³ysz¹, i nie ma oddechu w ich ustach. </v>
+<v n="18"> Podobni s¹ do nich ci, którzy je robi¹, i wszyscy, którzy w nich pok³adaj¹ ufnoœæ. </v>
+<v n="19"> Domu Izraela, b³ogos³awcie PANA; domu Aarona, b³ogos³awcie PANA. </v>
+<v n="20"> Domu Lewiego, b³ogos³awcie PANA; wy, którzy siê boicie PANA, b³ogos³awcie PANA. </v>
+<v n="21"> Niech bêdzie b³ogos³awiony z Syjonu PAN, który mieszka w Jeruzalem. Alleluja. </v>
+</c>

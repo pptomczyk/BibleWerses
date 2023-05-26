@@ -1,0 +1,21 @@
+<v n="1"> Jozjasz mia³ osiem lat, kiedy zacz¹³ królowaæ, i królowa³ trzydzieœci jeden lat w Jerozolimie. Jego matka mia³a na imiê Jedida i by³a córk¹ Adajasza z Boskat. </v>
+<v n="2"> Czyni³ on to, co by³o s³uszne w oczach PANA, i szed³ wszystkimi drogami Dawida, swego ojca, a nie zbacza³ ani na prawo, ani na lewo. </v>
+<v n="3"> A w osiemnastym roku króla Jozjasza król pos³a³ pisarza, Szafana, syna Azaliasza, syna Meszullama, do domu PANA, mówi¹c: </v>
+<v n="4"> IdŸ do najwy¿szego kap³ana Chilkiasza. Niech zbiera pieni¹dze, które przyniesiono do domu PANA, a które stró¿e progu zebrali od ludu; </v>
+<v n="5"> I niech je dadz¹ do r¹k kierownikom robót, prze³o¿onym nad domem PANA. A ci niech przeka¿¹ je robotnikom pracuj¹cym w domu PANA, aby naprawiali szkody domu; </v>
+<v n="6"> To jest cieœlom, budowniczym i murarzom, oraz na zakup drewna i ciosanego kamienia na naprawê domu. </v>
+<v n="7"> Jednak nie trzeba by³o rozliczaæ siê z nimi z pieniêdzy, które dali im do r¹k, bo oni postêpowali uczciwie. </v>
+<v n="8"> Wtedy najwy¿szy kap³an Chilkiasz powiedzia³ do pisarza, Szafana: Znalaz³em ksiêgê Prawa w domu PANA. I Chilkiasz da³ ksiêgê Szafanowi, a ten j¹ czyta³. </v>
+<v n="9"> Nastêpnie pisarz Szafan przyszed³ do króla i zda³ sprawê królowi, mówi¹c: Twoi s³udzy zebrali pieni¹dze, które znajdowa³y siê w domu PANA, i dali je w rêce kierownikom robót, prze³o¿onym nad domem PANA. </v>
+<v n="10"> Pisarz Szafan oznajmi³ tak¿e królowi: Kap³an Chilkiasz da³ mi ksiêgê. I Szafan czyta³ j¹ wobec króla. </v>
+<v n="11"> A gdy król us³ysza³ s³owa ksiêgi Prawa, rozdar³ swoje szaty. </v>
+<v n="12"> Potem król rozkaza³ kap³anowi Chilkiaszowi, Achikamowi, synowi Szafana, Akborowi, synowi Micheasza, pisarzowi Szafanowi i swojemu s³udze Asajaszowi: </v>
+<v n="13"> IdŸcie, radŸcie siê PANA co do mnie, co do ludu i co do ca³ej Judy w zwi¹zku ze s³owami tej ksiêgi, któr¹ znaleziono. Wielki bowiem jest gniew PANA, którym zap³on¹³ przeciwko nam, dlatego ¿e nasi ojcowie nie pos³uchali s³ów tej ksiêgi, aby czyniæ zgodnie ze wszystkim, co jest dla nas napisane. </v>
+<v n="14"> Tak wiêc kap³an Chilkiasz, Achikam, Akbor, Szafan i Asajasz poszli do prorokini Chuldy, ¿ony Szalluma, syna Tikwy, syna Charchasza, stra¿nika szat – mieszka³a ona w Jerozolimie, po drugiej stronie miasta – i opowiedzieli jej o tej sprawie. </v>
+<v n="15"> Ona zaœ powiedzia³a im: Tak mówi PAN, Bóg Izraela: Powiedzcie mê¿czyŸnie, który was pos³a³ do mnie; </v>
+<v n="16"> Tak mówi PAN: Oto sprowadzê nieszczêœcie na to miejsce i na jego mieszkañców, zgodnie ze wszystkimi s³owami tej ksiêgi, które czyta³ król Judy; </v>
+<v n="17"> Za to, ¿e mnie opuœcili i palili kadzid³o innym bogom, aby pobudziæ mnie do gniewu wszystkimi dzie³ami swoich r¹k. Dlatego zap³onie mój gniew przeciwko temu miejscu i nie zagaœnie. </v>
+<v n="18"> A królowi Judy, który pos³a³ was, aby radziæ siê PANA, tak powiedzcie: Tak mówi PAN, Bóg Izraela, co do s³ów, które s³ysza³eœ; </v>
+<v n="19"> Poniewa¿ twoje serce zmiêk³o i upokorzy³eœ siê przed PANEM, gdy us³ysza³eœ, co powiedzia³em przeciw temu miejscu i przeciw jego mieszkañcom – ¿e stan¹ siê spustoszeniem i kl¹tw¹ – rozdar³eœ swoje szaty i p³aka³eœ przede mn¹, to i ja równie¿ ciebie wys³ucha³em, mówi PAN. </v>
+<v n="20"> Dlatego oto przy³¹czê ciê do twoich ojców i bêdziesz z³o¿ony w swoim grobie w pokoju, aby twoje oczy nie ogl¹da³y ca³ego nieszczêœcia, które sprowadzê na to miejsce. A oni zanieœli tê odpowiedŸ królowi. </v>
+</c>

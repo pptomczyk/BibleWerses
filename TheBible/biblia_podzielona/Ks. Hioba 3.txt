@@ -1,0 +1,27 @@
+<v n="1"> Potem Hiob otworzy³ swoje usta i przeklina³ swój dzieñ. </v>
+<v n="2"> Hiob odezwa³ siê i zawo³a³: </v>
+<v n="3"> Niech zginie dzieñ, w którym siê urodzi³em, i noc, w któr¹ powiedziano: Poczêty mê¿czyzna. </v>
+<v n="4"> Niech ten dzieñ stanie siê ciemnoœci¹, niech o niego nie troszczy siê Bóg z wysokoœci i nie oœwietla go œwiat³oœæ. </v>
+<v n="5"> Niech go pokryje ciemnoœæ i cieñ œmierci, niech go ogarnie ob³ok i przerazi mrok dnia. </v>
+<v n="6"> Niech t¹ noc¹ zaw³adnie ciemnoœæ, niech nie bêdzie liczona wœród dni roku i nie wejdzie w liczbê miesiêcy. </v>
+<v n="7"> Niech ta noc bêdzie samotna, niech nie bêdzie w niej radosnego œpiewu. </v>
+<v n="8"> Niech przekln¹ j¹ ci, którzy przeklinaj¹ dzieñ, którzy s¹ gotowi podnieœæ swój lament. </v>
+<v n="9"> Niech gwiazdy zaæmi¹ siê o zmierzchu, niech nie doczeka siê œwiat³a ani nie zobaczy zorzy porannej; </v>
+<v n="10"> Bo nie zamknê³a drzwi ³ona mej matki i nie ukry³a smutku przed moimi oczami. </v>
+<v n="11"> Czemu nie umar³em w ³onie? Czemu nie zgin¹³em, kiedy wyszed³em z ³ona? </v>
+<v n="12"> Czemu przyjê³y mnie kolana? Czemu przyjê³y mnie piersi, abym móg³ je ssaæ? </v>
+<v n="13"> Teraz bowiem le¿a³bym i trwa³ w spokoju, spa³bym i odpoczywa³; </v>
+<v n="14"> Z królami i z doradcami ziemi, którzy sobie budowali opustosza³e miejsca; </v>
+<v n="15"> Albo z ksi¹¿êtami, którzy mieli z³oto i nape³nili swe domy srebrem; </v>
+<v n="16"> Albo czemu nie sta³em siê jak ukryty, martwy p³ód, jak niemowlêta, które nie widzia³y œwiat³a? </v>
+<v n="17"> Tam bezbo¿ni przestaj¹ straszyæ, tam pozbawieni si³y odpoczywaj¹. </v>
+<v n="18"> Tam wiêŸniowie razem wypoczywaj¹ i nie s³ysz¹ g³osu ciemiêzcy. </v>
+<v n="19"> Ma³y i wielki s¹ tam sobie równi i niewolnik jest wolny od swego pana. </v>
+<v n="20"> Czemu nêdznemu dane jest œwiat³o, a ¿ycie tym, którzy s¹ rozgoryczeni na duszy; </v>
+<v n="21"> Którzy z têsknot¹ wypatruj¹ œmierci, a ta nie przychodzi, choæ jej szukaj¹ pilniej ni¿ ukrytych skarbów; </v>
+<v n="22"> Którzy wielce siê raduj¹ i ciesz¹, kiedy grób znajduj¹? </v>
+<v n="23"> Czemu dane jest œwiat³o cz³owiekowi, którego droga jest ukryta i którego Bóg osaczy³? </v>
+<v n="24"> Kiedy bowiem mam jeœæ, przychodzi moje wzdychanie, a moje jêki rozchodz¹ siê jak woda; </v>
+<v n="25"> Bo to, czego siê ba³em, spotka³o mnie, a to, czego siê obawia³em, spad³o na mnie. </v>
+<v n="26"> Nie by³em bezpieczny, nie mia³em spokoju ani odpoczynku, a jednak nadesz³a trwoga. </v>
+</c>

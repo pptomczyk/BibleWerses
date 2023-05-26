@@ -1,0 +1,24 @@
+<v n="1"> Po tych wydarzeniach podczaszy króla Egiptu i jego piekarz dopuœcili siê wykroczenia przeciwko swojemu panu, królowi Egiptu. </v>
+<v n="2"> Faraon wiêc rozgniewa³ siê na obu swoich dworzan, na prze³o¿onego podczaszych i na prze³o¿onego piekarzy. </v>
+<v n="3"> I odda³ ich do wiêzienia w domu dowódcy stra¿y, na miejsce, gdzie Józef by³ wiêŸniem. </v>
+<v n="4"> A dowódca stra¿y odda³ ich pod nadzór Józefa, który im s³u¿y³. I przebywali jakiœ czas w wiêzieniu. </v>
+<v n="5"> Pewnej nocy obydwaj – podczaszy i piekarz króla Egiptu, którzy byli wiêŸniami w wiêzieniu – mieli sen, ka¿dy inny, wed³ug swego t³umaczenia. </v>
+<v n="6"> A Józef przyszed³ do nich rano i spostrzeg³, ¿e s¹ smutni. </v>
+<v n="7"> I zapyta³ dworzan faraona, którzy byli z nim w wiêzieniu, w domu jego pana: Czemu macie dziœ tak smutne twarze? </v>
+<v n="8"> I odpowiedzieli mu: Œni³ siê nam sen, a nie ma nikogo, kto by go wyt³umaczy³. Józef powiedzia³ do nich: Czy nie do Boga nale¿¹ wyt³umaczenia? Opowiedzcie mi, proszê. </v>
+<v n="9"> Wtedy prze³o¿ony podczaszych opowiedzia³ swój sen Józefowi: Œni³o mi siê, ¿e przede mn¹ by³a winoroœl; </v>
+<v n="10"> I na winoroœli by³y trzy ga³¹zki. A ona jakby wypuszcza³a p¹ki i wychodzi³ jej kwiat, i jej grona wyda³y dojrza³e winogrona. </v>
+<v n="11"> A kubek faraona by³ w mojej rêce. Wzi¹³em wiêc winogrona i wyciska³em je do kubka faraona, i podawa³em kubek w rêce faraona. </v>
+<v n="12"> Wtedy Józef powiedzia³ mu: Takie jest wyt³umaczenie tego snu: Trzy ga³¹zki to trzy dni. </v>
+<v n="13"> Po trzech dniach faraon wywy¿szy tw¹ g³owê i przywróci ciê na twój urz¹d, i bêdziesz podawa³ kubek faraona w jego rêkê jak dawniej, gdy by³eœ jego podczaszym. </v>
+<v n="14"> Tylko wspomnij na mnie, gdy siê bêdziesz mia³ dobrze, i wyœwiadcz mi, proszê, tê przys³ugê i wspomnij o mnie faraonowi, i uwolnij mnie z tego domu; </v>
+<v n="15"> Bo si³¹ uprowadzono mnie z ziemi hebrajskiej, a do tego nic z³ego tu nie zrobi³em, ¿eby mnie wrzucono do tego wiêzienia. </v>
+<v n="16"> A prze³o¿ony piekarzy, widz¹c, ¿e dobrze wyt³umaczy³ sen, powiedzia³ do Józefa: Ja te¿ mia³em sen, a oto trzy bia³e kosze na mojej g³owie; </v>
+<v n="17"> A w najwy¿szym koszu by³y wszelkie rodzaje pieczywa dla faraona, a ptaki jad³y je z kosza, który by³ na mojej g³owie. </v>
+<v n="18"> Wtedy Józef odpowiedzia³: Takie jest wyt³umaczenie snu: Trzy kosze to trzy dni. </v>
+<v n="19"> Po trzech dniach faraon zetnie ci g³owê i powiesi ciê na drzewie, a ptaki bêd¹ jad³y twoje cia³o. </v>
+<v n="20"> A trzeciego dnia, w dniu urodzin faraona, urz¹dzi³ on ucztê dla wszystkich swoich s³ug i w ich obecnoœci kaza³ sprowadziæ prze³o¿onego podczaszych i prze³o¿onego piekarzy. </v>
+<v n="21"> I przywróci³ prze³o¿onego podczaszych na jego urz¹d, aby podawa³ kubek do r¹k faraona. </v>
+<v n="22"> A prze³o¿onego piekarzy powiesi³, jak im Józef wyt³umaczy³. </v>
+<v n="23"> Jednak prze³o¿ony podczaszych nie pamiêta³ o Józefie, ale zapomnia³ o nim. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> Gdy wyruszysz na wojnê przeciw swoim wrogom i zobaczysz konie, rydwany i lud liczniejszy od ciebie, nie bój siê ich, gdy¿ jest z tob¹ PAN, twój Bóg, który ciê wyprowadzi³ z ziemi Egiptu. </v>
+<v n="2"> A gdy bêdziecie siê zbli¿aæ do walki, kap³an wyst¹pi i przemówi do ludu; </v>
+<v n="3"> I powie do niego: S³uchaj, Izraelu! Dziœ staczacie bitwê ze swymi wrogami. Niech wasze serce nie s³abnie, nie bójcie siê, nie trwó¿cie ani nie lêkajcie siê ich; </v>
+<v n="4"> Gdy¿ PAN, wasz Bóg, idzie z wami, aby za was walczyæ z waszymi wrogami i was wybawiæ. </v>
+<v n="5"> Dowódcy równie¿ przemówi¹ do ludu i powiedz¹: Jeœli jest ktoœ, kto zbudowa³ nowy dom, a jeszcze go nie poœwiêci³, niech idzie i wraca do swego domu, aby nie zgin¹³ w bitwie i aby ktoœ inny go nie poœwiêci³. </v>
+<v n="6"> Albo jeœli jest ktoœ, kto zasadzi³ winnicê i jeszcze nie spo¿ywa³ z niej owocu, niech idzie i wraca do swego domu, by nie zgin¹³ w bitwie i aby ktoœ inny z niej nie spo¿ywa³. </v>
+<v n="7"> Albo jeœli jest ktoœ, kto poœlubi³ ¿onê, a jeszcze jej nie poj¹³, niech idzie i wraca do swego domu, by nie zgin¹³ w bitwie i aby inny jej nie poj¹³. </v>
+<v n="8"> Dowódcy jeszcze przemówi¹ do ludu i powiedz¹: Jeœli ktoœ jest bojaŸliwy i lêkliwego serca, niech idzie i wraca do swego domu, aby serce jego braci nie by³o s³abe jak jego serce jest s³abe. </v>
+<v n="9"> A gdy dowódcy przestan¹ mówiæ do ludu, wtedy wyznacz¹ dowódców wojsk na czele ludu. </v>
+<v n="10"> Gdy podejdziesz do jakiegoœ miasta, aby je zdobyæ, zaoferujesz mu pokój. </v>
+<v n="11"> A jeœli odpowie ci z pokojem i otworzy ci bramy, wtedy ca³y lud znajduj¹cy siê w nim stanie siê twoim ho³downikiem i bêdzie ci s³u¿y³. </v>
+<v n="12"> Jeœli jednak nie zawrze z tob¹ pokoju, lecz wznieci przeciw tobie wojnê, oblegniesz je. </v>
+<v n="13"> A gdy PAN, twój Bóg, wyda je w twoje rêce, zabijesz w nim ka¿dego mê¿czyznê ostrzem miecza. </v>
+<v n="14"> Tylko kobiety, dzieci, byd³o oraz wszystko, co bêdzie w mieœcie, ca³y ³up z niego, weŸmiesz sobie jako zdobycz; i bêdziesz jad³ z ³upu swoich wrogów, których daje ci PAN, twój Bóg. </v>
+<v n="15"> Tak post¹pisz ze wszystkimi miastami bardzo oddalonymi od ciebie, które nie nale¿¹ do miast tych narodów. </v>
+<v n="16"> Ale z miast tych narodów, które PAN, twój Bóg, daje ci w dziedzictwo, ¿adnej duszy nie zostawisz przy ¿yciu. </v>
+<v n="17"> Lecz doszczêtnie je wytêpisz: Chetytów, Amorytów, Kananejczyków, Peryzzytów, Chiwwitów i Jebusytów, jak ci nakaza³ PAN, twój Bóg; </v>
+<v n="18"> Aby nie uczyli was czyniæ wed³ug wszystkich swoich obrzydliwoœci, jakie czynili swym bogom, i abyœcie nie zgrzeszyli przeciw PANU, swojemu Bogu. </v>
+<v n="19"> Gdy przez wiele dni bêdziesz oblega³ jakieœ miasto, walcz¹c przeciwko niemu, aby je zdobyæ, nie niszcz jego drzew, wycinaj¹c je siekier¹. Bêdziesz bowiem z nich jeœæ, wiêc nie wycinaj ich (bo drzewa polne s¹ dla ¿ycia cz³owieka), aby ich u¿yæ do oblê¿enia. </v>
+<v n="20"> Tylko te drzewa, o których wiesz, ¿e nie rodz¹ owoców, zniszczysz i wytniesz; i zbudujesz narzêdzia przeciwko temu miastu, które z tob¹ walczy, a¿ je opanujesz. </v>
+</c>

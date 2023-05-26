@@ -1,0 +1,21 @@
+<v n="1"> A Sara do¿y³a stu dwudziestu siedmiu lat. Tyle by³o lat ¿ycia Sary. </v>
+<v n="2"> Sara umar³a w mieœcie Kiriat-Arba, czyli w Hebronie, w ziemi Kanaan. I Abraham przyszed³, aby odbyæ ¿a³obê po Sarze i op³akiwaæ j¹. </v>
+<v n="3"> Potem Abraham wsta³ od swej zmar³ej i powiedzia³ do synów Cheta: </v>
+<v n="4"> Jestem wœród was przybyszem i przychodniem. Dajcie mi na w³asnoœæ grób miêdzy wami, abym pogrzeba³ moj¹ zmar³¹ sprzed mojego oblicza. </v>
+<v n="5"> Synowie Cheta odpowiedzieli Abrahamowi: </v>
+<v n="6"> S³uchaj nas, mój panie: Jesteœ ksiêciem Boga wœród nas. Pochowaj swoj¹ zmar³¹ w naszych najlepszych grobach. Nikt z nas nie odmówi ci swego grobu, abyœ pochowa³ swoj¹ zmar³¹. </v>
+<v n="7"> Wtedy Abraham wsta³, pok³oni³ siê ludowi tej ziemi, czyli synom Cheta; </v>
+<v n="8"> I powiedzia³ do nich: Jeœli zgadzacie siê, abym pochowa³ moj¹ zmar³¹ sprzed mojego oblicza, pos³uchajcie mnie i wstawcie siê za mn¹ do Efrona, syna Sochara; </v>
+<v n="9"> Aby mi ust¹pi³ sw¹ jaskiniê Makpela, która znajduje siê na koñcu jego pola. Niech mi j¹ odda za odpowiedni¹ cenê jako grób na w³asnoœæ wœród was. </v>
+<v n="10"> A Efron siedzia³ wœród synów Cheta. Odpowiedzia³ wiêc Efron Chetyta Abrahamowi w obecnoœci synów Cheta i wszystkich, którzy wchodzili w bramê jego miasta: </v>
+<v n="11"> Nie, panie mój, pos³uchaj mnie. Dajê ci to pole i jaskiniê, która na nim jest. Dajê j¹ tobie w obecnoœci synów mego ludu. Pochowaj swoj¹ zmar³¹. </v>
+<v n="12"> Wtedy Abraham pok³oni³ siê przed ludem tej ziemi; </v>
+<v n="13"> I powiedzia³ do Efrona w obecnoœci ludu tej ziemi: Raczej jeœli siê da, proszê, pos³uchaj mnie. Dam ci pieni¹dze za pole, weŸ je ode mnie, a pochowam tam moj¹ zmar³¹. </v>
+<v n="14"> Efron odpowiedzia³ Abrahamowi: </v>
+<v n="15"> Mój panie, pos³uchaj mnie. Ta ziemia jest warta czterysta syklów srebra, ale có¿ to jest miêdzy mn¹ a tob¹? Pochowaj swoj¹ zmar³¹. </v>
+<v n="16"> I Abraham wys³ucha³ Efrona. Odwa¿y³ wiêc Abraham Efronowi srebro, które ten wymieni³ w obecnoœci synów Cheta: czterysta syklów srebra, jakie by³y w obiegu u kupców. </v>
+<v n="17"> Tak wiêc pole Efrona, które jest w Makpelu naprzeciw Mamre, pole i jaskinia, która na nim jest, i wszystkie drzewa, które by³y na polu i wko³o na wszystkich jego granicach, przesz³y; </v>
+<v n="18"> Na w³asnoœæ Abrahama w obecnoœci synów Cheta i wszystkich, którzy wchodzili w bramê tego miasta. </v>
+<v n="19"> Potem Abraham pochowa³ swoj¹ ¿onê Sarê w jaskini pola w Makpelu naprzeciwko Mamre, czyli Hebronie, w ziemi Kanaan. </v>
+<v n="20"> I zosta³y oddane Abrahamowi pole i jaskinia, która by³a na nim, jako grób na w³asnoœæ, przez synów Cheta. </v>
+</c>

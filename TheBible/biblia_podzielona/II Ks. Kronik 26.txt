@@ -1,0 +1,24 @@
+<v n="1"> Wtedy ca³y lud Judy wzi¹³ Uzjasza, który mia³ szesnaœcie lat, i ustanowi³ go królem w miejsce jego ojca Amazjasza. </v>
+<v n="2"> Ten odbudowa³ Elat i przywróci³ go do Judy, kiedy król ju¿ zasn¹³ ze swoimi ojcami. </v>
+<v n="3"> Uzjasz mia³ szesnaœcie lat, kiedy zacz¹³ królowaæ, i królowa³ piêædziesi¹t dwa lata w Jerozolimie. Jego matka mia³a na imiê Jekolia, by³a z Jerozolimy. </v>
+<v n="4"> Czyni³ on to, co prawe w oczach PANA, wed³ug wszystkiego, co czyni³ jego ojciec Amazjasz. </v>
+<v n="5"> I szuka³ Boga, dopóki ¿y³ Zachariasz, który mia³ rozeznanie w widzeniach Bo¿ych. A przez te wszystkie dni, kiedy szuka³ PANA, Bóg darzy³ go powodzeniem. </v>
+<v n="6"> Wyruszy³ do walki z Filistynami, zburzy³ mury Gat, Jabne i Aszdodu, a odbudowa³ miasta w okolicy Aszdodu i w ziemi Filistynów. </v>
+<v n="7"> Wspomaga³ go bowiem Bóg przeciw Filistynom i Arabom, którzy mieszkali w Gur-Baal, i przeciw Meunitom. </v>
+<v n="8"> Ammonici dawali Uzjaszowi daniny, a s³awa jego imienia rozesz³a siê a¿ do wejœcia do Egiptu, bo wielce siê umocni³. </v>
+<v n="9"> I Uzjasz zbudowa³ wie¿e w Jerozolimie nad Bram¹ Naro¿n¹, nad Bram¹ Doliny i nad Naro¿nikiem i umocni³ je. </v>
+<v n="10"> Zbudowa³ te¿ wie¿e na pustyni i wykopa³ wiele studni, poniewa¿ mia³ bardzo du¿o stad, zarówno w dolinach, jak i na równinach, tak¿e rolników i uprawiaj¹cych winnice na górach i na Karmelu. By³ bowiem rozmi³owany w uprawie ziemi. </v>
+<v n="11"> Uzjasz mia³ te¿ wojsko gotowe do bitwy, które wyrusza³o na wojnê w odliczonych oddzia³ach, wed³ug spisu dokonanego przez pisarza Jejela i urzêdnika Maasejasza, pod nadzorem Chananiasza, jednego z dowódców króla. </v>
+<v n="12"> Ca³kowita liczba naczelników rodów postawionych nad dzielnymi wojownikami wynosi³a dwa tysi¹ce szeœciuset. </v>
+<v n="13"> A pod ich rozkazami sta³o wojsko z³o¿one z trzystu siedmiu tysiêcy piêciuset wojowników gotowych do wojny z wielk¹ si³¹, aby wesprzeæ króla przeciw wrogowi. </v>
+<v n="14"> Uzjasz przygotowa³ ca³emu wojsku tarcze, w³ócznie, he³my, pancerze, ³uki oraz kamienie do proc. </v>
+<v n="15"> Sporz¹dzi³ w Jerozolimie machiny wojenne wymyœlone przez zdolnych ludzi, aby sta³y na wie¿ach i na naro¿nikach w celu ciskania strza³ i wielkich kamieni. Jego s³awa rozesz³a siê daleko, poniewa¿ doznawa³ cudownej pomocy, a¿ sta³ siê potê¿ny. </v>
+<v n="16"> Ale kiedy siê umocni³, unios³o siê jego serce ku jego w³asnej zgubie. Zgrzeszy³ przeciw PANU, swemu Bogu, gdy¿ wszed³ do œwi¹tyni PANA, aby paliæ kadzid³o na o³tarzu kadzenia. </v>
+<v n="17"> Wszed³ za nim kap³an Azariasz, a z nim osiemdziesiêciu kap³anów PANA, odwa¿nych mê¿czyzn. </v>
+<v n="18"> I sprzeciwili siê królowi Uzjaszowi, i powiedzieli mu: Nie do ciebie, Uzjaszu, nale¿y palenie kadzid³a PANU, lecz do kap³anów, synów Aarona, którzy s¹ poœwiêceni, aby paliæ kadzid³o. WyjdŸ ze œwi¹tyni. Zgrzeszy³eœ bowiem i nie przynosi ci to chwa³y od PANA Boga. </v>
+<v n="19"> Wtedy Uzjasz rozgniewa³ siê, maj¹c w rêku kadzielnicê, by spaliæ kadzid³o. A gdy pa³a³ gniewem na kap³anów, pojawi³ siê tr¹d na jego czole przed kap³anami w domu PANA, przy o³tarzu kadzenia. </v>
+<v n="20"> Kiedy najwy¿szy kap³an Azariasz i wszyscy kap³ani spojrzeli na niego, oto mia³ tr¹d na czole. Wypchnêli go wiêc stamt¹d, a i on sam spieszy³ siê z wyjœciem, bo dotkn¹³ go PAN. </v>
+<v n="21"> I tak król Uzjasz by³ trêdowaty a¿ do dnia swojej œmierci i jako trêdowaty mieszka³ w domu odosobnienia. Zosta³ bowiem wy³¹czony z domu PANA. W tym czasie jego syn Jotam zarz¹dza³ domem królewskim i s¹dzi³ lud ziemi. </v>
+<v n="22"> A pozosta³e dzieje Uzjasza, od pierwszych do ostatnich, opisa³ prorok Izajasz, syn Amosa. </v>
+<v n="23"> Zasn¹³ wiêc Uzjasz ze swoimi ojcami i pogrzebali go z nimi na polu grobów królewskich, gdy¿ mówili: Trêdowaty jest. A jego syn Jotam królowa³ w jego miejsce. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> I wyprowadzi³ mnie na dziedziniec zewnêtrzny w kierunku pó³nocy, i wprowadzi³ mnie do tych komórek, które sta³y naprzeciwko obszaru wyznaczonego i naprzeciwko budowli, od strony pó³nocy. </v>
+<v n="2"> Ich d³ugoœæ od strony pó³nocnych drzwi wynosi³a sto ³okci, a ich szerokoœæ piêædziesi¹t ³okci. </v>
+<v n="3"> Naprzeciw dziedziñca wewnêtrznego, który mia³ dwadzieœcia ³okci, i naprzeciw posadzki dziedziñca zewnêtrznego, by³y kru¿ganki naprzeciw kru¿ganków na trzech poziomach. </v>
+<v n="4"> A przed komórkami by³o przejœcie szerokie na dziesiêæ ³okci wewn¹trz i œcie¿ka do nich na jeden ³okieæ, a ich drzwi by³y od pó³nocy. </v>
+<v n="5"> A górne komórki by³y wê¿sze, poniewa¿ ich kru¿ganki by³y szersze od tych w dolnej i œrodkowej czêœci budowli. </v>
+<v n="6"> By³y bowiem trzypiêtrowe, ale nie mia³y s³upów jak s³upy dziedziñców. Dlatego by³y wê¿sze ni¿ dolne i œrodkowe, pocz¹wszy od ziemi. </v>
+<v n="7"> A mur, który by³ na zewn¹trz naprzeciw tych komórek w kierunku dziedziñca zewnêtrznego przed komórkami, mia³ piêædziesi¹t ³okci d³ugoœci. </v>
+<v n="8"> D³ugoœæ bowiem komórek, które by³y na dziedziñcu zewnêtrznym, wynosi³a piêædziesi¹t ³okci, a tych przed œwi¹tyni¹ – sto ³okci. </v>
+<v n="9"> A poni¿ej tych komórek by³o wejœcie od wschodu, przez które wchodzi siê do nich z dziedziñca zewnêtrznego. </v>
+<v n="10"> Na szerokoœci muru dziedziñca od strony wschodniej naprzeciw obszaru wyznaczonego i naprzeciw budowli by³y tak¿e komórki. </v>
+<v n="11"> A œcie¿ka przed nimi by³a taka sama jak œcie¿ka tamtych komórek, które znajdowa³y siê po stronie pó³nocnej: mia³y tak¹ sam¹ d³ugoœæ i tak¹ sam¹ szerokoœæ. Takie same by³y ich wyjœcia, ich drzwi oraz ich uk³ad. </v>
+<v n="12"> A drzwi do tych komórek, które by³y po stronie po³udniowej, by³y podobne do drzwi na pocz¹tku przejœcia, w³aœnie tego przejœcia przed murem w stronê wschodu, którêdy siê do nich wchodzi. </v>
+<v n="13"> Wtedy powiedzia³ do mnie: Komórki pó³nocne i komórki po³udniowe, które s¹ przed obszarem wyznaczonym, to komórki œwiête, gdzie kap³ani, którzy zbli¿aj¹ siê do PANA, bêd¹ jadali najœwiêtsze rzeczy. Tam bêd¹ k³aœæ rzeczy najœwiêtsze, ofiary z pokarmów, ofiary za grzech i ofiary za przewinienie. Jest to bowiem miejsce œwiête. </v>
+<v n="14"> Gdy kap³ani wejd¹ tam, nie wyjd¹ ze œwi¹tyni na dziedziniec zewnêtrzny, ale tam z³o¿¹ swoje szaty, w których s³u¿yli, bo s¹ œwiête. I za³o¿¹ inne szaty, i wtedy bêd¹ mogli zbli¿yæ siê do tego, co nale¿y do ludu. </v>
+<v n="15"> A gdy ukoñczy³ mierzenie domu wewnêtrznego, wyprowadzi³ mnie w stronê bramy, która by³a zwrócona na wschód, i zmierzy³ zewsz¹d doko³a. </v>
+<v n="16"> Prêtem mierniczym zmierzy³ stronê wschodni¹ – piêæset prêtów woko³o wed³ug prêta mierniczego. </v>
+<v n="17"> Zmierzy³ tak¿e stronê pó³nocn¹ – piêæset prêtów woko³o wed³ug prêta mierniczego. </v>
+<v n="18"> I zmierzy³ stronê po³udniow¹ – piêæset prêtów mierniczych. </v>
+<v n="19"> Potem obróci³ siê na stronê zachodni¹ i zmierzy³ – piêæset prêtów wed³ug prêta mierniczego. </v>
+<v n="20"> Zmierzy³ po czterech stronach mur zewsz¹d doko³a: d³ugi na piêæset prêtów i szeroki na piêæset prêtów, aby oddzieliæ miejsce œwiête od pospolitego. </v>
+</c>

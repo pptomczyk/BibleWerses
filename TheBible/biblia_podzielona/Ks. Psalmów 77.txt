@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi chóru dla Jedutuna. Psalm Asafa. Wznios³em swój g³os do Boga i zawo³a³em; wznios³em swój g³os do Boga i mnie wys³ucha³. </v>
+<v n="2"> W dniu mego utrapienia szuka³em Pana, moje rêce wyci¹ga³em w nocy nieustannie, moja dusza nie da³a siê pocieszyæ. </v>
+<v n="3"> Gdy wspomina³em Boga, by³em strwo¿ony; rozmyœla³em, a mój duch by³ ogarniêty utrapieniem. Sela. </v>
+<v n="4"> Ty zatrzymujesz otwarte powieki mych oczu, jestem tak zaniepokojony, ¿e nie potrafiê mówiæ. </v>
+<v n="5"> Rozpamiêtujê dni przesz³e i dawne lata. </v>
+<v n="6"> Przypominam sobie mój œpiew; noc¹ rozmyœlam w sercu i mój duch docieka: </v>
+<v n="7"> Czy Pan odrzuci na wieki i ju¿ wiêcej nie oka¿e ³aski? </v>
+<v n="8"> Czy jego mi³osierdzie usta³o na zawsze i jego obietnica nigdy siê nie spe³ni? </v>
+<v n="9"> Czy Bóg zapomnia³ o litoœci? Czy w gniewie st³umi³ swoj¹ ³askawoœæ? Sela. </v>
+<v n="10"> I powiedzia³em: To jest moja niemoc; jednak bêdê wspomina³ lata prawicy Najwy¿szego. </v>
+<v n="11"> Bêdê wspomina³ dzie³a PANA, bêdê wspomina³ twoje dawne cuda. </v>
+<v n="12"> Bêdê rozmyœla³ o wszystkich twoich dzie³ach i o twoich czynach bêdê mówi³. </v>
+<v n="13"> Bo¿e, œwiêta jest twoja droga; który bóg jest tak wielki, jak nasz Bóg? </v>
+<v n="14"> Ty jesteœ Bogiem, który czyni cuda; da³eœ poznaæ narodom swoj¹ moc. </v>
+<v n="15"> Odkupi³eœ swoim ramieniem twój lud, synów Jakuba i Józefa. Sela. </v>
+<v n="16"> Widzia³y ciê wody, o Bo¿e, widzia³y ciê wody i ulêk³y siê, poruszy³y siê g³êbiny. </v>
+<v n="17"> Chmury sp³ynê³y wod¹, niebiosa wyda³y gromy i polecia³y twoje strza³y. </v>
+<v n="18"> Huk twego grzmotu wœród ob³oków, b³yskawice oœwietli³y œwiat, ziemia poruszy³a siê i zatrzês³a. </v>
+<v n="19"> Twoja droga wiod³a przez morze, twoje œcie¿ki przez wielkie wody i nie by³o znaæ twoich œladów. </v>
+<v n="20"> Prowadzi³eœ swój lud jak stado owiec rêk¹ Moj¿esza i Aarona. </v>
+</c>

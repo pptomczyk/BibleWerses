@@ -1,0 +1,15 @@
+<v n="1"> A tej nocy król nie móg³ spaæ, kaza³ wiêc przynieœæ ksiêgê pami¹tkow¹ kronik. I odczytano j¹ przed królem. </v>
+<v n="2"> I tam znaleziono zapisek, ¿e to Mardocheusz doniós³ na Bigtana i Teresza, dwóch eunuchów króla, stró¿ów progu, ¿e usi³owali podnieœæ rêkê na króla Aswerusa. </v>
+<v n="3"> Wtedy król zapyta³: Jak¹ czeœæ i jaki zaszczyt przyznano za to Mardocheuszowi? Odpowiedzieli s³udzy króla, jego dworzanie: Niczego mu nie przyznano. </v>
+<v n="4"> Król zapyta³: Kto jest na dziedziñcu? A w³aœnie Haman przyszed³ na zewnêtrzny dziedziniec domu królewskiego, aby porozmawiaæ z królem, by powiesiæ Mardocheusza na szubienicy, któr¹ dla niego przygotowa³. </v>
+<v n="5"> S³udzy króla odpowiedzieli mu: Oto Haman stoi na dziedziñcu. Król powiedzia³: Niech wejdzie. </v>
+<v n="6"> I Haman wszed³. A król zapyta³ go: Co uczyniæ temu mê¿czyŸnie, którego król chce uczciæ? A Haman myœla³ w swoim sercu: Kogo by król chcia³ uczciæ bardziej ni¿ mnie? </v>
+<v n="7"> Odpowiedzia³ Haman królowi: Dla mê¿czyzny, którego król chce uczciæ; </v>
+<v n="8"> Niech przynios¹ szatê królewsk¹, w któr¹ siê ubiera król, niech przyprowadz¹ konia, na którym jeŸdzi król, i niech w³o¿¹ mu koronê królewsk¹ na g³owê; </v>
+<v n="9"> Potem niech przeka¿¹ tê szatê i konia do r¹k jednego z najznakomitszych ksi¹¿¹t, niech ubior¹ tego mê¿czyznê, którego król chce uczciæ, niech go prowadz¹ na koniu po placu miejskim i niech wo³aj¹ przed nim: Tak post¹pi siê z mê¿czyzn¹, którego król chce uczciæ. </v>
+<v n="10"> Wtedy król powiedzia³ do Hamana: Spiesz siê, weŸ szatê i konia, tak jak powiedzia³eœ, i uczyñ tak z ¯ydem Mardocheuszem, który siedzi w bramie królewskiej. Nie pomiñ niczego z tego wszystkiego, co powiedzia³eœ. </v>
+<v n="11"> Haman wzi¹³ wiêc szatê i konia, ubra³ Mardocheusza i prowadzi³ go na koniu po placu miejskim, wo³aj¹c przed nim: Tak post¹pi siê z mê¿czyzn¹, którego król chce uczciæ. </v>
+<v n="12"> Potem wróci³ Mardocheusz do bramy królewskiej, Haman zaœ pospieszy³ siê do swego domu smutny, z nakryt¹ g³ow¹. </v>
+<v n="13"> I Haman opowiedzia³ swojej ¿onie Zeresz i wszystkim swoim przyjacio³om o wszystkim, co mu siê przydarzy³o. Jego mêdrcy i jego ¿ona Zeresz powiedzieli: Jeœli Mardocheusz, przed którym zacz¹³eœ upadaæ, pochodzi z narodu ¿ydowskiego, to nie przemo¿esz go, ale niezawodnie upadniesz przed nim. </v>
+<v n="14"> A gdy oni jeszcze z nim rozmawiali, oto przyszli eunuchowie króla, aby spiesznie zaprowadziæ Hamana na ucztê, któr¹ przygotowa³a Estera. </v>
+</c>

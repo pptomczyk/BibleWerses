@@ -1,0 +1,15 @@
+<v n="1"> Trzeciego dnia Estera ubra³a siê w szaty królowej, stanê³a na wewnêtrznym dziedziñcu domu króla, naprzeciw domu króla. A król siedzia³ na swoim królewskim tronie w domu króla naprzeciw bramy domu. </v>
+<v n="2"> A gdy król zobaczy³ królow¹ Esterê, stoj¹c¹ na dziedziñcu, znalaz³a ona ³askê w jego oczach i król wyci¹gn¹³ do Estery z³ote ber³o, które trzyma³ w rêku. Estera wiêc zbli¿y³a siê i dotknê³a koñca ber³a. </v>
+<v n="3"> Król zapyta³ j¹: Co ci jest, królowo Estero? Jaka jest twoja proœba? Choæbyœ prosi³a o po³owê królestwa, bêdzie ci dane. </v>
+<v n="4"> Estera odpowiedzia³a: Jeœli to siê królowi podoba, to niech przyjdzie król i Haman dzisiaj na ucztê, któr¹ dla niego przygotowa³am. </v>
+<v n="5"> Król powiedzia³: Zawo³ajcie szybko Hamana, aby spe³ni³ proœbê Estery. Przyszed³ wiêc król i Haman na ucztê, któr¹ wyprawi³a Estera. </v>
+<v n="6"> Potem król zapyta³ Esterê, gdy siê napi³ wina: Jaka jest twoja proœba, a bêdzie ci dane. Jakie jest twoje ¿yczenie? Choæbyœ prosi³a o po³owê królestwa, bêdzie ci dane. </v>
+<v n="7"> Na to Estera odpowiedzia³a: Oto moje ¿yczenie i moja proœba: </v>
+<v n="8"> Jeœli znalaz³am ³askê w oczach króla i jeœli królowi siê podoba, aby spe³niæ moj¹ proœbê i wykonaæ moje ¿yczenie, to niech przyjdzie król i Haman na ucztê, któr¹ im przygotujê, a jutro uczyniê wed³ug s³owa króla. </v>
+<v n="9"> I wyszed³ Haman tego dnia weso³y i dobrej myœli. Ale gdy Haman zobaczy³ Mardocheusza w bramie królewskiej, ¿e on ani nie powsta³, ani siê nie poruszy³ przed nim, nape³ni³ siê gniewem na Mardocheusza. </v>
+<v n="10"> Opanowa³ siê jednak Haman, a gdy przyszed³ do domu, pos³a³ po swoich przyjació³ i Zeresz, swoj¹ ¿onê. </v>
+<v n="11"> I opowiada³ im Haman o wspania³oœci jego bogactwa, o mnóstwie swoich synów oraz o tym wszystkim, jak wielkim król go uczyni³ i jak go wywy¿szy³ ponad innych ksi¹¿¹t i s³ugi króla. </v>
+<v n="12"> Ponadto Haman powiedzia³: Nawet królowa Estera nikogo oprócz mnie nie zaprosi³a na ucztê z królem, któr¹ przygotowa³a, a jeszcze na jutro zosta³em do niej zaproszony z królem. </v>
+<v n="13"> Ale to wszystko jest dla mnie niczym, dopóki widzê ¯yda Mardocheusza, siedz¹cego w bramie królewskiej. </v>
+<v n="14"> Wtedy jego ¿ona Zeresz oraz wszyscy jego przyjaciele powiedzieli mu: Niech postawi¹ szubienicê wysok¹ na piêædziesi¹t ³okci, a rano powiedz królowi, aby powieszono na niej Mardocheusza. Potem idŸ wesó³ z królem na ucztê. I spodoba³a siê Hamanowi ta rada, i rozkaza³ postawiæ szubienicê. </v>
+</c>

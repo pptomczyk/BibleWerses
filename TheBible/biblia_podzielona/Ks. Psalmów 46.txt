@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi chóru dla synów Korego. Pieœñ na Alamot. Bóg jest nasz¹ ucieczk¹ i si³¹, najpewniejsz¹ pomoc¹ w utrapieniu. </v>
+<v n="2"> Dlatego nie bêdziemy siê baæ, choæby siê poruszy³a ziemia, choæby siê przenios³y góry w sam œrodek morza; </v>
+<v n="3"> Choæby hucza³y i burzy³y siê jego wody i zatrzês³y siê góry od jego nawa³nicy. Sela. </v>
+<v n="4"> Jest rzeka, której strumienie rozweselaj¹ miasto Bo¿e, miejsce œwiête przybytków Najwy¿szego. </v>
+<v n="5"> Bóg jest poœrodku niego, nie bêdzie zachwiane; Bóg je wspomo¿e zaraz o œwicie. </v>
+<v n="6"> Wzburzy³y siê narody, zachwia³y siê królestwa, on wyda³ swój g³os i rozp³ynê³a siê ziemia. </v>
+<v n="7"> PAN zastêpów jest z nami; Bóg Jakuba jest nasz¹ twierdz¹. Sela. </v>
+<v n="8"> ChodŸcie, zobaczcie dzie³a PANA, jakie spustoszenia uczyni³ na ziemi. </v>
+<v n="9"> On k³adzie kres wojnom a¿ po krañce ziemi, kruszy ³uki i ³amie w³ócznie, a rydwany pali ogniem. </v>
+<v n="10"> Uspokójcie siê i uznajcie, ¿e ja jestem Bogiem; bêdê wywy¿szony wœród narodów, bêdê wywy¿szony na ziemi. </v>
+<v n="11"> PAN zastêpów jest z nami, Bóg Jakuba jest nasz¹ twierdz¹. Sela. </v>
+</c>

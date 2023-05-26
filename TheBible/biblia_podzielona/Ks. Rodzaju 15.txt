@@ -1,0 +1,22 @@
+<v n="1"> Po tych wydarzeniach s³owo PANA dosz³o do Abrama w widzeniu: Nie bój siê, Abramie. Ja jestem twoj¹ tarcz¹ i twoj¹ niezmiernie obfit¹ nagrod¹. </v>
+<v n="2"> I Abram powiedzia³: Panie BO¯E, co mi dasz, skoro ja jestem bezdzietny, a szafarzem mego domu jest ten Damasceñczyk Eliezer? </v>
+<v n="3"> Abram doda³: Oto nie da³eœ mi potomka, a s³uga urodzony w moim domu bêdzie moim dziedzicem. </v>
+<v n="4"> A oto dotar³o do niego s³owo PANA: Nie on bêdzie twoim dziedzicem, lecz ten, który wyjdzie z twego wnêtrza, bêdzie twoim dziedzicem. </v>
+<v n="5"> Potem wyprowadzi³ go na dwór i powiedzia³: Spójrz teraz na niebo i policz gwiazdy, jeœli bêdziesz móg³ je policzyæ; i powiedzia³ mu: Takie bêdzie twoje potomstwo. </v>
+<v n="6"> I uwierzy³ PANU, i poczytano mu to za sprawiedliwoœæ. </v>
+<v n="7"> Potem powiedzia³ do niego: Ja jestem PANEM, który ciê wyprowadzi³ z Ur chaldejskiego, aby ci daæ tê ziemiê w posiadanie. </v>
+<v n="8"> Abram zapyta³: Panie BO¯E, po czym poznam, ¿e j¹ odziedziczê? </v>
+<v n="9"> I odpowiedzia³ mu: WeŸ dla mnie trzyletni¹ ja³ówkê, trzyletni¹ kozê i trzyletniego barana, a tak¿e synogarlicê i pisklê go³êbia. </v>
+<v n="10"> Wzi¹³ wiêc to wszystko i rozci¹³ na po³owy; a jedn¹ czêœæ po³o¿y³ naprzeciwko drugiej, ale ptaków nie rozcina³. </v>
+<v n="11"> Kiedy zlecia³o siê ptactwo do tej padliny, Abram je odgania³. </v>
+<v n="12"> Gdy s³oñce zachodzi³o, g³êboki sen ogarn¹³ Abrama i oto groza wielkiej ciemnoœci zapad³a na niego. </v>
+<v n="13"> I PAN powiedzia³ do Abrama: Wiedz o tym dobrze, ¿e twoje potomstwo bêdzie przybyszem w cudzej ziemi i wezm¹ je w niewolê, i bêdzie uciskane przez czterysta lat. </v>
+<v n="14"> A ja os¹dzê ten naród, któremu bêd¹ s³u¿yæ; a potem wyjd¹ stamt¹d z wielkim dobytkiem. </v>
+<v n="15"> Ale ty odejdziesz w pokoju do twoich ojców i bêdziesz pochowany w dobrej staroœci. </v>
+<v n="16"> A w czwartym pokoleniu wróc¹ tutaj, bo jeszcze nie dope³ni³a siê nieprawoœæ Amorytów. </v>
+<v n="17"> Gdy s³oñce zasz³o i nasta³a ciemnoœæ, oto ukaza³ siê dymi¹cy piec i ognista pochodnia, która przechodzi³a miêdzy tymi po³owami zwierz¹t. </v>
+<v n="18"> W tym w³aœnie dniu PAN zawar³ przymierze z Abramem, mówi¹c: Twemu potomstwu dam tê ziemiê, od rzeki Egiptu a¿ do wielkiej rzeki, rzeki Eufrat; </v>
+<v n="19"> Kenitów, Kenizytów i Kadmonitów; </v>
+<v n="20"> Chetytów, Peryzzytów i Refaitów; </v>
+<v n="21"> Amorytów, Kananejczyków, Girgaszytów i Jebusytów. </v>
+</c>

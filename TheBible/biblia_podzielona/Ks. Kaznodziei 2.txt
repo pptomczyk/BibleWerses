@@ -1,0 +1,27 @@
+<v n="1"> Powiedzia³em w sercu: Niech teraz doœwiadczê ciê w radoœci, za¿ywaj wiêc przyjemnoœci. Lecz to tak¿e jest marnoœci¹. </v>
+<v n="2"> O œmiechu powiedzia³em: To szaleñstwo, a o radoœci: Co to daje? </v>
+<v n="3"> Postanowi³em w sercu, ¿e poddam swoje cia³o winu – serce jednak kierowa³em m¹droœci¹ – i ¿e bêdê siê trzymaæ g³upoty, a¿ zobaczê, co dla synów ludzkich jest dobrem spoœród tego, co maj¹ czyniæ pod niebem, przez wszystkie dni ich ¿ycia. </v>
+<v n="4"> Dokona³em wielkich dzie³, zbudowa³em sobie domy, zasadzi³em sobie winnice. </v>
+<v n="5"> Za³o¿y³em sobie ogrody i sady i posadzi³em w nich wszelkiego rodzaju drzewa owocowe. </v>
+<v n="6"> Zbudowa³em te¿ sobie stawy na wodê, by nawadniaæ ni¹ las rosn¹cych drzew. </v>
+<v n="7"> Naby³em s³ugi i s³u¿¹ce, mia³em te¿ s³ugi urodzone w swoim domu. Posiada³em równie¿ stada wo³ów i trzody owiec wiêksze ni¿ wszyscy, którzy byli przede mn¹ w Jerozolimie. </v>
+<v n="8"> Zgromadzi³em sobie srebro i z³oto, i klejnoty królów i prowincji. Przygotowa³em sobie œpiewaków i œpiewaczki, i inne rozkosze synów ludzkich oraz liczne instrumenty muzyczne. </v>
+<v n="9"> I tak sta³em siê wiêkszy i mo¿niejszy ni¿ wszyscy, którzy byli przede mn¹ w Jerozolimie. W dodatku moja m¹droœæ pozosta³a przy mnie. </v>
+<v n="10"> Nie wzbrania³em swoim oczom niczego, czego pragnê³y, nie odmawia³em swemu sercu ¿adnej uciechy; moje serce bowiem radowa³o siê z ca³ego mojego trudu. A to by³ mój dzia³ za ca³y mój trud. </v>
+<v n="11"> Nastêpnie przyjrza³em siê wszystkim dzie³om, jakich dokona³y moje rêce, i trudowi, jaki podj¹³em dla ich wykonania, a oto wszystko to marnoœæ i utrapienie ducha i nie ma ¿adnego po¿ytku pod s³oñcem. </v>
+<v n="12"> Odwróci³em siê wiêc, aby przyjrzeæ siê m¹droœci, szaleñstwu i g³upocie. Co bowiem mo¿e uczyniæ cz³owiek, który nast¹pi po królu? To, co czynili ju¿ inni. </v>
+<v n="13"> I zobaczy³em, ¿e m¹droœæ jest po¿yteczniejsza od g³upoty, tak jak œwiat³o jest po¿yteczniejsze od ciemnoœci. </v>
+<v n="14"> M¹dry ma oczy w swojej g³owie, g³upi zaœ chodzi w ciemnoœci. A pozna³em, ¿e ten sam los spotyka wszystkich. </v>
+<v n="15"> Dlatego powiedzia³em w sercu: Los, który spotyka g³upiego, spotka równie¿ mnie. Po co wiêc przewy¿szy³em go m¹droœci¹? Wtedy powiedzia³em w sercu, ¿e to tak¿e jest marnoœci¹. </v>
+<v n="16"> Nie ma bowiem pamiêci zarówno o m¹drym, jak i o g³upcu na wieki, gdy¿ to, co jest teraz, w najbli¿szych dniach pójdzie w niepamiêæ. A jak umiera m¹dry? Tak jak g³upi. </v>
+<v n="17"> Dlatego obrzyd³o mi ¿ycie, gdy¿ przykre mi s¹ wszystkie sprawy dokonane pod s³oñcem. Wszystko bowiem jest marnoœci¹ i utrapieniem ducha. </v>
+<v n="18"> Zbrzyd³ mi nawet ca³y mój trud, który podejmowa³em pod s³oñcem, gdy¿ muszê go zostawiæ cz³owiekowi, który przyjdzie po mnie. </v>
+<v n="19"> A kto wie, czy bêdzie m¹dry, czy g³upi? A jednak bêdzie w³adaæ ca³¹ moj¹ prac¹, w któr¹ w³o¿y³em swój trud i m¹droœæ pod s³oñcem. Tak¿e i to jest marnoœci¹. </v>
+<v n="20"> Doszed³em wiêc do tego, ¿e zw¹tpi³em w sercu w ca³y swój trud, jaki podj¹³em pod s³oñcem. </v>
+<v n="21"> Gdy¿ niejeden cz³owiek pracuje m¹drze, umiejêtnie i sprawiedliwie, a swój dzia³ pozostawia innemu, który siê nim nie trudzi³. Tak¿e i to jest marnoœci¹ i wielkim z³em. </v>
+<v n="22"> Có¿ bowiem ma cz³owiek z ca³ej swojej pracy i z utrapienia swego serca, którymi siê trudzi pod s³oñcem? </v>
+<v n="23"> Bo wszystkie jego dni s¹ cierpieniem, a jego zajêcie – smutkiem; nawet w nocy jego serce nie zaznaje spokoju. Tak¿e i to jest marnoœci¹. </v>
+<v n="24"> Nie ma nic lepszego dla cz³owieka, ni¿ aby jad³ i pi³, i czyni³ dobrze swojej duszy przy swojej pracy. Zobaczy³em te¿, ¿e pochodzi to z rêki Boga. </v>
+<v n="25"> Kto bowiem potrafi jeœæ i cieszyæ siê tym s³uszniej ni¿ ja? </v>
+<v n="26"> Bo cz³owiekowi, który mu siê podoba, daje m¹droœæ, wiedzê i radoœæ. Ale grzesznikowi zadaje trud, aby zbiera³ i gromadzi³, i potem zostawi³ to temu, który siê Bogu podoba. Tak¿e i to jest marnoœci¹ i utrapieniem ducha. </v>
+</c>

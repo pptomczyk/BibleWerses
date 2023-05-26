@@ -1,0 +1,21 @@
+<v n="1"> I PAN powiedzia³ do Abrama: WyjdŸ z twojej ziemi i od twojej rodziny, i z domu twego ojca do ziemi, któr¹ ci poka¿ê. </v>
+<v n="2"> A uczyniê z ciebie wielki naród, bêdê ci b³ogos³awi³ i rozs³awiê twoje imiê, i bêdziesz b³ogos³awieñstwem. </v>
+<v n="3"> I bêdê b³ogos³awi³ tym, którzy tobie bêd¹ b³ogos³awiæ; a tych, którzy przeklinaj¹ ciebie, bêdê przeklinaæ. W tobie bêd¹ b³ogos³awione wszystkie narody ziemi. </v>
+<v n="4"> Wyszed³ wiêc Abram, jak mu PAN rozkaza³, poszed³ z nim te¿ Lot. Abram mia³ siedemdziesi¹t piêæ lat, gdy wyszed³ z Charanu. </v>
+<v n="5"> I Abram wzi¹³ swoj¹ ¿onê Saraj, Lota, syna brata swego, i ca³y dobytek, który zgromadzili, i dusze, które nabyli w Charanie, i wyszli, aby udaæ siê do ziemi Kanaan; i przybyli do ziemi Kanaan. </v>
+<v n="6"> Abram przeszed³ tê ziemiê a¿ do miejsca Sychem, do równiny More. Na tej ziemi byli wówczas Kananejczycy. </v>
+<v n="7"> I PAN ukaza³ siê Abramowi, i powiedzia³: Twemu potomstwu dam tê ziemiê. I Abram zbudowa³ tam o³tarz dla PANA, który mu siê ukaza³. </v>
+<v n="8"> A stamt¹d przeniós³ siê do góry na wschód od Betel i tam rozbi³ swój namiot miêdzy Betel od zachodu i Aj od wschodu. Tam równie¿ zbudowa³ o³tarz dla PANA i wzywa³ imienia PANA. </v>
+<v n="9"> Potem Abram wyruszy³, id¹c ku po³udniu. </v>
+<v n="10"> A nasta³ g³ód na tej ziemi. Abram zst¹pi³ wiêc do Egiptu, aby tam goœciæ; ciê¿ki bowiem by³ g³ód na ziemi. </v>
+<v n="11"> A gdy zbli¿a³ siê do Egiptu, powiedzia³ do swej ¿ony Saraj: Oto wiem, ¿e jesteœ piêkn¹ kobiet¹. </v>
+<v n="12"> Gdy Egipcjanie ciê zobacz¹, powiedz¹: To jego ¿ona; i zabij¹ mnie, a ciebie zostawi¹ przy ¿yciu. </v>
+<v n="13"> Mów, proszê, ¿e jesteœ moj¹ siostr¹, aby mi siê dobrze wiod³o ze wzglêdu na ciebie i abym dziêki tobie pozosta³ przy ¿yciu. </v>
+<v n="14"> Gdy Abram wszed³ do Egiptu, Egipcjanie zobaczyli, ¿e ta kobieta jest bardzo piêkna. </v>
+<v n="15"> Ujrzeli j¹ te¿ dostojnicy faraona i chwalili j¹ przed nim. I zabrano tê kobietê do domu faraona. </v>
+<v n="16"> Ten dobrze traktowa³ Abrama ze wzglêdu na ni¹. Abram mia³ wiêc owce, wo³y, os³y, s³u¿¹cych i s³u¿¹ce, oœlice i wielb³¹dy. </v>
+<v n="17"> PAN jednak dotkn¹³ faraona i jego dom wielkimi plagami z powodu Saraj, ¿ony Abrama. </v>
+<v n="18"> Faraon wezwa³ wiêc Abrama i powiedzia³: Coœ ty mi zrobi³? Czemu mi nie powiedzia³eœ, ¿e ona jest twoj¹ ¿on¹? </v>
+<v n="19"> Dlaczego mówi³eœ: Ona jest moj¹ siostr¹, tak ¿e mog³em j¹ wzi¹æ sobie za ¿onê? A teraz – oto twoja ¿ona, weŸ j¹ i idŸ. </v>
+<v n="20"> I faraon rozkaza³ o nim swoim ludziom, i odprawili go wraz z ¿on¹ i wszystkim, co by³o jego. </v>
+</c>

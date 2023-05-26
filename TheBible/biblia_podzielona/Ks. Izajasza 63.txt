@@ -1,0 +1,20 @@
+<v n="1"> Kim jest ten, który przybywa z Edomu, w farbowanych szatach z Bosry? Ten wspania³y w swoich szatach, krocz¹cy w swojej wielkiej mocy? To ja jestem, który mówiê w sprawiedliwoœci, potê¿ny w wybawieniu. </v>
+<v n="2"> Dlaczego twoja odzie¿ jest czerwona? A twoje szaty jak u tego, który t³oczy w prasie? </v>
+<v n="3"> Sam jeden t³oczy³em prasê i spoœród ludu nie by³o ze mn¹ nikogo. T³oczy³em go w swoim gniewie i depta³em go w swojej zapalczywoœci, a¿ pryska³a jego krew na moje szaty, poplami³em ca³¹ sw¹ odzie¿. </v>
+<v n="4"> Dzieñ pomsty by³ bowiem w moim sercu, a rok moich odkupionych nadszed³. </v>
+<v n="5"> Rozgl¹da³em siê, ale nie by³o pomocnika, zdumia³em siê, ¿e nikogo nie by³o, kto by mnie podpar³. Dlatego moje ramiê przynios³o mi zbawienie, a moja zapalczywoœæ – ona mnie podpar³a. </v>
+<v n="6"> Zdepta³em narody w swoim gniewie, upoi³em je w swojej zapalczywoœci i uderzy³em o ziemiê ich mocarzy. </v>
+<v n="7"> Bêdê wspominaæ mi³osierdzie PANA i chwa³ê PANA za wszystko, co nam PAN wyœwiadczy³, i za wielk¹ dobroæ, któr¹ okaza³ domowi Izraela wed³ug swego mi³osierdzia i wed³ug swojej wielkiej ³askawoœci. </v>
+<v n="8"> Powiedzia³ bowiem: Na pewno s¹ moim ludem, synami, którzy mi siê nie sprzeniewierz¹. I tak sta³ siê ich Zbawicielem. </v>
+<v n="9"> We wszelkim ich ucisku i on by³ uciœniony, a Anio³ jego oblicza zbawi³ ich. W swojej mi³oœci i litoœci on ich odkupi³. Troszczy³ siê o nich i nosi³ ich przez wszystkie dni wieków. </v>
+<v n="10"> Ale oni siê zbuntowali i zasmucili jego Œwiêtego Ducha. Dlatego zamieni³ siê w ich wroga i walczy³ przeciwko nim. </v>
+<v n="11"> Wówczas wspomnia³ dawne dni, Moj¿esza i jego lud, mówi¹c: Gdzie¿ jest ten, który ich wyprowadzi³ z morza, z pasterzem swojej trzody? Gdzie¿ jest ten, który w³o¿y³ w jego wnêtrze swego Œwiêtego Ducha? </v>
+<v n="12"> Który prowadzi³ ich prawic¹ Moj¿esza dziêki swemu chwalebnemu ramieniu i rozdzieli³ wody przed nimi, aby uczyniæ sobie wieczne imiê? </v>
+<v n="13"> Który ich przeprowadzi³ przez g³êbiny, jak konia na pustyni, tak ¿e siê nie potknêli? </v>
+<v n="14"> Jak byd³o schodz¹ce w dolinê tak Duch PANA spokojnie ich prowadzi³. Tak prowadzi³eœ swój lud, aby uczyniæ sobie chwalebne imiê. </v>
+<v n="15"> Spójrz z nieba i popatrz z przybytku swojej œwiêtoœci i chwa³y. Gdzie twoja gorliwoœæ i twoja wielka si³a? Gdzie poruszenie twoich uczuæ i litoœci przede mn¹? Czy powstrzyma³eœ je? </v>
+<v n="16"> Przecie¿ ty jesteœ naszym ojcem, bo Abraham nas nie zna, a Izrael nas nie uznaje. Ty, PANIE, jesteœ naszym ojcem, naszym Odkupicielem; twoje imiê jest od wieków. </v>
+<v n="17"> Czemu, PANIE, pozwoli³eœ nam zboczyæ z twoich dróg i zatwardzi³eœ nasze serce, abyœmy siê ciebie nie bali? Odwróæ siê ze wzglêdu na twoje s³ugi, pokolenia twego dziedzictwa. </v>
+<v n="18"> Lud posiad³ j¹ na krótki czas, nasi wrogowie zaœ zdeptali twoj¹ œwi¹tyniê. </v>
+<v n="19"> My jesteœmy twoi. Nad nimi nigdy nie panowa³eœ ani nie byli nazywani twoimi imieniem. </v>
+</c>

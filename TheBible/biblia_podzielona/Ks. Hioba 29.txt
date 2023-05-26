@@ -1,0 +1,26 @@
+<v n="1"> Hiob ci¹gn¹³ swoj¹ przypowieœæ i mówi³: </v>
+<v n="2"> Obym by³ taki jak za dawnych miesiêcy, za tych dni, w których Bóg mnie strzeg³; </v>
+<v n="3"> Gdy jego pochodnia œwieci³a nad moj¹ g³ow¹, a przy jego œwietle przechodzi³em w ciemnoœci; </v>
+<v n="4"> Taki, jaki by³em za dni swojej m³odoœci, gdy tajemnica Boga pozostawa³a nad moim namiotem; </v>
+<v n="5"> Gdy Wszechmocny by³ jeszcze ze mn¹ i otacza³y mnie moje dzieci; </v>
+<v n="6"> Gdy moje œcie¿ki op³ywa³y w mas³o, a opoka wylewa³a mi Ÿród³a oliwy; </v>
+<v n="7"> Gdy wychodzi³em do bramy przez miasto i na rynku przygotowa³em sobie miejsce. </v>
+<v n="8"> Widz¹c mnie, m³odzi ukrywali siê, a starcy podnosili siê i stali. </v>
+<v n="9"> Ksi¹¿êta przestawali mówiæ i k³adli rêkê na swoich ustach. </v>
+<v n="10"> G³os dostojników cich³, a ich jêzyk przylega³ im do podniebienia. </v>
+<v n="11"> Ucho, które mnie s³ysza³o, b³ogos³awi³o mnie, a oko, które mnie widzia³o, dawa³o o mnie œwiadectwo; </v>
+<v n="12"> Bo wybawia³em ubogiego, gdy wo³a³, sierotê oraz tego, który nie mia³ pomocnika. </v>
+<v n="13"> B³ogos³awieñstwo gin¹cego przychodzi³o do mnie, a serce wdowy radowa³em. </v>
+<v n="14"> Przyoblek³em siê w sprawiedliwoœæ i ona mnie okry³a. Mój s¹d by³ jak p³aszcz i korona. </v>
+<v n="15"> By³em oczami dla œlepego, a nogami dla chromego. </v>
+<v n="16"> By³em ojcem ubogich, a sprawê, której nie zna³em, bada³em. </v>
+<v n="17"> I kruszy³em szczêkê niegodziwca, a z jego zêbów wydziera³em ³up. </v>
+<v n="18"> Dlatego powiedzia³em: Umrê w swoim gnieŸdzie, rozmno¿ê swoje dni jak piasek. </v>
+<v n="19"> Mój korzeñ rozci¹gn¹³ siê przy wodach, a rosa trwa³a ca³¹ noc na moich ga³¹zkach. </v>
+<v n="20"> Moja chwa³a odœwie¿a³a siê we mnie, a mój ³uk odnowi³ siê w mojej rêce. </v>
+<v n="21"> S³uchali mnie i oczekiwali, przyjmowali moj¹ radê w milczeniu. </v>
+<v n="22"> Po moich s³owach ju¿ nie mówili, moja mowa kropi³a na nich. </v>
+<v n="23"> Oczekiwali mnie jak deszczu, otwierali swe usta jak na póŸny deszcz. </v>
+<v n="24"> Jeœli siê œmia³em do nich, nie wierzyli, a œwiat³a mojej twarzy nie odrzucali. </v>
+<v n="25"> Wytycza³em im drogê, siada³em na czele i przybywa³em jak król wœród wojska, jak ten, który smutnych pociesza. </v>
+</c>

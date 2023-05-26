@@ -1,0 +1,19 @@
+<v n="1"> Jeœli powstanie poœród was prorok albo ktoœ, kto ma sny, i uka¿e ci znak lub cud; </v>
+<v n="2"> I stanie siê ten znak albo cud, o którym ci oznajmi³, i powie: PójdŸmy za innymi bogami, których ty nie znasz, i s³u¿my im; </v>
+<v n="3"> Nie us³uchasz s³ów tego proroka ani tego, który ma sny, gdy¿ PAN, wasz Bóg, doœwiadcza was, aby poznaæ, czy mi³ujecie PANA, swego Boga, z ca³ego swego serca i ca³¹ swoj¹ dusz¹. </v>
+<v n="4"> Za PANEM, swoim Bogiem, bêdziecie chodziæ, jego bêdziecie siê baæ, przestrzegaæ jego przykazañ i s³uchaæ jego g³osu, bêdziecie mu s³u¿yæ i do niego lgn¹æ. </v>
+<v n="5"> A ten prorok albo ten, który ma sny, poniesie œmieræ, gdy¿ namówi³ do odstêpstwa od PANA, waszego Boga (który wyprowadzi³ was z ziemi Egiptu i odkupi³ was z domu niewoli), by sprowadziæ ciê z drogi, któr¹ PAN, twój Bóg, nakaza³ ci iœæ. W ten sposób wykorzenisz to z³o spoœród siebie. </v>
+<v n="6"> Jeœli twój brat, syn twojej matki, albo twój syn b¹dŸ twoja córka albo ¿ona spoczywaj¹ca na twym ³onie, albo twój przyjaciel, który jest dla ciebie jak twoja dusza, bêd¹ ciê namawiaæ, mówi¹c potajemnie: PójdŸmy i s³u¿my innym bogom, których nie pozna³eœ ani ty, ani twoi ojcowie; </v>
+<v n="7"> Któremuœ z bogów tych narodów, które s¹ doko³a was, tych blisko ciebie lub daleko od ciebie, od jednego koñca ziemi a¿ do jej drugiego koñca; </v>
+<v n="8"> Nie ulegniesz mu ani go nie us³uchasz; twoje oko nie zlituje siê nad nim, nie zmi³ujesz siê nad nim ani nie ukryjesz go; </v>
+<v n="9"> Ale koniecznie go zabijesz; najpierw twoja rêka bêdzie nad nim, by go zabiæ, a potem rêka ca³ego ludu. </v>
+<v n="10"> I ukamienujesz go na œmieræ, poniewa¿ chcia³ odwieœæ ciê od PANA, twego Boga, który ciê wyprowadzi³ z ziemi Egiptu, z domu niewoli; </v>
+<v n="11"> A ca³y Izrael us³yszy o tym i bêdzie siê ba³, i ju¿ nie pope³ni takiego z³a poœród was. </v>
+<v n="12"> A jeœli us³yszysz, ¿e w jednym z twoich miast, które PAN, twój Bóg, daje ci na mieszkanie, ktoœ powie: </v>
+<v n="13"> Wyszli pewni ludzie Beliala spoœród ciebie i uwodz¹ mieszkañców miasta, mówi¹c: PójdŸmy i s³u¿my innym bogom, których nie poznaliœcie; </v>
+<v n="14"> Wtedy przeprowadzisz dochodzenie, zbadasz i pilnie wypytasz. Jeœli oka¿e siê prawd¹ i rzecz¹ pewn¹, ¿e pope³niono tak¹ obrzydliwoœæ poœród was; </v>
+<v n="15"> Koniecznie wytracisz mieszkañców tego miasta ostrzem miecza, zniszczysz je doszczêtnie i wszystko, co w nim jest, równie¿ jego byd³o, ostrzem miecza. </v>
+<v n="16"> A ca³y jego ³up zbierzesz na œrodku placu i doszczêtnie spalisz w ogniu miasto razem z ca³ym ³upem dla PANA, swego Boga. I bêdzie zwaliskiem wiecznym, nigdy nie zostanie odbudowane. </v>
+<v n="17"> I nie zostanie w twoich rêkach nic z tych rzeczy przeklêtych, aby PAN odwróci³ gniew swojej zapalczywoœci i okaza³ ci mi³osierdzie, i zmi³owa³ siê nad tob¹, i rozmno¿y³ ciê, jak poprzysi¹g³ twoim ojcom; </v>
+<v n="18"> Gdy bêdziesz s³ucha³ g³osu PANA, swego Boga, zachowuj¹c wszystkie jego przykazania, które ci dziœ nakazujê, byœ czyni³ to, co prawe w oczach PANA, twojego Boga. </v>
+</c>

@@ -1,0 +1,27 @@
+<v n="1"> Potem Adam obcowa³ ze swoj¹ ¿on¹ Ew¹, a ta poczê³a i urodzi³a Kaina. I powiedzia³a: Otrzyma³am mê¿czyznê od PANA. </v>
+<v n="2"> I urodzi³a jeszcze jego brata Abla. Abel by³ pasterzem owiec, a Kain by³ rolnikiem. </v>
+<v n="3"> Z biegiem czasu zdarzy³o siê, ¿e Kain przyniós³ PANU ofiarê z plonów ziemi. </v>
+<v n="4"> Tak¿e Abel przyniós³ z pierworodnych swej trzody i z ich t³uszczu. A PAN wejrza³ na Abla i jego ofiarê. </v>
+<v n="5"> Lecz na Kaina i jego ofiarê nie wejrza³. Kain rozgniewa³ siê bardzo i spochmurnia³a jego twarz. </v>
+<v n="6"> Wtedy PAN zapyta³ Kaina: Dlaczego siê rozgniewa³eœ? Czemu spochmurnia³a twoja twarz? </v>
+<v n="7"> Jeœli bêdziesz dobrze czyni³, czy nie zostaniesz wywy¿szony? A jeœli nie bêdziesz dobrze czyni³, grzech le¿y u drzwi; a do ciebie bêdzie jego pragnienie, a ty bêdziesz nad nim panowaæ. </v>
+<v n="8"> I Kain rozmawia³ ze swoim bratem Ablem. A gdy byli na polu, Kain powsta³ przeciwko swemu bratu Ablowi i zabi³ go. </v>
+<v n="9"> Wtedy PAN zapyta³ Kaina: Gdzie jest twój brat Abel? On odpowiedzia³: Nie wiem. Czy ja jestem stró¿em mego brata? </v>
+<v n="10"> Bóg zapyta³: Có¿ uczyni³eœ? G³os krwi twego brata wo³a do mnie z ziemi. </v>
+<v n="11"> Teraz wiêc przeklêty bêdziesz na ziemi, która otworzy³a swe usta, aby przyj¹æ krew twego brata przelan¹ przez twoj¹ rêkê. </v>
+<v n="12"> Gdy bêdziesz uprawia³ ziemiê, nie da ci ju¿ swego plonu. Tu³aczem i zbiegiem bêdziesz na ziemi. </v>
+<v n="13"> Wtedy Kain powiedzia³ do PANA: Zbyt ciê¿ka jest moja kara, bym móg³ j¹ znieœæ. </v>
+<v n="14"> Oto wyganiasz mnie dziœ z powierzchni ziemi, a przed twoj¹ twarz¹ bêdê ukryty. Bêdê tu³aczem i zbiegiem na ziemi, a stanie siê tak, ¿e ktokolwiek mnie spotka, zabije mnie. </v>
+<v n="15"> PAN mu odpowiedzia³: Zaprawdê, ktokolwiek zabije Kaina, poniesie siedmiokrotn¹ zemstê. I na³o¿y³ PAN na Kaina piêtno, aby nie zabi³ go nikt, kto by go spotka³. </v>
+<v n="16"> Wtedy odszed³ Kain sprzed oblicza PANA i zamieszka³ w ziemi Nod, na wschód od Edenu. </v>
+<v n="17"> I Kain obcowa³ ze swoj¹ ¿on¹, a ona poczê³a i urodzi³a Henocha. Zbudowa³ te¿ miasto i nazwa³ je imieniem swego syna – Henoch. </v>
+<v n="18"> Henochowi urodzi³ siê Irad, a Irad sp³odzi³ Mechujaela, a Mechujael sp³odzi³ Matuszaela, a Matuszael sp³odzi³ Lameka. </v>
+<v n="19"> I Lamek poj¹³ sobie dwie ¿ony. Imiê jednej by³o Ada, a drugiej – Silla. </v>
+<v n="20"> Ada urodzi³a Jabala, który by³ ojcem mieszkaj¹cych w namiotach i pasterzy. </v>
+<v n="21"> Jego brat mia³ na imiê Jubal, a by³ on ojcem wszystkich graj¹cych na harfie i na flecie. </v>
+<v n="22"> Silla urodzi³a Tubalkaina, który by³ rzemieœlnikiem wszelkiej roboty od miedzi i ¿elaza. Siostr¹ Tubalkaina by³a Noema. </v>
+<v n="23"> I Lamek powiedzia³ swym ¿onom, Adzie i Silli: S³uchajcie mego g³osu, ¿ony Lameka, pos³uchajcie moich s³ów; zabi³em mê¿czyznê za zranienie mnie i m³odzieñca za siniec. </v>
+<v n="24"> Jeœli Kain ma byæ pomszczony siedem razy, to Lamek siedemdziesi¹t siedem razy. </v>
+<v n="25"> I Adam znów obcowa³ ze swoj¹ ¿on¹, a ona urodzi³a syna i nada³a mu imiê Set, mówi¹c: Da³ mi Bóg inne potomstwo za Abla, którego zabi³ Kain. </v>
+<v n="26"> Setowi te¿ urodzi³ siê syn i nada³ mu imiê Enosz. Wtedy zaczêto wzywaæ imienia PANA. </v>
+</c>

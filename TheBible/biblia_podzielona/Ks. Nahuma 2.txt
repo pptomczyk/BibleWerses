@@ -1,0 +1,14 @@
+<v n="1"> Nadci¹ga niszczyciel przeciwko tobie! Strze¿ miejsc obronnych, obserwuj drogê, wzmocnij biodra i zbierz wszystkie swe si³y. </v>
+<v n="2"> PAN bowiem odwróci³ pychê Jakuba jak pychê Izraela, gdy¿ z³upili ich grabie¿cy i zniszczyli ich latoroœle. </v>
+<v n="3"> Tarcza jego mocarzy czerwona, jego wojownicy ubrani w szkar³at, rydwany bêd¹ jak p³on¹ce pochodnie w dniu jego przygotowania, a jod³y bêd¹ strasznie siê trz¹œæ. </v>
+<v n="4"> Rydwany po ulicach bêd¹ szaleæ i na rynku skrzypieæ. Z wygl¹du bêd¹ podobne do pochodni, jak b³yskawice bêd¹ pêdziæ. </v>
+<v n="5"> Wezwie swoich mocarzy; zatocz¹ siê w swoim pochodzie, pospiesz¹ siê do murów, obrona bêdzie przygotowana. </v>
+<v n="6"> Bramy przy rzekach otworz¹ siê i pa³ac siê rozp³ynie; </v>
+<v n="7"> A Chusab zostanie uprowadzona do niewoli, jej s³u¿¹ce bêd¹ j¹ prowadziæ, jêcz¹c jak go³êbie i bij¹c siê w piersi. </v>
+<v n="8"> A Niniwa od swego pocz¹tku by³a jak sadzawka wód, ale uciekn¹. I choæ ktoœ powie: Stójcie, stójcie! – nikt jednak siê nie obejrzy. </v>
+<v n="9"> Rabujcie srebro, rabujcie z³oto, bo nie ma koñca bogactwo i przepych wszystkich kosztownoœci. </v>
+<v n="10"> Pusta, opró¿niona i spustoszona! Serce topnieje, trzês¹ siê kolana, czuæ ból w biodrach wszystkich ludzi, a twarze wszystkich czerniej¹. </v>
+<v n="11"> Gdzie jest jaskinia lwów i pastwisko lwi¹t, dok¹d chodzi³y lew, ten wielki lew, oraz lwiêta, a nie by³o nikogo, kto by je straszy³. </v>
+<v n="12"> Lew ju¿ dosyæ rozszarpa³ ofiar dla swych lwi¹t i zadusi³ je dla swoich lwic, nape³nia³ ³upem swoje jaskinie, a zdobycz¹ swoje legowiska. </v>
+<v n="13"> Oto jestem przeciwko tobie, mówi PAN zastêpów, spalê na proch twoje rydwany i twoje lwiêta po¿re miecz. Wykorzeniê z ziemi twój ³up i nie bêdzie ju¿ s³ychaæ g³osu twoich pos³ów. </v>
+</c>

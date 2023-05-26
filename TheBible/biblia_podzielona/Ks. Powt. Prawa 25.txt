@@ -1,0 +1,20 @@
+<v n="1"> Jeœli powstanie spór miêdzy mê¿czyznami i stan¹ oni przed s¹dem, by ich s¹dzono, wtedy usprawiedliwi¹ sprawiedliwego i potêpi¹ niegodziwego. </v>
+<v n="2"> A jeœli niegodziwy zas³u¿y na karê ch³osty, to sêdzia ka¿e go po³o¿yæ i w jego obecnoœci biæ w liczbie odpowiadaj¹cej jego niegodziwoœci. </v>
+<v n="3"> Mo¿e mu wymierzyæ czterdzieœci razów, ale nie wiêcej, gdy¿ przez wiêksz¹ liczbê razów twój brat zosta³by wzgardzony w twoich oczach. </v>
+<v n="4"> Nie zawi¹¿esz pyska m³óc¹cemu wo³owi. </v>
+<v n="5"> Jeœli bracia mieszkaj¹ razem, a jeden z nich umrze, nie pozostawiaj¹c dziecka, ¿ona zmar³ego nie wyjdzie za m¹¿ za obcego, lecz brat jej mê¿a wejdzie do niej, pojmie j¹ sobie za ¿onê i wype³ni wobec niej obowi¹zek powinowactwa. </v>
+<v n="6"> A pierworodny syn, którego ona urodzi, przejmie imiê zmar³ego brata, aby jego imiê nie zginê³o z Izraela. </v>
+<v n="7"> A jeœli ten mê¿czyzna nie zechce poj¹æ swojej bratowej, to jego bratowa pójdzie do bramy, do starszych, i powie: Brat mego mê¿a nie chce wzbudziæ swemu bratu imienia w Izraelu i nie chce wype³niæ wobec mnie obowi¹zku powinowactwa. </v>
+<v n="8"> Wtedy starsi miasta przywo³aj¹ go i przemówi¹ do niego. Jeœli bêdzie sta³ przy swoim i powie: Nie chcê jej poj¹æ za ¿onê; </v>
+<v n="9"> Wówczas jego bratowa podejdzie do niego na oczach starszych, zdejmie mu z nogi jego but, plunie mu w twarz i powie: Tak postêpuje siê z mê¿czyzn¹, który nie chce odbudowaæ domu swego brata. </v>
+<v n="10"> I nazw¹ go w Izraelu: Dom tego, któremu zdjêto but. </v>
+<v n="11"> Jeœli dwaj mê¿czyŸni bêd¹ siê k³óciæ ze sob¹ i ¿ona jednego z nich zbli¿a siê, aby wyrwaæ swego mê¿a z rêki tego, który go bije, i wyci¹gnie ona rêkê, i uchwyci go za wstydliwe czêœci; </v>
+<v n="12"> To odetniesz jej rêkê, nie zlituje siê nad ni¹ twoje oko. </v>
+<v n="13"> Nie bêdziesz mia³ w swym worku dwojakich odwa¿ników, wiêkszego i mniejszego. </v>
+<v n="14"> Nie bêdziesz mia³ w swoim domu dwojakiej efy, wiêkszej i mniejszej. </v>
+<v n="15"> Bêdziesz mia³ wagê dok³adn¹ i sprawiedliw¹, bêdziesz te¿ mia³ efê dok³adn¹ i sprawiedliw¹, aby siê przed³u¿y³y twoje dni na ziemi, któr¹ daje ci PAN, twój Bóg. </v>
+<v n="16"> Gdy¿ ka¿dy, kto postêpuje niesprawiedliwie, budzi odrazê u PANA, twego Boga. </v>
+<v n="17"> Pamiêtaj, co ci uczyni³ Amalek w drodze, kiedy wyszliœcie z Egiptu; </v>
+<v n="18"> Jak spotka³ ciê w drodze i napad³ na twoje ty³y, na wszystkich s³abych id¹cych za tob¹, gdy by³eœ zmêczony i znu¿ony, i nie ba³ siê Boga. </v>
+<v n="19"> Gdy wiêc PAN, twój Bóg, da ci odpoczynek od wszystkich twych wrogów doko³a w ziemi, któr¹ PAN, twój Bóg, daje ci w dziedziczne posiadanie, to wyma¿esz spod nieba pamiêæ o Amaleku. Nie zapominaj o tym. </v>
+</c>

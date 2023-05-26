@@ -1,0 +1,18 @@
+<v n="1"> W tych dniach przyszed³ Jan Chrzciciel, g³osz¹c na pustyni judzkiej: </v>
+<v n="2"> Pokutujcie, bo przybli¿y³o siê królestwo niebieskie. </v>
+<v n="3"> To bowiem jest ten, o którym powiedziano przez proroka Izajasza: G³os wo³aj¹cego na pustyni: Przygotujcie drogê Pana, prostujcie jego œcie¿ki. </v>
+<v n="4"> A ów Jan mia³ ubranie z sierœci wielb³¹dziej i pas skórzany wokó³ bioder, a jego pokarmem by³a szarañcza i miód leœny. </v>
+<v n="5"> Wtedy przychodzi³a do niego Jerozolima oraz ca³a Judea i ca³a okolica nad Jordanem. </v>
+<v n="6"> I byli przez niego chrzczeni w Jordanie, wyznaj¹c swoje grzechy. </v>
+<v n="7"> A gdy zobaczy³ wielu spoœród faryzeuszy i saduceuszy przychodz¹cych do chrztu, powiedzia³ im: Plemiê ¿mijowe, któ¿ was ostrzeg³, ¿ebyœcie uciekali przed nadchodz¹cym gniewem? </v>
+<v n="8"> Wydajcie wiêc owoce godne pokuty; </v>
+<v n="9"> A nie myœlcie, ¿e mo¿ecie sobie mówiæ: Naszym ojcem jest Abraham. Mówiê wam bowiem, ¿e Bóg mo¿e i z tych kamieni wzbudziæ dzieci Abrahamowi. </v>
+<v n="10"> Ju¿ i siekiera do korzenia drzew jest przy³o¿ona. Ka¿de wiêc drzewo, które nie wydaje dobrego owocu, zostaje wyciête i wrzucone w ogieñ. </v>
+<v n="11"> Ja was chrzczê wod¹ ku pokucie; ten zaœ, który idzie za mn¹, jest mocniejszy ode mnie; nie jestem godny nosiæ mu obuwia. On bêdzie was chrzci³ Duchem Œwiêtym i ogniem. </v>
+<v n="12"> Ma swoje wiejad³o w rêku i wyczyœci swoje klepisko, i zgromadzi swoj¹ pszenicê do spichlerza, a plewy spali w ogniu nieugaszonym. </v>
+<v n="13"> Wtedy Jezus przyszed³ z Galilei nad Jordan do Jana, aby byæ przez niego ochrzczonym. </v>
+<v n="14"> Ale Jan powstrzymywa³ go, mówi¹c: Ja potrzebujê byæ ochrzczonym przez ciebie, a ty przychodzisz do mnie? </v>
+<v n="15"> A Jezus mu odpowiedzia³: Ust¹p teraz, bo godzi siê nam wype³niæ wszelk¹ sprawiedliwoœæ. Wtedy mu ust¹pi³. </v>
+<v n="16"> A gdy Jezus zosta³ ochrzczony, zaraz wyszed³ z wody, a oto otworzy³y mu siê niebiosa i ujrza³ Ducha Bo¿ego zstêpuj¹cego jak go³êbica i przychodz¹cego na niego. </v>
+<v n="17"> I rozleg³ siê g³os z nieba: To jest mój umi³owany Syn, w którym mam upodobanie. </v>
+</c>

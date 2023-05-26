@@ -1,0 +1,8 @@
+<v n="1"> S³owo PANA, które dosz³o do proroka Jeremiasza przeciw Filistynom, zanim faraon pobi³ Gazê. </v>
+<v n="2"> Tak mówi PAN: Oto wody wznosz¹ siê od pó³nocy i bêd¹ jak gwa³towna powódŸ, zatopi¹ ziemiê i wszystko, co na niej jest, miasto i jego mieszkañców. Wtedy ludzie bêd¹ wo³aæ, zawyj¹ wszyscy mieszkañcy ziemi. </v>
+<v n="3"> Na odg³os têtentu kopyt jego silnych koni, z powodu turkotu jego rydwanów i trzasku jego kó³ ojcowie nie obejrz¹ siê na synów, gdy¿ zas³abn¹ im rêce; </v>
+<v n="4"> Z powodu dnia, który nadchodzi, by zniszczyæ wszystkich Filistynów i wytêpiæ z Tyru i Sydonu ka¿d¹ pozosta³¹ pomoc. PAN bowiem zniszczy Filistynów, resztê z wyspy Kaftor. </v>
+<v n="5"> Przysz³o na Gazê ³ysienie; wyniszczony zosta³ Aszkelon i resztki ich doliny. Jak d³ugo bêdziesz czyniæ sobie naciêcia? </v>
+<v n="6"> Mieczu PANA, jak d³ugo jeszcze nie spoczniesz? Wróæ do swojej pochwy, powstrzymaj siê i uspokój. </v>
+<v n="7"> Ale jak¿e ma siê uspokoiæ, skoro PAN wyda³ mu rozkaz przeciwko Aszkelonowi i przeciwko brzegowi morskiemu? Tam go skierowa³. </v>
+</c>

@@ -1,0 +1,9 @@
+<v n="1"> W tym czasie Merodak-Baladan, syn Baladana, król Babilonu, pos³a³ listy i dar do Ezechiasza. Us³ysza³ bowiem, ¿e chorowa³, a potem wyzdrowia³. </v>
+<v n="2"> I Ezechiasz ucieszy³ siê z tego, i pokaza³ im ca³y skarbiec swoich kosztownoœci: srebro i z³oto, wonnoœci, drogocenne olejki oraz swoj¹ zbrojowniê, a tak¿e wszystko, co siê znajdowa³o w jego skarbcach. Nie by³o niczego, czego Ezechiasz by im nie pokaza³ w swoim domu i w ca³ym swoim pañstwie. </v>
+<v n="3"> Wtedy prorok Izajasz przyszed³ do króla Ezechiasza i zapyta³ go: Co powiedzieli ci mê¿czyŸni i sk¹d przyszli do ciebie? Ezechiasz odpowiedzia³: Przybyli do mnie z dalekiej ziemi, z Babilonu. </v>
+<v n="4"> Znowu zapyta³: Co widzieli w twoim domu? Ezechiasz odpowiedzia³: Widzieli wszystko, co jest w moim domu. Nie by³o niczego, czego bym im nie pokaza³ w swoich skarbcach. </v>
+<v n="5"> Wtedy Izajasz powiedzia³ do Ezechiasza: S³uchaj s³owa PANA zastêpów: </v>
+<v n="6"> Oto przyjd¹ dni, gdy zabior¹ do Babilonu wszystko, co jest w twoim domu i co twoi ojcowie zgromadzili a¿ do tego dnia, mówi PAN. </v>
+<v n="7"> A z twoich synów, którzy bêd¹ pochodziæ od ciebie i których sp³odzisz, zabior¹ niektórych i bêd¹ eunuchami w pa³acu króla Babilonu. </v>
+<v n="8"> Wtedy Ezechiasz powiedzia³ do Izajasza: Dobre jest s³owo PANA, które wypowiedzia³eœ. I doda³: Bêdzie bowiem pokój i prawda za moich dni. </v>
+</c>

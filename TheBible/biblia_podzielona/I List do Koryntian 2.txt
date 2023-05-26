@@ -1,0 +1,17 @@
+<v n="1"> I ja, bracia, gdy do was przyszed³em, nie przyby³em z wznios³oœci¹ mowy lub m¹droœci, g³osz¹c wam œwiadectwo Boga. </v>
+<v n="2"> Postanowi³em bowiem nie znaæ wœród was niczego innego, jak tylko Jezusa Chrystusa, i to ukrzy¿owanego. </v>
+<v n="3"> I by³em u was w s³aboœci, w bojaŸni i z wielkim dr¿eniem. </v>
+<v n="4"> A moja mowa i moje g³oszenie nie opiera³y siê na powabnych s³owach ludzkiej m¹droœci, ale na ukazywaniu Ducha i mocy; </v>
+<v n="5"> Aby wasza wiara nie opiera³a siê na m¹droœci ludzkiej, ale na mocy Boga. </v>
+<v n="6"> G³osimy jednak m¹droœæ wœród doskona³ych, ale nie m¹droœæ tego œwiata ani w³adców tego œwiata, którzy przemijaj¹; </v>
+<v n="7"> Lecz g³osimy m¹droœæ Boga w tajemnicy, zakryt¹ m¹droœæ, któr¹ przed wiekami Bóg przeznaczy³ ku naszej chwale; </v>
+<v n="8"> Której nie pozna³ ¿aden z w³adców tego œwiata. Gdyby j¹ bowiem poznali, nigdy nie ukrzy¿owaliby Pana chwa³y; </v>
+<v n="9"> Ale g³osimy, jak jest napisane: Czego oko nie widzia³o ani ucho nie s³ysza³o, ani nie wst¹pi³o do serca cz³owieka, to przygotowa³ Bóg tym, którzy go mi³uj¹. </v>
+<v n="10"> Nam zaœ Bóg objawi³ to przez swojego Ducha. Duch bowiem bada wszystko, nawet g³êbokoœci Boga. </v>
+<v n="11"> Bo kto z ludzi wie, co jest w cz³owieku oprócz ducha ludzkiego, który w nim jest? Tak samo i tego, co jest w Bogu, nikt nie zna, oprócz Ducha Bo¿ego. </v>
+<v n="12"> My zaœ nie przyjêliœmy ducha œwiata, lecz Ducha, który jest z Boga, ¿ebyœmy wiedzieli, które rzeczy s¹ nam od Boga darowane. </v>
+<v n="13"> A o tym te¿ mówimy nie s³owami, których naucza ludzka m¹droœæ, lecz których naucza Duch Œwiêty, stosuj¹c do duchowych spraw to, co duchowe. </v>
+<v n="14"> Lecz cielesny cz³owiek nie pojmuje tych rzeczy, które s¹ Ducha Bo¿ego. S¹ bowiem dla niego g³upstwem i nie mo¿e ich poznaæ, poniewa¿ rozs¹dza siê je duchowo. </v>
+<v n="15"> Cz³owiek duchowy zaœ rozs¹dza wszystko, lecz sam przez nikogo nie jest s¹dzony. </v>
+<v n="16"> Kto bowiem pozna³ umys³ Pana? Kto go bêdzie poucza³? Ale my mamy umys³ Chrystusa. </v>
+</c>

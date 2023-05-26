@@ -1,0 +1,13 @@
+<v n="1"> Jest z³o, które widzia³em pod s³oñcem i które jest powszechne wœród ludzi: </v>
+<v n="2"> Gdy jakiemuœ cz³owiekowi Bóg da³ bogactwo, maj¹tek i s³awê, tak ¿e nie brakuje jego duszy nic z tego, czegokolwiek by pragn¹³, jednak Bóg nie daje mu mo¿liwoœci spo¿ywaæ tego, ale spo¿ywa to obcy cz³owiek. Jest to marnoœci¹ i ciê¿k¹ niedol¹. </v>
+<v n="3"> Choæby ktoœ sp³odzi³ stu synów, ¿y³ wiele lat i dni jego lat siê przed³u¿y³y, a jego dusza nie by³a nasycona dobrem i nie mia³ nawet pogrzebu, powiadam: lepszy jest od niego martwy p³ód. </v>
+<v n="4"> Ten bowiem przychodzi w marnoœci i odchodzi w ciemnoœci, a jego imiê zostaje okryte ciemnoœci¹. </v>
+<v n="5"> Nie widzia³ nawet s³oñca i nic nie wie. Ma on wiêkszy spokój ni¿ tamten. </v>
+<v n="6"> Bo choæby nawet ¿y³ przez dwa tysi¹ce lat, nie zazna³by ¿adnego dobra. Czy wszyscy nie id¹ do jednego miejsca? </v>
+<v n="7"> Wszelki trud cz³owieka jest dla jego ust, a jednak jego dusza nie mo¿e siê nasyciæ. </v>
+<v n="8"> Czego wiêcej ma bowiem m¹dry od g³upca? Albo czego wiêcej ma ubogi, który umie postêpowaæ wœród ¿yj¹cych? </v>
+<v n="9"> Lepsze jest to, co oczy widz¹, ni¿ ci¹g³e pragnienie. To równie¿ jest marnoœci¹ i utrapieniem ducha. </v>
+<v n="10"> Temu, kto jest, ju¿ nadano imiê i wiadomo, ¿e jest cz³owiekiem i ¿e nie mo¿e siê on spieraæ z mocniejszym od siebie. </v>
+<v n="11"> Poniewa¿ wiele jest rzeczy, które pomna¿aj¹ marnoœæ, jak¹ z nich korzyœæ ma cz³owiek? </v>
+<v n="12"> Któ¿ bowiem wie, co jest dobre dla cz³owieka w tym ¿yciu po wszystkie dni jego marnego ¿ycia, które jak cieñ przemijaj¹? Albo kto oznajmi cz³owiekowi, co po nim bêdzie pod s³oñcem? </v>
+</c>

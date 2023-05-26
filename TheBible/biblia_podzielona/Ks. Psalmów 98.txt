@@ -1,0 +1,10 @@
+<v n="1"> Psalm. Œpiewajcie PANU now¹ pieœñ, bo cudownych rzeczy dokona³, jego prawica i œwiête ramiê przynios³y mu zwyciêstwo. </v>
+<v n="2"> PAN objawi³ swoje zbawienie, okaza³ swoj¹ sprawiedliwoœæ na oczach pogan. </v>
+<v n="3"> Pamiêta³ o swoim mi³osierdziu i swojej prawdzie wobec domu Izraela; wszystkie krañce ziemi ujrza³y zbawienie naszego Boga. </v>
+<v n="4"> Radoœnie wykrzykuj PANU, ca³a ziemio; wykrzykujcie, weselcie siê i œpiewajcie. </v>
+<v n="5"> Grajcie PANU na harfie, na harfie, przy s³owach pieœni. </v>
+<v n="6"> Przy tr¹bach i dŸwiêku kornetów wykrzykujcie radoœnie przed PANEM, Królem. </v>
+<v n="7"> Niech zaszumi morze i to, co w nim jest, œwiat i jego mieszkañcy. </v>
+<v n="8"> Niech rzeki klaszcz¹ w d³onie, niech góry raduj¹ siê wspólnie; </v>
+<v n="9"> Przed PANEM, bo przychodzi, by s¹dziæ ziemiê. Bêdzie s¹dzi³ œwiat sprawiedliwie i narody wed³ug s³usznoœci. </v>
+</c>

@@ -1,0 +1,13 @@
+<v n="1"> Psalm Dawida. Os¹dŸ mnie, PANIE, bo postêpujê uczciwie, zaufa³em PANU i nie zachwiejê siê. </v>
+<v n="2"> Zbadaj mnie, PANIE, i doœwiadcz mnie; poddaj próbie moje nerki i serce. </v>
+<v n="3"> Mam bowiem twoje mi³osierdzie przed oczyma i postêpujê w twojej prawdzie. </v>
+<v n="4"> Nie zasiada³em z ludŸmi pró¿nymi i nie zadajê siê z ob³udnikami. </v>
+<v n="5"> Nienawidzê zgromadzenia z³oczyñców i z niegodziwymi nie usi¹dê. </v>
+<v n="6"> Umyjê w niewinnoœci swoje rêce i obejdê twój o³tarz, PANIE; </v>
+<v n="7"> Aby wznosiæ g³os dziêkczynienia i opowiadaæ o wszystkich twoich cudach. </v>
+<v n="8"> PANIE, mi³ujê dom, w którym mieszkasz, i miejsce, gdzie przebywa twoja chwa³a. </v>
+<v n="9"> Nie zabieraj mojej duszy z grzesznikami ani mojego ¿ycia z krwawymi ludŸmi; </v>
+<v n="10"> W ich rêkach jest przewrotnoœæ, a ich prawica pe³na jest przekupstwa. </v>
+<v n="11"> Lecz ja bêdê postêpowaæ uczciwie, odkup mnie i zmi³uj siê nade mn¹. </v>
+<v n="12"> Moja noga stoi na równej drodze, bêdê b³ogos³awi³ PANA w zgromadzeniach. </v>
+</c>

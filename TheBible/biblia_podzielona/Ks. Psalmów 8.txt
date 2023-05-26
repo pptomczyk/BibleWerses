@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi chóru, na Gittyt. Psalm Dawida. O PANIE, nasz Panie, jak s³awne jest twoje imiê na ca³ej ziemi! Ty, który swoj¹ chwa³ê wynios³eœ nad niebiosa. </v>
+<v n="2"> Przez usta niemowl¹t i ss¹cych ugruntowa³eœ sw¹ potêgê z powodu twoich wrogów, aby poskromiæ nieprzyjaciela i mœciciela. </v>
+<v n="3"> Gdy przypatrujê siê twoim niebiosom, dzie³u twoich palców, ksiê¿ycowi i gwiazdom, które utwierdzi³eœ; </v>
+<v n="4"> Wtedy mówiê: Czym¿e jest cz³owiek, ¿e o nim pamiêtasz, albo syn cz³owieczy, ¿e troszczysz siê o niego? </v>
+<v n="5"> Uczyni³eœ go bowiem niewiele mniejszym od anio³ów, chwa³¹ i czci¹ go ukoronowa³eœ. </v>
+<v n="6"> Da³eœ mu panowanie nad dzie³ami twoich r¹k, wszystko podda³eœ pod jego stopy: </v>
+<v n="7"> Owce i wszelkie byd³o, a tak¿e zwierzêta polne; </v>
+<v n="8"> Ptactwo niebieskie i ryby morskie, i wszystko, co przemierza szlaki mórz. </v>
+<v n="9"> O PANIE, nasz Panie, jak s³awne jest twoje imiê na ca³ej ziemi! </v>
+</c>

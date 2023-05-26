@@ -1,0 +1,19 @@
+<v n="1"> Brzemiê Tyru. ZawódŸcie, okrêty Tarszisz, bo zosta³ zburzony tak, ¿e nie ma ani domu, ani ¿adnego portu; oznajmiono im z ziemi Kittim. </v>
+<v n="2"> Zamilczcie, mieszkañcy wyspy; któr¹ nape³nili kupcy Sydonu, przep³ywaj¹c przez morze. </v>
+<v n="3"> I ziarno Szichoru, sprowadzane przez wielkie wody, ¿niwo rzeki, by³o jego dochodem; by³ te¿ rynkiem narodów. </v>
+<v n="4"> WstydŸ siê, Sydonie. Przemówi³o bowiem morze, przemówi³a twierdza morska: Nie wijê siê w bólu ani nie rodzê, nie wychowujê m³odzieñców ani nie odchowujê dziewic. </v>
+<v n="5"> Jak na wieœæ o Egipcie tak bêd¹ siê wiæ na wieœæ o Tyrze. </v>
+<v n="6"> Przeprawcie siê do Tarszisz, zawódŸcie, mieszkañcy wyspy! </v>
+<v n="7"> Czy to jest wasze weso³e miasto, którego historia siêga dawnych dni? Jego w³asne nogi zawiod¹ je na dalek¹ wêdrówkê. </v>
+<v n="8"> Kto powzi¹³ takie postanowienie przeciw Tyrowi, który rozdawa³ korony, którego kupcy s¹ ksi¹¿êtami, a jego handlarze – szanowanymi ziemi? </v>
+<v n="9"> PAN zastêpów to postanowi³, aby poni¿yæ pychê ca³ej jego chwa³y i aby zniewa¿yæ wszystkich szanowanych ziemi. </v>
+<v n="10"> Przeprawcie siê przez swoj¹ ziemiê jak rzeka, o córko Tarszisz. Nie ma ju¿ si³y. </v>
+<v n="11"> Wyci¹gn¹³ swoj¹ rêkê nad morze, zatrz¹sn¹³ królestwami. PAN wyda³ rozkaz przeciwko Kanaanowi, aby zburzyæ jego twierdze; </v>
+<v n="12"> I powiedzia³: Ju¿ nie bêdziesz siê weseliæ, ty zhañbiona dziewico, córko Sydonu. Powstañ, przepraw siê do Kittim; lecz i tam nie bêdziesz mia³a odpoczynku. </v>
+<v n="13"> Oto ziemia Chaldejczyków – ten lud nie by³ ludem. Asyryjczyk za³o¿y³ j¹ dla mieszkañców pustyni. Wznieœli jej wie¿e, pobudowali jej pa³ace, ale on obróci³ j¹ w gruzy. </v>
+<v n="14"> ZawódŸcie, okrêty Tarszisz, gdy¿ wasza twierdza jest zburzona. </v>
+<v n="15"> I stanie siê w tym dniu, ¿e Tyr pójdzie w zapomnienie na siedemdziesi¹t lat, na okres dni jednego króla. A po up³ywie siedemdziesiêciu lat Tyr bêdzie œpiewa³ jak nierz¹dnica. </v>
+<v n="16"> WeŸ harfê, obejdŸ miasto, zapomniana nierz¹dnico! Graj ³adnie, œpiewaj du¿o, by przypomniano sobie ciebie. </v>
+<v n="17"> I stanie siê po up³ywie siedemdziesiêciu lat, ¿e PAN nawiedzi Tyr, a ten wróci do czerpania korzyœci ze swego nierz¹du i bêdzie go uprawia³ ze wszystkimi królestwami œwiata na powierzchni ziemi. </v>
+<v n="18"> Lecz jego dochody i jego zysk bêd¹ poœwiêcone PANU. Nie bêdzie ich odk³adaæ i gromadziæ. Jego dochody bêd¹ dla tych, którzy przebywaj¹ przed PANEM, aby mogli jeœæ do syta i mieæ dobre ubranie. </v>
+</c>

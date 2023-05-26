@@ -1,0 +1,12 @@
+<v n="1"> ChodŸcie, œpiewajmy PANU, wykrzykujmy radoœnie skale naszego zbawienia. </v>
+<v n="2"> PrzyjdŸmy przed jego oblicze z chwa³¹, radoœnie œpiewajmy mu psalmy. </v>
+<v n="3"> PAN bowiem jest wielkim Bogiem i wielkim Królem nad wszystkimi bogami. </v>
+<v n="4"> W jego rêkach s¹ g³êbiny ziemi i jego s¹ szczyty gór. </v>
+<v n="5"> Jego jest morze, bo on je uczyni³, i jego rêce ukszta³towa³y suchy l¹d. </v>
+<v n="6"> ChodŸcie, oddajmy pok³on i padajmy przed nim; klêknijmy przed PANEM, naszym Stwórc¹. </v>
+<v n="7"> On bowiem jest naszym Bogiem, a my ludem jego pastwiska i owcami jego r¹k. Dzisiaj, jeœli jego g³os us³yszycie; </v>
+<v n="8"> Nie zatwardzajcie waszych serc jak w Meriba, jak w czasie kuszenia na pustyni; </v>
+<v n="9"> Kiedy mnie wystawiali na próbê wasi ojcowie, doœwiadczali mnie i widzieli moje dzie³a. </v>
+<v n="10"> Przez czterdzieœci lat czu³em odrazê do tego pokolenia i powiedzia³em: Ten lud b³¹dzi sercem i nie pozna³ moich dróg; </v>
+<v n="11"> Przysi¹g³em im w gniewie, ¿e nie wejd¹ do mego odpoczynku. </v>
+</c>

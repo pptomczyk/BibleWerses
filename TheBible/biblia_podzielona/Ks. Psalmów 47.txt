@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi chóru. Psalm dla synów Korego. Klaszczcie w d³onie, wszystkie narody, wykrzykujcie Bogu radosnym g³osem. </v>
+<v n="2"> Gdy¿ PAN Najwy¿szy budzi grozê, jest wielkim Królem nad ca³¹ ziemi¹. </v>
+<v n="3"> Podda nam ludzi i narody pod nasze stopy. </v>
+<v n="4"> Wybra³ nam nasze dziedzictwo, chlubê Jakuba, którego umi³owa³. Sela. </v>
+<v n="5"> Wst¹pi³ Bóg wœród okrzyków, PAN przy dŸwiêku tr¹by. </v>
+<v n="6"> Œpiewajcie Bogu, œpiewajcie; œpiewajcie naszemu Królowi, œpiewajcie. </v>
+<v n="7"> Bóg bowiem jest Królem ca³ej ziemi, œpiewajcie pieœni pouczaj¹ce. </v>
+<v n="8"> Bóg króluje nad narodami, Bóg zasiada na swym œwiêtym tronie. </v>
+<v n="9"> W³adcy narodów zebrali siê z ludem Boga Abrahama, bo do Boga nale¿¹ tarcze ziemi; on jest wielce wywy¿szony. </v>
+</c>

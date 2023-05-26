@@ -1,0 +1,21 @@
+<v n="1"> Sami bowiem wiecie, bracia, ¿e nasze przybycie do was nie by³o daremne; </v>
+<v n="2"> Lecz chocia¿ przedtem, jak wiecie, doznaliœmy cierpieñ i byliœmy zniewa¿eni w Filippi, to jednak odwa¿yliœmy siê w naszym Bogu, by wœród wielu zmagañ g³osiæ wam ewangeliê Boga. </v>
+<v n="3"> Nasze pouczenie bowiem nie wziê³o siê z b³êdu ani z nieczystoœci, ani z podstêpu; </v>
+<v n="4"> Lecz jak przez Boga zostaliœmy uznani za godnych powierzenia nam ewangelii, tak j¹ g³osimy, nie aby podobaæ siê ludziom, ale Bogu, który bada nasze serca. </v>
+<v n="5"> Nigdy bowiem nie pos³ugiwaliœmy siê pochlebstwem w mowie, jak wiecie, ani nie kierowaliœmy siê ukryt¹ chciwoœci¹, Bóg jest œwiadkiem; </v>
+<v n="6"> Ani nie szukaliœmy chwa³y u ludzi, ani u was, ani u innych, mog¹c byæ dla was ciê¿arem jako aposto³owie Chrystusa; </v>
+<v n="7"> Byliœmy jednak wœród was ³agodni jak karmicielka troszcz¹ca siê o swoje dzieci. </v>
+<v n="8"> Darzyliœmy was tak¹ ¿yczliwoœci¹, ¿e gotowi byliœmy u¿yczyæ wam nie tylko ewangelii Boga, ale i naszych dusz, bo staliœcie siê nam drodzy. </v>
+<v n="9"> Pamiêtacie przecie¿, bracia, nasz¹ pracê i trud. Pracuj¹c bowiem dniem i noc¹, aby nie obci¹¿yæ nikogo z was, g³osiliœmy wam ewangeliê Boga. </v>
+<v n="10"> Wy i Bóg jesteœcie œwiadkami, ¿e zachowywaliœmy siê w œwiêtoœci, w sprawiedliwoœci i nienagannie poœród was, którzy wierzycie. </v>
+<v n="11"> Wiecie bowiem, ¿e ka¿dego z was, jak ojciec swoje dzieci, zachêcaliœmy i pocieszaliœmy, i zaklinaliœmy; </v>
+<v n="12"> Abyœcie postêpowali w sposób godny Boga, który was powo³a³ do swego królestwa i chwa³y. </v>
+<v n="13"> Dlatego te¿ nieustannie dziêkujemy Bogu, ¿e gdy przyjêliœcie s³owo Bo¿e, które s³yszeliœcie od nas, przyjêliœcie je nie jako s³owo ludzkie, ale – jak jest naprawdê – jako s³owo Bo¿e, które te¿ w was, którzy wierzycie, skutecznie dzia³a. </v>
+<v n="14"> Wy bowiem, bracia, staliœcie siê naœladowcami koœcio³ów Bo¿ych, które s¹ w Judei w Chrystusie Jezusie, bo wy to samo wycierpieliœcie od swoich rodaków, co i oni od ¯ydów; </v>
+<v n="15"> Którzy zabili i Pana Jezusa, i swoich w³asnych proroków, i nas przeœladowali; a nie podobaj¹ siê Bogu i sprzeciwiaj¹ siê wszystkim ludziom. </v>
+<v n="16"> Zabraniaj¹ nam zwiastowaæ poganom, ¿eby ci nie byli zbawieni, aby zawsze dope³niali miary swoich grzechów; nadszed³ bowiem na nich ostateczny gniew. </v>
+<v n="17"> My zaœ, bracia, roz³¹czeni z wami na krótko cia³em, ale nie sercem, z tym wiêkszym pragnieniem staraliœmy siê was zobaczyæ. </v>
+<v n="18"> Dlatego chcieliœmy przybyæ do was, zw³aszcza ja, Pawe³, raz i drugi, ale przeszkodzi³ nam szatan. </v>
+<v n="19"> Co bowiem jest nasz¹ nadziej¹, radoœci¹ albo koron¹ chluby? Czy nie wy ni¹ jesteœcie przed naszym Panem Jezusem Chrystusem w czasie jego przyjœcia? </v>
+<v n="20"> Wy bowiem jesteœcie nasz¹ chwa³¹ i radoœci¹. </v>
+</c>

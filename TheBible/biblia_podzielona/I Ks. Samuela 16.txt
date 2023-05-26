@@ -1,0 +1,24 @@
+<v n="1"> Wtedy PAN powiedzia³ do Samuela: Jak d³ugo bêdziesz bola³ nad Saulem, skoro odrzuci³em go, aby nie królowa³ nad Izraelem? Nape³nij swój róg oliw¹ i idŸ, posy³am ciê do Jessego Betlejemity. Tam bowiem upatrzy³em sobie króla wœród jego synów. </v>
+<v n="2"> Samuel powiedzia³: Jak mam pójœæ? Saul bowiem o tym us³yszy i zabije mnie. PAN odpowiedzia³: WeŸ ze sob¹ ja³owicê ze stada i powiedz: Przyszed³em, aby z³o¿yæ PANU ofiarê. </v>
+<v n="3"> I wezwij Jessego na ofiarê, a ja ci oznajmiê, co masz czyniæ. A namaœcisz mi tego, którego ci wska¿ê. </v>
+<v n="4"> Samuel uczyni³ wiêc tak, jak mu powiedzia³ PAN, i przyby³ do Betlejem. Wtedy starsi miasta z dr¿eniem wyszli mu naprzeciw i zapytali: Czy przychodzisz w pokoju? </v>
+<v n="5"> Odpowiedzia³: W pokoju. Przyszed³em, aby z³o¿yæ PANU ofiarê. Poœwiêæcie siê i przyjdŸcie ze mn¹ na sk³adanie ofiary. Poœwiêci³ te¿ Jessego i jego synów i zaprosi³ ich na sk³adanie ofiary. </v>
+<v n="6"> A gdy przyszli, ujrza³ Eliaba i powiedzia³: Na pewno stoi przed PANEM jego pomazaniec. </v>
+<v n="7"> Lecz PAN powiedzia³ do Samuela: Nie patrz na jego urodê ani na jego wysoki wzrost, gdy¿ go odrzuci³em. PAN bowiem nie patrzy na to, na co patrzy cz³owiek, bo cz³owiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce. </v>
+<v n="8"> Jesse zawo³a³ wtedy Abinadaba i kaza³ mu przejœæ przed Samuelem. A on powiedzia³: Tego te¿ PAN nie wybra³. </v>
+<v n="9"> Potem Jesse kaza³ przejœæ Szammie. A on powiedzia³: Tego te¿ PAN nie wybra³. </v>
+<v n="10"> W ten sposób Jesse kaza³ przejœæ siedmiu swoim synom przed Samuelem. I Samuel powiedzia³ do Jessego: PAN nie wybra³ tych. </v>
+<v n="11"> Potem Samuel zapyta³ Jessego: Czy to ju¿ wszyscy twoi synowie? Odpowiedzia³: Zosta³ jeszcze najm³odszy, który pasie owce. Wtedy Samuel powiedzia³ do Jessego: Poœlij po niego i przyprowadŸ go, gdy¿ nie usi¹dziemy, dopóki on tu nie przyjdzie. </v>
+<v n="12"> Pos³a³ wiêc po niego i przyprowadzi³ go. By³ on rudy i mia³ piêkne oczy oraz ³adny wygl¹d. I PAN powiedzia³: Wstañ, namaœæ go, bo to jest on. </v>
+<v n="13"> Samuel wzi¹³ wiêc róg z oliw¹ i namaœci³ go poœród jego braci. I od tego dnia Duch PANA zstêpowa³ na Dawida. Samuel zaœ wsta³ i poszed³ do Rama. </v>
+<v n="14"> Lecz Duch PANA opuœci³ Saula i zacz¹³ go trapiæ z³y duch od PANA. </v>
+<v n="15"> Wtedy s³udzy Saula powiedzieli do niego: Oto teraz trapi ciê z³y duch od Boga. </v>
+<v n="16"> Niech nasz pan rozka¿e swoim s³ugom, którzy s¹ przed tob¹, by poszukali cz³owieka, który umie graæ na harfie. A gdy bêdzie na tobie ten z³y duch od Boga, cz³owiek ten zagra sw¹ rêk¹ i ul¿y ci. </v>
+<v n="17"> Saul odpowiedzia³ swoim s³ugom: Proszê, upatrzcie mi cz³owieka, który umia³by dobrze graæ, i przyprowadŸcie go do mnie. </v>
+<v n="18"> Jeden ze s³ug odpowiedzia³: Oto widzia³em syna Jessego Betlejemity, który umie graæ. Jest to dzielny wojownik, cz³owiek waleczny, roztropny i przystojny, a PAN jest z nim. </v>
+<v n="19"> Saul wys³a³ wiêc pos³añców do Jessego i powiedzia³: Poœlij do mnie swego syna Dawida, który jest przy trzodzie. </v>
+<v n="20"> Wtedy Jesse wzi¹³ os³a, chleb, buk³ak wina oraz jedno koŸlê i pos³a³ to wszystko Saulowi przez swego syna Dawida. </v>
+<v n="21"> I Dawid przyby³ do Saula, i stan¹³ przed nim. Ten ukocha³ go bardzo i Dawid zosta³ jego giermkiem. </v>
+<v n="22"> Potem Saul pos³a³ do Jessego, mówi¹c: Proszê, niech Dawid stoi przede mn¹, bo znalaz³ ³askê w moich oczach. </v>
+<v n="23"> A gdy z³y duch od Boga zstêpowa³ na Saula, Dawid bra³ harfê i gra³ sw¹ rêk¹ melodiê. Wtedy Saul doznawa³ ulgi i czu³ siê lepiej, a z³y duch odchodzi³ od niego. </v>
+</c>

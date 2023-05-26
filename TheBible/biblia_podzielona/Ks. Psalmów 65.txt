@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi chóru. Psalm i pieœñ Dawida. Tobie, Bo¿e, nale¿y siê chwa³a na Syjonie i tobie z³o¿one œluby nale¿y wype³niæ. </v>
+<v n="2"> Ty wys³uchujesz modlitwy, dlatego do ciebie przyjdzie wszelkie cia³o. </v>
+<v n="3"> Wielkie nieprawoœci wziê³y górê nad nami; ty oczyszczasz nasze wystêpki. </v>
+<v n="4"> B³ogos³awiony, kogo ty wybierasz i przyjmujesz, aby mieszka³ w twoich przedsionkach; bêdziemy nasyceni dobrami twego domu, twej œwiêtej œwi¹tyni. </v>
+<v n="5"> Straszliwymi rzeczami odpowiesz nam wed³ug sprawiedliwoœci, Bo¿e naszego zbawienia, nadziejo wszystkich krañców ziemi i mórz dalekich. </v>
+<v n="6"> Ty, który utwierdzasz góry swoj¹ moc¹, przepasany potêg¹; </v>
+<v n="7"> Ty, który uciszasz szum morza, szum jego fal, i wrzawê narodów; </v>
+<v n="8"> Mieszkañcy krañców ziemi boj¹ siê twoich znaków; ty radujesz ich nastawaniem poranka i wieczora. </v>
+<v n="9"> Nawiedzasz ziemiê i zraszasz j¹, wzbogacasz j¹ obficie strumieniem Bo¿ym pe³nym wody. Przygotowujesz im zbo¿e, gdy tak przysposabiasz ziemiê. </v>
+<v n="10"> Nawadniasz jej zagony, wyrównujesz jej bruzdy, zmiêkczasz j¹ deszczami i b³ogos³awisz jej urodzaje. </v>
+<v n="11"> Wieñczysz rok swoj¹ dobroci¹, a twoje œcie¿ki ociekaj¹ t³uszczem. </v>
+<v n="12"> Skrapiasz pustynne pastwiska, a pagórki przepasuj¹ siê radoœci¹. </v>
+<v n="13"> £¹ki przyodziewaj¹ siê stadami, a doliny okrywaj¹ siê zbo¿em; wykrzykuj¹ radoœnie i œpiewaj¹. </v>
+</c>

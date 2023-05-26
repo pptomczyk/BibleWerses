@@ -1,0 +1,13 @@
+<v n="1"> Pawe³, Sylwan i Tymoteusz do koœcio³a Tesaloniczan, który jest w Bogu, naszym Ojcu, i Panu Jezusie Chrystusie. </v>
+<v n="2"> £aska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="3"> Bracia, powinniœmy zawsze dziêkowaæ Bogu za was, co jest rzecz¹ s³uszn¹, bo bardzo wzrasta wasza wiara i u ka¿dego z was pomna¿a siê wzajemna mi³oœæ; </v>
+<v n="4"> Tak ¿e i my sami chlubimy siê wami w koœcio³ach Bo¿ych z powodu waszej cierpliwoœci i wiary we wszystkich waszych przeœladowaniach i uciskach, które znosicie. </v>
+<v n="5"> S¹ one dowodem sprawiedliwego s¹du Boga, abyœcie byli uznani za godnych królestwa Bo¿ego, za które te¿ cierpicie. </v>
+<v n="6"> Poniewa¿ jest rzecz¹ sprawiedliw¹ u Boga, ¿eby odp³aciæ uciskiem tym, którzy was uciskaj¹; </v>
+<v n="7"> A wam, uciœnionym, daæ odpoczynek wraz z nami, gdy z nieba objawi siê Pan Jezus z anio³ami swojej mocy; </v>
+<v n="8"> W ogniu p³omienistym wywieraj¹c zemstê na tych, którzy Boga nie znaj¹ i nie s¹ pos³uszni ewangelii naszego Pana Jezusa Chrystusa. </v>
+<v n="9"> Ponios¹ oni karê, wieczne zatracenie od oblicza Pana i od chwa³y jego mocy; </v>
+<v n="10"> Gdy przyjdzie, aby by³ uwielbiony w swoich œwiêtych i podziwiany w tym dniu przez wszystkich wierz¹cych, poniewa¿ wœród was uwierzono naszemu œwiadectwu. </v>
+<v n="11"> Dlatego te¿ nieustannie modlimy siê za was, aby nasz Bóg uzna³ was za godnych tego powo³ania i wype³ni³ wszelkie upodobanie swojej dobroci i dzie³a wiary w mocy; </v>
+<v n="12"> Aby imiê naszego Pana Jezusa Chrystusa zosta³o uwielbione w was, a wy w nim, wed³ug ³aski naszego Boga i Pana Jezusa Chrystusa. </v>
+</c>

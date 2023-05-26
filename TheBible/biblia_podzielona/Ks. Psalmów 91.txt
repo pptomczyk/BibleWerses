@@ -1,0 +1,17 @@
+<v n="1"> Kto mieszka pod os³on¹ Najwy¿szego, w cieniu Wszechmocnego przebywaæ bêdzie. </v>
+<v n="2"> Bêdê mówi³ o PANU: Moja ucieczka i twierdza, mój Bóg, jemu bêdê ufa³. </v>
+<v n="3"> Zaprawdê, on wybawi ciê z side³ ³owcy i od zgubnej zarazy. </v>
+<v n="4"> Okryje ciê swymi piórami i pod jego skrzyd³ami bêdziesz bezpieczny; jego prawda bêdzie ci tarcz¹ i puklerzem. </v>
+<v n="5"> Nie ulêkniesz siê strachu nocnego ani strza³y lec¹cej za dnia; </v>
+<v n="6"> Ani zarazy, która przychodzi w ciemnoœci, ani d¿umy, która pustoszy w po³udnie. </v>
+<v n="7"> Tysi¹c padnie u twego boku, a dziesiêæ tysiêcy po twojej prawicy, lecz ciebie to nie dosiêgnie. </v>
+<v n="8"> Tylko zobaczysz na w³asne oczy i ujrzysz zap³atê dan¹ niegodziwym. </v>
+<v n="9"> Poniewa¿ PANA, moj¹ ucieczkê i Najwy¿szego, uczyni³eœ swoim mieszkaniem; </v>
+<v n="10"> Nie spotka ciê nic z³ego ani ¿adna plaga nie zbli¿y siê do twego namiotu. </v>
+<v n="11"> Rozka¿e bowiem o tobie swoim anio³om, aby ciê strzegli na wszystkich twoich drogach. </v>
+<v n="12"> Na rêkach bêd¹ ciê nosiæ, byœ przypadkiem nie uderzy³ swojej nogi o kamieñ. </v>
+<v n="13"> Bêdziesz st¹pa³ po lwie i po ¿mii, lwi¹tko i smoka podepczesz. </v>
+<v n="14"> Wybawiê go, bo mnie umi³owa³; wywy¿szê go, bo pozna³ moje imiê. </v>
+<v n="15"> Bêdzie mnie wzywa³, a ja go wys³ucham; bêdê z nim w utrapieniu, wyrwê go i otoczê chwa³¹. </v>
+<v n="16"> D³ugimi dniami go nasycê i uka¿ê mu moje zbawienie. </v>
+</c>

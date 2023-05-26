@@ -1,0 +1,26 @@
+<v n="1"> A trzeciego dnia odbywa³o siê wesele w Kanie Galilejskiej i by³a tam matka Jezusa. </v>
+<v n="2"> Zaproszono na to wesele tak¿e Jezusa i jego uczniów. </v>
+<v n="3"> A gdy zabrak³o wina, matka Jezusa powiedzia³a do niego: Nie maj¹ wina. </v>
+<v n="4"> Jezus jej odpowiedzia³: Co ja mam z tob¹, kobieto? Jeszcze nie nadesz³a moja godzina. </v>
+<v n="5"> Jego matka powiedzia³a do s³ug: Zróbcie wszystko, co wam powie. </v>
+<v n="6"> A by³o tam szeœæ st¹gwi kamiennych, postawionych wed³ug ¿ydowskiego zwyczaju oczyszczenia, mieszcz¹cych ka¿da dwa albo trzy wiadra. </v>
+<v n="7"> Jezus im powiedzia³: Nape³nijcie te st¹gwie wod¹. I nape³nili je a¿ po brzegi. </v>
+<v n="8"> Wtedy powiedzia³ do nich: Zaczerpnijcie teraz i zanieœcie prze³o¿onemu wesela. I zanieœli. </v>
+<v n="9"> A gdy prze³o¿ony wesela skosztowa³ wody, która sta³a siê winem (a nie wiedzia³, sk¹d pochodzi³o, lecz s³udzy, którzy zaczerpnêli wody, wiedzieli), zawo³a³ oblubieñca. </v>
+<v n="10"> I powiedzia³ do niego: Ka¿dy cz³owiek najpierw podaje dobre wino, a gdy sobie podpij¹, wtedy gorsze. A ty dobre wino zachowa³eœ a¿ do tej pory. </v>
+<v n="11"> Taki pocz¹tek cudów uczyni³ Jezus w Kanie Galilejskiej i objawi³ swoj¹ chwa³ê, i uwierzyli w niego jego uczniowie. </v>
+<v n="12"> Potem on, jego matka, jego bracia i jego uczniowie poszli do Kafarnaum i mieszkali tam kilka dni. </v>
+<v n="13"> A poniewa¿ zbli¿a³a siê Pascha ¿ydowska, Jezus poszed³ do Jerozolimy. </v>
+<v n="14"> I zasta³ w œwi¹tyni sprzedaj¹cych wo³y, owce i go³êbie oraz tych, którzy siedzieli i wymieniali pieni¹dze. </v>
+<v n="15"> A zrobiwszy bicz z powrozków, wypêdzi³ wszystkich ze œwi¹tyni, tak¿e owce i wo³y, rozsypa³ pieni¹dze wymieniaj¹cych i poprzewraca³ sto³y. </v>
+<v n="16"> A do sprzedaj¹cych go³êbie powiedzia³: Wynieœcie to st¹d, a nie róbcie z domu mego Ojca domu kupieckiego. </v>
+<v n="17"> I przypomnieli sobie jego uczniowie, ¿e jest napisane: Gorliwoœæ o twój dom z¿ar³a mnie. </v>
+<v n="18"> Wtedy ¯ydzi zapytali: Jaki nam znak poka¿esz, skoro to czynisz? </v>
+<v n="19"> Odpowiedzia³ im Jezus: Zburzcie tê œwi¹tyniê, a w trzy dni j¹ wzniosê. </v>
+<v n="20"> Wtedy ¯ydzi powiedzieli: Czterdzieœci szeœæ lat budowano tê œwi¹tyniê, a ty j¹ w trzy dni wzniesiesz? </v>
+<v n="21"> Ale on mówi³ o œwi¹tyni swego cia³a. </v>
+<v n="22"> Gdy wiêc zmartwychwsta³, jego uczniowie przypomnieli sobie, ¿e im to powiedzia³, i uwierzyli Pismu i s³owu, które wypowiedzia³ Jezus. </v>
+<v n="23"> A gdy by³ w Jerozolimie podczas Paschy w œwiêto, wielu uwierzy³o w jego imiê, widz¹c cuda, które czyni³. </v>
+<v n="24"> Ale Jezus nie powierza³ im samego siebie, bo on zna³ wszystkich; </v>
+<v n="25"> I nie potrzebowa³, aby mu ktoœ dawa³ œwiadectwo o cz³owieku. On bowiem wiedzia³, co by³o w cz³owieku. </v>
+</c>

@@ -1,0 +1,10 @@
+<v n="1"> Alleluja. Œpiewajcie PANU now¹ pieœñ; niech jego chwa³a zabrzmi w zgromadzeniu œwiêtych. </v>
+<v n="2"> Niech Izrael cieszy siê swoim Stwórc¹; niech synowie Syjonu raduj¹ siê swoim Królem. </v>
+<v n="3"> Niech chwal¹ jego imiê tañcem; niech graj¹ mu na bêbnie i na harfie. </v>
+<v n="4"> PAN bowiem swój lud upodoba³ sobie; zdobi pokornych zbawieniem. </v>
+<v n="5"> Niech œwiêci siê raduj¹ w chwale Bo¿ej, niech œpiewaj¹ na swych pos³aniach. </v>
+<v n="6"> Niech chwa³a Bo¿a bêdzie na ich ustach, a miecz obosieczny w ich rêkach; </v>
+<v n="7"> Aby dokonali zemsty na poganach i ukarali narody; </v>
+<v n="8"> Aby zakuli ich królów w kajdany, a ich dostojników w ¿elazne okowy; </v>
+<v n="9"> Aby wykonali na nich zapisany wyrok. Taka jest chwa³a wszystkich jego œwiêtych. Alleluja. </v>
+</c>

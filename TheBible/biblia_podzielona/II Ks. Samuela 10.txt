@@ -1,0 +1,20 @@
+<v n="1"> Po tych wydarzeniach umar³ król synów Ammona, a jego syn Chanun królowa³ w jego miejsce. </v>
+<v n="2"> Wtedy Dawid powiedzia³: Oka¿ê ¿yczliwoœæ Chanunowi, synowi Nachasza, tak jak jego ojciec okaza³ mi ¿yczliwoœæ. I Dawid wys³a³ swe s³ugi, by pocieszyæ go po stracie jego ojca. S³udzy Dawida przyszli wiêc do ziemi synów Ammona. </v>
+<v n="3"> Lecz ksi¹¿êta synów Ammona powiedzieli do swego pana Chanuna: Czy myœlisz, ¿e Dawid chce uczciæ twego ojca i dlatego przys³a³ do ciebie pocieszycieli? Czy nie po to raczej Dawid posy³a swoje s³ugi do ciebie, aby przypatrzyli siê miastu i przeszpiegowali je, by potem je zburzyæ? </v>
+<v n="4"> Chanun wzi¹³ wiêc s³ugi Dawida, zgoli³ im brody do po³owy, poobcina³ ich szaty do po³owy, a¿ do poœladków, i odes³a³ ich. </v>
+<v n="5"> A gdy doniesiono o tym Dawidowi, wys³a³ im na spotkanie pos³ów, poniewa¿ ci mê¿czyŸni byli bardzo zniewa¿eni. I król powiedzia³ im: Zostañcie w Jerychu, a¿ wam brody odrosn¹, a potem wróæcie. </v>
+<v n="6"> Gdy synowie Ammona spostrzegli, ¿e obrzydli Dawidowi, pos³ali i wynajêli sobie dwadzieœcia tysiêcy piechoty Syryjczyków z Bet-Rekob i Syryjczyków z Soby, od króla Maaki tysi¹c mê¿czyzn, a z Isztobu dwanaœcie tysiêcy mê¿czyzn. </v>
+<v n="7"> Kiedy Dawid o tym us³ysza³, wys³a³ Joaba z ca³ym zastêpem dzielnych wojowników. </v>
+<v n="8"> Wtedy synowie Ammona wyszli i ustawili siê w szyku bojowym przed wejœciem do bramy. Syryjczycy zaœ z Soby i z Rechob oraz ci z Isztobu i Maaki stanêli osobno w polu. </v>
+<v n="9"> Gdy Joab zobaczy³ wojska wystawione przeciwko sobie z przodu i z ty³u, wybra³ ludzi spoœród wszystkich wyborowych mê¿czyzn w Izraelu i ustawi³ ich w szyku bojowym przeciwko Syryjczykom. </v>
+<v n="10"> A resztê ludzi odda³ pod rêkê swego brata Abiszaja, aby ich ustawi³ w szyku bojowym przeciwko synom Ammona. </v>
+<v n="11"> I powiedzia³: Jeœli Syryjczycy bêd¹ silniejsi ode mnie, przyjdziesz mi z pomoc¹, a jeœli synowie Ammona bêd¹ silniejsi od ciebie, ja przyjdê tobie z pomoc¹. </v>
+<v n="12"> B¹dŸ odwa¿ny i walczmy mê¿nie za swój lud i za miasta naszego Boga, a niech PAN uczyni to, co jest dobre w jego oczach. </v>
+<v n="13"> Joab wraz z ludem, który by³ z nim, wyruszy³ wiêc do bitwy z Syryjczykami. A oni uciekli przed nim. </v>
+<v n="14"> Gdy synowie Ammona zobaczyli, ¿e Syryjczycy uciekli, uciekli i oni przed Abiszajem i weszli do miasta. Wtedy Joab zawróci³ od synów Ammona i przyby³ do Jerozolimy. </v>
+<v n="15"> Kiedy Syryjczycy zobaczyli, ¿e s¹ pobici przez Izraela, zebrali siê razem. </v>
+<v n="16"> I Hadadezer pos³a³ po Syryjczyków, którzy byli za rzek¹, i sprowadzi³ ich. Przybyli oni do Helam, a Szobak, dowódca wojska Hadadezera, prowadzi³ ich. </v>
+<v n="17"> Gdy doniesiono o tym Dawidowi, zebra³ ca³y Izrael, przeprawi³ siê przez Jordan i przyby³ do Helam. A Syryjczycy ustawili siê w szyku bojowym przeciw Dawidowi i stoczyli z nim bitwê. </v>
+<v n="18"> Lecz Syryjczycy uciekli przed Izraelem i spoœród Syryjczyków Dawid zabi³ ludzi z siedmiuset rydwanów oraz czterdzieœci tysiêcy jeŸdŸców. Zrani³ te¿ Szobaka, dowódcê ich wojska, który tam zmar³. </v>
+<v n="19"> Kiedy wszyscy królowie, poddani Hadadezera, zobaczyli, ¿e s¹ pobici przez Izraela, zawarli pokój z Izraelem i s³u¿yli im. I Syryjczycy bali siê odt¹d iœæ na pomoc synom Ammona. </v>
+</c>

@@ -1,0 +1,23 @@
+<v n="1"> Wtedy Hiob odpowiedzia³: </v>
+<v n="2"> S³ysza³em wiele takich rzeczy; wy wszyscy jesteœcie przykrymi pocieszycielami. </v>
+<v n="3"> Kiedy bêdzie koniec tych pró¿nych s³ów? Albo co ciê sk³ania do tego, ¿e tak odpowiadasz? </v>
+<v n="4"> Ja tak¿e móg³bym mówiæ jak wy; gdybyœcie byli w moim po³o¿eniu, móg³bym nagromadziæ s³ów przeciwko wam i potrz¹saæ g³ow¹ nad wami. </v>
+<v n="5"> Ja jednak pokrzepia³bym was swoimi ustami i poruszanie moich warg ul¿y³oby waszym cierpieniom. </v>
+<v n="6"> Ale jeœli bêdê mówi³, mojemu bólowi to nie ul¿y, a jeœli przestanê, czy¿ opuœci mnie? </v>
+<v n="7"> A teraz zmêczy³ mnie. Spustoszy³eœ ca³e moje zgromadzenie. </v>
+<v n="8"> Pomarszczy³eœ mnie na œwiadectwo, a moje wychudzenie powstaje i œwiadczy przeciwko mnie w twarz. </v>
+<v n="9"> Jego gniew mnie porwa³, nienawidzi mnie; zgrzyta na mnie zêbami. Mój wróg przeszywa mnie wzrokiem. </v>
+<v n="10"> Otworzyli na mnie swe usta; zniewa¿aj¹c, bili mnie po policzkach; zebrali siê razem przeciwko mnie. </v>
+<v n="11"> Bóg wyda³ mnie przewrotnemu, odda³ mnie w rêce niegodziwych. </v>
+<v n="12"> ¯y³em w spokoju, ale on mnie pokruszy³; chwyci³ mnie za kark, roztrzaska³ i postawi³ sobie za cel. </v>
+<v n="13"> Otoczyli mnie jego strzelcy; przeszywa moje nerki, a nie oszczêdzi³; wyla³ na ziemiê moj¹ ¿ó³æ. </v>
+<v n="14"> Rozbija mnie, ranê za ran¹; naciera na mnie jak olbrzym. </v>
+<v n="15"> Uszy³em wór na swoj¹ skórê i prochem zbezczeœci³em swój róg. </v>
+<v n="16"> Moja twarz jest czerwona od p³aczu i na moich powiekach jest cieñ œmierci. </v>
+<v n="17"> Chocia¿ nie ma ¿adnej krzywdy na moich rêkach, a moja modlitwa jest czysta. </v>
+<v n="18"> Ziemio, nie zakrywaj mojej krwi i niech moje wo³anie nie znajdzie miejsca! </v>
+<v n="19"> Oto teraz mój œwiadek jest w niebie, mój obroñca na wysokoœci. </v>
+<v n="20"> Moi przyjaciele szydz¹ ze mnie, ale moje oko wylewa ³zy ku Bogu. </v>
+<v n="21"> Oby ktoœ spiera³ siê z Bogiem o cz³owieka jak cz³owiek spiera siê o swego bliŸniego! </v>
+<v n="22"> Up³ynie bowiem niewiele lat, a pójdê œcie¿k¹, sk¹d nie powrócê. </v>
+</c>

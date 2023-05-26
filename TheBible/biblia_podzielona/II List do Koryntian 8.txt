@@ -1,0 +1,25 @@
+<v n="1"> A oznajmiamy wam, bracia, o ³asce Bo¿ej, która jest dana koœcio³om Macedonii; </v>
+<v n="2"> I¿ w ciê¿kiej próbie ucisku ich obfita radoœæ i skrajne ubóstwo obfitowa³y bogactwem ich ofiarnoœci. </v>
+<v n="3"> Zaœwiadczam bowiem, ¿e wed³ug mo¿liwoœci, a nawet ponad mo¿liwoœæ okazali gotowoœæ; </v>
+<v n="4"> Z wielkim naleganiem prosz¹c nas, abyœmy przyjêli ten dar i ich udzia³ w s³u¿bie na rzecz œwiêtych. </v>
+<v n="5"> A post¹pili nie tylko tak, jak siê spodziewaliœmy, ale samych siebie najpierw oddali Panu, a potem nam za wol¹ Boga. </v>
+<v n="6"> Tak, ¿e poprosiliœmy Tytusa, aby tak jak wczeœniej zacz¹³, tak te¿ dokoñczy³ u was tego dzie³a ³aski. </v>
+<v n="7"> Jak wiêc obfitujecie we wszystko, w wiarê, w mowê, w poznanie, we wszelk¹ pilnoœæ i w mi³oœæ wasz¹ do nas, tak i w tym dziele ³aski obfitujcie. </v>
+<v n="8"> Nie mówiê tego jako rozkaz, lecz abym przez zapa³ innych wypróbowa³ szczeroœæ waszej mi³oœci. </v>
+<v n="9"> Znacie bowiem ³askê naszego Pana Jezusa Chrystusa, ¿e bêd¹c bogatym, dla was sta³ siê ubogim, abyœcie wy zostali ubogaceni jego ubóstwem. </v>
+<v n="10"> A w tej sprawie dajê wam swoj¹ radê, gdy¿ jest to po¿yteczne dla was, którzy nie tylko zaczêliœcie to robiæ, ale ju¿ ubieg³ego roku wykazaliœcie chêæ. </v>
+<v n="11"> Teraz wiêc to, co zaczêliœcie robiæ, dokoñczcie, aby tak, jak by³a gotowoœæ w chêciach, tak te¿ aby by³o wykonanie z tego, co macie. </v>
+<v n="12"> Jeœli bowiem najpierw jest gotowoœæ, jest przyjmowana wed³ug tego, co kto ma, a nie wed³ug tego, czego nie ma. </v>
+<v n="13"> Nie chodzi bowiem o to, ¿eby innym ul¿yæ, a was obci¹¿yæ; </v>
+<v n="14"> Lecz o równoœæ, aby teraz wasza obfitoœæ us³u¿y³a ich niedostatkowi, aby te¿ ich obfitoœæ waszemu niedostatkowi us³u¿y³a, tak ¿eby by³a równoœæ; </v>
+<v n="15"> Jak jest napisane: Kto wiele nazbiera³, nie mia³ za wiele, a kto ma³o nazbiera³, nie mia³ za ma³o. </v>
+<v n="16"> Lecz Bogu niech bêd¹ dziêki, który wszczepi³ tak¹ troskê o was w serce Tytusa; </v>
+<v n="17"> ¯e przyj¹³ tê zachêtê, a bêd¹c bardziej gorliwym, dobrowolnie wybra³ siê do was. </v>
+<v n="18"> Pos³aliœmy razem z nim brata, którego s³awa w ewangelii rozchodzi siê po wszystkich koœcio³ach. </v>
+<v n="19"> A nie tylko to, ale te¿ zosta³ wybrany przez koœcio³y na towarzysza naszej podró¿y w tym dziele ³aski, którym s³u¿ymy ku chwale samego Pana i ku okazaniu waszej gotowoœci; </v>
+<v n="20"> Wystrzegaj¹c siê tego, aby nas ktoœ nie gani³ z powodu tego hojnego daru, którym s³u¿ymy; </v>
+<v n="21"> Staraj¹c siê o to, co uczciwe, nie tylko przed Panem, ale te¿ przed ludŸmi. </v>
+<v n="22"> A pos³aliœmy z nimi naszego brata, którego pilnoœæ wielokrotnie wypróbowaliœmy w wielu sprawach, a który teraz jest o wiele bardziej pilny, poniewa¿ ma do was wielkie zaufanie. </v>
+<v n="23"> A jeœli chodzi o Tytusa, jest on moim towarzyszem i wspó³pracownikiem wœród was, jeœli zaœ chodzi o naszych braci, s¹ wys³annikami koœcio³ów i chwa³¹ Chrystusa. </v>
+<v n="24"> Oka¿cie im wiêc przed koœcio³ami dowód waszej mi³oœci i naszej chluby z was. </v>
+</c>

@@ -1,0 +1,9 @@
+<v n="1"> Psalm Dawida, gdy ucieka³ przed swoim synem Absalomem. PANIE, jak¿e siê namno¿y³o moich nieprzyjació³, jak wielu powstaje przeciwko mnie! </v>
+<v n="2"> Wielu mówi o mojej duszy: Nie ma dla niego ratunku u Boga. Sela. </v>
+<v n="3"> Ale ty, PANIE, jesteœ moj¹ tarcz¹, moj¹ chwa³¹, tym, który podnosi moj¹ g³owê. </v>
+<v n="4"> Swym g³osem wo³a³em do PANA i wys³ucha³ mnie ze swojej œwiêtej góry. Sela. </v>
+<v n="5"> Po³o¿y³em siê i zasn¹³em, i obudzi³em siê, bo PAN mnie podtrzyma³. </v>
+<v n="6"> Nie przestraszê siê dziesi¹tków tysiêcy ludzi, którzy zewsz¹d na mnie nastaj¹. </v>
+<v n="7"> Powstañ, PANIE! Wybaw mnie, mój Bo¿e! Uderzy³eœ bowiem w szczêkê wszystkich moich wrogów i po³ama³eœ zêby niegodziwych. </v>
+<v n="8"> Od PANA jest zbawienie. Twoje b³ogos³awieñstwo jest nad twoim ludem. Sela. </v>
+</c>

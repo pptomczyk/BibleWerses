@@ -1,0 +1,8 @@
+<v n="1"> Psalm i pieœñ dla synów Korego. Jego fundament jest na œwiêtych górach. </v>
+<v n="2"> PAN mi³uje bramy Syjonu bardziej ni¿ wszystkie przybytki Jakuba. </v>
+<v n="3"> Chwalebne rzeczy mówi siê o tobie, o miasto Bo¿e. Sela. </v>
+<v n="4"> Wspomnê Rahab i Babilon wœród tych, którzy mnie znaj¹; oto Filistea i Tyr, i Etiopia: Ten siê tam urodzi³. </v>
+<v n="5"> O Syjonie te¿ bêd¹ mówiæ: Ten i tamten urodzi³ siê w nim; a sam Najwy¿szy go utwierdzi. </v>
+<v n="6"> PAN wyliczy, spisuj¹c narody: Ten siê tam urodzi³. Sela. </v>
+<v n="7"> I pl¹saj¹c, bêd¹ œpiewaæ: W tobie s¹ wszystkie me Ÿród³a. </v>
+</c>

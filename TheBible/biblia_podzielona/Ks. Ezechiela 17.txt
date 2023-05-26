@@ -1,0 +1,25 @@
+<v n="1"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, zadaj zagadkê i opowiedz domowi Izraela przypowieœæ; </v>
+<v n="3"> I powiedz: Tak mówi Pan BÓG: Wielki orze³ o wielkich i d³ugich skrzyd³ach, pe³en pstrego pierza, przylecia³ nad Liban i wzi¹³ wierzcho³ek cedru. </v>
+<v n="4"> U³ama³ koniec jego pêdów, zaniós³ go do ziemi kupieckiej i z³o¿y³ go w mieœcie kupieckim. </v>
+<v n="5"> Wzi¹³ te¿ nasienie tej ziemi i zasadzi³ na urodzajnym polu; umieœci³ je nad wielkimi wodami jak wierzbê. </v>
+<v n="6"> I uros³o, i sta³o siê bujn¹ winoroœl¹, choæ niskiego wzrostu; jej latoroœle zwraca³y siê ku niemu, a korzenie by³y mu poddane. I sta³o siê winoroœl¹, która wyda³a latoroœle i wypuœci³a pêdy. </v>
+<v n="7"> Ale by³ inny wielki orze³ o wielkich skrzyd³ach i gêstym pierzu, a oto ta winoroœl zwróci³a swoje korzenie ku niemu i rozci¹gnê³a swe latoroœle do niego, aby on j¹ nawadnia³ z bruzd swego sadu. </v>
+<v n="8"> A by³a przecie¿ zasadzona na dobrym polu, nad wielkimi wodami, aby wypuœci³a latoroœle, wyda³a owoc i sta³a siê wspania³¹ winoroœl¹. </v>
+<v n="9"> Wtedy powiedz: Tak mówi Pan BÓG: Czy siê jej poszczêœci? Czy orze³ nie wyrwie jej korzeni i nie oberwie jej owocu tak, by usch³a? Uschn¹ wszystkie listki, które wypuœci, i nie bêdzie trzeba wielkiej mocy ani licznego ludu, aby j¹ wyrwaæ z korzeniami. </v>
+<v n="10"> Oto jakkolwiek bêdzie zasadzona, czy siê jej poszczêœci? Czy doszczêtnie nie uschnie, gdy dotknie j¹ wiatr wschodni? Uschnie w bruzdach, w których wyros³a. </v>
+<v n="11"> Potem dosz³o do mnie s³owo PANA: </v>
+<v n="12"> Mów teraz do domu buntowniczego: Czy¿ nie wiecie, co znacz¹ te rzeczy? Powiedz: Oto król Babilonu przyby³ do Jerozolimy, zabra³ jej króla i ksi¹¿¹t i uprowadzi³ ich ze sob¹ do Babilonu. </v>
+<v n="13"> Wzi¹³ te¿ jednego z potomków króla, zawar³ z nim przymierze i zwi¹za³ go przysiêg¹. Zabra³ te¿ mo¿nych tej ziemi; </v>
+<v n="14"> Aby królestwo by³o poni¿one, tak by siê nie podnosi³o, ale by tak trwa³o, zachowuj¹c jego przymierze. </v>
+<v n="15"> Lecz on zbuntowa³ siê przeciwko niemu, wysy³aj¹c swych pos³ów do Egiptu, aby dano mu koni i liczny lud. Czy mu siê poszczêœci? Czy ujdzie zemsty ten, który tak czyni³? Czy ocali siê ten, który z³ama³ przymierze? </v>
+<v n="16"> Jak ¿yjê, mówi Pan BÓG, w miejscu tego króla, który go uczyni³ królem, a którego przysiêg¹ wzgardzi³ i którego przymierze z³ama³, u niego w Babilonie umrze. </v>
+<v n="17"> I ani faraon z wielkim wojskiem i z licznym zastêpem nie pomo¿e mu na wojnie, gdy usypie wa³y i pobuduje wie¿e, aby zniszczyæ mnóstwo ludzi; </v>
+<v n="18"> Poniewa¿ wzgardzi³ przysiêg¹, ³ami¹c przymierze. Oto bowiem da³ na to sw¹ rêkê, a to wszystko uczyni³. Nie ujdzie zemsty. </v>
+<v n="19"> Dlatego tak mówi Pan BÓG: Jak ¿yjê, moj¹ przysiêgê, któr¹ wzgardzi³, i moje przymierze, które z³ama³, z³o¿ê mu na g³owê. </v>
+<v n="20"> Rozci¹gnê na nim swoj¹ sieæ i zostanie schwytany w moje sid³a, i zaprowadzê go do Babilonu, a tam siê z nim rozprawiê za jego wystêpek, którym zgrzeszy³ przeciwko mnie. </v>
+<v n="21"> A wszyscy, którzy uciekli od niego wraz ze wszystkimi jego hufcami, od miecza polegn¹, a pozostali zostan¹ rozproszeni na wszystkie wiatry. I poznacie, ¿e ja, PAN, to powiedzia³em. </v>
+<v n="22"> Tak mówi Pan BÓG: Wezmê wierzcho³ek tego wysokiego cedru i zasadzê; z najwy¿szych jego ga³¹zek od³amiê m³od¹ ga³¹zkê i zasadzê j¹ na wysokiej i wynios³ej górze; </v>
+<v n="23"> Na wysokiej górze Izraela j¹ zasadzê. Wypuœci ga³¹zki, wyda owoc i stanie siê cedrem wspania³ym. I bêdzie mieszkaæ pod nim wszelkie ptactwo skrzydlate; pod cieniem jego ga³êzi bêd¹ mieszkaæ. </v>
+<v n="24"> A tak wszystkie drzewa polne poznaj¹, ¿e ja, PAN, poni¿y³em drzewo wysokie, a wywy¿szy³em drzewo niskie, ususzy³em drzewo zielone, a sprawi³em, ¿e zakwit³o drzewo suche. Ja, PAN, to powiedzia³em i uczyniê. </v>
+</c>

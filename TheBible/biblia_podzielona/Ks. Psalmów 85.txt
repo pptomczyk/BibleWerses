@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi chóru. Psalm dla synów Korego. PANIE, okaza³eœ ³askê swej ziemi, przyprowadzi³eœ z niewoli Jakuba. </v>
+<v n="2"> Przebaczy³eœ nieprawoœæ twego ludu, zakry³eœ wszystkie ich grzechy. Sela. </v>
+<v n="3"> Uœmierzy³eœ ca³e swoje zagniewanie, odwróci³eœ siê od zapalczywoœci twojego gniewu. </v>
+<v n="4"> Odnów nas, Bo¿e naszego zbawienia, i odwróæ od nas swój gniew. </v>
+<v n="5"> Czy wiecznie bêdziesz siê na nas gniewaæ? Czy rozci¹gniesz swój gniew na wszystkie pokolenia? </v>
+<v n="6"> Czy nie o¿ywisz nas na nowo, aby twój lud rozradowa³ siê w tobie? </v>
+<v n="7"> PANIE, oka¿ nam twoje mi³osierdzie i daj nam swoje zbawienie. </v>
+<v n="8"> Pos³ucham, co bêdzie mówi³ Bóg, PAN; zaprawdê, og³osi pokój swojemu ludowi i swoim œwiêtym, aby tylko nie wracali do swojej g³upoty. </v>
+<v n="9"> Doprawdy jego zbawienie jest blisko tych, którzy siê go boj¹, aby jego chwa³a zamieszka³a w naszej ziemi. </v>
+<v n="10"> Mi³osierdzie i prawda spotkaj¹ siê ze sob¹, sprawiedliwoœæ i pokój uca³uj¹ siê. </v>
+<v n="11"> Prawda wyroœnie z ziemi, a sprawiedliwoœæ wyjrzy z nieba. </v>
+<v n="12"> PAN te¿ obdarzy tym, co dobre, a nasza ziemia wyda swój plon. </v>
+<v n="13"> Sprawiedliwoœæ przed nim pójdzie i bêdzie wytyczaæ drogê jego krokom. </v>
+</c>

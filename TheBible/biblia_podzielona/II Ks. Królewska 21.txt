@@ -1,0 +1,27 @@
+<v n="1"> Manasses mia³ dwanaœcie lat, kiedy zacz¹³ królowaæ, i królowa³ piêædziesi¹t piêæ lat w Jerozolimie. Jego matka mia³a na imiê Chefsiba. </v>
+<v n="2"> Czyni³ on to, co z³e w oczach PANA, wed³ug obrzydliwoœci tych narodów, które PAN wypêdzi³ przed synami Izraela. </v>
+<v n="3"> Odbudowa³ bowiem wy¿yny, które zburzy³ jego ojciec Ezechiasz, wznosi³ o³tarze dla Baala, posadzi³ gaj, tak jak uczyni³ Achab, król Izraela, i oddawa³ pok³on ca³emu zastêpowi nieba, i s³u¿y³ mu. </v>
+<v n="4"> Zbudowa³ te¿ o³tarze w domu PANA, o którym PAN powiedzia³: W Jerozolimie umieszczê swoje imiê. </v>
+<v n="5"> Zbudowa³ te¿ o³tarze ca³emu zastêpowi nieba w obydwu dziedziñcach domu PANA. </v>
+<v n="6"> Przeprowadzi³ swojego syna przez ogieñ, uprawia³ wró¿biarstwo i czary, ustanowi³ czarowników i czarnoksiê¿ników. Bardzo wiele z³ego czyni³ w oczach PANA, pobudzaj¹c go do gniewu. </v>
+<v n="7"> Postawi³ te¿ rzeŸbê gaju, któr¹ wykona³, w domu, o którym PAN powiedzia³ do Dawida i do jego syna Salomona: W tym domu i w Jerozolimie, które wybra³em spoœród wszystkich pokoleñ Izraela, umieszczê swoje imiê na wieki; </v>
+<v n="8"> A ju¿ wiêcej nie dopuszczê, by noga Izraela opuœci³a ziemiê, któr¹ da³em ich ojcom, oby tylko pilnie przestrzegali wszystkiego, co im nakaza³em, i ca³ego prawa, które im nada³ mój s³uga Moj¿esz. </v>
+<v n="9"> Lecz oni nie s³uchali. A Manasses zwiód³ ich, aby czynili gorzej ni¿ narody, które PAN wytraci³ przed synami Izraela. </v>
+<v n="10"> Wtedy PAN przemówi³ przez swoje s³ugi, proroków, mówi¹c: </v>
+<v n="11"> Poniewa¿ Manasses, król Judy, dopuœci³ siê tych obrzydliwoœci, czyni¹c gorsze rzeczy ni¿ wszystko, co czynili Amoryci, którzy byli przed nim, a przywiód³ Judê do grzechu przez swoje bo¿ki; </v>
+<v n="12"> Dlatego tak mówi PAN, Bóg Izraela: Oto sprowadzê nieszczêœcie na Jerozolimê i na Judê, tak ¿e ka¿demu, kto o tym us³yszy, zadzwoni w obu uszach. </v>
+<v n="13"> Rozci¹gnê bowiem nad Jerozolim¹ sznur Samarii i pion domu Achaba. I wytrê Jerozolimê, tak jak wyciera siê miskê, a po wytarciu odwraca siê dnem do góry. </v>
+<v n="14"> I porzucê resztê swojego dziedzictwa, i wydam je w rêce jego wrogów; stan¹ siê ³upem i pastw¹ wszystkich swoich wrogów. </v>
+<v n="15"> Poniewa¿ dopuszczali siê tego, co z³e w moich oczach, i dra¿nili mnie od dnia, kiedy ich ojcowie wyszli z Egiptu, a¿ do dziœ. </v>
+<v n="16"> Ponadto nawet krwi niewinnej Manasses przela³ bardzo du¿o, tak ¿e nape³ni³ ni¹ Jerozolimê od krañca do krañca, nie licz¹c swojego grzechu, przez który przywiód³ do grzechu Judê, czyni¹c to, co z³e w oczach PANA. </v>
+<v n="17"> A pozosta³e dzieje Manassesa i wszystko, co czyni³, i jego grzech, którego siê dopuœci³, czy nie s¹ zapisane w ksiêdze kronik królów Judy? </v>
+<v n="18"> I Manasses zasn¹³ ze swymi ojcami, i zosta³ pogrzebany w ogrodzie swego domu, w ogrodzie Uzzy. I Amon, jego syn, królowa³ w jego miejsce. </v>
+<v n="19"> Amon mia³ dwadzieœcia dwa lata, kiedy zacz¹³ królowaæ, i królowa³ dwa lata w Jerozolimie. Jego matka mia³a na imiê Meszullemet i by³a córk¹ Charusa z Jotba. </v>
+<v n="20"> Czyni³ on to, co z³e w oczach PANA, tak jak czyni³ jego ojciec Manasses. </v>
+<v n="21"> Szed³ wszystkimi drogami, którymi szed³ jego ojciec, i s³u¿y³ bo¿kom, którym s³u¿y³ jego ojciec, i oddawa³ im pok³on; </v>
+<v n="22"> Opuœci³ PANA, Boga swoich ojców, a nie szed³ drog¹ PANA. </v>
+<v n="23"> I s³udzy Amona uknuli spisek przeciw niemu, i zabili króla w jego domu. </v>
+<v n="24"> Wtedy lud tej ziemi zabi³ wszystkich, którzy uknuli spisek przeciw królowi Amonowi. I lud tej ziemi ustanowi³ w jego miejsce królem Jozjasza, jego syna. </v>
+<v n="25"> A pozosta³e dzieje Amona, które czyni³, czy nie s¹ zapisane w ksiêdze kronik królów Judy? </v>
+<v n="26"> I pogrzebano go w jego grobie, w ogrodzie Uzzy. A jego syn Jozjasz królowa³ w jego miejsce. </v>
+</c>

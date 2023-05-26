@@ -1,0 +1,25 @@
+<v n="1"> W tobie, PANIE, pok³adam ufnoœæ, niech nigdy nie bêdê zawstydzony. </v>
+<v n="2"> Wed³ug swej sprawiedliwoœci ocal mnie i wyzwól; nak³oñ ku mnie ucha i wybaw mnie. </v>
+<v n="3"> B¹dŸ mi ska³¹ schronienia, gdzie zawsze mogê uciec; przykaza³eœ, aby mnie wybawiono, bo ty jesteœ moj¹ ska³¹ i twierdz¹. </v>
+<v n="4"> Mój Bo¿e, wyzwól mnie z rêki niegodziwego, z rêki przewrotnego i ciemiê¿yciela. </v>
+<v n="5"> Ty bowiem jesteœ moj¹ nadziej¹, Panie BO¯E, moj¹ ufnoœci¹ od m³odoœci. </v>
+<v n="6"> Ty by³eœ moj¹ podpor¹ od narodzin, ty mnie wyprowadzi³eœ z ³ona mojej matki; w tobie zawsze bêdzie moja chwa³a. </v>
+<v n="7"> Dla wielu jestem jakby cudem, lecz ty jesteœ moim potê¿nym schronieniem. </v>
+<v n="8"> Niech moje usta bêd¹ pe³ne twojej chwa³y, twojej s³awy przez ca³y dzieñ. </v>
+<v n="9"> Nie odrzucaj mnie w czasie staroœci; gdy ustanie moja si³a, nie opuszczaj mnie. </v>
+<v n="10"> Moi wrogowie bowiem mówili przeciwko mnie, a ci, którzy czyhaj¹ na moj¹ duszê, wspólnie siê naradzaj¹; </v>
+<v n="11"> Mówi¹c: Bóg go opuœci³, goñcie go i schwytajcie, bo nie ma nikogo, kto by go ocali³. </v>
+<v n="12"> Bo¿e, nie oddalaj siê ode mnie; mój Bo¿e, pospiesz mi na pomoc. </v>
+<v n="13"> Niech siê zawstydz¹ i zgin¹ przeciwnicy mojej duszy, niech siê okryj¹ hañb¹ i wstydem ci, którzy szukaj¹ mego nieszczêœcia. </v>
+<v n="14"> Ja zaœ zawsze bêdê ufa³ i jeszcze bardziej pomno¿ê twoj¹ chwa³ê. </v>
+<v n="15"> Moje usta g³osiæ bêd¹ twoj¹ sprawiedliwoœæ i twoje zbawienie przez ca³y dzieñ, choæ nie znam ich miary. </v>
+<v n="16"> Pójdê w wielkiej mocy Pana BOGA, bêdê wspomina³ tylko twoj¹ sprawiedliwoœæ. </v>
+<v n="17"> Bo¿e, uczy³eœ mnie od mojej m³odoœci i dot¹d g³oszê twoje cudowne dzie³a. </v>
+<v n="18"> Dlatego i w staroœci, gdy bêdê ju¿ siwy, nie opuszczaj mnie, Bo¿e, a¿ opowiem o twojej mocy temu pokoleniu i wszystkim potomkom o twojej potêdze. </v>
+<v n="19"> Twoja sprawiedliwoœæ, Bo¿e, jest wywy¿szona, czynisz wielkie rzeczy; Bo¿e, któ¿ jest podobny do ciebie? </v>
+<v n="20"> Zes³a³eœ na mnie wielkie i ciê¿kie utrapienia, lecz znowu przywrócisz mi ¿ycie i z g³êbi ziemi znów mnie wydobêdziesz. </v>
+<v n="21"> Pomno¿ysz moje dostojeñstwo i znowu mnie pocieszysz. </v>
+<v n="22"> A ja na instrumentach muzycznych bêdê wys³awiaæ ciebie i twoj¹ prawdê, mój Bo¿e; bêdê ci œpiewa³ z harf¹, Œwiêty Izraela! </v>
+<v n="23"> Rozraduj¹ siê moje wargi, gdy bêdê ci œpiewa³, i moja dusza, któr¹ odkupi³eœ. </v>
+<v n="24"> Równie¿ mój jêzyk bêdzie g³osi³ przez ca³y dzieñ twoj¹ sprawiedliwoœæ, bo okryli siê wstydem i hañb¹ ci, którzy szukali mego nieszczêœcia. </v>
+</c>

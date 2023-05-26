@@ -1,0 +1,20 @@
+<v n="1"> Gdy wejdziesz do ziemi, któr¹ PAN, twój Bóg, daje ci w dziedzictwo, gdy posi¹dziesz j¹ i zamieszkasz w niej; </v>
+<v n="2"> Wtedy weŸmiesz pierwociny ze wszystkich owoców ziemi, które z³o¿ysz w ofierze ze swojej ziemi danej ci przez PANA, twojego Boga, i w³o¿ysz je do kosza, i udasz siê na miejsce, które wybierze PAN, twój Bóg, na mieszkanie dla swego imienia. </v>
+<v n="3"> I przyjdziesz do kap³ana, który w tym czasie bêdzie pe³niæ s³u¿bê, i powiesz do niego: Wyznajê dziœ PANU, twemu Bogu, ¿e wszed³em do ziemi, któr¹ PAN poprzysi¹g³ naszym ojcom, ¿e nam j¹ da. </v>
+<v n="4"> Wtedy kap³an weŸmie kosz z twojej rêki i postawi go przed o³tarzem PANA, twego Boga. </v>
+<v n="5"> I odezwiesz siê, i powiesz przed PANEM, swoim Bogiem: Mój ojciec by³ Syryjczykiem bliskim œmierci, zst¹pi³ do Egiptu, gdzie przebywa³ w nielicznej garstce i sta³ siê tam wielkim narodem, potê¿nym i licznym. </v>
+<v n="6"> Lecz Egipcjanie Ÿle nas traktowali, drêczyli nas i nak³adali na nas ciê¿k¹ pracê. </v>
+<v n="7"> Wtedy wo³aliœmy do PANA, Boga naszych ojców, i PAN wys³ucha³ naszego g³osu, i wejrza³ na nasze utrapienie, nasz¹ pracê i nasz ucisk; </v>
+<v n="8"> I wywiód³ nas PAN z Egiptu potê¿n¹ rêk¹ i wyci¹gniêtym ramieniem wœród wielkiej grozy, znaków i cudów; </v>
+<v n="9"> I przyprowadzi³ nas na to miejsce, i da³ nam tê ziemiê, ziemiê op³ywaj¹c¹ mlekiem i miodem. </v>
+<v n="10"> Teraz oto przynios³em pierwociny z owoców ziemi, któr¹ mi da³eœ, PANIE. I po³o¿ysz je przed PANEM, swoim Bogiem, i oddasz pok³on przed PANEM, swoim Bogiem; </v>
+<v n="11"> I bêdziesz siê radowa³ ze wszystkich dóbr, które PAN, twój Bóg, da³ tobie i twemu domowi, ty, Lewita i przybysz, który jest poœród ciebie. </v>
+<v n="12"> A gdy zakoñczysz sk³adanie wszystkich dziesiêcin swoich zbiorów w trzecim roku, roku dziesiêcin, gdy oddasz je Lewicie, przybyszowi, sierocie oraz wdowie, aby najedli siê do syta w twoich bramach; </v>
+<v n="13"> Wtedy powiesz przed PANEM, swoim Bogiem: Wzi¹³em z domu to, co jest poœwiêcone, i da³em te¿ z tego Lewicie, przybyszowi, sierocie oraz wdowie zgodnie ze wszystkimi twoimi przykazaniami, które mi nakaza³eœ. Nie przekroczy³em twoich przykazañ ani nie zapomnia³em ich. </v>
+<v n="14"> Nie jad³em z tego w czasie ¿a³oby, niczego z tego nie odj¹³em do u¿ytku pospolitego, ani te¿ nic z tego nie da³em dla zmar³ych. Us³ucha³em g³osu PANA, mojego Boga, uczyni³em wszystko, co mi nakaza³eœ. </v>
+<v n="15"> Spójrz ze swego œwiêtego przybytku z nieba, i b³ogos³aw swemu ludowi Izraela oraz ziemi, któr¹ nam da³eœ, tak jak poprzysi¹g³eœ naszym ojcom, ziemi mlekiem i miodem p³yn¹cej. </v>
+<v n="16"> Dziœ PAN, twój Bóg, nakazuje ci wype³niæ te ustawy i prawa. Przestrzegaj ich wiêc i wype³niaj je z ca³ego swego serca i ca³¹ swoj¹ dusz¹. </v>
+<v n="17"> Dziœ oœwiadczy³eœ, ¿e PAN jest twoim Bogiem, ¿e bêdziesz chodzi³ jego drogami, przestrzega³ jego ustaw, przykazañ i praw oraz ¿e bêdziesz s³ucha³ jego g³osu. </v>
+<v n="18"> PAN zaœ oœwiadczy³ dziœ, ¿e bêdziesz jego szczególnym ludem, jak ci obieca³, i ¿e masz przestrzegaæ wszystkich jego przykazañ; </v>
+<v n="19"> ¯e wywy¿szy ciê ponad wszystkie narody, które uczyni³, w chwale, w s³awie i we czci, i ¿e masz byæ ludem œwiêtym dla PANA, swego Boga, tak jak powiedzia³. </v>
+</c>

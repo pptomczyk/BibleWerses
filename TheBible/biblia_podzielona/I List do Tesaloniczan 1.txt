@@ -1,0 +1,11 @@
+<v n="1"> Pawe³, Sylwan i Tymoteusz do koœcio³a Tesaloniczan, który jest w Bogu Ojcu i Panu Jezusie Chrystusie. £aska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="2"> Zawsze dziêkujemy Bogu za was wszystkich, czyni¹c wzmiankê o was w naszych modlitwach; </v>
+<v n="3"> Nieustannie wspominaj¹c wasze dzie³o wiary i trud mi³oœci, i wytrwa³oœæ w nadziei w naszym Panu Jezusie Chrystusie, przed Bogiem i naszym Ojcem; </v>
+<v n="4"> Wiedz¹c, umi³owani bracia, ¿e zostaliœcie wybrani przez Boga; </v>
+<v n="5"> Gdy¿ nasza ewangelia nie dosz³a was tylko w s³owie, ale tak¿e w mocy i w Duchu Œwiêtym, i w pe³nym przekonaniu. Wiecie bowiem, jacy byliœmy dla was, przebywaj¹c wœród was. </v>
+<v n="6"> A wy staliœcie siê naœladowcami naszymi i Pana, przyjmuj¹c s³owo poœród wielkiego ucisku, z radoœci¹ Ducha Œwiêtego; </v>
+<v n="7"> Tak ¿e staliœcie siê wzorem dla wszystkich wierz¹cych w Macedonii i Achai. </v>
+<v n="8"> Od was bowiem s³owo Pañskie rozbrzmiewa³o nie tylko w Macedonii i Achai, ale te¿ wasza wiara w Boga rozkrzewi³a siê w ka¿dym miejscu, tak ¿e nie trzeba nam mówiæ czegokolwiek; </v>
+<v n="9"> Poniewa¿ oni sami opowiadaj¹ o nas, jakie by³o nasze przybycie do was i jak nawróciliœcie siê od bo¿ków do Boga, aby s³u¿yæ ¿ywemu i prawdziwemu Bogu; </v>
+<v n="10"> I oczekiwaæ z niebios jego Syna, którego wskrzesi³ z martwych, Jezusa, który nas wyrwa³ od nadchodz¹cego gniewu. </v>
+</c>

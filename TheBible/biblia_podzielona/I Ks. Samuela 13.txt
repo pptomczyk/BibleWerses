@@ -1,0 +1,24 @@
+<v n="1"> Saul królowa³ ju¿ rok, a gdy królowa³ dwa lata nad Izraelem; </v>
+<v n="2"> Wybra³ sobie trzy tysi¹ce ludzi z Izraela. Dwa tysi¹ce by³o przy Saulu w Mikmas i na górze Betel, a tysi¹c by³ z Jonatanem w Gibea Beniamina. Resztê ludu rozes³a³, ka¿dego do swego namiotu. </v>
+<v n="3"> Wtedy Jonatan pobi³ za³ogê Filistynów, która by³a w Geba, o czym us³yszeli Filistyni. Saul zad¹³ wiêc w tr¹bê po ca³ej ziemi i powiedzia³: Niech us³ysz¹ o tym Hebrajczycy. </v>
+<v n="4"> I ca³y Izrael us³ysza³, ¿e mówiono: Saul pobi³ za³ogê Filistynów i z tego powodu Izrael sta³ siê obmierz³y dla Filistynów. I zwo³ano lud, by wyruszy³ za Saulem do Gilgal. </v>
+<v n="5"> Filistyni te¿ zgromadzili siê do walki z Izraelem: trzydzieœci tysiêcy rydwanów i szeœæ tysiêcy jeŸdŸców, a ludu tak du¿o jak piasku nad brzegiem morza. I nadci¹gnêli, i rozbili obóz w Mikmas, na wschód od Bet-Awen. </v>
+<v n="6"> A gdy Izraelici widzieli, ¿e s¹ w niebezpieczeñstwie – gdy¿ lud by³ strapiony – ukryli siê w jaskiniach, zaroœlach, ska³ach, twierdzach i jamach. </v>
+<v n="7"> Niektórzy Hebrajczycy przeprawili siê za Jordan, do ziemi Gad i Gilead. Lecz Saul jeszcze zosta³ w Gilgal, a ca³y lud szed³ za nim strwo¿ony. </v>
+<v n="8"> I czeka³ przez siedem dni zgodnie z czasem wyznaczonym przez Samuela. Kiedy jednak Samuel nie przyszed³ do Gilgal, ca³y lud odszed³ od niego. </v>
+<v n="9"> Wtedy Saul powiedzia³: Przynieœcie mi ca³opalenie i ofiary pojednawcze. I z³o¿y³ ca³opalenie. </v>
+<v n="10"> Gdy skoñczy³ sk³adaæ ca³opalenie, oto przyszed³ Samuel, a Saul wyszed³ mu naprzeciw, aby go przywitaæ. </v>
+<v n="11"> I Samuel zapyta³: Co uczyni³eœ? Saul odpowiedzia³: Poniewa¿ widzia³em, ¿e lud rozchodzi siê ode mnie, ¿e ty nie przyszed³eœ w oznaczonym czasie, a Filistyni zgromadzili siê w Mikmas; </v>
+<v n="12"> Wtedy powiedzia³em: Oto Filistyni zst¹pi¹ na mnie do Gilgal, a ja jeszcze nie zjedna³em sobie PANA. Przezwyciê¿y³em siê wiêc i z³o¿y³em ca³opalenie. </v>
+<v n="13"> Samuel powiedzia³ do Saula: G³upio post¹pi³eœ. Nie zachowa³eœ przykazania PANA, swego Boga, które ci nada³. PAN bowiem teraz utwierdzi³by twoje królestwo nad Izraelem a¿ na wieki. </v>
+<v n="14"> Lecz teraz twoje królestwo siê nie ostoi. PAN wyszuka³ sobie cz³owieka wed³ug swego serca i PAN ustanowi³ go wodzem nad swoim ludem, gdy¿ nie zachowa³eœ tego, co ci PAN rozkaza³. </v>
+<v n="15"> Wtedy Samuel wsta³ i wyruszy³ z Gilgal do Gibea Beniamina. I Saul policzy³ lud, który znajdowa³ siê przy nim: by³o ich wszystkich oko³o szeœciuset mê¿czyzn. </v>
+<v n="16"> Saul wiêc i jego syn Jonatan oraz lud, który znajdowa³ siê przy nich, zostali w Gibea Beniamina. Filistyni zaœ rozbili obóz w Mikmas. </v>
+<v n="17"> I ³upie¿cy wyszli z obozu Filistynów w trzech oddzia³ach: jeden oddzia³ skierowa³ siê w stronê Ofry, do ziemi Szaul. </v>
+<v n="18"> Drugi oddzia³ skierowa³ siê w stronê Bet-Choron. Trzeci zaœ oddzia³ uda³ siê w stronê granicy przylegaj¹cej do doliny Seboim – ku pustyni. </v>
+<v n="19"> Lecz w ca³ej ziemi Izraela nie by³o ¿adnego kowala, bo Filistyni mówili: Niech Hebrajczycy nie robi¹ mieczów ani w³óczni. </v>
+<v n="20"> Ca³y Izrael schodzi³ wiêc do Filistynów, by ka¿dy naostrzy³ sobie swój lemiesz, redlicê, siekierê i motykê. </v>
+<v n="21"> Mieli bowiem tylko pilnik do œcierania lemieszy, motyk, wide³, siekier i oœcieni. </v>
+<v n="22"> Tak wiêc siê sta³o, ¿e w dniu bitwy nie mo¿na by³o znaleŸæ miecza ani w³óczni w rêku ca³ego ludu, który by³ z Saulem i Jonatanem. Znajdowa³y siê tylko u Saula i jego syna Jonatana. </v>
+<v n="23"> A za³oga Filistynów wyruszy³a na prze³êcz Mikmas. </v>
+</c>

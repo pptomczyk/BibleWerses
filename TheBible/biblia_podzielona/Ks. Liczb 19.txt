@@ -1,0 +1,23 @@
+<v n="1"> I PAN powiedzia³ do Moj¿esza i Aarona: </v>
+<v n="2"> To jest ustawa prawa, któr¹ nada³ PAN: Powiedz synom Izraela, aby przyprowadzili do ciebie czerwon¹ ja³ówkê, zdrow¹ i bez skazy, na której jeszcze nie by³o jarzma. </v>
+<v n="3"> Oddacie j¹ kap³anowi Eleazarowi, który j¹ wyprowadzi poza obóz, i zostanie przed nim zabita. </v>
+<v n="4"> A kap³an Eleazar weŸmie nieco z jej krwi na swój palec i pokropi ni¹ siedem razy na wprost przed Namiotem Zgromadzenia. </v>
+<v n="5"> Potem ka¿e spaliæ ja³ówkê na swoich oczach: spali jej skórê, miêso, krew wraz z jej odchodami. </v>
+<v n="6"> I kap³an weŸmie drewno cedrowe, hizop i karmazyn i wrzuci to do ognia, w którym p³onie ja³ówka. </v>
+<v n="7"> Wtedy kap³an wypierze swoje szaty i umyje swoje cia³o wod¹; potem wejdzie do obozu i bêdzie nieczysty do wieczora. </v>
+<v n="8"> Równie¿ ten, który j¹ bêdzie paliæ, wypierze swoje szaty w wodzie i umyje swoje cia³o wod¹, i bêdzie nieczysty do wieczora. </v>
+<v n="9"> Cz³owiek czysty zbierze popió³ tej ja³ówki i z³o¿y go poza obozem na miejscu czystym; bêdzie on przechowywany dla zgromadzenia synów Izraela do wody oczyszczenia; jest to ofiara za grzech. </v>
+<v n="10"> Ten, który zbiera³ popió³ ja³ówki, wypierze swoje szaty i bêdzie nieczysty do wieczora. Bêdzie to ustawa wieczysta dla synów Izraela i dla przybysza mieszkaj¹cego wœród was. </v>
+<v n="11"> Kto dotknie jakiegokolwiek ludzkiego trupa, bêdzie nieczysty przez siedem dni. </v>
+<v n="12"> Taki oczyœci siê t¹ wod¹ w trzecim i siódmym dniu i bêdzie czysty. Jeœli jednak nie oczyœci siê w trzecim i siódmym dniu, bêdzie nieczysty. </v>
+<v n="13"> Kto dotknie zw³ok cz³owieka zmar³ego, a nie oczyœci siê, ten zanieczyœci przybytek PANA; ta dusza bêdzie wykluczona z Izraela. Cz³owiek ten nie zosta³ bowiem pokropiony wod¹ oczyszczenia; bêdzie nieczysty, a jego nieczystoœæ pozostanie na nim. </v>
+<v n="14"> Taka jest ustawa, gdy cz³owiek umrze w namiocie: ktokolwiek wejdzie do tego namiotu i cokolwiek znajduje siê w tym namiocie bêdzie nieczyste przez siedem dni. </v>
+<v n="15"> Ka¿de naczynie odkryte, które nie ma przymocowanej pokrywy, bêdzie nieczyste. </v>
+<v n="16"> Kto dotknie na polu zabitego mieczem lub umar³ego, lub koœci ludzkich, lub grobu bêdzie nieczysty przez siedem dni. </v>
+<v n="17"> Wezm¹ dla tego nieczystego nieco popio³u ja³ówki spalonej za grzech i na to wlej¹ do naczynia Ÿródlanej wody. </v>
+<v n="18"> Cz³owiek czysty weŸmie hizop, zmoczy go w tej wodzie i pokropi namiot oraz wszystkie naczynia i wszystkich ludzi, którzy tam byli, tak¿e tego, który dotkn¹³ koœci lub zabitego, lub zmar³ego, lub grobu. </v>
+<v n="19"> Cz³owiek czysty pokropi nieczystego w trzecim i siódmym dniu, a gdy go oczyœci w siódmym dniu, wypierze on swoje szaty i umyje siê wod¹, i wieczorem bêdzie czysty. </v>
+<v n="20"> A cz³owiek, który sta³ siê nieczysty, a nie oczyœci³ siê, zostanie wykluczony spoœród zgromadzenia, gdy¿ ta dusza zbezczeœci³a œwi¹tyniê PANA. Cz³owiek ten nie zosta³ pokropiony wod¹ oczyszczenia i jest nieczysty. </v>
+<v n="21"> Bêdzie to dla nich ustaw¹ wieczyst¹: kto skrapia wod¹ oczyszczenia, wypierze swoje szaty, a kto dotknie tej wody oczyszczenia, bêdzie nieczysty do wieczora. </v>
+<v n="22"> Czegokolwiek dotknie nieczysty, bêdzie nieczyste; równie¿ cz³owiek, który tego dotknie, bêdzie nieczysty do wieczora. </v>
+</c>

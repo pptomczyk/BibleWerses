@@ -1,0 +1,18 @@
+<v n="1"> Kto jest m¹drym cz³owiekiem? Kto zna wyjaœnienie rzeczy? M¹droœæ cz³owieka rozjaœnia jego oblicze i odmienia srogoœæ jego twarzy. </v>
+<v n="2"> Radzê ci, abyœ przestrzega³ rozkazu króla, a to ze wzglêdu na przysiêgê Boga. </v>
+<v n="3"> Nie spiesz siê z odejœciem sprzed jego oblicza ani nie upieraj siê przy z³ej sprawie. Czyni bowiem wszystko tak, jak mu siê podoba. </v>
+<v n="4"> Gdzie s³owo króla, tam i jego moc. Któ¿ mu powie: Co czynisz? </v>
+<v n="5"> Kto przestrzega przykazania, nie zazna niczego z³ego. A serce m¹drego zna czas i s¹d. </v>
+<v n="6"> Na ka¿d¹ sprawê jest czas i s¹d, dlatego wielkie nieszczêœcie trzyma siê cz³owieka. </v>
+<v n="7"> Nie wie bowiem, co bêdzie. Kto mu oznajmi, kiedy co siê przydarzy? </v>
+<v n="8"> Nie ma cz³owieka, który mia³by w³adzê nad duchem, ¿eby powstrzymaæ ducha, ani moc nad dniem œmierci. Nie ma te¿ zwolnienia z tego boju, a niegodziwych nie wybawi ich niegodziwoœæ. </v>
+<v n="9"> To wszystko widzia³em, gdy zwróci³em swoje serce do ka¿dego dzie³a, którego siê dokonuje pod s³oñcem. Bywa czas, kiedy jeden cz³owiek panuje nad drugim ku jego krzywdzie. </v>
+<v n="10"> Widzia³em wiêc niegodziwych pogrzebanych, którzy przychodzili do miejsca œwiêtego i odchodzili z niego, a zapomniano o nich w mieœcie, gdzie tak czynili. I to równie¿ jest marnoœci¹. </v>
+<v n="11"> Poniewa¿ wyroku za z³y czyn nie wykonuje siê od razu, serce synów ludzkich jest w nich zawziête i gotowe na to, aby pope³niali z³o. </v>
+<v n="12"> I chocia¿ grzesznik po stokroæ czyni z³o i jego dni siê przed³u¿¹, to jednak wiem, ¿e szczêœci siê tym, którzy boj¹ siê Boga, którzy siê boj¹ jego oblicza. </v>
+<v n="13"> Ale niegodziwemu nie szczêœci siê i nie przed³u¿y on swoich dni, przemin¹ bowiem jak cieñ, poniewa¿ nie boi siê Boga. </v>
+<v n="14"> Jest te¿ marnoœæ, która siê dzieje na ziemi: s¹ ludzie sprawiedliwi, którym siê zdarza to, na co zas³uguj¹ uczynki niegodziwych; s¹ te¿ ludzie niegodziwi, którym siê zdarza to, na co zas³uguj¹ uczynki sprawiedliwych. Powiedzia³em, ¿e i to jest marnoœci¹. </v>
+<v n="15"> Chwali³em wiêc radoœæ, gdy¿ nie ma dla cz³owieka nic lepszego pod s³oñcem nad to, by jad³, pi³ i radowa³ siê. To bowiem zostanie mu z jego trudu po wszystkie dni jego ¿ycia, które pod s³oñcem da³ mu Bóg. </v>
+<v n="16"> Gdy zwróci³em swoje serce na to, aby poznaæ m¹droœæ i rozwa¿aæ sprawy, jakie siê dziej¹ na ziemi, z powodu których oczy cz³owieka nie zaznaj¹ snu ani we dnie, ani w nocy; </v>
+<v n="17"> Wówczas zobaczy³em ca³e dzie³o Boga – to, ¿e cz³owiek nie potrafi zg³êbiæ sprawy, która siê dzieje pod s³oñcem. Choæby cz³owiek stara³ siê do tego dojœæ, nie zg³êbi tego; choæby nawet m¹dry zamierzy³ to poznaæ, nie zdo³a tego zg³êbiæ. </v>
+</c>

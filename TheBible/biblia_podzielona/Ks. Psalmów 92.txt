@@ -1,0 +1,16 @@
+<v n="1"> Psalm i pieœñ na dzieñ szabatu. Dobr¹ rzecz¹ jest wys³awiaæ PANA i œpiewaæ twemu imieniu, o Najwy¿szy. </v>
+<v n="2"> G³osiæ rankiem twoje mi³osierdzie, a nocami twoj¹ wiernoœæ; </v>
+<v n="3"> Na instrumencie o dziesiêciu strunach, na cytrze i na harfie ze œpiewaniem. </v>
+<v n="4"> Ty bowiem rozradowa³eœ mnie, PANIE, twymi czynami; bêdê œpiewaæ o dzie³ach twoich r¹k. </v>
+<v n="5"> Jak¿e wielkie s¹ twoje dzie³a, PANIE; bardzo g³êbokie s¹ twoje myœli. </v>
+<v n="6"> Prostak nie zna, a g³upi tego nie rozumie: </v>
+<v n="7"> Gdy niegodziwi wyrastaj¹ jak ziele i kwitn¹ wszyscy czyni¹cy nieprawoœæ, to tylko po to, aby byli wykorzenieni a¿ na wieki; </v>
+<v n="8"> Ty zaœ, PANIE, jesteœ Najwy¿szy na wieki. </v>
+<v n="9"> Oto bowiem twoi wrogowie, PANIE, oto bowiem twoi wrogowie zgin¹, rozprosz¹ siê wszyscy czyni¹cy nieprawoœæ. </v>
+<v n="10"> Ale mój róg wzniesiesz jak u jednoro¿ca, bêdê namaszczony œwie¿ym olejem. </v>
+<v n="11"> I moje oko zobaczy nieszczêœcie tych, którzy na mnie czyhaj¹; moje uszy us³ysz¹ o klêsce z³oczyñców, którzy powstaj¹ przeciwko mnie. </v>
+<v n="12"> Sprawiedliwy zakwitnie jak palma, rozroœnie siê jak cedr na Libanie. </v>
+<v n="13"> Zasadzeni w domu PANA rozkwitn¹ na dziedziñcach naszego Boga. </v>
+<v n="14"> Nawet w staroœci wydadz¹ owoc, pe³ni si³ i kwitn¹cy; </v>
+<v n="15"> Aby opowiadaæ, ¿e PAN jest prawy; on jest moj¹ ska³¹ i nie ma w nim ¿adnej nieprawoœci. </v>
+</c>

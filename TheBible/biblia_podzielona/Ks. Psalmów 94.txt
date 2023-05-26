@@ -1,0 +1,24 @@
+<v n="1"> Bo¿e zemsty, PANIE Bo¿e zemsty, objaw siê! </v>
+<v n="2"> Powstañ, Sêdzio ca³ej ziemi, odp³aæ pysznym. </v>
+<v n="3"> Jak d³ugo niegodziwi, PANIE, jak d³ugo niegodziwi bêd¹ siê radowaæ? </v>
+<v n="4"> Jak d³ugo bêd¹ pleœæ, mówiæ zuchwale i che³piæ siê wszyscy czyni¹cy nieprawoœæ? </v>
+<v n="5"> Depcz¹ twój lud, PANIE, i gnêbi¹ twoje dziedzictwo. </v>
+<v n="6"> Morduj¹ wdowy i przybysza, zabijaj¹ sieroty. </v>
+<v n="7"> I mówi¹: PAN tego nie widzi, nie dostrzega tego Bóg Jakuba. </v>
+<v n="8"> Zrozumcie, nierozumni wœród ludu! A wy, g³upcy, kiedy zm¹drzejecie? </v>
+<v n="9"> Czy ten, który wszczepi³ ucho, nie s³yszy? Czy ten, który ukszta³towa³ oko, nie widzi? </v>
+<v n="10"> Czy ten, który ch³oszcze narody, nie bêdzie kara³? Ten, który uczy cz³owieka wiedzy, czy nie wie? </v>
+<v n="11"> PAN zna myœli ludzkie; wie, ¿e s¹ marnoœci¹. </v>
+<v n="12"> B³ogos³awiony m¹¿, którego ty ch³oszczesz, PANIE, i uczysz go twym prawem; </v>
+<v n="13"> Aby daæ mu odpocz¹æ od z³ych dni, a¿ bêdzie wykopany dó³ dla niegodziwego. </v>
+<v n="14"> PAN bowiem nie odrzuci swego ludu i nie opuœci swego dziedzictwa. </v>
+<v n="15"> Ale s¹d powróci do sprawiedliwoœci, a wszyscy serca prawego pójd¹ za nim. </v>
+<v n="16"> Któ¿ stanie przy mnie przeciwko z³oczyñcom? Kto ujmie siê za mn¹ przeciwko czyni¹cym nieprawoœæ? </v>
+<v n="17"> Gdyby PAN nie przyszed³ mi z pomoc¹, moja dusza przebywa³aby w milczeniu. </v>
+<v n="18"> Gdy powiedzia³em: Moja noga siê chwieje, twoje mi³osierdzie, PANIE, mnie wspar³o. </v>
+<v n="19"> W niezliczonych myœlach mego serca twoje pociechy rozweselaj¹ moj¹ duszê. </v>
+<v n="20"> Czy sprzymierzy siê z tob¹ tron nieprawoœci, który wyrz¹dza krzywdê pod pozorem prawa? </v>
+<v n="21"> Zbieraj¹ siê przeciw duszy sprawiedliwego i krew niewinn¹ potêpiaj¹. </v>
+<v n="22"> Lecz PAN jest moj¹ twierdz¹, mój Bóg – ska³¹ mojej ucieczki. </v>
+<v n="23"> On obróci przeciwko nim ich nieprawoœæ i za ich z³o ich wytraci; wytraci ich PAN, nasz Bóg. </v>
+</c>

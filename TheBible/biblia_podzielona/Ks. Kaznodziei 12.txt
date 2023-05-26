@@ -1,0 +1,14 @@
+<v n="1"> Pamiêtaj wiêc o swoim Stwórcy w dniach swojej m³odoœci, zanim nastan¹ z³e dni i przyjd¹ lata, o których powiesz: Nie podobaj¹ mi siê. </v>
+<v n="2"> Zanim zaæmi¹ siê s³oñce, œwiat³o, ksiê¿yc i gwiazdy, a chmury powróc¹ po deszczu. </v>
+<v n="3"> W dzieñ, w którym trz¹œæ siê bêd¹ stró¿e domu i pochyl¹ siê silni mê¿czyŸni, ustan¹ miel¹cy, gdy¿ bêdzie ich ma³o, i zaæmi¹ siê patrz¹ce przez okna; </v>
+<v n="4"> I zamkn¹ siê drzwi na ulicê, gdy odg³os mielenia os³abnie, gdy bêdzie siê wstawaæ na g³os ptaków i przycichn¹ wszystkie córki œpiewaj¹ce. </v>
+<v n="5"> Gdy te¿ bêd¹ siê baæ wysokich miejsc i lêkaæ na drodze, gdy zakwitnie drzewo migda³owe i szarañcza bêdzie ciê¿ka i pragnienie ustanie, bo cz³owiek idzie do swego wiecznego domu, a p³acz¹cy bêd¹ chodziæ po ulicach; </v>
+<v n="6"> Zanim siê zerwie srebrny sznur i st³ucze z³ota czasza, nim rozbije siê dzban u Ÿród³a i z³amie siê ko³o przy studni. </v>
+<v n="7"> Wtedy proch powróci do ziemi, jak ni¹ by³, a duch powróci do Boga, który go da³. </v>
+<v n="8"> Marnoœæ nad marnoœciami – mówi Kaznodzieja – wszystko to marnoœæ. </v>
+<v n="9"> A poza tym, ¿e Kaznodzieja by³ m¹dry, uczy³ lud wiedzy; rozwa¿a³, bada³ i u³o¿y³ wiele przys³ów. </v>
+<v n="10"> Kaznodzieja stara³ siê znaleŸæ s³owa przyjemne i napisa³ to, co jest dobre – s³owa prawdy. </v>
+<v n="11"> S³owa m¹drych s¹ jak oœcienie i jak gwoŸdzie wbite przez tych, którzy je z³o¿yli, i pochodz¹ od jednego pasterza. </v>
+<v n="12"> Ponadto, mój synu, przyjmij przestrogê z tych s³ów: Pisaniu wielu ksi¹g nie ma koñca, a wiele nauki mêczy cia³o. </v>
+<v n="13"> Wys³uchaj podsumowania wszystkiego: Bój siê Boga i przestrzegaj jego przykazañ. Poniewa¿ to jest ca³y obowi¹zek cz³owieka. </v>
+<v n="14"> Bóg przywiedzie bowiem ka¿dy uczynek na s¹d, nawet ka¿d¹ rzecz utajon¹, czy dobr¹, czy z³¹. </v></c></b>

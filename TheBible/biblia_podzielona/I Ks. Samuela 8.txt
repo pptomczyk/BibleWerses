@@ -1,0 +1,23 @@
+<v n="1"> A gdy Samuel zestarza³ siê, ustanowi³ swoich synów sêdziami nad Izraelem. </v>
+<v n="2"> Jego pierworodny syn mia³ na imiê Joel, a drugi syn – Abija; byli oni sêdziami w Beer-Szebie. </v>
+<v n="3"> Jednak jego synowie nie chodzili jego drogami, lecz sk³aniali siê ku zyskowi, brali ³apówki i wypaczali s¹d. </v>
+<v n="4"> Zebrali siê wiêc wszyscy starsi Izraela i przyszli do Samuela, do Rama; </v>
+<v n="5"> I powiedzieli mu: Oto zestarza³eœ siê, a twoi synowie nie chodz¹ twoimi drogami. Ustanów nam wiêc króla, aby nas s¹dzi³, jak to jest u wszystkich narodów. </v>
+<v n="6"> Lecz Samuelowi nie podoba³o siê to, ¿e mówili: Daj nam króla, aby nas s¹dzi³. I modli³ siê Samuel do PANA. </v>
+<v n="7"> Wtedy PAN powiedzia³ do Samuela: Pos³uchaj g³osu tego ludu we wszystkim, co ci powiedz¹, gdy¿ nie tob¹ wzgardzili, ale mn¹ wzgardzili, abym nie królowa³ nad nimi. </v>
+<v n="8"> A zgodnie ze wszystkim, co uczynili od tego dnia, kiedy wyprowadzi³em ich z Egiptu, a¿ do dziœ, gdy mnie opuœcili i s³u¿yli obcym bogom, tak te¿ czyni¹ z tob¹. </v>
+<v n="9"> Teraz wiêc pos³uchaj ich g³osu, ale stanowczo ostrze¿ ich i oznajmij im prawo króla, który bêdzie nad nimi panowaæ. </v>
+<v n="10"> I Samuel powiedzia³ wszystkie s³owa PANA do ludu, który go prosi³ o króla; </v>
+<v n="11"> I mówi³: Takie bêdzie prawo króla, który bêdzie panowa³ nad wami: Bêdzie bra³ waszych synów, by ich osadziæ w swych rydwanach, ustanowiæ ich jeŸdŸcami, a inni bêd¹ biegaæ przed jego rydwanem; </v>
+<v n="12"> I ustanowi ich sobie dowódcami nad tysi¹cami i nad piêædziesi¹tkami; wyznaczy ich, aby uprawiali jego rolê i zbierali jego plony, i robili sprzêt wojenny oraz sprzêt do jego rydwanów. </v>
+<v n="13"> Wasze córki równie¿ zabierze, aby przyrz¹dza³y wonnoœci oraz aby by³y kucharkami i piekarkami. </v>
+<v n="14"> Zabierze te¿ wasze pola, winnice i sady oliwne, te najlepsze, i da swoim s³ugom. </v>
+<v n="15"> Z waszych zasiewów i winnic bêdzie pobiera³ dziesiêcinê i odda j¹ swoim urzêdnikom i s³ugom. </v>
+<v n="16"> WeŸmie równie¿ wasze s³ugi i s³u¿¹ce oraz waszych najlepszych m³odzieñców, a tak¿e wasze os³y, i zatrudni w swojej pracy. </v>
+<v n="17"> Pobierze dziesiêcinê z waszych trzód, a wy bêdziecie jego s³ugami. </v>
+<v n="18"> I bêdziecie wo³aæ tego dnia z powodu waszego króla, którego sobie wybraliœcie, a PAN nie wys³ucha was w tym dniu. </v>
+<v n="19"> Lud jednak nie chcia³ pos³uchaæ g³osu Samuela i mówi³: Nie tak, ale niech bêdzie król nad nami; </v>
+<v n="20"> Abyœmy te¿ byli jak wszystkie narody – aby nasz król s¹dzi³ nas, aby nam przewodzi³ i prowadzi³ nasze wojny. </v>
+<v n="21"> A Samuel wys³ucha³ wszystkich s³ów ludu i powtórzy³ je do uszu PANA. </v>
+<v n="22"> I PAN powiedzia³ do Samuela: Pos³uchaj ich g³osu i ustanów nad nimi króla. Samuel powiedzia³ wiêc do mê¿czyzn Izraela: IdŸcie ka¿dy do swego miasta. </v>
+</c>

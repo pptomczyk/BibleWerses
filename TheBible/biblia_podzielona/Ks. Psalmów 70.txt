@@ -1,0 +1,6 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida dla przypomnienia. Bo¿e, racz mnie ocaliæ; PANIE, pospiesz mi na pomoc. </v>
+<v n="2"> Niech siê zawstydz¹ i okryj¹ hañb¹ ci, którzy czyhaj¹ na moj¹ duszê; niech siê cofn¹ ze wstydem ci, którzy mi Ÿle ¿ycz¹. </v>
+<v n="3"> Niech siê cofn¹ wskutek swej hañby ci, którzy mi mówi¹: Ha, ha! </v>
+<v n="4"> Niech siê wesel¹ i raduj¹ w tobie wszyscy, którzy ciê szukaj¹; niech ci, którzy mi³uj¹ twoje zbawienie, mówi¹ zawsze: Niech Bóg bêdzie wywy¿szony! </v>
+<v n="5"> Ja zaœ jestem nêdzny i ubogi, Bo¿e, pospiesz ku mnie, ty jesteœ moj¹ pomoc¹ i wybawicielem; PANIE, nie zwlekaj. </v>
+</c>

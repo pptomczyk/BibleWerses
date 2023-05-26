@@ -1,0 +1,26 @@
+<v n="1"> Potem Hiob odpowiedzia³: </v>
+<v n="2"> Doprawdy jesteœcie ludem i wraz z wami zginie m¹droœæ. </v>
+<v n="3"> Ale ja równie¿ mam rozum, jak i wy, i nie jestem od was gorszy. Kto nie zna tych rzeczy? </v>
+<v n="4"> Jestem poœmiewiskiem dla swojego przyjaciela; ja, który wo³am do Boga, a on odpowiada; sprawiedliwy i doskona³y jest poœmiewiskiem. </v>
+<v n="5"> Ten, który jest bliski upadku, to pochodnia wzgardzona w umyœle tego, który ¿yje w pokoju. </v>
+<v n="6"> Namioty ³upie¿ców s¹ spokojne i bezpieczni s¹ ci, którzy dra¿ni¹ Boga, a którym Bóg obficie daje w rêce. </v>
+<v n="7"> Ale zapytaj zwierz¹t, a one ciê poucz¹, i ptaków nieba, a powiedz¹ tobie. </v>
+<v n="8"> Albo rozmawiaj z ziemi¹, a ona ciê nauczy, i opowiedz¹ ci ryby morskie. </v>
+<v n="9"> Któ¿ spoœród nich wszystkich nie wie, ¿e rêka PANA to wykona³a? </v>
+<v n="10"> W jego rêku jest dusza wszelkiej istoty ¿ywej i duch wszelkiego cz³owieka. </v>
+<v n="11"> Czy ucho nie bada mowy, a podniebienie nie smakuje pokarmu? </v>
+<v n="12"> U starców jest m¹droœæ, a w d³ugoœci dni roztropnoœæ. </v>
+<v n="13"> Ale u niego jest m¹droœæ i si³a, u niego rada i roztropnoœæ. </v>
+<v n="14"> Oto on burzy, a nikt nie mo¿e odbudowaæ, zamyka cz³owieka, a nikt nie mo¿e otworzyæ. </v>
+<v n="15"> Oto gdy zatrzyma wody, wysychaj¹, gdy je wypuœci, wywracaj¹ ziemiê. </v>
+<v n="16"> U niego jest moc i m¹droœæ. Do niego nale¿y zwiedziony i zwodziciel. </v>
+<v n="17"> Pozbawia radców m¹droœci i sêdziów czyni g³upcami. </v>
+<v n="18"> Rozwi¹zuje wiêzy królów i przepasuje ich biodra pasem. </v>
+<v n="19"> Odprowadza z³upionych ksi¹¿¹t i wywraca mocarzy. </v>
+<v n="20"> Odbiera mowê prawdomównym i zabiera starcom rozs¹dek. </v>
+<v n="21"> Wylewa pogardê na ksi¹¿¹t i os³abia si³y mocarzy. </v>
+<v n="22"> On ods³ania g³êbokie rzeczy z ciemnoœci i wyprowadza na œwiat³o cieñ œmierci. </v>
+<v n="23"> Rozmna¿a narody i wytraca je, rozszerza narody i pomniejsza je. </v>
+<v n="24"> On zabiera serca prze³o¿onym ludu ziemi i sprawia, ¿e b³¹dz¹ po pustyni bezdro¿nej; </v>
+<v n="25"> I chodz¹ po omacku w ciemnoœci bez œwiat³a, i sprawia, ¿e zataczaj¹ siê jak pijani. </v>
+</c>

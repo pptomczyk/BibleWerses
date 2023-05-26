@@ -1,0 +1,9 @@
+<v n="1"> Psalm Dawida. Bêdê œpiewa³ o mi³osierdziu i s¹dzie; tobie, PANIE, bêdê œpiewaæ. </v>
+<v n="2"> Kroczyæ bêdê m¹drze drog¹ praw¹. Kiedy przyjdziesz do mnie? Bêdê postêpowa³ w swoim domu w prawoœci serca. </v>
+<v n="3"> Nie bêdê stawia³ przed oczami niegodziwej rzeczy; nienawidzê czynów ludzi wystêpnych, nie przylgn¹ one do mnie. </v>
+<v n="4"> Serce przewrotne odst¹pi ode mnie, nie chcê znaæ z³ego. </v>
+<v n="5"> Zg³adzê tego, który potajemnie oczernia swego bliŸniego, nie zniosê wynios³ych oczu i nadêtego serca. </v>
+<v n="6"> Moje oczy zwrócone bêd¹ na wiernych tej ziemi, aby mieszkali ze mn¹; kto chodzi drog¹ praw¹, ten bêdzie mi s³u¿yæ. </v>
+<v n="7"> Nie zamieszka w moim domu oszust, k³amca nie ostoi siê przed mymi oczyma. </v>
+<v n="8"> Ka¿dego ranka bêdê têpiæ wszystkich niegodziwych na ziemi, aby tak wykorzeniæ z miasta PANA wszystkich z³oczyñców. </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> I ja, bracia, nie mog³em do was mówiæ jak do ludzi duchowych, ale jak do cielesnych, jak do niemowl¹t w Chrystusie. </v>
+<v n="2"> Karmi³em was mlekiem, a nie sta³ym pokarmem, bo jeszcze nie mogliœcie go przyj¹æ, a nawet teraz jeszcze nie mo¿ecie; </v>
+<v n="3"> Gdy¿ jeszcze jesteœcie cieleœni. Skoro bowiem jest miêdzy wami zazdroœæ, k³ótnie i podzia³y, to czy¿ nie jesteœcie cieleœni i nie postêpujecie na sposób ludzki? </v>
+<v n="4"> Skoro ktoœ mówi: Ja jestem Paw³a, a inny: Ja Apollosa, to czy¿ nie jesteœcie cieleœni? </v>
+<v n="5"> Kim bowiem jest Pawe³? Kim Apollos? Tylko s³ugami, przez których uwierzyliœcie, a to tak, jak ka¿demu da³ Pan. </v>
+<v n="6"> Ja sia³em, Apollos podlewa³, ale Bóg da³ wzrost. </v>
+<v n="7"> Tak wiêc ani ten, który sieje, ani ten, który podlewa, nic nie znacz¹, tylko Bóg, który daje wzrost. </v>
+<v n="8"> Ten zaœ, który sieje, i ten, który podlewa, stanowi¹ jedno, a ka¿dy otrzyma swoj¹ zap³atê stosownie do swojej pracy. </v>
+<v n="9"> Jesteœmy bowiem wspó³pracownikami Bo¿ymi; wy jesteœcie Bo¿¹ rol¹ i Bo¿¹ budowl¹. </v>
+<v n="10"> Wed³ug ³aski Boga, która zosta³a mi dana, jak m¹dry budowniczy po³o¿y³em fundament, a inny na nim buduje. Jednak ka¿dy niech uwa¿a, jak na nim buduje. </v>
+<v n="11"> Nikt bowiem nie mo¿e po³o¿yæ innego fundamentu ni¿ ten, który jest po³o¿ony, którym jest Jezus Chrystus. </v>
+<v n="12"> A czy ktoœ na tym fundamencie buduje ze z³ota, srebra, z drogich kamieni, drewna, siana czy ze s³omy; </v>
+<v n="13"> Dzie³o ka¿dego bêdzie jawne. Dzieñ ten bowiem to poka¿e, gdy¿ przez ogieñ zostanie objawione i ogieñ wypróbuje, jakie jest dzie³o ka¿dego. </v>
+<v n="14"> Jeœli czyjeœ dzie³o budowane na tym fundamencie przetrwa, ten otrzyma zap³atê. </v>
+<v n="15"> Jeœli zaœ czyjeœ dzie³o sp³onie, ten poniesie szkodê. Lecz on sam bêdzie zbawiony, tak jednak, jak przez ogieñ. </v>
+<v n="16"> Czy¿ nie wiecie, ¿e jesteœcie œwi¹tyni¹ Boga i ¿e Duch Bo¿y w was mieszka? </v>
+<v n="17"> A jeœli ktoœ niszczy œwi¹tyniê Boga, tego zniszczy Bóg, bo œwi¹tynia Boga jest œwiêta, a wy ni¹ jesteœcie. </v>
+<v n="18"> Niech nikt nie oszukuje samego siebie. Jeœli komuœ spoœród was wydaje siê, ¿e jest m¹dry na tym œwiecie, niech siê stanie g³upim, aby sta³ siê m¹drym. </v>
+<v n="19"> M¹droœæ bowiem tego œwiata jest g³upstwem u Boga. Bo jest napisane: On chwyta m¹drych w ich przebieg³oœci. </v>
+<v n="20"> I znowu: Pan zna myœli m¹drych i wie, ¿e s¹ marnoœci¹. </v>
+<v n="21"> Niech siê wiêc nikt nie chlubi ludŸmi. Wszystko bowiem jest wasze: </v>
+<v n="22"> Czy Pawe³, czy Apollos, czy Kefas, czy œwiat, czy ¿ycie, czy œmieræ, czy to, co teraŸniejsze, czy to, co przysz³e – wszystko jest wasze; </v>
+<v n="23"> Wy zaœ jesteœcie Chrystusa, a Chrystus Boga. </v>
+</c>

@@ -1,0 +1,7 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. Jak d³ugo, PANIE? Zapomnisz o mnie na wieki? Jak d³ugo bêdziesz ukrywa³ przede mn¹ swoje oblicze? </v>
+<v n="2"> Jak d³ugo bêdê szuka³ rady w swojej duszy i codziennie trapi³ siê w sercu? Jak d³ugo mój wróg bêdzie siê nade mnie wynosi³? </v>
+<v n="3"> Spójrz i wys³uchaj mnie, PANIE, mój Bo¿e! Oœwieæ moje oczy, bym nie zasn¹³ w œmierci; </v>
+<v n="4"> By nie powiedzia³ mój wróg: Pokona³em go! Niech siê nie ciesz¹ moi nieprzyjaciele, gdy siê zachwiejê. </v>
+<v n="5"> Lecz ja zaufa³em twemu mi³osierdziu; moje serce rozraduje siê twoim zbawieniem. </v>
+<v n="6"> Bêdê œpiewa³ PANU, bo obdarzy³ mnie dobrem. </v>
+</c>

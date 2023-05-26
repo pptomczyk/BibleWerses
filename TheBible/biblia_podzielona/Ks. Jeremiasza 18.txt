@@ -1,0 +1,24 @@
+<v n="1"> S³owo, które dosz³o do Jeremiasza od PANA, mówi¹ce: </v>
+<v n="2"> Wstañ i zejdŸ do domu garncarza, a tam sprawiê, ¿e us³yszysz moje s³owa. </v>
+<v n="3"> Zst¹pi³em wiêc do domu garncarza, a oto on wykonywa³ pracê na kole. </v>
+<v n="4"> A naczynie, które wykonywa³ z gliny, uleg³o zniekszta³ceniu w rêce garncarza. Uczyni³ wiêc z niej inne naczynie, jak mu siê podoba³o uczyniæ. </v>
+<v n="5"> I dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="6"> Czy¿ nie mogê z wami post¹piæ tak jak ten garncarz, domu Izraela? – mówi PAN. Oto jak glina w rêce garncarza tak wy jesteœcie w moim rêku, domu Izraela. </v>
+<v n="7"> Gdy raz og³oszê przeciwko narodowi i przeciwko królestwu, ¿e je wykorzeniê, wywrócê i zniszczê; </v>
+<v n="8"> A jednak ten naród, przeciw któremu mówi³em, odwróci siê od swojego z³a, bêdê ¿a³owa³ nieszczêœcia, które zamierzam na niego zes³aæ. </v>
+<v n="9"> Gdy innym razem og³oszê o narodzie i o królestwie, ¿e je zbudujê i zasadzê; </v>
+<v n="10"> Jeœli jednak uczyni to, co z³e w moich oczach i nie us³ucha mego g³osu, ja bêdê ¿a³owa³ tego dobrodziejstwa, jakim obieca³em je obdarzyæ. </v>
+<v n="11"> Dlatego powiedz teraz do Judejczyków i do mieszkañców Jerozolimy: Tak mówi PAN: Oto przygotowujê na was nieszczêœcie i obmyœlam zamys³ przeciwko wam. Niech wiêc ka¿dy zawróci ze swojej z³ej drogi; poprawcie wasze drogi i czyny. </v>
+<v n="12"> Ale oni odpowiedzieli: Nic z tego. Pójdziemy raczej za w³asnymi zamys³ami, ka¿dy bêdzie postêpowa³ wed³ug uporu swego z³ego serca. </v>
+<v n="13"> Dlatego tak mówi PAN: Zapytajcie teraz wœród pogan, czy ktoœ s³ysza³ coœ takiego. Straszny czyn pope³ni³a dziewica Izraela. </v>
+<v n="14"> Czy cz³owiek opuœci œnieg ze skalistych pól Libanu? Czy ktoœ opuœci zimne wody p³yn¹ce z daleka? </v>
+<v n="15"> Ale mój lud zapomnia³ o mnie, pali kadzid³o marnoœciom, które sprawi³y, ¿e potyka siê na swoich drogach, na starodawnych œcie¿kach, by chodziæ po œcie¿kach, po drodze nieutorowanej; </v>
+<v n="16"> Aby zamieniæ swoj¹ ziemiê w spustoszenie, w wieczne œwistanie. Ka¿dy, kto bêdzie przez ni¹ przechodzi³, zdumieje siê i bêdzie kiwa³ g³ow¹. </v>
+<v n="17"> Jak wschodni wiatr rozproszê ich przed wrogiem. Poka¿ê im plecy, a nie twarz w dniu ich zatracenia. </v>
+<v n="18"> I powiedzieli: ChodŸcie, obmyœlmy zamys³y przeciwko Jeremiaszowi, bo nie zaginie prawo od kap³ana, ani rada od m¹drego, ani s³owo od proroka. ChodŸcie, uderzmy go jêzykiem i nie zwa¿ajmy na ¿adne jego s³owa. </v>
+<v n="19"> Zwa¿aj na mnie, PANIE, i s³uchaj g³osu tych, którzy siê spieraj¹ ze mn¹. </v>
+<v n="20"> Czy odp³aca siê z³em za dobro? Bo wykopali dó³ dla mojej duszy. Wspomnij, ¿e stawa³em przed tob¹, aby mówiæ za nimi dla ich dobra i odwróciæ od nich twój gniew. </v>
+<v n="21"> Dlatego wydaj ich dzieci na g³ód i spraw, aby padli od mocy miecza; niech ich ¿ony bêd¹ osierocone i owdowia³e, ich mê¿czyŸni haniebnie uœmierceni, a ich m³odzieñcy zabici mieczem na wojnie. </v>
+<v n="22"> Niech bêdzie s³ychaæ krzyk z ich domów, gdy nagle sprowadzisz na nich wojsko. Wykopali bowiem dó³, aby mnie schwytaæ, zastawili sid³a na moje nogi. </v>
+<v n="23"> Lecz ty, PANIE, znasz wszystkie ich plany przeciwko mnie, chc¹ mojej œmierci. Nie przebaczaj im ich nieprawoœci, a ich grzechu nie zma¿ sprzed swego oblicza, ale niech upadn¹ przed tob¹. Post¹p z nimi tak w czasie twojego gniewu. </v>
+</c>

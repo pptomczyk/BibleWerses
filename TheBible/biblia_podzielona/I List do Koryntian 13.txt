@@ -1,0 +1,14 @@
+<v n="1"> Choæbym mówi³ jêzykami ludzi i anio³ów, a mi³oœci bym nie mia³, sta³bym siê jak miedŸ brzêcz¹ca albo cymba³ brzmi¹cy. </v>
+<v n="2"> I choæbym mia³ dar prorokowania, i zna³ wszystkie tajemnice, i posiada³ wszelk¹ wiedzê, i choæbym mia³ pe³niê wiary, tak, ¿ebym góry przenosi³, a mi³oœci bym nie mia³, by³bym niczym. </v>
+<v n="3"> I choæbym rozda³ na ¿ywnoœæ dla ubogich ca³y swój maj¹tek, i choæbym wyda³ swoje cia³o na spalenie, a mi³oœci bym nie mia³, nic nie zyskam. </v>
+<v n="4"> Mi³oœæ jest cierpliwa, jest ¿yczliwa. Mi³oœæ nie zazdroœci, nie przechwala siê, nie unosi siê pych¹; </v>
+<v n="5"> Nie postêpuje nieprzyzwoicie, nie szuka swego, nie jest porywcza, nie myœli nic z³ego; </v>
+<v n="6"> Nie raduje siê z niesprawiedliwoœci, ale raduje siê z prawdy; </v>
+<v n="7"> Wszystko znosi, wszystkiemu wierzy, wszystkiego siê spodziewa, wszystko przetrzyma. </v>
+<v n="8"> Mi³oœæ nigdy nie ustaje. Bo choæ s¹ proroctwa, przemin¹; choæ jêzyki, ustan¹; choæ wiedza, obróci siê wniwecz. </v>
+<v n="9"> Po czêœci bowiem poznajemy i po czêœci prorokujemy. </v>
+<v n="10"> Ale gdy przyjdzie to, co doskona³e, wtedy przeminie to, co jest cz¹stkowe. </v>
+<v n="11"> Dopóki by³em dzieckiem, mówi³em jak dziecko, rozumia³em jak dziecko, myœla³em jak dziecko. Lecz gdy sta³em siê mê¿czyzn¹, zaniecha³em tego, co dzieciêce. </v>
+<v n="12"> Teraz bowiem widzimy w zwierciadle, niewyraŸnie, ale wówczas twarz¹ w twarz. Teraz poznajê cz¹stkowo, ale wtedy poznam tak, jak jestem poznany. </v>
+<v n="13"> A teraz trwaj¹ wiara, nadzieja, mi³oœæ, te trzy. Z nich zaœ najwiêksza jest mi³oœæ. </v>
+</c>

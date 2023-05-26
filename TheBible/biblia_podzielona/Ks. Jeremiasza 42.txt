@@ -1,0 +1,23 @@
+<v n="1"> Potem wszyscy dowódcy wojsk, Jochanan, syn Kareacha, Jezaniasz, syn Hoszajasza, oraz ca³y lud, od ma³ego do wielkiego, przyst¹pili; </v>
+<v n="2"> I powiedzieli do proroka Jeremiasza: Niech nasza proœba dotrze do ciebie i módl siê za nami do PANA, twojego Boga, za ca³¹ tê resztkê, bo ma³o nas pozosta³o z wielkiej liczby, jak sam widzisz na w³asne oczy; </v>
+<v n="3"> I niech PAN, twój Bóg, wska¿e nam drogê, któr¹ mamy iœæ, i to, co mamy czyniæ. </v>
+<v n="4"> Wtedy prorok Jeremiasz odpowiedzia³ im: S³ysza³em. Oto bêdê siê modliæ do PANA, waszego Boga, wed³ug waszych s³ów, a cokolwiek PAN wam odpowie, ja wam oznajmiê, niczego przed wami nie zatajê. </v>
+<v n="5"> Oni zaœ powiedzieli do Jeremiasza: Niech PAN bêdzie miêdzy nami prawdziwym i wiernym œwiadkiem, jeœli nie post¹pimy wed³ug ka¿dego s³owa, z którym PAN, twój Bóg, poœle ciê do nas. </v>
+<v n="6"> Czy bêdzie dobre, czy z³e – us³uchamy g³osu PANA, naszego Boga, do którego ciê posy³amy; aby nam siê dobrze powodzi³o, gdy bêdziemy s³uchaæ g³osu PANA, naszego Boga. </v>
+<v n="7"> A po up³ywie dziesiêciu dni dosz³o do Jeremiasza s³owo PANA. </v>
+<v n="8"> Zawo³a³ wiêc Jochanana, syna Kareacha, i wszystkich dowódców wojsk, którzy z nim byli, oraz ca³y lud, od ma³ego do wielkiego; </v>
+<v n="9"> I powiedzia³ do nich: Tak mówi PAN, Bóg Izraela, do którego mnie pos³aliœcie, abym przed³o¿y³ mu wasz¹ proœbê; </v>
+<v n="10"> Jeœli pozostaniecie na sta³e w tej ziemi, odbudujê was i nie zburzê, zasadzê was i nie wykorzeniê. ¯al mi bowiem tego nieszczêœcia, które wam uczyni³em. </v>
+<v n="11"> Nie bójcie siê króla Babilonu, którego tak siê boicie. Nie bójcie siê go, mówi PAN, bo ja jestem z wami, aby was wybawiæ i wyrwaæ z jego rêki. </v>
+<v n="12"> Oka¿ê wam ³askê, aby on siê zlitowa³ nad wami i da³ wam wróciæ do waszej ziemi. </v>
+<v n="13"> Ale jeœli powiecie: Nie zostaniemy w tej ziemi, nie us³uchamy g³osu PANA, waszego Boga; </v>
+<v n="14"> Mówi¹c: ¯adn¹ miar¹! Lecz pójdziemy do ziemi Egiptu, gdzie nie zobaczymy wojny ani nie us³yszymy dŸwiêku tr¹by, ani nie bêdziemy ³akn¹æ chleba; tam bêdziemy mieszkaæ; </v>
+<v n="15"> To pos³uchajcie teraz s³owa PANA, resztko Judy: Tak mówi PAN zastêpów, Bóg Izraela: Jeœli w uporze przy tym zostaniecie, aby pójœæ do ziemi Egiptu, i pójdziecie, aby tam przebywaæ; </v>
+<v n="16"> Wtedy miecz, którego siê boicie, dosiêgnie was tam w ziemi Egiptu, a g³ód, którego siê obawiacie, bêdzie was œciga³ tam w Egipcie, i tam pomrzecie. </v>
+<v n="17"> Tak siê stanie wszystkim, którzy koniecznie chc¹ iœæ do Egiptu, aby tam przebywaæ: umr¹ od miecza, od g³odu i od zarazy, ¿aden z nich nie pozostanie ani nie ujdzie przed tym nieszczêœciem, jakie na nich sprowadzê. </v>
+<v n="18"> Tak bowiem mówi PAN zastêpów, Bóg Izraela: Jak siê wyla³y mój gniew i moja zapalczywoœæ na mieszkañców Jerozolimy, tak siê wyleje moja zapalczywoœæ na was, gdy wejdziecie do Egiptu. I bêdziecie przedmiotem z³orzeczenia, zdumienia, przekleñstwa i hañby, a nie zobaczycie ju¿ tego miejsca. </v>
+<v n="19"> PAN do was mówi, resztko Judy: Nie idŸcie do Egiptu. Wiedzcie na pewno, ¿e dziœ was ostrzegam. </v>
+<v n="20"> Zwiedliœcie bowiem swoje dusze, gdy pos³aliœcie mnie do PANA, waszego Boga, mówi¹c: Módl siê za nami do PANA, naszego Boga, i oznajmij nam wszystko, co powie PAN, nasz Bóg, a my to wykonamy. </v>
+<v n="21"> Dzisiaj to wam oznajmiam, wy jednak nie s³uchacie g³osu PANA, waszego Boga, we wszystkim, z czym mnie do was pos³a³. </v>
+<v n="22"> Dlatego mówiê: Wiedzcie na pewno, ¿e umrzecie od miecza, od g³odu i od zarazy w tym miejscu, do którego pragniecie iœæ, aby tam przebywaæ. </v>
+</c>

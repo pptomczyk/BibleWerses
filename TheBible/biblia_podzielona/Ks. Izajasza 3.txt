@@ -1,0 +1,27 @@
+<v n="1"> Oto bowiem Pan, PAN zastêpów, odbierze Jerozolimie i Judzie podporê i laskê, wszelk¹ podporê w chlebie i wszelk¹ podporê w wodzie. </v>
+<v n="2"> Mocarza i mê¿a walecznego, sêdziego i proroka, mêdrca i starca; </v>
+<v n="3"> Dowódcê piêædziesi¹tki i dostojnika, doradcê, wybitnego rzemieœlnika i krasomówcê. </v>
+<v n="4"> Ksi¹¿êtami ustanowiê ch³opców, dzieci bêd¹ panowaæ nad nimi. </v>
+<v n="5"> Ludzie bêd¹ gnêbiæ jeden drugiego, ka¿dy swego bliŸniego. Dziecko powstanie przeciwko starcowi, a pod³y przeciwko dostojnikowi. </v>
+<v n="6"> Gdy cz³owiek uchwyci siê swego brata z domu swego ojca i powie: Masz ubranie, b¹dŸ naszym wodzem, niech te ruiny bêd¹ pod twoj¹ rêk¹; </v>
+<v n="7"> Ten przysiêgnie w tym dniu, mówi¹c: Nie bêdê opatrywa³ tych ran; w moim domu bowiem nie ma chleba ani ubrania; nie czyñcie mnie wodzem ludu. </v>
+<v n="8"> Bo Jerozolima upada, a Juda siê wali, gdy¿ ich jêzyk i czyny s¹ przeciwko PANU, aby pobudziæ do gniewu oczy jego majestatu. </v>
+<v n="9"> Wyraz ich twarzy œwiadczy przeciwko nim; jak Sodoma og³aszaj¹ swój grzech, nie kryj¹ go. Biada ich duszy! Gdy¿ sami na siebie sprowadzaj¹ z³o. </v>
+<v n="10"> Powiedzcie sprawiedliwemu, ¿e bêdzie mu dobrze, bo bêdzie spo¿ywaæ owoc swoich r¹k. </v>
+<v n="11"> Biada niegodziwemu! Bêdzie mu Ÿle, odp³ac¹ mu bowiem wed³ug czynów jego r¹k. </v>
+<v n="12"> Ciemiêzcami mego ludu s¹ dzieci i kobiety nim rz¹dz¹. O ludu mój! Twoi wodzowie ciê zwodz¹ i niszcz¹ drogê twoich œcie¿ek. </v>
+<v n="13"> PAN powsta³, aby siê rozprawiæ, stoi, aby s¹dziæ lud. </v>
+<v n="14"> PAN stawi na s¹d starszych swego ludu i ich ksi¹¿¹t: Wy spustoszyliœcie moj¹ winnicê, w waszych domach znajduje siê ³up ubogich. </v>
+<v n="15"> Po co mia¿d¿ycie mój lud i uciskacie oblicza ubogich? – mówi Pan BÓG zastêpów. </v>
+<v n="16"> PAN powiedzia³: Poniewa¿ wynosz¹ siê córki Syjonu i chodz¹ z wyci¹gniêt¹ szyj¹, uwodz¹ oczami, a chodz¹c, drepcz¹ i pobrzêkuj¹ swoimi nogami; </v>
+<v n="17"> Dlatego Pan ogoli wierzch g³owy córek Syjonu i PAN obna¿y ich nagoœæ. </v>
+<v n="18"> W tym dniu Pan odejmie ozdobne brzêkad³a od ich stóp, ich czepce i ksiê¿yce; </v>
+<v n="19"> £añcuszki, bransolety i welony; </v>
+<v n="20"> Czapeczki, ozdoby u nóg, opaski, naszyjniki i kolczyki; </v>
+<v n="21"> Pierœcionki i wisiorki na czo³ach; </v>
+<v n="22"> Odœwiêtne szaty, p³aszcze, szale i torebki; </v>
+<v n="23"> Zwierciade³ka, bisior, turbany i narzutki. </v>
+<v n="24"> I wtedy zamiast wonnoœci bêdzie smród, zamiast pasa bêdzie rozdarcie, zamiast upiêtych w³osów bêdzie ³ysina, zamiast szerokiej szaty bêdzie przepasanie worem i zamiast piêkna bêdzie oparzenie. </v>
+<v n="25"> Twoi mê¿czyŸni polegn¹ od miecza i twoi mocarze – na wojnie. </v>
+<v n="26"> Jej bramy zasmuc¹ siê i zap³acz¹, a ona, spustoszona, usi¹dzie na ziemi. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> Potem Dawid zgromadzi³ w Jerozolimie wszystkich ksi¹¿¹t Izraela, ksi¹¿¹t pokoleñ i dowódców oddzia³ów, którzy s³u¿yli królowi, tysi¹czników, setników i zarz¹dców ca³ego dobytku i posiad³oœci króla i jego synów, a tak¿e urzêdników, walecznych i wszystkich dzielnych wojowników. </v>
+<v n="2"> Wtedy król Dawid powsta³ i przemówi³: S³uchajcie mnie, moi bracia i ludu mój! Moim pragnieniem by³o zbudowaæ dom odpoczynku dla arki przymierza PANA i jako podnó¿ek naszego Boga i poczyni³em przygotowania do budowy. </v>
+<v n="3"> Lecz Bóg powiedzia³ do mnie: Nie zbudujesz domu dla mego imienia, poniewa¿ jesteœ wojownikiem i rozlewa³eœ krew. </v>
+<v n="4"> Wybra³ mnie jednak PAN, Bóg Izraela, spoœród ca³ego domu mego ojca, abym by³ królem nad Izraelem na wieki. Judê bowiem wybra³ na w³adcê, spoœród rodu Judy – dom mego ojca, a spoœród synów mego ojca, mnie sobie upodoba³ ustanowiæ królem nad ca³ym Izraelem. </v>
+<v n="5"> Spoœród zaœ wszystkich moich synów – wielu bowiem synów da³ mi PAN – wybra³ mego syna Salomona, aby zasiad³ na tronie królestwa PANA nad Izraelem. </v>
+<v n="6"> I powiedzia³ do mnie: Salomon, twój syn – to on zbuduje mój dom i moje dziedziñce. Jego bowiem wybra³em sobie za syna, a ja mu bêdê ojcem. </v>
+<v n="7"> I utwierdzê jego królestwo na wieki, jeœli podobnie jak dzisiaj bêdzie trwa³ w wype³nianiu moich przykazañ i praw. </v>
+<v n="8"> Teraz wiêc na oczach ca³ego Izraela, zgromadzenia PANA, i wobec naszego Boga nakazujê wam: Przestrzegajcie i szukajcie wszystkich przykazañ PANA, waszego Boga, abyœcie mogli posiadaæ tê dobr¹ ziemiê i zostawiæ j¹ jako dziedzictwo swoim dzieciom po was – na wieki. </v>
+<v n="9"> A ty, Salomonie, mój synu, poznawaj Boga swego ojca i s³u¿ mu sercem doskona³ym i dobrowolnym umys³em. PAN bowiem przenika wszystkie serca i zna wszystkie zamys³y i myœli. Jeœli bêdziesz go szukaæ, znajdziesz go, a jeœli go opuœcisz, on odrzuci ciê na wieki. </v>
+<v n="10"> Miej siê teraz na bacznoœci, gdy¿ PAN ciê wybra³, abyœ zbudowa³ dom na œwi¹tyniê; b¹dŸ mocny i wykonaj to. </v>
+<v n="11"> Wtedy Dawid przekaza³ swojemu synowi Salomonowi wzór przedsionka œwi¹tyni, jej domów, jej skarbców, jej komnat górnych, jej pomieszczeñ wewnêtrznych oraz domu dla przeb³agalni. </v>
+<v n="12"> Do tego wzór wszystkiego, co zaplanowa³: dziedziñców domu PANA, wszystkich komnat doko³a oraz wszystkich skarbców domu Bo¿ego i skarbców rzeczy poœwiêconych. </v>
+<v n="13"> Tak¿e wskazówki co do zmian kap³añskich i lewickich, wszelkiej pracy w s³u¿bie domu PANA i co do wszelkich naczyñ s³u¿by w domu PANA. </v>
+<v n="14"> Da³ tak¿e odpowiedni¹ wagê z³ota na wszystkie naczynia z³ote do ka¿dej pos³ugi; równie¿ odpowiedni¹ wagê srebra na wszystkie naczynia srebrne, na wszystkie naczynia do wszelkich pos³ug; </v>
+<v n="15"> Mianowicie odpowiedni¹ wagê na œwieczniki z³ote i ich lampy z³ote wed³ug wagi ka¿dego œwiecznika i jego lamp, i na œwieczniki srebrne wed³ug wagi ka¿dego œwiecznika i jego lamp, stosownie do u¿ycia ka¿dego œwiecznika. </v>
+<v n="16"> Równie¿ da³ odpowiedni¹ wagê z³ota na sto³y chlebów pok³adnych, na ka¿dy stó³, oraz srebra – na sto³y srebrne; </v>
+<v n="17"> I szczere z³oto na wide³ki, miednice i kubki, na czasze z³ote, okreœlon¹ wagê na ka¿dy z tych przedmiotów i na czasze srebrne – okreœlon¹ wagê na ka¿d¹ z nich; </v>
+<v n="18"> Tak¿e na o³tarz kadzenia da³ okreœlon¹ wagê szczerego z³ota oraz z³oto na wzór wozu cherubinów, którzy swoimi rozpostartymi skrzyd³ami okrywali arkê przymierza PANA. </v>
+<v n="19"> To wszystko – powiedzia³ Dawid – przysz³o do mnie na piœmie z rêki PANA, abym móg³ zrozumieæ, jak wykonaæ ten plan. </v>
+<v n="20"> Dawid powiedzia³ do swego syna Salomona: B¹dŸ mocny i dzielny i wykonaj to. Nie bój siê ani siê nie lêkaj, bo PAN Bóg, mój Bóg, bêdzie z tob¹, nie porzuci ciê ani nie opuœci, dopóki nie dokoñczysz wszelkiej pracy wokó³ s³u¿by domu PANA. </v>
+<v n="21"> A oto zmiany kap³anów i Lewitów do ka¿dej pos³ugi w domu Bo¿ym bêd¹ z tob¹ w ka¿dej pracy; ka¿dy ochotny i zdolny do wszelkiej pos³ugi. Tak¿e ksi¹¿êta i ca³y lud stawi¹ siê na ka¿dy twój rozkaz. </v>
+</c>

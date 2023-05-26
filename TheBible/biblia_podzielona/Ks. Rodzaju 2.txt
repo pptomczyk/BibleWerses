@@ -1,0 +1,26 @@
+<v n="1"> Tak ukoñczone zosta³y niebiosa i ziemia oraz wszystkie ich zastêpy. </v>
+<v n="2"> W siódmym dniu Bóg ukoñczy³ swe dzie³o, które uczyni³; i odpocz¹³ siódmego dnia od wszelkiego swego dzie³a, które stworzy³. </v>
+<v n="3"> I Bóg b³ogos³awi³ siódmy dzieñ, i poœwiêci³ go, bo w nim odpocz¹³ od wszelkiego swego dzie³a, które Bóg stworzy³ i uczyni³. </v>
+<v n="4"> Takie s¹ dzieje stworzenia niebios i ziemi w dniu, w którym PAN Bóg uczyni³ ziemiê i niebiosa; </v>
+<v n="5"> Wszelkie krzewy polne, zanim by³y na ziemi, i wszelkie roœliny polne, nim wzesz³y. Bo PAN Bóg jeszcze nie spuœci³ deszczu na ziemiê i nie by³o cz³owieka, który by uprawia³ ziemiê. </v>
+<v n="6"> Ale z ziemi wychodzi³a para, która nawil¿a³a ca³¹ powierzchniê ziemi. </v>
+<v n="7"> Wtedy PAN Bóg ukszta³towa³ cz³owieka z prochu ziemi i tchn¹³ w jego nozdrza tchnienie ¿ycia. I cz³owiek sta³ siê ¿yw¹ dusz¹. </v>
+<v n="8"> PAN Bóg zasadzi³ te¿ ogród w Edenie, na wschodzie, i umieœci³ tam cz³owieka, którego ukszta³towa³. </v>
+<v n="9"> I wywiód³ PAN Bóg z ziemi wszelkie drzewa mi³e dla oka i których owoce by³y dobre do jedzenia oraz drzewo ¿ycia poœrodku ogrodu i drzewo poznania dobra i z³a. </v>
+<v n="10"> A z Edenu wyp³ywa³a rzeka, aby nawadniaæ ogród; i stamt¹d dzieli³a siê na cztery g³ówne rzeki. </v>
+<v n="11"> Nazwa pierwszej – Piszon; to ta, która okr¹¿a ca³¹ ziemiê Chawila, gdzie znajduje siê z³oto. </v>
+<v n="12"> A z³oto tej ziemi jest wyborne. Tam te¿ jest bdellium i kamieñ onyksowy. </v>
+<v n="13"> Nazwa drugiej rzeki – Gichon; ta okr¹¿a ca³¹ ziemiê Kusz. </v>
+<v n="14"> Nazwa zaœ trzeciej rzeki – Chiddekel; p³ynie ona na wschód ku Asyrii. A czwarta rzeka to Eufrat. </v>
+<v n="15"> PAN Bóg wzi¹³ wiêc cz³owieka i umieœci³ go w ogrodzie Eden, aby go uprawia³ i strzeg³. </v>
+<v n="16"> I rozkaza³ PAN Bóg cz³owiekowi: Mo¿esz jeœæ do woli z ka¿dego drzewa ogrodu; </v>
+<v n="17"> Ale z drzewa poznania dobra i z³a jeœæ nie bêdziesz, bo tego dnia, kiedy zjesz z niego, na pewno umrzesz. </v>
+<v n="18"> PAN Bóg powiedzia³ te¿: Niedobrze, by cz³owiek by³ sam; uczyniê mu odpowiedni¹ dla niego pomoc. </v>
+<v n="19"> I ukszta³towa³ PAN Bóg z ziemi wszelkie zwierzêta polne i wszelkie ptactwo niebieskie, i przyprowadzi³ je do Adama, aby zobaczyæ, jak je nazwie; a jak Adam nazwa³ ka¿d¹ istotê ¿yw¹, taka by³a jej nazwa. </v>
+<v n="20"> I Adam nada³ nazwy wszelkiemu byd³u i ptactwu niebieskiemu, i wszelkim zwierzêtom polnym. Dla Adama jednak nie znalaz³a siê pomoc odpowiednia dla niego. </v>
+<v n="21"> Wtedy PAN Bóg zes³a³ g³êboki sen na Adama; a gdy zasn¹³, wyj¹³ jedno z jego ¿eber i zape³ni³ cia³em miejsce po nim. </v>
+<v n="22"> I z tego ¿ebra, które PAN Bóg wyj¹³ z Adama, utworzy³ kobietê i przyprowadzi³ j¹ do Adama. </v>
+<v n="23"> I Adam powiedzia³: To teraz jest koœæ z moich koœci i cia³o z mojego cia³a; dlatego bêdzie nazwana kobiet¹, bo z mê¿czyzny zosta³a wziêta. </v>
+<v n="24"> Dlatego opuœci mê¿czyzna swojego ojca i swoj¹ matkê i po³¹czy siê ze swoj¹ ¿on¹, i bêd¹ jednym cia³em. </v>
+<v n="25"> I oboje, Adam i jego ¿ona, byli nadzy, a nie wstydzili siê. </v>
+</c>

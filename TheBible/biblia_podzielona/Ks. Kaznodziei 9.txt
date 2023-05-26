@@ -1,0 +1,19 @@
+<v n="1"> Zaprawdê, wszystko to rozwa¿a³em w swoim sercu po to, aby to wszystko wyjaœniæ – ¿e sprawiedliwi i m¹drzy oraz ich dzie³a s¹ w rêkach Boga. Cz³owiek nie zna ani mi³oœci, ani nienawiœci ze wszystkich rzeczy, które s¹ przed nim. </v>
+<v n="2"> Wszystkich spotyka to samo: ten sam los spotyka sprawiedliwego i niegodziwego, dobrego i czystego, i nieczystego, sk³adaj¹cego ofiary i tego, który nie sk³ada ofiar, zarówno dobrego, jak i grzesznika, przysiêgaj¹cego i tego, kto boi siê przysiêgi. </v>
+<v n="3"> Jest takie z³o we wszystkim, co siê dzieje pod s³oñcem: jeden los spotyka wszystkich. A przy tym serce synów ludzkich jest pe³ne z³a, a g³upota znajduje siê w ich sercach, póki ¿yj¹, a potem id¹ do zmar³ych. </v>
+<v n="4"> Ktokolwiek bowiem jest z³¹czony ze wszystkimi ¿yj¹cymi, ma nadziejê, gdy¿ lepszy jest ¿ywy pies ni¿ zdech³y lew. </v>
+<v n="5"> ¯yj¹cy bowiem wiedz¹, ¿e umr¹, ale umarli o niczym nie wiedz¹ i nie maj¹ ju¿ ¿adnej zap³aty, gdy¿ pamiêæ o nich uleg³a zapomnieniu. </v>
+<v n="6"> Tak samo ich mi³oœæ, nienawiœæ i zazdroœæ ju¿ zginê³y. I ju¿ nigdy wiêcej nie bêd¹ mieæ dzia³u we wszystkim, co siê dzieje pod s³oñcem. </v>
+<v n="7"> IdŸ wiêc, jedz z radoœci¹ swój chleb i pij z weso³ym sercem swe wino, gdy¿ Bóg ju¿ przyj¹³ twoje dzie³a. </v>
+<v n="8"> Niech twoje szaty bêd¹ zawsze bia³e i niech nie zabraknie olejku na twoj¹ g³owê. </v>
+<v n="9"> Ciesz siê ¿yciem z ¿on¹, któr¹ ukocha³eœ po wszystkie dni swego marnego ¿ycia, jakie da³ ci Bóg pod s³oñcem, po wszystkie dni swojej marnoœci. To jest bowiem twój dzia³ w ¿yciu i w trudzie, który podejmujesz pod s³oñcem. </v>
+<v n="10"> Wszystko, cokolwiek twoja rêka postanowi czyniæ, czyñ z ca³ej swojej si³y; nie ma bowiem ¿adnej pracy ani zamys³u, ani wiedzy, ani m¹droœci w grobie, do którego zmierzasz. </v>
+<v n="11"> Potem obróci³em siê i widzia³em pod s³oñcem, ¿e bieg nie nale¿y do szybkich ani wojna do dzielnych, ani ¿ywnoœæ do m¹drych, ani bogactwo do roztropnych, ani ³aska do zdolnych, lecz czas i przypadek spotyka wszystkich. </v>
+<v n="12"> Cz³owiek bowiem nie zna swojego czasu, ale jak ryby, które siê ³owi szkodliw¹ sieci¹, i jak ptaki chwytane w sid³a, tak synowie ludzcy s¹ uwik³ani w z³ej chwili, gdy ta nagle na nich spadnie. </v>
+<v n="13"> Widzia³em równie¿ tê m¹droœæ pod s³oñcem, która wyda³a mi siê wielka: </v>
+<v n="14"> By³o ma³e miasto, a w nim niewielu ludzi. I wyruszy³ przeciw niemu potê¿ny król, obleg³ je i zbudowa³ przeciwko niemu wielkie wa³y. </v>
+<v n="15"> I znalaz³ siê w nim cz³owiek ubogi i m¹dry, który wybawi³ to miasto przez swoj¹ m¹droœæ. Nikt jednak nie pamiêta³ tego ubogiego cz³owieka. </v>
+<v n="16"> I powiedzia³em: Lepsza jest m¹droœæ ni¿ si³a. Lecz m¹droœæ ubogiego bywa wzgardzona i jego s³ów nikt nie s³ucha. </v>
+<v n="17"> Spokojnych s³ów ludzi m¹drych nale¿y s³uchaæ bardziej ni¿ krzyku tego, który panuje wœród g³upców. </v>
+<v n="18"> Lepsza jest m¹droœæ ni¿ orê¿ wojenny, ale jeden grzesznik niszczy wiele dobrego. </v>
+</c>

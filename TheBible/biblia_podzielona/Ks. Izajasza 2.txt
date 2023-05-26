@@ -1,0 +1,23 @@
+<v n="1"> S³owo, które widzia³ Izajasz, syn Amosa, dotycz¹ce Judy i Jerozolimy. </v>
+<v n="2"> Stanie siê w dniach ostatecznych, ¿e góra domu PANA bêdzie utwierdzona na szczycie gór i wywy¿szona ponad pagórki; i wszystkie narody pop³yn¹ do niej. </v>
+<v n="3"> I pójdzie wiele ludów, i powie: ChodŸcie, wst¹pmy na górê PANA, do domu Boga Jakuba; on bêdzie nas uczy³ swoich dróg, a my bêdziemy kroczyli jego œcie¿kami. Z Syjonu bowiem wyjdzie prawo, a s³owo PANA z Jerozolimy. </v>
+<v n="4"> On bêdzie s¹dzi³ wœród narodów i karci³ wielu ludzi. I przekuj¹ swe miecze na lemiesze, a swoje w³ócznie na sierpy. Naród przeciw narodowi nie podniesie ju¿ miecza i nie bêd¹ siê ju¿ æwiczyæ do wojny. </v>
+<v n="5"> Domu Jakuba, chodŸcie, postêpujmy w œwiat³oœci PANA. </v>
+<v n="6"> Ale ty opuœci³eœ swój lud, dom Jakuba, gdy¿ pe³en jest obrzydliwoœci wschodu i s¹ oni wró¿bitami jak Filistyni, a kochaj¹ siê w cudzych synach. </v>
+<v n="7"> Ich ziemia jest pe³na srebra i z³ota i nie ma koñca ich skarbom. Ich ziemia jest pe³na koni i nie ma koñca ich rydwanom. </v>
+<v n="8"> Ich ziemia jest pe³na bo¿ków, oni oddaj¹ pok³on dzie³om w³asnych r¹k, które wykona³y ich palce. </v>
+<v n="9"> K³ania siê przed nimi prosty cz³owiek, poni¿a siê te¿ wielki; nie przebaczaj im. </v>
+<v n="10"> WejdŸ w ska³ê i ukryj siê w prochu ze strachu przed PANEM i przed chwa³¹ jego majestatu. </v>
+<v n="11"> Wynios³e oczy cz³owieka ukorz¹ siê, ludzka pycha bêdzie poni¿ona, a sam tylko PAN zostanie wywy¿szony w tym dniu. </v>
+<v n="12"> Przyjdzie bowiem dzieñ PANA zastêpów przeciwko ka¿demu pysznemu i wynios³emu, i przeciwko ka¿demu wywy¿szonemu, a ka¿dy zostanie poni¿ony; </v>
+<v n="13"> Przeciwko wszystkim cedrom Libanu, które s¹ wysokie a wynios³e, i przeciwko wszystkim dêbom Baszanu; </v>
+<v n="14"> Przeciwko wszystkim wysokim górom i przeciwko wszystkim wynios³ym pagórkom; </v>
+<v n="15"> Przeciwko ka¿dej wysokiej wie¿y i przeciwko ka¿demu murowi obronnemu; </v>
+<v n="16"> Przeciwko wszystkim okrêtom Tarszisz i przeciwko wszelkiemu piêknemu malarstwu. </v>
+<v n="17"> I wynios³oœæ cz³owieka bêdzie ugiêta i pycha ludzka bêdzie poni¿ona, a sam tylko PAN zostanie wywy¿szony w tym dniu. </v>
+<v n="18"> A bo¿ki zniszczy doszczêtnie. </v>
+<v n="19"> Wtedy wejd¹ do jaskiñ skalnych i do jam podziemnych ze strachu przed PANEM i przed chwa³¹ jego majestatu, gdy powstanie, by przeraziæ ziemiê. </v>
+<v n="20"> W tym dniu cz³owiek wrzuci kretom i nietoperzom swoje bo¿ki srebrne i z³ote, które uczyni³, aby oddawaæ im pok³on; </v>
+<v n="21"> I wejdzie w szczeliny skalne i na szczyty opok ze strachu przed PANEM i przed chwa³¹ jego majestatu, gdy powstanie, aby przeraziæ ziemiê. </v>
+<v n="22"> Przestañcie polegaæ na cz³owieku, którego tchnienie jest w jego nozdrzach. Za co bowiem ma byæ uznany? </v>
+</c>

@@ -1,0 +1,27 @@
+<v n="1"> Piotr i Jan weszli razem do œwi¹tyni w godzinie modlitwy, o dziewi¹tej. </v>
+<v n="2"> A wnoszono w³aœnie pewnego mê¿czyznê, chromego od urodzenia, którego ka¿dego dnia sadzano u bramy œwi¹tyni, zwanej Piêkn¹, ¿eby wchodz¹cych do œwi¹tyni prosi³ o ja³mu¿nê. </v>
+<v n="3"> Gdy zobaczy³ Piotra i Jana, jak mieli wejœæ do œwi¹tyni, prosi³ ich o ja³mu¿nê. </v>
+<v n="4"> A Piotr, przypatruj¹c mu siê wraz z Janem, powiedzia³: Spójrz na nas. </v>
+<v n="5"> On wiêc spojrza³ na nich uwa¿nie, spodziewaj¹c siê, ¿e coœ od nich otrzyma. </v>
+<v n="6"> Wtedy Piotr powiedzia³: Nie mam srebra ani z³ota, lecz co mam, to ci dajê: W imieniu Jezusa Chrystusa z Nazaretu, wstañ i chodŸ! </v>
+<v n="7"> A uj¹wszy go za praw¹ rêkê, podniós³ go. I natychmiast wzmocni³y siê jego nogi i kostki. </v>
+<v n="8"> A on zerwa³ siê, wsta³ i chodzi³. Wszed³ z nimi do œwi¹tyni, chodz¹c, skacz¹c i chwal¹c Boga. </v>
+<v n="9"> A wszyscy ludzie widzieli go chodz¹cego i chwal¹cego Boga. </v>
+<v n="10"> I rozpoznali w nim tego cz³owieka, który dla ja³mu¿ny siada³ przy Piêknej Bramie œwi¹tyni, i ogarnê³o ich zdumienie i zachwyt nad tym, co mu siê przydarzy³o. </v>
+<v n="11"> A gdy ten chromy, który zosta³ uzdrowiony, trzyma³ siê Piotra i Jana, wszyscy ludzie zdumieni zbiegli siê do nich w przedsionku, który zwano Salomonowym. </v>
+<v n="12"> Kiedy Piotr to zobaczy³, przemówi³ do ludzi: Mê¿owie izraelscy, dlaczego siê temu dziwicie i dlaczego siê nam tak uwa¿nie przypatrujecie, jakbyœmy w³asn¹ moc¹ albo pobo¿noœci¹ sprawili, ¿e on chodzi? </v>
+<v n="13"> Bóg Abrahama, Izaaka i Jakuba, Bóg naszych ojców, uwielbi³ Jezusa, swego Syna, którego wy wydaliœcie i wyparliœcie siê przed Pi³atem, gdy postanowi³ go uwolniæ. </v>
+<v n="14"> A wy wyparliœcie siê Œwiêtego i Sprawiedliwego i prosiliœcie o uwolnienie wam mordercy. </v>
+<v n="15"> I zabiliœcie Dawcê ¿ycia, którego Bóg wskrzesi³ z martwych, czego my jesteœmy œwiadkami. </v>
+<v n="16"> A przez wiarê w jego imiê, temu, którego widzicie i znacie, imiê to przywróci³o si³y. To wiara, która jest przez niego, da³a mu pe³ne zdrowie na oczach was wszystkich. </v>
+<v n="17"> Ale teraz, bracia, wiem, ¿e uczyniliœcie to z nieœwiadomoœci, tak jak wasi prze³o¿eni. </v>
+<v n="18"> Lecz Bóg w ten sposób wype³ni³ to, co przepowiedzia³ przez usta wszystkich swoich proroków, ¿e jego Chrystus bêdzie cierpia³. </v>
+<v n="19"> Dlatego pokutujcie i nawróæcie siê, aby wasze grzechy by³y zg³adzone, gdy nadejd¹ od obecnoœci Pana czasy och³ody; </v>
+<v n="20"> I poœle tego, który by³ wam g³oszony, Jezusa Chrystusa; </v>
+<v n="21"> Którego niebo musi przyj¹æ a¿ do czasu odnowienia wszystkich rzeczy, jak Bóg od wieków przepowiada³ przez usta wszystkich swoich œwiêtych proroków. </v>
+<v n="22"> Moj¿esz bowiem powiedzia³ do ojców: Proroka jak ja wzbudzi wam Pan, wasz Bóg, spoœród waszych braci. Jego bêdziecie s³uchaæ we wszystkim, co wam powie. </v>
+<v n="23"> I stanie siê, ¿e ka¿da dusza, która nie bêdzie s³uchaæ tego proroka, bêdzie wytracona spoœród ludu. </v>
+<v n="24"> Przepowiadali te dni tak¿e wszyscy prorocy, którzy przemawiali od czasów Samuela i inni po nim. </v>
+<v n="25"> Wy jesteœcie synami proroków i przymierza, które Bóg zawar³ z naszymi ojcami, mówi¹c do Abrahama: W twoim potomstwie bêd¹ b³ogos³awione wszystkie narody ziemi. </v>
+<v n="26"> Wzbudziwszy swego Syna, Jezusa, Bóg najpierw pos³a³ go do was, aby wam b³ogos³awi³ w odwracaniu siê ka¿dego z was od swoich nieprawoœci. </v>
+</c>

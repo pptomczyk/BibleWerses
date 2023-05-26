@@ -1,0 +1,26 @@
+<v n="1"> Czemu, skoro od Wszechmocnego nie s¹ zakryte czasy, ci, którzy go znaj¹, nie widz¹ jego dni? </v>
+<v n="2"> Niektórzy przesuwaj¹ granice, zabieraj¹ trzody i pas¹ je. </v>
+<v n="3"> Os³a sierot pêdz¹ i wo³u wdowy bior¹ w zastaw. </v>
+<v n="4"> Spychaj¹ z drogi ubogich, biedni ziemi musz¹ siê kryæ razem. </v>
+<v n="5"> Oto jak dzikie os³y na pustyni wychodz¹ oni do swojej pracy, wstaj¹c rano na ³up. Pustynia wydaje chleb dla nich oraz ich dzieci. </v>
+<v n="6"> Na polu ¿n¹ zbo¿e i zbieraj¹ grona w winnicy niegodziwych. </v>
+<v n="7"> Nagich zmuszaj¹ nocowaæ bez ubrania, tak ¿e nie maj¹ czym siê nakryæ w czasie ch³odów; </v>
+<v n="8"> Przemoczeni ulew¹ górsk¹, bez schronienia przytulaj¹ siê do ska³y. </v>
+<v n="9"> Odrywaj¹ od piersi sieroty, od ubogiego bior¹ zastaw. </v>
+<v n="10"> Nagiego zmuszaj¹ do chodzenia bez ubrania, a g³odnym zabieraj¹ snopy. </v>
+<v n="11"> A ci, którzy poœród ich murów wyciskaj¹ oliwê i t³ocz¹ w prasach, s¹ spragnieni. </v>
+<v n="12"> Ludzie w mieœcie wzdychaj¹, dusze œmiertelnie rannych wo³aj¹, a Bóg im w tym nie przeszkadza. </v>
+<v n="13"> To s¹ ci, którzy siê sprzeciwiaj¹ œwiat³oœci, nie znaj¹ jej dróg ani nie trwaj¹ na jej œcie¿kach. </v>
+<v n="14"> Morderca wstaje przed œwitem i zabija ubogiego i potrzebuj¹cego, a w nocy jest jak z³odziej. </v>
+<v n="15"> Oko cudzo³o¿nika czeka na zmierzch, mówi¹c: Nikt mnie nie zobaczy, i zakrywa on swoje oblicze. </v>
+<v n="16"> W ciemnoœci podkopuj¹ domy, które sobie za dnia oznaczyli, nie znaj¹ œwiat³a. </v>
+<v n="17"> Dla nich bowiem poranek jest jak cieñ œmierci. Jeœli ktoœ ich rozpozna, ogarnia ich strach cienia œmierci. </v>
+<v n="18"> Lekko unosz¹ siê na wodach, przeklêty jest ich dzia³ na ziemi, nie patrz¹ na drogê do winnic. </v>
+<v n="19"> Jak susza i upa³ trawi¹ wody œniegu, tak grób trawi grzeszników. </v>
+<v n="20"> Zapomni o nim ³ono jego matki, a robak bêdzie siê nim karmiæ jak s³odycz; nikt go wiêcej nie wspomni, a nieprawoœæ zostanie po³amana jak drzewo. </v>
+<v n="21"> Drêczy niep³odn¹, która nie rodzi³a, a wdowie nie czyni dobra. </v>
+<v n="22"> Poci¹ga te¿ mocarzy swoj¹ si³¹; gdy powstaje, nikt nie jest pewien swego ¿ycia. </v>
+<v n="23"> Dano mu, ¿e mo¿e oprzeæ siê bezpiecznie; jego oczy jednak patrz¹ na ich drogi. </v>
+<v n="24"> Na chwilê zostali wywy¿szeni, ale ju¿ ich nie ma; zostali poni¿eni i œciœnieni jak wszyscy inni, a jak wierzch k³osa zostan¹ wyciêci. </v>
+<v n="25"> A jeœli tak nie jest, kto mi udowodni k³amstwo i obróci wniwecz moje s³owa? </v>
+</c>

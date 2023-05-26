@@ -1,0 +1,12 @@
+<v n="1"> Miktam Dawida. Strze¿ mnie, o Bo¿e, bo tobie ufam. </v>
+<v n="2"> Moja dusza mówi do PANA: Ty jesteœ moim Panem, a moja dobroæ nie przynosi ci ¿adnej korzyœci; </v>
+<v n="3"> Lecz œwiêtym, którzy s¹ na ziemi, i szlachetnym, w których ca³e moje upodobanie. </v>
+<v n="4"> Rozmno¿¹ siê boleœci tych, którzy chodz¹ za obcymi bogami. Nie z³o¿ê im ofiar z krwi i nie wymówiê ich imion swoimi ustami. </v>
+<v n="5"> PAN jest udzia³em mego dziedzictwa i kielicha; ty strze¿esz mojego losu. </v>
+<v n="6"> Sznury miernicze wyznaczy³y mi przyjemne miejsca i mi³e jest moje dziedzictwo. </v>
+<v n="7"> Bêdê b³ogos³awi³ PANA, który udzieli³ mi rady, bo nawet w nocy pouczaj¹ mnie moje nerki. </v>
+<v n="8"> Stawiam PANA zawsze przed oczami; skoro on jest po mojej prawicy, nie zachwiejê siê. </v>
+<v n="9"> Dlatego cieszy siê moje serce i raduje siê moja chwa³a, a moje cia³o bêdzie spoczywaæ bezpiecznie. </v>
+<v n="10"> Nie zostawisz bowiem mojej duszy w piekle ani nie dopuœcisz swemu Œwiêtemu doznaæ zniszczenia. </v>
+<v n="11"> Dasz mi poznaæ drogê ¿ycia, pe³niê radoœci przed twoim obliczem, rozkosze po twojej prawicy na wieki. </v>
+</c>

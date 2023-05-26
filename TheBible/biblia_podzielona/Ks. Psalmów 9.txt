@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi chóru, na Halmutlabben. Pieœñ Dawida. Bêdê ciê wys³awia³, PANIE, ca³ym mym sercem; bêdê opowiada³ o wszystkich twoich cudach. </v>
+<v n="2"> Bêdê siê cieszy³ i radowa³ tob¹, bêdê œpiewa³ twemu imieniu, o Najwy¿szy! </v>
+<v n="3"> Gdy cofn¹ siê moi nieprzyjaciele, upadn¹ i znikn¹ sprzed twego oblicza. </v>
+<v n="4"> Ty bowiem przeprowadzi³eœ mój s¹d i moj¹ sprawê, zasiad³eœ na tronie jako sêdzia sprawiedliwy. </v>
+<v n="5"> Skarci³eœ pogan, wytraci³eœ niegodziwych, wymaza³eœ ich imiê na wieki wieków. </v>
+<v n="6"> O nieprzyjacielu, twoje spustoszenia skoñczy³y siê na zawsze, zburzy³eœ miasta, ich pamiêæ przepad³a razem z nimi. </v>
+<v n="7"> Ale PAN trwa na wieki, ustawi³ swój tron, by s¹dziæ. </v>
+<v n="8"> On bêdzie s¹dzi³ œwiat sprawiedliwie, os¹dzi narody wed³ug s³usznoœci. </v>
+<v n="9"> I bêdzie PAN ucieczk¹ dla uciœnionego, schronieniem w czasie niedoli. </v>
+<v n="10"> I bêd¹ ufaæ tobie ci, którzy znaj¹ twoje imiê, bo nie opuszczasz, PANIE, tych, którzy ciê szukaj¹. </v>
+<v n="11"> Œpiewajcie PANU, który mieszka na Syjonie, opowiadajcie wœród narodów o jego dzie³ach. </v>
+<v n="12"> Bo on dopomina siê krwi i pamiêta o nich, a nie zapomina wo³ania strapionych. </v>
+<v n="13"> Zmi³uj siê nade mn¹, PANIE, spójrz, jak mnie uciskaj¹ ci, którzy mnie nienawidz¹, ty, który podnosisz mnie z bram œmierci; </v>
+<v n="14"> Abym g³osi³ wszelk¹ tw¹ chwa³ê w bramach córki Syjonu; bêdê siê radowa³ twoim zbawieniem. </v>
+<v n="15"> Poganie wpadli w dó³, który wykopali; w sid³ach, które zastawili, uwiêz³a ich noga. </v>
+<v n="16"> PAN da³ siê poznaæ, gdy odby³ s¹d, w dzie³a swoich r¹k uwik³a³ siê niegodziwy. Higgajon. Sela. </v>
+<v n="17"> Niegodziwi zst¹pi¹ do piek³a, wszystkie narody, które zapominaj¹ Boga. </v>
+<v n="18"> Bo biedak nie bêdzie zapomniany na zawsze, nadzieja ubogich nie zginie na wieki. </v>
+<v n="19"> Powstañ, PANIE, niech nie triumfuje cz³owiek, niech narody zostan¹ os¹dzone przed twoim obliczem. </v>
+<v n="20"> PANIE, zeœlij na nie strach, aby narody pozna³y, ¿e s¹ tylko ludŸmi. Sela. </v>
+</c>

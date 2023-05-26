@@ -1,0 +1,21 @@
+<v n="1"> Chwalcie PANA, bo dobrze jest œpiewaæ naszemu Bogu; jest to bowiem mi³e i piêkna jest chwa³a. </v>
+<v n="2"> PAN buduje Jeruzalem i gromadzi rozproszonych Izraela. </v>
+<v n="3"> On uzdrawia skruszonych w sercu i opatruje ich rany. </v>
+<v n="4"> On liczy gwiazdy, nazywa ka¿d¹ z nich po imieniu. </v>
+<v n="5"> Wielki jest nasz Pan i zasobny w moc; jego m¹droœæ jest niezmierzona. </v>
+<v n="6"> PAN podnosi pokornych, a niegodziwych poni¿a a¿ do ziemi. </v>
+<v n="7"> Œpiewajcie PANU z dziêkczynieniem; œpiewajcie naszemu Bogu przy dŸwiêkach harfy; </v>
+<v n="8"> Który okrywa niebiosa ob³okami i przygotowuje deszcz dla ziemi; który sprawia, ¿e trawa roœnie na górach; </v>
+<v n="9"> Który daje pokarm byd³u i m³odym krukom wo³aj¹cym do niego. </v>
+<v n="10"> Nie lubuje siê w mocy konia ani nie ma upodobania w goleniach mê¿czyzny. </v>
+<v n="11"> PAN ma upodobanie w tych, którzy siê go boj¹, którzy ufaj¹ jego mi³osierdziu. </v>
+<v n="12"> Chwal PANA, Jeruzalem; chwal swego Boga, Syjonie. </v>
+<v n="13"> On bowiem umacnia zasuwy twoich bram i b³ogos³awi synów twoich poœród ciebie. </v>
+<v n="14"> Zapewnia pokój w twoich granicach i syci ciê najwyborniejsz¹ pszenic¹. </v>
+<v n="15"> On wysy³a swój rozkaz na ziemiê; szybko biegnie jego s³owo. </v>
+<v n="16"> On daje œnieg jak we³nê, rozsypuje szron jak popió³. </v>
+<v n="17"> Rzuca swój lód jak okruchy; któ¿ ostoi siê przed jego zimnem? </v>
+<v n="18"> Posy³a swoje s³owo i lody topniej¹; wionie swym wiatrem i wody sp³ywaj¹. </v>
+<v n="19"> Oznajmia swe s³owo Jakubowi, swe prawa i s¹dy Izraelowi. </v>
+<v n="20"> Nie uczyni³ tak ¿adnemu narodowi, nie poznali jego s¹dów. Alleluja. </v>
+</c>

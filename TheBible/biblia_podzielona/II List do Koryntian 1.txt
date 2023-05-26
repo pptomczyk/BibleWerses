@@ -1,0 +1,25 @@
+<v n="1"> Pawe³, z woli Boga aposto³ Jezusa Chrystusa, i Tymoteusz, brat, do koœcio³a Bo¿ego, który jest w Koryncie, ze wszystkimi œwiêtymi, którzy s¹ w ca³ej Achai. </v>
+<v n="2"> £aska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="3"> B³ogos³awiony niech bêdzie Bóg i Ojciec naszego Pana Jezusa Chrystusa, Ojciec mi³osierdzia i Bóg wszelkiej pociechy; </v>
+<v n="4"> Który nas pociesza w ka¿dym naszym utrapieniu, abyœmy i my mogli pocieszaæ tych, którzy s¹ w jakimkolwiek ucisku, tak¹ pociech¹, jak¹ sami jesteœmy pocieszani przez Boga. </v>
+<v n="5"> Jak bowiem w nas obfituj¹ utrapienia Chrystusa, tak te¿ przez Chrystusa obfituje nasza pociecha. </v>
+<v n="6"> Jeœli wiêc doznajemy ucisku – to dla waszego pocieszenia i zbawienia, które sprawia, ¿e znosicie te same utrapienia, które i my cierpimy; i jeœli doznajemy pociechy – to dla waszego pocieszenia i zbawienia. </v>
+<v n="7"> A nasza nadzieja co do was jest mocna, bo wiemy, ¿e jak jesteœcie uczestnikami utrapienia, tak i pociechy. </v>
+<v n="8"> Nie chcemy bowiem, bracia, abyœcie nie wiedzieli o ucisku, który nas spotka³ w Azji, ¿e byliœmy obci¹¿eni ponad miarê i ponad si³y, tak ¿e zaczêliœmy w¹tpiæ, czy prze¿yjemy. </v>
+<v n="9"> Wiêcej, sami w sobie mieliœmy wyrok œmierci, abyœmy nie ufali samym sobie, lecz Bogu, który wskrzesza umar³ych. </v>
+<v n="10"> On to wyrwa³ nas z tak wielkiej œmierci i jeszcze wyrywa. W nim te¿ mamy nadziejê, ¿e nadal bêdzie wyrywaæ; </v>
+<v n="11"> Tak¿e przy waszej pomocy poprzez modlitwê za nas, aby dar, który otrzymaliœmy dziêki wielu, sta³ siê dla wielu powodem dziêkczynienia za nas. </v>
+<v n="12"> To bowiem jest nasz¹ chlub¹: œwiadectwo naszego sumienia, ¿e w prostocie i w szczeroœci Bo¿ej, nie w cielesnej m¹droœci, ale w ³asce Boga postêpowaliœmy na œwiecie, a szczególnie wzglêdem was. </v>
+<v n="13"> Nie piszemy wam nic innego, jak tylko to, co czytacie albo rozumiecie. Spodziewam siê zaœ, ¿e te¿ do koñca zrozumiecie; </v>
+<v n="14"> Jak ju¿ po czêœci nas zrozumieliœcie, ¿e jesteœmy wasz¹ chlub¹, jak i wy nasz¹ w dniu Pana Jezusa. </v>
+<v n="15"> Z t¹ ufnoœci¹ chcia³em przybyæ do was wczeœniej, abyœcie otrzymali powtórne dobrodziejstwo; </v>
+<v n="16"> A od was udaæ siê do Macedonii, a z Macedonii znowu przybyæ do was i zostaæ przez was wyprawionym do Judei. </v>
+<v n="17"> Czy wiêc tak postanawiaj¹c, post¹pi³em lekkomyœlnie? Albo czy to, co postanawiam, postanawiam wed³ug cia³a, aby by³o u mnie „tak, tak” i „nie, nie”? </v>
+<v n="18"> Lecz jak Bóg jest wierny, tak nasze s³owa do was nie by³y „tak” i „nie”. </v>
+<v n="19"> Poniewa¿ Syn Bo¿y, Jezus Chrystus, który wœród was g³oszony by³ przez nas, to znaczy przeze mnie, Sylwana i Tymoteusza, nie by³ „tak” i „nie”, lecz by³o w nim „tak”. </v>
+<v n="20"> Ile jest bowiem obietnic Boga, w nim s¹ „tak” i w nim s¹ „Amen”, ku chwale Boga przez nas. </v>
+<v n="21"> Tym zaœ, który utwierdza nas razem z wami w Chrystusie i który nas namaœci³, jest Bóg; </v>
+<v n="22"> Który te¿ zapieczêtowa³ nas i da³ do naszych serc Ducha jako zadatek. </v>
+<v n="23"> A ja wzywam Boga na œwiadka mojej duszy, ¿e aby was oszczêdziæ, nie przyby³em dot¹d do Koryntu. </v>
+<v n="24"> Nie dlatego, ¿e panujemy nad wasz¹ wiar¹, ale jesteœmy pomocnikami waszej radoœci; wiar¹ bowiem stoicie. </v>
+</c>

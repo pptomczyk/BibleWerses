@@ -1,0 +1,19 @@
+<v n="1"> Pawe³, aposto³ Jezusa Chrystusa z woli Boga, zgodnie z obietnic¹ ¿ycia, które jest w Chrystusie Jezusie; </v>
+<v n="2"> Do Tymoteusza, umi³owanego syna. £aska, mi³osierdzie i pokój od Boga Ojca i Chrystusa Jezusa, naszego Pana. </v>
+<v n="3"> Dziêkujê Bogu, któremu jak moi przodkowie s³u¿ê z czystym sumieniem, ¿e nieustannie ciebie wspominam w swoich modlitwach, w nocy i we dnie; </v>
+<v n="4"> Wspominaj¹c twoje ³zy, pragnê ciê zobaczyæ, aby nape³niæ siê radoœci¹; </v>
+<v n="5"> Pamiêtaj¹c nieob³udn¹ wiarê, która jest w tobie, a która najpierw mieszka³a w twojej babce Lois i w twojej matce Eunice, jestem te¿ pewien, ¿e i w tobie mieszka. </v>
+<v n="6"> Z tego powodu przypominam ci, abyœ roznieci³ dar Bo¿y, który jest w tobie przez na³o¿enie moich r¹k. </v>
+<v n="7"> Nie da³ nam bowiem Bóg ducha bojaŸni, lecz mocy i mi³oœci, i zdrowego umys³u. </v>
+<v n="8"> Nie wstydŸ siê wiêc œwiadectwa naszego Pana ani mnie, jego wiêŸnia, lecz weŸ udzia³ w cierpieniach dla ewangelii wed³ug mocy Boga; </v>
+<v n="9"> Który nas zbawi³ i powo³a³ œwiêtym powo³aniem nie na podstawie naszych uczynków, ale na podstawie swojego postanowienia i ³aski, która zosta³a nam dana w Chrystusie Jezusie przed wiecznymi czasy. </v>
+<v n="10"> A obecnie zosta³a objawiona przez pojawienie siê naszego Zbawiciela, Jezusa Chrystusa, który zniszczy³ œmieræ, a ¿ycie i nieœmiertelnoœæ wydoby³ na jaw przez ewangeliê; </v>
+<v n="11"> Dla której zosta³em ustanowiony kaznodziej¹, aposto³em i nauczycielem pogan. </v>
+<v n="12"> Z tego te¿ powodu znoszê te cierpienia, ale siê nie wstydzê, gdy¿ wiem, komu uwierzy³em, i jestem pewien, ¿e on ma moc zachowaæ to, co jemu powierzy³em, a¿ do owego dnia. </v>
+<v n="13"> Trzymaj siê wzoru zdrowych s³ów, które ode mnie us³ysza³eœ, w wierze i mi³oœci, która jest w Chrystusie Jezusie. </v>
+<v n="14"> Strze¿ tego dobrego, które powierzy³ ci Duch Œwiêty, który w nas mieszka. </v>
+<v n="15"> Wiesz o tym, ¿e odwrócili siê ode mnie wszyscy, którzy s¹ w Azji, do których nale¿¹ Figelos i Hermogenes. </v>
+<v n="16"> Niech Pan oka¿e swoje mi³osierdzie domowi Onezyfora, bo mnie czêsto pokrzepia³ i mojego ³añcucha siê nie wstydzi³; </v>
+<v n="17"> Lecz gdy by³ w Rzymie, usilnie mnie szuka³ i odnalaz³. </v>
+<v n="18"> Niech mu Pan da, aby w owym dniu znalaz³ mi³osierdzie u Pana. A jak wiele us³ug odda³ mi w Efezie, ty sam dobrze wiesz. </v>
+</c>

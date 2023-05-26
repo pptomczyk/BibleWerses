@@ -1,0 +1,16 @@
+<v n="1"> Wtedy nadci¹gn¹³ Nachasz Ammonita i rozbi³ obóz przeciwko Jabesz-Gilead. I wszyscy mieszkañcy Jabesz powiedzieli do Nachasza: Zawrzyj z nami przymierze, a bêdziemy ci s³u¿yæ. </v>
+<v n="2"> Odpowiedzia³ im Nachasz Ammonita: Zawrê z wami przymierze, pod warunkiem ¿e ka¿demu z was wy³upiê prawe oko i bêdzie to hañba dla ca³ego Izraela. </v>
+<v n="3"> Starsi z Jabesz odpowiedzieli mu: Daj nam siedem dni na rozes³anie pos³añców po wszystkich granicach Izraela. A jeœli nie bêdzie nikogo, kto by nas uratowa³, wtedy wyjdziemy do ciebie. </v>
+<v n="4"> Przyszli wiêc pos³añcy do Gibea, miasta Saula, i powtórzyli te s³owa do uszu ludu. Ca³y lud zaœ podniós³ donoœny lament i p³aka³. </v>
+<v n="5"> A oto Saul wraca³ za wo³ami z pola i pyta³ siê: Co siê sta³o ludowi, ¿e p³acze? I opowiedzieli mu wszystkie s³owa mieszkañców Jabesz. </v>
+<v n="6"> Gdy Saul us³ysza³ te s³owa, zst¹pi³ na niego Duch Bo¿y i Saul zapa³a³ wielkim gniewem. </v>
+<v n="7"> I wzi¹³ parê wo³ów, rozr¹ba³ je na czêœci i rozes³a³ je przez pos³añców po wszystkich granicach Izraela, mówi¹c: Tak siê stanie z wo³ami ka¿dego, kto nie wyruszy za Saulem i Samuelem. I pad³ strach PANA na lud, i wyruszyli jak jeden m¹¿. </v>
+<v n="8"> Potem dokona³ ich przegl¹du w Bezek – by³o trzysta tysiêcy synów Izraela, a mê¿czyzn Judy trzydzieœci tysiêcy. </v>
+<v n="9"> I powiedzieli pos³añcom, którzy przyszli: Tak powiedzcie mieszkañcom Jabesz-Gilead: Jutro, gdy przygrzeje s³oñce, zostaniecie wybawieni. Pos³añcy wrócili wiêc i oznajmili to mieszkañcom Jabesz, a oni ucieszyli siê. </v>
+<v n="10"> Wtedy mieszkañcy Jabesz powiedzieli: Jutro wyjdziemy do was i uczynicie z nami wszystko, co siê wam podoba. </v>
+<v n="11"> Nazajutrz Saul podzieli³ lud na trzy oddzia³y. One wtargnê³y do œrodka obozu podczas stra¿y porannej i bi³y Ammonitów a¿ do dziennej spiekoty. Ci, którzy pozostali, rozpierzchli siê tak, ¿e dwóch razem nie zosta³o. </v>
+<v n="12"> Wtedy lud powiedzia³ do Samuela: Kto to mówi³: Czy Saul bêdzie królowaæ nad nami? Wydajcie tych ludzi, abyœmy ich zabili. </v>
+<v n="13"> I Saul odpowiedzia³: Nikt nie zostanie zabity w tym dniu, gdy¿ dzisiaj PAN dokona³ wybawienia w Izraelu. </v>
+<v n="14"> Potem Samuel odezwa³ siê do ludu: ChodŸcie, pójdziemy do Gilgal i tam odnowimy królestwo. </v>
+<v n="15"> Ca³y lud wyruszy³ wiêc do Gilgal i tam ustanowili Saula królem przed PANEM w Gilgal. Tam te¿ sk³adali ofiary pojednawcze przed PANEM i bardzo siê radowali, Saul i wszyscy Izraelici. </v>
+</c>

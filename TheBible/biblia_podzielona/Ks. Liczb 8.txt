@@ -1,0 +1,27 @@
+<v n="1"> I PAN przemówi³ do Moj¿esza tymi s³owy: </v>
+<v n="2"> Powiedz Aaronowi: Gdy zapalisz lampy, siedem lamp ma rzucaæ œwiat³o na przedni¹ stronê œwiecznika. </v>
+<v n="3"> I Aaron tak uczyni³. Z przedniej strony œwiecznika zapali³ lampy, tak jak PAN rozkaza³ Moj¿eszowi. </v>
+<v n="4"> Œwiecznik by³ wykuty ze z³ota, od trzonu a¿ po kwiaty by³ kuty. Zgodnie ze wzorem, który PAN pokaza³ Moj¿eszowi, tak zrobi³ œwiecznik. </v>
+<v n="5"> Potem PAN powiedzia³ do Moj¿esza: </v>
+<v n="6"> WeŸ Lewitów spoœród synów Izraela i oczyœæ ich. </v>
+<v n="7"> I tak post¹pisz z nimi, aby ich oczyœciæ: Pokrop ich wod¹ oczyszczenia, a oni niech ogol¹ ca³e swoje cia³o i wypior¹ swoje szaty, wtedy bêd¹ czyœci. </v>
+<v n="8"> Nastêpnie niech wezm¹ m³odego cielca wraz z jego ofiar¹ pokarmow¹ z m¹ki pszennej zmieszanej z oliw¹, drugiego zaœ m³odego cielca weŸmiesz na ofiarê za grzech. </v>
+<v n="9"> I przyprowadzisz Lewitów przed Namiot Zgromadzenia, i zbierzesz ca³e zgromadzenie synów Izraela; </v>
+<v n="10"> I przyprowadzisz Lewitów przed PANA, a synowie Izraela po³o¿¹ na nich swoje rêce. </v>
+<v n="11"> Wtedy Aaron przedstawi Lewitów przed PANEM jako ofiarê od synów Izraela, aby pe³nili s³u¿bê dla PANA. </v>
+<v n="12"> Lewici zaœ po³o¿¹ swoje rêce na g³owy cielców. Ty z³o¿ysz jednego na ofiarê za grzech, a drugiego na ofiarê ca³opaln¹ dla PANA, aby dokonaæ przeb³agania za Lewitów. </v>
+<v n="13"> Nastêpnie postawisz Lewitów przed Aaronem i przed jego synami i przedstawisz ich jako ofiarê dla PANA. </v>
+<v n="14"> W ten sposób oddzielisz Lewitów spoœród synów Izraela i Lewici bêd¹ nale¿eæ do mnie. </v>
+<v n="15"> Potem Lewici wejd¹, aby s³u¿yæ w Namiocie Zgromadzenia, gdy ich oczyœcisz i przedstawisz jako ofiarê. </v>
+<v n="16"> Oni bowiem s¹ mi oddani spoœród synów Izraela; w miejsce ka¿dego, kto otwiera ³ono, w miejsce wszystkich pierworodnych synów Izraela wzi¹³em ich sobie. </v>
+<v n="17"> Gdy¿ do mnie nale¿y wszystko, co pierworodne wœród synów Izraela, zarówno z ludzi, jak i ze zwierz¹t. Poœwiêci³em ich sobie w dniu, w którym zabi³em wszystko, co pierworodne w ziemi Egiptu. </v>
+<v n="18"> Wzi¹³em Lewitów w zamian za wszystkich pierworodnych wœród synów Izraela. </v>
+<v n="19"> I da³em Lewitów jako dar Aaronowi i jego synom spoœród synów Izraela, aby pe³nili s³u¿bê synów Izraela w Namiocie Zgromadzenia i dokonywali przeb³agania za nich, aby nie spad³a na synów Izraela ¿adna kara, gdy bêd¹ zbli¿aæ siê do œwi¹tyni. </v>
+<v n="20"> Wtedy Moj¿esz i Aaron oraz ca³e zgromadzenie synów Izraela post¹pili z Lewitami tak, jak PAN rozkaza³ Moj¿eszowi o Lewitach; tak post¹pili z nimi synowie Izraela. </v>
+<v n="21"> Lewici oczyœcili siê i wyprali swoje szaty, a Aaron przedstawi³ ich jako ofiarê przed PANEM i dokona³ przeb³agania za nich, aby ich oczyœciæ. </v>
+<v n="22"> Potem Lewici weszli, aby pe³niæ swoj¹ s³u¿bê w Namiocie Zgromadzenia przed Aaronem i przed jego synami. Jak PAN rozkaza³ Moj¿eszowi odnoœnie do Lewitów, tak z nimi post¹pili. </v>
+<v n="23"> I PAN powiedzia³ do Moj¿esza: </v>
+<v n="24"> Oto co dotyczy Lewitów: Od dwudziestego pi¹tego roku ¿ycia wzwy¿ przyst¹pi¹, by pe³niæ s³u¿bê w Namiocie Zgromadzenia. </v>
+<v n="25"> A od piêædziesi¹tego roku ¿ycia przestan¹ pe³niæ s³u¿bê i wiêcej nie bêd¹ s³u¿yæ. </v>
+<v n="26"> Bêd¹ jednak us³ugiwaæ swym braciom w Namiocie Zgromadzenia w pe³nieniu stra¿y, lecz samej s³u¿by nie bêd¹ pe³niæ. Tak post¹pisz z Lewitami w sprawie ich s³u¿by. </v>
+</c>

@@ -1,0 +1,11 @@
+<v n="1"> Alleluja. Bêdê wys³awia³ PANA ca³ym sercem w radzie prawych i w zgromadzeniu. </v>
+<v n="2"> Wielkie s¹ dzie³a PANA, rozwa¿ane przez wszystkich, którzy je mi³uj¹. </v>
+<v n="3"> Jego dzie³o jest chwalebne i wspania³e, a jego sprawiedliwoœæ trwa na wieki. </v>
+<v n="4"> Pamiêtnymi uczyni³ swe cuda; mi³osierny i litoœciwy jest PAN. </v>
+<v n="5"> Da³ pokarm tym, którzy siê go boj¹, pamiêta wiecznie o swoim przymierzu. </v>
+<v n="6"> Okaza³ swemu ludowi potêgê swoich dzie³, daj¹c mu dziedzictwo pogan. </v>
+<v n="7"> Dzie³a r¹k jego to prawda i s¹d, niezmienne s¹ wszystkie jego przykazania; </v>
+<v n="8"> Ustalone na wieki wieków, ustanowione w prawdzie i prawoœci. </v>
+<v n="9"> Zes³a³ swemu ludowi odkupienie, ustanowi³ na wieki swoje przymierze; jego imiê jest œwiête i straszne. </v>
+<v n="10"> BojaŸñ PANA jest pocz¹tkiem m¹droœci; prawdziwego rozumu nabywaj¹ wszyscy, którzy wype³niaj¹ jego przykazania; jego chwa³a trwa na wieki. </v>
+</c>

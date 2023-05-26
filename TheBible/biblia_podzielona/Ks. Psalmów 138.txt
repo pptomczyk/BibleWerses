@@ -1,0 +1,9 @@
+<v n="1"> Psalm Dawida. Bêdê ciê wys³awia³, PANIE, z ca³ego mego serca; bêdê ci œpiewa³ wobec bogów. </v>
+<v n="2"> Oddam ci pok³on ku twej œwiêtej œwi¹tyni i bêdê wys³awia³ twoje imiê za mi³osierdzie twoje i prawdê; bo wywy¿szy³eœ twoje imiê i s³owo ponad wszystko. </v>
+<v n="3"> W dniu, gdy ciê wzywa³em, wys³ucha³eœ mnie i moc¹ posili³eœ moj¹ duszê. </v>
+<v n="4"> Wszyscy królowie bêd¹ ciê wys³awiali, PANIE, gdy us³ysz¹ s³owa twoich ust. </v>
+<v n="5"> I bêd¹ œpiewali o drogach PANA, ¿e wielka jest chwa³a PANA. </v>
+<v n="6"> A choæ wywy¿szony jest PAN, jednak ma wzgl¹d na pokornego, a wynios³ego poznaje z daleka. </v>
+<v n="7"> Choæbym chodzi³ poœród utrapienia, o¿ywisz mnie; wyci¹gniesz swoj¹ rêkê przeciw gniewowi moich nieprzyjació³, a twoja prawica mnie wybawi. </v>
+<v n="8"> PAN dokona wszystkiego za mnie. PANIE, twoje mi³osierdzie trwa na wieki; nie opuszczaj dzie³ twoich r¹k. </v>
+</c>

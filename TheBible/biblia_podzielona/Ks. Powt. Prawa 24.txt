@@ -1,0 +1,23 @@
+<v n="1"> Jeœli mê¿czyzna poœlubi kobietê i zostanie jej mê¿em, a potem zdarzy siê, ¿e nie znajdzie ona upodobania w jego oczach, gdy¿ znalaz³ u niej coœ nieprzyzwoitego, wtedy wypisze jej list rozwodowy, wrêczy go jej i odprawi j¹ ze swego domu. </v>
+<v n="2"> A gdy ona opuœci jego dom, mo¿e wyjœæ za m¹¿ za innego. </v>
+<v n="3"> A jeœli drugi m¹¿ j¹ znienawidzi, wypisze jej list rozwodowy, wrêczy go jej i odprawi j¹ ze swego domu, albo jeœli umrze ten drugi m¹¿, który poj¹³ j¹ za ¿onê; </v>
+<v n="4"> To ten pierwszy m¹¿, który j¹ odprawi³, nie bêdzie móg³ powtórnie poj¹æ jej za ¿onê, gdy¿ jest ona splugawiona; to bowiem jest obrzydliwoœci¹ przed PANEM. Nie dopuszczaj do pope³nienia takiego grzechu w ziemi, któr¹ PAN, twój Bóg, daje ci w dziedzictwo. </v>
+<v n="5"> Mê¿czyzna, który niedawno siê o¿eni³, nie pójdzie na wojnê ani nie bêdzie obci¹¿ony ¿adnym obowi¹zkiem pracy. Bêdzie wolny w swym domu przez jeden rok i bêdzie cieszyæ siê swoj¹ ¿on¹, któr¹ poj¹³. </v>
+<v n="6"> Nikt nie weŸmie w zastaw kamienia m³yñskiego górnego ani dolnego, gdy¿ to bra³by jakby jego ¿ycie w zastaw. </v>
+<v n="7"> Jeœli znajdzie siê cz³owiek, który porwa³ kogoœ ze swych braci, z synów Izraela, i handluje nim lub go sprzeda³, to ten z³odziej poniesie œmieræ; tak usuniesz z³o spoœród siebie. </v>
+<v n="8"> Uwa¿aj na plagê tr¹du, aby pilnie przestrzegaæ i czyniæ wszystko, czego was ucz¹ kap³ani Lewici. Dopilnujcie wype³nienia tego, co im nakaza³em. </v>
+<v n="9"> Pamiêtaj o tym, co PAN, twój Bóg, uczyni³ Miriam w drodze, gdy wyszliœcie z Egiptu. </v>
+<v n="10"> Gdy coœ po¿yczysz swemu bliŸniemu, nie wchodŸ do jego domu, aby wzi¹æ od niego zastaw. </v>
+<v n="11"> Bêdziesz sta³ na dworze, a cz³owiek, któremu po¿yczy³eœ, wyniesie do ciebie zastaw przed dom. </v>
+<v n="12"> A jeœli ten cz³owiek jest ubogi, nie po³o¿ysz siê spaæ z jego zastawem. </v>
+<v n="13"> Koniecznie zwrócisz mu zastaw o zachodzie s³oñca, ¿eby móg³ spaæ w swojej odzie¿y i b³ogos³awiæ ciê. To zostanie ci poczytane za sprawiedliwoœæ przed PANEM, twoim Bogiem. </v>
+<v n="14"> Nie wyrz¹dzisz krzywdy ubogiemu i nêdznemu najemnikowi spoœród swoich braci lub obcych, którzy s¹ w twojej ziemi, w obrêbie twoich bram. </v>
+<v n="15"> Tego samego dnia dasz mu jego zap³atê, przed zachodem s³oñca. Jest bowiem ubogi i z tego siê ¿ywi; by nie wo³a³ do PANA przeciwko tobie, a to obci¹¿y³o ciê grzechem. </v>
+<v n="16"> Ojcowie nie ponios¹ œmierci za dzieci ani dzieci nie ponios¹ œmierci za ojców. Ka¿dy za swój grzech poniesie œmieræ. </v>
+<v n="17"> Nie naginaj s¹du obcego ani sieroty i nie bierz w zastaw odzie¿y wdowy; </v>
+<v n="18"> Ale pamiêtaj, ¿e by³eœ niewolnikiem w Egipcie i ¿e PAN, twój Bóg, wybawi³ ciê stamt¹d. Dlatego nakazujê ci, abyœ to czyni³. </v>
+<v n="19"> Gdy bêdziesz ¿¹³ zbo¿e na swoim polu i zapomnisz snopka na polu, to nie wracaj, aby go wzi¹æ. Bêdzie to dla obcego, sieroty i wdowy, aby ci b³ogos³awi³ PAN, twój Bóg, w ka¿dym dziele twoich r¹k. </v>
+<v n="20"> Gdy bêdziesz otrz¹sa³ swoje drzewo oliwne, nie przegl¹daj drugi raz ga³¹zek. Bêdzie to dla obcego, sieroty i wdowy. </v>
+<v n="21"> Gdy bêdziesz zbiera³ winogrona ze swojej winnicy, nie zbieraj pozosta³ych gron. Bêdzie to dla obcego, sieroty i wdowy. </v>
+<v n="22"> I pamiêtaj, ¿e by³eœ niewolnikiem w ziemi Egiptu. Dlatego nakazujê ci, abyœ to czyni³. </v>
+</c>

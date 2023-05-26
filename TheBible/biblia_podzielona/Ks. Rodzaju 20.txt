@@ -1,0 +1,19 @@
+<v n="1"> Potem Abraham wyruszy³ stamt¹d do ziemi po³udniowej i zamieszka³ miêdzy Kadesz a Szur, i by³ przybyszem w Gerarze. </v>
+<v n="2"> Tam Abraham powiedzia³ o swej ¿onie Sarze: Ona jest moj¹ siostr¹. Dlatego Abimelek, król Geraru, pos³a³ po Sarê i wzi¹³ j¹. </v>
+<v n="3"> Lecz Bóg przyszed³ do Abimeleka we œnie w nocy i powiedzia³ mu: Umrzesz z powodu tej kobiety, któr¹ wzi¹³eœ, bo ona ma mê¿a. </v>
+<v n="4"> Ale Abimelek jeszcze nie zbli¿y³ siê do niej i powiedzia³: Panie, czy zabijesz te¿ lud sprawiedliwy? </v>
+<v n="5"> Czy on sam nie mówi³ mi: Ona jest moj¹ siostr¹? I czy ona równie¿ nie mówi³a: On jest moim bratem? Uczyni³em to w prostocie mego serca i z czystymi rêkami. </v>
+<v n="6"> Wtedy Bóg powiedzia³ mu we œnie: Wiem, ¿e uczyni³eœ to w prostocie swego serca. Dlatego powstrzyma³em ciê, abyœ nie zgrzeszy³ przeciwko mnie, i nie dopuœci³em, abyœ jej dotkn¹³. </v>
+<v n="7"> Teraz wiêc zwróæ ¿onê mê¿owi, bo on jest prorokiem i bêdzie siê modli³ za ciebie, a bêdziesz ¿y³. Jeœli jej nie zwrócisz, wiedz, ¿e na pewno umrzesz, ty i wszystko, co jest twoje. </v>
+<v n="8"> Abimelek wsta³ zatem wczeœnie rano, zwo³a³ wszystkie swoje s³ugi i do ich uszu opowiedzia³ wszystko. Gdy ci mê¿czyŸni to us³yszeli, bardzo siê przestraszyli. </v>
+<v n="9"> Potem Abimelek wezwa³ Abrahama i powiedzia³ mu: Co nam uczyni³eœ? W czym zgrzeszy³em przeciwko tobie, ¿e sprowadzi³eœ na mnie i na moje królestwo tak wielki grzech? Post¹pi³eœ ze mn¹ tak, jak nie nale¿y postêpowaæ. </v>
+<v n="10"> Abimelek zapyta³ jeszcze Abrahama: Co widzia³eœ, ¿e tak post¹pi³eœ? </v>
+<v n="11"> Abraham odpowiedzia³: Bo myœla³em – na pewno nie ma w tym miejscu bojaŸni Bo¿ej i zabij¹ mnie z powodu mojej ¿ony. </v>
+<v n="12"> Zreszt¹ ona naprawdê jest moj¹ siostr¹, córk¹ mego ojca, choæ nie córk¹ mojej matki. I zosta³a moj¹ ¿on¹. </v>
+<v n="13"> Gdy wiêc Bóg wyprawi³ mnie na wêdrówkê z domu mego ojca, powiedzia³em do niej: Oto przys³uga, jak¹ mi wyœwiadczysz – w ka¿dym miejscu, do którego przyjdziemy, mów o mnie: To jest mój brat. </v>
+<v n="14"> Wtedy Abimelek wzi¹³ owce i wo³y oraz s³u¿¹cych i s³u¿¹ce i da³ Abrahamowi, i zwróci³ mu jego ¿onê Sarê. </v>
+<v n="15"> I Abimelek powiedzia³: Oto moja ziemia jest przed tob¹. Zamieszkaj, gdzie ci siê podoba. </v>
+<v n="16"> A do Sary powiedzia³: Da³em twemu bratu tysi¹c srebrników. Oto on jest zas³on¹ twoich oczu u wszystkich, którzy s¹ z tob¹, i u wszystkich innych. O tym Sara zosta³a pouczona. </v>
+<v n="17"> Wtedy Abraham modli³ siê do Boga i Bóg uzdrowi³ Abimeleka, a tak¿e jego ¿onê i jego s³u¿¹ce, i one rodzi³y. </v>
+<v n="18"> PAN bowiem zamkn¹³ wszystkie ³ona domu Abimeleka z powodu Sary, ¿ony Abrahama. </v>
+</c>

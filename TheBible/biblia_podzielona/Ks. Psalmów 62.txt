@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi chóru, dla Jedutuna. Psalm Dawida. Tylko w Bogu spoczywa moja dusza, od niego pochodzi moje zbawienie. </v>
+<v n="2"> Tylko on jest moj¹ ska³¹ i zbawieniem, moj¹ twierdz¹; nie zachwiejê siê za bardzo. </v>
+<v n="3"> Jak d³ugo bêdziecie knuæ z³o przeciwko cz³owiekowi? Wy wszyscy bêdziecie zabici, bêdziecie jak pochylona œciana i jak wal¹cy siê mur. </v>
+<v n="4"> Oni tylko naradzaj¹ siê, jak go str¹ciæ z dostojeñstwa; maj¹ upodobanie w k³amstwie, ustami swymi b³ogos³awi¹, ale w sercu z³orzecz¹. Sela. </v>
+<v n="5"> Tylko w Bogu spocznij, moja duszo, bo od niego pochodzi moja nadzieja. </v>
+<v n="6"> On jedynie jest moj¹ ska³¹ i zbawieniem, moj¹ twierdz¹; nie zachwiejê siê. </v>
+<v n="7"> W Bogu moje wybawienie i moja chwa³a; ska³a mojej mocy, moja ucieczka jest w Bogu. </v>
+<v n="8"> Ufajcie mu w ka¿dym czasie, o narody, wylewajcie przed nim wasze serca; Bóg jest nasz¹ ucieczk¹. Sela. </v>
+<v n="9"> Doprawdy synowie ludzcy s¹ marnoœci¹, synowie mocarzy – zawodni; po³o¿eni na wagê, wszyscy razem s¹ l¿ejsi ni¿ marnoœæ. </v>
+<v n="10"> Nie pok³adajcie ufnoœci w ucisku ani nie ³udŸcie siê grabie¿¹; jeœli przybêdzie wam bogactw, nie przywi¹zujcie do nich serca. </v>
+<v n="11"> Bóg raz przemówi³, dwa razy to s³ysza³em, ¿e moc nale¿y do Boga; </v>
+<v n="12"> I do ciebie, Panie, nale¿y mi³osierdzie, bo ty oddajesz ka¿demu wed³ug jego uczynków. </v>
+</c>

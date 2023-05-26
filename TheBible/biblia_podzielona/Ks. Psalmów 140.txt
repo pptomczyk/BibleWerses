@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. Wybaw mnie, PANIE, od z³ego cz³owieka; strze¿ mnie od okrutnika; </v>
+<v n="2"> Od tych, którzy knuj¹ w sercu z³e rzeczy, ka¿dego dnia zbieraj¹ siê na wojnê. </v>
+<v n="3"> Wyostrzaj¹ swe jêzyki jak wê¿e, jad ¿mii pod ich wargami. Sela. </v>
+<v n="4"> Zachowaj mnie, PANIE, od r¹k niegodziwego, strze¿ mnie od okrutnika; od tych, którzy postanowili zwaliæ mnie z nóg. </v>
+<v n="5"> Pyszni zastawili na mnie sid³a i przygotowali powrozy; rozci¹gnêli sieci przy œcie¿ce; zastawili na mnie pu³apkê. Sela. </v>
+<v n="6"> Powiedzia³em PANU: Ty jesteœ moim Bogiem; wys³uchaj, PANIE, g³osu moich b³agañ. </v>
+<v n="7"> Panie BO¯E, mocy mego zbawienia, który os³aniasz moj¹ g³owê w dniu bitwy; </v>
+<v n="8"> Nie spe³niaj, PANIE, pragnieñ niegodziwego; nie wspomagaj jego z³ych zamys³ów, aby siê nie podniós³. Sela. </v>
+<v n="9"> Niech nieprawoœæ ich w³asnych warg okryje wodza tych, którzy mnie otoczyli. </v>
+<v n="10"> Niech na nich spadn¹ roz¿arzone wêgle; niech bêd¹ wrzuceni do ognia i do g³êbokich do³ów, by ju¿ nie powstali. </v>
+<v n="11"> Niech oszczerca nie bêdzie utwierdzony na ziemi, a cz³owiek okrutny upadnie przygnieciony z³em. </v>
+<v n="12"> Wiem, ¿e PAN ujmie siê za strapionym i pomœci krzywdê nêdzarzy. </v>
+<v n="13"> Zaprawdê sprawiedliwi bêd¹ wys³awiaæ twoje imiê, a prawi bêd¹ mieszkaæ przed twoim obliczem. </v>
+</c>

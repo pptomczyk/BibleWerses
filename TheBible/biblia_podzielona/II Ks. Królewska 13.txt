@@ -1,0 +1,26 @@
+<v n="1"> W dwudziestym trzecim roku Joasza, syna Achazjasza, króla Judy, Jehoachaz, syn Jehu, zacz¹³ królowaæ nad Izraelem w Samarii i królowa³ siedemnaœcie lat. </v>
+<v n="2"> A czyni³ to, co z³e w oczach PANA, naœladuj¹c grzechy Jeroboama, syna Nebata, który przywiód³ Izraela do grzechu, i nie odst¹pi³ od nich. </v>
+<v n="3"> I zapali³ siê gniew PANA przeciw Izraelowi, i wyda³ go w rêkê Chazaela, króla Syrii, i w rêkê Ben-Hadada, syna Chazaela, po wszystkie ich dni. </v>
+<v n="4"> Ale gdy Jehoachaz b³aga³ PANA, PAN go wys³ucha³. Widzia³ bowiem ucisk Izraela drêczonego przez króla Syrii. </v>
+<v n="5"> I PAN da³ Izraelowi wybawcê, tak ¿e wyszli spod rêki Syryjczyków, i synowie Izraela mieszkali w swoich namiotach jak dawniej. </v>
+<v n="6"> Jednak¿e nie odst¹pili od grzechów domu Jeroboama, który przywiód³ Izraela do grzechu, ale chodzili w nich. A do tego jeszcze w Samarii zosta³ gaj. </v>
+<v n="7"> I Jehoachazowi nie pozosta³o wiêcej wojska jak tylko piêædziesiêciu jeŸdŸców, dziesiêæ rydwanów i dziesiêæ tysiêcy pieszych, gdy¿ król Syrii wytraci³ ich i star³ w proch. </v>
+<v n="8"> A pozosta³e dzieje Jehoachaza i wszystko, co czyni³, oraz jego potêga, czy nie s¹ zapisane w kronikach królów Izraela? </v>
+<v n="9"> I Jehoachaz zasn¹³ ze swymi ojcami, i pogrzebano go w Samarii, a jego syn Joasz królowa³ w jego miejsce. </v>
+<v n="10"> W trzydziestym siódmym roku Joasza, króla Judy, Jehoasz, syn Jehoachaza, zacz¹³ królowaæ nad Izraelem w Samarii i królowa³ szesnaœcie lat; </v>
+<v n="11"> I czyni³ to, co z³e w oczach PANA, nie odstêpuj¹c od ¿adnych grzechów Jeroboama, syna Nebata, który przywiód³ Izraela do grzechu – ale chodz¹c w nich. </v>
+<v n="12"> A pozosta³e dzieje Joasza i wszystko, co czyni³, oraz jego potêga – to, jak walczy³ z Amazjaszem, królem Judy, czy nie s¹ zapisane w kronikach królów Izraela? </v>
+<v n="13"> I Joasz zasn¹³ ze swymi ojcami, a Jeroboam zasiad³ na jego tronie. I Joasz zosta³ pogrzebany w Samarii razem z królami Izraela. </v>
+<v n="14"> A Elizeusz zapad³ na ciê¿k¹ chorobê, na któr¹ mia³ umrzeæ. Przyszed³ do niego Joasz, król Izraela, i p³aka³ nad nim, mówi¹c: Mój ojcze, mój ojcze! Rydwanie Izraela i jego jeŸdŸcze! </v>
+<v n="15"> Wtedy Elizeusz powiedzia³ mu: WeŸ ³uk i strza³y. Wzi¹³ wiêc ³uk i strza³y. </v>
+<v n="16"> Potem powiedzia³ do króla Izraela: WeŸ ³uk w rêkê. I wzi¹³ go w rêkê. Elizeusz zaœ po³o¿y³ swoje rêce na rêce króla. </v>
+<v n="17"> I powiedzia³: Otwórz okno na wschód. A gdy je otworzy³, Elizeusz poleci³: Strzelaj! I strzeli³, a on powiedzia³: Strza³a wybawienia PANA i strza³a wybawienia od Syryjczyków. Pobijesz bowiem Syryjczyków w Afek doszczêtnie. </v>
+<v n="18"> Nastêpnie powiedzia³: WeŸ strza³y! I wzi¹³. Wtedy rzek³ do króla Izraela: Uderz w ziemiê! I uderzy³ trzy razy, i zaprzesta³. </v>
+<v n="19"> Wtedy m¹¿ Bo¿y rozgniewa³ siê na niego i powiedzia³: Trzeba by³o uderzyæ piêæ lub szeœæ razy. Wtedy byœ pokona³ Syriê doszczêtnie. Lecz teraz pokonasz Syriê tylko trzy razy. </v>
+<v n="20"> Potem Elizeusz umar³ i pogrzebali go. A z nastaniem roku moabskie zgraje napad³y na ziemiê. </v>
+<v n="21"> I zdarzy³o siê, ¿e gdy grzebano pewnego cz³owieka, zobaczyli tak¹ zgrajê. Wrzucili wiêc tego cz³owieka do grobu Elizeusza. A gdy ten cz³owiek zosta³ tam wrzucony, dotkn¹³ koœci Elizeusza, o¿y³ i wsta³ na nogi. </v>
+<v n="22"> Chazael zaœ, król Syrii, uciska³ lud Izraela po wszystkie dni Jehoachaza. </v>
+<v n="23"> PAN jednak zlitowa³ siê nad nimi, by³ dla nich mi³osierny i zwróci³ siê ku nim ze wzglêdu na swoje przymierze z Abrahamem, Izaakiem i Jakubem. Nie chcia³ ich wytraciæ ani nie odrzuci³ ich sprzed swego oblicza a¿ dot¹d. </v>
+<v n="24"> I Chazael, król Syrii, umar³, a jego syn Ben-Hadad królowa³ w jego miejsce. </v>
+<v n="25"> Jehoasz, syn Jehoachaza, znowu odebra³ z rêki Ben-Hadada, syna Chazaela, te miasta, które podczas wojny ten zabra³ z rêki jego ojca Jehoachaza. Joasz pokona³ go trzy razy i odzyska³ miasta Izraela. </v>
+</c>

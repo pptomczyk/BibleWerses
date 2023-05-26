@@ -1,0 +1,20 @@
+<v n="1"> Gdyby ktoœ zgrzeszy³ przez to, ¿e us³ysza³ przekleñstwo i by³ tego œwiadkiem lub widzia³ czy dowiedzia³ siê o tym, a tego nie oznajmi³, bêdzie obci¹¿ony nieprawoœci¹; </v>
+<v n="2"> Albo jeœli ktoœ dotkn¹³ czegoœ nieczystego, czy to padliny nieczystego zwierzêcia, czy padliny nieczystego bydlêcia, czy padliny nieczystego zwierzêcia pe³zaj¹cego, a nie jest tego œwiadomy, i tak bêdzie nieczysty i winny; </v>
+<v n="3"> Lub jeœli ktoœ dotkn¹³ jakiejkolwiek nieczystoœci ludzkiej, przez któr¹ stanie siê nieczysty, a nie jest tego œwiadomy, a potem siê o tym dowie, bêdzie winny; </v>
+<v n="4"> Albo jeœli ktoœ przysi¹g³, mówi¹c wargami, ¿e Ÿle lub dobrze uczyni w czymkolwiek, co ów cz³owiek powie w przysiêdze, a nie jest tego œwiadomy, lecz potem sobie uœwiadomi, bêdzie winny w jednej z tych rzeczy. </v>
+<v n="5"> Jeœli wiêc jest winny jednej z tych rzeczy, ma wyznaæ swój grzech; </v>
+<v n="6"> I przyprowadzi PANU ofiarê za przewinienie z powodu swego grzechu, który pope³ni³: samicê z trzody, owcê albo kozê na ofiarê za grzech, a kap³an dokona za niego przeb³agania za jego grzech. </v>
+<v n="7"> A jeœli nie staæ go na owcê, niech przyniesie PANU jako ofiarê za swoje przewinienie, które pope³ni³, dwie synogarlice lub dwa m³ode go³êbie: jednego na ofiarê za grzech, a drugiego na ca³opalenie; </v>
+<v n="8"> I przyniesie je do kap³ana, a on najpierw z³o¿y to, co ma byæ na ofiarê za grzech, i ukrêci jego g³owê przy szyi, ale jej nie oddzieli. </v>
+<v n="9"> I pokropi krwi¹ tej ofiary za grzech œcianê o³tarza, a resztê krwi wyciœnie u podstawy o³tarza. To jest ofiara za grzech. </v>
+<v n="10"> Drugiego zaœ z³o¿y jako ca³opalenie wed³ug przepisu. W ten sposób kap³an dokona za niego przeb³agania za jego grzech, który pope³ni³, i bêdzie mu przebaczony. </v>
+<v n="11"> A jeœli nie staæ go na dwie synogarlice lub dwa m³ode go³êbie, niech ten, który zgrzeszy³, przyniesie na swoj¹ ofiarê dziesi¹t¹ czêœæ efy m¹ki pszennej na ofiarê za swój grzech. Nie naleje jednak na ni¹ oliwy ani nie po³o¿y na ni¹ kadzid³a, gdy¿ jest to ofiara za grzech. </v>
+<v n="12"> Przyniesie j¹ do kap³ana, a kap³an nabierze z niej pe³n¹ garœæ jako pami¹tkê i spali j¹ na o³tarzu na ofiarach ca³opalnych dla PANA. To jest ofiara za grzech. </v>
+<v n="13"> I kap³an dokona za niego przeb³agania za jego grzech, który pope³ni³ w jednej z tych spraw, i bêdzie mu przebaczony. Reszta zaœ bêdzie dla kap³ana, jak przy ofierze pokarmowej. </v>
+<v n="14"> PAN powiedzia³ jeszcze do Moj¿esza: </v>
+<v n="15"> Jeœli ktoœ pope³ni przewinienie i zgrzeszy nieœwiadomie przy rzeczach poœwiêconych PANU, to przyprowadzi PANU jako ofiarê za swoje przewinienie barana bez skazy z trzody oraz twoje oszacowanie w syklach srebra wed³ug sykla œwi¹tynnego na ofiarê za przewinienie. </v>
+<v n="16"> I odda kap³anowi za to, czym przewini³ przy rzeczach poœwiêconych, i do³o¿y do tego jedn¹ pi¹t¹. I kap³an dokona za niego przeb³agania baranem, bêd¹cym ofiar¹ za przewinienie, a bêdzie mu przebaczone. </v>
+<v n="17"> Jeœli ktoœ zgrzeszy i przekroczy nieœwiadomie którekolwiek z przykazañ PANA, czyni¹c to, czego nie wolno, stanie siê winny i bêdzie obci¹¿ony nieprawoœci¹. </v>
+<v n="18"> Przyprowadzi do kap³ana barana z trzody bez skazy wed³ug twojego oszacowania na ofiarê za przewinienie. A kap³an dokona za niego przeb³agania za jego uchybienie, którego nieœwiadomie siê dopuœci³, i bêdzie mu przebaczone. </v>
+<v n="19"> Jest to ofiara za przewinienie, gdy¿ w istocie zawini³ przeciwko PANU. </v>
+</c>

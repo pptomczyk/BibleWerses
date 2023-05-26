@@ -1,0 +1,19 @@
+<v n="1"> W dziewi¹tym roku Sedekiasza, króla Judy, dziesi¹tego miesi¹ca, nadci¹gn¹³ Nabuchodonozor, król Babilonu, z ca³ym swoim wojskiem do Jerozolimy i obleg³ j¹. </v>
+<v n="2"> A w jedenastym roku Sedekiasza, czwartego miesi¹ca, dziewi¹tego dnia tego miesi¹ca, zrobiono wy³om w murach miasta. </v>
+<v n="3"> I weszli do niego wszyscy ksi¹¿êta króla Babilonu, i zasiedli w Bramie Œrodkowej: Nergalsarezer, Samgarnebo, Sarsechim, Rabsaris, Nergalsarezer, Rabmag i pozostali ksi¹¿êta króla Babilonu. </v>
+<v n="4"> Gdy zobaczy³ ich Sedekiasz, król Judy, i wszyscy wojownicy, uciekli, wychodz¹c noc¹ z miasta drog¹ ogrodu królewskiego, przez bramê miêdzy dwoma murami. I król szed³ drog¹ w stronê równiny. </v>
+<v n="5"> Lecz wojsko Chaldejczyków œciga³o ich i doœcignê³o Sedekiasza na równinach Jerycha; pojmali go i przyprowadzili do Nabuchodonozora, króla Babilonu, do Ribla, w ziemi Chamat, gdzie ten wyda³ na niego wyrok. </v>
+<v n="6"> Król Babilonu zabi³ synów Sedekiasza w Ribla na jego oczach. Król Babilonu zabi³ równie¿ wszystkich dostojników Judy. </v>
+<v n="7"> Ale Sedekiaszowi wy³upi³ oczy i zaku³ go w ³añcuchy, aby go uprowadziæ do Babilonu. </v>
+<v n="8"> Chaldejczycy spalili ogniem dom króla i domy ludu, a mury Jerozolimy zburzyli. </v>
+<v n="9"> Ale resztê ludu, który pozosta³ w mieœcie, i zbiegów, którzy przeszli do niego, oraz pozosta³ych ludzi Nebuzaradan, dowódca gwardii, uprowadzi³ do niewoli do Babilonu. </v>
+<v n="10"> Natomiast ubogich spoœród ludu, którzy nic nie mieli, Nebuzaradan, dowódca gwardii, pozostawi³ w ziemi Judy i da³ im równoczeœnie winnice i pola. </v>
+<v n="11"> A co do Jeremiasza Nabuchodonozor, król Babilonu, nakaza³ Nebuzaradanowi, dowódcy gwardii: </v>
+<v n="12"> WeŸ go, zajmij siê nim i nie czyñ mu nic z³ego, lecz post¹p z nim tak, jak on ci powie. </v>
+<v n="13"> Pos³ali wiêc Nebuzaradan, dowódca gwardii, oraz Nebuszasban, Rabsaris, Nergalsarezer, Rabmag i wszyscy dostojnicy króla Babilonu po niego; </v>
+<v n="14"> Oni wszyscy pos³ali po Jeremiasza i zabrali go z dziedziñca wiêzienia, i przekazali Gedaliaszowi, synowi Achikama, syna Szafana, aby go zaprowadzi³ do domu. Zamieszka³ wiêc poœród ludu. </v>
+<v n="15"> I s³owo PANA dosz³o do Jeremiasza, gdy ten jeszcze by³ zamkniêty na dziedziñcu wiêzienia, mówi¹ce: </v>
+<v n="16"> IdŸ i powiedz Ebedmelekowi, Etiopczykowi: Tak mówi PAN zastêpów, Bóg Izraela: Oto spe³niê swoje s³owa wypowiedziane nad tym miastem ku z³emu, a nie ku dobremu, i wype³ni¹ siê w owym dniu na twoich oczach. </v>
+<v n="17"> Ale ciebie wybawiê w tym dniu, mówi PAN, i nie bêdziesz wydany w rêce mê¿czyzn, których siê boisz. </v>
+<v n="18"> Na pewno bowiem ciê wybawiê i nie padniesz od miecza, ale twoje ¿ycie bêdzie dla ciebie jak zdobycz, gdy¿ z³o¿y³eœ ufnoœæ we mnie, mówi PAN. </v>
+</c>

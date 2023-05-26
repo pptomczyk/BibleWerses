@@ -1,0 +1,11 @@
+<v n="1"> Król i Haman przybyli wiêc na ucztê do królowej Estery. </v>
+<v n="2"> I drugiego dnia, gdy siê napi³ wina, król znowu zapyta³ Esterê: Jaka jest twoja proœba, królowo Estero, a bêdzie ci dane. Jakie jest twoje ¿yczenie? Choæbyœ prosi³a nawet o po³owê królestwa, tak siê stanie. </v>
+<v n="3"> Wtedy królowa Estera odpowiedzia³a: Jeœli znalaz³am ³askê w twoich oczach, o królu, i jeœli królowi siê spodoba, niech bêdzie mi darowane moje ¿ycie na moj¹ proœbê i mój naród na moje ¿yczenie. </v>
+<v n="4"> Zostaliœmy bowiem sprzedani, ja i mój lud, aby nas zg³adziæ, wymordowaæ i wytraciæ. Gdybyœmy zostali sprzedani jako niewolnicy i niewolnice, milcza³abym, chocia¿ wróg nigdy by nie móg³ wynagrodziæ tej szkody wyrz¹dzonej królowi. </v>
+<v n="5"> Wtedy król Aswerus odpowiedzia³ do królowej Estery: Któ¿ to jest i gdzie jest ten, którego serce jest tak nadête, aby oœmieli³ siê tak uczyniæ? </v>
+<v n="6"> Estera odpowiedzia³a: Tym przeciwnikiem i wrogiem jest niegodziwy Haman. I Haman zatrwo¿y³ siê przed królem i królow¹. </v>
+<v n="7"> Wówczas król wsta³ w gniewie, opuœci³ ucztê i poszed³ do ogrodu pa³acowego. Haman zaœ sta³, aby b³agaæ królow¹ Esterê o ¿ycie, gdy¿ widzia³, ¿e król postanowi³ jego zgubê. </v>
+<v n="8"> Potem król wróci³ z ogrodu pa³acowego do domu, gdzie siê odbywa³a uczta, a Haman upad³ na ³o¿e, na którym siedzia³a Estera. Wtedy król powiedzia³: Czy jeszcze chce gwa³ciæ królow¹ przy mnie w domu? A gdy te s³owa wysz³y z ust króla, natychmiast zakryto twarz Hamana. </v>
+<v n="9"> I Charbona, jeden z eunuchów, powiedzia³ do króla: Oto szubienica przygotowana przez Hamana dla Mardocheusza, który dba³ o dobro króla, stoi przy domu Hamana, wysoka na piêædziesi¹t ³okci. Król powiedzia³: Powieœcie go na niej. </v>
+<v n="10"> I powieszono Hamana na tej szubienicy, któr¹ przygotowa³ dla Mardocheusza. I tak gniew króla siê uspokoi³. </v>
+</c>

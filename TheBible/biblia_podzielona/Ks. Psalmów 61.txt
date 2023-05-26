@@ -1,0 +1,9 @@
+<v n="1"> Przewodnikowi chóru, na Neginot. Psalm Dawida. Wys³uchaj, Bo¿e, mojego wo³ania, miej wzgl¹d na moj¹ modlitwê. </v>
+<v n="2"> Z krañców ziemi wo³am do ciebie, gdy moje serce jest zatrwo¿one; wprowadŸ mnie na ska³ê, która jest wy¿sza ode mnie. </v>
+<v n="3"> Ty bowiem jesteœ moj¹ ucieczk¹ i wie¿¹ warown¹ przed wrogiem. </v>
+<v n="4"> Bêdê mieszka³ w twoim przybytku na wieki, chroni¹c siê pod os³on¹ twych skrzyde³. Sela. </v>
+<v n="5"> Bo ty, Bo¿e, wys³ucha³eœ moich œlubów; da³eœ dziedzictwo tym, którzy siê boj¹ twego imienia. </v>
+<v n="6"> Przed³u¿ysz dni króla, jego lata – z pokolenia na pokolenie. </v>
+<v n="7"> Bêdzie trwa³ na wieki przed Bogiem; przygotuj mi³osierdzie i prawdê, niech go strzeg¹. </v>
+<v n="8"> Tak bêdê œpiewa³ twemu imieniu na wieki i bêdê spe³nia³ moje œluby ka¿dego dnia. </v>
+</c>

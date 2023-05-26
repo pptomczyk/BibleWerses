@@ -1,0 +1,9 @@
+<v n="1"> Pieœñ stopni. Z g³êbokoœci wo³am do ciebie, PANIE. </v>
+<v n="2"> Panie, wys³uchaj mego g³osu. Nak³oñ swych uszu na g³os mojego b³agania. </v>
+<v n="3"> PANIE, jeœli bêdziesz zwa¿a³ na nieprawoœci, o Panie, któ¿ siê ostoi? </v>
+<v n="4"> Ale u ciebie jest przebaczenie, aby siê ciebie bano. </v>
+<v n="5"> Oczekujê PANA, moja dusza oczekuje; i w jego s³owie pok³adam nadziejê. </v>
+<v n="6"> Moja dusza oczekuje Pana bardziej ni¿ stra¿nicy œwitu, bardziej ni¿ ci, którzy strzeg¹ do poranka. </v>
+<v n="7"> Niech Izrael oczekuje PANA; u PANA bowiem jest mi³osierdzie i u niego obfite odkupienie. </v>
+<v n="8"> On sam odkupi Izraela ze wszystkich jego nieprawoœci. </v>
+</c>

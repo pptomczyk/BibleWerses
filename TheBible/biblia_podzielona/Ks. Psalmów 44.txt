@@ -1,0 +1,27 @@
+<v n="1"> Przewodnikowi chóru. Psalm pouczaj¹cy dla synów Korego. Bo¿e, s³yszeliœmy na w³asne uszy, nasi ojcowie opowiadali nam o tym, czego dokona³eœ za ich dni, w czasach dawnych. </v>
+<v n="2"> Ty w³asn¹ rêk¹ wypêdzi³eœ pogan, a ich osadzi³eœ; wyniszczy³eœ narody, a ich rozprzestrzeni³eœ. </v>
+<v n="3"> Nie zdobyli bowiem ziemi swym mieczem ani ich nie wybawi³o w³asne ramiê, lecz twoja prawica i twoje ramiê, i œwiat³o twego oblicza, bo upodoba³eœ ich sobie. </v>
+<v n="4"> Ty jesteœ moim Królem, o Bo¿e; daj wybawienie Jakubowi. </v>
+<v n="5"> Dziêki tobie pokonamy naszych wrogów, w twoje imiê zdepczemy naszych przeciwników. </v>
+<v n="6"> Nie zaufam bowiem mojemu ³ukowi i nie wybawi mnie mój miecz; </v>
+<v n="7"> Lecz ty nas wybawi³eœ od naszych wrogów i zawstydzi³eœ tych, którzy nas nienawidz¹. </v>
+<v n="8"> Ka¿dego dnia chlubimy siê Bogiem, a twoje imiê bêdziemy s³awiæ na wieki. Sela. </v>
+<v n="9"> Teraz jednak odrzuci³eœ nas i zawstydzi³eœ, i nie wyruszasz z naszymi wojskami. </v>
+<v n="10"> Sprawi³eœ, ¿e cofnêliœmy siê przed wrogiem, a ci, którzy nas nienawidz¹, z³upili nas. </v>
+<v n="11"> Wyda³eœ nas na rzeŸ jak owce i rozproszy³eœ nas wœród pogan. </v>
+<v n="12"> Sprzeda³eœ swój lud za bezcen i nie zyska³eœ na jego sprzeda¿y. </v>
+<v n="13"> Wystawi³eœ nas na wzgardê naszym s¹siadom, na szyderstwo i poœmiewisko tym, którzy nas otaczaj¹. </v>
+<v n="14"> Uczyni³eœ nas tematem przys³owia wœród pogan, tak ¿e narody kiwaj¹ g³owami nad nami. </v>
+<v n="15"> Mój wstyd wci¹¿ jest przede mn¹, a hañba mi twarz okrywa; </v>
+<v n="16"> Na g³os tego, który gardzi i bluŸni, z powodu wroga i mœciciela. </v>
+<v n="17"> To wszystko nas spotka³o, a jednak nie zapomnieliœmy o tobie ani nie naruszyliœmy twojego przymierza. </v>
+<v n="18"> Nasze serce siê nie odwróci³o ani nasze kroki nie zboczy³y z twej œcie¿ki; </v>
+<v n="19"> Chocia¿ powali³eœ nas w miejscu smoków i okry³eœ nas cieniem œmierci. </v>
+<v n="20"> Gdybyœmy zapomnieli imienia naszego Boga i wyci¹gnêli rêce do obcego boga; </v>
+<v n="21"> Czy¿ Bóg by siê o tym nie dowiedzia³? Przecie¿ on zna tajniki serca. </v>
+<v n="22"> Lecz z powodu ciebie przez ca³y dzieñ nas zabijaj¹, uwa¿aj¹ nas za owce przeznaczone na rzeŸ. </v>
+<v n="23"> Ocknij siê; czemu œpisz, Panie? ObudŸ siê, nie odrzucaj nas na wieki. </v>
+<v n="24"> Czemu ukrywasz swoje oblicze i zapominasz o naszym utrapieniu i ucisku? </v>
+<v n="25"> Nasza dusza bowiem pogr¹¿y³a siê w prochu, nasz brzuch przylgn¹³ do ziemi. </v>
+<v n="26"> Powstañ nam na pomoc, odkup nas ze wzglêdu na twoje mi³osierdzie. </v>
+</c>

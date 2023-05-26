@@ -1,0 +1,23 @@
+<v n="1"> Weselcie siê w PANU, sprawiedliwi, bo prawym przystoi chwa³a. </v>
+<v n="2"> Wys³awiajcie PANA na harfie, œpiewajcie mu przy cytrze i z instrumentem o dziesiêciu strunach. </v>
+<v n="3"> Œpiewajcie mu now¹ pieœñ, piêknie i g³oœno mu grajcie. </v>
+<v n="4"> S³owo PANA bowiem jest prawe i wszystkie jego dzie³a s¹ dokonane w wiernoœci. </v>
+<v n="5"> On mi³uje sprawiedliwoœæ i s¹d, pe³na jest ziemia mi³osierdzia PANA. </v>
+<v n="6"> S³owem PANA zosta³y uczynione niebiosa i tchnieniem jego ust wszystkie ich zastêpy. </v>
+<v n="7"> On gromadzi wody morskie jak na stos i w skarbcach zbiera g³êbiny. </v>
+<v n="8"> Niech ca³a ziemia boi siê PANA, niech siê go lêkaj¹ wszyscy mieszkañcy œwiata. </v>
+<v n="9"> On bowiem przemówi³ i sta³o siê; on rozkaza³ i powsta³o. </v>
+<v n="10"> PAN udaremnia zamiary narodów, niweczy zamys³y ludów. </v>
+<v n="11"> Zamiar PANA trwa na wieki, myœli jego serca z pokolenia na pokolenie. </v>
+<v n="12"> B³ogos³awiony naród, którego Bogiem jest PAN; lud, który on wybra³ sobie na dziedzictwo. </v>
+<v n="13"> PAN patrzy z nieba, widzi wszystkich synów ludzkich. </v>
+<v n="14"> Z miejsca, w którym przebywa, spogl¹da na wszystkich mieszkañców ziemi. </v>
+<v n="15"> Ukszta³towa³ serce ka¿dego z nich, przygl¹da siê wszystkim ich czynom. </v>
+<v n="16"> Nie wybawi króla liczne wojsko ani nie ocali wojownika wielka si³a. </v>
+<v n="17"> Koñ jest zwodniczy w wybawieniu, nie ocali sw¹ wielk¹ si³¹. </v>
+<v n="18"> Oto oko PANA nad tymi, którzy siê go boj¹, nad tymi, którzy ufaj¹ jego mi³osierdziu; </v>
+<v n="19"> Aby ocaliæ od œmierci ich duszê i ¿ywiæ ich w czasie g³odu. </v>
+<v n="20"> Nasza dusza oczekuje PANA, on jest nasz¹ pomoc¹ i tarcz¹. </v>
+<v n="21"> W nim bowiem rozraduje siê nasze serce, bo ufamy jego œwiêtemu imieniu. </v>
+<v n="22"> Niech bêdzie nad nami twoje mi³osierdzie, PANIE, wed³ug pok³adanej w tobie nadziei. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> W siódmym roku Jehu zacz¹³ królowaæ Jehoasz i królowa³ czterdzieœci lat w Jerozolimie. Jego matka mia³a na imiê Sibia, by³a z Beer-Szeby. </v>
+<v n="2"> Jehoasz czyni³ to, co s³uszne w oczach PANA, przez wszystkie swoje dni, w których uczy³ go kap³an Jehojada. </v>
+<v n="3"> Wy¿yn jednak nie zniesiono i lud jeszcze sk³ada³ ofiary, i pali³ kadzid³o na tych wy¿ynach. </v>
+<v n="4"> I Jehoasz powiedzia³ do kap³anów: Wszystkie pieni¹dze z ofiar poœwiêconych, które przynoszone s¹ do domu PANA, pieni¹dze tych, którzy s¹ spisani, pieni¹dze ka¿dego wed³ug jego oszacowania i wszystkie pieni¹dze, które ktokolwiek dobrowolnie wnosi do domu PANA; </v>
+<v n="5"> Niech wezm¹ dla siebie kap³ani, ka¿dy od swego znajomego, i niech naprawi¹ szkody domu PANA, gdziekolwiek taka szkoda siê znajdzie. </v>
+<v n="6"> Lecz jeszcze w dwudziestym trzecim roku króla Jehoasza kap³ani nie naprawili szkód domu. </v>
+<v n="7"> Wtedy król Jehoasz wezwa³ kap³ana Jehojadê oraz pozosta³ych kap³anów i mówi³ do nich: Czemu nie naprawiacie szkód domu? Teraz wiêc nie bierzcie pieniêdzy od swoich znajomych, ale oddajcie je na naprawê szkód domu. </v>
+<v n="8"> I kap³ani zgodzili siê na to, aby nie braæ pieniêdzy od ludu, oraz na to, ¿e nie bêd¹ naprawiali szkód domu. </v>
+<v n="9"> Wtedy kap³an Jehojada wzi¹³ jedn¹ skrzyniê, zrobi³ otwór w jej wieku i postawi³ j¹ przy o³tarzu po prawej stronie, którêdy wchodzono do domu PANA. Kap³ani zaœ, którzy strzegli progu, wrzucali tam wszystkie pieni¹dze, które wnoszono do domu PANA. </v>
+<v n="10"> A gdy widzieli, ¿e w skrzyni by³o du¿o pieniêdzy, przychodzi³ pisarz króla i najwy¿szy kap³an, którzy liczyli i chowali pieni¹dze znajduj¹ce siê w domu PANA. </v>
+<v n="11"> I odwa¿one pieni¹dze dawali do r¹k kierowników robót, prze³o¿onych nad domem PANA. Ci zaœ wydawali je na cieœli i budowniczych, którzy naprawiali dom PANA; </v>
+<v n="12"> Na murarzy, na kamieniarzy, na kupno drewna i ciosanych kamieni do naprawy szkód w domu PANA i na wszelkie inne wydatki zwi¹zane z napraw¹ tego domu. </v>
+<v n="13"> Jednak¿e z pieniêdzy, które przynoszono do domu PANA, nie sporz¹dzono dla domu PANA srebrnych mis, no¿yc, czasz, tr¹b ani ¿adnych z³otych i srebrnych naczyñ; </v>
+<v n="14"> Lecz dawano je robotnikom, którzy naprawiali za nie dom PANA. </v>
+<v n="15"> I nie rozliczano ludzi, którym dawano pieni¹dze do rêki na op³acenie robotników, poniewa¿ postêpowali uczciwie. </v>
+<v n="16"> Lecz pieniêdzy z ofiar za wystêpek i pieniêdzy z ofiar za grzech nie wnoszono do domu PANA, lecz nale¿a³y do kap³anów. </v>
+<v n="17"> Wtedy Chazael, król Syrii, wyruszy³, aby walczyæ z Gat i zdoby³ je. Potem Chazael postanowi³ wyruszyæ przeciw Jerozolimie. </v>
+<v n="18"> Jehoasz, król Judy, wzi¹³ wiêc wszystkie rzeczy poœwiêcone, które poœwiêcili Jehoszafat, Joram i Achazjasz, jego ojcowie, królowie Judy, i to, co sam poœwiêci³, oraz ca³e z³oto, które znalaz³o siê w skarbcach domu PANA i domu króla, i pos³a³ to do Chazaela, króla Syrii. I ten wycofa³ siê z Jerozolimy. </v>
+<v n="19"> A pozosta³e dzieje Jehoasza i wszystko, co czyni³, czy nie s¹ zapisane w kronikach królów Judy? </v>
+<v n="20"> Potem jego s³udzy powstali i uknuli spisek przeciwko niemu, i zabili Joasza w domu na Millo, na drodze schodz¹cej do Silla; </v>
+<v n="21"> Jozachar, syn Szimeata, i Jozabad, syn Szomera, byli w³aœnie tymi s³ugami, którzy zabili go. A pogrzebali go z jego ojcami w mieœcie Dawida, a jego syn Amazjasz królowa³ w jego miejsce. </v>
+</c>

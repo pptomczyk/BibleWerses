@@ -1,0 +1,13 @@
+<v n="1"> I powiedzia³em: S³uchajcie, naczelnicy Jakuba i wodzowie domu Izraela! Czy wy nie powinniœcie znaæ s¹du? </v>
+<v n="2"> Wy, którzy nienawidzicie dobra, a kochacie z³o, którzy zdzieracie z ludu skórê i cia³o z jego koœci; </v>
+<v n="3"> Którzy jecie cia³o mojego ludu, skórê z niego zdzieracie, jego koœci ³amiecie i kroicie je na kawa³ki jak do garnca i jak miêso do kot³a. </v>
+<v n="4"> Wtedy bêd¹ wo³aæ do PANA, a nie wys³ucha ich, lecz zakryje swoje oblicze przed nimi w tym czasie, gdy¿ oni pope³niali z³e czyny. </v>
+<v n="5"> Tak mówi PAN o tych prorokach, którzy w b³¹d wprowadz¹ mój lud, którzy gryz¹ swoimi zêbami i g³osz¹ pokój, a temu, który nic im nie w³o¿y do ust, wypowiadaj¹ wojnê. </v>
+<v n="6"> Dlatego wasze widzenie zamienia siê w noc, a wasza wró¿ba – w ciemnoœæ; s³oñce zajdzie nad prorokami i dzieñ siê zaæmi nad nimi. </v>
+<v n="7"> Wtedy widz¹cy bêd¹ siê wstydziæ i wró¿biarze siê zarumieni¹. Oni wszyscy zakryj¹ swoje wargi, bo nie bêdzie ¿adnej odpowiedzi od Boga. </v>
+<v n="8"> Ale ja jestem nape³niony moc¹ Ducha PANA oraz s¹du i si³y, aby oznajmiæ Jakubowi jego wystêpki i Izraelowi jego grzech. </v>
+<v n="9"> S³uchajcie tego, naczelnicy domu Jakuba i wodzowie domu Izraela, którzy brzydzicie siê s¹dem i wypaczacie wszystko, co sprawiedliwe. </v>
+<v n="10"> Ka¿dy buduje Syjon krwi¹, a Jerozolimê nieprawoœci¹. </v>
+<v n="11"> Jej naczelnicy s¹dz¹ za dary, jego kap³ani ucz¹ za zap³atê i jego prorocy prorokuj¹ za pieni¹dze. Polegaj¹ jednak na PANU, mówi¹c: Czy PAN nie jest wœród nas? Nie spotka nas nic z³ego. </v>
+<v n="12"> Dlatego Syjon stanie siê dla was jak zaorane pole, Jerozolima zamieni siê w kupê gruzu, a góra domu – w zalesione wzgórze. </v>
+</c>

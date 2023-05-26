@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. PANIE, król cieszy siê z twojej mocy i bardzo siê raduje twoim zbawieniem. </v>
+<v n="2"> Spe³ni³eœ pragnienie jego serca i proœbie jego ust nie odmówi³eœ. Sela. </v>
+<v n="3"> Wyszed³eœ mu bowiem naprzeciw z hojnymi b³ogos³awieñstwami, koronê szczeroz³ot¹ w³o¿y³eœ mu na g³owê. </v>
+<v n="4"> Prosi³ ciê o ¿ycie i da³eœ mu je, d³ugie dni na wieki wieków. </v>
+<v n="5"> Wielka jest jego chwa³a dziêki twemu zbawieniu, okry³eœ go s³aw¹ i dostojeñstwem; </v>
+<v n="6"> Bo uczyni³eœ go b³ogos³awieñstwem na wieki, rozradowa³eœ go swoim obliczem. </v>
+<v n="7"> Król bowiem w PANU pok³ada nadziejê i nie zachwieje siê dziêki mi³osierdziu Najwy¿szego. </v>
+<v n="8"> Twoja rêka znajdzie wszystkich twoich wrogów; twoja prawica dosiêgnie wszystkich, którzy ciê nienawidz¹. </v>
+<v n="9"> Uczynisz ich jakby piecem ognistym w czasie twego gniewu; PAN w swojej zapalczywoœci poch³onie ich, a ogieñ ich strawi. </v>
+<v n="10"> Wytracisz z ziemi ich ród, a ich potomstwo spoœród synów ludzkich. </v>
+<v n="11"> Bo zamierzali z³o przeciwko tobie, uknuli spisek, którego nie mogli wykonaæ. </v>
+<v n="12"> Dlatego ich zmusisz do ucieczki, strza³y na twej ciêciwie wymierzysz w ich twarze. </v>
+<v n="13"> Powstañ, PANIE, w swojej mocy; bêdziemy œpiewaæ i wys³awiaæ tw¹ potêgê. </v>
+</c>

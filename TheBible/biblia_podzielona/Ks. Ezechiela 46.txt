@@ -1,0 +1,25 @@
+<v n="1"> Tak mówi Pan BÓG: Brama dziedziñca wewnêtrznego, która jest zwrócona ku wschodowi, bêdzie zamkniêta przez szeœæ dni roboczych. Ale w dniu szabatu bêdzie otwarta, tak¿e i w dniu nowiu bêdzie otwarta. </v>
+<v n="2"> I ksi¹¿ê wejdzie przez przedsionek bramy zewnêtrznej, i stanie przy odrzwiach tej bramy. Nastêpnie kap³ani z³o¿¹ jego ca³opalenie i ofiary pojednawcze, a on odda pok³on na progu bramy. Potem wyjdzie, lecz brama nie bêdzie zamkniêta a¿ do wieczora. </v>
+<v n="3"> Podobnie lud tej ziemi bêdzie oddawa³ pok³on przed PANEM u wejœcia tej bramy w dni szabatu i w czasie nowiu. </v>
+<v n="4"> A ca³opalenie, które ksi¹¿ê bêdzie ofiarowywa³ PANU w dniu szabatu, bêdzie siê sk³ada³o z szeœciu baranków bez skazy i jednego barana bez skazy. </v>
+<v n="5"> Ofiara z pokarmów z efy na barana, a na baranki ofiara z pokarmów bêdzie wed³ug woli jego rêki oraz hin oliwy na efê. </v>
+<v n="6"> A na dzieñ nowiu ma to byæ m³ody cielec bez skazy oraz szeœæ baranków i baran bez skazy. </v>
+<v n="7"> Na ofiarê z pokarmów ma ofiarowaæ efê na cielca, efê na barana i na baranka wed³ug woli swojej rêki oraz hin oliwy na efê. </v>
+<v n="8"> A gdy ksi¹¿ê bêdzie wchodzi³, wejdzie przez przedsionek tej bramy i wyjdzie t¹ sam¹ drog¹. </v>
+<v n="9"> Ale gdy lud tej ziemi wejdzie przed oblicze PANA na œwiêta uroczyste, to ten, który wejdzie przez bramê pó³nocn¹, aby oddaæ pok³on, wyjdzie przez bramê po³udniow¹; a kto wejdzie przez bramê po³udniow¹, wyjdzie przez bramê pó³nocn¹. Nie wróci przez bramê, któr¹ wszed³, ale wyjdzie przeciwleg³¹. </v>
+<v n="10"> A gdy oni bêd¹ wchodziæ, ksi¹¿ê wœród nich wejdzie; a gdy bêd¹ wychodziæ, wyjdzie. </v>
+<v n="11"> Tak¿e na œwiêta i na uroczyste œwiêta ofiar¹ z pokarmów bêdzie efa na cielca, efa na barana, a na baranki wed³ug woli jego rêki oraz hin oliwy na efê. </v>
+<v n="12"> A gdy ksi¹¿ê bêdzie sk³ada³ PANU dobrowoln¹ ofiarê ca³opaln¹ lub dobrowoln¹ ofiarê pojednawcz¹, to niech mu otworz¹ wschodni¹ bramê, a z³o¿y swoje ca³opalenie i ofiary pojednawcze, jak to czyni w dniu szabatu. Potem wyjdzie, a po jego wyjœciu niech zamkn¹ bramê. </v>
+<v n="13"> Ponadto codziennie z³o¿ysz PANU baranka rocznego bez skazy na ca³opalenie. Ka¿dego rana z³o¿ysz go. </v>
+<v n="14"> Tak¿e ofiarê z pokarmów bêdziesz ofiarowywa³ przy nim ka¿dego ranka: szóst¹ czêœæ efy, trzeci¹ czêœæ hinu oliwy, aby pokropiæ najlepsz¹ m¹kê, jako nieustann¹ ofiarê z pokarmów dla PANA wiecznym postanowieniem. </v>
+<v n="15"> Tak wiêc maj¹ sk³adaæ baranka, ofiarê z pokarmów i oliwê ka¿dego rana jako ca³opalenie nieustanne. </v>
+<v n="16"> Tak mówi Pan BÓG: Jeœli ksi¹¿ê da jakiœ dar któremuœ ze swych synów, bêdzie to dziedzictwem jego synów. Bêdzie to ich w³asnoœæ dziedziczna. </v>
+<v n="17"> Ale jeœli przeka¿e dar ze swego dziedzictwa któremuœ ze swoich s³ug, wtedy bêdzie to jego a¿ do roku wyzwolenia, a potem wróci do tego ksiêcia. Ale do synów bêdzie nale¿eæ jego dziedzictwo. </v>
+<v n="18"> Ksi¹¿ê nie bêdzie bra³ z dziedzictwa ludu, pozbawiaj¹c go si³¹ jego posiad³oœci. Lecz ze swojej posiad³oœci da dziedzictwo swoim synom, aby nikt z mojego ludu nie by³ wyrzucony ze swojej posiad³oœci. </v>
+<v n="19"> Nastêpnie wprowadzi³ mnie przez wejœcie, które by³o z boku bramy, do komórek œwiêtych dla kap³anów, które by³y zwrócone na pó³noc, a oto by³o tam miejsce po obu stronach na zachód. </v>
+<v n="20"> I powiedzia³ do mnie: To jest miejsce, gdzie kap³ani bêd¹ gotowaæ ofiarê za przewinienie i ofiarê za grzech, gdzie bêd¹ piec ofiarê z pokarmów, aby nie musieli wynosiæ ich na dziedziniec zewnêtrzny na uœwiêcanie ludu. </v>
+<v n="21"> Potem wyprowadzi³ mnie na dziedziniec zewnêtrzny i oprowadzi³ mnie po czterech rogach dziedziñca, a oto by³ dziedziniec w ka¿dym rogu dziedziñca. </v>
+<v n="22"> W czterech k¹tach dziedziñca by³y dziedziñce d³ugie na czterdzieœci ³okci i szerokie na trzydzieœci ³okci. Te cztery naro¿ne dziedziñce mia³y ten sam wymiar. </v>
+<v n="23"> A doko³a nich czterech by³y rzêdy pomieszczeñ, a pod tymi rzêdami uczyniono woko³o paleniska. </v>
+<v n="24"> I powiedzia³ mi: To s¹ miejsca dla tych, którzy gotuj¹, gdzie s³udzy domu bêd¹ gotowaæ ofiary ludu. </v>
+</c>

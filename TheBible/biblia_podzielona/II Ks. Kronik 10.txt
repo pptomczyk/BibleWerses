@@ -1,0 +1,20 @@
+<v n="1"> Roboam uda³ siê do Sychem, gdy¿ do Sychem przyby³ ca³y Izrael, aby ustanowiæ go królem. </v>
+<v n="2"> A gdy us³ysza³ o tym Jeroboam, syn Nebata, który by³ w Egipcie, dok¹d uciek³ przed królem Salomonem, wróci³ z Egiptu; </v>
+<v n="3"> Wtedy pos³ano po niego i wezwano go. Przyszed³ wiêc Jeroboam wraz z ca³ym Izraelem i powiedzieli do Roboama: </v>
+<v n="4"> Twój ojciec w³o¿y³ na nas ciê¿kie jarzmo. Teraz wiêc ty ul¿yj nam w srogiej niewoli swego ojca i w ciê¿kim jarzmie, które w³o¿y³ na nas, a bêdziemy ci s³u¿yæ. </v>
+<v n="5"> Odpowiedzia³ im: Wróæcie do mnie po trzech dniach. I lud odszed³. </v>
+<v n="6"> Wtedy król Roboam radzi³ siê starszych, którzy stawali przed Salomonem, jego ojcem, gdy jeszcze ¿y³, pytaj¹c: Jak¹ odpowiedŸ radzicie daæ temu ludowi? </v>
+<v n="7"> Odpowiedzieli mu: Jeœli bêdziesz dla tego ludu dobry, oka¿esz im ¿yczliwoœæ i bêdziesz mówi³ do nich ³agodne s³owa, to bêd¹ twoimi s³ugami przez wszystkie dni. </v>
+<v n="8"> Ale on odrzuci³ radê starszych, któr¹ mu dali, i radzi³ siê m³odzieñców, którzy razem z nim wzroœli i stawali przed nim. </v>
+<v n="9"> I zapyta³ ich: A co wy radzicie odpowiedzieæ temu ludowi, który poprosi³ mnie: Ul¿yj nam w jarzmie, które w³o¿y³ na nas twój ojciec? </v>
+<v n="10"> Wtedy m³odzieñcy, którzy razem z nim wzroœli, odpowiedzieli mu: Tak odpowiesz temu ludowi, który powiedzia³ tobie: Twój ojciec w³o¿y³ na nas ciê¿kie jarzmo, ale ty nam ul¿yj; tak im powiesz: Mój ma³y palec jest grubszy ni¿ biodra mojego ojca. </v>
+<v n="11"> Teraz wiêc chocia¿ mój ojciec na³o¿y³ na was ciê¿kie jarzmo, ja do³o¿ê do waszego jarzma. Mój ojciec karci³ was biczami, ale ja bêdê was karci³ skorpionami. </v>
+<v n="12"> Przyszed³ wiêc Jeroboam i ca³y lud do Roboama trzeciego dnia, tak jak król nakaza³, mówi¹c: Wróæcie do mnie na trzeci dzieñ. </v>
+<v n="13"> I król odpowiedzia³ im surowo, bo odrzuci³ król Roboam radê starców. </v>
+<v n="14"> I przemówi³ do nich wed³ug rady m³odzieñców, mówi¹c: Mój ojciec obci¹¿y³ was ciê¿kim jarzmem, ale ja do³o¿ê do niego. Mój ojciec karci³ was biczami, ale ja bêdê was karci³ skorpionami. </v>
+<v n="15"> Król wiêc nie us³ucha³ ludu, sprawa bowiem wysz³a od Boga, aby PAN spe³ni³ swoje s³owo, które wypowiedzia³ przez Achiasza Szilonitê do Jeroboama, syna Nebata. </v>
+<v n="16"> A gdy ca³y Izrael zobaczy³, ¿e król ich nie us³ucha³, lud odpowiedzia³ królowi: Jaki¿ dzia³ mamy w Dawidzie? Nie mamy dziedzictwa w synu Jessego. IdŸcie ka¿dy do swoich namiotów, Izraelu! A ty, Dawidzie, troszcz siê teraz o swój dom. I rozszed³ siê ca³y Izrael do swoich namiotów. </v>
+<v n="17"> Tylko nad synami Izraela, którzy mieszkali w miastach Judy, królowa³ Roboam. </v>
+<v n="18"> Wtedy król Roboam pos³a³ do synów Izraela Hadorama, który by³ poborc¹, a oni ukamienowali go tak, ¿e umar³. Król Roboam wsiad³ wiêc w poœpiechu na rydwan i uciek³ do Jerozolimy. </v>
+<v n="19"> I w ten sposób Izrael zbuntowa³ siê przeciwko domowi Dawida a¿ do dziœ. </v>
+</c>

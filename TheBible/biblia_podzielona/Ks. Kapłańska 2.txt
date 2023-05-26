@@ -1,0 +1,17 @@
+<v n="1"> Gdy ktoœ zechce z³o¿yæ PANU ofiarê pokarmow¹, niech jego ofiara bêdzie z m¹ki pszennej. Niech poleje j¹ oliw¹ i po³o¿y na niej kadzid³a. </v>
+<v n="2"> I przyniesie j¹ do synów Aarona, kap³anów, a kap³an weŸmie stamt¹d pe³n¹ garœæ tej m¹ki pszennej wraz z oliw¹ i ca³ym kadzid³em i spali to na o³tarzu jako pami¹tkê. To jest ofiara ogniowa, mi³a woñ dla PANA. </v>
+<v n="3"> To zaœ, co zostanie z tej ofiary pokarmowej, bêdzie dla Aarona i jego synów. Jest to najœwiêtsza czêœæ z ofiar ogniowych dla PANA. </v>
+<v n="4"> A jeœli bêdziesz sk³ada³ ofiarê pokarmow¹ upieczon¹ w piecu, niech to bêd¹ przaœne placki z m¹ki pszennej zmieszane z oliw¹ albo przaœne podp³omyki skropione oliw¹. </v>
+<v n="5"> Jeœli zaœ bêdziesz sk³ada³ ofiarê pokarmow¹ sma¿on¹ na patelni, niech bêdzie ona z m¹ki pszennej niezakwaszonej, zmieszanej z oliw¹. </v>
+<v n="6"> Po³amiesz j¹ na kawa³ki i polejesz oliw¹. To jest ofiara pokarmowa. </v>
+<v n="7"> A jeœli bêdziesz sk³ada³ ofiarê pokarmow¹ gotowan¹ w rondlu, niech ona bêdzie z m¹ki pszennej z oliw¹. </v>
+<v n="8"> I przyniesiesz PANU ofiarê pokarmow¹ tak przyrz¹dzon¹. Oddasz j¹ kap³anowi, a on odniesie j¹ do o³tarza. </v>
+<v n="9"> I kap³an weŸmie z tej ofiary pokarmowej czêœæ na pami¹tkê i spali na o³tarzu. To jest ofiara ogniowa, mi³a woñ dla PANA. </v>
+<v n="10"> To zaœ, co pozostanie z ofiary pokarmowej, bêdzie nale¿eæ do Aarona i jego synów. Jest to najœwiêtsza czêœæ z ofiar ogniowych dla PANA. </v>
+<v n="11"> ¯adna ofiara pokarmowa, jak¹ bêdziecie sk³adaæ PANU, nie bêdzie przygotowywana z zakwasem, bo ¿adnego zakwasu ani ¿adnego miodu nie bêdziecie spalaæ na ofiarê ogniow¹ dla PANA. </v>
+<v n="12"> Mo¿ecie je sk³adaæ PANU jako ofiarê pierwocin, ale nie bêdziecie ich k³aœæ na o³tarzu na mi³¹ woñ. </v>
+<v n="13"> Ka¿d¹ z ofiar pokarmowych posolisz i nie pozbawisz soli przymierza twego Boga swej ofiary pokarmowej. Przy ka¿dej twojej ofierze z³o¿ysz sól. </v>
+<v n="14"> A jeœli bêdziesz sk³ada³ PANU ofiarê pokarmow¹ z pierwocin, to z³o¿ysz œwie¿e k³osy pra¿one na ogniu, zbo¿e wykruszone ze œwie¿ych k³osów jako ofiarê pokarmow¹ z twoich pierwszych plonów; </v>
+<v n="15"> Nalejesz na ni¹ oliwy i po³o¿ysz na ni¹ kadzid³a. To jest ofiara pokarmowa. </v>
+<v n="16"> Wtedy kap³an spali na pami¹tkê trochê jej wykruszonego zbo¿a i oliwy wraz z ca³ym jej kadzid³em. To jest ofiara ogniowa dla PANA. </v>
+</c>

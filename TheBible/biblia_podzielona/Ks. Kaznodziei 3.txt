@@ -1,0 +1,23 @@
+<v n="1"> Jest pora na wszystko i czas na ka¿d¹ sprawê pod niebem. </v>
+<v n="2"> Jest czas rodzenia i czas umierania, czas sadzenia i czas wyrywania tego, co zasadzono; </v>
+<v n="3"> Czas zabijania i czas leczenia, czas burzenia i czas budowania; </v>
+<v n="4"> Czas p³aczu i czas œmiechu, czas smutku i czas pl¹sów; </v>
+<v n="5"> Czas rzucania kamieni i czas zbierania kamieni, czas uœcisków i czas powstrzymywania siê od uœcisków; </v>
+<v n="6"> Czas szukania i czas tracenia, czas zachowania i czas wyrzucania; </v>
+<v n="7"> Czas rozdzierania i czas zszywania, czas milczenia i czas mówienia; </v>
+<v n="8"> Czas mi³owania i czas nienawiœci, czas wojny i czas pokoju. </v>
+<v n="9"> Jaki po¿ytek ma ten, kto pracuje, z ca³ego swego trudu? </v>
+<v n="10"> Widzia³em pracê, któr¹ Bóg da³ synom ludzkim, aby siê ni¹ trudzili. </v>
+<v n="11"> Wszystko dobrze uczyni³ w swoim czasie. W³o¿y³ tak¿e œwiat w ich serca, mimo ¿e cz³owiek nie zdo³a poj¹æ dzie³a, którego Bóg dokonuje od pocz¹tku do koñca. </v>
+<v n="12"> Dlatego wiem, ¿e dla nich nie ma nic lepszego nad to, by siê radowali i czynili dobrze za swego ¿ycia. </v>
+<v n="13"> Równie¿ i to, gdy ka¿dy cz³owiek je i pije, i cieszy siê dobrem ca³ego swego trudu, jest darem Boga. </v>
+<v n="14"> Wiem i to, ¿e cokolwiek czyni Bóg, bêdzie trwaæ na wieki. Nie mo¿na do tego nic dodaæ ani z tego odj¹æ, a Bóg czyni to, aby ludzie siê go bali. </v>
+<v n="15"> To, co by³o, jest teraz, a to, co bêdzie, ju¿ by³o. Bóg bowiem ¿¹da tego, co przeminê³o. </v>
+<v n="16"> Widzia³em jeszcze pod s³oñcem niegodziwoœæ w miejscu s¹du, a w miejscu sprawiedliwoœci – nieprawoœæ. </v>
+<v n="17"> I powiedzia³em w sercu: Bóg os¹dzi zarówno sprawiedliwego, jak i niegodziwego, gdy¿ tam bêdzie czas na os¹dzenie ka¿dego zamiaru i uczynku. </v>
+<v n="18"> Powiedzia³em w sercu o sprawie synów ludzkich: Oby Bóg im pokaza³, aby wiedzieli, ¿e s¹ tylko zwierzêtami. </v>
+<v n="19"> Bo jednakowy jest los synów ludzkich i los zwierz¹t. Jak umiera ten, tak umiera i tamto. Wszyscy maj¹ jednakowe tchnienie, a nie ma cz³owiek przewagi nad zwierzêciem, gdy¿ wszystko jest marnoœci¹. </v>
+<v n="20"> Wszystko to idzie do jednego miejsca; wszystko jest z prochu i wszystko w proch siê obraca. </v>
+<v n="21"> A któ¿ wie, ¿e duch synów ludzkich idzie w górê, a duch zwierzêcia zstêpuje do ziemi? </v>
+<v n="22"> Dlatego zobaczy³em, ¿e nie ma nic lepszego nad to, ¿eby cz³owiek siê radowa³ ze swoich dzie³, gdy¿ to jest jego dzia³. Któ¿ bowiem doprowadzi go do tego, aby pozna³ to, co ma byæ po nim? </v>
+</c>

@@ -1,0 +1,23 @@
+<v n="1"> Uczyni³ te¿ o³tarz z br¹zu d³ugi na dwadzieœcia ³okci, szeroki na dwadzieœcia ³okci, a na dziesiêæ ³okci wysoki. </v>
+<v n="2"> Wykona³ równie¿ odlewane morze na dziesiêæ ³okci od brzegu do brzegu. By³o ono dok³adnie okr¹g³e, mia³o piêæ ³okci wysokoœci i trzydzieœci ³okci obwodu. </v>
+<v n="3"> A pod nim doko³a znajdowa³y siê podobizny wo³ów, których by³o po dziesiêæ na ka¿dym ³okciu, a otacza³y morze doko³a. By³y dwa rzêdy tych wo³ów odlanych razem z morzem. </v>
+<v n="4"> Sta³o ono na dwunastu wo³ach, z których trzy spogl¹da³y na pó³noc, trzy spogl¹da³y na zachód, trzy spogl¹da³y na po³udnie, a trzy spogl¹da³y na wschód. Morze sta³o na nich na wierzchu, a wszystkie ich zady by³y zwrócone do œrodka. </v>
+<v n="5"> Jego gruboœæ by³a na szerokoœæ d³oni; a jego brzeg by³ wykonany jak brzeg kielicha, w kszta³cie kwiatu lilii. Mieœci³o w sobie trzy tysi¹ce bat. </v>
+<v n="6"> Wykona³ równie¿ dziesiêæ kadzi do obmywania w nich wszystkiego, co nale¿a³o do ca³opalenia, i postawi³ piêæ po prawej i piêæ po lewej stronie. Ale morze s³u¿y³o do obmywania siê w nim kap³anów. </v>
+<v n="7"> Uczyni³ te¿ dziesiêæ z³otych œwieczników w kszta³cie, jaki mia³y mieæ, i postawi³ je w œwi¹tyni, piêæ po prawej i piêæ po lewej stronie. </v>
+<v n="8"> Uczyni³ te¿ dziesiêæ sto³ów, które postawi³ w œwi¹tyni, piêæ po prawej i piêæ po lewej stronie. Wykona³ te¿ sto z³otych czasz. </v>
+<v n="9"> Zbudowa³ równie¿ dziedziniec kap³anów i wielki dziedziniec oraz bramy do dziedziñca, a bramy pokry³ br¹zem. </v>
+<v n="10"> A morze postawi³ po prawej stronie na po³udniowy wschód. </v>
+<v n="11"> Huram uczyni³ kocio³ki, ³opatki i miednice. Tak ukoñczy³ Huram pracê, któr¹ mia³ wykonaæ dla króla Salomona, dla domu Bo¿ego. </v>
+<v n="12"> Mianowicie: dwie kolumny z okr¹g³ymi g³owicami na wierzchu tych dwóch kolumn oraz dwie siatki, które okrywa³y dwie okr¹g³e g³owice na szczycie kolumn; </v>
+<v n="13"> I czterysta jab³ek granatu do tych dwóch siatek, po dwa rzêdy jab³ek granatu na ka¿dej siatce, do pokrycia dwóch okr¹g³ych g³owic na wierzchach kolumn. </v>
+<v n="14"> Porobi³ tak¿e podstawy oraz kadzie na tych podstawach; </v>
+<v n="15"> Jedno morze i dwanaœcie wo³ów pod nim. </v>
+<v n="16"> Do tego kocio³ki, ³opatki, wide³ki i wszystkie naczynia do nich porobi³ Huram-Abi dla króla Salomona, do domu PANA z polerowanego br¹zu. </v>
+<v n="17"> Na równinach Jordanu król odlewa³ je w gliniastej ziemi, miêdzy Sukkot i Seredat¹. </v>
+<v n="18"> Salomon sporz¹dzi³ wiêc wszystkie te naczynia w tak wielkiej liczbie, ¿e nie mo¿na by³o obliczyæ wagi br¹zu. </v>
+<v n="19"> Sporz¹dzi³ tak¿e Salomon wszystkie naczynia, które nale¿a³y do domu Bo¿ego: z³oty o³tarz i sto³y, na których sk³adano chleby pok³adne; </v>
+<v n="20"> Tak¿e œwieczniki i ich lampy ze szczerego z³ota, aby je rozpalano wed³ug zwyczaju przed Miejscem Najœwiêtszym; </v>
+<v n="21"> Ponadto kwiaty, lampy i szczypce ze z³ota, i to z wybornego z³ota; </v>
+<v n="22"> Do tego no¿yce, miednice, czasze i kadzielnice ze szczerego z³ota; bramy do domu, bramy wewnêtrzne do Najœwiêtszego Miejsca oraz drzwi domu, czyli œwi¹tyni, ze z³ota. </v>
+</c>

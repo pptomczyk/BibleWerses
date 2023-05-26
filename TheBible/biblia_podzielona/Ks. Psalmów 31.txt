@@ -1,0 +1,25 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. W tobie, PANIE, pok³adam nadziejê, niech nigdy nie doznam wstydu, wyzwól mnie w swojej sprawiedliwoœci. </v>
+<v n="2"> Nak³oñ ku mnie swego ucha, czym prêdzej mnie ocal; b¹dŸ mi mocn¹ ska³¹, domem obronnym, abyœ mnie wybawi³. </v>
+<v n="3"> Ty bowiem jesteœ moj¹ ska³¹ i twierdz¹; dlatego przez wzgl¹d na twoje imiê kieruj mnie i prowadŸ. </v>
+<v n="4"> Wyci¹gnij mnie z sieci, któr¹ zastawili na mnie, bo ty jesteœ moj¹ si³¹. </v>
+<v n="5"> W twoje rêce powierzam mego ducha; odkupi³eœ mnie, PANIE, Bo¿e wierny. </v>
+<v n="6"> Nienawidzê tych, którzy zwa¿aj¹ na pró¿ne marnoœci, bo ja w PANU pok³adam nadziejê. </v>
+<v n="7"> Bêdê siê radowa³ i weseli³ w twoim mi³osierdziu, bo wejrza³eœ na moje utrapienie i pozna³eœ udrêki mojej duszy; </v>
+<v n="8"> I nie wyda³eœ mnie w rêce wroga, postawi³eœ moje nogi na miejscu przestronnym. </v>
+<v n="9"> Zmi³uj siê nade mn¹, PANIE, bo jestem uciœniony, od ¿a³oœci os³ab³y moje oczy, a tak¿e moja dusza i moje wnêtrznoœci. </v>
+<v n="10"> W bólu bowiem up³ywa moje ¿ycie, a moje lata na wzdychaniu; moja si³a os³ab³a z powodu mej nieprawoœci, a moje koœci wysch³y. </v>
+<v n="11"> Sta³em siê poœmiewiskiem dla wszystkich moich wrogów, zw³aszcza dla moich s¹siadów, i postrachem dla znajomych; ci, którzy mnie widz¹ na dworze, uciekaj¹ przede mn¹. </v>
+<v n="12"> Zapomniano o mnie jak o umar³ym, sta³em siê jak rozbite naczynie. </v>
+<v n="13"> S³yszê bowiem oszczerstwa wielu; strach czai siê zewsz¹d; gdy wspólnie naradzaj¹ siê przeciwko mnie, spiskuj¹, jak odebraæ mi ¿ycie. </v>
+<v n="14"> Ale ja zaufa³em tobie, PANIE; powiedzia³em: Ty jesteœ moim Bogiem. </v>
+<v n="15"> Mój czas jest w twoich rêkach, ocal mnie z rêki moich nieprzyjació³ i od tych, którzy mnie przeœladuj¹. </v>
+<v n="16"> Rozjaœnij swe oblicze nad twoim s³ug¹, wybaw mnie w twoim mi³osierdziu. </v>
+<v n="17"> PANIE, niech nie doznam wstydu, skoro ciê wzywam; niech niegodziwi siê wstydz¹ i zamilkn¹ w grobie. </v>
+<v n="18"> Niech zaniemówi¹ wargi k³amliwe, które w pysze i pogardzie mówi¹ krzywdz¹ce s³owa przeciwko sprawiedliwemu. </v>
+<v n="19"> Jak¿e wielka jest twoja dobroæ, któr¹ zachowujesz dla boj¹cych siê ciebie i okazujesz tym, co ufaj¹ tobie wobec synów ludzkich! </v>
+<v n="20"> Ukryjesz ich pod os³on¹ twojej obecnoœci przed pych¹ cz³owieka, ochronisz ich w namiocie przed k³ótliwymi jêzykami. </v>
+<v n="21"> B³ogos³awiony niech bêdzie PAN, bo okaza³ mi sw¹ cudown¹ ³askê w mieœcie warownym. </v>
+<v n="22"> Powiedzia³em w poœpiechu: Odrzuci³eœ mnie sprzed twych oczu; lecz ty wys³ucha³eœ g³osu mego b³agania, gdy wo³a³em do ciebie. </v>
+<v n="23"> Mi³ujcie PANA, wszyscy jego œwiêci, bo PAN strze¿e wiernych, a postêpuj¹cym wynioœle odp³aca z nawi¹zk¹. </v>
+<v n="24"> B¹dŸcie dzielni, wszyscy, którzy pok³adacie nadziejê w PANU, a on umocni wasze serca. </v>
+</c>

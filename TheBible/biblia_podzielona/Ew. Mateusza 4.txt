@@ -1,0 +1,26 @@
+<v n="1"> Wtedy Jezus zosta³ zaprowadzony przez Ducha na pustyniê, aby by³ kuszony przez diab³a. </v>
+<v n="2"> A po czterdziestu dniach i czterdziestu nocach postu poczu³ g³ód. </v>
+<v n="3"> Wówczas przyst¹pi³ do niego kusiciel i powiedzia³: Jeœli jesteœ Synem Bo¿ym, powiedz, aby te kamienie sta³y siê chlebem. </v>
+<v n="4"> A on odpowiedzia³: Jest napisane: Nie samym chlebem bêdzie ¿y³ cz³owiek, ale ka¿dym s³owem pochodz¹cym z ust Boga. </v>
+<v n="5"> Wtedy diabe³ wzi¹³ go do miasta œwiêtego i postawi³ na szczycie œwi¹tyni. </v>
+<v n="6"> I powiedzia³ mu: Jeœli jesteœ Synem Bo¿ym, rzuæ siê w dó³, jest bowiem napisane: Rozka¿e o tobie swoim anio³om i bêd¹ ciê nosiæ na rêkach, abyœ nie uderzy³ swojej nogi o kamieñ. </v>
+<v n="7"> Jezus mu odpowiedzia³: Jest te¿ napisane: Nie bêdziesz wystawia³ na próbê Pana, swego Boga. </v>
+<v n="8"> Znowu wzi¹³ go diabe³ na bardzo wysok¹ górê i pokaza³ mu wszystkie królestwa œwiata oraz ich wspania³oœæ. </v>
+<v n="9"> I powiedzia³ do niego: Dam ci to wszystko, jeœli upadniesz i oddasz mi pok³on. </v>
+<v n="10"> Wtedy Jezus powiedzia³ mu: IdŸ precz, szatanie! Jest bowiem napisane: Panu, swemu Bogu, bêdziesz oddawa³ pok³on i tylko jemu bêdziesz s³u¿y³. </v>
+<v n="11"> Wówczas diabe³ go opuœci³, a oto anio³owie przyst¹pili do niego i mu s³u¿yli. </v>
+<v n="12"> A gdy Jezus us³ysza³, ¿e Jan zosta³ wtr¹cony do wiêzienia, wróci³ do Galilei. </v>
+<v n="13"> A opuœciwszy Nazaret, przyszed³ i zamieszka³ w Kafarnaum, które le¿y nad morzem, w granicach Zabulona i Neftalego; </v>
+<v n="14"> Aby siê wype³ni³o, co zosta³o powiedziane przez proroka Izajasza: </v>
+<v n="15"> Ziemia Zabulona i ziemia Neftalego, wzd³u¿ drogi nadmorskiej, za Jordanem, Galilea pogan. </v>
+<v n="16"> Lud, który siedzia³ w ciemnoœci, ujrza³ œwiat³oœæ wielk¹, a siedz¹cym w krainie i cieniu œmierci wzesz³a œwiat³oœæ. </v>
+<v n="17"> Od tego czasu Jezus zacz¹³ g³osiæ i mówiæ: Pokutujcie, przybli¿y³o siê bowiem królestwo niebieskie. </v>
+<v n="18"> A gdy Jezus przechodzi³ nad Morzem Galilejskim, zobaczy³ dwóch braci: Szymona, zwanego Piotrem, i Andrzeja, jego brata, którzy zapuszczali sieæ w morze; byli bowiem rybakami. </v>
+<v n="19"> I powiedzia³ im: ChodŸcie za mn¹, a uczyniê was rybakami ludzi. </v>
+<v n="20"> Oni natychmiast porzucili sieci i poszli za nim. </v>
+<v n="21"> A gdy poszed³ stamt¹d dalej, zobaczy³ innych dwóch braci, Jakuba, syna Zebedeusza, i Jana, jego brata, jak ze swoim ojcem Zebedeuszem naprawiali w ³odzi swoje sieci. I wezwa³ ich. </v>
+<v n="22"> A oni natychmiast opuœcili ³ódŸ i swego ojca i poszli za nim. </v>
+<v n="23"> I obchodzi³ Jezus ca³¹ Galileê, nauczaj¹c w ich synagogach, g³osz¹c ewangeliê królestwa i uzdrawiaj¹c wszystkie choroby i wszelkie dolegliwoœci wœród ludzi. </v>
+<v n="24"> A wieœæ o nim rozesz³a siê po ca³ej Syrii. I przyprowadzano do niego wszystkich, którzy siê Ÿle czuli, którzy byli nêkani ró¿nymi chorobami i cierpieniami, a tak¿e opêtanych, ob³¹kanych i sparali¿owanych, a on ich uzdrawia³. </v>
+<v n="25"> A sz³o za nim mnóstwo ludzi z Galilei i Dekapolu, Jerozolimy, Judei i Zajordania. </v>
+</c>

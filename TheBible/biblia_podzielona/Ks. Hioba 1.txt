@@ -1,0 +1,23 @@
+<v n="1"> By³ w ziemi Uz cz³owiek imieniem Hiob; ten cz³owiek by³ doskona³y i prawy, i boj¹cy siê Boga, a stroni¹cy od z³a. </v>
+<v n="2"> I urodzi³o mu siê siedmiu synów i trzy córki. </v>
+<v n="3"> A jego dobytek stanowi³o siedem tysiêcy owiec, trzy tysi¹ce wielb³¹dów, piêæset jarzm wo³ów i piêæset oœlic; mia³ te¿ bardzo liczn¹ s³u¿bê. By³ on cz³owiekiem najmo¿niejszym wœród wszystkich ludzi Wschodu. </v>
+<v n="4"> Jego synowie schodzili siê i urz¹dzali ucztê, ka¿dy w swoim domu w ustalonym dniu. Posy³ali po swoje trzy siostry i zapraszali je, aby jad³y i pi³y wraz z nimi. </v>
+<v n="5"> A gdy minê³y dni uczty, Hiob posy³a³ i poœwiêca³ ich. Potem wstawa³ wczesnym rankiem i sk³ada³ ca³opalenia stosownie do ich liczby. Mówi³ bowiem Hiob: Mo¿e moi synowie zgrzeszyli i z³orzeczyli Bogu w swoich sercach. Tak Hiob czyni³ zawsze. </v>
+<v n="6"> Zdarzy³o siê pewnego dnia, gdy synowie Bo¿y przybyli, aby stan¹æ przed PANEM, ¿e te¿ szatan pojawi³ siê wœród nich. </v>
+<v n="7"> Wtedy PAN zapyta³ szatana: Sk¹d przychodzisz? Szatan odpowiedzia³ PANU: Kr¹¿y³em po ziemi i przechadza³em siê po niej. </v>
+<v n="8"> PAN powiedzia³ do szatana: Czy zwróci³eœ uwagê na mojego s³ugê Hioba – ¿e nie ma nikogo mu równego na ziemi? To cz³owiek doskona³y i prawy, boj¹cy siê Boga i stroni¹cy od z³a. </v>
+<v n="9"> A szatan odpowiedzia³ PANU: Czy Hiob za darmo boi siê Boga? </v>
+<v n="10"> Czy nie ogrodzi³eœ zewsz¹d jego samego, jego domu i wszystkiego, co ma? B³ogos³awi³eœ dzie³om jego r¹k, a jego dobytek rozmno¿y³ siê na ziemi. </v>
+<v n="11"> Ale wyci¹gnij tylko swoj¹ rêkê i dotknij wszystkiego, co ma, a na pewno bêdzie ci w twarz z³orzeczy³. </v>
+<v n="12"> Wtedy PAN powiedzia³ do szatana: Oto wszystko, co ma, jest w twojej mocy, tylko na niego nie wyci¹gaj rêki. I szatan odszed³ sprzed oblicza PANA. </v>
+<v n="13"> Zdarzy³o siê któregoœ dnia, gdy jego synowie i córki jedli i pili wino w domu najstarszego brata; </v>
+<v n="14"> ¯e do Hioba przyby³ pos³aniec i powiedzia³: Wo³y ora³y, a oœlice pas³y siê obok nich; </v>
+<v n="15"> I napadli Sabejczycy, i zabrali je, a s³ugi pozabijali ostrzem miecza. Uszed³em tylko ja sam, aby ciê o tym powiadomiæ. </v>
+<v n="16"> A gdy ten jeszcze mówi³, przyszed³ inny i powiedzia³: Ogieñ Bo¿y spad³ z nieba, spali³ owce i s³ugi i poch³on¹³ ich. Uszed³em tylko ja sam, aby ciê o tym powiadomiæ. </v>
+<v n="17"> A gdy ten jeszcze mówi³, przyszed³ inny i powiedzia³: Chaldejczycy podzieleni na trzy oddzia³y napadli na wielb³¹dy, zabrali je, a s³ugi pozabijali ostrzem miecza. Uszed³em tylko ja sam, aby ciê o tym powiadomiæ. </v>
+<v n="18"> A gdy ten jeszcze mówi³, przyszed³ inny i powiedzia³: Twoi synowie i córki jedli i pili wino w domu najstarszego brata; </v>
+<v n="19"> A oto gwa³towny wiatr powia³ od pustyni i uderzy³ w cztery wêg³y domu, tak ¿e zawali³ siê na dzieci i pomar³y. Uszed³em tylko ja sam, aby ciê o tym powiadomiæ. </v>
+<v n="20"> Wtedy Hiob wsta³, rozdar³ swój p³aszcz, ogoli³ swoj¹ g³owê, potem upad³ na ziemiê i odda³ pok³on; </v>
+<v n="21"> I powiedzia³: Nagi wyszed³em z ³ona swojej matki i nagi tam powrócê. PAN da³, PAN te¿ wzi¹³, niech imiê PANA bêdzie b³ogos³awione. </v>
+<v n="22"> W tym wszystkim Hiob nie zgrzeszy³ ani nie oskar¿a³ Boga o nic niew³aœciwego. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> I PAN zawo³a³ do Moj¿esza, i powiedzia³ do niego z Namiotu Zgromadzenia: </v>
+<v n="2"> Przemów do synów Izraela i powiedz im: Jeœli ktoœ z was zechce z³o¿yæ PANU ofiarê, niech z³o¿y j¹ z byd³a, ze stada albo z trzody. </v>
+<v n="3"> Jeœli jego ofiara ca³opalna bêdzie ze stada, niech z³o¿y samca bez skazy. Niech go z³o¿y dobrowolnie przed PANEM u wejœcia do Namiotu Zgromadzenia. </v>
+<v n="4"> I po³o¿y sw¹ rêkê na g³owie ofiary ca³opalnej, a zostanie przyjêta jako przeb³aganie za niego. </v>
+<v n="5"> Potem zabije tego cielca przed PANEM. A kap³ani, synowie Aarona, ofiaruj¹ krew i pokropi¹ t¹ krwi¹ z wierzchu doko³a o³tarz, który jest przed wejœciem do Namiotu Zgromadzenia. </v>
+<v n="6"> I obedrze ofiarê ca³opaln¹ ze skóry, i pokroi j¹ na czêœci. </v>
+<v n="7"> Wtedy synowie kap³ana Aarona po³o¿¹ ogieñ na o³tarzu i u³o¿¹ drwa na ogniu. </v>
+<v n="8"> Potem kap³ani, synowie Aarona, porz¹dnie u³o¿¹ te czêœci oraz g³owê i t³uszcz na drwach le¿¹cych na ogniu na o³tarzu. </v>
+<v n="9"> A jego wnêtrznoœci i nogi obmyje wod¹. I kap³an spali to wszystko na o³tarzu. To jest ca³opalenie, ofiara ogniowa, mi³a woñ dla PANA. </v>
+<v n="10"> A jeœli jego ofiara na ca³opalenie bêdzie z trzody, owiec lub kóz, niech weŸmie samca bez skazy; </v>
+<v n="11"> I zabije go obok o³tarza po pó³nocnej stronie przed PANEM. A kap³ani, synowie Aarona, pokropi¹ jego krwi¹ z wierzchu o³tarz doko³a. </v>
+<v n="12"> Potem pokroi go na czêœci wraz z jego g³ow¹ i t³uszczem. A kap³an u³o¿y je porz¹dnie na drwach le¿¹cych na ogniu na o³tarzu. </v>
+<v n="13"> Wnêtrznoœci zaœ i nogi obmyje wod¹. I kap³an weŸmie to wszystko, i spali na o³tarzu. To jest ca³opalenie, ofiara ogniowa, mi³a woñ dla PANA. </v>
+<v n="14"> A jeœli jego ofiara na ca³opalenie dla PANA bêdzie z ptactwa, niech weŸmie swoj¹ ofiarê z synogarlic albo z m³odych go³êbi. </v>
+<v n="15"> Kap³an przyniesie go do o³tarza, ukrêci mu g³owê i spali na o³tarzu, a jego krew wyciœnie na œcianê o³tarza. </v>
+<v n="16"> I usunie wole wraz z jego pierzem i wyrzuci je na popielisko, obok o³tarza po wschodniej stronie; </v>
+<v n="17"> I naderwie jego skrzyd³a, ale ich nie oderwie. I kap³an spali to na o³tarzu, na drwach le¿¹cych na ogniu. To jest ca³opalenie, ofiara ogniowa, mi³a woñ dla PANA. </v>
+</c>

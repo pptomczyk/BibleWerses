@@ -1,0 +1,25 @@
+<v n="1"> A w¹¿ by³ bardziej przebieg³y ni¿ wszystkie zwierzêta polne, które PAN Bóg uczyni³. Powiedzia³ on do kobiety: Czy Bóg rzeczywiœcie powiedzia³: Nie wolno wam jeœæ ze wszystkich drzew tego ogrodu? </v>
+<v n="2"> I kobieta odpowiedzia³a wê¿owi: Mo¿emy jeœæ owoce z drzew tego ogrodu; </v>
+<v n="3"> Ale o owocu drzewa, które jest poœrodku ogrodu, Bóg powiedzia³: Nie bêdziecie z niego jeœæ ani go dotykaæ, abyœcie nie umarli. </v>
+<v n="4"> I w¹¿ powiedzia³ do kobiety: Na pewno nie umrzecie; </v>
+<v n="5"> Ale Bóg wie, ¿e tego dnia, gdy z niego zjecie, otworz¹ siê wasze oczy i bêdziecie jak bogowie znaj¹cy dobro i z³o. </v>
+<v n="6"> A gdy kobieta spostrzeg³a, ¿e owoc drzewa by³ dobry do jedzenia i mi³y dla oka, a drzewo godne po¿¹dania dla zdobycia wiedzy, wziê³a z niego owoc i zjad³a; da³a te¿ swemu mê¿owi, który by³ z ni¹; i on zjad³. </v>
+<v n="7"> I otworzy³y siê im obojgu oczy i poznali, ¿e s¹ nadzy. Spletli wiêc liœcie figowe i zrobili sobie przepaski. </v>
+<v n="8"> Wtedy us³yszeli g³os PANA Boga chodz¹cego po ogrodzie w powiewie dziennym. I Adam, i jego ¿ona ukryli siê przed obliczem PANA Boga wœród drzew ogrodu. </v>
+<v n="9"> I PAN Bóg zawo³a³ na Adama, i zapyta³ go: Gdzie jesteœ? </v>
+<v n="10"> On odpowiedzia³: Us³ysza³em twój g³os w ogrodzie i zl¹k³em siê, gdy¿ jestem nagi, i ukry³em siê. </v>
+<v n="11"> Bóg zapyta³: Kto ci powiedzia³, ¿e jesteœ nagi? Czy zjad³eœ z drzewa, z którego zakaza³em ci jeœæ? </v>
+<v n="12"> Adam odpowiedzia³: Kobieta, któr¹ mi da³eœ, aby by³a ze mn¹, ona da³a mi z tego drzewa i zjad³em. </v>
+<v n="13"> PAN Bóg zapyta³ kobietê: Co zrobi³aœ? I odpowiedzia³a kobieta: W¹¿ mnie zwiód³ i zjad³am. </v>
+<v n="14"> Wtedy PAN Bóg powiedzia³ do wê¿a: Poniewa¿ to uczyni³eœ, bêdziesz przeklêty wœród wszelkiego byd³a i wœród wszelkich zwierz¹t polnych. Na brzuchu bêdziesz siê czo³gaæ i proch bêdziesz jeœæ po wszystkie dni swego ¿ycia. </v>
+<v n="15"> I wprowadzê nieprzyjaŸñ miêdzy tob¹ a kobiet¹, miêdzy twoim potomstwem a jej potomstwem. Ono zrani ci g³owê, a ty zranisz mu piêtê. </v>
+<v n="16"> A do kobiety powiedzia³: Wielce pomno¿ê twoje cierpienia i twoje poczêcia, w bólu bêdziesz rodziæ dzieci. Twoje pragnienie bêdzie ku twemu mê¿owi, a on bêdzie nad tob¹ panowaæ. </v>
+<v n="17"> Do Adama zaœ powiedzia³: Poniewa¿ us³ucha³eœ g³osu swojej ¿ony i zjad³eœ z drzewa, o którym ci przykaza³em, mówi¹c: Nie bêdziesz z niego jad³ – przeklêta bêdzie ziemia z twego powodu, w trudzie bêdziesz z niej spo¿ywaæ po wszystkie dni twego ¿ycia. </v>
+<v n="18"> Ona bêdzie ci rodziæ ciernie i oset i bêdziesz spo¿ywa³ roœliny polne. </v>
+<v n="19"> W pocie czo³a bêdziesz spo¿ywa³ chleb, a¿ wrócisz do ziemi, gdy¿ z niej zosta³eœ wziêty. Bo jesteœ prochem i w proch siê obrócisz. </v>
+<v n="20"> I Adam nada³ swojej ¿onie imiê Ewa, bo ona by³a matk¹ wszystkich ¿yj¹cych. </v>
+<v n="21"> I PAN Bóg sporz¹dzi³ dla Adama i jego ¿ony odzienie ze skór i przyodzia³ ich. </v>
+<v n="22"> Wtedy PAN Bóg powiedzia³: Oto cz³owiek sta³ siê jak jeden z nas, znaj¹cy dobro i z³o. Wygnajmy go wiêc, aby nie wyci¹gn¹³ swej rêki i nie wzi¹³ z drzewa ¿ycia, by jeœæ i ¿yæ na wieki. </v>
+<v n="23"> PAN Bóg wydali³ go wiêc z ogrodu Eden, aby uprawia³ ziemiê, z której zosta³ wziêty. </v>
+<v n="24"> Tak wygna³ cz³owieka i postawi³ na wschód od ogrodu Eden cherubinów i p³omienisty miecz obracaj¹cy siê we wszystkie strony, aby strzeg³y drogi do drzewa ¿ycia. </v>
+</c>

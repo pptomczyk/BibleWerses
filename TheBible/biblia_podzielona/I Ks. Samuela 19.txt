@@ -1,0 +1,25 @@
+<v n="1"> Wtedy Saul mówi³ do swego syna Jonatana i do wszystkich swoich s³ug, aby zabili Dawida. </v>
+<v n="2"> Lecz Jonatan, syn Saula, bardzo mi³owa³ Dawida. I Jonatan doniós³ Dawidowi, mówi¹c: Mój ojciec Saul chce ciê zabiæ. Teraz wiêc strze¿ siê do rana i siedŸ w ukryciu. </v>
+<v n="3"> A ja wyjdê i stanê przy swoim ojcu na polu, tam gdzie ty bêdziesz. Bêdê rozmawia³ o tobie ze swoim ojcem, a cokolwiek zobaczê, powiadomiê ciê o tym. </v>
+<v n="4"> Jonatan mówi³ wiêc dobrze o Dawidzie ze swym ojcem Saulem i powiedzia³ mu: Niech król nie grzeszy przeciwko swemu s³udze Dawidowi, gdy¿ on nie zgrzeszy³ przeciw tobie, a jego czyny s¹ raczej dla ciebie bardzo po¿yteczne: </v>
+<v n="5"> On przecie¿ nara¿a³ swoje ¿ycie i zabi³ Filistyna, i PAN dokona³ wielkiego wybawienia dla ca³ego Izraela. Sam to widzia³eœ i uradowa³eœ siê. Dlaczego wiêc mia³byœ grzeszyæ przeciw niewinnej krwi i bez powodu zabiæ Dawida? </v>
+<v n="6"> I Saul pos³ucha³ s³ów Jonatana, i przysi¹g³: Jak ¿yje PAN, nie zostanie zabity. </v>
+<v n="7"> Jonatan zawo³a³ wiêc Dawida i powtórzy³ mu wszystkie te s³owa. Potem Jonatan przyprowadzi³ Dawida do Saula i przebywa³ z nim, tak jak poprzednio. </v>
+<v n="8"> Gdy znowu wybuch³a wojna, Dawid wyruszy³ przeciw Filistynom i walczy³ z nimi, i zada³ im wielk¹ klêskê tak, ¿e uciekli przed nim. </v>
+<v n="9"> A z³y duch od PANA opanowa³ Saula, kiedy siedzia³ w swym domu, trzymaj¹c w³óczniê w rêku, Dawid zaœ gra³ sw¹ rêk¹ melodiê. </v>
+<v n="10"> I Saul chcia³ przybiæ Dawida w³óczni¹ do œciany, lecz ten wymkn¹³ siê Saulowi i w³ócznia utkwi³a w œcianie, a Dawid wybieg³ i uciek³ tej nocy. </v>
+<v n="11"> Potem Saul wys³a³ pos³añców do domu Dawida, aby go pilnowali i rano zabili. Lecz Mikal, jego ¿ona, powiedzia³a o tym Dawidowi: Jeœli nie ujdziesz z ¿yciem tej nocy, jutro zostaniesz zabity. </v>
+<v n="12"> Mikal spuœci³a wiêc Dawida przez okno, a on odszed³, uciek³ i ocala³. </v>
+<v n="13"> A Mikal wziê³a bo¿ka i po³o¿y³a na ³o¿u, a poduszkê z koziej sierœci umieœci³a pod jego g³ow¹ i przykry³a szat¹. </v>
+<v n="14"> Gdy Saul wys³a³ pos³añców, aby porwali Dawida, powiedzia³a: Jest chory. </v>
+<v n="15"> Saul znowu wys³a³ pos³añców, aby zobaczyli Dawida, nakazuj¹c: Przynieœcie go do mnie na ³o¿u, abym go zabi³. </v>
+<v n="16"> A gdy pos³añcy przyszli, oto na ³o¿u by³ bo¿ek, a poduszka z koziej skóry by³a pod jego g³ow¹. </v>
+<v n="17"> I Saul powiedzia³ do Mikal: Dlaczego mnie tak oszuka³aœ i wypuœci³aœ mego wroga, aby uszed³? Mikal odpowiedzia³a Saulowi: On mi powiedzia³: Puœæ mnie, dlaczego mia³bym ciê zabiæ? </v>
+<v n="18"> Dawid uciek³ wiêc i ocala³, nastêpnie przyby³ do Samuela, do Rama, i opowiedzia³ mu wszystko, co Saul mu uczyni³. Potem wraz z Samuelem poszli do Najot i tam zamieszkali. </v>
+<v n="19"> I doniesiono Saulowi: Oto Dawid jest w Najot, w Rama. </v>
+<v n="20"> Wtedy Saul wys³a³ pos³añców, aby pojmali Dawida. Gdy zobaczyli gromadê prorokuj¹cych proroków oraz Samuela stoj¹cego na ich czele, Duch Bo¿y zst¹pi³ na pos³añców i oni tak¿e zaczêli prorokowaæ. </v>
+<v n="21"> Kiedy doniesiono o tym Saulowi, wys³a³ innych pos³añców, lecz i oni prorokowali. Saul wys³a³ i trzecich pos³añców, lecz tak¿e i ci prorokowali. </v>
+<v n="22"> Potem on sam poszed³ do Rama i gdy przyszed³ do wielkiej studni, która jest w Seku, zapyta³: Gdzie jest Samuel i Dawid? Odpowiedziano mu: Oto s¹ w Najot, w Rama. </v>
+<v n="23"> I szed³ stamt¹d do Najot w Rama, lecz na niego te¿ zst¹pi³ Duch Bo¿y, tak ¿e id¹c, prorokowa³, a¿ przyszed³ do Najot w Rama. </v>
+<v n="24"> I zdj¹³ z siebie szaty i tak¿e prorokowa³ przed Samuelem, le¿¹c nagi przez ca³y dzieñ i ca³¹ noc. St¹d powiedzenie: Czy¿ i Saul miêdzy prorokami? </v>
+</c>

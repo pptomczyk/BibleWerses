@@ -1,0 +1,27 @@
+<v n="1"> Wtedy Moj¿esz i starsi Izraela nakazali ludowi: Przestrzegajcie wszystkich przykazañ, które wam dziœ nakazujê. </v>
+<v n="2"> A w dniu, w którym przeprawicie siê przez Jordan do ziemi, któr¹ daje ci PAN, twój Bóg, ustawisz sobie wielkie kamienie i pobielisz je wapnem. </v>
+<v n="3"> I wypiszesz na nich wszystkie s³owa tego prawa, gdy tylko przeprawisz siê, abyœ wszed³ do ziemi, któr¹ daje ci PAN, twój Bóg, do ziemi mlekiem i miodem p³yn¹cej, jak ci obieca³ PAN, Bóg twoich ojców. </v>
+<v n="4"> Gdy wiêc przeprawicie siê przez Jordan, ustawicie te kamienie, o których wam dziœ nakazujê, na górze Ebal, i pobielisz je wapnem. </v>
+<v n="5"> Tam te¿ zbudujesz o³tarz PANU, swemu Bogu, o³tarz z kamieni. Nie bêdziesz ich ciosa³ narzêdziem z ¿elaza. </v>
+<v n="6"> Z kamieni nieciosanych zbudujesz o³tarz PANU, swemu Bogu, i na nim bêdziesz sk³ada³ ca³opalenia PANU, swemu Bogu. </v>
+<v n="7"> Z³o¿ysz te¿ ofiary pojednawcze i bêdziesz tam jad³, i radowa³ siê przed PANEM, swoim Bogiem; </v>
+<v n="8"> I na tych kamieniach bardzo wyraŸnie wypiszesz wszystkie s³owa tego prawa. </v>
+<v n="9"> Potem Moj¿esz i kap³ani Lewici powiedzieli do ca³ego Izraela: Milcz i s³uchaj, Izraelu. Dziœ sta³eœ siê ludem PANA, swego Boga. </v>
+<v n="10"> Bêdziesz wiêc s³ucha³ g³osu PANA, swego Boga, i bêdziesz wype³nia³ jego przykazania i ustawy, które dziœ ci nakazujê. </v>
+<v n="11"> W tym samym dniu Moj¿esz nakaza³ ludowi: </v>
+<v n="12"> Oto ci, którzy stan¹, by b³ogos³awiæ lud na górze Gerizim, gdy przeprawicie siê przez Jordan: Symeon, Lewi, Juda, Issachar, Józef i Beniamin. </v>
+<v n="13"> Oto zaœ ci stan¹ na górze Ebal, by przeklinaæ: Ruben, Gad, Aszer, Zebulon, Dan i Neftali. </v>
+<v n="14"> I odezw¹ siê Lewici, i przemówi¹ donoœnym g³osem do wszystkich mê¿czyzn Izraela: </v>
+<v n="15"> Przeklêty cz³owiek, który wykona wyrzeŸbiony lub odlewany pos¹g – obrzydliwoœæ dla PANA, dzie³o r¹k rzemieœlnika, i postawi w ukrytym miejscu. A ca³y lud odpowie: Amen. </v>
+<v n="16"> Przeklêty, kto lekcewa¿y swego ojca i swoj¹ matkê. A ca³y lud powie: Amen. </v>
+<v n="17"> Przeklêty, kto przesuwa granicê swego bliŸniego. A ca³y lud powie: Amen. </v>
+<v n="18"> Przeklêty, kto sprowadza œlepego z drogi, aby b³¹dzi³. A ca³y lud powie: Amen. </v>
+<v n="19"> Przeklêty, kto nagina s¹du przybysza, sieroty i wdowy. A ca³y lud powie: Amen. </v>
+<v n="20"> Przeklêty, kto obcuje z ¿on¹ swego ojca, bo odkrywa brzeg p³aszcza swego ojca. A ca³y lud powie: Amen. </v>
+<v n="21"> Przeklêty, kto obcuje z jakimkolwiek zwierzêciem. A ca³y lud powie: Amen. </v>
+<v n="22"> Przeklêty, kto obcuje ze swoj¹ siostr¹, córk¹ swego ojca lub córk¹ swojej matki. A ca³y lud powie: Amen. </v>
+<v n="23"> Przeklêty, kto obcuje ze swoj¹ teœciow¹. A ca³y lud powie: Amen. </v>
+<v n="24"> Przeklêty, kto zabija potajemnie swego bliŸniego. A ca³y lud powie: Amen. </v>
+<v n="25"> Przeklêty, kto przyjmuje dary, by zabiæ niewinnego cz³owieka. A ca³y lud powie: Amen. </v>
+<v n="26"> Przeklêty, kto nie trwa w wype³nianiu s³ów tego prawa. A ca³y lud powie: Amen. </v>
+</c>

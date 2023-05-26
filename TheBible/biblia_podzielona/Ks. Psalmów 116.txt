@@ -1,0 +1,20 @@
+<v n="1"> Mi³ujê PANA, bo us³ysza³ mój g³os i moje proœby. </v>
+<v n="2"> Nak³oni³ bowiem swego ucha ku mnie, dlatego bêdê go wzywa³ za moich dni. </v>
+<v n="3"> Otoczy³y mnie boleœci œmierci, utrapienia piek³a przeniknê³y mnie; przysz³y na mnie ucisk i boleœæ. </v>
+<v n="4"> Wtedy wezwa³em imienia PANA, mówi¹c: PANIE, proszê, wybaw moj¹ duszê. </v>
+<v n="5"> £askawy jest PAN i sprawiedliwy, nasz Bóg jest mi³osierny. </v>
+<v n="6"> PAN strze¿e ludzi prostych; by³em uciœniony, a wybawi³ mnie. </v>
+<v n="7"> Powróæ, moja duszo, do swego odpoczynku, bo PAN dobrze ci uczyni³. </v>
+<v n="8"> Wybawi³ bowiem moj¹ duszê od œmierci, oczy moje od p³aczu, moj¹ nogê od upadku. </v>
+<v n="9"> Bêdê chodzi³ przed obliczem PANA w ziemi ¿yj¹cych. </v>
+<v n="10"> Uwierzy³em i dlatego przemówi³em; by³em bardzo strapiony. </v>
+<v n="11"> Powiedzia³em w zatrwo¿eniu: Ka¿dy cz³owiek to k³amca. </v>
+<v n="12"> Có¿ oddam PANU za wszystkie jego dobrodziejstwa, które mi wyœwiadczy³? </v>
+<v n="13"> Wezmê kielich zbawienia i bêdê wzywaæ imienia PANA. </v>
+<v n="14"> Moje œluby z³o¿one PANU wype³niê teraz przed ca³ym jego ludem. </v>
+<v n="15"> Cenna jest w oczach PANA œmieræ jego œwiêtych. </v>
+<v n="16"> O PANIE, jestem twoim s³ug¹; jestem twoim s³ug¹ i synem twojej s³u¿¹cej; rozerwa³eœ moje wiêzy. </v>
+<v n="17"> Tobie z³o¿ê ofiarê chwa³y i bêdê wzywaæ imienia PANA. </v>
+<v n="18"> Moje œluby z³o¿one PANU wype³niê teraz przed ca³ym jego ludem; </v>
+<v n="19"> W dziedziñcach domu PANA, poœrodku ciebie, Jeruzalem! Alleluja. </v>
+</c>

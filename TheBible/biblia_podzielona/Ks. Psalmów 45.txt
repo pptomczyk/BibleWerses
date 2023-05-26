@@ -1,0 +1,18 @@
+<v n="1"> Przewodnikowi chóru, na Szoszanim dla synów Korego. Psalm pouczaj¹cy. Pieœñ mi³osna. Wezbra³o moje serce dobrym s³owem; dzie³a, które wypowiadam, dotycz¹ króla; mój jêzyk bêdzie jak pióro bieg³ego pisarza. </v>
+<v n="2"> Ty jesteœ najpiêkniejszym z synów ludzkich; wdziêk rozla³ siê na twoich wargach, dlatego Bóg pob³ogos³awi³ ciê na wieki. </v>
+<v n="3"> Przypasz do biodra swój miecz, mocarzu, w swej chwale i majestacie. </v>
+<v n="4"> A w swym dostojeñstwie wyrusz szczêœliwie ze s³owem prawdy, ³agodnoœci i sprawiedliwoœci, a twoja prawica dokona strasznych rzeczy. </v>
+<v n="5"> Twoje ostre strza³y, od których upadaj¹ narody pod twoje stopy, przenikaj¹ serce wrogów króla. </v>
+<v n="6"> Twój tron, o Bo¿e, na wieki wieków, ber³em sprawiedliwoœci jest ber³o twego królestwa. </v>
+<v n="7"> Mi³ujesz sprawiedliwoœæ, a nienawidzisz nieprawoœci, dlatego namaœci³ ciê, o Bo¿e, twój Bóg olejkiem radoœci bardziej ni¿ twoich towarzyszy. </v>
+<v n="8"> Wszystkie twoje szaty pachn¹ mirr¹, aloesem i kasj¹, gdy wychodzisz z pa³aców z koœci s³oniowej, z których ciê rozweselaj¹. </v>
+<v n="9"> Córki królewskie s¹ wœród twoich czcigodnych kobiet, królowa w z³ocie z Ofiru stoi po twojej prawicy. </v>
+<v n="10"> Pos³uchaj, córko, spójrz i nak³oñ ucha, zapomnij o swoim narodzie i o domu swojego ojca; </v>
+<v n="11"> A król zapragnie twojego piêkna, bo on jest twoim Panem; oddaj mu pok³on. </v>
+<v n="12"> Tak¿e córka Tyru przyjdzie z darami, najbogatsi z narodów bêd¹ zabiegaæ o tw¹ przychylnoœæ. </v>
+<v n="13"> Córka królewska jest pe³na chwa³y w swej komnacie, a jej szaty z³otem tkane. </v>
+<v n="14"> W szacie haftowanej bêd¹ j¹ wieœæ do króla, za ni¹ dziewice, jej towarzyszki, przyprowadz¹ do ciebie. </v>
+<v n="15"> Wiod¹ je z weselem i z radoœci¹ i wejd¹ do królewskiego pa³acu. </v>
+<v n="16"> Miejsce twoich ojców zajm¹ twoi synowie, których ustanowisz ksi¹¿êtami po ca³ej ziemi. </v>
+<v n="17"> Upamiêtniê twoje imiê po wszystkie pokolenia; dlatego narody bêd¹ ciê wys³awiaæ na wieki wieków. </v>
+</c>

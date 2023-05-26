@@ -1,0 +1,24 @@
+<v n="1"> Mówcie swoim braciom: Ammi, i swoim siostrom, Ruchama! </v>
+<v n="2"> Spierajcie siê z wasz¹ matk¹, spierajcie siê, bo ona nie jest moj¹ ¿on¹, a ja te¿ nie jestem jej mê¿em. Niech usunie swoje czyny nierz¹du sprzed swego oblicza, a swoje cudzo³óstwa spoœród swoich piersi; </v>
+<v n="3"> W przeciwnym razie rozbiorê j¹ do naga i wystawiê tak¹, jaka by³a w dniu swego narodzenia; uczyniê j¹ podobn¹ do pustyni, zostawiê j¹ jak such¹ ziemiê i uœmiercê j¹ pragnieniem. </v>
+<v n="4"> Nie zlitujê siê nad jej dzieæmi, gdy¿ s¹ dzieæmi nierz¹du. </v>
+<v n="5"> Ich matka bowiem uprawia³a nierz¹d, bezwstydnie postêpowa³a ich rodzicielka. Mówi³a bowiem: Pójdê za moimi kochankami, którzy daj¹ mi mój chleb i moj¹ wodê, moj¹ we³nê i mój len, moj¹ oliwê i moje napoje. </v>
+<v n="6"> Dlatego oto zagrodzê jej drogê cierniami i otoczê murem, aby nie mog³a znaleŸæ swoich œcie¿ek. </v>
+<v n="7"> Wtedy bêdzie biegaæ za swymi kochankami, lecz ich nie dogoni; bêdzie ich szukaæ, ale nie znajdzie. Potem powie: Pójdê i wrócê do swego pierwszego mê¿a, bo lepiej mi by³o wtedy ni¿ teraz. </v>
+<v n="8"> Ona bowiem nie wie, ¿e to ja dawa³em jej zbo¿e, moszcz i oliwê, ¿e dawa³em jej obfitoœæ srebra i z³ota, których oni u¿ywali dla Baala. </v>
+<v n="9"> Dlatego wrócê i zabiorê moje zbo¿e w swoim czasie, mój moszcz w swoim czasie, odbiorê jej moj¹ we³nê i mój len, który da³em na okrywanie jej nagoœci. </v>
+<v n="10"> A teraz odkryjê jej bezwstydnoœæ na oczach jej kochanków i nikt jej nie wyrwie z mojej rêki. </v>
+<v n="11"> I po³o¿ê kres ca³ej jej radoœci, jej œwiêtom, jej nowiom, jej szabatom i wszystkim jej uroczystym œwiêtom. </v>
+<v n="12"> Zniszczê te¿ jej winoroœle i drzewa figowe, o których mówi³a: Oto moja zap³ata, któr¹ mi dali moi kochankowie. I zamieniê je w lasy, które po¿r¹ polne zwierzêta. </v>
+<v n="13"> I ukarzê j¹ za te dni Baalów, gdy im pali³a kadzid³o, stroi³a siê w swoje kolczyki i klejnoty i chodzi³a za swymi kochankami, a o mnie zapomnia³a, mówi PAN. </v>
+<v n="14"> Dlatego oto zwabiê j¹, zaprowadzê na pustyniê i bêdê mówiæ do niej ³askawie; </v>
+<v n="15"> I dam jej winnice z tego miejsca i dolinê Akor jako wrota nadziei. Ona bêdzie tam œpiewa³a jak za dni swej m³odoœci, jak w dniu, kiedy wysz³a z ziemi Egiptu. </v>
+<v n="16"> W tym dniu, mówi PAN, bêdziesz mnie nazywaæ Iszi – mój mê¿u, a nie bêdziesz mnie ju¿ nazywa³a Baal – mój panie! </v>
+<v n="17"> Usunê bowiem z twoich ust imiona Baalów i ich imiona nie bêd¹ ju¿ wspomniane. </v>
+<v n="18"> W tym dniu zawrê dla ciebie przymierze z polnymi zwierzêtami, z ptactwem nieba i z tym, co pe³za po ziemi. Pokruszê ³uk i miecz, wojnê z ziemi usunê i sprawiê, ¿e bêd¹ mieszkaæ bezpiecznie. </v>
+<v n="19"> I poœlubiê ciê sobie na wieki; poœlubiê ciê sobie w sprawiedliwoœci, w s¹dzie, w mi³osierdziu i w litoœci. </v>
+<v n="20"> Poœlubiê ciê te¿ sobie w wiernoœci i poznasz PANA. </v>
+<v n="21"> W tym dniu wys³ucham, mówi PAN, wys³ucham niebios, a one wys³uchaj¹ ziemi; </v>
+<v n="22"> Ziemia wys³ucha zbo¿a, moszczu i oliwy, a te rzeczy wys³uchaj¹ Jizreel. </v>
+<v n="23"> Zasiejê go sobie na ziemi i zlitujê siê nad tym, który nie dost¹pi³ mi³osierdzia, i powiem do tego, który nie by³ moim ludem: Ty jesteœ moim ludem! A on powie: Ty jesteœ moim Bogiem. </v>
+</c>

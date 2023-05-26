@@ -1,0 +1,24 @@
+<v n="1"> S³uchajcie mnie, wy, którzy pod¹¿acie za sprawiedliwoœci¹, którzy szukacie PANA. Spójrzcie na ska³ê, z której was wyciosano i na g³êbokoœæ do³u, sk¹d was wykopano. </v>
+<v n="2"> Spójrzcie na Abrahama, waszego ojca, i na Sarê, która was porodzi³a, gdy¿ jego jednego wezwa³em, pob³ogos³awi³em i rozmno¿y³em. </v>
+<v n="3"> PAN bowiem pocieszy Syjon, pocieszy wszystkie jego ruiny i uczyni jego pustkowia jak Eden, a jego pustyniê jak ogród PANA. Znajdzie siê w nim radoœæ i wesele, dziêkczynienie i g³os œpiewania. </v>
+<v n="4"> S³uchaj mnie, mój ludu, nadstaw ucha, mój narodzie. Ode mnie bowiem wyjdzie prawo, a wystawiê mój s¹d jako œwiat³oœæ dla narodów. </v>
+<v n="5"> Bliska jest moja sprawiedliwoœæ, wysz³o moje zbawienie, a moje ramiona bêd¹ s¹dziæ narody. Wyspy bêd¹ mnie oczekiwaæ i w moim ramieniu bêd¹ pok³adaæ nadziejê. </v>
+<v n="6"> Podnieœcie ku niebu swoje oczy i spójrzcie na dó³, na ziemiê: Niebiosa jak dym siê rozwiej¹ i ziemia jak szata siê zestarzeje, a jej mieszkañcy zgin¹ jak one. Ale moje zbawienie bêdzie trwaæ na wieki i moja sprawiedliwoœæ nie ustanie. </v>
+<v n="7"> S³uchajcie mnie, wy, którzy znacie sprawiedliwoœæ, ludu, w którego sercu jest moje prawo! Nie bójcie siê ur¹gania ludzi i nie lêkajcie siê ich l¿enia. </v>
+<v n="8"> Mól bowiem po¿re ich jak szatê, a robak pogryzie ich jak we³nê. Ale moja sprawiedliwoœæ bêdzie trwaæ na wieki i moje zbawienie – z pokolenia na pokolenie. </v>
+<v n="9"> ZbudŸ siê, zbudŸ siê, przyoblecz siê w si³ê, ramiê PANA! ZbudŸ siê jak za dawnych dni i jak za pokoleñ minionych! Czyœ to nie ty por¹ba³o Egipt i zrani³o smoka? </v>
+<v n="10"> Czyœ to nie ty wysuszy³o morze, wody wielkiej g³êbi, i zamieni³o g³êbiny morskie w drogê, aby przeszli odkupieni? </v>
+<v n="11"> Powróc¹ wiêc odkupieni przez PANA i przyjd¹ do Syjonu ze œpiewaniem, a wieczna radoœæ bêdzie nad ich g³ow¹. Dost¹pi¹ wesela i radoœci i ucieknie smutek i wzdychanie. </v>
+<v n="12"> Ja, to ja jestem waszym pocieszycielem. Kim jesteœ, ¿e siê boisz cz³owieka œmiertelnego i syna cz³owieczego, który jest jak trawa; </v>
+<v n="13"> I zapominasz o PANU, swoim Stwórcy, który rozci¹gn¹³ niebiosa i za³o¿y³ ziemiê; ¿e lêkasz siê nieustannie ka¿dego dnia z powodu wœciek³oœci ciemiêzcy, gdy zmierza do tego, aby zniszczyæ? Ale gdzie jest ta wœciek³oœæ ciemiêzcy? </v>
+<v n="14"> Jeniec spieszy siê, aby zostaæ uwolniony, bo nie chce umrzeæ w dole ani z braku chleba. </v>
+<v n="15"> Doprawdy ja jestem PANEM, twoim Bogiem, który rozdziela morze tak, ¿e szumi¹ jego fale. PAN zastêpów to moje imiê. </v>
+<v n="16"> Ja w³o¿y³em swoje s³owa w twoje usta i w cieniu swojej rêki ciê zakry³em, aby osadziæ niebiosa i za³o¿yæ ziemiê, i powiedzieæ Syjonowi: Ty jesteœ moim ludem. </v>
+<v n="17"> ZbudŸ siê, zbudŸ siê, powstañ Jerozolimo, która pi³aœ z rêki PANA kubek jego gniewu; wypi³aœ mêty z kubka odurzenia i je wys¹czy³aœ. </v>
+<v n="18"> Nikt jej nie prowadzi spoœród wszystkich synów, których urodzi³a, i nikt jej za rêkê nie trzyma ze wszystkich synów, których wychowa³a. </v>
+<v n="19"> Dwie rzeczy ciê spotka³y, któ¿ siê u¿ali nad tob¹? Spustoszenie i zniszczenie, g³ód i miecz; któ¿ ciê pocieszy? </v>
+<v n="20"> Twoi synowie le¿eli omdlali na rogach wszystkich ulic, jak dziki wó³ w sieci. S¹ pe³ni gniewu PANA, upomnienia twego Boga. </v>
+<v n="21"> Dlatego teraz s³uchaj tego, utrapiona i pijana, lecz nie winem: </v>
+<v n="22"> Tak mówi twój PAN i twój Bóg, który wstawia siê za swoim ludem: Oto zabieram z twojej rêki kubek odurzenia, mêty kubka swojej wœciek³oœci. Nie bêdziesz ju¿ piæ z niego; </v>
+<v n="23"> Ale podam go w rêkê tych, którzy ciê trapi¹, którzy mówili twojej duszy: Nachyl siê, abyœmy przeszli przez ciebie. A ty uczyni³aœ swoje plecy jakby ziemi¹ i jakby ulic¹ dla przechodz¹cych. </v>
+</c>

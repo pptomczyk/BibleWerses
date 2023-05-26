@@ -1,0 +1,27 @@
+<v n="1"> Synowie Rubena, pierworodnego Izraela. By³ on pierworodnym, ale poniewa¿ zbezczeœci³ ³o¿e swego ojca, jego pierworództwo zosta³o dane synom Józefa, syna Izraela. Nie spisano wiêc rodowodu wed³ug pierworództwa. </v>
+<v n="2"> Juda bowiem by³ najpotê¿niejszy wœród swoich braci i od niego pochodzi³ w³adca, lecz pierworództwo nale¿a³o do Józefa. </v>
+<v n="3"> Synami Rubena, pierworodnego Izraela, byli: Henoch, Pallu, Chesron i Karmi. </v>
+<v n="4"> Synowie Joela: jego syn Szemajasz, jego syn Gog, jego syn Szimei; </v>
+<v n="5"> Jego syn Micheasz, jego syn Reajasz, jego syn Baal; </v>
+<v n="6"> Jego syn Beera, którego Tiglat-Pileser, król Asyrii, wzi¹³ do niewoli. On by³ ksiêciem Rubenitów. </v>
+<v n="7"> Jego braæmi wed³ug swoich rodzin, gdy spisywano rodowody ich pokoleñ, byli naczelnicy: Jejel, Zachariasz; </v>
+<v n="8"> I Bela, syn Azaza, syna Szemy, syna Joela, który zamieszkiwa³ w Aroerze a¿ po Nebo i Baal-Meon. </v>
+<v n="9"> A na wschodzie zamieszkiwa³ a¿ do wejœcia na pustkowie od rzeki Eufrat. Ich stada bowiem pomno¿y³y siê w ziemi Gilead. </v>
+<v n="10"> Za czasów Saula prowadzili wojnê z Hagrytami, którzy zostali przez nich pokonani. Zamieszkali wiêc w ich namiotach w ca³ej wschodniej czêœci Gileadu. </v>
+<v n="11"> A synowie Gada mieszkali naprzeciw nich w ziemi Baszanu, a¿ do Salka. </v>
+<v n="12"> Joel by³ zwierzchnikiem, potem Szafam, nastêpnie Janaj i Szafat w Baszanie. </v>
+<v n="13"> A ich braæmi wed³ug domów swoich ojców byli: Mikael, Meszullam, Szeba, Joraj, Jakan, Zija i Eber – siedmiu. </v>
+<v n="14"> Ci s¹ synami Abichaila, syna Churiego, syna Jaroacha, syna Gileada, syna Mikaela, syna Jesziszaja, syna Jachdo, syna Buza; </v>
+<v n="15"> Achi, syn Abdiela, syna Guniego – g³owa domu ich ojców. </v>
+<v n="16"> I mieszkali w Gileadzie, w Baszanie, w jego miasteczkach i na wszystkich pastwiskach Szaronu a¿ po ich krañce. </v>
+<v n="17"> Wszyscy oni spisani zostali wed³ug rodowodów za czasów Jotama, króla Judy, i za czasów Jeroboama, króla Izraela. </v>
+<v n="18"> Synów Rubena i Gada oraz po³owy pokolenia Manassesa, dzielnych wojowników zdolnych do noszenia tarczy i miecza i do strzelania z ³uku i wyæwiczonych w boju, by³o czterdzieœci cztery tysi¹ce siedmiuset szeœædziesiêciu wyruszaj¹cych do bitwy. </v>
+<v n="19"> Oni prowadzili wojnê z Hagrytami, z Jeturem, z Nafiszem i Nodabem; </v>
+<v n="20"> I otrzymali pomoc przeciwko nim. Wydano wiêc w ich rêce Hagrytów wraz ze wszystkimi, którzy z nimi byli. Podczas walki bowiem wo³ali do Boga, a on ich wys³ucha³, bo pok³adali w nim ufnoœæ. </v>
+<v n="21"> I zabrali z ich stad: piêædziesi¹t tysiêcy wielb³¹dów, dwieœcie piêædziesi¹t tysiêcy owiec, dwa tysi¹ce os³ów, a ludzi – sto tysiêcy. </v>
+<v n="22"> Wielu bowiem poleg³o, gdy¿ wojna ta wysz³a od Boga. I mieszkali na ich miejscu a¿ do uprowadzenia do niewoli. </v>
+<v n="23"> Ale synowie po³owy pokolenia Manassesa mieszkali w tej ziemi i rozmno¿yli siê od Baszanu a¿ do Baal-Chermon i Seniru, i do góry Hermon. </v>
+<v n="24"> A oto s¹ naczelnicy domów ich ojców: Efer, Jiszi, Eliel, Azriel, Jeremiasz, Hodawiasz i Jachdiel, dzielni wojownicy, ludzie s³awni, naczelnicy domu swoich ojców. </v>
+<v n="25"> Lecz zgrzeszyli przeciw Bogu swoich ojców i cudzo³o¿yli, id¹c za bogami narodów tej ziemi, które Bóg zniszczy³ przed nimi. </v>
+<v n="26"> Wtedy Bóg Izraela pobudzi³ ducha Pula, króla Asyrii, i ducha Tiglat-Pilesera, króla Asyrii, i uprowadzi³ Rubenitów i Gadytów oraz po³owê pokolenia Manassesa i zaprowadzi³ ich do Chalach, do Chabor, do Hara i do rzeki Gozan; s¹ tam a¿ do dziœ. </v>
+</c>

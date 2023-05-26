@@ -1,0 +1,26 @@
+<v n="1"> Oto mój s³uga, którego wspieram, mój wybrany, którego sobie upodoba³a moja dusza. Da³em mu swojego Ducha, on przyniesie narodom s¹d. </v>
+<v n="2"> Nie bêdzie wo³a³ ani siê wywy¿sza³, nie bêdzie s³ychaæ jego g³osu na ulicy. </v>
+<v n="3"> Trzciny nad³amanej nie z³amie, a knota tl¹cego siê nie zagasi. Wyda s¹d wed³ug prawdy. </v>
+<v n="4"> Nie ustanie ani siê nie zniechêci, dopóki nie utrwali s¹du na ziemi, a jego prawa bêd¹ oczekiwaæ wyspy. </v>
+<v n="5"> Tak mówi Bóg, PAN, który stworzy³ niebiosa i je rozpostar³; który rozszerzy³ ziemiê i to, co siê z niej rodzi; który daje tchnienie ludziom mieszkaj¹cym na niej i ducha tym, co po niej chodz¹. </v>
+<v n="6"> Ja, PAN, wezwa³em ciê w sprawiedliwoœci i uj¹³em ciê za rêkê, bêdê ciê strzeg³ i dam ciê jako przymierze dla ludu, jako œwiat³oœæ dla narodów; </v>
+<v n="7"> Abyœ otwiera³ oczy œlepym, wyprowadzi³ wiêŸniów z ciemnicy i z wiêzienia tych, co siedz¹ w ciemnoœci. </v>
+<v n="8"> Ja, PAN, to jest moje imiê, a mojej chwa³y nie oddam innemu ani mojej czci – rzeŸbionym pos¹gom. </v>
+<v n="9"> Oto nast¹pi³y pierwsze rzeczy, a ja og³aszam nowe; zanim siê zaczn¹, dam wam o nich s³yszeæ. </v>
+<v n="10"> Œpiewajcie PANU now¹ pieœñ, jego chwa³ê od krañców ziemi, wy, którzy siê w morzu p³awicie, i wszystko, co w nim jest, wyspy i ich mieszkañcy. </v>
+<v n="11"> Niech podnios¹ g³os pustynia i jej miasta oraz wsie, w których mieszka Kedar. Niech wykrzykuj¹ mieszkañcy ska³y, niech wo³aj¹ ze szczytu gór. </v>
+<v n="12"> Oddajcie czeœæ PANU i g³oœcie jego chwa³ê na wyspach. </v>
+<v n="13"> PAN wyruszy jak mocarz, jak m¹¿ waleczny wzbudzi swoj¹ gorliwoœæ. Zawo³a, nawet zagrzmi i odniesie zwyciêstwo nad swoimi wrogami; </v>
+<v n="14"> Mówi¹c: Milcza³em doœæ d³ugo, w spokoju wstrzymywa³em siê; ale teraz bêdê krzyczeæ jak rodz¹ca, spustoszê i po¿rê wszystkich razem. </v>
+<v n="15"> Góry i pagórki zamieniê w pustyniê i ca³¹ ich zieleñ wysuszê. Zamieniê rzeki w wyspy, a jeziora wysuszê. </v>
+<v n="16"> Powiodê œlepych drog¹, której nie znali, poprowadzê ich œcie¿kami, o których nie wiedzieli. Ciemnoœæ zamieniê w œwiat³oœæ przed nimi, a miejsca nierówne – w równinê. To s¹ rzeczy, które dla nich uczyniê, a nie opuszczê ich. </v>
+<v n="17"> Cofn¹ siê i bardzo zawstydz¹ siê ci, którzy ufaj¹ rzeŸbionym pos¹gom, którzy mówi¹ odlanym pos¹gom: Wy jesteœcie naszymi bogami. </v>
+<v n="18"> O g³usi, s³uchajcie! Wy, œlepi, przejrzyjcie, abyœcie widzieli. </v>
+<v n="19"> Kto jest œlepy, jeœli nie mój s³uga, i g³uchy, jeœli nie mój pos³aniec, którego pos³a³em? Kto jest tak œlepy jak ten, który jest doskona³y, kto tak œlepy jak s³uga PANA? </v>
+<v n="20"> Widzi wiele rzeczy, lecz nie zwa¿a na nie; otwarte ma uszy, ale nie s³ucha. </v>
+<v n="21"> PAN go sobie upodoba³ ze wzglêdu na swoj¹ sprawiedliwoœæ; wywy¿szy prawo i uczyni je s³awnym. </v>
+<v n="22"> Ale ten lud jest z³upiony i ograbiony, wszyscy spêtani s¹ w ciemnicach; wydani s¹ na ³up, a nie ma nikogo, kto by ich wybawi³; wydani s¹ na rabunek, a nikt nie mówi: Oddaj. </v>
+<v n="23"> Kto z was nak³oni na to ucha? Kto us³yszy i pos³ucha na przysz³y czas? </v>
+<v n="24"> Kto wyda³ Jakuba na rabunek, a Izraela ³upie¿com? Czy nie PAN, przeciwko któremu zgrzeszyliœmy? Nie chcieli bowiem kroczyæ jego drogami ani s³uchaæ jego prawa. </v>
+<v n="25"> Dlatego PAN wyla³ na niego zapalczywoœæ swego gniewu i gwa³town¹ wojnê. Rozgorza³a wokó³ niego, lecz on tego nie pozna³, pali³a go, ale nie wzi¹³ tego do serca. </v>
+</c>

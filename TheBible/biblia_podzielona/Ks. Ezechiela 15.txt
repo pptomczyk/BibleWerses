@@ -1,0 +1,9 @@
+<v n="1"> Wtedy dosz³o do mnie s³owo PANA mówi¹ce: </v>
+<v n="2"> Synu cz³owieczy, w czym jest lepsze drzewo winogronowe od wszelkiego innego drzewa albo od latoroœli, która jest wœród drzew leœnych? </v>
+<v n="3"> Czy weŸmie siê z niego drewno do zrobienia czegoœ? Czy zrobi¹ z niego ko³ek do zawieszania na nim jakiegoœ naczynia? </v>
+<v n="4"> Oto w ogieñ rzuca siê je na spalenie; ogieñ strawi oba jego koñce, a œrodek jego jest zwêglony. Na co siê jeszcze przyda? </v>
+<v n="5"> Oto póki by³o ca³e, nic nie mo¿na by³o z niego zrobiæ. Tym bardziej gdy strawi³ je ogieñ i spali³o siê, na nic siê wiêcej nie przyda. </v>
+<v n="6"> Dlatego tak mówi Pan BÓG: Jak wœród drzew leœnych jest drzewo winogronowe, które wyda³em ogniowi na spalenie, tak te¿ wydam mieszkañców Jerozolimy. </v>
+<v n="7"> Zwrócê bowiem swoj¹ twarz przeciwko nim; z jednego ognia wyjd¹, a drugi ogieñ ich strawi. I poznacie, ¿e ja jestem PANEM, gdy zwrócê swoj¹ twarz przeciwko nim. </v>
+<v n="8"> I zamieniê ich ziemiê w spustoszenie, bo dopuœcili siê przestêpstwa, mówi Pan BÓG. </v>
+</c>

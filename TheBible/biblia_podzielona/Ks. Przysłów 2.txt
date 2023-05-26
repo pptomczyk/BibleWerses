@@ -1,0 +1,23 @@
+<v n="1"> Synu mój, jeœli przyjmiesz moje s³owa i zachowasz u siebie moje przykazania; </v>
+<v n="2"> Nadstawiaj¹c swego ucha na m¹droœæ i nak³aniaj¹c swe serce ku rozumowi; </v>
+<v n="3"> Tak, jeœli przywo³asz roztropnoœæ i swoim g³osem wezwiesz rozum; </v>
+<v n="4"> Jeœli bêdziesz jej szukaæ jak srebra i poszukiwaæ jej jak ukrytych skarbów; </v>
+<v n="5"> Wtedy zrozumiesz bojaŸñ PANA i dojdziesz do poznania Boga. </v>
+<v n="6"> PAN bowiem daje m¹droœæ, z jego ust pochodzi wiedza i rozum. </v>
+<v n="7"> On zachowuje prawdziw¹ m¹droœæ dla prawych; on jest tarcz¹ dla tych, którzy postêpuj¹ uczciwie; </v>
+<v n="8"> Strze¿e œcie¿ek s¹du i chroni drogê swoich œwiêtych. </v>
+<v n="9"> Wtedy zrozumiesz sprawiedliwoœæ, s¹d, prawoœæ i wszelk¹ dobr¹ œcie¿kê. </v>
+<v n="10"> Gdy m¹droœæ wejdzie do twojego serca i wiedza bêdzie mi³a twojej duszy; </v>
+<v n="11"> Wtedy rozwaga bêdzie ciê strzeg³a i rozum ciê zachowa. </v>
+<v n="12"> By uwolniæ ciê od z³ej drogi i od cz³owieka, który mówi przewrotnie; </v>
+<v n="13"> Od tych, którzy opuszczaj¹ œcie¿ki prawoœci, ¿eby chodziæ drogami ciemnoœci; </v>
+<v n="14"> Którzy siê raduj¹, gdy czyni¹ z³o, a ciesz¹ siê w z³oœliwej przewrotnoœci; </v>
+<v n="15"> Których œcie¿ki s¹ krête i sami s¹ przewrotni na swoich drogach; </v>
+<v n="16"> Aby ciê uwolniæ od cudzej kobiety, od obcej, która pochlebia ³agodnymi s³owami; </v>
+<v n="17"> Która opuszcza przewodnika swojej m³odoœci i zapomina o przymierzu swojego Boga; </v>
+<v n="18"> Bo jej dom chyli siê ku œmierci, a jej œcie¿ki ku umar³ym; </v>
+<v n="19"> Nikt z tych, którzy do niej wchodz¹, nie wraca ani nie trafia na œcie¿kê ¿ycia; </v>
+<v n="20"> Abyœ chodzi³ drog¹ dobrych i przestrzega³ œcie¿ek sprawiedliwych. </v>
+<v n="21"> Prawi bowiem bêd¹ mieszkali na ziemi i nienaganni na niej pozostan¹; </v>
+<v n="22"> Ale niegodziwi bêd¹ wykorzenieni z ziemi i przewrotni bêd¹ z niej wyrwani. </v>
+</c>

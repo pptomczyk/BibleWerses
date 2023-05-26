@@ -1,0 +1,22 @@
+<v n="1"> Pieœñ pochwalna Dawida. Bêdê ciê wywy¿szaæ, Bo¿e mój, królu mój, i bêdê b³ogos³awiæ twe imiê na wieki wieków. </v>
+<v n="2"> Ka¿dego dnia bêdê ciê b³ogos³awiæ i chwaliæ twoje imiê na wieki wieków. </v>
+<v n="3"> Wielki jest PAN i godzien wielkiej chwa³y, a jego wielkoœæ jest niezbadana. </v>
+<v n="4"> Pokolenie pokoleniu bêdzie wychwalaæ twoje dzie³a i opowiadaæ o twoich potê¿nych czynach. </v>
+<v n="5"> Bêdê wys³awiaæ wspania³oœæ chwa³y twojego majestatu i twoje cudowne dzie³a. </v>
+<v n="6"> I bêd¹ mówiæ o mocy twoich straszliwych czynów, a ja bêdê opowiadaæ twoj¹ wielkoœæ. </v>
+<v n="7"> Bêd¹ wys³awiaæ pamiêæ twojej wielkiej dobroci i œpiewaæ o twojej sprawiedliwoœci. </v>
+<v n="8"> £askawy jest PAN i litoœciwy, nieskory do gniewu i bardzo mi³osierny. </v>
+<v n="9"> Dobry jest PAN dla wszystkich, a jego mi³osierdzie nad wszystkimi jego dzie³ami. </v>
+<v n="10"> Twoje dzie³a bêd¹ ciê wys³awiaæ, PANIE, a twoi œwiêci bêd¹ ci b³ogos³awiæ. </v>
+<v n="11"> Bêd¹ opowiadaæ o chwale twego królestwa i mówiæ o twojej potêdze; </v>
+<v n="12"> Aby oznajmiæ synom ludzkim jego potê¿ne czyny i wspania³¹ chwa³ê jego królestwa. </v>
+<v n="13"> Twoje królestwo jest królestwem wiecznym, a twoje panowanie trwa przez wszystkie pokolenia. </v>
+<v n="14"> PAN podtrzymuje wszystkich, którzy upadaj¹, i podnosi wszystkich przygnêbionych. </v>
+<v n="15"> Oczy wszystkich oczekuj¹ ciebie, a ty im dajesz pokarm we w³aœciwym czasie. </v>
+<v n="16"> Otwierasz swoj¹ rêkê i nasycasz do woli wszystko, co ¿yje. </v>
+<v n="17"> Sprawiedliwy jest PAN we wszystkich swoich drogach i mi³osierny we wszystkich swoich dzie³ach. </v>
+<v n="18"> Bliski jest PAN wszystkim, którzy go wzywaj¹; wszystkim, którzy go wzywaj¹ w prawdzie. </v>
+<v n="19"> Spe³ni pragnienia tych, którzy siê go boj¹; us³yszy ich wo³anie i wybawi ich. </v>
+<v n="20"> PAN strze¿e wszystkich, którzy go mi³uj¹; a wytraci wszystkich niegodziwych. </v>
+<v n="21"> Moje usta bêd¹ g³osiæ chwa³ê PANA i niech wszelkie cia³o b³ogos³awi jego œwiête imiê na wieki wieków. </v>
+</c>

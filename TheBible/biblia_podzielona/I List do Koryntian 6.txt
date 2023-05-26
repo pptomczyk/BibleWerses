@@ -1,0 +1,21 @@
+<v n="1"> Czy ktoœ z was, maj¹c sprawê z drugim, œmie procesowaæ siê przed niesprawiedliwymi zamiast przed œwiêtymi? </v>
+<v n="2"> Czy nie wiecie, ¿e œwiêci bêd¹ s¹dziæ œwiat? A jeœli œwiat bêdzie s¹dzony przez was, to czy nie jesteœcie godni os¹dzaæ sprawy pomniejsze? </v>
+<v n="3"> Czy nie wiecie, ¿e bêdziemy s¹dziæ anio³ów? A có¿ dopiero sprawy doczesne? </v>
+<v n="4"> Jeœli wiêc macie do os¹dzenia sprawy doczesne, ustanawiajcie sêdziami najmniej powa¿anych w koœciele. </v>
+<v n="5"> Mówiê to ku waszemu zawstydzeniu. Czy nie ma wœród was ani jednego m¹drego, który mo¿e rozs¹dziæ miêdzy swoimi braæmi? </v>
+<v n="6"> A tymczasem brat z bratem siê procesuje, i to przed niewierz¹cymi. </v>
+<v n="7"> W ogóle ju¿ to przynosi wam ujmê, ¿e siê ze sob¹ procesujecie. Czemu raczej krzywdy nie cierpicie? Czemu raczej szkody nie ponosicie? </v>
+<v n="8"> Przeciwnie, wy krzywdzicie i wyrz¹dzacie szkodê, i to braciom. </v>
+<v n="9"> Czy nie wiecie, ¿e niesprawiedliwi nie odziedzicz¹ królestwa Bo¿ego? Nie ³udŸcie siê: ani rozpustnicy, ani ba³wochwalcy, ani cudzo³o¿nicy, ani zniewieœciali, ani mê¿czyŸni wspó³¿yj¹cy ze sob¹; </v>
+<v n="10"> Ani z³odzieje, ani chciwi, ani pijacy, ani z³orzecz¹cy, ani zdziercy nie odziedzicz¹ królestwa Bo¿ego. </v>
+<v n="11"> A takimi niektórzy z was byli. Lecz zostaliœcie obmyci, lecz zostaliœcie uœwiêceni, lecz zostaliœcie usprawiedliwieni w imiê Pana Jezusa i przez Ducha naszego Boga. </v>
+<v n="12"> Wszystko mi wolno, ale nie wszystko jest po¿yteczne. Wszystko mi wolno, ale ja nie dam siê niczemu zniewoliæ. </v>
+<v n="13"> Pokarmy s¹ dla brzucha, a brzuch dla pokarmów. Lecz Bóg zniszczy i jedno, i drugie. Cia³o zaœ nie jest dla nierz¹du, ale dla Pana, a Pan dla cia³a. </v>
+<v n="14"> A Bóg i Pana wskrzesi³, i nas wskrzesi swoj¹ moc¹. </v>
+<v n="15"> Czy¿ nie wiecie, ¿e wasze cia³a s¹ cz³onkami Chrystusa? Czy wiêc wezmê cz³onki Chrystusa i uczyniê je cz³onkami nierz¹dnicy? Nie daj Bo¿e! </v>
+<v n="16"> Czy¿ nie wiecie, ¿e ten, kto siê ³¹czy z nierz¹dnic¹, jest z ni¹ jednym cia³em? Dwoje bowiem, mówi on, bêd¹ jednym cia³em. </v>
+<v n="17"> Kto zaœ siê ³¹czy z Panem, jest z nim jednym duchem. </v>
+<v n="18"> Uciekajcie od nierz¹du. Wszelki grzech, który cz³owiek pope³nia, jest poza cia³em. Lecz kto dopuszcza siê nierz¹du, grzeszy przeciwko w³asnemu cia³u. </v>
+<v n="19"> Czy¿ nie wiecie, ¿e wasze cia³o jest œwi¹tyni¹ Ducha Œwiêtego, który jest w was, a którego macie od Boga, i nie nale¿ycie do samych siebie? </v>
+<v n="20"> Drogo bowiem zostaliœcie kupieni. Wys³awiajcie wiêc Boga w waszym ciele i w waszym duchu, które nale¿¹ do Boga. </v>
+</c>

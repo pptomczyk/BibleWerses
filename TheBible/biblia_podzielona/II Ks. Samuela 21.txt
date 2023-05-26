@@ -1,0 +1,23 @@
+<v n="1"> I za czasów Dawida panowa³ g³ód przez trzy lata, rok po roku. Dawid szuka³ wiêc oblicza PANA, a PAN odpowiedzia³: To z powodu Saula i jego krwawego domu, poniewa¿ wymordowa³ Gibeonitów. </v>
+<v n="2"> Wtedy król wezwa³ Gibeonitów i przemówi³ do nich. A Gibeonici nie wywodzili siê z synów Izraela, ale z resztki Amorytów. I chocia¿ synowie Izraela przysiêgli im, Saul jednak usi³owa³ wytêpiæ ich w swej gorliwoœci wzglêdem synów Izraela i Judy. </v>
+<v n="3"> Dawid zapyta³ wiêc Gibeonitów: Có¿ mam dla was uczyniæ? A czym was u³agodziæ, abyœcie b³ogos³awili dziedzictwo PANA? </v>
+<v n="4"> I odpowiedzieli mu Gibeonici: Nie chodzi nam o srebro ani o z³oto od Saula i jego domu, ani o to, ¿eby zabito kogoœ w Izraelu. A on odpowiedzia³: Cokolwiek powiecie, to dla was uczyniê. </v>
+<v n="5"> Oni powiedzieli do króla: Co do mê¿czyzny, który nas wygubi³ i zmierza³ do tego, aby nas wytêpiæ, ¿eby nikt z nas nie pozosta³ we wszystkich granicach Izraela; </v>
+<v n="6"> Wydajcie nam siedmiu z jego synów, a my powiesimy ich przed PANEM w Gibea Saula, który by³ wybrañcem PANA. Król odpowiedzia³: Wydam ich. </v>
+<v n="7"> Lecz król oszczêdzi³ Mefiboszeta, syna Jonatana, syna Saula, z powodu przysiêgi PANA, która by³a miêdzy nimi, miêdzy Dawidem a Jonatanem, synem Saula. </v>
+<v n="8"> Ale król wzi¹³ dwóch synów Rispy, córki Aji, których urodzi³a Saulowi, Armoniego i Mefiboszeta, i piêciu synów siostry Mikal, córki Saula, których urodzi³a Adrielowi, synowi Barzillaja z Mecholi; </v>
+<v n="9"> I wyda³ ich w rêce Gibeonitów, a oni powiesili ich na górze przed PANEM. Razem umar³o ich siedmiu, zostali zabici w pierwsze dni ¿niw, na pocz¹tku ¿niw jêczmienia. </v>
+<v n="10"> Wtedy Rispa, córka Aji, wziê³a wór i rozci¹gnê³a go na skale, na pocz¹tku ¿niw, a¿ do czasu, gdy spad³ na nich deszcz z nieba, i nie pozwala³a, aby ptactwo powietrzne zbli¿a³o siê do nich za dnia, ani zwierzêta polne – noc¹. </v>
+<v n="11"> Potem doniesiono Dawidowi o tym, co uczyni³a Rispa, córka Aji, na³o¿nica Saula. </v>
+<v n="12"> Dawid poszed³ wiêc i wzi¹³ koœci Saula i koœci Jonatana, jego syna, od starszych Jabesz-Gilead, którzy ukradli je z placu Bet-Szan, gdzie ich zawiesili Filistyni w dniu zabicia Saula przez Filistynów w Gilboa. </v>
+<v n="13"> Wzi¹³ wiêc stamt¹d koœci Saula i koœci Jonatana, jego syna; zebrano te¿ koœci powieszonych; </v>
+<v n="14"> I pogrzebali koœci Saula i Jonatana, jego syna, w ziemi Beniamina w Sela, w grobie Kisza, jego ojca. Uczynili wszystko, co król nakaza³. Potem Bóg da³ siê ub³agaæ co do ziemi. </v>
+<v n="15"> PóŸniej znowu dosz³o do wojny miêdzy Filistynami a Izraelem. I Dawid wyruszy³ wraz ze swymi s³ugami i walczyli z Filistynami, a Dawid by³ znu¿ony. </v>
+<v n="16"> Wtedy Iszbibenob, który wywodzi³ siê z synów pewnego olbrzyma, a którego w³ócznia wa¿y³a trzysta syklów br¹zu i który mia³ przepasany nowy miecz, postanowi³, ¿e zabije Dawida. </v>
+<v n="17"> Lecz Abiszaj, syn Serui, przyszed³ mu z pomoc¹, uderzy³ Filistyna i zabi³ go. Wtedy ludzie Dawida przysiêgli mu: Nie bêdziesz ju¿ wyrusza³ z nami do bitwy, abyœ nie zgasi³ pochodni Izraela. </v>
+<v n="18"> Potem znowu by³a bitwa z Filistynami w Gob. Wtedy Sibbekaj Chuszatyta zabi³ Safa, który pochodzi³ z synów tego olbrzyma. </v>
+<v n="19"> By³a te¿ jeszcze inna wojna z Filistynami w Gob, podczas której Elchanan, syn Jaara Oregima z Betlejem, zabi³ brata Goliata Gittyty, którego drzewce w³óczni by³y jak wa³ tkacki. </v>
+<v n="20"> Ponadto toczy³a siê jeszcze wojna w Gat, gdzie by³ cz³owiek wysokiego wzrostu, maj¹cy po szeœæ palców u r¹k i po szeœæ palców u nóg, razem dwadzieœcia cztery. On tak¿e by³ synem tego olbrzyma. </v>
+<v n="21"> Gdy ur¹ga³ on Izraelowi, zabi³ go Jonatan, syn Szimei, brata Dawida. </v>
+<v n="22"> Ci czterej byli synami tego olbrzyma z Gat, a polegli z rêki Dawida i z rêki jego s³ug. </v>
+</c>

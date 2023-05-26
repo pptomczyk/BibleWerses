@@ -1,0 +1,23 @@
+<v n="1"> S³owo PANA, które dosz³o do Jeremiasza w zwi¹zku z susz¹: </v>
+<v n="2"> Ziemia Judy p³acze, a jej bramy os³ab³y, w szacie ¿a³obnej siedz¹ na ziemi, a krzyk Jerozolimy siê podnosi. </v>
+<v n="3"> Ich szlachetni posy³aj¹ swoje s³ugi po wodê. A gdy przyszli do cystern, nie znaleŸli wody i powrócili z pustymi naczyniami. Zap³onêli i zawstydzili siê, i zakryli swoje g³owy. </v>
+<v n="4"> Z powodu spêkanej ziemi – bo nie by³o deszczu na ziemi – oracze ze wstydu zakryli swoje g³owy. </v>
+<v n="5"> Nawet ³ania rodz¹ca na polu porzuci³a m³ode, bo nie by³o trawy. </v>
+<v n="6"> A dzikie os³y, stoj¹c na wysokich miejscach, chwyci³y wiatr jak smoki; ich oczy os³ab³y, bo nie by³o trawy. </v>
+<v n="7"> PANIE, chocia¿ nasze nieprawoœci œwiadcz¹ przeciwko nam, dzia³aj przez wzgl¹d na twoje imiê. Liczne s¹ bowiem nasze odstêpstwa, zgrzeszyliœmy przeciwko tobie. </v>
+<v n="8"> Nadziejo Izraela, jego Zbawicielu w czasie utrapienia, czemu jesteœ jak przybysz w tej ziemi, jak podró¿ny, który zatrzymuje siê na nocleg? </v>
+<v n="9"> Czemu jesteœ jak cz³owiek os³upia³y albo jak mocarz, który nie mo¿e wybawiæ? Ty jednak jesteœ poœród nas, PANIE, i twoje imiê jest wzywane nad nami. Nie opuszczaj nas. </v>
+<v n="10"> Tak mówi PAN o tym ludzie: Tak kochaj¹ b³¹dziæ, swoich nóg nie powstrzymaj¹; dlatego PAN nie ma w nich upodobania, teraz wspomina ich nieprawoœæ i nawiedza ich za ich grzechy. </v>
+<v n="11"> Potem PAN powiedzia³ do mnie: Nie módl siê o dobro tego ludu. </v>
+<v n="12"> Gdy bêd¹ poœciæ, nie wys³ucham ich wo³ania, a gdy bêd¹ sk³adaæ ca³opalenia i ofiarê z pokarmów, nie przyjmê tego, ale wytracê ich mieczem, g³odem i zaraz¹. </v>
+<v n="13"> Wtedy powiedzia³em: Ach, Panie BO¯E! Oto prorocy mówi¹ im: Nie zobaczycie miecza ani nie dotknie was g³ód, ale dam wam trwa³y pokój na tym miejscu. </v>
+<v n="14"> I PAN powiedzia³ do mnie: Ci prorocy fa³szywie prorokuj¹ w moje imiê. Nie pos³a³em ich ani im niczego nie nakazywa³em, ani nie mówi³em do nich. Prorokuj¹ wam k³amliwe widzenie i wró¿bê, marnoœæ i urojenie swego serca. </v>
+<v n="15"> Dlatego tak mówi PAN o prorokach, którzy prorokuj¹ w moje imiê, chocia¿ ich nie pos³a³em, i którzy mówi¹: Miecza i g³odu nie bêdzie w tej ziemi. Ci sami prorocy od miecza i g³odu zgin¹. </v>
+<v n="16"> A ten lud, któremu oni prorokuj¹, bêdzie wyrzucony na ulice Jerozolimy z powodu g³odu i miecza i nie bêdzie nikogo, kto by pogrzeba³ ich samych ani ich ¿on, ani ich synów i córek. Tak wylejê na nich ich niegodziwoœæ. </v>
+<v n="17"> Dlatego powiesz im to s³owo: Moje oczy wylewaj¹ ³zy w nocy i we dnie, bez przerwy, bo dziewicza córka mego ludu zosta³a dotkniêta wielk¹ klêsk¹, ciosem bardzo bolesnym. </v>
+<v n="18"> Jeœli wychodzê na pole – oto pobici mieczem, jeœli wchodzê do miasta – oto gin¹cy od g³odu. Tak, zarówno prorok, jak i kap³an kupcz¹ ziemi¹, a ludzie tego nie zauwa¿aj¹. </v>
+<v n="19"> Czy ca³kowicie odrzucasz Judê? Czy twoja dusza obrzydzi³a sobie Syjon? Czemu nas bijesz, tak ¿e ju¿ nie ma dla nas uzdrowienia? Oczekiwaliœmy pokoju, ale nie ma nic dobrego; oczekiwaliœmy czasu uleczenia, a oto trwoga. </v>
+<v n="20"> Uznajemy, PANIE, swoj¹ niegodziwoœæ i nieprawoœæ naszych ojców, bo zgrzeszyliœmy przeciw tobie. </v>
+<v n="21"> Nie odrzucaj nas przez wzgl¹d na twoje imiê, nie dopuœæ do zniewa¿enia tronu swojej chwa³y. Pamiêtaj o swoim przymierzu i nie zrywaj go z nami. </v>
+<v n="22"> Czy wœród marnoœci pogan s¹ takie, co spuszczaj¹ deszcz? Czy niebiosa mog¹ same dawaæ deszcze? Czy to nie ty, PANIE, nasz Bo¿e? Dlatego oczekujemy ciebie, bo ty czynisz to wszystko. </v>
+</c>

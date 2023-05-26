@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi chóru. Psalm Dawida. B³ogos³awiony, kto zwa¿a na ubogiego, PAN go wybawi w dniu niedoli. </v>
+<v n="2"> PAN bêdzie go strzeg³, zachowa przy ¿yciu, bêdzie mu b³ogos³awi³ na ziemi i nie wyda go na pastwê jego wrogów. </v>
+<v n="3"> PAN pokrzepi go na ³o¿u boleœci, w czasie choroby poprawi ca³e jego pos³anie. </v>
+<v n="4"> Powiedzia³em: PANIE, zmi³uj siê nade mn¹, uzdrów moj¹ duszê, bo zgrzeszy³em przeciwko tobie. </v>
+<v n="5"> Moi wrogowie Ÿle o mnie mówi¹: Kiedy on umrze i zginie jego imiê? </v>
+<v n="6"> Jeœli któryœ przychodzi mnie odwiedziæ, mówi ob³udnie; w swoim sercu gromadzi nieprawoœæ, a gdy wychodzi, rozpowiada. </v>
+<v n="7"> Wszyscy, którzy mnie nienawidz¹, szepcz¹ wspólnie przeciwko mnie, przeciwko mnie obmyœlaj¹ z³o; </v>
+<v n="8"> Mówi¹c: Spad³a na niego z³oœliwa zaraza, po³o¿y³ siê i ju¿ nie wstanie. </v>
+<v n="9"> Nawet mój przyjaciel, któremu ufa³em, który jad³ mój chleb, podniós³ przeciwko mnie piêtê. </v>
+<v n="10"> Ale ty, PANIE, zmi³uj siê nade mn¹ i podnieœ mnie, abym im odp³aci³. </v>
+<v n="11"> Po tym poznam, ¿e mnie sobie upodoba³eœ, ¿e mój wróg nie bêdzie triumfowa³ nade mn¹. </v>
+<v n="12"> Ty zaœ wesprzesz mnie ze wzglêdu na moj¹ uczciwoœæ i na wieki postawisz mnie przed swoim obliczem. </v>
+<v n="13"> B³ogos³awiony PAN, Bóg Izraela, od wieków a¿ na wieki. Amen, amen. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> Wtedy wszystkie pokolenia Izraela zesz³y siê u Dawida w Hebronie i powiedzia³y: Oto jesteœmy twoj¹ koœci¹ i twoim cia³em. </v>
+<v n="2"> Ju¿ dawniej, gdy Saul by³ królem nad nami, ty wyprowadza³eœ i przyprowadza³eœ Izraela. I PAN powiedzia³ do ciebie: Ty bêdziesz pas³ mój lud Izraela i ty bêdziesz wodzem nad Izraelem. </v>
+<v n="3"> Wszyscy starsi Izraela przyszli wiêc do króla do Hebronu i król Dawid zawar³ z nimi przymierze w Hebronie przed PANEM, a oni namaœcili Dawida na króla nad Izraelem. </v>
+<v n="4"> Dawid mia³ trzydzieœci lat, gdy zacz¹³ królowaæ, a królowa³ czterdzieœci lat. </v>
+<v n="5"> W Hebronie królowa³ nad Jud¹ siedem lat i szeœæ miesiêcy, w Jerozolimie zaœ królowa³ trzydzieœci trzy lata nad ca³ym Izraelem i Jud¹. </v>
+<v n="6"> I król oraz jego ludzie poszli do Jerozolimy przeciw Jebusytom zamieszkuj¹cym w tej ziemi, a oni powiedzieli do Dawida: Nie wejdziesz tutaj, dopóki nie wyniesiesz œlepych i chromych. Myœleli bowiem: Dawid tu nie wejdzie. </v>
+<v n="7"> Dawid jednak zdoby³ twierdzê Syjon, to jest miasto Dawida. </v>
+<v n="8"> Dawid powiedzia³ w tym dniu: Ktokolwiek pokona Jebusytów, wchodz¹c przez kana³, i zabije œlepych i chromych, których nienawidzi dusza Dawida, ustanowiê go dowódc¹. Dlatego mówiono: Œlepi i chromi nie wejd¹ do tego domu. </v>
+<v n="9"> I tak zamieszka³ Dawid w tej twierdzy, i nazwa³ j¹ miastem Dawida. Dawid obudowa³ je te¿ woko³o, od Millo i wnêtrza. </v>
+<v n="10"> I Dawid stale wzrasta³ w potêdze, a PAN Bóg zastêpów by³ z nim. </v>
+<v n="11"> Wtedy Hiram, król Tyru, wys³a³ pos³añców do Dawida z drzewem cedrowym, cieœlami i murarzami i zbudowali dom dla Dawida. </v>
+<v n="12"> I Dawid pozna³, ¿e PAN utwierdzi³ go jako króla nad Izraelem i ¿e wywy¿szy³ jego królestwo ze wzglêdu na swój lud Izraela. </v>
+<v n="13"> A po przybyciu z Hebronu Dawid wzi¹³ sobie jeszcze wiêcej na³o¿nic i ¿on z Jerozolimy. I urodzi³o siê Dawidowi wiêcej synów i córek. </v>
+<v n="14"> Oto imiona tych, którzy mu siê urodzili w Jerozolimie: Szammua, Szobab, Natan i Salomon; </v>
+<v n="15"> Jibchar, Eliszua, Nefeg i Jafia; </v>
+<v n="16"> Eliszama, Eliada i Elifelet. </v>
+<v n="17"> A gdy Filistyni us³yszeli, ¿e Dawid zosta³ namaszczony na króla nad Izraelem, wszyscy Filistyni wyruszyli, aby szukaæ Dawida. Kiedy Dawid o tym us³ysza³, zst¹pi³ do twierdzy. </v>
+<v n="18"> Wtedy Filistyni przybyli i rozci¹gnêli siê w dolinie Refaim. </v>
+<v n="19"> I Dawid radzi³ siê PANA: Czy mam ruszyæ na Filistynów? Czy wydasz ich w moje rêce? PAN odpowiedzia³ Dawidowi: IdŸ, gdy¿ z ca³¹ pewnoœci¹ wydam Filistynów w twoje rêce. </v>
+<v n="20"> Dawid przyby³ wiêc do Baal-Perasim i tam ich pobi³, i powiedzia³: PAN rozerwa³ moich wrogów przede mn¹ jak rw¹ca woda. Dlatego nazwa³ to miejsce Baal-Perasim. </v>
+<v n="21"> I porzucili tam swoje bo¿ki, a Dawid i jego ludzie spalili je. </v>
+<v n="22"> I Filistyni znowu nadci¹gnêli, i rozci¹gnêli siê w dolinie Refaim. </v>
+<v n="23"> Gdy Dawid radzi³ siê PANA, PAN odpowiedzia³: Nie ruszaj na nich, lecz obejdŸ ich z ty³u i uderz na nich od strony drzew morwowych. </v>
+<v n="24"> A gdy us³yszysz odg³os kroków dochodz¹cych od wierzcho³ków drzew morwowych, wtedy wyruszysz, gdy¿ wtedy PAN wyjdzie przed tob¹, aby pokonaæ wojska Filistynów. </v>
+<v n="25"> I Dawid uczyni³ tak, jak mu PAN rozkaza³, i pobi³ Filistynów od Geba a¿ do wejœcia do Gezer. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Sprawiedliwy jesteœ, PANIE, choæbym siê z tob¹ spiera³. Ja jednak bêdê rozmawiaæ z tob¹ o twoich s¹dach. Czemu szczêœci siê droga bezbo¿nych? Czemu spokojnie ¿yj¹ wszyscy, którzy postêpuj¹ bardzo zdradliwie? </v>
+<v n="2"> Zasadzi³eœ ich, zapuœcili te¿ korzenie; rosn¹ i nawet wydaj¹ owoc. Bliski jesteœ ich ust, ale daleki od ich nerek. </v>
+<v n="3"> Ale ty, PANIE, znasz mnie, wypatrujesz mnie i doœwiadczy³eœ moje serce, i wiesz, ¿e jest z tob¹. Od³¹cz ich jak owce na rzeŸ i przygotuj ich na dzieñ zabicia. </v>
+<v n="4"> Jak d³ugo ziemia bêdzie p³akaæ, a trawa na wszystkich polach bêdzie usychaæ z powodu niegodziwoœci jej mieszkañców? Gin¹ wszystkie zwierzêta i ptactwo, bo mówi¹: Nie widzi naszego koñca. </v>
+<v n="5"> Jeœli bieg³eœ z pieszymi i zmêczy³eœ siê, to jak zmierzysz siê z koñmi? A jeœli zmêczy³eœ siê w spokojnej ziemi, w której pok³ada³eœ nadziejê, co zrobisz przy wezbraniu Jordanu? </v>
+<v n="6"> Nawet twoi bracia i dom twego ojca sprzeniewierzyli siê tobie, oni te¿ g³oœno wo³aj¹ za tob¹. Ale nie wierz im, choæby mówili do ciebie piêkne s³owa. </v>
+<v n="7"> Opuœci³em swój dom, porzuci³em swoje dziedzictwo; umi³owan¹ mojej duszy wyda³em w rêce jej wrogów. </v>
+<v n="8"> Moje dziedzictwo sta³o siê dla mnie jak lew w lesie; podnosi przeciwko mnie swój g³os, dlatego je znienawidzi³em. </v>
+<v n="9"> Moje dziedzictwo jest pstrym ptakiem, ptaki doko³a bêd¹ przeciwko niemu. ChodŸcie, zbierzcie wszystkie zwierzêta polne, zejdŸcie siê na ¿er. </v>
+<v n="10"> Wielu pasterzy zniszczy³o moj¹ winnicê, zdepta³o mój dzia³; mój rozkoszny dzia³ zamienili w opustosza³e pustkowie. </v>
+<v n="11"> Zamienili go w pustkowie; a spustoszony le¿y w ¿a³obie przede mn¹; ca³a ziemia pustoszeje, bo nikt tego nie bierze sobie do serca. </v>
+<v n="12"> Na wszystkie pustynne wzniesienia przyjd¹ niszczyciele, bo miecz PANA po¿re wszystko od jednego krañca do drugiego krañca ziemi. ¯adne cia³o nie bêdzie mia³o pokoju. </v>
+<v n="13"> Posiali pszenicê, ale bêd¹ zbieraæ ciernie; natrudzili siê, ale nic nie osi¹gn¹. Zawstydz¹ siê ze swoich plonów z powodu zapalczywego gniewu PANA. </v>
+<v n="14"> Tak mówi PAN o wszystkich moich z³ych s¹siadach dotykaj¹cych mojego dziedzictwa, które da³em w dziedzictwo memu ludowi Izraelowi: Oto wykorzeniê ich z ich ziemi, a dom Judy wyrwê spoœród nich. </v>
+<v n="15"> A gdy ich wyrwê, wrócê, zlitujê siê nad nimi i znowu przyprowadzê ka¿dego z nich do jego dziedzictwa i ka¿dego z nich do jego ziemi. </v>
+<v n="16"> I jeœli dok³adnie siê naucz¹ dróg mojego ludu, i bêd¹ przysiêgaæ na moje imiê, mówi¹c: PAN ¿yje, podobnie jak nauczali mój lud przysiêgaæ na Baala, wtedy zostan¹ zbudowani wœród mego ludu. </v>
+<v n="17"> Ale jeœli nie us³uchaj¹, wtedy wykorzeniê ten naród, wyrwê i wytracê go, mówi PAN. </v>
+</c>

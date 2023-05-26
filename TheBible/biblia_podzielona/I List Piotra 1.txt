@@ -1,0 +1,26 @@
+<v n="1"> Piotr, aposto³ Jezusa Chrystusa, do wychodŸców rozproszonych w Poncie, Galacji, Kapadocji, Azji i Bitynii; </v>
+<v n="2"> Wybranych wed³ug uprzedniej wiedzy Boga Ojca, przez uœwiêcenie Ducha dla pos³uszeñstwa i pokropienia krwi¹ Jezusa Chrystusa. £aska i pokój niech siê wam pomno¿¹. </v>
+<v n="3"> B³ogos³awiony niech bêdzie Bóg i Ojciec naszego Pana Jezusa Chrystusa, który wed³ug swego wielkiego mi³osierdzia zrodzi³ nas na nowo do ¿ywej nadziei przez wskrzeszenie Jezusa Chrystusa z martwych; </v>
+<v n="4"> Do dziedzictwa niezniszczalnego i nieskalanego, i niewiêdn¹cego, zachowanego w niebie dla was; </v>
+<v n="5"> Którzy jesteœcie strze¿eni moc¹ Boga przez wiarê ku zbawieniu, przygotowanemu do objawienia siê w czasie ostatecznym. </v>
+<v n="6"> Z tego siê radujecie, choæ teraz na krótko, jeœli trzeba, zasmuceni jesteœcie z powodu rozmaitych prób; </v>
+<v n="7"> Aby doœwiadczenie waszej wiary, o wiele cenniejszej od zniszczalnego z³ota, które jednak próbuje siê w ogniu, okaza³o siê ku chwale, czci i s³awie przy objawieniu Jezusa Chrystusa; </v>
+<v n="8"> A choæ go nie widzieliœcie, mi³ujecie; i w niego, choæ teraz go nie widzicie, wierzycie; i cieszycie siê radoœci¹ niewys³owion¹ i pe³n¹ chwa³y; </v>
+<v n="9"> Otrzymuj¹c koniec waszej wiary – zbawienie dusz. </v>
+<v n="10"> O to zbawienie wywiadywali siê i badali je prorocy, którzy prorokowali o przeznaczonej dla was ³asce. </v>
+<v n="11"> Badali oni, na jak¹ i jakiego rodzaju porê wskazywa³ Duch Chrystusa, który by³ w nich, przepowiadaj¹c cierpienia, które mia³y przyjœæ na Chrystusa i maj¹c¹ potem nast¹piæ chwa³ê. </v>
+<v n="12"> Zosta³o im objawione, ¿e nie im samym, lecz nam s³u¿y³y sprawy wam teraz zwiastowane przez tych, którzy wam g³osili ewangeliê przez Ducha Œwiêtego zes³anego z nieba. W te sprawy pragn¹ wejrzeæ anio³owie. </v>
+<v n="13"> Dlatego przepaszcie biodra waszego umys³u i b¹dŸcie trzeŸwi, pok³adaj¹c doskona³¹ nadziejê w ³asce, która bêdzie wam dana przy objawieniu Jezusa Chrystusa. </v>
+<v n="14"> Jak pos³uszne dzieci nie ulegajcie po¿¹dliwoœciom, jakie w³ada³y wami wczeœniej, w czasie waszej nieœwiadomoœci; </v>
+<v n="15"> Lecz jak ten, który was powo³a³, jest œwiêty, tak i wy b¹dŸcie œwiêtymi we wszelkim waszym postêpowaniu; </v>
+<v n="16"> Gdy¿ jest napisane: Œwiêtymi b¹dŸcie, bo ja jestem œwiêty. </v>
+<v n="17"> A je¿eli Ojcem nazywacie tego, który bez wzglêdu na osobê s¹dzi ka¿dego wed³ug uczynków, spêdzajcie czas waszego pielgrzymowania w bojaŸni; </v>
+<v n="18"> Wiedz¹c, ¿e nie tym, co zniszczalne, srebrem lub z³otem, zostaliœcie wykupieni z waszego marnego postêpowania przekazanego przez ojców; </v>
+<v n="19"> Lecz drog¹ krwi¹ Chrystusa jako baranka niewinnego i nieskalanego; </v>
+<v n="20"> Przeznaczonego do tego przed za³o¿eniem œwiata, a objawionego w czasach ostatecznych ze wzglêdu na was. </v>
+<v n="21"> Wy przez niego uwierzyliœcie w Boga, który go wskrzesi³ z martwych i da³ mu chwa³ê, aby wasza wiara i nadzieja by³y w Bogu. </v>
+<v n="22"> Skoro oczyœciliœcie swoje dusze, bêd¹c pos³uszni prawdzie przez Ducha ku nieob³udnej braterskiej mi³oœci, czystym sercem jedni drugich gor¹co mi³ujcie; </v>
+<v n="23"> Bêd¹c odrodzeni nie z nasienia zniszczalnego, ale z niezniszczalnego, przez s³owo Bo¿e, które jest ¿ywe i trwa na wieki. </v>
+<v n="24"> Gdy¿ wszelkie cia³o jest jak trawa, a wszelka chwa³a cz³owieka jak kwiat trawy. Trawa usch³a, a jej kwiat opad³; </v>
+<v n="25"> Lecz s³owo Pana trwa na wieki. A jest to s³owo, które zosta³o wam zwiastowane. </v>
+</c>

@@ -1,0 +1,27 @@
+<v n="1"> To powiedziawszy, Jezus podniós³ swoje oczy ku niebu i rzek³: Ojcze, nadesz³a godzina. Uwielbij swego Syna, aby te¿ twój Syn uwielbi³ ciebie; </v>
+<v n="2"> Jak mu da³eœ w³adzê nad wszelkim cia³em, aby da³ ¿ycie wieczne tym wszystkim, których mu da³eœ. </v>
+<v n="3"> A to jest ¿ycie wieczne, aby poznali ciebie, jedynego prawdziwego Boga i tego, którego pos³a³eœ, Jezusa Chrystusa. </v>
+<v n="4"> Ja uwielbi³em ciebie na ziemi i dokoñczy³em dzie³a, które mi da³eœ do wykonania. </v>
+<v n="5"> A teraz ty, Ojcze, uwielbij mnie u siebie t¹ chwa³¹, któr¹ mia³em u ciebie, zanim powsta³ œwiat. </v>
+<v n="6"> Objawi³em twoje imiê ludziom, których mi da³eœ ze œwiata. Twoimi byli i da³eœ mi ich, a oni zachowali twoje s³owa. </v>
+<v n="7"> A teraz poznali, ¿e wszystko, co mi da³eœ, pochodzi od ciebie. </v>
+<v n="8"> Da³em im bowiem s³owa, które mi da³eœ, a oni je przyjêli i prawdziwie poznali, ¿e wyszed³em od ciebie, i uwierzyli, ¿e ty mnie pos³a³eœ. </v>
+<v n="9"> Ja proszê za nimi. Nie proszê za œwiatem, ale za tymi, których mi da³eœ, bo s¹ twoi. </v>
+<v n="10"> I wszystko moje jest twoje, a twoje jest moje i jestem uwielbiony w nich. </v>
+<v n="11"> A nie jestem ju¿ na œwiecie, ale oni s¹ na œwiecie, a ja idê do ciebie. Ojcze œwiêty, zachowaj w twoim imieniu tych, których mi da³eœ, aby byli jedno jak i my. </v>
+<v n="12"> Gdy by³em z nimi na œwiecie, ja zachowywa³em ich w twoim imieniu. Strzeg³em tych, których mi da³eœ, i ¿aden z nich nie zgin¹³ prócz syna zatracenia, ¿eby siê wype³ni³o Pismo. </v>
+<v n="13"> Ale teraz idê do ciebie i mówiê to na œwiecie, aby mieli w sobie moj¹ radoœæ w pe³ni. </v>
+<v n="14"> Ja da³em im twoje s³owo, a œwiat ich znienawidzi³, bo nie s¹ ze œwiata, jak i ja nie jestem ze œwiata. </v>
+<v n="15"> Nie proszê, abyœ zabra³ ich ze œwiata, ale abyœ zachowa³ ich od z³ego. </v>
+<v n="16"> Nie s¹ ze œwiata, jak i ja nie jestem ze œwiata. </v>
+<v n="17"> Uœwiêæ ich w twojej prawdzie. Twoje s³owo jest prawd¹. </v>
+<v n="18"> Jak ty pos³a³eœ mnie na œwiat, tak i ja pos³a³em ich na œwiat. </v>
+<v n="19"> A ja za nich uœwiêcam samego siebie, aby i oni byli uœwiêceni w prawdzie. </v>
+<v n="20"> A nie tylko za nimi proszê, lecz i za tymi, którzy przez ich s³owo uwierz¹ we mnie; </v>
+<v n="21"> Aby wszyscy byli jedno, jak ty, Ojcze, we mnie, a ja w tobie, aby i oni byli w nas jedno, aby œwiat uwierzy³, ¿e ty mnie pos³a³eœ. </v>
+<v n="22"> I da³em im tê chwa³ê, któr¹ mi da³eœ, aby byli jedno, jak my jesteœmy jedno. </v>
+<v n="23"> Ja w nich, a ty we mnie, aby byli doskonali w jedno, ¿eby œwiat pozna³, ¿e ty mnie pos³a³eœ i ¿e umi³owa³eœ ich, jak i mnie umi³owa³eœ. </v>
+<v n="24"> Ojcze, chcê, aby ci, których mi da³eœ, byli ze mn¹ tam, gdzie ja jestem, aby ogl¹dali moj¹ chwa³ê, któr¹ mi da³eœ, poniewa¿ umi³owa³eœ mnie przed za³o¿eniem œwiata. </v>
+<v n="25"> Ojcze sprawiedliwy, œwiat ciebie nie pozna³, ale ja ciê pozna³em i oni poznali, ¿e ty mnie pos³a³eœ. </v>
+<v n="26"> Objawi³em im twoje imiê i jeszcze objawiê, aby mi³oœæ, któr¹ mnie umi³owa³eœ, by³a w nich i ja w nich. </v>
+</c>

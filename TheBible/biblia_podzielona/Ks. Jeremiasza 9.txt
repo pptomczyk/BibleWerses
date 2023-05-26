@@ -1,0 +1,27 @@
+<v n="1"> Oby moja g³owa by³a wod¹, a moje oczy Ÿród³em ³ez, abym dniem i noc¹ op³akiwa³ pomordowanych córki mego ludu! </v>
+<v n="2"> Obym mia³ na pustyni schronisko dla podró¿nych, abym móg³ opuœciæ swój lud i oddaliæ siê od nich! Wszyscy bowiem s¹ cudzo³o¿nikami, zgraj¹ zdrajców; </v>
+<v n="3"> I jak ³uk napinaj¹ swój jêzyk do k³amstwa. Nie wzmocnili siê prawd¹ na ziemi, bo od z³a do z³a przechodz¹, a mnie nie znaj¹, mówi PAN. </v>
+<v n="4"> Niech siê ka¿dy strze¿e swego bliŸniego, a bratu nie ufa, bo ka¿dy brat oszukuje podstêpnie i ka¿dy bliŸni postêpuje jak oszczerca. </v>
+<v n="5"> Ka¿dy te¿ oszukuje swego bliŸniego i nie mówi prawdy. Przyuczyli swój jêzyk do mówienia k³amstwa, mêcz¹ siê, aby pope³niæ nieprawoœæ. </v>
+<v n="6"> Twoje mieszkanie jest poœród ludu podstêpnego; z powodu podstêpu nie chc¹ mnie poznaæ, mówi PAN. </v>
+<v n="7"> Dlatego tak mówi PAN zastêpów: Oto przetopiê ich i wypróbujê; jak bowiem mam post¹piæ z córk¹ mego ludu? </v>
+<v n="8"> Ich jêzyk jest œmiercionoœn¹ strza³¹, wypowiada oszustwa. Jeden mówi ustami o pokoju ze swym przyjacielem, ale w sercu zastawia na niego sid³a. </v>
+<v n="9"> Czy¿ za to nie powinienem ich nawiedziæ? – mówi PAN. Czy¿ nad takim narodem moja dusza nie powinna siê zemœciæ? </v>
+<v n="10"> Z powodu tych gór podniosê p³acz i lament, z powodu pastwisk na pustkowiu – pieœñ ¿a³obn¹. S¹ bowiem spalone tak, ¿e nikt tamtêdy nie przechodzi ani odg³osu byd³a nie s³ychaæ; ptactwo niebieskie i zwierzêta rozbieg³y siê i odesz³y. </v>
+<v n="11"> I zamieniê Jerozolimê w gruzy, w legowisko smoków, a miasta Judy – w pustkowie, zostan¹ bez mieszkañca. </v>
+<v n="12"> Któ¿ jest tak m¹dry, aby móg³ to zrozumieæ? A do kogo mówi³y usta PANA, aby móg³ og³osiæ, dlaczego ziemia ginie i jest spalona jak pustynia, tak ¿e przez ni¹ nikt nie przechodzi? </v>
+<v n="13"> PAN bowiem mówi: Dlatego ¿e porzucili moje prawo, które im przed³o¿y³em, a nie s³uchali mojego g³osu ani nie szli za nim; </v>
+<v n="14"> Ale postêpowali wed³ug uporu swego serca i szli za Baalami, jak ich nauczyli ich ojcowie; </v>
+<v n="15"> Dlatego tak mówi PAN zastêpów, Bóg Izraela: Oto nakarmiê ich, ten lud, pio³unem i napojê ich wod¹ ¿ó³ci. </v>
+<v n="16"> Rozproszê ich miêdzy narodami, których nie znali oni ani ich ojcowie, i poœlê za nimi miecz, a¿ ich doszczêtnie wytracê. </v>
+<v n="17"> Tak mówi PAN zastêpów: Zastanówcie siê i wezwijcie p³aczki, i niech przyjd¹; poœlijcie po te, które s¹ wyæwiczone w tym, i niech przyjd¹. </v>
+<v n="18"> Niech siê pospiesz¹, niech podnios¹ nad nami lament, aby ³zami sp³ywa³y nam oczy i powieki ocieka³y wod¹. </v>
+<v n="19"> G³os lamentu bowiem s³ychaæ z Syjonu: Jak¿e jesteœmy spustoszeni! Jesteœmy bardzo zawstydzeni, bo opuœciliœmy ziemiê, zburzono nasze mieszkania. </v>
+<v n="20"> S³uchajcie wiêc, kobiety, s³owa PANA, niech wasze ucho przyjmie wyrok jego ust, abyœcie uczy³y wasze córki lamentu, a jedna drug¹ – pieœni ¿a³obnej. </v>
+<v n="21"> Œmieræ bowiem wtargnê³a przez nasze okna, wesz³a do naszych pa³aców, aby wytraciæ dzieci na rynku i m³odzieñców na ulicach. </v>
+<v n="22"> Mów: Tak mówi PAN: Nawet trupy ludzkie padn¹ jak gnój na polu i jak snopy za ¿niwiarzem, a nikt ich nie zbierze. </v>
+<v n="23"> Tak mówi PAN: Niech siê nie chlubi m¹dry swoj¹ m¹droœci¹, niech siê nie chlubi mocarz swoj¹ si³¹ i niech siê nie chlubi bogaty swoim bogactwem; </v>
+<v n="24"> Ale kto chce siê chlubiæ, niech siê chlubi tym, ¿e rozumie i zna mnie, wie, ¿e ja jestem PAN, który okazuje mi³osierdzie, s¹d i sprawiedliwoœæ na ziemi. To bowiem mi siê podoba, mówi PAN. </v>
+<v n="25"> Oto nadchodz¹ dni, mówi PAN, w których nawiedzê ka¿dego obrzezanego i nieobrzezanego; </v>
+<v n="26"> Egipt, Judê, Edom, Ammonitów, Moabitów i wszystkich, którzy s¹ w najdalszych zak¹tkach i mieszkaj¹ na pustyni. Wszystkie te narody bowiem s¹ nieobrzezane, a ca³y dom Izraela ma nieobrzezane serce. </v>
+</c>

@@ -1,0 +1,11 @@
+<v n="1"> Alleluja. B³ogos³awiony cz³owiek, który boi siê PANA i ma upodobanie w jego przykazaniach. </v>
+<v n="2"> Jego potomstwo bêdzie potê¿ne na ziemi, pokolenie prawych bêdzie b³ogos³awione. </v>
+<v n="3"> Dobrobyt i bogactwo s¹ w jego domu, a jego sprawiedliwoœæ trwa na wieki. </v>
+<v n="4"> Dla prawych wschodzi œwiat³oœæ w ciemnoœci; on jest ³askawy, mi³osierny i sprawiedliwy. </v>
+<v n="5"> Dobry cz³owiek lituje siê i po¿ycza, i prowadzi swoje sprawy rozwa¿nie. </v>
+<v n="6"> Na pewno nigdy siê nie zachwieje, sprawiedliwy na wieki pozostanie w pamiêci. </v>
+<v n="7"> Nie bêdzie siê ba³ z³ej nowiny, jego serce jest stateczne, ufa PANU. </v>
+<v n="8"> Jego serce jest umocnione, nie bêdzie siê ba³, a¿ zobaczy pomstê nad swymi wrogami. </v>
+<v n="9"> Rozrzuci³ i da³ ubogim, jego sprawiedliwoœæ trwa na wieki, jego róg bêdzie wywy¿szony w chwale. </v>
+<v n="10"> Niegodziwy zobaczy to i rozgniewa siê, zgrzytnie zêbami i uschnie, pragnienie niegodziwych zginie. </v>
+</c>

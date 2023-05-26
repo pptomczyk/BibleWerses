@@ -1,0 +1,23 @@
+<v n="1"> I sta³o siê za dni Aswerusa – tego Aswerusa, który królowa³ od Indii a¿ do Etiopii nad stu dwudziestoma siedmioma prowincjami; </v>
+<v n="2"> ¯e w tych dniach, gdy król Aswerus zasiada³ na tronie swego królestwa w pa³acu Suza; </v>
+<v n="3"> W trzecim roku swego panowania wyprawi³ u siebie ucztê dla wszystkich swoich ksi¹¿¹t i s³ug. Stawili siê przed nim dowódcy Persów i Medów oraz dostojnicy i ksi¹¿êta prowincji. </v>
+<v n="4"> I pokazywa³ bogactwa i chwa³ê swego królestwa oraz wspania³oœæ swego majestatu przez wiele dni, mianowicie przez sto osiemdziesi¹t dni. </v>
+<v n="5"> A po up³ywie tych dni król wyprawi³ ucztê dla wszystkich ludzi znajduj¹cych siê w pa³acu Suza, od najwiêkszego a¿ do najmniejszego, przez siedem dni na dziedziñcu, w ogrodzie pa³acu króla. </v>
+<v n="6"> Wisia³y w nim bia³e, zielone i b³êkitne tkaniny przymocowane sznurami z bisioru i purpury do srebrnych pierœcieni na s³upach z marmuru. Z³ote i srebrne ³o¿a sta³y na posadzce z kryszta³u i marmuru, z bia³ego i czarnego marmuru. </v>
+<v n="7"> A napój podawano w z³otych naczyniach, ka¿de z naczyñ by³o zaœ inne, a wina królewskiego by³o pod dostatkiem, jak przysta³o na króla. </v>
+<v n="8"> Ale do picia, wed³ug polecenia, nikt nikogo nie przymusza³. Tak bowiem rozkaza³ król wszystkim zarz¹dcom swego domu, aby czynili wed³ug woli ka¿dego. </v>
+<v n="9"> Królowa Waszti tak¿e wyprawi³a ucztê dla kobiet w domu królewskim, który nale¿a³ do króla Aswerusa. </v>
+<v n="10"> A dnia siódmego, gdy serce króla rozweseli³o siê winem, rozkaza³ on Mechumanie, Bizzecie, Charbonie, Bigcie, Abagcie, Zetarowi i Karkasowi, siedmiu eunuchom, którzy s³u¿yli przy królu Aswerusie; </v>
+<v n="11"> Aby przyprowadzili przed oblicze króla królow¹ Waszti w koronie królewskiej, chc¹c pokazaæ ludowi i ksi¹¿êtom jej piêknoœæ. By³a bowiem bardzo piêkna. </v>
+<v n="12"> Ale królowa Waszti odmówi³a przyjœcia na rozkaz króla, przekazany przez eunuchów. Król wiêc bardzo siê rozgniewa³, a gniew w nim zap³on¹³. </v>
+<v n="13"> Wtedy król zapyta³ mêdrców obeznanych z czasami (gdy¿ taki by³ zwyczaj, aby sprawy królewskie przedk³adaæ wszystkim znawcom prawa i s¹du; </v>
+<v n="14"> A jego najbli¿szymi byli: Karszena, Szetar, Admata, Tarszisz, Meres, Marsena i Memukan, siedmiu ksi¹¿¹t perskich i medyjskich, którzy ogl¹dali oblicze króla i zajmowali pierwsze miejsce w królestwie); </v>
+<v n="15"> Co wed³ug prawa nale¿y czyniæ z królow¹ Waszti za to, ¿e nie wykona³a rozkazu króla Aswerusa przekazanego przez eunuchów? </v>
+<v n="16"> Wtedy Memukan odpowiedzia³ przed królem i ksi¹¿êtami: Królowa Waszti wyst¹pi³a nie tylko przeciw samemu królowi, ale przeciw wszystkim ksi¹¿êtom i wszystkim ludom, które ¿yj¹ we wszystkich prowincjach króla Aswerusa. </v>
+<v n="17"> Kiedy bowiem postêpek królowej rozniesie siê wœród wszystkich kobiet, wzgardz¹ one swoimi mê¿ami w swoich oczach i powiedz¹: Król Aswerus rozkaza³ przyprowadziæ królow¹ Waszti przed swoje oblicze, a ona nie przysz³a. </v>
+<v n="18"> Jeszcze dzisiaj ksiê¿niczki perskie i medyjskie, które s³ysza³y o postêpku królowej, bêd¹ mówi³y to samo wszystkim ksi¹¿êtom króla, a bêdzie wiele pogardy i gniewu. </v>
+<v n="19"> Dlatego wiêc, jeœli król uzna to za s³uszne, niech wyjdzie od króla wyrok i niech bêdzie wpisany do praw perskich i medyjskich, które s¹ nieodwo³alne: ¯e Waszti nie przyjdzie ju¿ przed oblicze króla Aswerusa, a jej godnoœæ królewsk¹ niech król da innej, lepszej od niej. </v>
+<v n="20"> A gdy ten wyrok, wydany przez króla, bêdzie og³oszony w ca³ym jego królestwie – a jest ono wielkie – wtedy wszystkie ¿ony oka¿¹ szacunek swoim mê¿om, od wielkiego a¿ do ma³ego. </v>
+<v n="21"> Ta rada podoba³a siê królowi i ksi¹¿êtom i król uczyni³ wed³ug rady Memukana. </v>
+<v n="22"> I rozes³a³ listy do wszystkich prowincji królewskich, do ka¿dej prowincji napisany jej w³asnym pismem, i do ka¿dego ludu w jego jêzyku, aby ka¿dy mê¿czyzna by³ panem w swoim domu. A og³oszono to w jêzyku ka¿dego narodu. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> A Nadab i Abihu, synowie Aarona, wziêli ka¿dy swoj¹ kadzielnicê, w³o¿yli do nich ogieñ, na³o¿yli na nie kadzid³a i ofiarowali przed PANEM obcy ogieñ, którego im nie nakaza³. </v>
+<v n="2"> Wtedy wyszed³ ogieñ sprzed PANA i poch³on¹³ ich, i pomarli przed PANEM. </v>
+<v n="3"> Wówczas Moj¿esz powiedzia³ do Aarona: Oto co PAN powiedzia³: W tych, którzy zbli¿aj¹ siê do mnie, bêdê uœwiêcony i bêdê uwielbiony przed ca³ym ludem. I Aaron zamilk³. </v>
+<v n="4"> Moj¿esz wezwa³ Miszaela i Elsafana, synów Uzziela, stryja Aarona, i powiedzia³ do nich: Zbli¿cie siê i wynieœcie waszych braci sprzed œwi¹tyni poza obóz. </v>
+<v n="5"> Podeszli wiêc i wynieœli ich w ich tunikach poza obóz, jak Moj¿esz nakaza³. </v>
+<v n="6"> Potem Moj¿esz powiedzia³ do Aarona i jego synów, Eleazara i Itamara: Nie obna¿ajcie swoich g³ów ani nie rozdzierajcie swoich szat, abyœcie nie pomarli i aby Bóg nie rozgniewa³ siê na ca³e zgromadzenie. Lecz wasi bracia, ca³y dom Izraela, niech op³akuj¹ ten po¿ar, który PAN rozpali³. </v>
+<v n="7"> Nie odchodŸcie od wejœcia do Namiotu Zgromadzenia, abyœcie nie pomarli, poniewa¿ oliwa namaszczenia PANA jest na was. I post¹pili wed³ug s³owa Moj¿esza. </v>
+<v n="8"> Nastêpnie PAN powiedzia³ do Aarona: </v>
+<v n="9"> Nie pij wina ani mocnego napoju, ani ty, ani twoi synowie z tob¹, gdy bêdziecie wchodziæ do Namiotu Zgromadzenia, abyœcie nie pomarli. To bêdzie ustawa wieczna dla wszystkich waszych pokoleñ; </v>
+<v n="10"> Abyœcie mogli rozró¿niaæ miêdzy tym, co œwiête, a tym, co pospolite, miêdzy tym, co nieczyste, a tym, co czyste; </v>
+<v n="11"> I abyœcie nauczali synów Izraela wszystkich ustaw, które PAN nakaza³ im przez Moj¿esza. </v>
+<v n="12"> I Moj¿esz powiedzia³ do Aarona oraz jego pozosta³ych synów, Eleazara i Itamara: WeŸcie ofiarê pokarmow¹, która pozosta³a z ofiar ogniowych PANA, i jedzcie j¹ bez zakwasu przy o³tarzu. Jest to bowiem rzecz najœwiêtsza. </v>
+<v n="13"> Bêdziecie j¹ spo¿ywaæ w miejscu œwiêtym, bo jest to czêœæ nale¿na tobie i twoim synom z ofiar ogniowych PANA. Tak mi bowiem rozkazano. </v>
+<v n="14"> Tak¿e mostek ko³ysania i ³opatkê wzniesienia bêdziecie spo¿ywaæ w miejscu czystym, ty, twoi synowie i twoje córki z tob¹. To bowiem nale¿y siê tobie, a tak¿e twoim synom, dane wam z ofiar pojednawczych synów Izraela. </v>
+<v n="15"> Przynios¹ ³opatkê wzniesienia i mostek ko³ysania wraz z t³uszczem z ofiar ogniowych, aby ko³ysaæ je przed PANEM; a bêdzie to dla ciebie i twoich synów z tob¹ na mocy ustawy wiecznej, tak jak PAN rozkaza³. </v>
+<v n="16"> Potem Moj¿esz pilnie szuka³ koz³a na ofiarê za grzech, ale okaza³o siê, ¿e zosta³ on ju¿ spalony. I rozgniewa³ siê na synów Aarona, Eleazara i Itamara, którzy mu pozostali, i mówi³: </v>
+<v n="17"> Dlaczego nie zjedliœcie ofiary za grzech w miejscu œwiêtym? Przecie¿ jest ona rzecz¹ najœwiêtsz¹, któr¹ dano wam, abyœcie nosili nieprawoœæ ca³ego ludu, abyœcie dokonali za niego przeb³agania przed PANEM. </v>
+<v n="18"> Oto jej krwi nie wniesiono do wnêtrza miejsca œwiêtego. Powinniœcie byli j¹ jeœæ na miejscu œwiêtym, jak nakaza³em. </v>
+<v n="19"> Wtedy Aaron odpowiedzia³ Moj¿eszowi: Oto dziœ z³o¿yli swoj¹ ofiarê za grzech i swoj¹ ofiarê ca³opaln¹ przed PANEM, a taka rzecz mnie spotka³a. Gdybym dziœ spo¿y³ ofiarê za grzech, czy to by siê spodoba³o PANU? </v>
+<v n="20"> Gdy Moj¿esz to us³ysza³, uzna³ to za s³uszne. </v>
+</c>

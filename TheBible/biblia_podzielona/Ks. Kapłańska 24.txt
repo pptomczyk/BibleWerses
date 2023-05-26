@@ -1,0 +1,24 @@
+<v n="1"> I PAN powiedzia³ do Moj¿esza: </v>
+<v n="2"> Rozka¿ synom Izraela, aby przynieœli ci czyst¹, wyciœniêt¹ oliwê z oliwek, na oœwietlenie, aby lampy ci¹gle siê pali³y. </v>
+<v n="3"> Aaron sporz¹dzi je na zewn¹trz zas³ony Œwiadectwa, w Namiocie Zgromadzenia, aby siê pali³y od wieczora a¿ do poranka przed PANEM nieustannie. Bêdzie to wieczysta ustawa przez wszystkie wasze pokolenia. </v>
+<v n="4"> Bêdzie ustawia³ lampy na czystym œwieczniku przed PANEM nieustannie. </v>
+<v n="5"> WeŸmiesz te¿ m¹ki pszennej i upieczesz z niej dwanaœcie placków, ka¿dy placek bêdzie z dwóch dziesi¹tych efy. </v>
+<v n="6"> Potem u³o¿ysz je w dwóch rzêdach, po szeœæ w ka¿dym rzêdzie, na czystym stole przed PANEM. </v>
+<v n="7"> Na ka¿dy rz¹d po³o¿ysz czystego kadzid³a, aby by³o pami¹tk¹ na chlebie, ofiar¹ spalon¹ dla PANA. </v>
+<v n="8"> W ka¿dy dzieñ szabatu kap³an bêdzie je nieustannie uk³adaæ przed PANEM, bior¹c je od synów Izraela jako wieczne przymierze. </v>
+<v n="9"> I bêd¹ nale¿a³y do Aarona i jego synów: bêd¹ je jeœæ w miejscu œwiêtym, gdy¿ jest to dla nich najœwiêtsza rzecz ze spalanych ofiar PANA jako wieczysta ustawa. </v>
+<v n="10"> W tym czasie syn Izraelitki, którego ojcem by³ Egipcjanin, wyszed³ miêdzy synów Izraela. I pok³óci³ siê w obozie syn tej Izraelitki z pewnym Izraelit¹. </v>
+<v n="11"> I syn Izraelitki bluŸni³ imieniu PANA i przeklina³. Przyprowadzono go wiêc do Moj¿esza. A jego matce by³o na imiê Szelomit, by³a córk¹ Dibriego, z pokolenia Dana. </v>
+<v n="12"> I osadzili go pod stra¿¹, ¿eby im oznajmiono, co PAN rozka¿e uczyniæ. </v>
+<v n="13"> Wtedy PAN powiedzia³ do Moj¿esza: </v>
+<v n="14"> WyprowadŸ bluŸniercê poza obóz i niech wszyscy, którzy to s³yszeli, po³o¿¹ swoje rêce na jego g³owie i niech ukamienuje go ca³e zgromadzenie. </v>
+<v n="15"> A synom Izraela powiedz tak: Ktokolwiek przeklnie swego Boga, obci¹¿y siê swym grzechem. </v>
+<v n="16"> Ten równie¿, kto zbluŸni³ imieniu PANA, poniesie œmieræ: Ukamienuje go ca³e zgromadzenie. Zarówno przybysz, jak i rodowity mieszkaniec, jeœli zbluŸni imieniu PANA, poniesie œmieræ. </v>
+<v n="17"> Ka¿dy, kto zabije jakiegokolwiek cz³owieka, poniesie œmieræ. </v>
+<v n="18"> A kto zabije zwierzê, zwróci inne: zwierzê za zwierzê. </v>
+<v n="19"> Kto te¿ rani³ swego bliŸniego, niech mu uczyni¹ tak, jak on uczyni³. </v>
+<v n="20"> Z³amanie za z³amanie, oko za oko, z¹b za z¹b; jak rani³ cz³owieka, tak niech mu oddadz¹. </v>
+<v n="21"> Kto zabije zwierzê, zwróci inne; lecz kto zabije cz³owieka, poniesie œmieræ. </v>
+<v n="22"> Bêdziecie mieli jedno prawo zarówno dla przybysza, jak i dla rodowitego mieszkañca, gdy¿ ja jestem PAN, wasz Bóg. </v>
+<v n="23"> I Moj¿esz przemówi³ do synów Izraela, a wyprowadzili bluŸniercê poza obóz i ukamienowali go. I synowie Izraela uczynili tak, jak PAN przykaza³ Moj¿eszowi. </v>
+</c>

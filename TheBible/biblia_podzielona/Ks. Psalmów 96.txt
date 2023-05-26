@@ -1,0 +1,14 @@
+<v n="1"> Œpiewajcie PANU now¹ pieœñ, œpiewaj PANU, ca³a ziemio! </v>
+<v n="2"> Œpiewajcie PANU, b³ogos³awcie jego imiê, opowiadajcie o jego zbawieniu dzieñ po dniu. </v>
+<v n="3"> G³oœcie wœród narodów jego chwa³ê, wœród wszystkich ludów jego cuda. </v>
+<v n="4"> Wielki bowiem jest PAN i godny wszelkiej chwa³y, straszliwszy nad wszystkich bogów. </v>
+<v n="5"> Gdy¿ wszyscy bogowie narodów s¹ bo¿kami, a PAN uczyni³ niebiosa. </v>
+<v n="6"> Czeœæ i majestat przed jego obliczem, moc i piêkno w jego œwi¹tyni. </v>
+<v n="7"> Oddajcie PANU, rodziny narodów, oddajcie PANU chwa³ê i moc. </v>
+<v n="8"> Oddajcie PANU chwa³ê jego imienia, przynieœcie dary i wejdŸcie do jego przedsionków. </v>
+<v n="9"> Oddajcie PANU pok³on w ozdobie œwiêtoœci, niech ca³a ziemia dr¿y przed nim. </v>
+<v n="10"> Mówcie wœród pogan: PAN króluje; œwiat bêdzie utwierdzony, aby siê nie poruszy³, i on bêdzie s¹dzi³ ludzi sprawiedliwie. </v>
+<v n="11"> Niech siê wesel¹ niebiosa i niech raduje siê ziemia; niech zaszumi morze i to, co w nim jest. </v>
+<v n="12"> Niech raduj¹ siê pola i wszystko, co jest na nich, wtedy radoœnie wykrzykn¹ wszystkie drzewa leœne; </v>
+<v n="13"> Przed obliczem PANA, bo idzie, zaprawdê idzie, aby s¹dziæ ziemiê. Bêdzie s¹dzi³ œwiat w sprawiedliwoœci, a narody w swojej prawdzie. </v>
+</c>

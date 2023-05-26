@@ -1,0 +1,9 @@
+<v n="1"> I PAN przemówi³ do Moj¿esza: </v>
+<v n="2"> Powiedz synom Izraela: Jeœli kobieta pocznie i urodzi ch³opca, bêdzie nieczysta przez siedem dni; jak w dniach jej od³¹czenia z powodu swej miesiêcznej s³aboœci, bêdzie nieczysta. </v>
+<v n="3"> A ósmego dnia zostanie obrzezany jego napletek. </v>
+<v n="4"> Potem ona pozostanie przez trzydzieœci trzy dni we krwi swego oczyszczenia; nie dotknie ¿adnej œwiêtej rzeczy ani nie wejdzie do œwi¹tyni, a¿ wype³ni¹ siê dni jej oczyszczenia. </v>
+<v n="5"> A jeœli urodzi dziewczynkê, bêdzie nieczysta przez dwa tygodnie, jak podczas jej od³¹czenia. Potem pozostanie przez szeœædziesi¹t szeœæ dni we krwi swego oczyszczenia. </v>
+<v n="6"> A gdy wype³ni¹ siê dni jej oczyszczenia po synu lub po córce, przyniesie do kap³ana przed wejœcie do Namiotu Zgromadzenia rocznego baranka na ca³opalenie i m³odego go³êbia lub synogarlicê na ofiarê za grzech; </v>
+<v n="7"> Ten z³o¿y to w ofierze przed PANEM i dokona za ni¹ przeb³agania; i tak bêdzie oczyszczona od up³ywu swojej krwi. Takie jest prawo dla tej, która urodzi³a ch³opca lub dziewczynkê. </v>
+<v n="8"> A jeœli nie mo¿e przynieœæ baranka, to przyniesie dwie synogarlice lub dwa m³ode go³êbie: jednego na ca³opalenie, a drugiego na ofiarê za grzech. I kap³an dokona za ni¹ przeb³agania i bêdzie czysta. </v>
+</c>

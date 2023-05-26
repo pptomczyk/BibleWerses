@@ -1,0 +1,19 @@
+<v n="1"> Nie nam, PANIE, nie nam, ale twemu imieniu daj chwa³ê za twoje mi³osierdzie i prawdê. </v>
+<v n="2"> Czemu maj¹ mówiæ poganie: Gdzie¿ teraz jest ich Bóg? </v>
+<v n="3"> A nasz Bóg jest w niebie, czyni wszystko, co zechce. </v>
+<v n="4"> Ich bo¿ki to srebro i z³oto, dzie³o r¹k ludzkich. </v>
+<v n="5"> Usta maj¹, ale nie mówi¹; maj¹ oczy, ale nie widz¹. </v>
+<v n="6"> Uszy maj¹, ale nie s³ysz¹; maj¹ nozdrza, ale nie czuj¹. </v>
+<v n="7"> Rêce maj¹, ale nie dotykaj¹; maj¹ nogi, ale nie chodz¹; ani gard³em swoim nie wydaj¹ g³osu. </v>
+<v n="8"> Niech bêd¹ do nich podobni ci, którzy je robi¹, i wszyscy, którzy im ufaj¹. </v>
+<v n="9"> Izraelu, ufaj PANU; on jest ich pomoc¹ i tarcz¹. </v>
+<v n="10"> Domu Aarona, ufaj PANU; on jest ich pomoc¹ i tarcz¹. </v>
+<v n="11"> Wy, którzy siê boicie PANA, ufajcie PANU; on jest ich pomoc¹ i tarcz¹. </v>
+<v n="12"> PAN pamiêta o nas, bêdzie b³ogos³awi³; bêdzie b³ogos³awi³ domowi Izraela, bêdzie b³ogos³awi³ domowi Aarona. </v>
+<v n="13"> Bêdzie b³ogos³awi³ tym, którzy boj¹ siê PANA, i ma³ym, i wielkim. </v>
+<v n="14"> Rozmno¿y was PAN, was i waszych synów. </v>
+<v n="15"> B³ogos³awieni jesteœcie przez PANA, który stworzy³ niebo i ziemiê. </v>
+<v n="16"> Niebiosa s¹ niebiosami PANA, ale ziemiê da³ synom ludzkim. </v>
+<v n="17"> Umarli nie bêd¹ chwalili PANA ani nikt z tych, którzy zstêpuj¹ do miejsca milczenia. </v>
+<v n="18"> Ale my bêdziemy b³ogos³awili PANA, odt¹d a¿ na wieki. Alleluja. </v>
+</c>

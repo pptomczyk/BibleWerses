@@ -1,0 +1,12 @@
+<v n="1"> S³owa Nehemiasza, syna Chakaliasza. Oto w miesi¹cu Kislew, dwudziestego roku, gdy przebywa³em w pa³acu Suza; </v>
+<v n="2"> Przyszed³ Chanani, jeden z moich braci, a wraz z nim niektórzy mê¿czyŸni z Judy. Zapyta³em ich o ocala³ych ¯ydów, którzy prze¿yli niewolê, i o Jerozolimê. </v>
+<v n="3"> I odpowiedzieli mi: Ostatki spoœród tych, którzy w tamtej prowincji prze¿yli niewolê, s¹ w wielkim utrapieniu i pohañbieniu; ponadto mur Jerozolimy jest zburzony i jej bramy zosta³y spalone ogniem. </v>
+<v n="4"> A gdy us³ysza³em te s³owa, usiad³em, p³aka³em i smuci³em siê przez kilka dni, poœci³em i modli³em siê przed Bogiem niebios. </v>
+<v n="5"> I powiedzia³em: Ach PANIE, Bo¿e niebios, Bo¿e wielki i straszny, który zachowujesz przymierze i okazujesz mi³osierdzie tym, którzy ciê mi³uj¹ i przestrzegaj¹ twoich przykazañ. </v>
+<v n="6"> Niech twoje ucho bêdzie uwa¿ne, a twoje oczy bêd¹ otwarte, aby wys³uchaæ modlitwy twego s³ugi, któr¹ teraz zanoszê do ciebie dniem i noc¹ za synów Izraela, twoje s³ugi, i w której wyznajê grzechy synów Izraela, które pope³niliœmy przeciwko tobie. Równie¿ ja i dom mego ojca zgrzeszyliœmy. </v>
+<v n="7"> Post¹piliœmy bardzo niegodziwie wobec ciebie i nie przestrzegaliœmy przykazañ, ustaw ani praw, które nakaza³eœ Moj¿eszowi, swemu s³udze. </v>
+<v n="8"> Wspomnij, proszê, na s³owo, które przekaza³eœ Moj¿eszowi, swemu s³udze, gdy powiedzia³eœ: Jeœli przekroczycie moje przykazania, to rozproszê was miêdzy narodami; </v>
+<v n="9"> Lecz jeœli nawrócicie siê do mnie i bêdziecie przestrzegaæ moich przykazañ i wype³niaæ je, to choæby wasi wygnañcy byli na krañcu nieba, zgromadzê ich stamt¹d i przyprowadzê na miejsce, które wybra³em, aby tam przebywa³o moje imiê. </v>
+<v n="10"> Oni bowiem s¹ twoimi s³ugami i twoim ludem, który odkupi³eœ swoj¹ wielk¹ moc¹ i siln¹ rêk¹. </v>
+<v n="11"> Proszê, Panie, niech twoje ucho bêdzie uwa¿ne na modlitwê twego s³ugi i na modlitwê twoich s³ug, którzy pragn¹ baæ siê twego imienia. Spraw dziœ, proszê, aby poszczêœci³o siê twemu s³udze, i oka¿ mu ³askê na oczach tego cz³owieka. By³em bowiem podczaszym króla. </v>
+</c>

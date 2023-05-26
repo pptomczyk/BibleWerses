@@ -1,0 +1,10 @@
+<v n="1"> Jotam mia³ dwadzieœcia piêæ lat, kiedy zacz¹³ królowaæ, i królowa³ szesnaœcie lat w Jerozolimie. Jego matka mia³a na imiê Jerusza, by³a córk¹ Sadoka. </v>
+<v n="2"> Czyni³ on to, co prawe w oczach PANA, wed³ug wszystkiego, co czyni³ jego ojciec Uzjasz, tylko nie wchodzi³ do œwi¹tyni PANA. Ale lud by³ nadal zepsuty. </v>
+<v n="3"> On zbudowa³ bramê górn¹ domu PANA i wykona³ wiele prac na murach Ofelu. </v>
+<v n="4"> Ponadto pobudowa³ miasta w górach Judy, a w lasach pobudowa³ zamki i wie¿e. </v>
+<v n="5"> Walczy³ równie¿ z królem Ammonitów i pokona³ ich. Synowie Ammona dali mu tego roku sto talentów srebra i dziesiêæ tysiêcy kor pszenicy oraz dziesiêæ tysiêcy kor jêczmienia. Tyle samo dali mu synowie Ammona w drugim i trzecim roku. </v>
+<v n="6"> A tak Jotam umocni³ siê, gdy¿ przygotowa³ swoje drogi przed PANEM, swoim Bogiem. </v>
+<v n="7"> A pozosta³e dzieje Jotama, wszystkie jego wojny i jego drogi, s¹ zapisane w ksiêdze królów Izraela i Judy. </v>
+<v n="8"> Mia³ dwadzieœcia piêæ lat, kiedy zacz¹³ królowaæ, i królowa³ szesnaœcie lat w Jerozolimie. </v>
+<v n="9"> Potem Jotam zasn¹³ ze swoimi ojcami i pogrzebano go w mieœcie Dawida. A jego syn Achaz królowa³ w jego miejsce. </v>
+</c>

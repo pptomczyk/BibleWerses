@@ -1,0 +1,12 @@
+<v n="1"> Psalm Dawida. Oddajcie PANU, synowie mocarzy, oddajcie PANU chwa³ê i moc. </v>
+<v n="2"> Oddajcie PANU chwa³ê nale¿n¹ jego imieniu, oddajcie PANU pok³on w ozdobie œwiêtoœci. </v>
+<v n="3"> G³os PANA nad wodami; zagrzmia³ Bóg chwa³y, PAN nad wielkimi wodami. </v>
+<v n="4"> G³os PANA potê¿ny, g³os PANA pe³en majestatu. </v>
+<v n="5"> G³os PANA ³amie cedry, PAN ³amie cedry Libanu; </v>
+<v n="6"> I sprawia, ¿e skacz¹ jak cielê, Liban i Sirion jak m³ody jednoro¿ec. </v>
+<v n="7"> G³os PANA krzesze p³omienie ognia. </v>
+<v n="8"> G³os PANA wstrz¹sa pustyni¹, PAN wstrz¹sa pustyni¹ Kadesz. </v>
+<v n="9"> G³os PANA sprawia, ¿e z bólem rodz¹ ³anie i ogo³acaj¹ siê lasy, a w jego œwi¹tyni ka¿dy opowiada o jego chwale. </v>
+<v n="10"> PAN zasiada nad potopem, PAN zasiada jako Król na wieki. </v>
+<v n="11"> PAN doda mocy swojemu ludowi, PAN pob³ogos³awi swój lud pokojem. </v>
+</c>

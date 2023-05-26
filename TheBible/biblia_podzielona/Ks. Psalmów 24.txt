@@ -1,0 +1,11 @@
+<v n="1"> Psalm Dawida. Do PANA nale¿y ziemia i wszystko, co j¹ nape³nia, œwiat i jego mieszkañcy. </v>
+<v n="2"> Na morzach bowiem ugruntowa³ go i utwierdzi³ na rzekach. </v>
+<v n="3"> Któ¿ wst¹pi na górê PANA? Kto stanie w jego œwiêtym miejscu? </v>
+<v n="4"> Cz³owiek r¹k nieskalanych i czystego serca, który nie sk³ania swej duszy ku marnoœci i nie przysiêga podstêpnie. </v>
+<v n="5"> On otrzyma b³ogos³awieñstwo od PANA i sprawiedliwoœæ od Boga, swego Zbawiciela. </v>
+<v n="6"> To jest pokolenie tych, którzy go szukaj¹, którzy szukaj¹ twego oblicza, Bo¿e Jakuba. Sela. </v>
+<v n="7"> Podnieœcie, o bramy, wasze g³owy; podnieœcie siê, wrota odwieczne, aby wszed³ Król chwa³y. </v>
+<v n="8"> Któ¿ jest tym Królem chwa³y? PAN mocny i potê¿ny, PAN potê¿ny w boju. </v>
+<v n="9"> Podnieœcie, o bramy, wasze g³owy; podnieœcie siê, wrota odwieczne, aby wszed³ Król chwa³y. </v>
+<v n="10"> Któ¿ jest tym Królem chwa³y? PAN zastêpów, on jest Królem chwa³y. Sela. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> Potem królowa³ król Sedekiasz, syn Jozjasza, w miejsce Choniasza, syna Joakima, którego Nabuchodonozor, król Babilonu, ustanowi³ królem w ziemi Judy. </v>
+<v n="2"> Lecz ani on, ani jego s³udzy, ani lud tej ziemi nie s³uchali s³ów PANA, które wypowiedzia³ przez proroka Jeremiasza. </v>
+<v n="3"> Król Sedekiasz jednak pos³a³ Jehuchala, syna Szelemiasza, i Sofoniasza, syna Maasejasza, kap³ana, do proroka Jeremiasza, aby powiedzieli: Módl siê za nas do PANA, naszego Boga. </v>
+<v n="4"> Jeremiasz zaœ chodzi³ swobodnie wœród ludu, gdy¿ jeszcze nie wtr¹cono go do wiêzienia. </v>
+<v n="5"> Tymczasem wojsko faraona wyruszy³o z Egiptu. A gdy us³yszeli tê wieœæ Chaldejczycy oblegaj¹cy Jerozolimê, odst¹pili od Jerozolimy. </v>
+<v n="6"> I s³owo PANA dosz³o do proroka Jeremiasza mówi¹ce: </v>
+<v n="7"> To mówi PAN, Bóg Izraela: Tak powiedzcie królowi Judy, który pos³a³ was do mnie, abyœcie siê mnie radzili: Oto wojsko faraona, które wyruszy³o wam na pomoc, wróci do swojej ziemi, do Egiptu. </v>
+<v n="8"> I Chaldejczycy powróc¹, i bêd¹ walczyli przeciwko temu miastu, zdobêd¹ je i spal¹ ogniem. </v>
+<v n="9"> Tak mówi PAN: Nie zwódŸcie samych siebie, mówi¹c: Z pewnoœci¹ Chaldejczycy odst¹pi¹ od nas. Bo nie odst¹pi¹. </v>
+<v n="10"> Choæbyœcie nawet pobili ca³e wojsko Chaldejczyków, którzy walcz¹ z wami, i zostaliby z nich tylko ranni, to ci powstaliby ze swoich namiotów i ogniem spaliliby to miasto. </v>
+<v n="11"> A gdy wojsko Chaldejczyków odst¹pi³o od Jerozolimy przed wojskiem faraona; </v>
+<v n="12"> Jeremiasz wychodzi³ z Jerozolimy, aby udaæ siê do ziemi Beniamina, by tym sposobem ujœæ stamt¹d poœród ludu. </v>
+<v n="13"> A gdy by³ ju¿ w Bramie Beniamina, znajdowa³ siê tam dowódca stra¿y, imieniem Jirijasz, syn Szelemiasza, syna Chananiasza; ten pojma³ proroka Jeremiasza, mówi¹c: Przechodzisz do Chaldejczyków! </v>
+<v n="14"> Jeremiasz odpowiedzia³: Nieprawda, nie przechodzê do Chaldejczyków. Ale tamten nie chcia³ go s³uchaæ. Jirijasz pojma³ Jeremiasza i przyprowadzi³ go do ksi¹¿¹t. </v>
+<v n="15"> Ksi¹¿êta rozgniewali siê na Jeremiasza, bili go i wsadzili do wiêzienia w domu Jonatana, pisarza, bo ten zamieniono na wiêzienie. </v>
+<v n="16"> A gdy Jeremiasz wszed³ do tego lochu i do celi, i siedzia³ tam Jeremiasz przez wiele dni; </v>
+<v n="17"> Wtedy król Sedekiasz pos³a³, aby go przyprowadzono. I król wypytywa³ go potajemnie w swoim domu: Czy jest jakieœ s³owo od PANA? Jeremiasz odpowiedzia³: Jest. I doda³: Bêdziesz wydany w rêce króla Babilonu. </v>
+<v n="18"> Nadto Jeremiasz powiedzia³ do króla Sedekiasza: Czym zgrzeszy³em przeciwko tobie, twoim s³ugom lub twemu ludowi, ¿e wsadziliœcie mnie do tego wiêzienia? </v>
+<v n="19"> Gdzie s¹ wasi prorocy, którzy wam prorokowali, mówi¹c: Król Babilonu nie nadci¹gnie przeciwko wam ani przeciwko tej ziemi. </v>
+<v n="20"> Teraz wiêc s³uchaj, proszê, królu, mój panie. Niech moja proœba dotrze do ciebie: Nie odsy³aj mnie do domu Jonatana, pisarza, abym tam nie umar³. </v>
+<v n="21"> Król Sedekiasz rozkaza³ wiêc oddaæ Jeremiasza pod stra¿ na dziedziñcu wiêzienia i aby dawano mu bochenek chleba dziennie z ulicy Piekarzy, póki nie zosta³ wyczerpany ca³y chleb w mieœcie. A Jeremiasz pozosta³ na dziedziñcu wiêzienia. </v>
+</c>

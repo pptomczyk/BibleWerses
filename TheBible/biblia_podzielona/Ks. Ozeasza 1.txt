@@ -1,0 +1,12 @@
+<v n="1"> S³owo PANA, które dosz³o do Ozeasza, syna Beeriego, za dni Uzjasza, Jotama, Achaza, Ezechiasza, królów Judy, i za dni Jeroboama, syna Joasza, króla Izraela. </v>
+<v n="2"> Pocz¹tek s³owa PANA przez Ozeasza. PAN powiedzia³ do Ozeasza: IdŸ, weŸ sobie nierz¹dnicê za ¿onê i dzieci nierz¹du. Ziemia bowiem uprawia³a wstydliwy nierz¹d, odwróci³a siê od PANA. </v>
+<v n="3"> Poszed³ wiêc i wzi¹³ sobie za ¿onê Gomerê, córkê Diblaima, a ona poczê³a i urodzi³a mu syna. </v>
+<v n="4"> PAN powiedzia³ do niego: Nadaj mu imiê Jizreel, bo ju¿ nied³ugo pomszczê na domu Jehu krew Jizreel i sprawiê, ¿e ustanie królestwo domu Izraela. </v>
+<v n="5"> W tym dniu z³amiê ³uk Izraela w dolinie Jizreel. </v>
+<v n="6"> I poczê³a znowu, i urodzi³a córkê. PAN powiedzia³ do niego: Nadaj jej imiê Lo-Ruchama, bo ju¿ nie zlitujê siê nad domem Izraela, lecz na pewno go wytêpiê. </v>
+<v n="7"> Ale zlitujê siê nad domem Judy i wybawiê go przez PANA, jego Boga, lecz nie wybawiê ³ukiem ani mieczem, ani wojn¹, ani koñmi, ani jeŸdŸcami. </v>
+<v n="8"> Gdy odstawi³a od piersi Lo-Ruchamê, znowu poczê³a i urodzi³a syna. </v>
+<v n="9"> I PAN powiedzia³: Nadaj mu imiê Lo-Ammi, bo wy nie jesteœcie moim ludem, ja te¿ nie bêdê waszym Bogiem. </v>
+<v n="10"> Jednak liczba synów Izraela bêdzie jak piasek morski, którego nie mo¿na zmierzyæ ani zliczyæ. I stanie siê, ¿e w miejscu, gdzie im mówiono: Nie jesteœcie moim ludem, bêdzie siê do nich mówiæ: Wy jesteœcie synami Boga ¿ywego. </v>
+<v n="11"> I bêd¹ zgromadzeni razem synowie Judy i synowie Izraela, ustanowi¹ sobie jedn¹ g³owê i wyjd¹ z tej ziemi. Wielki bowiem bêdzie dzieñ Jizreel. </v>
+</c>

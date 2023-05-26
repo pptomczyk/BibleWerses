@@ -1,0 +1,27 @@
+<v n="1"> Ty wiêc, mój synu, wzmacniaj siê w ³asce, która jest w Chrystusie Jezusie. </v>
+<v n="2"> A co s³ysza³eœ ode mnie wobec wielu œwiadków, to powierz wiernym ludziom, którzy bêd¹ zdolni nauczaæ tak¿e innych. </v>
+<v n="3"> Dlatego znoœ trudy jak dobry ¿o³nierz Jezusa Chrystusa. </v>
+<v n="4"> Nikt, kto pe³ni s³u¿bê ¿o³niersk¹, nie wik³a siê w sprawy tego ¿ycia, aby podobaæ siê temu, który go powo³a³ na ¿o³nierza. </v>
+<v n="5"> Równie¿ jeœli ktoœ staje do zapasów, nie otrzymuje korony, je¿eli nie walczy prawid³owo. </v>
+<v n="6"> Rolnik, który pracuje, jako pierwszy powinien korzystaæ z plonów. </v>
+<v n="7"> Rozwa¿, co mówiê, a niech Pan ci da zrozumienie we wszystkim. </v>
+<v n="8"> Pamiêtaj, ¿e Jezus Chrystus, potomek Dawida, powsta³ z martwych wed³ug mojej ewangelii; </v>
+<v n="9"> Dla której znoszê cierpienia jak z³oczyñca, a¿ do wiêzów, ale s³owo Bo¿e nie jest zwi¹zane. </v>
+<v n="10"> Dlatego wszystko znoszê przez wzgl¹d na wybranych, aby i oni dost¹pili zbawienia, które jest w Chrystusie Jezusie wraz z wieczn¹ chwa³¹. </v>
+<v n="11"> Wiarygodne to s³owa. Jeœli bowiem z nim umarliœmy, z nim te¿ bêdziemy ¿yæ. </v>
+<v n="12"> Jeœli cierpimy, z nim te¿ bêdziemy królowaæ, jeœli siê go wyprzemy, i on siê nas wyprze. </v>
+<v n="13"> Jeœli jesteœmy niewierni, on pozostaje wierny, bo samego siebie wyprzeæ siê nie mo¿e. </v>
+<v n="14"> To wszystko przypominaj, zaklinaj¹c ich przed Panem, aby siê nie wdawali w spory o s³owa, bo to niczemu nie s³u¿y, tylko prowadzi do zguby s³uchaczy. </v>
+<v n="15"> Staraj siê, abyœ stan¹³ przed Bogiem jako wypróbowany pracownik, który nie ma siê czego wstydziæ i który dobrze rozk³ada s³owo prawdy. </v>
+<v n="16"> Unikaj zaœ pospolitej, czczej gadaniny, bo prowadzi ona do coraz wiêkszej bezbo¿noœci. </v>
+<v n="17"> A ich mowa szerzy siê jak gangrena. Do nich nale¿¹ Hymenajos i Filetos; </v>
+<v n="18"> Którzy pob³¹dzili w sprawie prawdy, mówi¹c, ¿e zmartwychwstanie ju¿ nast¹pi³o, i wywracaj¹ wiarê niektórych. </v>
+<v n="19"> Mimo to fundament Bo¿y stoi niewzruszony, maj¹c tak¹ pieczêæ: Zna Pan tych, którzy nale¿¹ do niego, oraz: Niech odst¹pi od nieprawoœci ka¿dy, kto wzywa imienia Chrystusa. </v>
+<v n="20"> W wielkim zaœ domu znajduj¹ siê nie tylko naczynia z³ote i srebrne, lecz tak¿e drewniane i gliniane, niektóre do u¿ytku zaszczytnego, a inne do niezaszczytnego. </v>
+<v n="21"> Jeœli wiêc ktoœ oczyœci samego siebie z tego wszystkiego, bêdzie naczyniem do u¿ytku zaszczytnego, uœwiêconym i u¿ytecznym dla Pana, przygotowanym do ka¿dego dobrego czynu. </v>
+<v n="22"> Uciekaj te¿ od m³odzieñczych po¿¹dliwoœci, a zabiegaj o sprawiedliwoœæ, wiarê, mi³oœæ, pokój wraz z tymi, którzy wzywaj¹ Pana z czystego serca. </v>
+<v n="23"> Unikaj zaœ g³upich i niedouczonych rozmów, wiedz¹c, ¿e rodz¹ k³ótnie. </v>
+<v n="24"> A s³uga Pana nie powinien wdawaæ siê w k³ótnie, lecz ma byæ uprzejmy wzglêdem wszystkich, zdolny do nauczania, cierpliwie znosz¹cy z³ych; </v>
+<v n="25"> £agodnie nauczaj¹cy tych, którzy siê sprzeciwiaj¹; mo¿e kiedyœ Bóg da im pokutê, aby uznali prawdê; </v>
+<v n="26"> Oprzytomnieli i wyrwali siê z side³ diab³a, przez którego zostali schwytani do pe³nienia jego woli. </v>
+</c>

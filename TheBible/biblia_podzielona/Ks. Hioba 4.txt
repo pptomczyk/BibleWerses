@@ -1,0 +1,22 @@
+<v n="1"> Wtedy Elifaz z Temanu odpowiedzia³: </v>
+<v n="2"> Jeœli bêdziemy rozmawiaæ z tob¹, nie bêdzie ci przykro? Ale któ¿ mo¿e siê od mówienia powstrzymaæ? </v>
+<v n="3"> Oto naucza³eœ wielu i rêce s³abe umocni³eœ. </v>
+<v n="4"> Twoje s³owa podnosi³y upadaj¹cego, a omdla³e kolana wzmacnia³eœ. </v>
+<v n="5"> A teraz, gdy to przysz³o na ciebie, opadasz z si³, dotknê³o ciê i siê trwo¿ysz. </v>
+<v n="6"> Czy twoja bojaŸñ nie by³a twoj¹ ufnoœci¹, a prawoœæ twoich dróg – twoj¹ nadziej¹? </v>
+<v n="7"> Przypomnij sobie, proszê, czy kiedykolwiek zgin¹³ ktoœ niewinny? Albo gdzie sprawiedliwych wytêpiono? </v>
+<v n="8"> Wed³ug tego, co zauwa¿y³em, ci, którzy orz¹ z³o i siej¹ niegodziwoœæ, zbieraj¹ je. </v>
+<v n="9"> Od tchnienia Boga gin¹ i od powiewu jego gniewu niszczej¹. </v>
+<v n="10"> Ryk lwa, g³os dzikiego lwa i zêby lwi¹tek s¹ z³amane. </v>
+<v n="11"> Lew ginie z braku ³upu i m³ode lwicy rozpraszaj¹ siê. </v>
+<v n="12"> Oto potajemnie dosz³o do mnie s³owo i moje ucho us³ysza³o szept. </v>
+<v n="13"> W rozmyœlaniu o nocnych widzeniach, gdy twardy sen spada na ludzi; </v>
+<v n="14"> Ogarnê³y mnie strach i dr¿enie, od których wszystkie moje koœci zadr¿a³y. </v>
+<v n="15"> Wtedy duch przeszed³ przed moj¹ twarz¹, zje¿y³y siê w³osy na moim ciele. </v>
+<v n="16"> Stan¹³, lecz nie rozpozna³em jego wygl¹du, tylko jakiœ kszta³t by³ przed moimi oczami; nasta³a cisza, a potem us³ysza³em g³os mówi¹cy: </v>
+<v n="17"> Czy œmiertelny cz³owiek mo¿e byæ sprawiedliwszy ni¿ Bóg? Czy cz³owiek mo¿e byæ czystszy ni¿ jego Stwórca? </v>
+<v n="18"> Oto swoim s³ugom nie ufa i w swoich anio³ach dostrzega braki; </v>
+<v n="19"> O ile¿ bardziej w tych, którzy mieszkaj¹ w domach glinianych, których podstawa jest w prochu – ³atwiej ich zgnieœæ ni¿ mola. </v>
+<v n="20"> Od poranka a¿ do wieczora s¹ g³adzeni; gin¹ na wieki, a nikt tego nie zauwa¿a. </v>
+<v n="21"> Czy ich wspania³oœæ nie przemija wraz z nimi? Umieraj¹, ale nie w m¹droœci. </v>
+</c>

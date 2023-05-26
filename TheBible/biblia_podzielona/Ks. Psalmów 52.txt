@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi chóru. Psalm pouczaj¹cy Dawida, gdy przyby³ Doeg Edomita i oznajmi³ Saulowi: Dawid wszed³ do domu Achimeleka. Czemu chlubisz siê z³em, mocarzu? Mi³osierdzie Bo¿e trwa nieustannie. </v>
+<v n="2"> Twój jêzyk knuje przewrotnoœæ, ostry jak brzytwa, dzia³aj¹cy podstêpnie. </v>
+<v n="3"> Mi³ujesz z³o bardziej ni¿ dobro i k³amstwo bardziej ni¿ mowê sprawiedliw¹. Sela. </v>
+<v n="4"> Mi³ujesz wszelkie s³owa szkodliwe, podstêpny jêzyku. </v>
+<v n="5"> Dlatego Bóg zniszczy ciê na wieki, pochwyci ciê i wyrwie z namiotu, i wykorzeni ciê z ziemi ¿yj¹cych. Sela. </v>
+<v n="6"> Zobacz¹ to sprawiedliwi i zlêkn¹ siê, i bêd¹ siê z niego œmiaæ: </v>
+<v n="7"> Oto cz³owiek, który nie uczyni³ Boga swoj¹ si³¹, ale ufa³ swym wielkim bogactwom i umacnia³ siê w swojej nieprawoœci. </v>
+<v n="8"> Ja zaœ jestem jak zielone drzewo oliwne w domu Bo¿ym, zaufa³em mi³osierdziu Boga na wieki wieków. </v>
+<v n="9"> Bêdê ciê wys³awia³ na wieki, ¿e to uczyni³eœ, i bêdê oczekiwa³ twego imienia, gdy¿ jest dobre w oczach twoich œwiêtych. </v>
+</c>

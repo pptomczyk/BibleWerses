@@ -1,0 +1,11 @@
+<v n="1"> I powiedzia³ do mnie: Synu cz³owieczy, stañ na nogi, a bêdê do ciebie mówi³. </v>
+<v n="2"> I wst¹pi³ we mnie duch, gdy przemówi³ do mnie, i postawi³ mnie na nogi; potem s³ysza³em tego, który mówi³ do mnie. </v>
+<v n="3"> Powiedzia³ mi: Synu cz³owieczy, ja ciê posy³am do synów Izraela, do narodu buntowniczego, który mi siê sprzeciwi³. Oni i ich ojcowie wystêpowali przeciwko mnie a¿ do dziœ. </v>
+<v n="4"> S¹ to synowie o bezczelnych twarzach i zatwardzia³ym sercu. Do nich ciê posy³am. Powiesz im: Tak mówi Pan BÓG. </v>
+<v n="5"> A oni, czy pos³uchaj¹, czy nie – gdy¿ s¹ domem buntowniczym – przecie¿ bêd¹ wiedzieæ, ¿e by³ wœród nich prorok. </v>
+<v n="6"> Ale ty, synu cz³owieczy, nie bój siê ich ani nie lêkaj siê ich s³ów, chocia¿ otaczaj¹ ciê osty i ciernie i mieszkasz wœród skorpionów. Nie bój siê ich s³ów ani nie lêkaj siê ich twarzy, gdy¿ s¹ domem buntowniczym. </v>
+<v n="7"> Powiedz im moje s³owa, czy us³uchaj¹, czy nie, gdy¿ s¹ zbuntowani. </v>
+<v n="8"> Lecz ty, synu cz³owieczy, s³uchaj, co mówiê do ciebie: Nie b¹dŸ zbuntowany jak ten dom buntowniczy. Otwórz swe usta i zjedz, co ci dajê. </v>
+<v n="9"> I spojrza³em, a oto rêka by³a wyci¹gniêta do mnie, a w niej zwój ksiêgi; </v>
+<v n="10"> A on rozwin¹³ go przede mn¹. By³ zapisany z jednej i z drugiej strony, a spisane by³y w nim lamenty, ¿al i biadania. </v>
+</c>

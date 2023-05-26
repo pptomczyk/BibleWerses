@@ -1,0 +1,24 @@
+<v n="1"> Pieœñ pouczaj¹ca. Asafa. Bo¿e, dlaczego odrzuci³eœ nas na zawsze? Czemu p³onie twój gniew przeciwko owcom twego pastwiska? </v>
+<v n="2"> Wspomnij na swoje zgromadzenie, które dawno naby³eœ; na szczep twego dziedzictwa, który odkupi³eœ; na górê Syjon, na której mieszkasz. </v>
+<v n="3"> Pospiesz na miejsce ci¹g³ych spustoszeñ; o, jak wróg zburzy³ wszystko w œwi¹tyni! </v>
+<v n="4"> Ryknêli twoi wrogowie poœrodku twego zgromadzenia, a na znak zatknêli swoje sztandary. </v>
+<v n="5"> Za s³awnego uwa¿ano tego, który wznosi³ wysoko siekierê na gêste drzewo. </v>
+<v n="6"> A teraz ju¿ jego rzeŸby r¹bi¹ siekierami i m³otami. </v>
+<v n="7"> Oddali na pastwê ognia twoj¹ œwi¹tyniê i obaliwszy na ziemiê, zbezczeœcili przybytek twego imienia. </v>
+<v n="8"> Mówili w swym sercu: Zburzmy ich razem! Spalili wszystkie miejsca zgromadzeñ Bo¿ych na ziemi. </v>
+<v n="9"> Nie widzimy naszych znaków; ju¿ nie ma proroka i nikt spoœród nas nie wie, jak d³ugo to ma trwaæ. </v>
+<v n="10"> Jak d³ugo, Bo¿e, przeciwnik bêdzie ur¹gaæ? Czy wróg bêdzie wiecznie bluŸni³ przeciwko twemu imieniu? </v>
+<v n="11"> Dlaczego cofasz swoj¹ rêkê i swojej prawicy z zanadrza nie wyjmujesz? </v>
+<v n="12"> Przecie¿ ty, Bo¿e, jesteœ moim Królem od dawna, ty dokonujesz zbawienia na ziemi. </v>
+<v n="13"> Ty swoj¹ moc¹ rozdzieli³eœ morze, zmia¿d¿y³eœ g³owy smoków w wodach. </v>
+<v n="14"> Ty skruszy³eœ g³owy Lewiatana, da³eœ go na pokarm mieszkañcom pustyni. </v>
+<v n="15"> Ty rozszczepi³eœ Ÿród³a i potoki, ty osuszy³eœ potê¿ne rzeki. </v>
+<v n="16"> Twój jest dzieñ, twoja i noc, ty ustanowi³eœ œwiat³o i s³oñce. </v>
+<v n="17"> Ty wyznaczy³eœ wszystkie granice ziemi, ty ustanowi³eœ lato i zimê. </v>
+<v n="18"> Pamiêtaj o tym, ¿e wróg zel¿y³ ciebie, PANIE, a g³upi lud ur¹ga³ twemu imieniu. </v>
+<v n="19"> Nie wydawaj tej zgrai duszy twojej synogarlicy, nie zapominaj nigdy o stadku twoich ubogich. </v>
+<v n="20"> Zwa¿ na twoje przymierze, bo ciemne zak¹tki ziemi pe³ne s¹ siedlisk przemocy. </v>
+<v n="21"> Niech uciœniony nie wraca ze wstydem, niech ubogi i potrzebuj¹cy chwali twoje imiê. </v>
+<v n="22"> Powstañ, Bo¿e, broñ swojej sprawy; pamiêtaj o zniewadze, któr¹ co dzieñ wyrz¹dza ci g³upiec. </v>
+<v n="23"> Nie zapominaj krzyku twoich wrogów, wci¹¿ rosn¹cej wrzawy tych, którzy powstaj¹ przeciwko tobie. </v>
+</c>

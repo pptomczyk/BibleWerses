@@ -1,0 +1,18 @@
+<v n="1"> Potem Hiram, król Tyru, wys³a³ pos³ów do Dawida wraz z drewnem cedrowym, murarzami i cieœlami, aby mu zbudowali dom. </v>
+<v n="2"> I Dawid pozna³, ¿e PAN potwierdzi³ jego królowanie nad Izraelem, gdy¿ wywy¿szy³ jego królestwo ze wzglêdu na swój lud Izraela. </v>
+<v n="3"> Dawid poj¹³ wiêcej ¿on w Jerozolimie i sp³odzi³ wiêcej synów i córek. </v>
+<v n="4"> A oto imiona tych, którzy mu siê urodzili w Jerozolimie: Szammua, Szobab, Natan, Salomon; </v>
+<v n="5"> Jibchar, Eliszua, Elpalet; </v>
+<v n="6"> Noga, Nefeg, Jafia; </v>
+<v n="7"> Eliszama, Beeliada i Elifelet. </v>
+<v n="8"> Kiedy Filistyni us³yszeli, ¿e Dawid zosta³ namaszczony na króla nad ca³ym Izraelem, wszyscy Filistyni wyruszyli, aby go szukaæ. Gdy Dawid us³ysza³ o tym, wyszed³ naprzeciw nich. </v>
+<v n="9"> Filistyni przybyli i rozci¹gnêli siê w dolinie Refaim. </v>
+<v n="10"> I Dawid radzi³ siê Boga, mówi¹c: Czy mam wyruszyæ przeciw Filistynom i czy wydasz ich w moje rêce? PAN mu odpowiedzia³: Wyruszaj, a wydam ich w twoje rêce. </v>
+<v n="11"> A gdy przybyli do Baal-Perasim, tam Dawid ich pobi³. Wtedy Dawid powiedzia³: Bóg rozerwa³ moich wrogów przez moj¹ rêkê, jak rozrywaj¹ siê wody. Dlatego nazwa³ to miejsce Baal-Perasim. </v>
+<v n="12"> I porzucili tam swoje bo¿ki, a Dawid rozkaza³ spaliæ je ogniem. </v>
+<v n="13"> Lecz Filistyni znowu rozci¹gnêli siê w dolinie. </v>
+<v n="14"> Dawid wiêc ponownie radzi³ siê Boga, a Bóg mu odpowiedzia³: Nie ruszaj na nich, ale odwróæ siê od nich, abyœ natar³ na nich od strony drzew morwowych. </v>
+<v n="15"> A gdy us³yszysz odg³os kroków wœród wierzcho³ków drzew morwowych, wtedy wyruszysz do bitwy, gdy¿ Bóg wyruszy³ przed tob¹, aby pobiæ wojska Filistynów. </v>
+<v n="16"> I Dawid uczyni³ tak, jak mu rozkaza³ Bóg, i pobili wojska Filistynów od Gibeonu a¿ do Gezer. </v>
+<v n="17"> I w ten sposób rozs³awi³o siê imiê Dawida na wszystkich ziemiach, a PAN sprawi³, ¿e ba³y siê go wszystkie narody. </v>
+</c>

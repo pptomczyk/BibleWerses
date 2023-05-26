@@ -1,0 +1,23 @@
+<v n="1"> Wtedy król Dariusz rozkaza³, aby szukano w archiwum, gdzie przechowywano skarby w Babilonie. </v>
+<v n="2"> I znaleziono w Achmecie, w pa³acu w prowincji Medii, pewien zwój, w którym tak by³o napisane: </v>
+<v n="3"> W pierwszym roku króla Cyrusa, król Cyrus wyda³ dekret w sprawie domu Bo¿ego w Jerozolimie: Dom ten ma byæ odbudowany, to miejsce, gdzie sk³adano ofiary. Fundamenty maj¹ byæ po³o¿one. Jego wysokoœæ – szeœædziesi¹t ³okci i jego szerokoœæ – szeœædziesi¹t ³okci. </v>
+<v n="4"> Trzy rzêdy z kamienia wielkiego i jeden rz¹d z nowego drewna. Koszty ma pokryæ dom królewski. </v>
+<v n="5"> Ponadto z³ote i srebrne naczynia z domu Bo¿ego, które zabra³ Nabuchodonozor ze œwi¹tyni w Jerozolimie i przeniós³ do Babilonu, maj¹ byæ zwrócone i przeniesione do œwi¹tyni w Jerozolimie na swoje miejsce, i z³o¿one w domu Bo¿ym. </v>
+<v n="6"> Teraz wiêc ty, Tattenaju, namiestniku zarzecza, Szetarboznaju, i wy, Afarsachajczycy, ich towarzysze, którzy jesteœcie za rzek¹, trzymajcie siê z dala od tego miejsca. </v>
+<v n="7"> Zostawcie w spokoju prace nad tym domem Bo¿ym. Niech namiestnik ¯ydów i starsi ¿ydowscy odbuduj¹ ten dom Bo¿y na swoim miejscu. </v>
+<v n="8"> Wydajê te¿ dekret o tym, co macie uczyniæ dla starszych spoœród ¯ydów na budowê tego domu Bo¿ego, mianowicie: koszty maj¹ byæ bezzw³ocznie wyp³acone tym ludziom z dochodów króla, z danin pobieranych za rzek¹, aby nie przestawali budowaæ. </v>
+<v n="9"> Tak¿e i to, co bêdzie potrzebne do ca³opaleñ dla Boga niebios: cielce, barany i jagniêta oraz pszenica, sól, wino i oliwa, wed³ug rozkazu kap³anów w Jerozolimie, niech im bêdzie dawane ka¿dego dnia bez zaniedbania; </v>
+<v n="10"> Aby mogli sk³adaæ wonne ofiary Bogu niebios i aby modlili siê za ¿ycie króla i jego synów. </v>
+<v n="11"> Ponadto wydajê taki dekret: Ktokolwiek zmieni ten rozkaz, to belka z jego domu ma byæ wyrwana i podniesiona, a on bêdzie na niej powieszony; jego dom zaœ zostanie zamieniony w gnojowisko. </v>
+<v n="12"> A Bóg, który uczyni³ tam mieszkanie dla swojego imienia, niech zniszczy ka¿dego króla i ka¿dy naród, który by siê odwa¿y³ zmieniæ ten rozkaz i zniszczyæ ten dom Bo¿y w Jerozolimie. Ja, Dariusz, wyda³em ten dekret; niech bêdzie wykonany bezzw³ocznie. </v>
+<v n="13"> Wtedy Tattenaj, namiestnik zarzecza, Szetarboznaj i ich towarzysze niezw³ocznie uczynili tak, jak król Dariusz rozkaza³. </v>
+<v n="14"> A starsi ¿ydowscy budowali i szczêœci³o im siê wed³ug proroctwa Aggeusza, proroka, i Zachariasza, syna Iddo. Budowali i dokoñczyli dom zgodnie z rozkazem Boga Izraela oraz z rozkazem Cyrusa, Dariusza oraz Artakserksesa, króla Persji. </v>
+<v n="15"> I ten dom zosta³ zakoñczony w trzecim dniu miesi¹ca Adar, w szóstym roku panowania króla Dariusza. </v>
+<v n="16"> Wówczas synowie Izraela, kap³ani, Lewici oraz reszta ludu, który powróci³ z niewoli, z radoœci¹ obchodzili poœwiêcenie tego domu Bo¿ego. </v>
+<v n="17"> I z³o¿yli ofiary przy poœwiêcaniu tego domu Bo¿ego: sto cielców, dwieœcie baranów, czterysta jagni¹t, a jako ofiarê za grzech za ca³ego Izraela – dwanaœcie koz³ów, wed³ug liczby pokoleñ Izraela. </v>
+<v n="18"> Do s³u¿by Bo¿ej w Jerozolimie ustanowili kap³anów – wed³ug ich oddzia³ów, i Lewitów – wed³ug ich zmian, jak jest napisane w ksiêdze Moj¿esza. </v>
+<v n="19"> Ci, którzy powrócili z niewoli, obchodzili te¿ Paschê w czternastym dniu pierwszego miesi¹ca. </v>
+<v n="20"> Kap³ani bowiem i Lewici oczyœcili siê jak jeden m¹¿, wszyscy byli oczyszczeni. Zabili wiêc baranka paschalnego dla wszystkich, którzy przybyli z niewoli, dla swoich braci kap³anów i dla siebie samych. </v>
+<v n="21"> I spo¿ywali to synowie Izraela, którzy powrócili z niewoli, i ka¿dy, kto od³¹czy³ siê od nieczystoœci pogan tej ziemi i przy³¹czy³ siê do nich, aby szukaæ PANA, Boga Izraela. </v>
+<v n="22"> Przez siedem dni z radoœci¹ obchodzili te¿ Œwiêto Przaœników, gdy¿ PAN nape³ni³ ich radoœci¹ i zwróci³ ku nim serce króla Asyrii, aby wzmocni³ ich rêce przy pracy wokó³ domu Bo¿ego, Boga Izraela. </v>
+</c>

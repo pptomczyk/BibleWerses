@@ -1,0 +1,23 @@
+<v n="1"> Wtedy Izaak wezwa³ Jakuba i b³ogos³awi³ mu, i rozkaza³: Nie bierz sobie ¿ony z córek Kanaanu. </v>
+<v n="2"> Ale wstañ i idŸ do krainy Paddan-Aram, do domu Betuela, ojca twojej matki, i weŸ sobie stamt¹d ¿onê z córek Labana, brata twojej matki. </v>
+<v n="3"> A Bóg Wszechmog¹cy niech ci b³ogos³awi i niech ciê uczyni p³odnym i rozmno¿y, abyœ sta³ siê licznym ludem; </v>
+<v n="4"> I niech ci da b³ogos³awieñstwo Abrahama, tobie i twemu potomstwu z tob¹, abyœ odziedziczy³ ziemiê, na której jesteœ przybyszem, któr¹ Bóg da³ Abrahamowi. </v>
+<v n="5"> I tak Izaak wys³a³ Jakuba, który uda³ siê do krainy Paddan-Aram, do Labana, syna Betuela, Syryjczyka, brata Rebeki, matki Jakuba i Ezawa. </v>
+<v n="6"> A Ezaw widzia³, ¿e Izaak b³ogos³awi³ Jakubowi i pos³a³ go do krainy Paddan-Aram, aby stamt¹d wzi¹³ sobie ¿onê, i ¿e b³ogos³awi¹c mu, przykaza³: Nie weŸmiesz ¿ony z córek Kanaanu; </v>
+<v n="7"> I ¿e Jakub by³ pos³uszny swemu ojcu oraz swojej matce, i poszed³ do krainy Paddan-Aram; </v>
+<v n="8"> Widzia³ te¿ Ezaw, ¿e córki Kanaanu nie podobaj¹ siê jego ojcu Izaakowi; </v>
+<v n="9"> Wtedy Ezaw poszed³ do Izmaela i oprócz ¿on, które ju¿ mia³, wzi¹³ za ¿onê Machalat, córkê Izmaela, syna Abrahama, siostrê Nebajota. </v>
+<v n="10"> A Jakub wyszed³ z Beer-Szeby i uda³ siê do Charanu. </v>
+<v n="11"> Przyszed³ na pewne miejsce i tam nocowa³, bo s³oñce ju¿ zasz³o. Wzi¹³ jeden z kamieni z tego miejsca, pod³o¿y³ go sobie pod g³owê i zasn¹³ na tym miejscu. </v>
+<v n="12"> I œni³o mu siê, ¿e na ziemi sta³a drabina, a jej szczyt siêga³ nieba. A oto anio³owie Bo¿y wstêpowali i zstêpowali po niej. </v>
+<v n="13"> A PAN sta³ nad ni¹ i powiedzia³: Ja jestem PAN, Bóg twego ojca Abrahama i Bóg Izaaka. Ziemiê, na której le¿ysz, dam tobie i twemu potomstwu. </v>
+<v n="14"> A twoje potomstwo bêdzie jak proch ziemi i rozprzestrzenisz siê na zachód i na wschód, na pó³noc i na po³udnie. A w tobie i w twoim potomstwie bêd¹ b³ogos³awione wszystkie narody ziemi. </v>
+<v n="15"> Oto ja jestem z tob¹ i bêdê ciê strzeg³, gdziekolwiek pójdziesz, i przyprowadzê ciê z powrotem do tej ziemi. Bo nie opuszczê ciê, a¿ spe³niê to, co ci obieca³em. </v>
+<v n="16"> Gdy Jakub zbudzi³ siê ze snu, powiedzia³: Naprawdê PAN jest na tym miejscu, a ja o tym nie wiedzia³em. </v>
+<v n="17"> I przestraszy³ siê, i powiedzia³: O, jakie straszne to miejsce! To nie mo¿e byæ nic innego jak dom Bo¿y i brama nieba. </v>
+<v n="18"> I Jakub wsta³ wczeœnie rano, wzi¹³ kamieñ, który pod³o¿y³ sobie pod g³owê i postawi³ go na znak, i nala³ oliwy na jego wierzch. </v>
+<v n="19"> I nada³ temu miejscu nazwê Betel, lecz przedtem miasto nazywa³o siê Luz. </v>
+<v n="20"> Wtedy Jakub z³o¿y³ œlub, mówi¹c: Jeœli Bóg bêdzie ze mn¹ i bêdzie mnie strzeg³ na tej drodze, któr¹ idê, jeœli da mi chleb do jedzenia i odzie¿ do ubrania; </v>
+<v n="21"> I jeœli wrócê w pokoju do domu mego ojca, to PAN bêdzie moim Bogiem. </v>
+<v n="22"> A ten kamieñ, który postawi³em na znak, bêdzie domem Bo¿ym. I ze wszystkiego, co mi dasz, bêdê ci na pewno oddawa³ dziesiêcinê. </v>
+</c>

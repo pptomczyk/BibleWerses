@@ -1,0 +1,24 @@
+<v n="1"> Po up³ywie ka¿dego siódmego roku ustanowisz darowanie d³ugów. </v>
+<v n="2"> A to jest sposób darowania: ka¿dy wierzyciel daruje po¿yczkê, jakiej udzieli³ swemu bliŸniemu; nie bêdzie domaga³ siê zwrotu od swego bliŸniego lub od swego brata, poniewa¿ obwo³ano darowanie d³ugów dla PANA. </v>
+<v n="3"> Od obcego mo¿esz domagaæ siê zwrotu, lecz co bêdziesz mia³ u swego brata, twoja rêka daruje; </v>
+<v n="4"> Do czasu, gdy nie bêdzie poœród was ubogich, poniewa¿ PAN bêdzie ciê hojnie b³ogos³awi³ w ziemi, któr¹ PAN, twój Bóg, daje ci w dziedziczne posiadanie. </v>
+<v n="5"> Jeœli tylko bêdziesz uwa¿nie s³ucha³ g³osu PANA, swego Boga, byœ pilnowa³ wype³niania wszystkich przykazañ, które dziœ ci nakazujê; </v>
+<v n="6"> Gdy¿ PAN, twój Bóg, bêdzie ciê b³ogos³awiæ, tak jak ci obieca³; bêdziesz po¿ycza³ wielu narodom, a sam od nikogo nie bêdziesz po¿ycza³; bêdziesz panowa³ nad wieloma narodami, a one nad tob¹ nie zapanuj¹. </v>
+<v n="7"> Jeœli bêdzie u ciebie jakiœ ubogi spoœród twoich braci w którymkolwiek z twoich miast w ziemi, któr¹ ci daje PAN, twój Bóg, nie zatwardzaj swego serca ani nie zamykaj swej rêki przed swoim ubogim bratem; </v>
+<v n="8"> Ale hojnie otworzysz mu swoj¹ rêkê i chêtnie po¿yczysz mu tyle, ile bêdzie potrzebowa³, czego mu bêdzie brakowa³o. </v>
+<v n="9"> Strze¿ siê, by nie powsta³a w twoim sercu niegodziwa myœl, byœ nie mówi³: Zbli¿a siê rok siódmy, rok darowania d³ugów – i abyœ nie patrzy³ surowo na swego ubogiego brata i nic mu nie da³; wtedy on wo³a³by do PANA przeciwko tobie i obci¹¿y³byœ siê grzechem; </v>
+<v n="10"> Chêtnie mu dasz i twoje serce nie bêdzie ubolewa³o, gdy mu dajesz, gdy¿ PAN, twój Bóg, bêdzie ciê za to b³ogos³awi³ w ka¿dym twoim dziele i w ka¿dym twoim przedsiêwziêciu. </v>
+<v n="11"> Ubogich bowiem nie zabraknie w waszej ziemi. Dlatego nakazujê ci: Otworzysz hojnie swoj¹ rêkê swemu bratu, nêdznemu i ubogiemu w twej ziemi. </v>
+<v n="12"> Jeœli zaprzeda ci siê twój brat, Hebrajczyk lub Hebrajka, a bêdzie ci s³u¿yæ przez szeœæ lat, to w siódmym roku wypuœcisz go od siebie na wolnoœæ. </v>
+<v n="13"> A gdy wypuœcisz go od siebie na wolnoœæ, nie wypuœcisz go z pustymi rêkami. </v>
+<v n="14"> Hojnie go obdarujesz ze swego byd³a, klepiska i t³oczni. Dasz mu z tego, w czym pob³ogos³awi³ ciê PAN, twój Bóg. </v>
+<v n="15"> I bêdziesz pamiêtaæ, ¿e sam by³eœ niewolnikiem w ziemi Egiptu i ¿e, PAN, twój Bóg, wykupi³ ciê. Dlatego ja nakazujê ci to dziœ. </v>
+<v n="16"> Ale jeœli on ci powie: Nie odejdê od ciebie – bo mi³uje ciebie i twój dom i poniewa¿ jest mu u ciebie dobrze; </v>
+<v n="17"> Wtedy weŸmiesz szyd³o i przek³ujesz mu ucho, przyk³adaj¹c je o drzwi, i bêdzie twoim s³ug¹ na wieki. Tak samo post¹pisz ze swoj¹ s³u¿¹c¹. </v>
+<v n="18"> Niech nie bêdzie ci przykro, ¿e wypuœcisz go od siebie na wolnoœæ, gdy¿ s³u¿¹c ci przez szeœæ lat, wys³u¿y³ podwójn¹ zap³atê najemnika. A PAN, twój Bóg, bêdzie ciê b³ogos³awi³ we wszystkim, co uczynisz. </v>
+<v n="19"> Ka¿dego pierworodnego samca ze swego byd³a albo z owiec poœwiêcisz PANU, swemu Bogu. Nie bêdziesz u¿ywa³ do pracy pierworodnego z cielców ani nie bêdziesz strzyg³ pierworodnego ze swoich owiec. </v>
+<v n="20"> Bêdziesz je spo¿ywa³ ka¿dego roku przed PANEM, swoim Bogiem, ty i twój dom, w miejscu, które wybierze PAN; </v>
+<v n="21"> A gdyby mia³o jak¹œ wadê, by³o kulawe, œlepe lub mia³o jak¹kolwiek inn¹ wadê, nie z³o¿ysz go na ofiarê PANU, swemu Bogu. </v>
+<v n="22"> Zjesz je w swoich bramach. Zarówno nieczysty, jak i czysty mo¿e je jeœæ, tak jak sarnê i jelenia; </v>
+<v n="23"> Tylko jego krwi nie bêdziesz spo¿ywa³; wylejesz j¹ na ziemiê jak wodê. </v>
+</c>

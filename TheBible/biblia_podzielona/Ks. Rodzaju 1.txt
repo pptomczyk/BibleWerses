@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<bible>
+<v n="1"> Na początku Bóg stworzył niebo i ziemię. </v>
+<v n="2"> A ziemia była bezkształtna i pusta i ciemność była nad głębią, a Duch Boży unosił się nad wodami. </v>
+<v n="3"> I Bóg powiedział: Niech stanie się światłość. I stała się światłość. </v>
+<v n="4"> Bóg widział, że światłość była dobra. I oddzielił Bóg światłość od ciemności. </v>
+<v n="5"> I nazwał Bóg światłość dniem, a ciemność nazwał nocą. I nastał wieczór i poranek, dzień pierwszy. </v>
+<v n="6"> Potem Bóg powiedział: Niech stanie się firmament pośrodku wód i niech oddzieli wody od wód. </v>
+<v n="7"> I uczynił Bóg firmament, i oddzielił wody, które są pod firmamentem, od wód, które są nad firmamentem. I tak się stało. </v>
+<v n="8"> I Bóg nazwał firmament niebem. I nastał wieczór i poranek, dzień drugi. </v>
+<v n="9"> Potem Bóg powiedział: Niech się zbiorą w jednym miejscu wody, które są pod niebem, i niech się ukaże sucha powierzchnia. I tak się stało. </v>
+<v n="10"> I Bóg nazwał suchą powierzchnię ziemią, a zbiorowisko wód – morzami. I Bóg widział, że to było dobre. </v>
+<v n="11"> Potem Bóg powiedział: Niech ziemia zrodzi trawę, rośliny wydające nasiona i drzewo urodzajne przynoszące owoc według swego rodzaju, którego nasienie będzie w nim na ziemi. I tak się stało. </v>
+<v n="12"> I ziemia wydała trawę, rośliny wydające nasienie według swego rodzaju i drzewo przynoszące owoc, w którym było nasienie według swego rodzaju. I Bóg widział, że to było dobre. </v>
+<v n="13"> I nastał wieczór i poranek, dzień trzeci. </v>
+<v n="14"> Potem Bóg powiedział: Niech się staną światła na firmamencie nieba, by oddzielały dzień od nocy, i niech stanowią znaki, pory roku, dni i lata. </v>
+<v n="15"> I niech będą światłami na firmamencie nieba, aby świeciły nad ziemią. I tak się stało. </v>
+<v n="16"> I Bóg uczynił dwa wielkie światła: światło większe, aby rządziło dniem, i światło mniejsze, aby rządziło nocą, oraz gwiazdy. </v>
+<v n="17"> I Bóg umieścił je na firmamencie nieba, aby świeciły nad ziemią; </v>
+<v n="18"> I żeby rządziły dniem i nocą, i oddzielały światłość od ciemności. I Bóg widział, że to było dobre. </v>
+<v n="19"> I nastał wieczór i poranek, dzień czwarty. </v>
+<v n="20"> Potem Bóg powiedział: Niech wody hojnie wydadzą żywe istoty, a ptactwo niech lata nad ziemią, pod firmamentem nieba. </v>
+<v n="21"> I Bóg stworzył wielkie wieloryby i wszelkie pływające istoty żywe, które hojnie wydały wody, według ich rodzaju oraz wszelkie ptactwo skrzydlate według jego rodzaju. I Bóg widział, że to było dobre. </v>
+<v n="22"> Bóg błogosławił je, mówiąc: Bądźcie płodne i rozmnażajcie się, i wypełniajcie wody morskie, a ptactwo niech się rozmnaża na ziemi. </v>
+<v n="23"> I nastał wieczór i poranek, dzień piąty. </v>
+<v n="24"> Bóg powiedział też: Niech ziemia wyda istoty żywe według swego rodzaju: bydło, zwierzęta pełzające i zwierzęta ziemi według swego rodzaju. I tak się stało. </v>
+<v n="25"> I Bóg uczynił zwierzęta ziemi według swego rodzaju i bydło według swego rodzaju, i wszelkie zwierzęta, które pełzają po ziemi według swego rodzaju. I Bóg widział, że to było dobre. </v>
+<v n="26"> Potem Bóg powiedział: Uczyńmy człowieka na nasz obraz według naszego podobieństwa; niech panuje nad rybami morskimi i ptactwem niebieskim, nad bydłem i całą ziemią oraz nad wszelkimi zwierzętami pełzającymi, które pełzają po ziemi. </v>
+<v n="27"> Stworzył więc Bóg człowieka na swój obraz, na obraz Boga go stworzył; stworzył ich mężczyzną i kobietą. </v>
+<v n="28"> I Bóg błogosławił im. Potem Bóg powiedział do nich: Bądźcie płodni i rozmnażajcie się, napełniajcie ziemię i czyńcie ją sobie poddaną; panujcie nad rybami morskimi i nad ptactwem niebieskim, i nad wszelkimi zwierzętami, które poruszają się po ziemi. </v>
+<v n="29"> I Bóg powiedział: Oto dałem wam wszelkie rośliny wydające z siebie nasienie, które są na powierzchni całej ziemi, i wszelkie drzewo mające owoc drzewa, wydające z siebie nasienie – będą one dla was pokarmem. </v>
+<v n="30"> I wszelkim zwierzętom ziemi, i wszelkiemu ptactwu niebieskiemu, i wszystkiemu, co pełza po ziemi i ma w sobie życie, pokarmem będą wszelkie rośliny zielone. I tak się stało. </v>
+<v n="31"> I Bóg widział wszystko, co uczynił, a było to bardzo dobre. I nastał wieczór i poranek, dzień szósty. </v>
+</c>

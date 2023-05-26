@@ -1,0 +1,21 @@
+<v n="1"> Zdech³e muchy zasmradzaj¹ i psuj¹ olejek aptekarza. Tak samo odrobina g³upstwa psuje cz³owieka powa¿anego z powodu jego m¹droœci i s³awy. </v>
+<v n="2"> Serce m¹drego jest po jego prawicy, ale serce g³upca po jego lewicy. </v>
+<v n="3"> Nawet gdy g³upiec idzie drog¹, brakuje mu rozumu, i mówi wszystkim, ¿e jest g³upcem. </v>
+<v n="4"> Jeœli duch w³adcy powstaje przeciwko tobie, nie opuszczaj swego miejsca, gdy¿ pokora zapobiega wielkim wykroczeniom. </v>
+<v n="5"> Jest z³o, które widzia³em pod s³oñcem, to b³¹d, który pochodzi od w³adcy: </v>
+<v n="6"> G³upota jest wywy¿szona do wielkiej godnoœci, a bogaci w m¹droœæ siedz¹ nisko. </v>
+<v n="7"> Widzia³em s³ugi na koniach, a ksi¹¿¹t id¹cych pieszo jak s³udzy. </v>
+<v n="8"> Kto kopie dó³, sam w niego wpadnie, kto rozwala p³ot, tego uk¹si w¹¿. </v>
+<v n="9"> Kto przenosi kamienie, porani siê nimi, kto r¹bie drwa, nara¿a siê na niebezpieczeñstwo. </v>
+<v n="10"> Jeœli stêpi siê ¿elazo, a nie naostrzy siê jego ostrza, wtedy trzeba wytê¿yæ si³y. Ale lepiej skutkuje m¹droœæ. </v>
+<v n="11"> W¹¿ uk¹si bez zaklêcia, a gadu³a nie jest niczym lepszym. </v>
+<v n="12"> S³owa z ust m¹drego s¹ ³askawe, ale wargi g³upca po¿eraj¹ jego samego. </v>
+<v n="13"> Pocz¹tek s³ów jego ust to g³upota, a koniec jego mowy to wielkie szaleñstwo. </v>
+<v n="14"> G³upiec wiele mówi, choæ cz³owiek nie wie, co nast¹pi. Któ¿ mu oznajmi, co po nim nastanie? </v>
+<v n="15"> G³upi mêcz¹ siê trudem, a nie wiedz¹ nawet, jak dojœæ do miasta. </v>
+<v n="16"> Biada tobie, ziemio, gdy twoim królem dziecko, a twoi ksi¹¿êta z rana biesiaduj¹. </v>
+<v n="17"> B³ogos³awiona jesteœ, ziemio, gdy twój król pochodzi ze szlachetnego rodu, a twoi ksi¹¿êta we w³aœciwym czasie jadaj¹, by siê posiliæ, a nie dla pijañstwa. </v>
+<v n="18"> Z powodu lenistwa chyli siê dach, a wskutek opiesza³oœci r¹k przecieka dom. </v>
+<v n="19"> Dla uciechy wyprawia siê ucztê i wino rozwesela ¿ycie, ale pieni¹dze umo¿liwiaj¹ wszystko. </v>
+<v n="20"> Nawet w swoich myœlach nie z³orzecz królowi ani w swojej sypialni nie przeklinaj bogatego, bo ptak niebieski zaniesie ten g³os, a to, co skrzydlate, rozg³osi sprawê. </v>
+</c>

@@ -1,0 +1,14 @@
+<v n="1"> Wtedy Dawid zapyta³: Czy pozosta³ jeszcze ktoœ z domu Saula, abym móg³ okazaæ mu mi³osierdzie ze wzglêdu na Jonatana? </v>
+<v n="2"> A z domu Saula by³ s³uga imieniem Siba. Zosta³ on wezwany do Dawida i król zapyta³ go: Czy ty jesteœ Siba? Odpowiedzia³: To ja, twój s³uga. </v>
+<v n="3"> Król pyta³ dalej: Czy nie ma jeszcze kogoœ z domu Saula, abym móg³ okazaæ mu mi³osierdzie Bo¿e? Siba odpowiedzia³ królowi: Jest jeszcze syn Jonatana, chromy na nogi. </v>
+<v n="4"> Król zapyta³ go: Gdzie on jest? Siba odpowiedzia³ królowi: Oto jest w domu Makira, syna Ammiela, w Lo-Debar. </v>
+<v n="5"> Król Dawid pos³a³ wiêc, by go sprowadziæ z domu Makira, syna Ammiela, z Lo-Debar. </v>
+<v n="6"> A gdy Mefiboszet, syn Jonatana, syna Saula, przyby³ do Dawida, upad³ na twarz i pok³oni³ mu siê. I Dawid powiedzia³: Mefiboszecie! Ten odpowiedzia³: Oto twój s³uga. </v>
+<v n="7"> Dawid powiedzia³ do niego: Nie bój siê, bo z ca³¹ pewnoœci¹ oka¿ê ci mi³osierdzie ze wzglêdu na twego ojca Jonatana i przywrócê ci wszystkie ziemie twego ojca Saula, a ty zawsze bêdziesz jada³ chleb przy moim stole. </v>
+<v n="8"> Wtedy uk³oni³ siê i powiedzia³: Czym jest twój s³uga, ¿e zwracasz siê do zdech³ego psa, jakim jestem? </v>
+<v n="9"> Nastêpnie król wezwa³ Sibê, s³ugê Saula, i powiedzia³ mu: Wszystko, co nale¿a³o do Saula i do ca³ego jego domu, da³em synowi twego pana. </v>
+<v n="10"> Bêdziesz wiêc uprawia³ jego ziemiê, ty, twoi synowie i twoi s³udzy. Bêdziesz zbiera³ plony, aby syn twego pana móg³ jeœæ chleb. Mefiboszet natomiast, syn twego pana, bêdzie zawsze jada³ chleb przy moim stole. A Siba mia³ piêtnastu synów i dwudziestu s³ug. </v>
+<v n="11"> Siba odpowiedzia³ królowi: Wszystko, co mój pan, król, rozkaza³ swemu s³udze, to twój s³uga uczyni. A Mefiboszet – doda³ król – bêdzie jada³ przy moim stole jak jeden z synów króla. </v>
+<v n="12"> Mefiboszet mia³ te¿ ma³ego syna imieniem Mika. A wszyscy, którzy mieszkali w domu Siby, byli s³ugami Mefiboszeta. </v>
+<v n="13"> Tak Mefiboszet mieszka³ w Jerozolimie, gdy¿ zawsze jada³ przy stole króla. A by³ chromy na obie nogi. </v>
+</c>

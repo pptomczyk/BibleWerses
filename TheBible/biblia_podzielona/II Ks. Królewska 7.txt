@@ -1,0 +1,21 @@
+<v n="1"> Wtedy Elizeusz powiedzia³: S³uchajcie s³owa PANA. Tak mówi PAN: Jutro o tej porze w bramie Samarii jedna miara m¹ki pszennej bêdzie za jednego sykla i dwie miary jêczmienia te¿ za sykla. </v>
+<v n="2"> Wówczas ksi¹¿ê, na którego ramieniu król siê wspiera³, odezwa³ siê do mê¿a Bo¿ego: Choæby PAN zrobi³ okna w niebie, czy mog³oby tak siê staæ? Odpowiedzia³ mu: Oto zobaczysz to na w³asne oczy, ale jeœæ z tego nie bêdziesz. </v>
+<v n="3"> A by³o czterech trêdowatych mê¿czyzn u wejœcia bramy. Mówili oni jeden do drugiego: Po co tu siedzimy, a¿ umrzemy? </v>
+<v n="4"> Jeœli powiemy: Wejdziemy do miasta, w mieœcie jest g³ód i tam umrzemy. A jeœli zostaniemy tu, równie¿ umrzemy. Teraz wiêc chodŸcie i przejdŸmy do obozu Syryjczyków. Jeœli pozostawi¹ nas przy ¿yciu, bêdziemy ¿yæ, a jeœli nas zabij¹, umrzemy. </v>
+<v n="5"> Wstali wiêc o zmierzchu, aby przejœæ do obozu Syryjczyków. A gdy dotarli do krañca obozu Syryjczyków, oto nikogo tam nie by³o. </v>
+<v n="6"> PAN bowiem sprawi³, ¿e w obozie Syryjczyków s³ychaæ by³o turkot rydwanów, têtent koni i gwar wielkiego wojska. Mówili jeden do drugiego: Oto król Izraela naj¹³ przeciwko nam królów chetyckich i królów Egiptu, aby na nas napadli. </v>
+<v n="7"> Wstali wiêc i uciekli o zmierzchu, zostawiaj¹c swoje namioty, swoje konie i os³y – ca³y obóz tak, jak by³, i uciekli, aby ratowaæ swoje ¿ycie. </v>
+<v n="8"> A gdy trêdowaci dotarli do krañca obozu, weszli do jednego namiotu, jedli, pili, wynieœli stamt¹d srebro, z³oto i szaty, po czym poszli i ukryli to. Nastêpnie wrócili, weszli do drugiego namiotu, równie¿ wynieœli stamt¹d ³up, odeszli i ukryli go. </v>
+<v n="9"> Wtedy powiedzieli jeden do drugiego: Niedobrze czynimy. Ten dzieñ jest dniem dobrej nowiny, a my milczymy. Jeœli bêdziemy czekaæ a¿ do brzasku, spotka nas kara. ChodŸcie wiêc teraz, pójdŸmy i opowiadajmy o tym domowi króla. </v>
+<v n="10"> Przyszli wiêc i zawo³ali na stra¿nika bramy miejskiej. Powiedzieli im: Przyszliœmy do obozu Syryjczyków, a oto nikogo tam nie by³o, nie s³ychaæ by³o g³osu ludzkiego, widzieliœmy tylko uwi¹zane konie i os³y oraz namioty, tak jak by³y. </v>
+<v n="11"> Wtedy zawo³a³ on innych stra¿ników, a ci opowiedzieli o tym we wnêtrzu domu króla. </v>
+<v n="12"> Wówczas król wsta³ w nocy i powiedzia³ do swoich s³ug: Powiem wam, co nam uczynili Syryjczycy: wiedz¹, ¿e g³odujemy. Wyszli wiêc z obozu i ukryli siê w polu, mówi¹c: Gdy wyjd¹ z miasta, pojmiemy ich ¿ywych i wejdziemy do miasta. </v>
+<v n="13"> Jeden z jego s³ug odpowiedzia³: Niech wezm¹, proszê, piêæ spoœród reszty koni, które zosta³y w mieœcie – oto s¹ one jak ca³e mnóstwo Izraela, które zosta³o w nim, oto s¹ one jak ca³e mnóstwo Izraela, które ju¿ zginê³o – wyœlemy je i zobaczymy. </v>
+<v n="14"> Wziêli wiêc dwa konie zaprzêgowe, które król pos³a³ do obozu Syryjczyków, mówi¹c: IdŸcie i zobaczcie. </v>
+<v n="15"> Szli za nimi a¿ do Jordanu. A oto ca³a droga by³a pe³na szat i naczyñ, które Syryjczycy porzucili w poœpiechu. Wtedy pos³añcy wrócili i oznajmili to królowi. </v>
+<v n="16"> Wówczas lud wyszed³ i z³upi³ obóz Syryjczyków. I jedna miara m¹ki pszennej by³a za sykla i dwie miary jêczmienia za sykla, wed³ug s³owa PANA. </v>
+<v n="17"> A król ustanowi³ tego ksiêcia, na którego ramieniu siê wspiera³, nadzorc¹ bramy. Lud jednak zadepta³ go w bramie na œmieræ, jak powiedzia³ m¹¿ Bo¿y, który o tym mówi³, gdy król zszed³ do niego. </v>
+<v n="18"> I sta³o siê tak, jak powiedzia³ królowi m¹¿ Bo¿y: Dwie miary jêczmienia za sykla i jedna miara m¹ki pszennej za sykla bêd¹ jutro o tej porze w bramie Samarii. </v>
+<v n="19"> Wtedy ten ksi¹¿ê odpowiedzia³ mê¿owi Bo¿emu: Choæby PAN zrobi³ okna w niebie, czy mog³oby tak siê staæ? Odpowiedzia³: Oto zobaczysz to na w³asne oczy, ale jeœæ z tego nie bêdziesz. </v>
+<v n="20"> I tak siê z nim sta³o. Lud bowiem zadepta³ go w bramie i ksi¹¿ê umar³. </v>
+</c>

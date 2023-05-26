@@ -1,0 +1,19 @@
+<v n="1"> Dlaczego, PANIE, stoisz z daleka? Dlaczego ukrywasz siê w czasie niedoli? </v>
+<v n="2"> Niegodziwy w swej pysze przeœladuje ubogiego, niech niegodziwi uwik³aj¹ siê w zamys³y, które uknuli. </v>
+<v n="3"> Bo niegodziwy che³pi siê pragnieniem swej duszy, a chciwiec b³ogos³awi sobie i zniewa¿a PANA. </v>
+<v n="4"> Niegodziwy przez pychê, któr¹ po sobie pokazuje, nie szuka Boga; ca³e jego myœlenie to ¿e nie ma Boga. </v>
+<v n="5"> Jego drogi zawsze s¹ ciê¿kie, twoje s¹dy s¹ zbyt daleko od niego, parska na wszystkich swoich wrogów. </v>
+<v n="6"> Mówi w swoim sercu: Nie zachwiejê siê, nie zaznam z³a po wszystkie pokolenia. </v>
+<v n="7"> Jego usta pe³ne s¹ przekleñstw, zdrady i podstêpu, pod jego jêzykiem krzywda i nieprawoœæ. </v>
+<v n="8"> Siedzi w zasadzkach wsi, w ukryciach zabija niewinnego, jego oczy wypatruj¹ ubogiego. </v>
+<v n="9"> Czyha w kryjówce jak lew w swej jaskini; czatuje, by schwytaæ ubogiego, porywa go i wci¹ga w swe sieci. </v>
+<v n="10"> Schyla siê, zni¿a siê, od jego mocy padaj¹ ubodzy. </v>
+<v n="11"> Mówi w swym sercu: Bóg zapomnia³, zakry³ swoje oblicze, nigdy nie zobaczy. </v>
+<v n="12"> Powstañ, PANIE Bo¿e, podnieœ sw¹ rêkê; nie zapominaj o ubogich. </v>
+<v n="13"> Dlaczego niegodziwy zniewa¿a Boga? Mówi w swym sercu: Nie bêdziesz siê upomina³. </v>
+<v n="14"> Lecz ty widzisz utrapienie i patrzysz na krzywdê, aby za nie odp³aciæ tw¹ rêk¹. Na ciebie siê zdaje ubogi, ty jesteœ pomocnikiem sierocie. </v>
+<v n="15"> Z³am ramiê niegodziwego i z³ego, dochodŸ jego nieprawoœci, a¿ jej ju¿ nie bêdzie. </v>
+<v n="16"> PAN jest Królem na wieki wieków, z jego ziemi zniknê³y narody. </v>
+<v n="17"> Us³ysza³eœ pragnienia pokornych, PANIE, utwierdzisz ich serca, nak³onisz swego ucha; </v>
+<v n="18"> Aby broniæ sieroty i udrêczonego, aby œmiertelny cz³owiek nie gnêbi³ ju¿ na ziemi. </v>
+</c>

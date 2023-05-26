@@ -1,0 +1,24 @@
+<v n="1"> Po tych wydarzeniach, gdy usta³ gniew króla Aswerusa, wspomnia³ on na Waszti i na to, co uczyni³a, oraz dekret, który zosta³ wydany przeciwko niej. </v>
+<v n="2"> I dworzanie króla, którzy mu us³ugiwali, powiedzieli: Niech poszukuj¹ dla króla m³odych dziewic o piêknej urodzie; </v>
+<v n="3"> I niech król ustanowi urzêdników we wszystkich prowincjach swego królestwa, aby zgromadzili wszystkie m³ode dziewice o piêknej urodzie w pa³acu Suza, w domu kobiet, pod opiek¹ Hegaja, eunucha królewskiego, stró¿a kobiet, i niech im dadz¹ œrodki do ich pielêgnacji. </v>
+<v n="4"> A ta panienka, która spodoba siê królowi, zostanie królow¹ w miejsce Waszti. Spodoba³a siê ta rada królowi i tak uczyni³. </v>
+<v n="5"> A w pa³acu Suza by³ pewien ¯yd imieniem Mardocheusz, syn Jaira, syna Szimejego, syna Kisza, z pokolenia Beniamina. </v>
+<v n="6"> Zosta³ on uprowadzony z Jerozolimy wraz z innymi pojmanymi, których uprowadzono razem z Jechoniaszem, królem Judy, którego wzi¹³ do niewoli Nabuchodonozor, król Babilonu. </v>
+<v n="7"> By³ on opiekunem Hadassy, to jest Estery, córki swego stryja, nie mia³a ona bowiem ani ojca, ani matki. A by³a to panna piêkna i urodziwa. Mardocheusz, po œmierci jej ojca i matki, przyj¹³ j¹ za córkê. </v>
+<v n="8"> A gdy og³oszono rozkaz króla i jego dekret i gdy zgromadzono wiele panien w pa³acu Suza pod opiek¹ Hegaja, wziêto te¿ i Esterê do domu króla pod opiek¹ Hegaja, stró¿a kobiet. </v>
+<v n="9"> I spodoba³a mu siê dziewczyna, i znalaz³a ³askê w jego oczach, tak ¿e od razu kaza³ daæ jej œrodki pielêgnacyjne, nale¿n¹ jej czêœæ, oraz siedem dobranych dziewcz¹t z domu króla. Nastêpnie przeniós³ j¹ i jej dziewczêta do najlepszej czêœci w domu kobiet. </v>
+<v n="10"> Ale Estera nie oznajmi³a swojego ludu ani pochodzenia, poniewa¿ Mardocheusz nakaza³ jej, by tego nie ujawnia³a. </v>
+<v n="11"> A Mardocheusz ka¿dego dnia przechadza³ siê przed dziedziñcem domu kobiet, aby siê dowiedzieæ o zdrowie Estery i co siê z ni¹ stanie. </v>
+<v n="12"> A gdy nadchodzi³a kolej na ka¿d¹ z tych panien, aby wejœæ do króla Aswerusa po up³ywie dwunastu miesiêcy zgodnie z prawem dla kobiet – by³ to bowiem okres ich pielêgnacji: szeœæ miesiêcy olejkiem z mirry, a szeœæ miesiêcy wonnoœciami i innymi œrodkami pielêgnacji dla kobiet; </v>
+<v n="13"> Wtedy panna udawa³a siê do króla, a czegokolwiek ¿¹da³a, dawano jej, aby z tym sz³a z domu kobiet a¿ do domu królewskiego. </v>
+<v n="14"> Wieczorem wychodzi³a, rano zaœ wraca³a do drugiego domu kobiet pod opiekê Szaaszgaza, eunucha królewskiego, stró¿a na³o¿nic. Nie przychodzi³a ju¿ wiêcej do króla, chyba ¿e spodoba³a siê królowi i wzywano j¹ po imieniu. </v>
+<v n="15"> A gdy przysz³a kolej na Esterê, córkê Abichaila, stryja Mardocheusza, który j¹ przyj¹³ za córkê – aby uda³a siê do króla, nie ¿¹da³a niczego prócz tego, co poleci³ Hegaj, eunuch króla, stró¿ kobiet. I Estera zyska³a ³askê w oczach wszystkich, którzy na ni¹ patrzyli. </v>
+<v n="16"> Zabrano wiêc Esterê do króla Aswerusa, do jego domu królewskiego, w dziesi¹tym miesi¹cu, to jest w miesi¹cu Tebet, w siódmym roku jego panowania. </v>
+<v n="17"> I król umi³owa³ Esterê nad wszystkie kobiety, i znalaz³a ona ³askê i jego przychylnoœæ ponad wszystkie panny, tak ¿e w³o¿y³ jej na g³owê koronê królewsk¹ i uczyni³ j¹ królow¹ w miejsce Waszti. </v>
+<v n="18"> Potem król wyprawi³ wielk¹ ucztê dla wszystkich swoich ksi¹¿¹t i s³ug, ucztê Estery, a prowincje uwolni³ od podatków i porozdawa³ dary, jak przysta³o na króla. </v>
+<v n="19"> Gdy ponownie zebrano dziewice, Mardocheusz siedzia³ przy bramie króla. </v>
+<v n="20"> A Estera nie oznajmi³a jeszcze swego pochodzenia ani ludu, tak jak jej rozkaza³ Mardocheusz. Estera wykona³a polecenie Mardocheusza, tak jak dawniej, gdy by³a jeszcze pod jego opiek¹. </v>
+<v n="21"> W tych dniach, gdy Mardocheusz siedzia³ przy bramie króla, dwaj eunuchowie króla, Bigtan i Teresz, stró¿e progu, byli rozgniewani i szukali sposobnoœci, aby podnieœæ rêkê na króla Aswerusa. </v>
+<v n="22"> Dowiedzia³ siê o tym Mardocheusz i oznajmi³ to królowej Esterze, a Estera oznajmi³a to królowi w imieniu Mardocheusza. </v>
+<v n="23"> A gdy tê sprawê zbadano, okaza³a siê prawdziwa. Powieszono wiêc obydwu na szubienicy i zapisano to w ksiêgach kronik przed królem. </v>
+</c>

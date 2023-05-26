@@ -1,0 +1,12 @@
+<v n="1"> A Jehoszafat, król Judy, wróci³ do swojego domu w pokoju, do Jerozolimy. </v>
+<v n="2"> I wyszed³ mu naprzeciw widz¹cy Jehu, syn Chananiego, i powiedzia³ do króla Jehoszafata: Czy powinieneœ by³ pomagaæ bezbo¿nym i mi³owaæ tych, którzy nienawidz¹ PANA? Przez to w³aœnie wisi nad tob¹ gniew PANA. </v>
+<v n="3"> Znalaz³y siê jednak dobre czyny w tobie, bo powycina³eœ gaje z ziemi i przygotowa³eœ swoje serce, aby szukaæ Boga. </v>
+<v n="4"> Zamieszka³ wiêc Jehoszafat w Jerozolimie. I znowu wyruszy³ na objazd do ludu, od Beer-Szeby a¿ do góry Efraim, i nawróci³ ich do PANA, Boga swoich ojców. </v>
+<v n="5"> I ustanowi³ sêdziów w ziemi we wszystkich warownych miastach Judy, w ka¿dym mieœcie. </v>
+<v n="6"> I powiedzia³ do sêdziów: Uwa¿ajcie na to, co czynicie, bo s¹dzicie nie dla cz³owieka, ale dla PANA, który jest z wami podczas sprawowania s¹du. </v>
+<v n="7"> Niech wiêc bêdzie w was bojaŸñ PANA. Strze¿cie siê i czyñcie sprawiedliwoœæ. Nie ma bowiem nieprawoœci u PANA, Boga naszego, i nie ma wzglêdu na osoby ani przyjmowania darów. </v>
+<v n="8"> Tak¿e i w Jerozolimie Jehoszafat ustanowi³ niektórych spoœród Lewitów, kap³anów i naczelników rodów Izraela dla s¹du PANA i do rozstrzygania sporów tych, którzy siê udawali do Jerozolimy. </v>
+<v n="9"> I nakaza³ im: Czyñcie to w bojaŸni PANA, wiernie i doskona³ym sercem. </v>
+<v n="10"> A przy wszystkich sporach, które wam przed³o¿¹ wasi bracia mieszkaj¹cy w swoich miastach, czy dotycz¹ one przelania krwi, czy prawa, przykazania, ustaw czy s¹dów, napominajcie ich, aby nie grzeszyli przeciwko PANU, aby gniew nie spad³ na was i na waszych braci. Tak czyñcie, a nie zgrzeszycie. </v>
+<v n="11"> A oto najwy¿szy kap³an Amariasz bêdzie postawiony nad wami we wszystkich sprawach PANA, a Zebadiasz, syn Izmaela, ksi¹¿ê w domu Judy – we wszystkich sprawach króla. Lewici bêd¹ równie¿ waszymi urzêdnikami. Umacniajcie siê i czyñcie tak, a PAN bêdzie z dobrym. </v>
+</c>

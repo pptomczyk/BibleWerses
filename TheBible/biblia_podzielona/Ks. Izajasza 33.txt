@@ -1,0 +1,25 @@
+<v n="1"> Biada tobie, który ³upisz, chocia¿ sam nie by³eœ z³upiony, i który zdradzasz, chocia¿ sam nie by³eœ zdradzony! Gdy przestaniesz ³upiæ, te¿ zostaniesz z³upiony; gdy przestaniesz zdradzaæ, te¿ bêd¹ ciê zdradzaæ. </v>
+<v n="2"> PANIE, zlituj siê nad nami, ciebie oczekujemy. B¹dŸ ramieniem dla swoich ka¿dego poranka i naszym zbawieniem w czasie ucisku. </v>
+<v n="3"> Na g³os wrzawy rozpierzchn¹ siê narody; gdy siê podniesiesz, rozprosz¹ siê poganie. </v>
+<v n="4"> I wasze ³upy bêd¹ zebrane, jak siê zbiera robactwo; a jak rzuca siê szarañcza, tak on przypadnie na nie. </v>
+<v n="5"> PAN jest wywy¿szony, bo mieszka na wysokoœci. Nape³ni Syjon s¹dem i sprawiedliwoœci¹. </v>
+<v n="6"> M¹droœæ i wiedza bêd¹ utwierdzeniem twych czasów, si³¹ i twoim obfitym zbawieniem, a bojaŸñ PANA to jego skarb. </v>
+<v n="7"> Oto ich mocarze wo³aj¹ na dworze, pos³owie pokoju gorzko p³acz¹. </v>
+<v n="8"> Opustosza³y drogi, przechodzieñ przesta³ pod¹¿aæ œcie¿k¹. Zerwa³ przymierze, zniewa¿y³ miasta, a z cz³owiekiem siê nie liczy. </v>
+<v n="9"> Ziemia p³acze i marnieje; Liban jest zawstydzony i usycha; Szaron sta³ siê niczym pustynia, a Baszan i Karmel s¹ ogo³ocone. </v>
+<v n="10"> Teraz powstanê – mówi PAN – teraz siê wywy¿szê, teraz siê podniosê. </v>
+<v n="11"> Poczniecie s³omê i zrodzicie œciernisko; wasze tchnienie po¿re was jak ogieñ. </v>
+<v n="12"> I narody bêd¹ jak wypalone wapno; jak œciête ciernie bêd¹ spalone ogniem. </v>
+<v n="13"> S³uchajcie, wy, którzy jesteœcie daleko, co uczyni³em, a wy, bliscy, poznajcie moj¹ moc. </v>
+<v n="14"> Grzesznicy na Syjonie zlêkli siê, strach ogarn¹³ ob³udników: Kto z nas mo¿e przebywaæ przy trawi¹cym ogniu? Kto z nas mo¿e przebywaæ przy wiecznym p³omieniu? </v>
+<v n="15"> Ten, kto postêpuje w sprawiedliwoœci i mówi to, co prawe; ten, kto brzydzi siê zyskiem niesprawiedliwym, kto otrz¹sa swe rêce, by nie braæ darów, kto zatyka uszy, by nie s³uchaæ o rozlewie krwi, i zamyka oczy, by nie patrzeæ na z³o; </v>
+<v n="16"> Ten bêdzie mieszkaæ na wysokoœciach, zamki na ska³ach bêd¹ jego ucieczk¹; bêdzie mu dany chleb i wody mu nie zabraknie. </v>
+<v n="17"> Twoje oczy ujrz¹ króla w jego piêknie, ujrz¹ ziemiê dalek¹. </v>
+<v n="18"> Twoje serce bêdzie wspominaæ grozê: Gdzie jest pisarz? Gdzie jest poborca? Gdzie jest ten, co liczy³ wie¿e? </v>
+<v n="19"> Nie zobaczysz ju¿ okrutnego ludu, ludu o ciemnej, niewyraŸnej mowie, o be³kotliwym i niezrozumia³ym jêzyku. </v>
+<v n="20"> Spójrz na Syjon, miasto naszych uroczystych œwi¹t. Twoje oczy zobacz¹ Jerozolimê, spokojne miejsce zamieszkania, namiot, który nie bêdzie przeniesiony; jego ko³ki nigdy nie zostan¹ wyci¹gniête i ¿aden z jego sznurów nie bêdzie zerwany. </v>
+<v n="21"> Wielmo¿ny PAN sam bêdzie dla nas miejscem szerokich rzek i strumieni, po których nie pop³ynie okrêt wios³owy ani przez które okaza³y statek siê nie przeprawi. </v>
+<v n="22"> PAN bowiem jest naszym sêdzi¹, PAN naszym prawodawc¹, PAN naszym królem. On nas zbawi. </v>
+<v n="23"> Os³ab³y twoje liny, nie bêd¹ mogli utrzymaæ twego masztu ani rozci¹gn¹æ ¿agla. Wtedy zostanie rozdzielony ogromny ³up, chromi pochwyc¹ zdobycz. </v>
+<v n="24"> I ¿aden z mieszkañców nie powie: Zachorowa³em. Ludowi, który mieszka w nim, zostanie przebaczona nieprawoœæ. </v>
+</c>
