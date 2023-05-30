@@ -1,0 +1,10 @@
+<v n="1"> Psalm. Spiewajcie PANU nowa piesn, bo cudownych rzeczy dokonal, jego prawica i swiete ramie przyniosly mu zwyciestwo. </v>
+<v n="2"> PAN objawil swoje zbawienie, okazal swoja sprawiedliwosc na oczach pogan. </v>
+<v n="3"> Pamietal o swoim milosierdziu i swojej prawdzie wobec domu Izraela; wszystkie krance ziemi ujrzaly zbawienie naszego Boga. </v>
+<v n="4"> Radosnie wykrzykuj PANU, cala ziemio; wykrzykujcie, weselcie sie i spiewajcie. </v>
+<v n="5"> Grajcie PANU na harfie, na harfie, przy slowach piesni. </v>
+<v n="6"> Przy trabach i dzwieku kornetow wykrzykujcie radosnie przed PANEM, Krolem. </v>
+<v n="7"> Niech zaszumi morze i to, co w nim jest, swiat i jego mieszkancy. </v>
+<v n="8"> Niech rzeki klaszcza w dlonie, niech gory raduja sie wspolnie; </v>
+<v n="9"> Przed PANEM, bo przychodzi, by sadzic ziemie. Bedzie sadzil swiat sprawiedliwie i narody wedlug slusznosci. </v>
+</c>

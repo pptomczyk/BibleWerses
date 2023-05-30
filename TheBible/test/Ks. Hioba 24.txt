@@ -1,0 +1,26 @@
+<v n="1"> Czemu, skoro od Wszechmocnego nie sa zakryte czasy, ci, ktorzy go znaja, nie widza jego dni? </v>
+<v n="2"> Niektorzy przesuwaja granice, zabieraja trzody i pasa je. </v>
+<v n="3"> Osla sierot pedza i wolu wdowy biora w zastaw. </v>
+<v n="4"> Spychaja z drogi ubogich, biedni ziemi musza sie kryc razem. </v>
+<v n="5"> Oto jak dzikie osly na pustyni wychodza oni do swojej pracy, wstajac rano na lup. Pustynia wydaje chleb dla nich oraz ich dzieci. </v>
+<v n="6"> Na polu zna zboze i zbieraja grona w winnicy niegodziwych. </v>
+<v n="7"> Nagich zmuszaja nocowac bez ubrania, tak ze nie maja czym sie nakryc w czasie chlodow; </v>
+<v n="8"> Przemoczeni ulewa gorska, bez schronienia przytulaja sie do skaly. </v>
+<v n="9"> Odrywaja od piersi sieroty, od ubogiego biora zastaw. </v>
+<v n="10"> Nagiego zmuszaja do chodzenia bez ubrania, a glodnym zabieraja snopy. </v>
+<v n="11"> A ci, ktorzy posrod ich murow wyciskaja oliwe i tlocza w prasach, sa spragnieni. </v>
+<v n="12"> Ludzie w miescie wzdychaja, dusze smiertelnie rannych wolaja, a Bog im w tym nie przeszkadza. </v>
+<v n="13"> To sa ci, ktorzy sie sprzeciwiaja swiatlosci, nie znaja jej drog ani nie trwaja na jej sciezkach. </v>
+<v n="14"> Morderca wstaje przed switem i zabija ubogiego i potrzebujacego, a w nocy jest jak zlodziej. </v>
+<v n="15"> Oko cudzoloznika czeka na zmierzch, mowiac: Nikt mnie nie zobaczy, i zakrywa on swoje oblicze. </v>
+<v n="16"> W ciemnosci podkopuja domy, ktore sobie za dnia oznaczyli, nie znaja swiatla. </v>
+<v n="17"> Dla nich bowiem poranek jest jak cien smierci. Jesli ktos ich rozpozna, ogarnia ich strach cienia smierci. </v>
+<v n="18"> Lekko unosza sie na wodach, przeklety jest ich dzial na ziemi, nie patrza na droge do winnic. </v>
+<v n="19"> Jak susza i upal trawia wody sniegu, tak grob trawi grzesznikow. </v>
+<v n="20"> Zapomni o nim lono jego matki, a robak bedzie sie nim karmic jak slodycz; nikt go wiecej nie wspomni, a nieprawosc zostanie polamana jak drzewo. </v>
+<v n="21"> Dreczy nieplodna, ktora nie rodzila, a wdowie nie czyni dobra. </v>
+<v n="22"> Pociaga tez mocarzy swoja sila; gdy powstaje, nikt nie jest pewien swego zycia. </v>
+<v n="23"> Dano mu, ze moze oprzec sie bezpiecznie; jego oczy jednak patrza na ich drogi. </v>
+<v n="24"> Na chwile zostali wywyzszeni, ale juz ich nie ma; zostali ponizeni i scisnieni jak wszyscy inni, a jak wierzch klosa zostana wycieci. </v>
+<v n="25"> A jesli tak nie jest, kto mi udowodni klamstwo i obroci wniwecz moje slowa? </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> Chcê bowiem, abyœcie wiedzieli, jak wielk¹ walkê toczê o was, o tych, którzy s¹ w Laodycei, i o tych wszystkich, którzy nie widzieli mego oblicza w ciele; </v>
+<v n="2"> Aby ich serca by³y pocieszone, bêd¹c zespolone w mi³oœci, a to ku wszelkiemu bogactwu zupe³nej pewnoœci zrozumienia, ku poznaniu tajemnicy Boga, Ojca i Chrystusa; </v>
+<v n="3"> W którym s¹ ukryte wszystkie skarby m¹droœci i poznania. </v>
+<v n="4"> A mówiê to, aby was nikt nie zwodzi³ podstêpnymi s³owami. </v>
+<v n="5"> Choæ bowiem cia³em jestem nieobecny, to jednak duchem jestem z wami i radujê siê, widz¹c wasz porz¹dek i sta³oœæ waszej wiary w Chrystusa. </v>
+<v n="6"> Jak wiêc przyjêliœcie Pana Jezusa Chrystusa, tak w nim postêpujcie; </v>
+<v n="7"> Zakorzenieni i zbudowani na nim, i utwierdzeni w wierze, jak was nauczono, obfituj¹c w niej z dziêkczynieniem. </v>
+<v n="8"> Uwa¿ajcie, ¿eby was ktoœ nie obróci³ na w³asn¹ korzyœæ przez filozofiê i pró¿ne oszustwo, oparte na ludzkiej tradycji, na ¿ywio³ach œwiata, a nie na Chrystusie. </v>
+<v n="9"> Gdy¿ w nim mieszka cieleœnie ca³a pe³nia Bóstwa. </v>
+<v n="10"> I jesteœcie dope³nieni w nim, który jest g³ow¹ wszelkiej zwierzchnoœci i w³adzy; </v>
+<v n="11"> W nim te¿ zostaliœcie obrzezani obrzezaniem nie rêk¹ uczynionym, lecz obrzezaniem Chrystusa, przez zrzucenie grzesznego cia³a doczesnego; </v>
+<v n="12"> Pogrzebani z nim w chrzcie, w którym te¿ razem z nim zostaliœcie wskrzeszeni przez wiarê, która jest dzia³aniem Boga, który go wskrzesi³ z martwych. </v>
+<v n="13"> I was, gdy byliœcie umar³ymi w grzechach i w nieobrzezaniu waszego cia³a, razem z nim o¿ywi³, przebaczaj¹c wam wszystkie grzechy; </v>
+<v n="14"> Wymaza³ obci¹¿aj¹cy nas wykaz zawarty w przepisach, który by³ przeciwko nam, i usun¹³ go z drogi, przybiwszy do krzy¿a; </v>
+<v n="15"> I rozbroiwszy zwierzchnoœci i w³adze, jawnie wystawi³ je na pokaz, gdy przez niego odniós³ triumf nad nimi. </v>
+<v n="16"> Niech wiêc nikt was nie os¹dza z powodu jedzenia lub picia, co do œwiêta, nowiu ksiê¿yca lub szabatów. </v>
+<v n="17"> S¹ to cienie rzeczy przysz³ych, cia³o zaœ jest Chrystusa. </v>
+<v n="18"> Niech nikt, kto ma upodobanie w poni¿aniu siebie i kulcie anio³ów, nie pozbawia was nagrody, wdaj¹c siê w to, czego nie widzia³, i pyszni¹c siê bezpodstawnie cielesnym sposobem myœlenia; </v>
+<v n="19"> A nie trzyma siê g³owy, z której ca³e cia³o, od¿ywiane i wespó³ zespolone przez stawy i œciêgna, roœnie wzrostem Bo¿ym. </v>
+<v n="20"> Jeœli wiêc umarliœcie z Chrystusem dla ¿ywio³ów tego œwiata, to dlaczego – jakbyœcie jeszcze ¿yli dla œwiata – poddajecie siê nakazom: </v>
+<v n="21"> Nie dotykaj, nie kosztuj, nie ruszaj; </v>
+<v n="22"> (To wszystko niszczeje przez u¿ywanie), wed³ug przykazañ i nauk ludzkich? </v>
+<v n="23"> Maj¹ one pozór m¹droœci w religijnoœci wed³ug w³asnego upodobania, w poni¿aniu siebie i nieoszczêdzaniu cia³a, jednak nie maj¹ ¿adnej wartoœci, s³u¿¹ tylko do nasycenia cia³a. </v>
+</c>

@@ -1,0 +1,23 @@
+<v n="1"> Przestrzegaj miesiaca Abib i obchodz Pasche dla PANA, swego Boga, poniewaz w miesiacu Abib PAN, twoj Bog, wyprowadzil cie w nocy z Egiptu. </v>
+<v n="2"> Zlozysz PANU, swemu Bogu, ofiare paschalna z owiec i wolow w miejscu, ktore PAN wybierze na mieszkanie dla swego imienia. </v>
+<v n="3"> Nie bedziesz jadl wraz z nia chleba kwaszonego; przez siedem dni bedziesz jadl z nia przasniki, chleb utrapienia – gdyz w pospiechu wyszedles z ziemi Egiptu – abys pamietal dzien swego wyjscia z ziemi Egiptu po wszystkie dni swego zycia. </v>
+<v n="4"> Nie zobaczy sie u ciebie kwasu we wszystkich twoich granicach przez siedem dni. Z miesa, ktore zlozyles pierwszego dnia wieczorem, nie zostawisz nic przez noc do rana. </v>
+<v n="5"> Nie bedziesz mogl skladac ofiary paschalnej w zadnej twojej miejscowosci, ktora daje ci PAN, twoj Bog; </v>
+<v n="6"> Lecz w miejscu, ktore PAN, twoj Bog, wybierze na mieszkanie dla swego imienia, tam bedziesz skladal ofiare paschalna wieczorem o zachodzie slonca, w porze swego wyjscia z Egiptu. </v>
+<v n="7"> Upieczesz ja i spozyjesz w miejscu, ktore PAN, twoj Bog, wybierze. Potem rano zawrocisz i pojdziesz do swoich namiotow. </v>
+<v n="8"> Przez szesc dni bedziesz jadl przasniki, a siodmego dnia bedzie uroczyste swieto dla PANA, twego Boga. Nie bedziesz wtedy wykonywal zadnej pracy. </v>
+<v n="9"> Odliczysz sobie siedem tygodni. Zaczniesz liczyc te siedem tygodni od zapuszczenia sierpa w zboze. </v>
+<v n="10"> Potem bedziesz obchodzil Swieto Tygodni dla PANA, swego Boga, z dobrowolna ofiara twojej reki, ktora dasz stosownie do tego, jak cie blogoslawil PAN, twoj Bog. </v>
+<v n="11"> A w miejscu, ktore PAN, twoj Bog, wybierze na mieszkanie dla swego imienia, bedziesz sie radowal przed PANEM, swoim Bogiem, ty, twoj syn i twoja corka, twoj sluga i twoja sluzaca, Lewita, ktory jest w twoich bramach, przybysz, sierota i wdowa, ktorzy beda wsrod was. </v>
+<v n="12"> I bedziesz pamietal, ze byles niewolnikiem w Egipcie. Dlatego pilnuj wypelnienia tych nakazow. </v>
+<v n="13"> Bedziesz obchodzil Swieto Namiotow przez siedem dni, gdy zbierzesz plony ze swojego klepiska i tloczni. </v>
+<v n="14"> I bedziesz sie radowal podczas tego swieta, ty, twoj syn i twoja corka, twoj sluga i twoja sluzaca, Lewita, ktory jest w twoich bramach, przybysz, sierota i wdowa, ktorzy beda w obrebie twoich bram. </v>
+<v n="15"> Przez siedem dni bedziesz obchodzil uroczyste swieto dla PANA, swego Boga, w miejscu, ktore PAN wybierze, gdyz PAN, twoj Bog, bedzie cie blogoslawil we wszystkich twoich zbiorach i w kazdej pracy twoich rak; i bedziesz pelny radosci. </v>
+<v n="16"> Trzy razy w roku wszyscy twoi mezczyzni pokaza sie przed PANEM, twoim Bogiem, w miejscu, ktore on wybierze: na Swieto Przasnikow, na Swieto Tygodni i na Swieto Namiotow. A nikt nie pokaze sie przed PANEM z pustymi rekami. </v>
+<v n="17"> Kazdy przyjdzie z darem ze swojej reki wedlug blogoslawienstwa PANA, twojego Boga, ktore on ci daje. </v>
+<v n="18"> Ustanowisz sobie sedziow i urzednikow we wszystkich swoich miastach, ktore PAN, twoj Bog, daje ci dla wszystkich waszych pokolen, aby sadzili lud sprawiedliwym sadem. </v>
+<v n="19"> Nie bedziesz naginal sadu, nie bedziesz mial wzgledu na osobe i nie bedziesz bral daru, gdyz dar zaslepia oczy madrych i wypacza slowa sprawiedliwych. </v>
+<v n="20"> Podazaj calkowicie za sprawiedliwoscia, abys zyl i posiadl ziemie, ktora daje ci PAN, twoj Bog. </v>
+<v n="21"> Nie posadzisz sobie gaju z zadnego drzewa dokola oltarza PANA, swego Boga, jaki sobie zbudujesz. </v>
+<v n="22"> Nie postawisz sobie posagu, gdyz PAN, twoj Bog, nienawidzi tego. </v>
+</c>

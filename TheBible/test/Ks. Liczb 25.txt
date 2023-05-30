@@ -1,0 +1,19 @@
+<v n="1"> Potem Izrael zamieszkal w Szittim i lud zaczal uprawiac nierzad z corkami Moabu. </v>
+<v n="2"> One zapraszaly lud do ofiar swoich bogow. A lud jadl i oddawal poklon ich bogom. </v>
+<v n="3"> I Izrael przylaczyl sie do Baal-Peora, i PAN bardzo rozgniewal sie na Izraela. </v>
+<v n="4"> Wtedy PAN powiedzial do Mojzesza: Zbierz wszystkich naczelnikow ludu i powies ich przed PANEM na sloncu, aby zapalczywosc gniewu PANA odwrocila sie od Izraela. </v>
+<v n="5"> Mojzesz powiedzial wiec do sedziow Izraela: Niech kazdy z was zabije swoich ludzi, ktorzy przylaczyli sie do Baal-Peora. </v>
+<v n="6"> A oto jeden z synow Izraela przyszedl i przyprowadzil do swoich braci Midianitke na oczach Mojzesza i na oczach calego zgromadzenia synow Izraela, ktorzy plakali przed wejsciem do Namiotu Zgromadzenia. </v>
+<v n="7"> Gdy zobaczyl to Pinchas, syn Eleazara, syna Aarona, kaplana, wstal sposrod zgromadzenia i wzial do reki oszczep. </v>
+<v n="8"> I poszedl za tym Izraelita do namiotu, przebil oboje, tego Izraelite oraz kobiete przez jej podbrzusze. I plaga wsrod synow Izraela zostala powstrzymana. </v>
+<v n="9"> A tych, ktorzy umarli od tej plagi, bylo dwadziescia cztery tysiace. </v>
+<v n="10"> Potem PAN powiedzial do Mojzesza: </v>
+<v n="11"> Pinchas, syn Eleazara, syna Aarona, kaplana, odwrocil moj gniew od synow Izraela, gdyz okazal wsrod nich gorliwosc ze wzgledu na mnie, tak ze nie wytracilem synow Izraela w mojej zazdrosci. </v>
+<v n="12"> Dlatego powiedz mu: Oto zawieram z nim moje przymierze pokoju; </v>
+<v n="13"> Bedzie to dla niego i dla jego potomstwa po nim przymierze wiecznego kaplanstwa, poniewaz okazal gorliwosc o swego Boga i dokonal przeblagania za synow Izraela. </v>
+<v n="14"> A imie tego Izraelity, ktory zostal zabity wraz z Midianitka, bylo Zimri; byl to syn Salu, naczelnika domu swego ojca, z pokolenia Symeona. </v>
+<v n="15"> Imie zabitej Midianitki bylo Kozbi, byla to corka Sura, naczelnika w swoim narodzie i w domu swego ojca w Midianie. </v>
+<v n="16"> I PAN powiedzial do Mojzesza: </v>
+<v n="17"> Odnoscie sie wrogo do Midianitow i pobijcie ich; </v>
+<v n="18"> Poniewaz oni odnosili sie wrogo do was przez swoje podstepy, a podeszli was przez Baal-Peora i przez ich siostre Kozbi, corke ksiecia Midianu, ktora zostala zabita w dniu plagi z powodu Peora. </v>
+</c>

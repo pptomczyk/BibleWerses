@@ -1,0 +1,17 @@
+<v n="1"> Sluchajcie tego, co mowi PAN: Wstan, spieraj sie z gorami i niech pagorki sluchaja twego glosu. </v>
+<v n="2"> Sluchajcie, gory, sporu PANA, i najmocniejsze fundamenty ziemi, bo PAN wiedzie spor ze swoim ludem i rozprawia sie z Jerozolima. </v>
+<v n="3"> Moj ludu, coz ci uczynilem? W czym ci sie uprzykrzylem? Zeznaj przeciwko mnie. </v>
+<v n="4"> Wyprowadzilem cie bowiem z ziemi Egiptu, odkupilem cie z domu niewolnikow i poslalem przed toba Mojzesza, Aarona i Miriam. </v>
+<v n="5"> Moj ludu! Wspomnij teraz, co zamierzal Balak, krol Moabu, a co mu odpowiedzial Balaam, syn Beora; wspomnij tez, co sie dzialo od Szittim az do Gilgal, abys poznal sprawiedliwosc PANA. </v>
+<v n="6"> Z czym mam sie stawic przed PANEM i poklonic sie Bogu najwyzszemu? Czy mam stawic sie przed nim z ofiarami calopalnymi i jednorocznymi cielcami? </v>
+<v n="7"> Czy PAN ma upodobanie w tysiacach baranow i w dziesiatkach tysiecy strumieni oliwy? Czy mam mu dac swego pierworodnego za moj wystepek, owoc mego lona za grzech mojej duszy? </v>
+<v n="8"> On ci oznajmil, czlowieku, co jest dobre i czego PAN zada od ciebie: jedynie tego, bys czynil sprawiedliwie, kochal milosierdzie i pokornie chodzil z twoim Bogiem. </v>
+<v n="9"> Glos PANA wola do miasta (ale roztropny sam ujrzy twoje imie): Sluchajcie rozgi i tego, kto ja ustanowil. </v>
+<v n="10"> Czy jeszcze sa w domu bezboznego skarby niesprawiedliwe i miara niesprawiedliwa i obrzydliwa? </v>
+<v n="11"> Czy mam usprawiedliwic oszukancza wage i worek falszywych odwaznikow? </v>
+<v n="12"> Jego bogacze sa pelni zdzierstwa, jego mieszkancy mowia klamstwo i ich jezyk w ich ustach jest klamliwy. </v>
+<v n="13"> Dlatego tez dotkne cie choroba, uderze cie i zniszcze z powodu twoich grzechow. </v>
+<v n="14"> Bedziesz jesc, ale sie nie nasycisz; twoje ponizenie bedzie w srodku ciebie. Pochwycisz, ale nie ocalisz, a co ocalisz, wydam pod miecz. </v>
+<v n="15"> Bedziesz sial, ale nie bedziesz zal; bedziesz tloczyl oliwki, ale nie namascisz sie oliwa; bedziesz wyciskal moszcz, ale nie napijesz sie wina. </v>
+<v n="16"> Przestrzegacie bowiem ustaw Omriego i wszystkich czynow domu Achaba i postepujecie wedlug ich rad. Dlatego cie wydam na spustoszenie i jego mieszkancow na posmiewisko. Bedziecie wiec nosic hanbe mego ludu. </v>
+</c>

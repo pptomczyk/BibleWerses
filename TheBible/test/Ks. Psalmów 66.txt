@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi choru. Piesn i psalm. Radosnie wykrzykujcie Bogu, wszystkie ziemie; </v>
+<v n="2"> Wyspiewujcie chwale jego imienia, oddawajcie mu chwalebna czesc. </v>
+<v n="3"> Powiedzcie Bogu: Jak straszliwe sa twe dziela! Z powodu twojej wielkiej mocy poddadza sie twoi wrogowie. </v>
+<v n="4"> Cala ziemia odda ci poklon i spiewac ci bedzie; spiewac bedzie twemu imieniu. Sela. </v>
+<v n="5"> Chodzcie, zobaczcie dziela Boze, straszliwe sa jego dziela posrod synow ludzkich. </v>
+<v n="6"> Zamienil morze w sucha ziemie, pieszo przeszli przez rzeke; tam sie nim weselilismy. </v>
+<v n="7"> Panuje w swej mocy na wieki, jego oczy patrza na narody, buntownicy nie wywyzsza sie. Sela. </v>
+<v n="8"> Blogoslawcie, narody, naszego Boga i rozglaszajcie jego chwale. </v>
+<v n="9"> Zachowal przy zyciu nasza dusze i nie dal sie zachwiac naszej nodze. </v>
+<v n="10"> Doswiadczyles nas bowiem, Boze, wyprobowales nas ogniem, jak srebro jest oczyszczone. </v>
+<v n="11"> Zaprowadziles nas w sidla, wlozyles ucisk na nasze biodra. </v>
+<v n="12"> Pozwoliles ludziom deptac nam po glowach, przeszlismy przez ogien i wode, ale nas wyprowadziles na miejsce obfitosci. </v>
+<v n="13"> Dlatego wejde do twego domu z calopaleniem i wypelnie sluby; </v>
+<v n="14"> Ktore wyrazily moje wargi i wypowiedzialy moje usta w utrapieniu. </v>
+<v n="15"> Bede ci skladal w ofierze calopalenia z tlustych zwierzat wraz z wonnoscia baranow, ofiaruje ci woly i kozly. Sela. </v>
+<v n="16"> Chodzcie, sluchajcie, wszyscy, ktorzy sie boicie Boga, a opowiem, co uczynil dla mojej duszy. </v>
+<v n="17"> Do niego wolalem moimi ustami i wychwalalem go moim jezykiem. </v>
+<v n="18"> Gdybym zwazal na nieprawosc w swoim sercu, Pan by mnie nie wysluchal. </v>
+<v n="19"> A jednak Bog wysluchal, przychylil sie do glosu mojej modlitwy. </v>
+<v n="20"> Blogoslawiony Bog, ktory nie odrzucil mojej modlitwy i nie odebral mi swego milosierdzia. </v>
+</c>

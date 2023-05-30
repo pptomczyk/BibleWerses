@@ -1,0 +1,13 @@
+<v n="1"> Psalm Dawida. PANIE, wysluchaj mojej modlitwy i nadstaw ucha na moje prosby; wysluchaj mnie w swojej wiernosci i sprawiedliwosci. </v>
+<v n="2"> A nie stawiaj przed sadem swojego slugi, bo nikt z zyjacych nie bedzie usprawiedliwiony przed toba. </v>
+<v n="3"> Nieprzyjaciel bowiem przesladuje moja dusze, powalil na ziemie moje zycie; sprawil, ze musze mieszkac w ciemnosci jak dawno umarly. </v>
+<v n="4"> I moj duch jest zdruzgotany we mnie, serce we mnie niszczeje. </v>
+<v n="5"> Wspominam dawne dni, rozmyslam o wszystkich twoich dzielach i rozwazam czyny twoich rak. </v>
+<v n="6"> Wyciagam ku tobie swoje rece; moja dusza pragnie ciebie jak sucha ziemia. Sela. </v>
+<v n="7"> Wysluchaj mnie predko, PANIE; moj duch omdlewa; nie ukrywaj przede mna swego oblicza, bym sie nie stal jak ci, ktorzy schodza do dolu. </v>
+<v n="8"> Spraw, abym rano slyszal o twoim milosierdziu, bo tobie ufam; oznajmij mi droge, ktora mam chodzic, bo do ciebie wznosze moja dusze. </v>
+<v n="9"> Ocal mnie od moich wrogow, PANIE; do ciebie sie uciekam. </v>
+<v n="10"> Naucz mnie czynic twoja wole, bo ty jestes moim Bogiem; twoj duch jest dobry; prowadz mnie do ziemi prawosci. </v>
+<v n="11"> Ozyw mnie, PANIE, dla twojego imienia; ze wzgledu na twoja sprawiedliwosc wyprowadz moja dusze z utrapienia. </v>
+<v n="12"> W swoim milosierdziu wytrac moich wrogow i zgladz wszystkich przeciwnikow mojej duszy, bo jestem twoim sluga. </v>
+</c>

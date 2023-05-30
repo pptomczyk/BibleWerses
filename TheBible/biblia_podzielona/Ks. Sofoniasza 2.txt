@@ -1,0 +1,16 @@
+<v n="1"> Zbierzcie siê, zbierzcie, narodzie wstrêtny; </v>
+<v n="2"> Zanim wyjdzie dekret i dzieñ przeminie jak plewy; zanim przyjdzie na was zapalczywoœæ gniewu PANA, zanim przyjdzie na was dzieñ gniewu PANA. </v>
+<v n="3"> Szukajcie PANA, wszyscy pokorni ziemi, którzy wype³niacie jego prawo; szukajcie sprawiedliwoœci, szukajcie pokory, mo¿e ukryjecie siê w dniu gniewu PANA. </v>
+<v n="4"> Gaza bowiem bêdzie opuszczona i Aszkelon spustoszony, Aszdod w po³udnie wyrzuc¹, a Ekron bêdzie wykorzeniony. </v>
+<v n="5"> Biada mieszkañcom wybrze¿a morskiego, narodowi Keretytów! S³owo PANA jest przeciwko wam, Kanaanie, ziemio Filistynów; wytracê ciê tak, ¿e nie bêdzie ¿adnego mieszkañca. </v>
+<v n="6"> Wybrze¿e morskie bêdzie przeznaczone na schroniska i budki dla pasterzy, i na zagrody dla trzód. </v>
+<v n="7"> Wybrze¿e te¿ przypadnie reszcie domu Judy i bêd¹ na nim wypasaæ. W domach Aszkelonu bêd¹ siê k³aœæ wieczorem, gdy¿ nawiedzi ich PAN, ich Bóg, i odwróci ich niewolê. </v>
+<v n="8"> S³ysza³em obelgi Moabu i l¿enie synów Ammona, którymi ur¹gali mojemu ludowi i wynosili siê na jego granicach. </v>
+<v n="9"> Dlatego jak ¿yjê, mówi PAN zastêpów, Bóg Izraela, Moab stanie siê jak Sodoma, a synowie Ammona jak Gomora – miejscem pokrzyw, do³em soli i pustyni¹ a¿ na wieki. Resztka mego ludu z³upi ich i pozostali z mego ludu posi¹d¹ ich. </v>
+<v n="10"> To ich spotka za ich pychê, gdy¿ l¿yli i wynosili siê nad lud PANA zastêpów. </v>
+<v n="11"> PAN oka¿e siê dla nich straszny, bo sprawi, ¿e zmarniej¹ wszyscy bogowie ziemi; i wszystkie wyspy pogan bêd¹ mu oddawaæ pok³on, ka¿dy ze swego miejsca. </v>
+<v n="12"> Wy te¿, Etiopczycy, bêdziecie pobici moim mieczem. </v>
+<v n="13"> Wyci¹gnie bowiem swoj¹ rêkê na pó³noc i wytraci Asyriê; zamieni Niniwê w spustoszenie i suchy obszar jak pustyniê. </v>
+<v n="14"> I bêd¹ siê w niej wylegiwaæ trzody, wszelkie zwierzêta narodów; i pelikan, i b¹k na g³owicach jej kolumn bêd¹ nocowaæ, ich g³os bêdzie s³ychaæ w oknach, jej filary spustosz¹, gdy¿ zerw¹ cedrowe obicie. </v>
+<v n="15"> Takie bêdzie to weso³e miasto, które mieszka³o bezpiecznie i mówi³o w swoim sercu: Ja jestem i oprócz mnie nie ma innego. Jak¿e sta³o siê spustoszeniem, legowiskiem zwierz¹t! Ka¿dy, kto bêdzie przechodzi³ obok niego, zaœwiœnie i machnie rêk¹. </v>
+</c>

@@ -1,0 +1,12 @@
+<v n="1"> Chodzcie, spiewajmy PANU, wykrzykujmy radosnie skale naszego zbawienia. </v>
+<v n="2"> Przyjdzmy przed jego oblicze z chwala, radosnie spiewajmy mu psalmy. </v>
+<v n="3"> PAN bowiem jest wielkim Bogiem i wielkim Krolem nad wszystkimi bogami. </v>
+<v n="4"> W jego rekach sa glebiny ziemi i jego sa szczyty gor. </v>
+<v n="5"> Jego jest morze, bo on je uczynil, i jego rece uksztaltowaly suchy lad. </v>
+<v n="6"> Chodzcie, oddajmy poklon i padajmy przed nim; kleknijmy przed PANEM, naszym Stworca. </v>
+<v n="7"> On bowiem jest naszym Bogiem, a my ludem jego pastwiska i owcami jego rak. Dzisiaj, jesli jego glos uslyszycie; </v>
+<v n="8"> Nie zatwardzajcie waszych serc jak w Meriba, jak w czasie kuszenia na pustyni; </v>
+<v n="9"> Kiedy mnie wystawiali na probe wasi ojcowie, doswiadczali mnie i widzieli moje dziela. </v>
+<v n="10"> Przez czterdziesci lat czulem odraze do tego pokolenia i powiedzialem: Ten lud bladzi sercem i nie poznal moich drog; </v>
+<v n="11"> Przysiaglem im w gniewie, ze nie wejda do mego odpoczynku. </v>
+</c>

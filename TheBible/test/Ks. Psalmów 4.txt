@@ -1,0 +1,9 @@
+<v n="1"> Przewodnikowi choru, na Neginot. Psalm Dawida. Wysluchaj mnie, gdy cie wzywam, Boze mojej sprawiedliwosci! Ty wyzwoliles mnie w czasie ucisku. Zmiluj sie nade mna i wysluchaj mojej modlitwy. </v>
+<v n="2"> Synowie ludzcy, jak dlugo bedziecie zniewazac moja chwale? Jak dlugo bedziecie milowac marnosc i szukac klamstwa? Sela. </v>
+<v n="3"> Wiedzcie, ze PAN oddzielil dla siebie poboznego. PAN wyslucha, gdy zawolam do niego. </v>
+<v n="4"> Zadrzyjcie i nie grzeszcie. Rozmyslajcie w swym sercu na lozu i zamilczcie. Sela. </v>
+<v n="5"> Skladajcie ofiary sprawiedliwosci i ufajcie PANU. </v>
+<v n="6"> Wielu mowi: Ktoz pokaze nam dobro? PANIE, wznies nad nami swiatlo twego oblicza. </v>
+<v n="7"> Wlales w moje serce wiecej radosci niz w czasie, gdy obfitowaly ich zboze i wino. </v>
+<v n="8"> W spokoju sie poloze i zasne, bo ty sam, PANIE, sprawiasz, ze mieszkam bezpiecznie. </v>
+</c>

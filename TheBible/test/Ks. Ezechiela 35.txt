@@ -1,0 +1,16 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Synu czlowieczy, zwroc swoja twarz przeciwko gorze Seir i prorokuj przeciwko niej. </v>
+<v n="3"> Mow do niej: Tak mowi Pan BOG: Oto jestem przeciwko tobie, goro Seir, wyciagne moja reke przeciwko tobie i wydam cie na wielkie spustoszenie. </v>
+<v n="4"> Twoje miasta zamienie w ruiny i bedziesz spustoszona. I poznasz, ze ja jestem PANEM. </v>
+<v n="5"> Poniewaz zywilas wieczna nienawisc i wydalas synow Izraela pod ostrze miecza w czasie ich utrapienia, w czasie wykonywania ich kary; </v>
+<v n="6"> Dlatego, jak zyje, mowi Pan BOG, wydam cie na zabicie i krew bedzie cie scigac. Poniewaz nie znienawidzilas krwi, krew bedzie cie scigac. </v>
+<v n="7"> I zamienie gore Seir w wielkie spustoszenie, wygubie z niej kazdego, ktory przechodzi i ktory wraca. </v>
+<v n="8"> Jej gory napelnie jej zabitymi. Na twoich pagorkach, na twoich dolinach i we wszystkich twoich strumieniach padna pobici mieczem. </v>
+<v n="9"> Zamienie cie w wieczne spustoszenie i twoje miasta nie beda zamieszkale. I poznacie, ze ja jestem PANEM. </v>
+<v n="10"> Poniewaz powiedzialas: Te dwa narody i te dwa kraje beda moje, wezmiemy je w posiadanie, chociaz PAN tam przebywal; </v>
+<v n="11"> Jak zyje, mowi Pan BOG, uczynie wedlug twego gniewu i wedlug twojej zawisci, z jaka postapilas w swej nienawisci wzgledem nich, i dam sie poznac wsrod nich, gdy cie osadze. </v>
+<v n="12"> I poznasz, ze ja jestem PANEM i slyszalem wszystkie twoje obelgi, ktore wypowiedzialas przeciw gorom Izraela, mowiac: Sa spustoszone, zostaly nam dane na pozarcie. </v>
+<v n="13"> Tak sie wynosiliscie swoimi ustami przeciwko mnie i mnozyliscie swoje slowa przeciwko mnie. Ja to slyszalem. </v>
+<v n="14"> Tak mowi Pan BOG: Kiedy cala ziemia bedzie sie radowac, wtedy zamienie cie w pustkowie. </v>
+<v n="15"> Jak ty sie radowalas nad dziedzictwem domu Izraela, ze zostalo spustoszone, tak uczynie i tobie: bedziesz spustoszona, goro Seir i caly Edomie. I poznaja, ze ja jestem PANEM. </v>
+</c>

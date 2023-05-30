@@ -1,0 +1,12 @@
+<v n="1"> Wtedy Filistyni zebrali wszystkie swoje wojska w Afek. Izraelici zas rozbili oboz przy zrodle, ktore jest w Jizreel. </v>
+<v n="2"> A ksiazeta filistynscy ciagneli setkami i tysiacami, a Dawid i jego ludzie ciagneli na koncu z Akiszem. </v>
+<v n="3"> Ksiazeta filistynscy zapytali: Po co tutaj ci Hebrajczycy? Akisz odpowiedzial ksiazetom filistynskim: Czyz to nie jest Dawid, sluga Saula, krola Izraela, ktory byl przy mnie przez te dni, nawet przez te lata, a nie znalazlem w nim zadnej winy od tego dnia, kiedy zbiegl do mnie, az po dzis dzien? </v>
+<v n="4"> Lecz ksiazeta filistynscy rozgniewali sie i powiedzieli mu: Odpraw tego czlowieka i niech wroci do swego miejsca, ktore mu wyznaczyles. Niech nie idzie z nami do bitwy, aby w czasie walki nie stal sie naszym przeciwnikiem. Czym bowiem moglby odzyskac laske u swego pana jak nie glowami tych mezczyzn? </v>
+<v n="5"> Czyz to nie jest ten Dawid, o ktorym spiewano wsrod tancow: Pobil Saul swoje tysiace, lecz Dawid swoich dziesiatki tysiecy? </v>
+<v n="6"> Wtedy Akisz wezwal Dawida i powiedzial mu: Jak zyje PAN, jestes prawy, a twoje wychodzenie ze mna z obozu i wchodzenie do niego bylo dobre w moich oczach. Nie znalazlem bowiem w tobie nic zlego od dnia, kiedy przybyles do mnie, az do dzis. Nie podobasz sie jednak ksiazetom. </v>
+<v n="7"> Teraz wiec zawroc i idz w pokoju, bys nie czynil niczego, co byloby zle w oczach ksiazat filistynskich. </v>
+<v n="8"> Dawid powiedzial do Akisza: Coz uczynilem? Co znalazles u swego slugi od dnia, w ktorym bylem przy tobie, az do dzis, ze nie moge wyruszyc do walki z wrogami swego pana, krola? </v>
+<v n="9"> Akisz odpowiedzial Dawidowi: Wiem, ze jestes dobry w moich oczach, jak aniol Boga, ale ksiazeta filistynscy powiedzieli: Niech nie wyrusza z nami do bitwy. </v>
+<v n="10"> Dlatego wstan wczesnie rano wraz ze slugami swego pana, ktorzy przyszli z toba. Wstancie skoro swit i odejdzcie. </v>
+<v n="11"> Dawid wraz ze swoimi ludzmi wstal wiec wczesnie rano, aby odejsc i powrocic do ziemi Filistynow. Filistyni zas nadciagneli do Jizreel. </v>
+</c>

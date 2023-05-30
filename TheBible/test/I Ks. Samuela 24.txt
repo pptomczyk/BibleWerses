@@ -1,0 +1,23 @@
+<v n="1"> A gdy Saul wrocil z poscigu za Filistynami, doniesiono mu: Oto Dawid przebywa na pustyni En-Gedi. </v>
+<v n="2"> Saul wzial wiec trzy tysiace doborowych mezczyzn sposrod calego Izraela i wyruszyl na poszukiwanie Dawida i jego ludzi po skalach dzikich koz. </v>
+<v n="3"> I przybyl do owczych zagrod przy drodze, gdzie byla jaskinia. Wszedl do niej Saul, by zakryc sobie nogi. Dawid zas i jego ludzie siedzieli w glebi jaskini. </v>
+<v n="4"> Ludzie Dawida powiedzieli do niego: Oto dzien, o ktorym PAN ci powiedzial: Oto wydam twego wroga w twoje rece, abys z nim uczynil to, co wyda ci sie sluszne. Dawid wstal wiec i po cichu odcial skraj plaszcza Saula. </v>
+<v n="5"> Potem jednak serce Dawida zadrzalo z tego powodu, ze odcial skraj plaszcza Saula. </v>
+<v n="6"> I zwrocil sie do swoich ludzi: Nie daj Boze, zebym mial to uczynic memu panu, pomazancowi PANA, bym mial wyciagnac swoja reke na niego, poniewaz jest pomazancem PANA. </v>
+<v n="7"> Tymi slowami Dawid powstrzymal swych ludzi i nie pozwolil im powstac przeciw Saulowi. Saul zas wyszedl z jaskini i poszedl swoja droga. </v>
+<v n="8"> Potem Dawid rowniez wstal, wyszedl z jaskini i zawolal za Saulem: Moj panie, krolu! Kiedy Saul obejrzal sie za siebie, Dawid schylil sie twarza ku ziemi i poklonil sie. </v>
+<v n="9"> Nastepnie Dawid powiedzial do Saula: Dlaczego sluchasz opowiesci ludzi, ktorzy mowia: Oto Dawid pragnie twojej zguby? </v>
+<v n="10"> Oto dzis twoje oczy widza, ze PAN wydal cie w jaskini w moje rece. I namawiano mnie, bym cie zabil, lecz oszczedzilem cie i powiedzialem: Nie wyciagne swojej reki na mego pana, bo jest pomazancem PANA. </v>
+<v n="11"> Zobacz, moj ojcze, zobacz skraj swego plaszcza w mojej rece. Odcinajac ci bowiem skraj twego plaszcza, nie zabilem cie. Wiedz i zobacz, ze nie ma w mojej rece zlosci ani nieprawosci, ani tez nie zgrzeszylem przeciwko tobie. A ty czyhasz na moje zycie, by mi je odebrac. </v>
+<v n="12"> Niech PAN rozsadzi miedzy mna a toba i niech PAN za mnie zemsci sie na tobie. Lecz nie podniose swojej reki na ciebie. </v>
+<v n="13"> Jak mowi starodawne przyslowie: Od niegodziwych pochodzi niegodziwosc, ale nie podniose swojej reki na ciebie. </v>
+<v n="14"> Za kim wyruszyl krol Izraela? Kogo gonisz? Zdechlego psa? Jedna pchle? </v>
+<v n="15"> Niech PAN bedzie sedzia i niech rozsadzi miedzy mna a toba, niech zobaczy i ujmie sie w mojej sprawie, i niech mnie wyzwoli z twojej reki. </v>
+<v n="16"> I kiedy Dawid przestal mowic te slowa do Saula, Saul zawolal: Czy to jest twoj glos, synu moj, Dawidzie? I Saul podniosl swoj glos, i zaplakal. </v>
+<v n="17"> Potem powiedzial do Dawida: Jestes sprawiedliwszy ode mnie, bo oddales mi dobrem, a ja tobie oddalem zlem. </v>
+<v n="18"> Dzis pokazales, ze swiadczysz mi dobro. Choc bowiem PAN wydal mnie w twoje rece, nie zabiles mnie. </v>
+<v n="19"> Gdy ktos spotka swego wroga, to czy wypusci go na dobra droge? Niech PAN odplaci ci dobrem za to, co mi dzis uczyniles. </v>
+<v n="20"> A teraz oto wiem, ze z pewnoscia bedziesz krolem i ze krolestwo Izraela ostoi sie w twojej rece. </v>
+<v n="21"> Przysiegnij mi wiec na PANA, ze nie wytepisz mojego potomstwa po mnie i nie wytracisz mojego imienia z domu mego ojca. </v>
+<v n="22"> I Dawid przysiagl Saulowi. Potem Saul wrocil do swego domu, a Dawid i jego ludzie udali sie do miejsca obronnego. </v>
+</c>

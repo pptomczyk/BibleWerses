@@ -1,0 +1,21 @@
+<v n="1"> Psalm dla Salomona. Boze, daj krolowi swoje sady i swoja sprawiedliwosc synowi krola; </v>
+<v n="2"> Bedzie sadzil twoj lud w sprawiedliwosci, a twoich ubogich w prawosci. </v>
+<v n="3"> Gory przyniosa ludowi pokoj, a pagorki sprawiedliwosc. </v>
+<v n="4"> Bedzie sadzil ubogich z ludu, wybawi synow potrzebujacego, a zgniecie ciemiezyciela. </v>
+<v n="5"> Beda sie bac ciebie, poki trwac bedzie slonce i ksiezyc, z pokolenia na pokolenie. </v>
+<v n="6"> Zstapi jak deszcz na skoszona trawe, jak krople deszczu nawadniajace ziemie. </v>
+<v n="7"> Za jego dni zakwitnie sprawiedliwy i bedzie obfitosc pokoju, dopoki ksiezyc trwa. </v>
+<v n="8"> Bedzie panowal od morza do morza, od rzeki az po krance ziemi. </v>
+<v n="9"> Przed nim upadna mieszkancy pustyni, a jego wrogowie beda proch lizac. </v>
+<v n="10"> Krolowie Tarszisz i wysp przyniosa dary, krolowie Szeby i Saby zloza danine. </v>
+<v n="11"> I oddadza mu poklon wszyscy krolowie; wszystkie narody beda mu sluzyc. </v>
+<v n="12"> Ocali bowiem ubogiego, gdy zawola, i nedznego, ktory nie ma pomocnika. </v>
+<v n="13"> Zmiluje sie nad ubogim i potrzebujacym i wybawi dusze nedzarzy. </v>
+<v n="14"> Wybawi ich dusze od podstepu i przemocy, bo ich krew jest cenna w jego oczach. </v>
+<v n="15"> I bedzie zyl, i dadza mu zloto z Szeby; nieustannie beda sie za niego modlic i codziennie mu blogoslawic. </v>
+<v n="16"> Gdy sie zasieje garsc zboza w ziemi na szczytach gor, jego plon zaszumi jak Liban, a mieszkancy miast zakwitna jak polna trawa. </v>
+<v n="17"> Jego imie trwac bedzie na wieki; poki slonce trwa, trwac bedzie jego imie; ludzie beda blogoslawieni w nim, a wszystkie narody nazwa go blogoslawionym. </v>
+<v n="18"> Blogoslawiony niech bedzie PAN Bog, Bog Izraela, ktory sam jeden czyni cuda. </v>
+<v n="19"> I blogoslawione na wieki jego chwalebne imie; niech cala ziemia bedzie napelniona jego chwala. Amen, amen. </v>
+<v n="20"> I tu sie koncza modlitwy Dawida, syna Jessego. </v>
+</c>

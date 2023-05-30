@@ -1,0 +1,23 @@
+<v n="1"> Bóg pamiêta³ jednak o Noem i wszystkich zwierzêtach, i wszelkim bydle, które by³o z nim w arce, i sprowadzi³ Bóg wiatr na ziemiê, a wody zaczê³y opadaæ. </v>
+<v n="2"> I Ÿród³a g³êbi i okna nieba zamknê³y siê, i deszcz z nieba zosta³ zatrzymany. </v>
+<v n="3"> Wody stopniowo ustêpowa³y z powierzchni ziemi, a po up³ywie stu piêædziesiêciu dni wody opad³y. </v>
+<v n="4"> I arka osiad³a na górach Ararat w siódmym miesi¹cu, siedemnastego dnia tego miesi¹ca. </v>
+<v n="5"> A wody opada³y nadal a¿ do dziesi¹tego miesi¹ca. I w dziesi¹tym miesi¹cu, pierwszego dnia, ukaza³y siê szczyty gór. </v>
+<v n="6"> Po up³ywie czterdziestu dni Noe otworzy³ okno arki, które zrobi³. </v>
+<v n="7"> I wypuœci³ kruka, który wylatywa³ i wraca³, a¿ wysch³y wody na ziemi. </v>
+<v n="8"> Potem wypuœci³ go³êbicê, aby zobaczyæ, czy wody opad³y z powierzchni ziemi. </v>
+<v n="9"> A gdy go³êbica nie znalaz³a dla siebie miejsca spoczynku, wróci³a do niego do arki, bo wody by³y jeszcze na ca³ej powierzchni ziemi. Wyci¹gn¹³ wiêc swoj¹ rêkê, pochwyci³ j¹ i wzi¹³ do siebie do arki. </v>
+<v n="10"> A gdy odczeka³ jeszcze drugie siedem dni, ponownie wypuœci³ go³êbicê z arki. </v>
+<v n="11"> I go³êbica wróci³a do niego pod wieczór, a oto w dziobie zerwany liœæ oliwny. Tak Noe pozna³, ¿e wody opad³y z powierzchni ziemi. </v>
+<v n="12"> Odczeka³ jeszcze drugie siedem dni i wypuœci³ go³êbicê, ale ju¿ do niego nie wróci³a. </v>
+<v n="13"> W szeœæset pierwszym roku, w pierwszym miesi¹cu, pierwszego dnia, wysch³y wody na ziemi. Wtedy Noe zdj¹³ przykrycie arki i zobaczy³, ¿e powierzchnia ziemi by³a sucha. </v>
+<v n="14"> A w drugim miesi¹cu, dwudziestego siódmego dnia tego miesi¹ca, wysch³a ziemia. </v>
+<v n="15"> I Bóg powiedzia³ do Noego: </v>
+<v n="16"> WyjdŸ z arki, ty i z tob¹ twoja ¿ona, twoi synowie i ¿ony twoich synów. </v>
+<v n="17"> WyprowadŸ ze sob¹ wszystkie zwierzêta, które s¹ z tob¹, z wszelkiego cia³a, ptactwa, byd³a i wszelkich zwierz¹t pe³zaj¹cych, które pe³zaj¹ po ziemi, i niech siê rozrodz¹ na ziemi, niech bêd¹ p³odne i niech siê rozmna¿aj¹ na ziemi. </v>
+<v n="18"> Wyszed³ wiêc Noe i z nim jego synowie, jego ¿ona i ¿ony jego synów. </v>
+<v n="19"> Wysz³y tak¿e z arki wszelkie bydlêta, wszelkie zwierzêta pe³zaj¹ce, wszelkie ptactwo oraz wszystko, co pe³za po ziemi, wed³ug swoich rodzajów. </v>
+<v n="20"> Potem Noe zbudowa³ o³tarz dla PANA i wzi¹³ z ka¿dego czystego zwierzêcia i z ka¿dego czystego ptactwa, i z³o¿y³ ca³opalenia na tym o³tarzu. </v>
+<v n="21"> I PAN poczu³ mi³¹ woñ, i PAN powiedzia³ w swoim sercu: Nie bêdê wiêcej przeklina³ ziemi z powodu cz³owieka, bo myœl serca cz³owieka jest z³a od jego m³odoœci. Nie wytracê wiêcej wszystkiego, co ¿yje, jak teraz uczyni³em. </v>
+<v n="22"> Póki ziemia bêdzie trwaæ, nie ustan¹ siew i ¿niwo, zimno i gor¹co, lato i zima, dzieñ i noc. </v>
+</c>

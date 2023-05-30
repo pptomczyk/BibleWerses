@@ -1,0 +1,26 @@
+<v n="1"> W tym czasie Filistyni zgromadzili swe wojska na wojne, aby walczyc z Izraelem. Wtedy Akisz powiedzial do Dawida: Na pewno wiesz, ze razem ze mna wyruszysz na wojne, ty i twoi ludzie. </v>
+<v n="2"> Dawid odpowiedzial Akiszowi: Sam sie przekonasz, co uczyni twoj sluga. Akisz powiedzial do Dawida: Ustanowie wiec ciebie strozem swojej glowy na zawsze. </v>
+<v n="3"> A Samuel juz umarl i oplakiwal go caly Izrael, i pogrzebali go w jego miescie, Rama. Saul zas usunal czarownikow i wrozbitow z ziemi. </v>
+<v n="4"> Wtedy Filistyni zebrali sie, nadciagneli i rozbili oboz w Szunem. Saul rowniez zgromadzil caly Izrael i rozbil oboz w Gilboa. </v>
+<v n="5"> A gdy Saul zobaczyl oboz Filistynow, zlakl sie i jego serce mocno zadrzalo. </v>
+<v n="6"> I Saul radzil sie PANA, lecz PAN mu nie odpowiedzial ani przez sny, ani przez Urim, ani przez prorokow. </v>
+<v n="7"> Saul zwrocil sie wiec do swoich slug: Poszukajcie mi kobiety czarownicy, a pojde do niej i poradze sie jej. Jego sludzy odpowiedzieli mu: Oto jest w Endor kobieta czarownica. </v>
+<v n="8"> Wtedy Saul przebral sie, wkladajac inne szaty, poszedl wraz z dwoma mezczyznami i przyszli do tej kobiety w nocy. I powiedzial: Prosze cie, powroz mi przez ducha wieszczego, a wywolaj mi tego, kogo ci wymienie. </v>
+<v n="9"> Lecz kobieta odpowiedziala mu: Ty wiesz, co uczynil Saul – ze zgladzil czarownikow i wrozbitow z ziemi. Czemu zastawiasz sidla na moje zycie, by wydac mnie na smierc? </v>
+<v n="10"> Saul przysiagl jej na PANA: Jak zyje PAN, nie spadnie na ciebie zadna kara z tego powodu. </v>
+<v n="11"> Wtedy kobieta zapytala: Kogo mam ci wywolac? A on odpowiedzial: Wywolaj mi Samuela. </v>
+<v n="12"> A gdy kobieta zobaczyla Samuela, krzyknela glosno i powiedziala do Saula: Czemu mnie oszukales? Przeciez ty jestes Saul! </v>
+<v n="13"> Krol powiedzial do niej: Nie boj sie. Coz widzialas? Kobieta odpowiedziala Saulowi: Widzialam bogow wstepujacych z ziemi. </v>
+<v n="14"> Pytal dalej: Jak wygladal? Odpowiedziala: Wstepuje stary mezczyzna, a jest on ubrany w plaszcz. I Saul poznal, ze to Samuel, schylil sie twarza do ziemi i poklonil. </v>
+<v n="15"> Samuel zas powiedzial do Saula: Dlaczego nie dajesz mi spokoju i wywolujesz mnie? Saul odpowiedzial: Jestem w wielkim ucisku, gdyz Filistyni walcza ze mna, a Bog odstapil ode mnie i juz nie odpowiada mi ani przez prorokow, ani przez sny. Dlatego cie przyzwalem, abys mi oznajmil, co mam czynic. </v>
+<v n="16"> Samuel powiedzial: Czemu wiec mnie pytasz, skoro PAN odstapil od ciebie i stal sie twoim wrogiem? </v>
+<v n="17"> I PAN uczynil mu, jak zapowiedzial przeze mnie: PAN wyrwal krolestwo z twoich rak i dal je twemu blizniemu – Dawidowi. </v>
+<v n="18"> Poniewaz nie byles posluszny glosowi PANA ani nie wykonales jego srogiego gniewu nad Amalekiem, PAN tak ci dzisiaj uczynil. </v>
+<v n="19"> Ponadto PAN wyda Izraela wraz z toba w rece Filistynow, a jutro ty i twoi synowie bedziecie ze mna. PAN wyda rowniez wojsko Izraela w rece Filistynow. </v>
+<v n="20"> Saul natychmiast upadl jak dlugi na ziemie, bo bardzo sie zlakl slow Samuela. Nie bylo w nim tez sily, gdyz nic nie jadl przez caly dzien i cala noc. </v>
+<v n="21"> Potem kobieta podeszla do Saula, a widzac, ze bardzo sie zlakl, powiedziala mu: Oto twoja sluzaca posluchala twego glosu, narazilam swoje zycie i posluchalam twoich slow, ktore mowiles do mnie. </v>
+<v n="22"> Teraz wiec posluchaj i ty, prosze, glosu swojej sluzacej. Poloze przed toba kawalek chleba, abys zjadl i posilil sie, zanim wyruszysz w droge. </v>
+<v n="23"> Lecz on wzbranial sie i mowil: Nie bede jadl. Jego sludzy zas wraz z kobieta przymusili go. I posluchal ich glosu, wstal z ziemi i usiadl na lozku. </v>
+<v n="24"> A ta kobieta miala w domu tuczne ciele. Pospieszyla wiec i zabila je, potem wziela make, rozczynila ja i upiekla z niej przasniki. </v>
+<v n="25"> Nastepnie przyniosla to przed Saula i przed jego slugi, a gdy zjedli, powstali i poszli tej samej nocy. </v>
+</c>

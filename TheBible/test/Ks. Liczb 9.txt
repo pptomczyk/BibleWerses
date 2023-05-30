@@ -1,0 +1,24 @@
+<v n="1"> I przemowil PAN do Mojzesza na pustyni Synaj, w pierwszym miesiacu drugiego roku po ich wyjsciu z ziemi Egiptu, tymi slowy: </v>
+<v n="2"> Niech synowie Izraela obchodza Pasche w wyznaczonym czasie. </v>
+<v n="3"> Bedziecie ja obchodzic w wyznaczonym czasie, czternastego dnia tego miesiaca pod wieczor; macie ja obchodzic wedlug wszystkich jej obrzedow i wszystkich jej ceremonii. </v>
+<v n="4"> Mojzesz nakazal wiec synom Izraela, aby obchodzili Pasche. </v>
+<v n="5"> I obchodzili Pasche w pierwszym miesiacu, czternastego dnia, pod wieczor, na pustyni Synaj. Zgodnie ze wszystkim, co PAN nakazal Mojzeszowi, tak synowie Izraela uczynili. </v>
+<v n="6"> Byli jednak pewni ludzie, ktorzy zanieczyscili sie przy zwlokach ludzkich, i nie mogli obchodzic Paschy tego dnia. Przyszli wiec w tym dniu do Mojzesza i Aarona; </v>
+<v n="7"> I powiedzieli do niego: Zanieczyscilismy sie przy zwlokach ludzkich. Czemu nie bedzie nam wolno zlozyc PANU ofiar w wyznaczonym czasie wspolnie z synami Izraela? </v>
+<v n="8"> Mojzesz odpowiedzial im: Stojcie, a ja poslucham, co PAN rozkaze o was. </v>
+<v n="9"> Wtedy PAN powiedzial do Mojzesza: </v>
+<v n="10"> Powiedz synom Izraela tak: Jesli kto z was lub z waszych potomkow zanieczysci sie przy zmarlym albo tez bedzie w dalekiej podrozy, mimo to bedzie obchodzil Pasche dla PANA. </v>
+<v n="11"> Beda ja obchodzic w drugim miesiacu, czternastego dnia, pod wieczor, i beda ja jesc z przasnymi chlebami i z gorzkimi ziolami. </v>
+<v n="12"> Nie pozostawia z niej nic do rana ani nie polamia jej kosci. Zgodnie ze wszystkimi przepisami Paschy beda ja obchodzic. </v>
+<v n="13"> Lecz czlowiek, ktory jest czysty, a nie znajduje sie w drodze, i nie bedzie obchodzil Paschy, to ta dusza bedzie wykluczona ze swego ludu, bo ofiary PANA nie zlozyla w wyznaczonym czasie. Ten czlowiek obciaza sie grzechem. </v>
+<v n="14"> A jesli przybysz, ktory mieszka posrod was, bedzie obchodzil Pasche dla PANA, to ma ja obchodzic wedlug ustawy i zwyczajow Paschy. Bedzie jedna ustawa dla was, zarowno dla przybysza, jak i dla rodowitego mieszkanca ziemi. </v>
+<v n="15"> W dniu, w ktorym wystawiono przybytek, oblok okryl przybytek, czyli Namiot Swiadectwa, a wieczorem byl nad przybytkiem i przypominal z wygladu ogien, az do rana. </v>
+<v n="16"> Tak bylo stale: oblok okrywal go w dzien, a w nocy jakby ogien. </v>
+<v n="17"> A gdy oblok unosil sie znad namiotu, wtedy synowie Izraela wyruszali, a gdziekolwiek oblok zatrzymal sie, tam synowie Izraela rozbijali oboz. </v>
+<v n="18"> Na rozkaz PANA synowie Izraela wyruszali i na rozkaz PANA rozbijali oboz. Przez wszystkie dni, w ktorych oblok pozostawal nad przybytkiem, stali obozem. </v>
+<v n="19"> A kiedy oblok pozostawal nad przybytkiem przez wiele dni, wtedy synowie Izraela przestrzegali rozkazu PANA i nie wyruszali. </v>
+<v n="20"> Lecz gdy oblok pozostawal nad przybytkiem przez kilka dni, na rozkaz PANA stawali obozem i na rozkaz PANA wyruszali. </v>
+<v n="21"> A gdy oblok pozostawal od wieczora do rana i unosil sie rano, wowczas wyruszali. Czy oblok unosil sie za dnia, czy w nocy, oni wyruszali. </v>
+<v n="22"> A jesli oblok trwal i pozostawal nad przybytkiem przez dwa dni albo przez miesiac badz tez przez rok, synowie Izraela stali obozem i nie wyruszali, lecz gdy sie unosil, wyruszali. </v>
+<v n="23"> Na rozkaz PANA stawali obozem i na rozkaz PANA wyruszali. Przestrzegali nakazu PANA, tak jak PAN rozkazal przez Mojzesza. </v>
+</c>

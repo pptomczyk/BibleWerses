@@ -1,0 +1,23 @@
+<v n="1"> Weselcie sie w PANU, sprawiedliwi, bo prawym przystoi chwala. </v>
+<v n="2"> Wyslawiajcie PANA na harfie, spiewajcie mu przy cytrze i z instrumentem o dziesieciu strunach. </v>
+<v n="3"> Spiewajcie mu nowa piesn, pieknie i glosno mu grajcie. </v>
+<v n="4"> Slowo PANA bowiem jest prawe i wszystkie jego dziela sa dokonane w wiernosci. </v>
+<v n="5"> On miluje sprawiedliwosc i sad, pelna jest ziemia milosierdzia PANA. </v>
+<v n="6"> Slowem PANA zostaly uczynione niebiosa i tchnieniem jego ust wszystkie ich zastepy. </v>
+<v n="7"> On gromadzi wody morskie jak na stos i w skarbcach zbiera glebiny. </v>
+<v n="8"> Niech cala ziemia boi sie PANA, niech sie go lekaja wszyscy mieszkancy swiata. </v>
+<v n="9"> On bowiem przemowil i stalo sie; on rozkazal i powstalo. </v>
+<v n="10"> PAN udaremnia zamiary narodow, niweczy zamysly ludow. </v>
+<v n="11"> Zamiar PANA trwa na wieki, mysli jego serca z pokolenia na pokolenie. </v>
+<v n="12"> Blogoslawiony narod, ktorego Bogiem jest PAN; lud, ktory on wybral sobie na dziedzictwo. </v>
+<v n="13"> PAN patrzy z nieba, widzi wszystkich synow ludzkich. </v>
+<v n="14"> Z miejsca, w ktorym przebywa, spoglada na wszystkich mieszkancow ziemi. </v>
+<v n="15"> Uksztaltowal serce kazdego z nich, przyglada sie wszystkim ich czynom. </v>
+<v n="16"> Nie wybawi krola liczne wojsko ani nie ocali wojownika wielka sila. </v>
+<v n="17"> Kon jest zwodniczy w wybawieniu, nie ocali swa wielka sila. </v>
+<v n="18"> Oto oko PANA nad tymi, ktorzy sie go boja, nad tymi, ktorzy ufaja jego milosierdziu; </v>
+<v n="19"> Aby ocalic od smierci ich dusze i zywic ich w czasie glodu. </v>
+<v n="20"> Nasza dusza oczekuje PANA, on jest nasza pomoca i tarcza. </v>
+<v n="21"> W nim bowiem rozraduje sie nasze serce, bo ufamy jego swietemu imieniu. </v>
+<v n="22"> Niech bedzie nad nami twoje milosierdzie, PANIE, wedlug pokladanej w tobie nadziei. </v>
+</c>

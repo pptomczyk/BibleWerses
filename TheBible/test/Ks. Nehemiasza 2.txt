@@ -1,0 +1,21 @@
+<v n="1"> I oto zdarzylo sie w miesiacu Nisan, w dwudziestym roku krola Artakserksesa, gdy stalo przed nim wino, ze wzialem je i podalem krolowi, a nigdy przedtem nie bylem taki smutny w jego obecnosci. </v>
+<v n="2"> Krol wiec zapytal mnie: Czemu tak smutno wygladasz, skoro nie jestes chory? Nic innego to jak smutek serca. I bardzo sie przerazilem. </v>
+<v n="3"> I powiedzialem do krola: Niech krol zyje na wieki. Jakze nie mam wygladac smutno, gdy miasto, dom grobow moich ojcow, jest zburzone, a jego bramy pochlonal ogien? </v>
+<v n="4"> Krol ponownie zapytal mnie: O co chcialbys prosic? Modlilem sie wiec do Boga niebios. </v>
+<v n="5"> Potem powiedzialem do krola: Jesli krol uwaza to za dobre i jesli twoj sluga znalazl laske w twoich oczach, prosze, abys mnie poslal do Judy, do miasta grobow moich ojcow, abym je odbudowal. </v>
+<v n="6"> Krol – obok ktorego siedziala krolowa – zapytal mnie: Jak dlugo potrwa twoja podroz i kiedy powrocisz? Gdy podalem mu termin, spodobalo sie to krolowi i poslal mnie. </v>
+<v n="7"> Potem powiedzialem krolowi: Jesli krol uwaza to za dobre, niech mi dadza listy do namiestnikow zarzecza, aby mnie przeprowadzili, az przyjde do Judy; </v>
+<v n="8"> Takze list do Asafa, dozorcy lasu krolewskiego, aby mi dal drewno na belki do bram palacu przy domu, na mur miejski i na dom, do ktorego sie wprowadze. Krol wiec dal mi listy, gdyz byla nade mna laskawa reka mego Boga. </v>
+<v n="9"> A gdy przyszedlem do namiestnikow zarzecza, oddalem im listy krola. A krol wyprawil ze mna dowodcow wojskowych i jezdzcow. </v>
+<v n="10"> Kiedy Sanballat Choronita i Tobiasz, sluga ammonicki, uslyszeli o tym, bardzo im sie nie spodobalo to, ze przyszedl czlowiek, ktory bedzie zabiegal o dobro synow Izraela. </v>
+<v n="11"> Gdy wiec przyszedlem do Jerozolimy, spedzilem tam trzy dni. </v>
+<v n="12"> Potem wstalem w nocy, ja i kilku mezczyzn ze mna – a nikomu nie wyjawilem, co moj Bog polozyl mi na sercu, abym uczynil w Jerozolimie, nie mialem tez ze soba zadnego zwierzecia oprocz tego, na ktorym jechalem; </v>
+<v n="13"> I wyjechalem noca przez Brame nad Dolina w kierunku Zrodla Smoczego do Bramy Gnojnej, i ogladalem mury jerozolimskie, ktore byly zburzone, a ktorych bramy byly strawione ogniem. </v>
+<v n="14"> Potem dotarlem do Bramy Zrodlanej i do Stawu Krolewskiego, gdzie dla zwierzecia, na ktorym jechalem, nie bylo juz przejscia. </v>
+<v n="15"> Jechalem wiec noca przez potok i ogladalem mur, po czym zawrocilem i przejechalem przez Brame nad Dolina, i tak powrocilem. </v>
+<v n="16"> Ale przelozeni nie wiedzieli, dokad sie udalem ani co uczynilem. Dotychczas bowiem nie oznajmilem tego ani Zydom, ani kaplanom, ani dostojnikom, ani przelozonym, ani zadnemu z budowniczych. </v>
+<v n="17"> Wtedy powiedzialem do nich: Widzicie, w jakiej niedoli sie znajdujemy, Jerozolima jest spustoszona i jej bramy spalone sa ogniem. Chodzcie i odbudujmy mur Jerozolimy, abysmy juz nie byli zhanbieni. </v>
+<v n="18"> A gdy opowiedzialem im o tym, jak laskawa reka mego Boga byla nade mna, takze o slowach, ktore wypowiedzial do mnie krol, powiedzieli: Wstanmy i budujmy. I zachecali sie do tego dobrego dziela. </v>
+<v n="19"> Kiedy uslyszeli o tym Sanballat Choronita i Tobiasz, sluga ammonicki, oraz Geszem Arab, szydzili z nas i wzgardzili nami, mowiac: Co to za rzecz, ktora robicie? Czy buntujecie sie przeciw krolowi? </v>
+<v n="20"> Odpowiedzialem im: Bog niebios poszczesci nam; my wiec, jego sludzy, powstaniemy i odbudujemy. Wy zas nie macie ani dzialu, ani prawa, ani pamiatki w Jerozolimie. </v>
+</c>

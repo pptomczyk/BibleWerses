@@ -1,0 +1,18 @@
+<v n="1"> I zobaczylem, gdy Baranek otworzyl pierwsza z pieczeci, i uslyszalem pierwsze z czterech stworzen mowiace jakby glosem gromu: Chodz i zobacz. </v>
+<v n="2"> I zobaczylem, a oto bialy kon, ten zas, ktory na nim siedzial, mial luk. I dano mu korone, i wyruszyl jako zwyciezca, zeby zwyciezac. </v>
+<v n="3"> A gdy otworzyl druga pieczec, uslyszalem drugie stworzenie mowiace: Chodz i zobacz. </v>
+<v n="4"> I wyszedl inny kon, rudy, a temu, ktory na nim siedzial, pozwolono odebrac ziemi pokoj, aby ludzie zabijali sie nawzajem. I dano mu wielki miecz. </v>
+<v n="5"> A gdy otworzyl trzecia pieczec, uslyszalem trzecie stworzenie mowiace: Chodz i zobacz. I zobaczylem, a oto kon czarny, ten zas, ktory na nim siedzial, mial w swojej rece wage. </v>
+<v n="6"> I uslyszalem glos posrod czterech stworzen mowiacy: Miara pszenicy za grosz i trzy miary jeczmienia za grosz. A nie krzywdz oliwy i wina. </v>
+<v n="7"> A gdy otworzyl czwarta pieczec, uslyszalem glos czwartego stworzenia mowiacy: Chodz i zobacz. </v>
+<v n="8"> I zobaczylem, oto kon plowy, a temu, ktory na nim siedzial, bylo na imie Smierc, a Pieklo szlo za nim. I dano im wladze nad czwarta czescia ziemi, aby zabijali mieczem i glodem, i zaraza, i przez zwierzeta ziemi. </v>
+<v n="9"> A gdy otworzyl piata pieczec, widzialem pod oltarzem dusze zabitych z powodu slowa Bozego i swiadectwa, ktore zlozyli. </v>
+<v n="10"> I wolaly donosnym glosem: Jak dlugo jeszcze, Panie swiety i prawdziwy, nie bedziesz sadzil i nie pomscisz naszej krwi na mieszkancach ziemi? </v>
+<v n="11"> I dano kazdemu z nich biala szate, i powiedziano im, aby odpoczywali jeszcze przez krotki czas, az dopelni sie liczba ich wspolslug i braci, ktorzy maja zostac zabici jak i oni. </v>
+<v n="12"> I zobaczylem, gdy otworzyl szosta pieczec, a oto nastapilo wielkie trzesienie ziemi i slonce stalo sie czarne jak wlosiany wor, a ksiezyc stal sie jak krew. </v>
+<v n="13"> Gwiazdy niebieskie spadly na ziemie, podobnie jak drzewo figowe zrzuca niedojrzale figi, gdy potrzasnie nim gwaltowny wiatr. </v>
+<v n="14"> I niebo ustapilo jak zwoj zrolowany, a kazda gora i wyspa ruszyly sie ze swoich miejsc. </v>
+<v n="15"> A krolowie ziemscy i moznowladcy, i bogacze, i wodzowie, i mocarze, i kazdy niewolnik, i kazdy wolny ukryli sie w jaskiniach i skalach gorskich. </v>
+<v n="16"> I mowili do gor i skal: Padnijcie na nas i zakryjcie nas przed obliczem zasiadajacego na tronie i przed gniewem Baranka; </v>
+<v n="17"> Bo nadszedl wielki dzien jego gniewu. I ktoz moze sie ostac? </v>
+</c>

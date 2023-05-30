@@ -1,0 +1,24 @@
+<v n="1"> Saul krolowal juz rok, a gdy krolowal dwa lata nad Izraelem; </v>
+<v n="2"> Wybral sobie trzy tysiace ludzi z Izraela. Dwa tysiace bylo przy Saulu w Mikmas i na gorze Betel, a tysiac byl z Jonatanem w Gibea Beniamina. Reszte ludu rozeslal, kazdego do swego namiotu. </v>
+<v n="3"> Wtedy Jonatan pobil zaloge Filistynow, ktora byla w Geba, o czym uslyszeli Filistyni. Saul zadal wiec w trabe po calej ziemi i powiedzial: Niech uslysza o tym Hebrajczycy. </v>
+<v n="4"> I caly Izrael uslyszal, ze mowiono: Saul pobil zaloge Filistynow i z tego powodu Izrael stal sie obmierzly dla Filistynow. I zwolano lud, by wyruszyl za Saulem do Gilgal. </v>
+<v n="5"> Filistyni tez zgromadzili sie do walki z Izraelem: trzydziesci tysiecy rydwanow i szesc tysiecy jezdzcow, a ludu tak duzo jak piasku nad brzegiem morza. I nadciagneli, i rozbili oboz w Mikmas, na wschod od Bet-Awen. </v>
+<v n="6"> A gdy Izraelici widzieli, ze sa w niebezpieczenstwie – gdyz lud byl strapiony – ukryli sie w jaskiniach, zaroslach, skalach, twierdzach i jamach. </v>
+<v n="7"> Niektorzy Hebrajczycy przeprawili sie za Jordan, do ziemi Gad i Gilead. Lecz Saul jeszcze zostal w Gilgal, a caly lud szedl za nim strwozony. </v>
+<v n="8"> I czekal przez siedem dni zgodnie z czasem wyznaczonym przez Samuela. Kiedy jednak Samuel nie przyszedl do Gilgal, caly lud odszedl od niego. </v>
+<v n="9"> Wtedy Saul powiedzial: Przyniescie mi calopalenie i ofiary pojednawcze. I zlozyl calopalenie. </v>
+<v n="10"> Gdy skonczyl skladac calopalenie, oto przyszedl Samuel, a Saul wyszedl mu naprzeciw, aby go przywitac. </v>
+<v n="11"> I Samuel zapytal: Co uczyniles? Saul odpowiedzial: Poniewaz widzialem, ze lud rozchodzi sie ode mnie, ze ty nie przyszedles w oznaczonym czasie, a Filistyni zgromadzili sie w Mikmas; </v>
+<v n="12"> Wtedy powiedzialem: Oto Filistyni zstapia na mnie do Gilgal, a ja jeszcze nie zjednalem sobie PANA. Przezwyciezylem sie wiec i zlozylem calopalenie. </v>
+<v n="13"> Samuel powiedzial do Saula: Glupio postapiles. Nie zachowales przykazania PANA, swego Boga, ktore ci nadal. PAN bowiem teraz utwierdzilby twoje krolestwo nad Izraelem az na wieki. </v>
+<v n="14"> Lecz teraz twoje krolestwo sie nie ostoi. PAN wyszukal sobie czlowieka wedlug swego serca i PAN ustanowil go wodzem nad swoim ludem, gdyz nie zachowales tego, co ci PAN rozkazal. </v>
+<v n="15"> Wtedy Samuel wstal i wyruszyl z Gilgal do Gibea Beniamina. I Saul policzyl lud, ktory znajdowal sie przy nim: bylo ich wszystkich okolo szesciuset mezczyzn. </v>
+<v n="16"> Saul wiec i jego syn Jonatan oraz lud, ktory znajdowal sie przy nich, zostali w Gibea Beniamina. Filistyni zas rozbili oboz w Mikmas. </v>
+<v n="17"> I lupiezcy wyszli z obozu Filistynow w trzech oddzialach: jeden oddzial skierowal sie w strone Ofry, do ziemi Szaul. </v>
+<v n="18"> Drugi oddzial skierowal sie w strone Bet-Choron. Trzeci zas oddzial udal sie w strone granicy przylegajacej do doliny Seboim – ku pustyni. </v>
+<v n="19"> Lecz w calej ziemi Izraela nie bylo zadnego kowala, bo Filistyni mowili: Niech Hebrajczycy nie robia mieczow ani wloczni. </v>
+<v n="20"> Caly Izrael schodzil wiec do Filistynow, by kazdy naostrzyl sobie swoj lemiesz, redlice, siekiere i motyke. </v>
+<v n="21"> Mieli bowiem tylko pilnik do scierania lemieszy, motyk, widel, siekier i oscieni. </v>
+<v n="22"> Tak wiec sie stalo, ze w dniu bitwy nie mozna bylo znalezc miecza ani wloczni w reku calego ludu, ktory byl z Saulem i Jonatanem. Znajdowaly sie tylko u Saula i jego syna Jonatana. </v>
+<v n="23"> A zaloga Filistynow wyruszyla na przelecz Mikmas. </v>
+</c>

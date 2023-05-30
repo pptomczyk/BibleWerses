@@ -1,0 +1,23 @@
+<v n="1"> Gdy to siê sta³o, dano znaæ Józefowi: Oto twój ojciec zachorowa³. Wzi¹³ wiêc ze sob¹ swoich dwóch synów, Manassesa i Efraima. </v>
+<v n="2"> I powiedziano Jakubowi: Oto twój syn Józef idzie do ciebie. A Izrael zebra³ si³ê i usiad³ na ³o¿u. </v>
+<v n="3"> Wtedy Jakub powiedzia³ do Józefa: Bóg Wszechmog¹cy ukaza³ mi siê w Luz, w ziemi Kanaan, i b³ogos³awi³ mi. </v>
+<v n="4"> I powiedzia³ do mnie: Oto ja uczyniê ciê p³odnym i rozmno¿ê ciê, i wywiodê z ciebie wielki lud. I dam tê ziemiê twemu potomstwu po tobie w wieczne dziedzictwo. </v>
+<v n="5"> Dlatego teraz twoi dwaj synowie, Efraim i Manasses, którzy urodzili ci siê w ziemi Egiptu, zanim przyszed³em tu do ciebie do Egiptu, s¹ moimi. Bêd¹ moi jak Ruben i Symeon. </v>
+<v n="6"> Ale twoje dzieci, które sp³odzisz po nich, bêd¹ twoje; bêd¹ zwane w swych posiad³oœciach imieniem swoich braci. </v>
+<v n="7"> A gdy wraca³em z Paddan, umar³a mi Rachela w ziemi Kanaan, w drodze, gdy by³em jeszcze w niewielkiej odleg³oœci od Efraty, i pogrzeba³em j¹ tam przy drodze do Efraty, czyli Betlejem. </v>
+<v n="8"> A gdy Izrael zobaczy³ synów Józefa, zapyta³: Czyi oni s¹? </v>
+<v n="9"> Józef odpowiedzia³ swemu ojcu: To s¹ moi synowie, których Bóg da³ mi tutaj. A on powiedzia³: Proszê, przyprowadŸ ich do mnie, abym im b³ogos³awi³. </v>
+<v n="10"> A oczy Izraela by³y tak s³abe ze staroœci, ¿e nie móg³ widzieæ. I przyprowadzi³ ich do niego, a Jakub ich poca³owa³ i uœcisn¹³. </v>
+<v n="11"> Potem Izrael powiedzia³ do Józefa: Nie spodziewa³em siê, ¿e bêdê jeszcze ogl¹da³ twoj¹ twarz, a oto Bóg da³ mi widzieæ nawet twoje potomstwo. </v>
+<v n="12"> Wtedy Józef odsun¹³ ich od jego kolan i pok³oni³ siê twarz¹ a¿ do ziemi. </v>
+<v n="13"> Potem Józef wzi¹³ obydwu i postawi³ Efraima po swojej prawej rêce, czyli po lewej stronie Izraela; a Manassesa po swojej lewej rêce, czyli po prawej stronie Izraela, i przyprowadzi³ ich do niego. </v>
+<v n="14"> Izrael wyci¹gn¹³ swoj¹ praw¹ rêkê, po³o¿y³ j¹ na g³owê Efraima, który by³ m³odszy, a swoj¹ lew¹ rêkê na g³owê Manassesa, umyœlnie pok³adaj¹c swoje rêce, choæ pierworodny by³ Manasses. </v>
+<v n="15"> I b³ogos³awi³ Józefowi, mówi¹c: Bóg, przed którego obliczem chodzili moi ojcowie, Abraham i Izaak, Bóg, który mnie ¿ywi³ od mej m³odoœci a¿ do dziœ; </v>
+<v n="16"> Anio³, który wybawi³ mnie ze wszelkiego z³a, niech b³ogos³awi tym ch³opcom i niech bêd¹ nazywani od mego imienia i od imienia moich ojców, Abrahama i Izaaka, i niech siê rozmno¿¹ na ziemi. </v>
+<v n="17"> A gdy Józef zobaczy³, ¿e jego ojciec po³o¿y³ swoj¹ praw¹ rêkê na g³owê Efraima, nie podoba³o mu siê to. Wzi¹³ wiêc rêkê swego ojca, aby j¹ przenieœæ z g³owy Efraima na g³owê Manassesa. </v>
+<v n="18"> I Józef powiedzia³ do swego ojca: Nie tak, mój ojcze. Ten bowiem jest pierworodny, po³ó¿ swoj¹ praw¹ rêkê na jego g³owê. </v>
+<v n="19"> Ale jego ojciec wzbrania³ siê i powiedzia³: Wiem, mój synu, wiem. Ten te¿ stanie siê ludem i on te¿ uroœnie, ale jego m³odszy brat go przewy¿szy, a z jego potomstwa wyjdzie mnóstwo narodów. </v>
+<v n="20"> B³ogos³awi³ im wiêc tego dnia, mówi¹c: Przez ciebie Izrael bêdzie b³ogos³awi³, mówi¹c: Niech Bóg ciê uczyni jak Efraim i jak Manasses. Tak wyró¿ni³ Efraima przed Manassesem. </v>
+<v n="21"> Potem Izrael powiedzia³ do Józefa: Oto ja umieram, ale Bóg bêdzie z wami i przywróci was do ziemi waszych ojców. </v>
+<v n="22"> Oto dajê ci jedn¹ czêœæ wiêcej ni¿ twoim braciom, któr¹ naby³em moim mieczem i moim ³ukiem z rêki Amorytów. </v>
+</c>

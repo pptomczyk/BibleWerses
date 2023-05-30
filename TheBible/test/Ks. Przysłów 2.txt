@@ -1,0 +1,23 @@
+<v n="1"> Synu moj, jesli przyjmiesz moje slowa i zachowasz u siebie moje przykazania; </v>
+<v n="2"> Nadstawiajac swego ucha na madrosc i naklaniajac swe serce ku rozumowi; </v>
+<v n="3"> Tak, jesli przywolasz roztropnosc i swoim glosem wezwiesz rozum; </v>
+<v n="4"> Jesli bedziesz jej szukac jak srebra i poszukiwac jej jak ukrytych skarbow; </v>
+<v n="5"> Wtedy zrozumiesz bojazn PANA i dojdziesz do poznania Boga. </v>
+<v n="6"> PAN bowiem daje madrosc, z jego ust pochodzi wiedza i rozum. </v>
+<v n="7"> On zachowuje prawdziwa madrosc dla prawych; on jest tarcza dla tych, ktorzy postepuja uczciwie; </v>
+<v n="8"> Strzeze sciezek sadu i chroni droge swoich swietych. </v>
+<v n="9"> Wtedy zrozumiesz sprawiedliwosc, sad, prawosc i wszelka dobra sciezke. </v>
+<v n="10"> Gdy madrosc wejdzie do twojego serca i wiedza bedzie mila twojej duszy; </v>
+<v n="11"> Wtedy rozwaga bedzie cie strzegla i rozum cie zachowa. </v>
+<v n="12"> By uwolnic cie od zlej drogi i od czlowieka, ktory mowi przewrotnie; </v>
+<v n="13"> Od tych, ktorzy opuszczaja sciezki prawosci, zeby chodzic drogami ciemnosci; </v>
+<v n="14"> Ktorzy sie raduja, gdy czynia zlo, a ciesza sie w zlosliwej przewrotnosci; </v>
+<v n="15"> Ktorych sciezki sa krete i sami sa przewrotni na swoich drogach; </v>
+<v n="16"> Aby cie uwolnic od cudzej kobiety, od obcej, ktora pochlebia lagodnymi slowami; </v>
+<v n="17"> Ktora opuszcza przewodnika swojej mlodosci i zapomina o przymierzu swojego Boga; </v>
+<v n="18"> Bo jej dom chyli sie ku smierci, a jej sciezki ku umarlym; </v>
+<v n="19"> Nikt z tych, ktorzy do niej wchodza, nie wraca ani nie trafia na sciezke zycia; </v>
+<v n="20"> Abys chodzil droga dobrych i przestrzegal sciezek sprawiedliwych. </v>
+<v n="21"> Prawi bowiem beda mieszkali na ziemi i nienaganni na niej pozostana; </v>
+<v n="22"> Ale niegodziwi beda wykorzenieni z ziemi i przewrotni beda z niej wyrwani. </v>
+</c>

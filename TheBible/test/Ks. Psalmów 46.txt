@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi choru dla synow Korego. Piesn na Alamot. Bog jest nasza ucieczka i sila, najpewniejsza pomoca w utrapieniu. </v>
+<v n="2"> Dlatego nie bedziemy sie bac, chocby sie poruszyla ziemia, chocby sie przeniosly gory w sam srodek morza; </v>
+<v n="3"> Chocby huczaly i burzyly sie jego wody i zatrzesly sie gory od jego nawalnicy. Sela. </v>
+<v n="4"> Jest rzeka, ktorej strumienie rozweselaja miasto Boze, miejsce swiete przybytkow Najwyzszego. </v>
+<v n="5"> Bog jest posrodku niego, nie bedzie zachwiane; Bog je wspomoze zaraz o swicie. </v>
+<v n="6"> Wzburzyly sie narody, zachwialy sie krolestwa, on wydal swoj glos i rozplynela sie ziemia. </v>
+<v n="7"> PAN zastepow jest z nami; Bog Jakuba jest nasza twierdza. Sela. </v>
+<v n="8"> Chodzcie, zobaczcie dziela PANA, jakie spustoszenia uczynil na ziemi. </v>
+<v n="9"> On kladzie kres wojnom az po krance ziemi, kruszy luki i lamie wlocznie, a rydwany pali ogniem. </v>
+<v n="10"> Uspokojcie sie i uznajcie, ze ja jestem Bogiem; bede wywyzszony wsrod narodow, bede wywyzszony na ziemi. </v>
+<v n="11"> PAN zastepow jest z nami, Bog Jakuba jest nasza twierdza. Sela. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> Gdy Balaam zauwazyl, ze PAN upodobal sobie blogoslawic Izraela, nie poszedl jak przedtem szukac wrozby, lecz zwrocil swoja twarz ku pustyni. </v>
+<v n="2"> I Balaam podniosl swoje oczy, i zobaczyl Izraela obozujacego wedlug swoich pokolen. Wtedy Duch Bozy spoczal na nim. </v>
+<v n="3"> I rozpoczal swoja przypowiesc tymi slowy: Wypowiedz Balaama, syna Beora, wypowiedz czlowieka, ktory ma otwarte oczy; </v>
+<v n="4"> Wypowiedz tego, ktory slyszal slowa Boga, ktory mial widzenie Wszechmocnego, a padajac, mial otwarte oczy: </v>
+<v n="5"> Jak piekne sa twoje namioty, Jakubie, twoje przybytki, Izraelu! </v>
+<v n="6"> Rozciagnely sie jak doliny, jak ogrody przy rzece, jak aloesy, ktore PAN zasadzil, jak cedry nad wodami. </v>
+<v n="7"> Poplynie woda z jego wiadra, jego nasienie bedzie w wielu wodach, jego krol przewyzszy Agaga i jego krolestwo bedzie wyniesione. </v>
+<v n="8"> Bog wyprowadzil go z Egiptu, jego moc jest jak u jednorozca; pozre wrogie sobie narody, pokruszy ich kosci i przeszyje je swymi strzalami. </v>
+<v n="9"> Polozyl sie, lezy jak lew, jak silny lew: ktoz go obudzi? Blogoslawiony ten, kto cie blogoslawi, a przeklety ten, kto cie przeklina. </v>
+<v n="10"> Wtedy zaplonal gniew Balaka na Balaama i klasnal w dlonie. I Balak powiedzial do Balaama: Wezwalem cie, abys przeklinal moich wrogow, a oto juz trzy razy ich blogoslawiles. </v>
+<v n="11"> Uciekaj wiec teraz do siebie. Powiedzialem, ze wielce cie uczcze, lecz oto PAN pozbawil cie tej czci. </v>
+<v n="12"> I Balaam powiedzial do Balaka: Czy i twoim poslom, ktorych do mnie wyslales, nie powiedzialem: </v>
+<v n="13"> Chocby Balak dal mi swoj dom pelen srebra i zlota, nie bede mogl przekroczyc slowa PANA, bym sam z siebie uczynil cos dobrego lub zlego; co PAN mi powie, to bede mowil. </v>
+<v n="14"> Teraz ide do mego ludu, ale chodz i oznajmie ci, co ten lud uczyni twemu ludowi w przyszlosci. </v>
+<v n="15"> I rozpoczal swoja przypowiesc tymi slowy: Wypowiedz Balaama, syna Beora, wypowiedz czlowieka, ktory ma otwarte oczy; </v>
+<v n="16"> Wypowiedz tego, ktory slyszal slowa Boga, ktory ma wiedze o Najwyzszym, ktory mial widzenie Wszechmocnego, a padajac, mial otwarte oczy: </v>
+<v n="17"> Ujrze go, ale nie teraz; zobacze go, ale nie z bliska; gwiazda wzejdzie z Jakuba, berlo powstanie z Izraela i pobije ksiazat Moabu oraz wytraci wszystkich synow Seta. </v>
+<v n="18"> Edom stanie sie posiadloscia, Seir tez stanie sie posiadloscia swoich wrogow, a Izrael bedzie sobie poczynal meznie. </v>
+<v n="19"> Z Jakuba powstanie wladca i wyniszczy resztki miasta. </v>
+<v n="20"> A gdy spojrzal na Amaleka, rozpoczal swa przypowiesc tymi slowy: Amalek byl pierwszym z narodow, lecz jego koncem bedzie wieczna zguba. </v>
+<v n="21"> Potem spojrzal na Kenitow i rozpoczal swa przypowiesc tymi slowy: Twoje mieszkanie jest mocne, a swoje gniazdo zalozyles na skale; </v>
+<v n="22"> A jednak Kenita bedzie spustoszony, az Aszszur wezmie cie w niewole. </v>
+<v n="23"> Znowu rozpoczal swa przypowiesc tymi slowy: Ach! Ktoz zyw zostanie, gdy Bog to uczyni? </v>
+<v n="24"> Przyplyna bowiem okrety od wybrzeza Kittim i pognebia Aszszur, pognebia tez Eber; lecz i oni sami zgina na zawsze. </v>
+<v n="25"> Potem Balaam wstal i odszedl, i wrocil do siebie. Balak takze poszedl swoja droga. </v>
+</c>

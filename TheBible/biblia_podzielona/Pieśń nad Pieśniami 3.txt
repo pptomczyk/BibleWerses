@@ -1,0 +1,12 @@
+<v n="1"> Na swoim ³o¿u wœród nocy szuka³am tego, którego mi³uje moja dusza. Szuka³am go, ale go nie znalaz³am. </v>
+<v n="2"> Wstanê wiêc ju¿ i obiegnê miasto, po ulicach i placach bêdê szukaæ tego, którego mi³uje moja dusza. Szuka³am go, ale nie znalaz³am. </v>
+<v n="3"> ZnaleŸli mnie stra¿nicy, którzy obchodzili miasto, i spyta³am: Widzieliœcie tego, którego mi³uje moja dusza? </v>
+<v n="4"> A gdy ledwie od nich odesz³am, zaraz znalaz³am tego, którego mi³uje moja dusza. Uchwyci³am go i nie puszczê, a¿ go wprowadzê do domu mojej matki, do pokoju mojej rodzicielki. </v>
+<v n="5"> Zaklinam was, córki Jerozolimy, na sarny i ³anie polne: Nie budŸcie mego umi³owanego i nie przerywajcie jego snu, dopóki nie zechce. </v>
+<v n="6"> Kim jest ta, która wy³ania siê z pustyni jak s³upy dymu, owiana woni¹ mirry i kadzid³a oraz wszelkim wonnym proszkiem od kupca? </v>
+<v n="7"> Oto ³o¿e Salomona, doko³a którego stoi szeœædziesiêciu dzielnych wojowników spoœród dzielnych Izraela. </v>
+<v n="8"> Wszyscy trzymaj¹ miecz, wyæwiczeni w boju. Ka¿dy z nich ma swój miecz u boku przez wzgl¹d na strach nocny. </v>
+<v n="9"> Król Salomon uczyni³ sobie lektykê z drzewa Libanu. </v>
+<v n="10"> Jej s³upki uczyni³ ze srebra, jej pok³ad ze z³ota, podniebienie z purpury, a wnêtrze wyœcielone mi³oœci¹ córek Jerozolimy. </v>
+<v n="11"> WyjdŸcie, córki Syjonu, i popatrzcie na króla Salomona w koronie, któr¹ ukoronowa³a go jego matka w dniu jego zarêczyn i w dniu radoœci jego serca. </v>
+</c>

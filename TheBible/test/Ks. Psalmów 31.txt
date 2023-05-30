@@ -1,0 +1,25 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. W tobie, PANIE, pokladam nadzieje, niech nigdy nie doznam wstydu, wyzwol mnie w swojej sprawiedliwosci. </v>
+<v n="2"> Naklon ku mnie swego ucha, czym predzej mnie ocal; badz mi mocna skala, domem obronnym, abys mnie wybawil. </v>
+<v n="3"> Ty bowiem jestes moja skala i twierdza; dlatego przez wzglad na twoje imie kieruj mnie i prowadz. </v>
+<v n="4"> Wyciagnij mnie z sieci, ktora zastawili na mnie, bo ty jestes moja sila. </v>
+<v n="5"> W twoje rece powierzam mego ducha; odkupiles mnie, PANIE, Boze wierny. </v>
+<v n="6"> Nienawidze tych, ktorzy zwazaja na prozne marnosci, bo ja w PANU pokladam nadzieje. </v>
+<v n="7"> Bede sie radowal i weselil w twoim milosierdziu, bo wejrzales na moje utrapienie i poznales udreki mojej duszy; </v>
+<v n="8"> I nie wydales mnie w rece wroga, postawiles moje nogi na miejscu przestronnym. </v>
+<v n="9"> Zmiluj sie nade mna, PANIE, bo jestem ucisniony, od zalosci oslably moje oczy, a takze moja dusza i moje wnetrznosci. </v>
+<v n="10"> W bolu bowiem uplywa moje zycie, a moje lata na wzdychaniu; moja sila oslabla z powodu mej nieprawosci, a moje kosci wyschly. </v>
+<v n="11"> Stalem sie posmiewiskiem dla wszystkich moich wrogow, zwlaszcza dla moich sasiadow, i postrachem dla znajomych; ci, ktorzy mnie widza na dworze, uciekaja przede mna. </v>
+<v n="12"> Zapomniano o mnie jak o umarlym, stalem sie jak rozbite naczynie. </v>
+<v n="13"> Slysze bowiem oszczerstwa wielu; strach czai sie zewszad; gdy wspolnie naradzaja sie przeciwko mnie, spiskuja, jak odebrac mi zycie. </v>
+<v n="14"> Ale ja zaufalem tobie, PANIE; powiedzialem: Ty jestes moim Bogiem. </v>
+<v n="15"> Moj czas jest w twoich rekach, ocal mnie z reki moich nieprzyjaciol i od tych, ktorzy mnie przesladuja. </v>
+<v n="16"> Rozjasnij swe oblicze nad twoim sluga, wybaw mnie w twoim milosierdziu. </v>
+<v n="17"> PANIE, niech nie doznam wstydu, skoro cie wzywam; niech niegodziwi sie wstydza i zamilkna w grobie. </v>
+<v n="18"> Niech zaniemowia wargi klamliwe, ktore w pysze i pogardzie mowia krzywdzace slowa przeciwko sprawiedliwemu. </v>
+<v n="19"> Jakze wielka jest twoja dobroc, ktora zachowujesz dla bojacych sie ciebie i okazujesz tym, co ufaja tobie wobec synow ludzkich! </v>
+<v n="20"> Ukryjesz ich pod oslona twojej obecnosci przed pycha czlowieka, ochronisz ich w namiocie przed klotliwymi jezykami. </v>
+<v n="21"> Blogoslawiony niech bedzie PAN, bo okazal mi swa cudowna laske w miescie warownym. </v>
+<v n="22"> Powiedzialem w pospiechu: Odrzuciles mnie sprzed twych oczu; lecz ty wysluchales glosu mego blagania, gdy wolalem do ciebie. </v>
+<v n="23"> Milujcie PANA, wszyscy jego swieci, bo PAN strzeze wiernych, a postepujacym wyniosle odplaca z nawiazka. </v>
+<v n="24"> Badzcie dzielni, wszyscy, ktorzy pokladacie nadzieje w PANU, a on umocni wasze serca. </v>
+</c>

@@ -1,0 +1,10 @@
+<v n="1"> Alleluja. Chwalcie, sludzy PANA, chwalcie imie PANA. </v>
+<v n="2"> Niech imie PANA bedzie blogoslawione, odtad az na wieki. </v>
+<v n="3"> Od wschodu slonca az do jego zachodu, niech imie PANA bedzie pochwalone. </v>
+<v n="4"> PAN jest wywyzszony ponad wszystkie narody, jego chwala ponad niebiosa. </v>
+<v n="5"> Ktoz jak PAN, nasz Bog, ktory mieszka na wysokosci; </v>
+<v n="6"> Ktory zniza sie, aby patrzec na to, co jest na niebie i na ziemi? </v>
+<v n="7"> Podnosi nedznego z prochu, a z gnoju podnosi ubogiego; </v>
+<v n="8"> Aby go posadzic z ksiazetami, z ksiazetami swego ludu; </v>
+<v n="9"> On sprawia, ze nieplodna staje sie matka domu, cieszaca sie dziecmi. Alleluja. </v>
+</c>

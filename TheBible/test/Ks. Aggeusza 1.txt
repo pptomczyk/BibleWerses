@@ -1,0 +1,16 @@
+<v n="1"> W drugim roku krola Dariusza, w szostym miesiacu, pierwszego dnia tego miesiaca, slowo PANA doszlo przez proroka Aggeusza do Zorobabela, syna Szealtiela, namiestnika Judy, i do Jozuego, syna Josadaka, najwyzszego kaplana, mowiace: </v>
+<v n="2"> Tak mowi PAN zastepow: Ten lud powiada: Jeszcze nie nadszedl czas, czas budowania domu PANA. </v>
+<v n="3"> Wowczas slowo PANA doszlo przez proroka Aggeusza mowiace: </v>
+<v n="4"> A czy dla was jest to czas, abyscie mieszkali w swoich domach wylozonych deskami, podczas gdy ten dom lezy opustoszaly? </v>
+<v n="5"> Teraz wiec tak mowi PAN zastepow: Zastanowcie sie nad swoimi drogami. </v>
+<v n="6"> Siejecie wiele, a malo zbieracie; jecie, ale sie nie nasycacie; pijecie, ale nie gasicie pragnienia; ubieracie sie, lecz nikt nie moze sie ogrzac, a ten, kto gromadzi zarobek, gromadzi go w dziurawym worku. </v>
+<v n="7"> Tak mowi PAN zastepow: Zastanowcie sie nad swoimi drogami. </v>
+<v n="8"> Wstapcie na te gore i sprowadzcie drewno; zbudujcie ten dom, a upodobam go sobie i bede uwielbiony, mowi PAN. </v>
+<v n="9"> Liczyliscie na wiele, a oto bylo tego malo, a to, co przyniesliscie do domu, ja rozdmuchalem. Dlaczego? – mowi PAN zastepow. Dlatego ze moj dom jest pusty, podczas gdy kazdy z was troszczy sie o swoj dom. </v>
+<v n="10"> Dlatego niebo wstrzymalo nad wami rose, a ziemia wstrzymala wydawanie swego plonu. </v>
+<v n="11"> Sprowadzilem susze na te ziemie, na te gory, na pszenice, na moszcz i na oliwe, na to, co ziemia wydaje, na ludzi i na bydlo, i na wszelka prace rak. </v>
+<v n="12"> Wtedy Zorobabel, syn Szealtiela, i najwyzszy kaplan Jozue, syn Josadaka, oraz cala resztka ludu wysluchali glosu PANA, swego Boga, i slow proroka Aggeusza, poniewaz poslal go PAN, ich Bog, a lud bal sie PANA. </v>
+<v n="13"> Wtedy Aggeusz, poslaniec PANA, przemowil do ludu, gloszac przeslanie PANA: Ja jestem z wami, mowi PAN. </v>
+<v n="14"> I PAN wzbudzil ducha Zorobabela, syna Szealtiela, namiestnika Judy, i ducha Jozuego, syna Josadaka, najwyzszego kaplana, oraz ducha calej reszty ludu, tak ze przyszli i podjeli prace przy domu PANA zastepow, swego Boga; </v>
+<v n="15"> Dnia dwudziestego czwartego, szostego miesiaca, w drugim roku krola Dariusza. </v>
+</c>

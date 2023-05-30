@@ -1,0 +1,19 @@
+<v n="1"> Nie nam, PANIE, nie nam, ale twemu imieniu daj chwale za twoje milosierdzie i prawde. </v>
+<v n="2"> Czemu maja mowic poganie: Gdziez teraz jest ich Bog? </v>
+<v n="3"> A nasz Bog jest w niebie, czyni wszystko, co zechce. </v>
+<v n="4"> Ich bozki to srebro i zloto, dzielo rak ludzkich. </v>
+<v n="5"> Usta maja, ale nie mowia; maja oczy, ale nie widza. </v>
+<v n="6"> Uszy maja, ale nie slysza; maja nozdrza, ale nie czuja. </v>
+<v n="7"> Rece maja, ale nie dotykaja; maja nogi, ale nie chodza; ani gardlem swoim nie wydaja glosu. </v>
+<v n="8"> Niech beda do nich podobni ci, ktorzy je robia, i wszyscy, ktorzy im ufaja. </v>
+<v n="9"> Izraelu, ufaj PANU; on jest ich pomoca i tarcza. </v>
+<v n="10"> Domu Aarona, ufaj PANU; on jest ich pomoca i tarcza. </v>
+<v n="11"> Wy, ktorzy sie boicie PANA, ufajcie PANU; on jest ich pomoca i tarcza. </v>
+<v n="12"> PAN pamieta o nas, bedzie blogoslawil; bedzie blogoslawil domowi Izraela, bedzie blogoslawil domowi Aarona. </v>
+<v n="13"> Bedzie blogoslawil tym, ktorzy boja sie PANA, i malym, i wielkim. </v>
+<v n="14"> Rozmnozy was PAN, was i waszych synow. </v>
+<v n="15"> Blogoslawieni jestescie przez PANA, ktory stworzyl niebo i ziemie. </v>
+<v n="16"> Niebiosa sa niebiosami PANA, ale ziemie dal synom ludzkim. </v>
+<v n="17"> Umarli nie beda chwalili PANA ani nikt z tych, ktorzy zstepuja do miejsca milczenia. </v>
+<v n="18"> Ale my bedziemy blogoslawili PANA, odtad az na wieki. Alleluja. </v>
+</c>

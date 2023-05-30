@@ -1,0 +1,24 @@
+<v n="1"> Piesn pouczajaca. Asafa. Boze, dlaczego odrzuciles nas na zawsze? Czemu plonie twoj gniew przeciwko owcom twego pastwiska? </v>
+<v n="2"> Wspomnij na swoje zgromadzenie, ktore dawno nabyles; na szczep twego dziedzictwa, ktory odkupiles; na gore Syjon, na ktorej mieszkasz. </v>
+<v n="3"> Pospiesz na miejsce ciaglych spustoszen; o, jak wrog zburzyl wszystko w swiatyni! </v>
+<v n="4"> Rykneli twoi wrogowie posrodku twego zgromadzenia, a na znak zatkneli swoje sztandary. </v>
+<v n="5"> Za slawnego uwazano tego, ktory wznosil wysoko siekiere na geste drzewo. </v>
+<v n="6"> A teraz juz jego rzezby rabia siekierami i mlotami. </v>
+<v n="7"> Oddali na pastwe ognia twoja swiatynie i obaliwszy na ziemie, zbezczescili przybytek twego imienia. </v>
+<v n="8"> Mowili w swym sercu: Zburzmy ich razem! Spalili wszystkie miejsca zgromadzen Bozych na ziemi. </v>
+<v n="9"> Nie widzimy naszych znakow; juz nie ma proroka i nikt sposrod nas nie wie, jak dlugo to ma trwac. </v>
+<v n="10"> Jak dlugo, Boze, przeciwnik bedzie uragac? Czy wrog bedzie wiecznie bluznil przeciwko twemu imieniu? </v>
+<v n="11"> Dlaczego cofasz swoja reke i swojej prawicy z zanadrza nie wyjmujesz? </v>
+<v n="12"> Przeciez ty, Boze, jestes moim Krolem od dawna, ty dokonujesz zbawienia na ziemi. </v>
+<v n="13"> Ty swoja moca rozdzieliles morze, zmiazdzyles glowy smokow w wodach. </v>
+<v n="14"> Ty skruszyles glowy Lewiatana, dales go na pokarm mieszkancom pustyni. </v>
+<v n="15"> Ty rozszczepiles zrodla i potoki, ty osuszyles potezne rzeki. </v>
+<v n="16"> Twoj jest dzien, twoja i noc, ty ustanowiles swiatlo i slonce. </v>
+<v n="17"> Ty wyznaczyles wszystkie granice ziemi, ty ustanowiles lato i zime. </v>
+<v n="18"> Pamietaj o tym, ze wrog zelzyl ciebie, PANIE, a glupi lud uragal twemu imieniu. </v>
+<v n="19"> Nie wydawaj tej zgrai duszy twojej synogarlicy, nie zapominaj nigdy o stadku twoich ubogich. </v>
+<v n="20"> Zwaz na twoje przymierze, bo ciemne zakatki ziemi pelne sa siedlisk przemocy. </v>
+<v n="21"> Niech ucisniony nie wraca ze wstydem, niech ubogi i potrzebujacy chwali twoje imie. </v>
+<v n="22"> Powstan, Boze, bron swojej sprawy; pamietaj o zniewadze, ktora co dzien wyrzadza ci glupiec. </v>
+<v n="23"> Nie zapominaj krzyku twoich wrogow, wciaz rosnacej wrzawy tych, ktorzy powstaja przeciwko tobie. </v>
+</c>

@@ -1,0 +1,25 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. PANIE, przeniknales mnie i znasz mnie. </v>
+<v n="2"> Wiesz, kiedy siedze i wstaje, z daleka znasz moje mysli. </v>
+<v n="3"> Otaczasz moja sciezke i spoczynek, wszystkie moje drogi sa ci znane. </v>
+<v n="4"> Zanim na moim jezyku pojawi sie slowo, ty, PANIE, juz je znasz. </v>
+<v n="5"> Otaczasz mnie z tylu i z przodu i polozyles na mnie twoja reke. </v>
+<v n="6"> Zbyt cudowna jest dla mnie twoja wiedza; jest wzniosla, nie moge jej pojac. </v>
+<v n="7"> Dokad ujde przed twoim duchem? Dokad uciekne przed twoim obliczem? </v>
+<v n="8"> Jesli wstapie do nieba, jestes tam; jesli przygotuje sobie poslanie w piekle, tam tez jestes. </v>
+<v n="9"> Gdybym wzial skrzydla zorzy porannej, aby zamieszkac na krancu morza; </v>
+<v n="10"> I tam twoja reka prowadzilaby mnie i twoja prawica by mnie podtrzymala. </v>
+<v n="11"> Jesli powiem: Na pewno zakryja mnie ciemnosci, to i noc bedzie dokola mnie swiatlem. </v>
+<v n="12"> Nawet ciemnosc nic przed toba nie skryje, dla ciebie noc swieci jak dzien, ciemnosc jest jak swiatlosc. </v>
+<v n="13"> Ty bowiem panujesz nad moimi nerkami; okryles mnie w lonie mojej matki. </v>
+<v n="14"> Wyslawiam cie, bo zostalem stworzony w sposob zadziwiajacy i cudowny; przedziwne sa twoje dziela, a moja dusza zna je bardzo dobrze. </v>
+<v n="15"> Zadna moja kosc nie byla zakryta przed toba, gdy zostalem stworzony w skrytosci i misternie zlozony w glebiach ziemi. </v>
+<v n="16"> Twoje oczy widzialy niedoskonaly plod mego ciala; w twojej ksiedze sa zapisane wszystkie moje czlonki i dni, w ktore byly ksztaltowane, gdy jeszcze zadnego z nich nie bylo. </v>
+<v n="17"> Jak drogie sa dla mnie twoje mysli, Boze! Jak wielka jest ich liczba! </v>
+<v n="18"> Gdybym chcial je zliczyc, byloby ich wiecej niz piasku; gdy sie budze, jeszcze jestem z toba. </v>
+<v n="19"> Zgladzisz, Boze, niegodziwego; niech odstapia ode mnie ludzie krwawi; </v>
+<v n="20"> Ktorzy mowia obrzydliwosci przeciwko tobie, twoi wrogowie nadaremnie biora twoje imie. </v>
+<v n="21"> Czy nie nienawidze tych, PANIE, ktorzy nienawidza ciebie? I nie brzydze sie tymi, ktorzy przeciwko tobie powstaja? </v>
+<v n="22"> Nienawidze ich pelnia nienawisci i mam ich za wrogow. </v>
+<v n="23"> Przeniknij mnie, Boze, i poznaj moje serce; wyprobuj mnie i poznaj moje mysli; </v>
+<v n="24"> I zobacz, czy jest we mnie droga nieprawosci, a prowadz mnie droga wieczna. </v>
+</c>

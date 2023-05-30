@@ -1,0 +1,23 @@
+<v n="1"> Zdarzy³o siê, ¿e w czasach, kiedy rz¹dzili sêdziowie, nasta³ g³ód na ziemi. I pewien cz³owiek z Betlejem judzkiego wyruszy³ wraz ze swoj¹ ¿on¹ i dwoma synami, aby zamieszkaæ w ziemi Moabu. </v>
+<v n="2"> Ten cz³owiek mia³ na imiê Elimelech, jego ¿ona – Noemi, a jego dwaj synowie – Machlon i Kilion. Byli oni Efratejczykami z Betlejem judzkiego. Przybyli do ziemi Moabu i tam zamieszkali. </v>
+<v n="3"> Potem umar³ Elimelech, m¹¿ Noemi, a ona pozosta³a sama z dwoma synami. </v>
+<v n="4"> Ci pojêli sobie za ¿ony Moabitki: jedna mia³a na imiê Orfa, a druga – Rut. I mieszkali tam oko³o dziesiêciu lat. </v>
+<v n="5"> Potem obaj, Machlon i Kilion, równie¿ umarli; i tak kobieta ta pozosta³a sama bez swoich dwóch synów i bez mê¿a. </v>
+<v n="6"> Wtedy powsta³a wraz ze swoimi synowymi, aby wróciæ z ziemi Moabu, gdy¿ us³ysza³a w ziemi Moabu, ¿e PAN nawiedzi³ swój lud i da³ mu chleb. </v>
+<v n="7"> Wysz³a wiêc z miejsca, w którym by³a, a wraz z ni¹ jej dwie synowe i uda³y siê w drogê powrotn¹ do ziemi Judy. </v>
+<v n="8"> I powiedzia³a Noemi do swych dwóch synowych: IdŸcie, niech ka¿da z was powróci do domu swojej matki. Niech PAN oka¿e wam mi³osierdzie, tak jak okaza³yœcie je zmar³ym i mnie. </v>
+<v n="9"> Niech PAN sprawi, aby ka¿da z was znalaz³a pokój w domu swego mê¿a. I poca³owa³a je, a one podnios³y g³osy i zap³aka³y. </v>
+<v n="10"> I mówi³y do niej: Wrócimy raczej z tob¹ do twego ludu. </v>
+<v n="11"> Lecz Noemi odpowiedzia³a: Zawróæcie, moje córki. Czemu chcecie iœæ ze mn¹? Czy mam jeszcze w swoim ³onie synów, którzy zostaliby waszymi mê¿ami? </v>
+<v n="12"> Zawróæcie, moje córki, idŸcie, bo jestem zbyt stara, aby wyjœæ za m¹¿. A nawet gdybym powiedzia³a: mam jeszcze nadziejê, to choæbym tej nocy wysz³a za m¹¿ i równie¿ urodzi³a synów; </v>
+<v n="13"> Czy czeka³ybyœcie na nich, a¿ dorosn¹? Czy ze wzglêdu na nich pozosta³ybyœcie bez mê¿a? Nie, moje córki. Odczuwam bowiem wielk¹ gorycz ze wzglêdu na was, gdy¿ rêka PANA obróci³a siê przeciwko mnie. </v>
+<v n="14"> A one znowu podnios³y g³osy i zaczê³y p³akaæ. I Orfa poca³owa³a swoj¹ teœciow¹, ale Rut pozosta³a przy niej. </v>
+<v n="15"> Wtedy Noemi powiedzia³a do niej: Oto twoja szwagierka wróci³a do swego ludu i do swoich bogów. Wróæ tak¿e ty za swoj¹ szwagierk¹. </v>
+<v n="16"> Rut jednak odpowiedzia³a: Nie nalegaj na mnie, abym ciê opuœci³a i odesz³a od ciebie. Gdziekolwiek bowiem pójdziesz i ja pójdê, a gdziekolwiek zamieszkasz i ja zamieszkam. Twój lud bêdzie moim ludem, a twój Bóg bêdzie moim Bogiem. </v>
+<v n="17"> Gdzie ty umrzesz, tam i ja umrê, i tam bêdê pogrzebana. Niech mi to PAN uczyni i niech do tego dorzuci, jeœli coœ innego ni¿ œmieræ oddzieli mnie od ciebie. </v>
+<v n="18"> A gdy Noemi widzia³a, ¿e upar³a siê, aby z ni¹ iœæ, przesta³a jej odradzaæ. </v>
+<v n="19"> I sz³y obie razem, a¿ przysz³y do Betlejem. A gdy przyby³y do Betlejem, ca³e miasto ogarnê³o poruszenie z ich powodu i mówiono: Czy to jest Noemi? </v>
+<v n="20"> Lecz ona powiedzia³a do nich: Nie nazywajcie mnie Noemi, lecz nazywajcie mnie Mara, poniewa¿ Wszechmog¹cy nape³ni³ mnie wielk¹ gorycz¹. </v>
+<v n="21"> Wysz³am st¹d pe³na, a PAN sprowadzi³ mnie pust¹. Czemu nazywacie mnie Noemi, skoro PAN wyst¹pi³ przeciwko mnie i Wszechmog¹cy sprowadzi³ na mnie nieszczêœcie? </v>
+<v n="22"> Wróci³a wiêc Noemi, a z ni¹ Rut Moabitka, jej synowa, która wróci³a z krainy Moabu. A przysz³y do Betlejem na pocz¹tku ¿niw jêczmienia. </v>
+</c>

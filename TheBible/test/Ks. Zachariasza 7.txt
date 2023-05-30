@@ -1,0 +1,15 @@
+<v n="1"> W czwartym roku krola Dariusza slowo PANA doszlo do Zachariasza, czwartego dnia dziewiatego miesiaca, to jest w miesiacu Kislew; </v>
+<v n="2"> Gdy lud poslal do domu Bozego Saresera i Regem-Meleka z ich ludzmi, aby sie modlili przed PANEM; </v>
+<v n="3"> I aby zapytali kaplanow, ktorzy byli w domu PANA zastepow, a takze prorokow: Czy w piatym miesiacu mam jeszcze plakac, poswiecajac sie, jak to juz czynilem przez tyle lat? </v>
+<v n="4"> Doszlo do mnie slowo PANA zastepow mowiace: </v>
+<v n="5"> Powiedz do calego ludu tej ziemi i do kaplanow: Gdy posciliscie i plakaliscie w piatym i siodmym miesiacu przez te siedemdziesiat lat, czy posciliscie dla mnie? </v>
+<v n="6"> A gdy jecie i pijecie, czy nie dla siebie jecie i nie dla siebie pijecie? </v>
+<v n="7"> Czy nie nalezalo raczej czynic wedlug slowa, ktore PAN glosil przez dawnych prorokow, gdy Jerozolima byla jeszcze zamieszkana i zazywala pokoju, a takze jej okoliczne miasta, gdy poludnie i rownina byly zamieszkane? </v>
+<v n="8"> I slowo PANA doszlo do Zachariasza mowiace: </v>
+<v n="9"> Tak mowi PAN zastepow: Sadzcie sprawiedliwie i okazujcie milosierdzie i litosc, kazdy swojemu bratu. </v>
+<v n="10"> Nie uciskajcie wdowy i sieroty, obcego i ubogiego i nie obmyslajcie zla w swoich sercach, jedni przeciwko drugim. </v>
+<v n="11"> Ale oni nie chcieli sluchac i odwrocili sie plecami, i zatkali swoje uszy, aby nie slyszec. </v>
+<v n="12"> Zatwardzili swoje serca jak diament, aby nie sluchac prawa i slow, ktore posylal PAN zastepow przez swego Ducha za posrednictwem dawnych prorokow. Dlatego nadszedl wielki gniew od PANA zastepow. </v>
+<v n="13"> I stalo sie tak, ze podobnie jak gdy on wolal, a oni nie sluchali, tak tez gdy oni wolali, ja ich nie wysluchalem, mowi PAN zastepow. </v>
+<v n="14"> I rozproszylem ich wichrem pomiedzy wszystkimi narodami, ktorych nie znali, a ta ziemia opustoszala po nich, tak ze nikt nie przechodzil ani nie wracal. Zamienili bowiem rozkoszna ziemie w spustoszenie. </v>
+</c>

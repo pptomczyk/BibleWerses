@@ -1,0 +1,19 @@
+<v n="1"> Dlaczego, PANIE, stoisz z daleka? Dlaczego ukrywasz sie w czasie niedoli? </v>
+<v n="2"> Niegodziwy w swej pysze przesladuje ubogiego, niech niegodziwi uwiklaja sie w zamysly, ktore uknuli. </v>
+<v n="3"> Bo niegodziwy chelpi sie pragnieniem swej duszy, a chciwiec blogoslawi sobie i zniewaza PANA. </v>
+<v n="4"> Niegodziwy przez pyche, ktora po sobie pokazuje, nie szuka Boga; cale jego myslenie to ze nie ma Boga. </v>
+<v n="5"> Jego drogi zawsze sa ciezkie, twoje sady sa zbyt daleko od niego, parska na wszystkich swoich wrogow. </v>
+<v n="6"> Mowi w swoim sercu: Nie zachwieje sie, nie zaznam zla po wszystkie pokolenia. </v>
+<v n="7"> Jego usta pelne sa przeklenstw, zdrady i podstepu, pod jego jezykiem krzywda i nieprawosc. </v>
+<v n="8"> Siedzi w zasadzkach wsi, w ukryciach zabija niewinnego, jego oczy wypatruja ubogiego. </v>
+<v n="9"> Czyha w kryjowce jak lew w swej jaskini; czatuje, by schwytac ubogiego, porywa go i wciaga w swe sieci. </v>
+<v n="10"> Schyla sie, zniza sie, od jego mocy padaja ubodzy. </v>
+<v n="11"> Mowi w swym sercu: Bog zapomnial, zakryl swoje oblicze, nigdy nie zobaczy. </v>
+<v n="12"> Powstan, PANIE Boze, podnies swa reke; nie zapominaj o ubogich. </v>
+<v n="13"> Dlaczego niegodziwy zniewaza Boga? Mowi w swym sercu: Nie bedziesz sie upominal. </v>
+<v n="14"> Lecz ty widzisz utrapienie i patrzysz na krzywde, aby za nie odplacic twa reka. Na ciebie sie zdaje ubogi, ty jestes pomocnikiem sierocie. </v>
+<v n="15"> Zlam ramie niegodziwego i zlego, dochodz jego nieprawosci, az jej juz nie bedzie. </v>
+<v n="16"> PAN jest Krolem na wieki wiekow, z jego ziemi zniknely narody. </v>
+<v n="17"> Uslyszales pragnienia pokornych, PANIE, utwierdzisz ich serca, naklonisz swego ucha; </v>
+<v n="18"> Aby bronic sieroty i udreczonego, aby smiertelny czlowiek nie gnebil juz na ziemi. </v>
+</c>

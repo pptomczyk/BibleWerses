@@ -1,0 +1,24 @@
+<v n="1"> A tego, kto jest slaby w wierze, przyjmujcie, lecz nie po to, aby sprzeczac sie wokol spornych kwestii. </v>
+<v n="2"> Jeden bowiem wierzy, ze moze jesc wszystko, a inny, bedac slaby, jada jarzyny. </v>
+<v n="3"> Ten, kto je, niech nie lekcewazy tego, ktory nie je, a ten, kto nie je, niech nie potepia tego, ktory je, bo Bog go przyjal. </v>
+<v n="4"> Kim jestes ty, ze sadzisz cudzego sluge? Dla wlasnego Pana stoi albo upada. Ostoi sie jednak, gdyz Bog moze go utwierdzic. </v>
+<v n="5"> Jeden bowiem czyni roznice miedzy dniem a dniem, a drugi kazdy dzien ocenia jednakowo. Kazdy niech bedzie dobrze upewniony w swoim zamysle. </v>
+<v n="6"> Kto przestrzega dnia, dla Pana przestrzega, a kto nie przestrzega dnia, dla Pana nie przestrzega. Kto je, dla Pana je, bo dziekuje Bogu, a kto nie je, dla Pana nie je i dziekuje Bogu. </v>
+<v n="7"> Nikt bowiem z nas dla siebie nie zyje i nikt dla siebie nie umiera. </v>
+<v n="8"> Bo jesli zyjemy, dla Pana zyjemy, jesli umieramy, dla Pana umieramy. Dlatego czy zyjemy, czy umieramy, nalezymy do Pana. </v>
+<v n="9"> Gdyz po to Chrystus umarl, powstal i ozyl, aby panowac i nad umarlymi, i nad zywymi. </v>
+<v n="10"> Dlaczego wiec ty potepiasz swego brata? Albo czemu lekcewazysz swego brata? Wszyscy bowiem staniemy przed trybunalem Chrystusa. </v>
+<v n="11"> Jest bowiem napisane: Jak zyje, mowi Pan, ugnie sie przede mna kazde kolano i kazdy jezyk bedzie wyslawial Boga. </v>
+<v n="12"> Tak wiec kazdy z nas sam za siebie zda rachunek Bogu. </v>
+<v n="13"> A tak juz nie osadzajmy jedni drugich, ale raczej uwazajcie na to, aby nie dawac bratu powodu do potkniecia sie lub upadku. </v>
+<v n="14"> Wiem i jestem przekonany przez Pana Jezusa, ze nie ma niczego, co by samo w sobie bylo nieczyste. Tylko dla tego, kto uwaza cos za nieczyste, to dla niego jest nieczyste. </v>
+<v n="15"> Lecz jesli z powodu pokarmu twoj brat jest zasmucony, juz nie postepujesz zgodnie z miloscia. Nie zatracaj swoim pokarmem tego, za ktorego umarl Chrystus. </v>
+<v n="16"> Niech wiec wasze dobro nie bedzie bluznione. </v>
+<v n="17"> Krolestwo Boze bowiem to nie pokarm i napoj, ale sprawiedliwosc, pokoj i radosc w Duchu Swietym. </v>
+<v n="18"> Kto bowiem w tym sluzy Chrystusowi, podoba sie Bogu i cieszy sie uznaniem u ludzi. </v>
+<v n="19"> Tak wiec dazmy do tego, co sluzy pokojowi i wzajemnemu zbudowaniu. </v>
+<v n="20"> Z powodu pokarmu nie niszcz dziela Bozego. Wszystko wprawdzie jest czyste, ale staje sie zle dla czlowieka, ktory je ze zgorszeniem. </v>
+<v n="21"> Dobrze jest nie jesc miesa i nie pic wina ani zadnej rzeczy, przez ktora twoj brat sie obraza, gorszy albo slabnie. </v>
+<v n="22"> Masz wiare? Miej ja sam u siebie przed Bogiem. Szczesliwy ten, kto samego siebie nie potepia w tym, co uwaza za dobre. </v>
+<v n="23"> Lecz kto ma watpliwosci, jesli je, jest potepiony, bo nie je z wiary. Wszystko bowiem, co nie jest z wiary, jest grzechem. </v>
+</c>

@@ -1,0 +1,23 @@
+<v n="1"> Jest pora na wszystko i czas na kazda sprawe pod niebem. </v>
+<v n="2"> Jest czas rodzenia i czas umierania, czas sadzenia i czas wyrywania tego, co zasadzono; </v>
+<v n="3"> Czas zabijania i czas leczenia, czas burzenia i czas budowania; </v>
+<v n="4"> Czas placzu i czas smiechu, czas smutku i czas plasow; </v>
+<v n="5"> Czas rzucania kamieni i czas zbierania kamieni, czas usciskow i czas powstrzymywania sie od usciskow; </v>
+<v n="6"> Czas szukania i czas tracenia, czas zachowania i czas wyrzucania; </v>
+<v n="7"> Czas rozdzierania i czas zszywania, czas milczenia i czas mowienia; </v>
+<v n="8"> Czas milowania i czas nienawisci, czas wojny i czas pokoju. </v>
+<v n="9"> Jaki pozytek ma ten, kto pracuje, z calego swego trudu? </v>
+<v n="10"> Widzialem prace, ktora Bog dal synom ludzkim, aby sie nia trudzili. </v>
+<v n="11"> Wszystko dobrze uczynil w swoim czasie. Wlozyl takze swiat w ich serca, mimo ze czlowiek nie zdola pojac dziela, ktorego Bog dokonuje od poczatku do konca. </v>
+<v n="12"> Dlatego wiem, ze dla nich nie ma nic lepszego nad to, by sie radowali i czynili dobrze za swego zycia. </v>
+<v n="13"> Rowniez i to, gdy kazdy czlowiek je i pije, i cieszy sie dobrem calego swego trudu, jest darem Boga. </v>
+<v n="14"> Wiem i to, ze cokolwiek czyni Bog, bedzie trwac na wieki. Nie mozna do tego nic dodac ani z tego odjac, a Bog czyni to, aby ludzie sie go bali. </v>
+<v n="15"> To, co bylo, jest teraz, a to, co bedzie, juz bylo. Bog bowiem zada tego, co przeminelo. </v>
+<v n="16"> Widzialem jeszcze pod sloncem niegodziwosc w miejscu sadu, a w miejscu sprawiedliwosci – nieprawosc. </v>
+<v n="17"> I powiedzialem w sercu: Bog osadzi zarowno sprawiedliwego, jak i niegodziwego, gdyz tam bedzie czas na osadzenie kazdego zamiaru i uczynku. </v>
+<v n="18"> Powiedzialem w sercu o sprawie synow ludzkich: Oby Bog im pokazal, aby wiedzieli, ze sa tylko zwierzetami. </v>
+<v n="19"> Bo jednakowy jest los synow ludzkich i los zwierzat. Jak umiera ten, tak umiera i tamto. Wszyscy maja jednakowe tchnienie, a nie ma czlowiek przewagi nad zwierzeciem, gdyz wszystko jest marnoscia. </v>
+<v n="20"> Wszystko to idzie do jednego miejsca; wszystko jest z prochu i wszystko w proch sie obraca. </v>
+<v n="21"> A ktoz wie, ze duch synow ludzkich idzie w gore, a duch zwierzecia zstepuje do ziemi? </v>
+<v n="22"> Dlatego zobaczylem, ze nie ma nic lepszego nad to, zeby czlowiek sie radowal ze swoich dziel, gdyz to jest jego dzial. Ktoz bowiem doprowadzi go do tego, aby poznal to, co ma byc po nim? </v>
+</c>

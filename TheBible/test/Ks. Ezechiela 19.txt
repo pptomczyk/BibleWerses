@@ -1,0 +1,15 @@
+<v n="1"> A ty podnies lament nad ksiazetami Izraela; </v>
+<v n="2"> I mow: Czym byla twoja matka? Lwica lezaca miedzy lwami, ktora karmila swoje szczenieta wsrod lwiat. </v>
+<v n="3"> A gdy odchowala jedno ze swoich szczeniat, stalo sie mlodym lwem, ktory sie nauczyl chwytac lup; pozeral tez ludzi. </v>
+<v n="4"> Narody o nim uslyszaly, zostal schwytany w ich dol i zaprowadzony w lancuchach do ziemi Egiptu. </v>
+<v n="5"> Gdy lwica zobaczyla, ze daremnie czeka i ze jej nadzieja przepadla, wziela inne ze swoich szczeniat i uczynila je mlodym lwem; </v>
+<v n="6"> Chodzilo w srodku lwow i stalo sie mlodym lwem, ktory nauczyl sie chwytac lup; pozeral tez ludzi. </v>
+<v n="7"> Burzyl ich palace i pustoszyl ich miasta tak, ze ziemia i to, co ja napelnia, staly sie spustoszone od jego glosnego ryku. </v>
+<v n="8"> Wtedy zebraly sie przeciwko niemu narody z okolicznych krain i zarzucily na niego swoja siec. Zostal schwytany w ich dol. </v>
+<v n="9"> I wsadzily go do klatki w lancuchach, i przyprowadzily do krola Babilonu. Wprowadzily go do ciezkiego wiezienia, aby jego glos nie byl wiecej slyszany na gorach Izraela. </v>
+<v n="10"> Twoja matka byla jak winorosl w twojej krwi, zasadzona przy wodach. Byla plodna i galezista dzieki obfitosci wod. </v>
+<v n="11"> I miala potezne rozgi na berla dla panujacych, a jej wzrost gorowal nad gestymi galeziami tak, ze byla widoczna z powodu swej wysokosci dzieki mnostwu swoich galezi. </v>
+<v n="12"> Ale w gniewie zostala wyrwana i rzucona na ziemie, a wschodni wiatr wysuszyl jej owoc. Jej potezne rozgi zostaly zlamane i uschly, ogien je strawil. </v>
+<v n="13"> A teraz zostala zasadzona na pustyni, na ziemi suchej i spragnionej. </v>
+<v n="14"> Nadto ogien wyszedl z rozgi jej galezi i pochlonal jej owoc tak, ze nie ma na niej poteznej rozgi na berla dla panujacego. Jest to lament i bedzie to lamentem. </v>
+</c>

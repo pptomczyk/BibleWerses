@@ -1,0 +1,15 @@
+<v n="1"> Psalm Dawida. PAN jest moja swiatloscia i moim zbawieniem, kogoz bede sie bac? PAN jest moca mego zycia, kogoz mam sie lekac? </v>
+<v n="2"> Gdy zloczyncy, moi przeciwnicy i wrogowie, wystapili przeciwko mnie, aby pozrec moje cialo, potkneli sie i upadli. </v>
+<v n="3"> Chocby wojsko rozbilo naprzeciw mnie oboz, moje serce sie nie uleknie; chocby wojna wybuchla przeciw mnie, nawet wtedy bede ufal. </v>
+<v n="4"> O jedno prosze PANA i o to bede zabiegal: abym mieszkal w domu PANA po wszystkie dni mego zycia, abym ogladal piekno PANA i dowiadywal sie w jego swiatyni. </v>
+<v n="5"> Skryje mnie bowiem w dniu niedoli w swoim przybytku, schowa mnie w ukryciu swego namiotu i wyniesie mnie na skale. </v>
+<v n="6"> A teraz moja glowa bedzie wzniesiona nad moimi nieprzyjaciolmi, ktorzy mnie otaczaja; bede skladal w jego przybytku ofiary radosci, bede spiewal i oddawal PANU chwale. </v>
+<v n="7"> Uslysz, PANIE, moj glos, gdy wolam; zmiluj sie nade mna i wysluchaj mnie. </v>
+<v n="8"> Gdy mowiles: Szukajcie mojego oblicza, moje serce mowilo do ciebie: Twojego oblicza, PANIE, bede szukac. </v>
+<v n="9"> Nie ukrywaj przede mna twojego oblicza ani nie odtracaj w gniewie swego slugi; ty jestes moja pomoca, nie opuszczaj mnie i nie odchodz, Boze mego zbawienia. </v>
+<v n="10"> Chocby ojciec i matka opuscili mnie, to PAN mnie przygarnie. </v>
+<v n="11"> Naucz mnie, PANIE, twojej drogi i prowadz mnie sciezka prosta ze wzgledu na moich wrogow. </v>
+<v n="12"> Nie wydawaj mnie na pastwe moich nieprzyjaciol, bo powstali przeciwko mnie falszywi swiadkowie i ci, ktorzy dysza okrucienstwem. </v>
+<v n="13"> Zniechecilbym sie, gdybym nie wierzyl, ze bede ogladal dobroc PANA w ziemi zyjacych. </v>
+<v n="14"> Oczekuj PANA, badz dzielny, a on umocni twoje serce; oczekuj wiec PANA. </v>
+</c>

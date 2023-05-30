@@ -1,0 +1,9 @@
+<v n="1"> Psalm Asafa. Bog stoi w zgromadzeniu Bozym, posrod bogow sprawuje sad: </v>
+<v n="2"> Jak dlugo bedziecie sadzic niesprawiedliwie i trzymac strone niegodziwych? Sela. </v>
+<v n="3"> Bierzcie w obrone ubogiego i sierote, oddajcie sprawiedliwosc strapionemu i potrzebujacemu. </v>
+<v n="4"> Wyzwolcie biedaka i nedzarza, ocalcie go z reki niegodziwych. </v>
+<v n="5"> Lecz oni nic nie wiedza i nie rozumieja, ciagle chodza w ciemnosci; zachwialy sie wszystkie fundamenty ziemi. </v>
+<v n="6"> Powiedzialem: Jestescie bogami i wszyscy wy jestescie synami Najwyzszego. </v>
+<v n="7"> Lecz pomrzecie jak inni ludzie i upadniecie jak jeden z ksiazat. </v>
+<v n="8"> Powstan, Boze, osadz ziemie, bo ty otrzymasz w dziedzictwo wszystkie narody. </v>
+</c>

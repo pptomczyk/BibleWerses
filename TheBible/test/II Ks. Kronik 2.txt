@@ -1,0 +1,19 @@
+<v n="1"> Wtedy Salomon postanowil zbudowac dom dla imienia PANA oraz palac krolewski dla siebie. </v>
+<v n="2"> I odliczyl Salomon siedemdziesiat tysiecy mezczyzn do noszenia ciezarow i osiemdziesiat tysiecy mezczyzn do ciosania na gorze, a nad nimi – trzy tysiace szesciuset nadzorcow. </v>
+<v n="3"> Salomon poslal tez do Hurama, krola Tyru, wiadomosc: Jak postapiles z moim ojcem Dawidem, gdy przyslales mu drzewa cedrowego, aby zbudowal sobie dom na mieszkanie, tak postap ze mna. </v>
+<v n="4"> Oto chce budowac dom dla imienia PANA, swego Boga, aby mu go poswiecic i aby palic przed nim wonne kadzidlo, skladac nieustannie chleb pokladny oraz calopalenia poranne i wieczorne – w szabaty, w dni nowiu oraz w uroczyste swieta PANA, naszego Boga. To jest wieczny nakaz w Izraelu. </v>
+<v n="5"> A dom, ktory mam zbudowac, bedzie wielki, gdyz nasz Bog jest wiekszy od wszystkich bogow. </v>
+<v n="6"> Ktoz jednak zdola zbudowac mu dom, skoro niebiosa i niebiosa niebios nie moga go ogarnac? A kim jestem ja, zebym mial mu dom zbudowac? Chyba tylko do palenia przed nim kadzidla. </v>
+<v n="7"> Dlatego wiec przyslij mi teraz czlowieka uzdolnionego w obrobce zlota, srebra, brazu, zelaza, purpury, karmazynu i blekitu, i ktory umie rzezbic wraz z innymi rzemieslnikami bedacymi przy mnie w Judzie i Jerozolimie, wyznaczonymi przez mego ojca Dawida. </v>
+<v n="8"> Przyslij mi tez z Libanu drzewa cedrowego, cyprysowego i sandalowego, bo wiem, ze twoi sludzy umieja rabac drzewa w Libanie, a oto moi sludzy beda z twoimi slugami; </v>
+<v n="9"> Aby przygotowali mi jak najwiecej drzewa. Dom bowiem, ktory chce zbudowac, ma byc nad podziw wielki. </v>
+<v n="10"> A oto twoim slugom, robotnikom, ktorzy maja wycinac drzewo, dam dwadziescia tysiecy kor wymloconej pszenicy, dwadziescia tysiecy kor jeczmienia, dwadziescia tysiecy bat wina oraz dwadziescia tysiecy bat oliwy. </v>
+<v n="11"> Wtedy Huram, krol Tyru, odpowiedzial w pismie, ktore wyslal do Salomona: Poniewaz PAN umilowal swoj lud, ustanowil cie nad nim krolem. </v>
+<v n="12"> Huram mowil dalej: Blogoslawiony niech bedzie PAN, Bog Izraela, ktory uczynil niebo i ziemie, ktory dal krolowi Dawidowi syna madrego, zdolnego, rozumnego i roztropnego, aby zbudowal dom dla PANA oraz palac krolewski dla siebie. </v>
+<v n="13"> Posylam ci wiec czlowieka madrego, zdolnego i roztropnego: Hurama-Abiego; </v>
+<v n="14"> Syna kobiety sposrod corek Dana, ktorego ojcem byl mieszkaniec Tyru, a ktory umie pracowac przy zlocie, srebrze, brazie, zelazie, kamieniu, drewnie – z purpura, blekitem, bisiorem i karmazynem, ktory umie wykonywac wszelkie rzezby i obmyslac kazda powierzona mu prace, razem z twymi rzemieslnikami i rzemieslnikami mego pana Dawida, twojego ojca. </v>
+<v n="15"> Teraz wiec niech moj pan przysle swoim slugom pszenice, jeczmien, oliwe i wino, o ktorych mowil. </v>
+<v n="16"> A my nawycinamy drzew z Libanu, ile ci bedzie potrzeba, i sprowadzimy je morzem na tratwach do Jafy, a ty je kazesz sprowadzic do Jerozolimy. </v>
+<v n="17"> Wtedy Salomon obliczyl wszystkich cudzoziemcow, ktorzy byli w ziemi Izraela po tym spisie, ktorego dokonal jego ojciec Dawid, i znalazlo sie ich sto piecdziesiat trzy tysiace szesciuset. </v>
+<v n="18"> I przeznaczyl z nich siedemdziesiat tysiecy do dzwigania ciezarow, osiemdziesiat tysiecy do ciosania w gorach i trzy tysiace szesciuset nadzorcow nad robotami ludu. </v>
+</c>

@@ -1,0 +1,27 @@
+<v n="1"> Ty wiec, moj synu, wzmacniaj sie w lasce, ktora jest w Chrystusie Jezusie. </v>
+<v n="2"> A co slyszales ode mnie wobec wielu swiadkow, to powierz wiernym ludziom, ktorzy beda zdolni nauczac takze innych. </v>
+<v n="3"> Dlatego znos trudy jak dobry zolnierz Jezusa Chrystusa. </v>
+<v n="4"> Nikt, kto pelni sluzbe zolnierska, nie wikla sie w sprawy tego zycia, aby podobac sie temu, ktory go powolal na zolnierza. </v>
+<v n="5"> Rowniez jesli ktos staje do zapasow, nie otrzymuje korony, jezeli nie walczy prawidlowo. </v>
+<v n="6"> Rolnik, ktory pracuje, jako pierwszy powinien korzystac z plonow. </v>
+<v n="7"> Rozwaz, co mowie, a niech Pan ci da zrozumienie we wszystkim. </v>
+<v n="8"> Pamietaj, ze Jezus Chrystus, potomek Dawida, powstal z martwych wedlug mojej ewangelii; </v>
+<v n="9"> Dla ktorej znosze cierpienia jak zloczynca, az do wiezow, ale slowo Boze nie jest zwiazane. </v>
+<v n="10"> Dlatego wszystko znosze przez wzglad na wybranych, aby i oni dostapili zbawienia, ktore jest w Chrystusie Jezusie wraz z wieczna chwala. </v>
+<v n="11"> Wiarygodne to slowa. Jesli bowiem z nim umarlismy, z nim tez bedziemy zyc. </v>
+<v n="12"> Jesli cierpimy, z nim tez bedziemy krolowac, jesli sie go wyprzemy, i on sie nas wyprze. </v>
+<v n="13"> Jesli jestesmy niewierni, on pozostaje wierny, bo samego siebie wyprzec sie nie moze. </v>
+<v n="14"> To wszystko przypominaj, zaklinajac ich przed Panem, aby sie nie wdawali w spory o slowa, bo to niczemu nie sluzy, tylko prowadzi do zguby sluchaczy. </v>
+<v n="15"> Staraj sie, abys stanal przed Bogiem jako wyprobowany pracownik, ktory nie ma sie czego wstydzic i ktory dobrze rozklada slowo prawdy. </v>
+<v n="16"> Unikaj zas pospolitej, czczej gadaniny, bo prowadzi ona do coraz wiekszej bezboznosci. </v>
+<v n="17"> A ich mowa szerzy sie jak gangrena. Do nich naleza Hymenajos i Filetos; </v>
+<v n="18"> Ktorzy pobladzili w sprawie prawdy, mowiac, ze zmartwychwstanie juz nastapilo, i wywracaja wiare niektorych. </v>
+<v n="19"> Mimo to fundament Bozy stoi niewzruszony, majac taka pieczec: Zna Pan tych, ktorzy naleza do niego, oraz: Niech odstapi od nieprawosci kazdy, kto wzywa imienia Chrystusa. </v>
+<v n="20"> W wielkim zas domu znajduja sie nie tylko naczynia zlote i srebrne, lecz takze drewniane i gliniane, niektore do uzytku zaszczytnego, a inne do niezaszczytnego. </v>
+<v n="21"> Jesli wiec ktos oczysci samego siebie z tego wszystkiego, bedzie naczyniem do uzytku zaszczytnego, uswieconym i uzytecznym dla Pana, przygotowanym do kazdego dobrego czynu. </v>
+<v n="22"> Uciekaj tez od mlodzienczych pozadliwosci, a zabiegaj o sprawiedliwosc, wiare, milosc, pokoj wraz z tymi, ktorzy wzywaja Pana z czystego serca. </v>
+<v n="23"> Unikaj zas glupich i niedouczonych rozmow, wiedzac, ze rodza klotnie. </v>
+<v n="24"> A sluga Pana nie powinien wdawac sie w klotnie, lecz ma byc uprzejmy wzgledem wszystkich, zdolny do nauczania, cierpliwie znoszacy zlych; </v>
+<v n="25"> Lagodnie nauczajacy tych, ktorzy sie sprzeciwiaja; moze kiedys Bog da im pokute, aby uznali prawde; </v>
+<v n="26"> Oprzytomnieli i wyrwali sie z sidel diabla, przez ktorego zostali schwytani do pelnienia jego woli. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> A Nadab i Abihu, synowie Aarona, wzieli kazdy swoja kadzielnice, wlozyli do nich ogien, nalozyli na nie kadzidla i ofiarowali przed PANEM obcy ogien, ktorego im nie nakazal. </v>
+<v n="2"> Wtedy wyszedl ogien sprzed PANA i pochlonal ich, i pomarli przed PANEM. </v>
+<v n="3"> Wowczas Mojzesz powiedzial do Aarona: Oto co PAN powiedzial: W tych, ktorzy zblizaja sie do mnie, bede uswiecony i bede uwielbiony przed calym ludem. I Aaron zamilkl. </v>
+<v n="4"> Mojzesz wezwal Miszaela i Elsafana, synow Uzziela, stryja Aarona, i powiedzial do nich: Zblizcie sie i wyniescie waszych braci sprzed swiatyni poza oboz. </v>
+<v n="5"> Podeszli wiec i wyniesli ich w ich tunikach poza oboz, jak Mojzesz nakazal. </v>
+<v n="6"> Potem Mojzesz powiedzial do Aarona i jego synow, Eleazara i Itamara: Nie obnazajcie swoich glow ani nie rozdzierajcie swoich szat, abyscie nie pomarli i aby Bog nie rozgniewal sie na cale zgromadzenie. Lecz wasi bracia, caly dom Izraela, niech oplakuja ten pozar, ktory PAN rozpalil. </v>
+<v n="7"> Nie odchodzcie od wejscia do Namiotu Zgromadzenia, abyscie nie pomarli, poniewaz oliwa namaszczenia PANA jest na was. I postapili wedlug slowa Mojzesza. </v>
+<v n="8"> Nastepnie PAN powiedzial do Aarona: </v>
+<v n="9"> Nie pij wina ani mocnego napoju, ani ty, ani twoi synowie z toba, gdy bedziecie wchodzic do Namiotu Zgromadzenia, abyscie nie pomarli. To bedzie ustawa wieczna dla wszystkich waszych pokolen; </v>
+<v n="10"> Abyscie mogli rozrozniac miedzy tym, co swiete, a tym, co pospolite, miedzy tym, co nieczyste, a tym, co czyste; </v>
+<v n="11"> I abyscie nauczali synow Izraela wszystkich ustaw, ktore PAN nakazal im przez Mojzesza. </v>
+<v n="12"> I Mojzesz powiedzial do Aarona oraz jego pozostalych synow, Eleazara i Itamara: Wezcie ofiare pokarmowa, ktora pozostala z ofiar ogniowych PANA, i jedzcie ja bez zakwasu przy oltarzu. Jest to bowiem rzecz najswietsza. </v>
+<v n="13"> Bedziecie ja spozywac w miejscu swietym, bo jest to czesc nalezna tobie i twoim synom z ofiar ogniowych PANA. Tak mi bowiem rozkazano. </v>
+<v n="14"> Takze mostek kolysania i lopatke wzniesienia bedziecie spozywac w miejscu czystym, ty, twoi synowie i twoje corki z toba. To bowiem nalezy sie tobie, a takze twoim synom, dane wam z ofiar pojednawczych synow Izraela. </v>
+<v n="15"> Przyniosa lopatke wzniesienia i mostek kolysania wraz z tluszczem z ofiar ogniowych, aby kolysac je przed PANEM; a bedzie to dla ciebie i twoich synow z toba na mocy ustawy wiecznej, tak jak PAN rozkazal. </v>
+<v n="16"> Potem Mojzesz pilnie szukal kozla na ofiare za grzech, ale okazalo sie, ze zostal on juz spalony. I rozgniewal sie na synow Aarona, Eleazara i Itamara, ktorzy mu pozostali, i mowil: </v>
+<v n="17"> Dlaczego nie zjedliscie ofiary za grzech w miejscu swietym? Przeciez jest ona rzecza najswietsza, ktora dano wam, abyscie nosili nieprawosc calego ludu, abyscie dokonali za niego przeblagania przed PANEM. </v>
+<v n="18"> Oto jej krwi nie wniesiono do wnetrza miejsca swietego. Powinniscie byli ja jesc na miejscu swietym, jak nakazalem. </v>
+<v n="19"> Wtedy Aaron odpowiedzial Mojzeszowi: Oto dzis zlozyli swoja ofiare za grzech i swoja ofiare calopalna przed PANEM, a taka rzecz mnie spotkala. Gdybym dzis spozyl ofiare za grzech, czy to by sie spodobalo PANU? </v>
+<v n="20"> Gdy Mojzesz to uslyszal, uznal to za sluszne. </v>
+</c>

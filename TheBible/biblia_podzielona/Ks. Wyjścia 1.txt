@@ -1,0 +1,23 @@
+<v n="1"> Oto imiona synów Izraela, którzy przybyli z Jakubem do Egiptu; ka¿dy przyby³ ze swoj¹ rodzin¹: </v>
+<v n="2"> Ruben, Symeon, Lewi i Juda; </v>
+<v n="3"> Issachar, Zebulon i Beniamin; </v>
+<v n="4"> Dan, Neftali, Gad i Aszer. </v>
+<v n="5"> A wszystkich dusz, które wysz³y z bioder Jakuba, by³o siedemdziesi¹t. Józef zaœ ju¿ by³ w Egipcie. </v>
+<v n="6"> Potem umarli Józef, wszyscy jego bracia i ca³e to pokolenie. </v>
+<v n="7"> A synowie Izraela byli p³odni, rozrodzili siê, rozmno¿yli i bardzo umacniali, a ziemia by³a ich pe³na. </v>
+<v n="8"> Wówczas nasta³ nad Egiptem nowy król, który nie zna³ Józefa. </v>
+<v n="9"> I powiedzia³ do swego ludu: Oto lud synów Izraela sta³ siê liczniejszy i potê¿niejszy od nas. </v>
+<v n="10"> Post¹pmy wiêc z nimi m¹drze, by siê nie rozmno¿yli, bo gdyby przysz³a wojna, mogliby przy³¹czyæ siê do naszych wrogów i walczyæ przeciwko nam, i opuœciæ ziemiê. </v>
+<v n="11"> Ustanowiono wiêc nad nimi nadzorców, aby ich gnêbili ciê¿arami. I lud Izraela zbudowa³ dla faraona miasta na sk³ady: Pitom i Ramzes. </v>
+<v n="12"> Ale im bardziej ich gnêbili, tym bardziej siê rozmna¿ali i roœli, tak ¿e zatrwo¿yli siê z powodu synów Izraela. </v>
+<v n="13"> I Egipcjanie zmuszali synów Izraela do ciê¿kiej pracy. </v>
+<v n="14"> I uprzykrzali im ¿ycie uci¹¿liw¹ prac¹ przy glinie i przy ceg³ach, i przy ka¿dej robocie na polu. Do wszelkiej pracy zmuszali ich bez litoœci. </v>
+<v n="15"> I król Egiptu rozkaza³ hebrajskim po³o¿nym, z których jedna mia³a na imiê Szifra, a druga Pua; </v>
+<v n="16"> Powiedzia³: Gdy bêdziecie przy porodach hebrajskich kobiet i zobaczycie, ¿e urodzi³ siê syn, zabijcie go, a jeœli córka, niech zostanie przy ¿yciu. </v>
+<v n="17"> Lecz po³o¿ne ba³y siê Boga i nie robi³y tak, jak im rozkaza³ król Egiptu, ale pozostawia³y ch³opców przy ¿yciu. </v>
+<v n="18"> Wtedy król Egiptu wezwa³ po³o¿ne i powiedzia³ do nich: Dlaczego tak post¹pi³yœcie, ¿e pozostawi³yœcie ch³opców przy ¿yciu? </v>
+<v n="19"> Po³o¿ne odpowiedzia³y faraonowi: Hebrajskie kobiety nie s¹ takie jak egipskie kobiety. S¹ bowiem ¿ywotne, rodz¹ wczeœniej, zanim przyjdzie do nich po³o¿na. </v>
+<v n="20"> I Bóg dobrze czyni³ tym po³o¿nym, a lud siê mno¿y³ i bardzo siê wzmocni³. </v>
+<v n="21"> A poniewa¿ po³o¿ne ba³y siê Boga, zbudowa³ im domy. </v>
+<v n="22"> Wtedy faraon rozkaza³ ca³emu swemu ludowi: Ka¿dego syna, który siê urodzi, wrzuæcie do rzeki, a ka¿d¹ córkê pozostawcie przy ¿yciu. </v>
+</c>

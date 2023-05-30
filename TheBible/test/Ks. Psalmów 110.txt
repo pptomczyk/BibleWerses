@@ -1,0 +1,8 @@
+<v n="1"> Psalm Dawida. Powiedzial PAN do mego Pana: Usiadz po mojej prawicy, az poloze twoich wrogow jako podnozek pod twoje stopy. </v>
+<v n="2"> Laske twojej mocy posle PAN z Syjonu, mowiac: Panuj posrod twoich wrogow. </v>
+<v n="3"> Twoj lud bedzie ochoczy w dniu twej potegi, w ozdobie swietosci i z lona jutrzenki; twoja jest rosa mlodosci. </v>
+<v n="4"> PAN przysiagl i nie bedzie zalowal: Ty jestes kaplanem na wieki wedlug porzadku Melchizedeka. </v>
+<v n="5"> Pan po twojej prawicy zetrze krolow w dniu swego gniewu. </v>
+<v n="6"> Bedzie sadzil narody i trupami napelni wszystko; roztrzaska glowy panujace nad wieloma ziemiami. </v>
+<v n="7"> Ze strumienia bedzie pil po drodze, dlatego podniesie glowe. </v>
+</c>

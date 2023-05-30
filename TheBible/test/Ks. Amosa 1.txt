@@ -1,0 +1,16 @@
+<v n="1"> Slowa Amosa, ktory byl jednym sposrod pasterzy z Tekoa, ktore widzial o Izraelu za dni Uzjasza, krola Judy, i za dni Jeroboama, syna Joasza, krola Izraela, dwa lata przed trzesieniem ziemi. </v>
+<v n="2"> I powiedzial: PAN zagrzmi z Syjonu, z Jerozolimy wyda swoj glos; mieszkania pasterzy beda lamentowac, a wyschnie szczyt Karmelu. </v>
+<v n="3"> Tak mowi PAN: Z powodu trzech wystepkow Damaszku i z powodu czterech nie przepuszcze mu, poniewaz mlocili Gilead narzedziami z zelaza. </v>
+<v n="4"> Ale zesle ogien na dom Chazaela, ktory strawi palace Ben-Hadada. </v>
+<v n="5"> Polamie tez rygiel Damaszku i wykorzenie mieszkanca z doliny Awen i tego, ktory trzyma berlo z domu Eden. I lud Syrii pojdzie do niewoli do Kir, mowi PAN. </v>
+<v n="6"> Tak mowi PAN: Z powodu trzech wystepkow Gazy i z powodu czterech nie przepuszcze im, poniewaz uprowadzili wszystkich jencow, aby ich wydac Edomowi. </v>
+<v n="7"> Ale zesle ogien na mur Gazy, ktory strawi jej palace. </v>
+<v n="8"> Wykorzenie tez mieszkanca z Aszdodu i tego, ktory trzyma berlo z Aszkelonu, i zwroce swoja reke przeciwko Ekronowi, i zginie resztka Filistynow, mowi Pan BOG. </v>
+<v n="9"> Tak mowi PAN: Z powodu trzech wystepkow Tyru i z powodu czterech nie przepuszcze mu, poniewaz wydali wszystkich jencow Edomowi, a nie pamietali o braterskim przymierzu; </v>
+<v n="10"> Ale zesle ogien na mur Tyru, ktory strawi jego palace. </v>
+<v n="11"> Tak mowi PAN: Z powodu trzech wystepkow Edomu i z powodu czterech nie przepuszcze mu, poniewaz przesladowal mieczem swego brata, tlumiac w sobie wszelaka litosc, a nieustannie palal gniewem, swoja zapalczywosc chowal na zawsze. </v>
+<v n="12"> Ale zesle ogien na Teman i strawi palace Bosry. </v>
+<v n="13"> Tak mowi PAN: Z powodu trzech wystepkow synow Ammona i z powodu czterech nie przepuszcze im, poniewaz rozcinali brzemienne w Gileadzie tylko po to, by rozszerzyc swoje granice. </v>
+<v n="14"> Ale rozniece ogien na murze Rabby, ktory strawi jego palace wsrod krzyku w dzien bitwy, podczas wichru w dzien burzy. </v>
+<v n="15"> I pojdzie ich krol do niewoli, on i jego ksiazeta razem z nim, mowi PAN. </v>
+</c>

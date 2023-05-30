@@ -1,0 +1,20 @@
+<v n="1"> Miluje PANA, bo uslyszal moj glos i moje prosby. </v>
+<v n="2"> Naklonil bowiem swego ucha ku mnie, dlatego bede go wzywal za moich dni. </v>
+<v n="3"> Otoczyly mnie bolesci smierci, utrapienia piekla przeniknely mnie; przyszly na mnie ucisk i bolesc. </v>
+<v n="4"> Wtedy wezwalem imienia PANA, mowiac: PANIE, prosze, wybaw moja dusze. </v>
+<v n="5"> Laskawy jest PAN i sprawiedliwy, nasz Bog jest milosierny. </v>
+<v n="6"> PAN strzeze ludzi prostych; bylem ucisniony, a wybawil mnie. </v>
+<v n="7"> Powroc, moja duszo, do swego odpoczynku, bo PAN dobrze ci uczynil. </v>
+<v n="8"> Wybawil bowiem moja dusze od smierci, oczy moje od placzu, moja noge od upadku. </v>
+<v n="9"> Bede chodzil przed obliczem PANA w ziemi zyjacych. </v>
+<v n="10"> Uwierzylem i dlatego przemowilem; bylem bardzo strapiony. </v>
+<v n="11"> Powiedzialem w zatrwozeniu: Kazdy czlowiek to klamca. </v>
+<v n="12"> Coz oddam PANU za wszystkie jego dobrodziejstwa, ktore mi wyswiadczyl? </v>
+<v n="13"> Wezme kielich zbawienia i bede wzywac imienia PANA. </v>
+<v n="14"> Moje sluby zlozone PANU wypelnie teraz przed calym jego ludem. </v>
+<v n="15"> Cenna jest w oczach PANA smierc jego swietych. </v>
+<v n="16"> O PANIE, jestem twoim sluga; jestem twoim sluga i synem twojej sluzacej; rozerwales moje wiezy. </v>
+<v n="17"> Tobie zloze ofiare chwaly i bede wzywac imienia PANA. </v>
+<v n="18"> Moje sluby zlozone PANU wypelnie teraz przed calym jego ludem; </v>
+<v n="19"> W dziedzincach domu PANA, posrodku ciebie, Jeruzalem! Alleluja. </v>
+</c>

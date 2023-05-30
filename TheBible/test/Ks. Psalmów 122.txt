@@ -1,0 +1,10 @@
+<v n="1"> Piesn stopni Dawida. Uradowalem sie, gdy mi powiedziano: Pojdziemy do domu PANA. </v>
+<v n="2"> Nasze nogi stanely w twoich bramach, o Jeruzalem! </v>
+<v n="3"> Jeruzalem, pieknie budowane jak miasto, w jedna calosc zespolone; </v>
+<v n="4"> Bo tam wstepuja pokolenia, pokolenia PANA, do swiadectwa Izraela, aby wyslawiac imie PANA. </v>
+<v n="5"> Tam bowiem sa postawione trony sadu, trony domu Dawida. </v>
+<v n="6"> Proscie o pokoj dla Jeruzalem: Niech sie szczesci tym, ktorzy cie miluja. </v>
+<v n="7"> Niech bedzie pokoj w twoich murach i spokoj w twoich palacach. </v>
+<v n="8"> Ze wzgledu na moich braci i dla moich przyjaciol bede teraz ci zyczyl pokoju. </v>
+<v n="9"> Ze wzgledu na dom PANA, naszego Boga, bede zabiegal o twoje dobro. </v>
+</c>

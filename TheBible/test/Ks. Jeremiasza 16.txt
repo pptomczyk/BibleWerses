@@ -1,0 +1,22 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Nie pojmiesz sobie zony ani nie bedziesz mial synow i corek na tym miejscu. </v>
+<v n="3"> Tak bowiem mowi PAN o synach i corkach urodzonych na tym miejscu, o ich matkach, ktore ich urodza, i o ich ojcach, ktorzy ich splodza w tej ziemi: </v>
+<v n="4"> Pomra od ciezkich smiertelnych chorob; nie beda oplakiwani ani pogrzebani, lecz stana sie nawozem na powierzchni ziemi. Wygina od miecza i glodu, a ich trupy beda pokarmem dla ptactwa nieba i zwierzat ziemi. </v>
+<v n="5"> Tak bowiem mowi PAN: Nie wchodz do domu zaloby i nie chodz oplakiwac ani zalowac ich, bo odjalem moj pokoj od tego ludu, milosierdzie i litosc, mowi PAN. </v>
+<v n="6"> Pomra wielcy i mali w tej ziemi. Nie beda pogrzebani ani oplakiwani, nikt nie bedzie dla nich sie nacinal ani robil sobie lysiny; </v>
+<v n="7"> Nikt nie bedzie lamac chleba z tymi, ktorzy sa w zalobie, aby ich pocieszyc po zmarlym, ani nie dadza im pic z kubka pocieszenia za ich ojca lub matke. </v>
+<v n="8"> Nie wchodz do domu uczty, by zasiasc z nimi do jedzenia i picia. </v>
+<v n="9"> Tak bowiem mowi PAN zastepow, Bog Izraela: Oto sprawie, ze na waszych oczach i za waszych dni ustanie na tym miejscu glos wesela i glos radosci, glos oblubienca i glos oblubienicy. </v>
+<v n="10"> A gdy oglosisz temu ludowi wszystkie te slowa, a zapytaja cie: Czemu PAN zapowiedzial przeciwko nam cale to wielkie nieszczescie? I jaka jest nasza nieprawosc, i jaki nasz grzech, ktory popelnilismy przeciwko PANU, naszemu Bogu? </v>
+<v n="11"> Wtedy powiesz im: Dlatego, ze wasi ojcowie opuscili mnie, mowi PAN, i poszli za innymi bogami, sluzyli im i oddawali im poklon, mnie zas opuscili i nie przestrzegali mojego prawa. </v>
+<v n="12"> A wy czyniliscie jeszcze gorzej niz wasi ojcowie, bo oto kazdy z was postepuje wedlug uporu swego zlego serca, nie sluchajac mnie; </v>
+<v n="13"> Dlatego wyrzuce was z tej ziemi do ziemi, ktorej nie znaliscie, ani wy, ani wasi ojcowie, i tam bedziecie sluzyc innym bogom dniem i noca, gdzie nie okaze wam milosierdzia. </v>
+<v n="14"> Dlatego oto nadchodza dni, mowi PAN, ze juz nie beda mowic: Jak zyje PAN, ktory wyprowadzil synow Izraela z ziemi Egiptu; </v>
+<v n="15"> Ale: Jak zyje PAN, ktory wyprowadzil synow Izraela z ziemi polnocnej i ze wszystkich ziem, do ktorych ich wygnal. I sprowadze ich znowu do ich ziemi, ktora dalem ich ojcom. </v>
+<v n="16"> Oto posle po wielu rybakow, mowi PAN, i ci ich wylowia; potem posle po wielu mysliwych, i ci ich upoluja na kazdej gorze i na kazdym pagorku, i w rozpadlinach skalnych. </v>
+<v n="17"> Moje oczy bowiem patrza na wszystkie ich drogi. Nie sa ukryte przed moim obliczem ani ich nieprawosc nie jest zakryta przed moimi oczami. </v>
+<v n="18"> Najpierw odplace im podwojnie za ich nieprawosci i za ich grzechy, za to, ze zbezczescili moja ziemie trupami swoich obrzydliwosci i napelnili moje dziedzictwo swoimi ohydami. </v>
+<v n="19"> PANIE, moja mocy i silo, moja ucieczko w dniu utrapienia! Do ciebie przyjda poganie od krancow ziemi i powiedza: Zaprawde, nasi ojcowie odziedziczyli klamstwa i marnosci, w ktorych nie bylo zadnego pozytku. </v>
+<v n="20"> Czy czlowiek moze uczynic sobie bogow? Przeciez to nie sa bogowie. </v>
+<v n="21"> Dlatego oto ja sprawie, ze poznaja tym razem; sprawie, ze poznaja moja reke i moc, i dowiedza sie, ze moje imie to PAN. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> I kiedy PAN mial uniesc Eliasza wsrod wichru do nieba, Eliasz wyruszyl z Elizeuszem z Gilgal. </v>
+<v n="2"> I Eliasz powiedzial do Elizeusza: Prosze, zostan tu, bo PAN posyla mnie do Betel. Elizeusz odpowiedzial: Jak zyje PAN i jak zyje twoja dusza, nie opuszcze cie. Przyszli wiec do Betel. </v>
+<v n="3"> Wtedy synowie prorokow, ktorzy byli w Betel, wyszli do Elizeusza i zapytali go: Czy wiesz, ze PAN dzisiaj zabierze twego pana znad twojej glowy? Odpowiedzial: Wiem, lecz milczcie. </v>
+<v n="4"> A Eliasz ponownie powiedzial mu: Elizeuszu, prosze, zostan tu, bo PAN posyla mnie do Jerycha. Odpowiedzial: Jak zyje PAN i jak zyje twoja dusza, nie opuszcze cie. Przyszli wiec do Jerycha. </v>
+<v n="5"> Wtedy synowie prorokow, ktorzy byli w Jerychu, zapytali Elizeusza: Czy wiesz, ze PAN dzisiaj zabierze twego pana znad twojej glowy? Odpowiedzial: Tak, wiem, lecz milczcie. </v>
+<v n="6"> Eliasz znowu powiedzial mu: Prosze, zostan tu, bo PAN posyla mnie do Jordanu. Odpowiedzial: Jak zyje PAN i jak zyje twoja dusza, nie opuszcze cie. Szli wiec dalej obydwaj. </v>
+<v n="7"> A piecdziesieciu mezow sposrod synow prorokow poszlo i stanelo naprzeciwko nich z daleka. Oni zas obaj staneli nad Jordanem. </v>
+<v n="8"> Wtedy Eliasz wzial swoj plaszcz, zwinal go i uderzyl nim wody, a one rozdzielily sie w obydwie strony, tak ze przeszli obaj po suchej ziemi. </v>
+<v n="9"> A gdy przeszli, Eliasz powiedzial do Elizeusza: Pros o to, co mam dla ciebie uczynic, zanim bede od ciebie zabrany. Elizeusz odpowiedzial: Prosze, niech spocznie na mnie podwojna czesc twojego ducha; </v>
+<v n="10"> On zas powiedzial: Poprosiles o trudna rzecz. Jesli mnie zobaczysz, gdy bede zabierany od ciebie, tak ci sie stanie. Lecz jesli nie, to sie nie stanie. </v>
+<v n="11"> Kiedy wiec szli i rozmawiali, oto ognisty rydwan i ogniste konie oddzielily ich obu. I Eliasz wstapil wsrod wichru do nieba. </v>
+<v n="12"> Elizeusz zas zobaczyl to i zawolal: Moj ojcze, moj ojcze! Rydwanie Izraela i jego jezdzcze. I nie zobaczyl go juz wiecej. Chwycil swoje szaty i rozdarl je na dwie czesci. </v>
+<v n="13"> Potem podniosl plaszcz Eliasza, ktory spadl z niego, zawrocil i stanal nad brzegiem Jordanu; </v>
+<v n="14"> I wzial plaszcz Eliasza, ktory spadl z niego, uderzyl nim wody i powiedzial: Gdzie jest PAN, Bog Eliasza? Rowniez gdy on uderzyl nim wody, rozdzielily sie na dwie strony. I Elizeusz przeszedl. </v>
+<v n="15"> A gdy synowie prorokow, ktorzy byli w Jerychu, zobaczyli go z naprzeciwka, powiedzieli: Duch Eliasza spoczal na Elizeuszu. Wyruszyli mu wiec naprzeciw i poklonili mu sie az do ziemi. </v>
+<v n="16"> I powiedzieli do niego: Oto teraz wsrod twoich slug jest piecdziesieciu dzielnych mezczyzn. Prosze, niech ida i niech szukaja twego pana; moze Duch PANA uniosl go i spuscil na jakas gore albo w jakas doline. Lecz on powiedzial: Nie posylajcie. </v>
+<v n="17"> A gdy tak nalegali, az do uprzykrzenia, powiedzial: Poslijcie. Poslali wiec tych piecdziesieciu mezczyzn, ktorzy szukali przez trzy dni, lecz nie znalezli go. </v>
+<v n="18"> A gdy wrocili do niego – bo przebywal w Jerychu – powiedzial do nich: Czyz nie mowilem wam: Nie idzcie? </v>
+<v n="19"> Potem ludzie tego miasta powiedzieli do Elizeusza: Oto polozenie tego miasta jest dobre – jak ty, moj panie, widzisz. Lecz woda jest niedobra i ziemia nieurodzajna. </v>
+<v n="20"> Wtedy powiedzial: Przyniescie mi nowy dzbanek i wlozcie do niego soli. I przyniesli mu. </v>
+<v n="21"> Wowczas poszedl do zrodla wod, wrzucil do niego sol i powiedzial: Tak mowi PAN: Uzdrowilem te wody, juz nie wyjdzie stad ani smierc, ani nieurodzaj. </v>
+<v n="22"> Wody wiec zostaly uzdrowione i sa takie az do dzis, wedlug slowa Elizeusza, ktore wypowiedzial. </v>
+<v n="23"> Potem wyruszyl stamtad do Betel. A gdy podazal droga, male dzieci wyszly z miasta i nasmiewaly sie z niego, mowiac mu: Wstap lysy, wstap lysy! </v>
+<v n="24"> On zas odwrocil sie, spojrzal na nie i przeklal je w imieniu PANA. Wtedy dwie niedzwiedzice wyszly z lasu i rozszarpaly czterdziescioro dwoje dzieci sposrod nich. </v>
+<v n="25"> Stamtad poszedl na gore Karmel, skad wrocil do Samarii. </v>
+</c>

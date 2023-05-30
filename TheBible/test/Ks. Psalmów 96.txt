@@ -1,0 +1,14 @@
+<v n="1"> Spiewajcie PANU nowa piesn, spiewaj PANU, cala ziemio! </v>
+<v n="2"> Spiewajcie PANU, blogoslawcie jego imie, opowiadajcie o jego zbawieniu dzien po dniu. </v>
+<v n="3"> Gloscie wsrod narodow jego chwale, wsrod wszystkich ludow jego cuda. </v>
+<v n="4"> Wielki bowiem jest PAN i godny wszelkiej chwaly, straszliwszy nad wszystkich bogow. </v>
+<v n="5"> Gdyz wszyscy bogowie narodow sa bozkami, a PAN uczynil niebiosa. </v>
+<v n="6"> Czesc i majestat przed jego obliczem, moc i piekno w jego swiatyni. </v>
+<v n="7"> Oddajcie PANU, rodziny narodow, oddajcie PANU chwale i moc. </v>
+<v n="8"> Oddajcie PANU chwale jego imienia, przyniescie dary i wejdzcie do jego przedsionkow. </v>
+<v n="9"> Oddajcie PANU poklon w ozdobie swietosci, niech cala ziemia drzy przed nim. </v>
+<v n="10"> Mowcie wsrod pogan: PAN kroluje; swiat bedzie utwierdzony, aby sie nie poruszyl, i on bedzie sadzil ludzi sprawiedliwie. </v>
+<v n="11"> Niech sie wesela niebiosa i niech raduje sie ziemia; niech zaszumi morze i to, co w nim jest. </v>
+<v n="12"> Niech raduja sie pola i wszystko, co jest na nich, wtedy radosnie wykrzykna wszystkie drzewa lesne; </v>
+<v n="13"> Przed obliczem PANA, bo idzie, zaprawde idzie, aby sadzic ziemie. Bedzie sadzil swiat w sprawiedliwosci, a narody w swojej prawdzie. </v>
+</c>

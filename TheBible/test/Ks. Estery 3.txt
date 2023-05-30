@@ -1,0 +1,16 @@
+<v n="1"> Po tych wydarzeniach krol Aswerus uczynil wielkim Hamana, syna Hammedaty, Agagite, wywyzszyl go i umiescil jego tron ponad wszystkimi ksiazetami, ktorzy byli przy nim. </v>
+<v n="2"> A wszyscy sludzy krola, ktorzy stali w bramie krolewskiej, klekali przed Hamanem i oddawali mu poklon. Tak bowiem rozkazal co do niego krol. Ale Mardocheusz nie klekal przed nim ani nie oddawal mu poklonu. </v>
+<v n="3"> Dlatego tez sludzy krola, ktorzy stali w bramie krolewskiej, pytali Mardocheusza: Czemu przekraczasz rozkaz krola? </v>
+<v n="4"> A gdy tak do niego dzien po dniu mowili, a on ich nie sluchal, doniesli o tym Hamanowi, aby sie przekonac, czy Mardocheusz bedzie obstawal przy swoim. Powiedzial im bowiem, ze jest Zydem. </v>
+<v n="5"> A gdy Haman zobaczyl, ze Mardocheusz nie kleka ani nie oddaje mu poklonu, Haman napelnil sie gniewem. </v>
+<v n="6"> Uwazal to za rzecz zbyt lagodna podniesc reke na samego Mardocheusza, poniewaz doniesiono mu, z jakiego ludu pochodzi Mardocheusz. Szukal wiec Haman sposobnosci, aby wytracic wszystkich Zydow, ktorzy byli w calym krolestwie Aswerusa, to jest lud Mardocheusza. </v>
+<v n="7"> Tak wiec w pierwszym miesiacu, w miesiacu Nisan, w dwunastym roku krola Aswerusa, rzucano przed Hamanem Pur, czyli los, od dnia do dnia i od miesiaca do miesiaca, az do dwunastego miesiaca, to jest miesiaca Adar. </v>
+<v n="8"> Potem Haman powiedzial do krola Aswerusa: Jest pewien lud rozproszony i rozsypany pomiedzy ludami we wszystkich prowincjach twego krolestwa. Jego prawa sa inne od praw wszystkich ludow, a praw krola nie przestrzega. Dlatego wiec nie jest korzystne dla krola tak go pozostawic. </v>
+<v n="9"> Jesli krol uzna to za sluszne, niech zostanie zapisane, ze ten lud ma byc wytracony. A ja odwaze dziesiec tysiecy talentow srebra do rak przelozonych nad ta praca, aby je wniesli do skarbca krolewskiego. </v>
+<v n="10"> Wtedy krol zdjal pierscien ze swojej reki i dal go Hamanowi Agagicie, synowi Hammedaty, wrogowi Zydow. </v>
+<v n="11"> Krol powiedzial do Hamana: Przekazuje ci to srebro i ten lud, abys uczynil z nim, co ci sie podoba. </v>
+<v n="12"> Wezwano wiec pisarzy krola w pierwszym miesiacu, dnia trzynastego tego miesiaca, i napisano wszystko tak, jak Haman rozkazal, do satrapow krolewskich, do namiestnikow z kazdej prowincji i do dowodcow kazdego ludu z kazdej prowincji wedlug jej pisma i do kazdego narodu wedlug jego jezyka. Listy napisano w imieniu krola Aswerusa i opieczetowano je sygnetem krola. </v>
+<v n="13"> Potem rozeslano je przez goncow do wszystkich prowincji krolewskich, aby zgladzono, wymordowano i wytracono wszystkich Zydow, od mlodego do starca, dzieci i kobiety, w jeden dzien, mianowicie trzynastego dnia dwunastego miesiaca, miesiaca Adar, a ich mienie zagrabiono. </v>
+<v n="14"> A odpis tego pisma mial byc podany we wszystkich prowincjach, ogloszony wszystkim ludom, aby byly gotowe na ten dzien. </v>
+<v n="15"> Goncy wiec wyruszyli przynaglani rozkazem krola, a dekret ogloszono takze w palacu Suza. A krol i Haman zasiedli, aby pic, lecz miasto Suza bylo zatrwozone. </v>
+</c>

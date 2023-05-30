@@ -1,0 +1,23 @@
+<v n="1"> Gdy ludzie zaczêli siê mno¿yæ na ziemi i rodzi³y im siê córki; </v>
+<v n="2"> Synowie Bo¿y, widz¹c, ¿e córki ludzkie by³y piêkne, brali sobie za ¿ony wszystkie, które sobie upodobali. </v>
+<v n="3"> I powiedzia³ PAN: Mój duch nie bêdzie na zawsze siê spiera³ z cz³owiekiem, bo jest on cia³em. Bêdzie wiêc jego dni sto dwadzieœcia lat. </v>
+<v n="4"> A w tych dniach byli na ziemi olbrzymi; nawet i potem, gdy synowie Bo¿y zbli¿ali siê do córek ludzkich, a one rodzi³y im synów. To s¹ mocarze, którzy od dawna byli s³awnymi mê¿czyznami. </v>
+<v n="5"> A gdy PAN widzia³, ¿e wielka jest niegodziwoœæ ludzi na ziemi i wszystkie zamys³y i myœli ich serca by³y tylko z³e po wszystkie dni; </v>
+<v n="6"> ¯a³owa³ PAN, ¿e uczyni³ cz³owieka na ziemi, i ubolewa³ nad tym ca³ym sercem. </v>
+<v n="7"> I PAN powiedzia³: Zg³adzê z powierzchni ziemi cz³owieka, którego stworzy³em, zarówno cz³owieka, jak i byd³o, zwierzêta pe³zaj¹ce i ptactwo niebieskie, bo ¿a³ujê, ¿e ich uczyni³em. </v>
+<v n="8"> Ale Noe znalaz³ ³askê w oczach PANA. </v>
+<v n="9"> To s¹ dzieje rodu Noego: Noe by³ cz³owiekiem sprawiedliwym i doskona³ym w swoich czasach. I Noe chodzi³ z Bogiem. </v>
+<v n="10"> A Noe sp³odzi³ trzech synów: Sema, Chama i Jafeta. </v>
+<v n="11"> Ale ziemia zepsu³a siê w oczach Boga i nape³ni³a siê nieprawoœci¹. </v>
+<v n="12"> Wtedy Bóg wejrza³ na ziemiê, a oto by³a zepsuta, bo wszelkie cia³o wypaczy³o swoj¹ drogê na ziemi. </v>
+<v n="13"> I Bóg powiedzia³ do Noego: Nadszed³ koniec wszelkiego cia³a przed moim obliczem, bo ziemia przez nie jest pe³na nieprawoœci; wytracê je wiêc wraz z ziemi¹. </v>
+<v n="14"> Zbuduj sobie arkê z drewna gofer, zrobisz w arce przegrody i oblejesz j¹ wewn¹trz i na zewn¹trz smo³¹. </v>
+<v n="15"> A zbudujesz j¹ w ten sposób: D³ugoœæ arki bêdzie na trzysta ³okci, piêædziesi¹t ³okci – jej szerokoœæ, a trzydzieœci ³okci – jej wysokoœæ. </v>
+<v n="16"> Zrobisz okno w arce, a zakoñczysz je na ³okieæ od góry. Drzwi umieœcisz z boku arki, zrobisz w niej dolne, drugie i trzecie piêtro. </v>
+<v n="17"> A ja, oto ja sprowadzê potop wód na ziemiê, aby wytraciæ wszelkie cia³o, w którym jest tchnienie ¿ycia pod niebem. Wszystko, co jest na ziemi, zginie. </v>
+<v n="18"> Ale z tob¹ zawrê moje przymierze; i wejdziesz do arki, ty i twoi synowie, i twoja ¿ona, i ¿ony twoich synów z tob¹. </v>
+<v n="19"> I ze wszystkich zwierz¹t wszelkiego cia³a po jednej parze wprowadzisz do arki, aby uchowa³y siê z tob¹ ¿ywe, bêd¹ to samiec i samica. </v>
+<v n="20"> Z ptactwa wed³ug jego rodzaju i z byd³a wed³ug jego rodzaju, i z wszelkich ziemskich zwierz¹t pe³zaj¹cych wed³ug ich rodzaju, po parze z ka¿dego rodzaju wejd¹ z tob¹, aby ¿ywe zosta³y. </v>
+<v n="21"> A ty weŸmiesz ze sob¹ wszelki pokarm, który siê nadaje do jedzenia, i zabierzesz do siebie, i bêdzie tobie i im na pokarm. </v>
+<v n="22"> I Noe tak uczyni³. Zrobi³ wszystko tak, jak mu Bóg rozkaza³. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi choru, na Halmutlabben. Piesn Dawida. Bede cie wyslawial, PANIE, calym mym sercem; bede opowiadal o wszystkich twoich cudach. </v>
+<v n="2"> Bede sie cieszyl i radowal toba, bede spiewal twemu imieniu, o Najwyzszy! </v>
+<v n="3"> Gdy cofna sie moi nieprzyjaciele, upadna i znikna sprzed twego oblicza. </v>
+<v n="4"> Ty bowiem przeprowadziles moj sad i moja sprawe, zasiadles na tronie jako sedzia sprawiedliwy. </v>
+<v n="5"> Skarciles pogan, wytraciles niegodziwych, wymazales ich imie na wieki wiekow. </v>
+<v n="6"> O nieprzyjacielu, twoje spustoszenia skonczyly sie na zawsze, zburzyles miasta, ich pamiec przepadla razem z nimi. </v>
+<v n="7"> Ale PAN trwa na wieki, ustawil swoj tron, by sadzic. </v>
+<v n="8"> On bedzie sadzil swiat sprawiedliwie, osadzi narody wedlug slusznosci. </v>
+<v n="9"> I bedzie PAN ucieczka dla ucisnionego, schronieniem w czasie niedoli. </v>
+<v n="10"> I beda ufac tobie ci, ktorzy znaja twoje imie, bo nie opuszczasz, PANIE, tych, ktorzy cie szukaja. </v>
+<v n="11"> Spiewajcie PANU, ktory mieszka na Syjonie, opowiadajcie wsrod narodow o jego dzielach. </v>
+<v n="12"> Bo on dopomina sie krwi i pamieta o nich, a nie zapomina wolania strapionych. </v>
+<v n="13"> Zmiluj sie nade mna, PANIE, spojrz, jak mnie uciskaja ci, ktorzy mnie nienawidza, ty, ktory podnosisz mnie z bram smierci; </v>
+<v n="14"> Abym glosil wszelka twa chwale w bramach corki Syjonu; bede sie radowal twoim zbawieniem. </v>
+<v n="15"> Poganie wpadli w dol, ktory wykopali; w sidlach, ktore zastawili, uwiezla ich noga. </v>
+<v n="16"> PAN dal sie poznac, gdy odbyl sad, w dziela swoich rak uwiklal sie niegodziwy. Higgajon. Sela. </v>
+<v n="17"> Niegodziwi zstapia do piekla, wszystkie narody, ktore zapominaja Boga. </v>
+<v n="18"> Bo biedak nie bedzie zapomniany na zawsze, nadzieja ubogich nie zginie na wieki. </v>
+<v n="19"> Powstan, PANIE, niech nie triumfuje czlowiek, niech narody zostana osadzone przed twoim obliczem. </v>
+<v n="20"> PANIE, zeslij na nie strach, aby narody poznaly, ze sa tylko ludzmi. Sela. </v>
+</c>

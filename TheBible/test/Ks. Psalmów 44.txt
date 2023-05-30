@@ -1,0 +1,27 @@
+<v n="1"> Przewodnikowi choru. Psalm pouczajacy dla synow Korego. Boze, slyszelismy na wlasne uszy, nasi ojcowie opowiadali nam o tym, czego dokonales za ich dni, w czasach dawnych. </v>
+<v n="2"> Ty wlasna reka wypedziles pogan, a ich osadziles; wyniszczyles narody, a ich rozprzestrzeniles. </v>
+<v n="3"> Nie zdobyli bowiem ziemi swym mieczem ani ich nie wybawilo wlasne ramie, lecz twoja prawica i twoje ramie, i swiatlo twego oblicza, bo upodobales ich sobie. </v>
+<v n="4"> Ty jestes moim Krolem, o Boze; daj wybawienie Jakubowi. </v>
+<v n="5"> Dzieki tobie pokonamy naszych wrogow, w twoje imie zdepczemy naszych przeciwnikow. </v>
+<v n="6"> Nie zaufam bowiem mojemu lukowi i nie wybawi mnie moj miecz; </v>
+<v n="7"> Lecz ty nas wybawiles od naszych wrogow i zawstydziles tych, ktorzy nas nienawidza. </v>
+<v n="8"> Kazdego dnia chlubimy sie Bogiem, a twoje imie bedziemy slawic na wieki. Sela. </v>
+<v n="9"> Teraz jednak odrzuciles nas i zawstydziles, i nie wyruszasz z naszymi wojskami. </v>
+<v n="10"> Sprawiles, ze cofnelismy sie przed wrogiem, a ci, ktorzy nas nienawidza, zlupili nas. </v>
+<v n="11"> Wydales nas na rzez jak owce i rozproszyles nas wsrod pogan. </v>
+<v n="12"> Sprzedales swoj lud za bezcen i nie zyskales na jego sprzedazy. </v>
+<v n="13"> Wystawiles nas na wzgarde naszym sasiadom, na szyderstwo i posmiewisko tym, ktorzy nas otaczaja. </v>
+<v n="14"> Uczyniles nas tematem przyslowia wsrod pogan, tak ze narody kiwaja glowami nad nami. </v>
+<v n="15"> Moj wstyd wciaz jest przede mna, a hanba mi twarz okrywa; </v>
+<v n="16"> Na glos tego, ktory gardzi i bluzni, z powodu wroga i msciciela. </v>
+<v n="17"> To wszystko nas spotkalo, a jednak nie zapomnielismy o tobie ani nie naruszylismy twojego przymierza. </v>
+<v n="18"> Nasze serce sie nie odwrocilo ani nasze kroki nie zboczyly z twej sciezki; </v>
+<v n="19"> Chociaz powaliles nas w miejscu smokow i okryles nas cieniem smierci. </v>
+<v n="20"> Gdybysmy zapomnieli imienia naszego Boga i wyciagneli rece do obcego boga; </v>
+<v n="21"> Czyz Bog by sie o tym nie dowiedzial? Przeciez on zna tajniki serca. </v>
+<v n="22"> Lecz z powodu ciebie przez caly dzien nas zabijaja, uwazaja nas za owce przeznaczone na rzez. </v>
+<v n="23"> Ocknij sie; czemu spisz, Panie? Obudz sie, nie odrzucaj nas na wieki. </v>
+<v n="24"> Czemu ukrywasz swoje oblicze i zapominasz o naszym utrapieniu i ucisku? </v>
+<v n="25"> Nasza dusza bowiem pograzyla sie w prochu, nasz brzuch przylgnal do ziemi. </v>
+<v n="26"> Powstan nam na pomoc, odkup nas ze wzgledu na twoje milosierdzie. </v>
+</c>

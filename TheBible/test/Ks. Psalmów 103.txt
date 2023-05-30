@@ -1,0 +1,23 @@
+<v n="1"> Psalm Dawida. Blogoslaw, moja duszo, PANA, i cale moje wnetrze – jego swiete imie. </v>
+<v n="2"> Blogoslaw, moja duszo, PANA, i nie zapominaj o wszystkich jego dobrodziejstwach. </v>
+<v n="3"> On przebacza wszystkie twoje nieprawosci, on uzdrawia wszystkie twoje choroby; </v>
+<v n="4"> On wybawia twoje zycie od zguby, on cie koronuje milosierdziem i wielka litoscia. </v>
+<v n="5"> On nasyca dobrem twoje usta i odnawia twoja mlodosc jak u orla. </v>
+<v n="6"> PAN wymierza sprawiedliwosc i sad wszystkim ucisnionym. </v>
+<v n="7"> Dal poznac swe drogi Mojzeszowi, a synom Izraela swoje dziela. </v>
+<v n="8"> Laskawy i litosciwy jest PAN, nieskory do gniewu i pelen wielkiego milosierdzia. </v>
+<v n="9"> Nie bedzie sie spieral bez konca ani wiecznie gniewu chowal. </v>
+<v n="10"> Nie postepuje z nami wedlug naszych grzechow ani nie odplaca nam wedlug naszych nieprawosci. </v>
+<v n="11"> Jak wysoko bowiem sa niebiosa nad ziemia, tak wielkie jest jego milosierdzie nad tymi, ktorzy sie go boja. </v>
+<v n="12"> Jak daleko jest wschod od zachodu, tak daleko oddalil od nas nasze wystepki. </v>
+<v n="13"> Jak ojciec ma litosc nad dziecmi, tak PAN ma litosc nad tymi, ktorzy sie go boja. </v>
+<v n="14"> On bowiem wie, z czego jestesmy ulepieni; pamieta, ze jestesmy prochem. </v>
+<v n="15"> Dni czlowieka sa jak trawa, kwitnie jak kwiat polny. </v>
+<v n="16"> Wiatr na niego powieje, a juz go nie ma i nie pozna go juz jego miejsce. </v>
+<v n="17"> Ale milosierdzie PANA od wiekow na wieki nad tymi, ktorzy sie go boja, a jego sprawiedliwosc nad synami synow; </v>
+<v n="18"> Nad tymi, ktorzy strzega jego przymierza i pamietaja, aby wypelnic jego przykazania. </v>
+<v n="19"> PAN na niebiosach ustanowil swoj tron, a jego krolestwo panuje nad wszystkimi. </v>
+<v n="20"> Blogoslawcie PANA, jego aniolowie, potezni sila, ktorzy wypelniacie jego rozkazy, bedac posluszni glosowi jego slowa. </v>
+<v n="21"> Blogoslawcie PANA, wszystkie jego zastepy, jego sludzy, ktorzy spelniacie jego wole. </v>
+<v n="22"> Blogoslawcie PANA, wszystkie jego dziela, we wszystkich miejscach jego panowania. Blogoslaw, moja duszo, PANA. </v>
+</c>

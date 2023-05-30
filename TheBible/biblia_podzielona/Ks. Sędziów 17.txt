@@ -1,0 +1,14 @@
+<v n="1"> A by³ pewien cz³owiek z góry Efraim imieniem Micheasz. </v>
+<v n="2"> Powiedzia³ on do swojej matki: Te tysi¹c sto srebrników, które ci ukradziono, z powodu których przeklina³aœ i o których mówi³aœ do moich uszu, otó¿ to srebro jest u mnie, ja je wzi¹³em. I jego matka powiedzia³a: B³ogos³awiony jesteœ, mój synu, przez PANA. </v>
+<v n="3"> I zwróci³ swej matce owe tysi¹c sto srebrników, po czym matka powiedzia³a: Poœwiêci³am to srebro PANU ze swojej rêki dla ciebie, mój synu, aby uczyniono z niego pos¹g ryty oraz pos¹g odlany, dlatego teraz oddajê ci je. </v>
+<v n="4"> Lecz on zwróci³ to srebro swojej matce. Wtedy jego matka wziê³a dwieœcie srebrników, da³a je z³otnikowi, a on uczyni³ z nich pos¹g ryty oraz pos¹g odlany, które sta³y potem w domu Micheasza. </v>
+<v n="5"> A Micheasz mia³ u siebie kaplicê bogów, sporz¹dzi³ te¿ efod i terafim i poœwiêci³ jednego ze swych synów, aby by³ jego kap³anem. </v>
+<v n="6"> W tych dniach nie by³o króla w Izraelu, ka¿dy czyni³ to, co by³o s³uszne w jego oczach. </v>
+<v n="7"> By³ pewien m³odzieniec z Betlejem judzkiego, z pokolenia Judy. By³ on Lewit¹ i tam przebywa³. </v>
+<v n="8"> Ten cz³owiek wyruszy³ z miasta Betlejem judzkiego, aby zamieszkaæ, gdzie mu siê trafi. Wêdruj¹c tak, przyszed³ na górê Efraim a¿ do domu Micheasza. </v>
+<v n="9"> Micheasz powiedzia³ do niego: Sk¹d przychodzisz? I odpowiedzia³ mu: Jestem Lewit¹ z Betlejem judzkiego, a idê, aby zamieszkaæ, gdzie mi siê trafi. </v>
+<v n="10"> I Micheasz powiedzia³ mu: Zostañ u mnie i b¹dŸ mi za ojca i za kap³ana, a dam ci dziesiêæ srebrników rocznie, drug¹ szatê i wy¿ywienie. I Lewita poszed³ za nim. </v>
+<v n="11"> I spodoba³o siê Lewicie mieszkaæ z tym cz³owiekiem; a ten m³odzieniec sta³ siê dla niego jakby jednym z jego synów. </v>
+<v n="12"> Micheasz poœwiêci³ Lewitê i m³odzieniec ten zosta³ jego kap³anem, i mieszka³ w domu Micheasza. </v>
+<v n="13"> Wtedy Micheasz powiedzia³: Teraz wiem, ¿e PAN bêdzie mnie b³ogos³awi³, gdy¿ mam Lewitê za kap³ana. </v>
+</c>

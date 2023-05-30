@@ -1,0 +1,21 @@
+<v n="1"> Slowo PANA, ktore doszlo do Joela, syna Petuela. </v>
+<v n="2"> Sluchajcie tego, starcy, nakloncie ucha wszyscy mieszkancy tej ziemi. Czy zdarzylo sie cos podobnego za waszych dni albo za dni waszych ojcow? </v>
+<v n="3"> Opowiadajcie o tym swoim synom, a wasi synowie niech opowiedza swoim synom, a ich synowie przyszlemu pokoleniu. </v>
+<v n="4"> Co zostalo po gasienicy, zjadla szarancza, co zostalo po szaranczy, zjadla larwa, a co zostalo po larwie, zjadlo robactwo. </v>
+<v n="5"> Ocknijcie sie, pijani, i placzcie; wszyscy, ktorzy pijecie wino, zawodzcie z powodu moszczu, bo zostal odjety od waszych ust. </v>
+<v n="6"> Nadciagnal bowiem narod do mojej ziemi, mocny i niezliczony, jego zeby to zeby lwa, a zeby trzonowe ma jak srogi lew. </v>
+<v n="7"> Spustoszyl moja winorosl i polupal moje drzewo figowe. Odarl je doszczetnie i porzucil tak, ze zbielaly jego galezie. </v>
+<v n="8"> Lamentuj jak dziewica przepasana worem nad mezem swojej mlodosci. </v>
+<v n="9"> Odjeto ofiare z pokarmow i z plynow od domu PANA; placza kaplani, sludzy PANA. </v>
+<v n="10"> Pole zostalo spustoszone i ziemia sie smuci, poniewaz zniszczono zboze. Wysechl moszcz, zginela oliwa. </v>
+<v n="11"> Zawstydzcie sie, rolnicy; zawodzcie winogrodnicy z powodu pszenicy i jeczmienia, bo przepadlo zniwo polne. </v>
+<v n="12"> Uschla winorosl i zwiedlo drzewo figowe; drzewo granatowe, palma, jablon i wszystkie drzewa polne uschly, bo radosc znikla sposrod synow ludzkich. </v>
+<v n="13"> Przepaszcie sie i placzcie, kaplani. Zawodzcie, sludzy oltarza. Przyjdzcie i nocujcie w worach, sludzy mojego Boga, bo zabraklo ofiar z pokarmow i plynow w domu waszego Boga. </v>
+<v n="14"> Ogloscie swiety post, zwolajcie zgromadzenie, zbierzcie starcow i wszystkich mieszkancow ziemi w domu PANA, waszego Boga, i wolajcie do PANA: </v>
+<v n="15"> Ach, co to za dzien! Bliski bowiem jest dzien PANA i nadejdzie jak spustoszenie od Wszechmocnego. </v>
+<v n="16"> Czyz na naszych oczach nie zginela zywnosc, a z domu naszego Boga – radosc i wesele? </v>
+<v n="17"> Zgnily ziarna pod swymi skibami, spustoszone sa spichlerze, zburzone stodoly, bo uschlo zboze. </v>
+<v n="18"> Jakze ryczy bydlo? Blakaja sie stada wolow, bo nie maja pastwisk, nawet i trzody owiec wyginely. </v>
+<v n="19"> Do ciebie wolam, PANIE, bo ogien pozarl pastwiska na pustyni, a plomien spalil wszystkie drzewa polne; </v>
+<v n="20"> Takze i zwierzeta polne rycza do ciebie, poniewaz wyschly strumienie wod, a ogien pozarl pastwiska na pustyni. </v>
+</c>

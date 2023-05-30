@@ -1,0 +1,15 @@
+<v n="1"> Piesn i psalm dla synow Korego. Wielki jest PAN i godzien wielkiej chwaly w miescie naszego Boga, na swej swietej gorze. </v>
+<v n="2"> Pieknie wzniesiona, radoscia calej ziemi jest gora Syjon na krancach polnocy, miasto wielkiego Krola. </v>
+<v n="3"> Bog w palacach jego jest uznany za twierdze. </v>
+<v n="4"> Bo oto zgromadzili sie krolowie i razem ruszyli. </v>
+<v n="5"> Gdy zobaczyli, zdumieli sie, przerazili sie i uciekli. </v>
+<v n="6"> Strach ich tam ogarnal i bol, jak rodzaca kobiete. </v>
+<v n="7"> Wiatrem wschodnim rozbijasz okrety Tarszisz. </v>
+<v n="8"> To, co slyszelismy, to zobaczylismy w miescie PANA zastepow, w miescie naszego Boga; Bog je ugruntuje na wieki. Sela. </v>
+<v n="9"> Rozwazamy, o Boze, twoje milosierdzie we wnetrzu twej swiatyni. </v>
+<v n="10"> Jak twoje imie, Boze, tak i chwala twoja siega az po krance ziemi; twoja prawica pelna jest sprawiedliwosci. </v>
+<v n="11"> Niech sie weseli gora Syjon, niech sie raduja corki Judy z powodu twoich sadow. </v>
+<v n="12"> Okrazcie Syjon i obejdzcie go, policzcie jego wieze. </v>
+<v n="13"> Przyjrzyjcie sie jego walom obronnym, ogladajcie jego palace, abyscie mogli opowiadac przyszlemu pokoleniu. </v>
+<v n="14"> Bo ten Bog jest naszym Bogiem na wieki wiekow, on bedzie nas prowadzil az do smierci. </v>
+</c>

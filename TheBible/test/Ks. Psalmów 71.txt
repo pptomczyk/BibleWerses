@@ -1,0 +1,25 @@
+<v n="1"> W tobie, PANIE, pokladam ufnosc, niech nigdy nie bede zawstydzony. </v>
+<v n="2"> Wedlug swej sprawiedliwosci ocal mnie i wyzwol; naklon ku mnie ucha i wybaw mnie. </v>
+<v n="3"> Badz mi skala schronienia, gdzie zawsze moge uciec; przykazales, aby mnie wybawiono, bo ty jestes moja skala i twierdza. </v>
+<v n="4"> Moj Boze, wyzwol mnie z reki niegodziwego, z reki przewrotnego i ciemiezyciela. </v>
+<v n="5"> Ty bowiem jestes moja nadzieja, Panie BOZE, moja ufnoscia od mlodosci. </v>
+<v n="6"> Ty byles moja podpora od narodzin, ty mnie wyprowadziles z lona mojej matki; w tobie zawsze bedzie moja chwala. </v>
+<v n="7"> Dla wielu jestem jakby cudem, lecz ty jestes moim poteznym schronieniem. </v>
+<v n="8"> Niech moje usta beda pelne twojej chwaly, twojej slawy przez caly dzien. </v>
+<v n="9"> Nie odrzucaj mnie w czasie starosci; gdy ustanie moja sila, nie opuszczaj mnie. </v>
+<v n="10"> Moi wrogowie bowiem mowili przeciwko mnie, a ci, ktorzy czyhaja na moja dusze, wspolnie sie naradzaja; </v>
+<v n="11"> Mowiac: Bog go opuscil, goncie go i schwytajcie, bo nie ma nikogo, kto by go ocalil. </v>
+<v n="12"> Boze, nie oddalaj sie ode mnie; moj Boze, pospiesz mi na pomoc. </v>
+<v n="13"> Niech sie zawstydza i zgina przeciwnicy mojej duszy, niech sie okryja hanba i wstydem ci, ktorzy szukaja mego nieszczescia. </v>
+<v n="14"> Ja zas zawsze bede ufal i jeszcze bardziej pomnoze twoja chwale. </v>
+<v n="15"> Moje usta glosic beda twoja sprawiedliwosc i twoje zbawienie przez caly dzien, choc nie znam ich miary. </v>
+<v n="16"> Pojde w wielkiej mocy Pana BOGA, bede wspominal tylko twoja sprawiedliwosc. </v>
+<v n="17"> Boze, uczyles mnie od mojej mlodosci i dotad glosze twoje cudowne dziela. </v>
+<v n="18"> Dlatego i w starosci, gdy bede juz siwy, nie opuszczaj mnie, Boze, az opowiem o twojej mocy temu pokoleniu i wszystkim potomkom o twojej potedze. </v>
+<v n="19"> Twoja sprawiedliwosc, Boze, jest wywyzszona, czynisz wielkie rzeczy; Boze, ktoz jest podobny do ciebie? </v>
+<v n="20"> Zeslales na mnie wielkie i ciezkie utrapienia, lecz znowu przywrocisz mi zycie i z glebi ziemi znow mnie wydobedziesz. </v>
+<v n="21"> Pomnozysz moje dostojenstwo i znowu mnie pocieszysz. </v>
+<v n="22"> A ja na instrumentach muzycznych bede wyslawiac ciebie i twoja prawde, moj Boze; bede ci spiewal z harfa, Swiety Izraela! </v>
+<v n="23"> Rozraduja sie moje wargi, gdy bede ci spiewal, i moja dusza, ktora odkupiles. </v>
+<v n="24"> Rowniez moj jezyk bedzie glosil przez caly dzien twoja sprawiedliwosc, bo okryli sie wstydem i hanba ci, ktorzy szukali mego nieszczescia. </v>
+</c>

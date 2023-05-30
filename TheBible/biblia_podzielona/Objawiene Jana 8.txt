@@ -1,0 +1,14 @@
+<v n="1"> A gdy otworzy³ siódm¹ pieczêæ, nasta³a w niebie cisza na oko³o pó³ godziny. </v>
+<v n="2"> I zobaczy³em siedmiu anio³ów, którzy stoj¹ przed Bogiem. I dano im siedem tr¹b. </v>
+<v n="3"> I przyszed³ inny anio³, i stan¹³ przy o³tarzu, maj¹c z³ot¹ kadzielnicê. Dano mu wiele kadzide³, aby je ofiarowa³ z modlitwami wszystkich œwiêtych na z³otym o³tarzu, który jest przed tronem. </v>
+<v n="4"> I dym kadzide³ z modlitwami œwiêtych wzniós³ siê z rêki anio³a przed Bogiem. </v>
+<v n="5"> Anio³ zaœ wzi¹³ kadzielnicê, nape³ni³ j¹ ogniem z o³tarza i zrzuci³ na ziemiê. I nast¹pi³y g³osy i gromy, i b³yskawice, i trzêsienie ziemi. </v>
+<v n="6"> A siedmiu anio³ów, którzy mieli siedem tr¹b, przygotowa³o siê, aby zatr¹biæ. </v>
+<v n="7"> I zatr¹bi³ pierwszy anio³, i powsta³y grad i ogieñ zmieszane z krwi¹, i zrzucono je na ziemiê. I sp³onê³a trzecia czêœæ drzew, sp³onê³a te¿ ca³a zielona trawa. </v>
+<v n="8"> I zatr¹bi³ drugi anio³, i jakby wielka góra p³on¹ca ogniem zosta³a wrzucona w morze, i trzecia czêœæ morza zamieni³a siê w krew. </v>
+<v n="9"> I zginê³a w morzu trzecia czêœæ ¿ywych stworzeñ, i trzecia czêœæ statków uleg³a zniszczeniu. </v>
+<v n="10"> I zatr¹bi³ trzeci anio³, i spad³a z nieba wielka gwiazda, p³on¹ca jak pochodnia, i spad³a na trzeci¹ czêœæ rzek i na Ÿród³a wód. </v>
+<v n="11"> A imiê gwiazdy brzmi Pio³un. I trzecia czêœæ wód zamieni³a siê w pio³un, i wielu ludzi umar³o od tych wód, bo sta³y siê gorzkie. </v>
+<v n="12"> I zatr¹bi³ czwarty anio³, i ra¿ona zosta³a trzecia czêœæ s³oñca i trzecia czêœæ ksiê¿yca, i trzecia czêœæ gwiazd, tak ¿e zaæmi³a siê trzecia ich czêœæ i dzieñ przez jedn¹ trzeci¹ swoj¹ czêœæ nie jaœnia³, podobnie i noc. </v>
+<v n="13"> I zobaczy³em, i us³ysza³em jednego anio³a lec¹cego œrodkiem nieba, który mówi³ donoœnym g³osem: Biada, biada, biada mieszkañcom ziemi z powodu pozosta³ych g³osów tr¹b trzech anio³ów, którzy maj¹ zatr¹biæ. </v>
+</c>

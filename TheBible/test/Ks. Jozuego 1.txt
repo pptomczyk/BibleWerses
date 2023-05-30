@@ -1,0 +1,19 @@
+<v n="1"> Po smierci Mojzesza, slugi PANA, powiedzial PAN do Jozuego, syna Nuna, slugi Mojzesza: </v>
+<v n="2"> Mojzesz, moj sluga, umarl; teraz wiec wstan, przepraw sie przez ten Jordan, ty i caly ten lud, do ziemi, ktora daje im, synom Izraela. </v>
+<v n="3"> Kazde miejsce, po ktorym bedzie stapac wasza noga, dalem wam, jak obiecalem Mojzeszowi. </v>
+<v n="4"> Od pustyni i od Libanu az do wielkiej rzeki, rzeki Eufrat, cala ziemia Chetytow, az do Morza Wielkiego na zachodzie, bedzie wasza granica. </v>
+<v n="5"> Nikt nie ostoi sie przed toba po wszystkie dni twego zycia; jak bylem z Mojzeszem, tak bede z toba. Nie porzuce cie ani cie nie opuszcze. </v>
+<v n="6"> Wzmocnij sie i badz mezny. Ty bowiem dasz temu ludowi w dziedzictwo ziemie, ktora przysiaglem dac ich ojcom. </v>
+<v n="7"> Tylko wzmocnij sie i badz bardzo mezny, abys pilnowal wypelniania wszystkiego wedlug prawa, ktore nakazal ci Mojzesz, moj sluga. Nie odstepuj od niego ani na prawo, ani na lewo, aby ci sie wiodlo, dokadkolwiek pojdziesz. </v>
+<v n="8"> Niech ta ksiega Prawa nie oddala sie od twoich ust, ale rozmyslaj o niej we dnie i w nocy, abys pilnowal wypelnienia wszystkiego, co w niej jest napisane. Wtedy bowiem poszczesci sie twojej drodze i bedzie ci sie wiodlo. </v>
+<v n="9"> Czyz ci nie nakazalem? Wzmocnij sie i badz mezny. Nie lekaj sie i nie przerazaj, gdyz PAN, twoj Bog, jest z toba, dokadkolwiek pojdziesz. </v>
+<v n="10"> Wtedy Jozue rozkazal przelozonym ludu: </v>
+<v n="11"> Przejdzcie przez oboz i rozkazcie ludowi: Przygotujcie sobie zywnosc, bo za trzy dni przejdziecie przez ten Jordan, aby wejsc i posiasc ziemie, ktora PAN, wasz Bog, daje wam w posiadanie. </v>
+<v n="12"> A do Rubenitow, Gadytow i polowy pokolenia Manassesa Jozue powiedzial: </v>
+<v n="13"> Przypomnijcie sobie slowo, ktore nakazal wam Mojzesz, sluga PANA: PAN, wasz Bog, zapewnil wam odpoczynek i dal wam te ziemie; </v>
+<v n="14"> Niech wasze zony, dzieci i bydlo zostana w ziemi, ktora Mojzesz dal wam po tej stronie Jordanu; wy zas, wszyscy dzielni wojownicy, pojdziecie uzbrojeni przed waszymi bracmi i bedziecie im pomagac; </v>
+<v n="15"> Az PAN da odpoczynek waszym braciom, jak i wam, i oni posiada ziemie, ktora daje im PAN, wasz Bog. Potem wrocicie do ziemi swojej posiadlosci, ktora dal wam Mojzesz, sluga PANA, po tej stronie Jordanu na wschodzie, i posiadziecie ja. </v>
+<v n="16"> I odpowiedzieli Jozuemu: Wszystko, co nam nakazales, uczynimy i gdziekolwiek nas poslesz, pojdziemy. </v>
+<v n="17"> Jak bylismy posluszni Mojzeszowi we wszystkim, tak bedziemy posluszni i tobie. Niech tylko PAN, twoj Bog, bedzie z toba, jak byl z Mojzeszem. </v>
+<v n="18"> Ktokolwiek sprzeciwi sie twemu rozkazowi i nie bedzie posluszny twoim slowom we wszystkim, co mu rozkazesz, niech umrze. Tylko wzmocnij sie i badz mezny. </v>
+</c>

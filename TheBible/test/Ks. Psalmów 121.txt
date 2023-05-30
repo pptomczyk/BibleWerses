@@ -1,0 +1,9 @@
+<v n="1"> Piesn stopni. Oczy moje podnosze ku gorom, skad przyjdzie mi pomoc. </v>
+<v n="2"> Moja pomoc jest od PANA, ktory stworzyl niebo i ziemie. </v>
+<v n="3"> Nie pozwoli zachwiac sie twojej nodze; twoj stroz nie drzemie. </v>
+<v n="4"> Oto ten, ktory strzeze Izraela, nie zdrzemnie sie ani nie zasnie. </v>
+<v n="5"> PAN jest twoim strozem, PAN jest cieniem twoim po twojej prawicy. </v>
+<v n="6"> Slonce nie porazi cie za dnia ani ksiezyc w nocy. </v>
+<v n="7"> PAN bedzie cie strzegl od wszelkiego zla; on bedzie strzegl twojej duszy. </v>
+<v n="8"> PAN bedzie strzegl twego wyjscia i przyjscia, odtad az na wieki. </v>
+</c>

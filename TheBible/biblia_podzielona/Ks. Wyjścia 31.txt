@@ -1,0 +1,19 @@
+<v n="1"> Potem PAN powiedzia³ do Moj¿esza: </v>
+<v n="2"> Oto powo³a³em po imieniu Besalela, syna Uriego, syna Chura, z pokolenia Judy; </v>
+<v n="3"> I nape³ni³em go Duchem Bo¿ym, m¹droœci¹, rozumem, wiedz¹ i znajomoœci¹ we wszelkim rzemioœle; </v>
+<v n="4"> Aby umiejêtnie obmyœla³ projekty, do wyrobu ze z³ota, srebra i miedzi; </v>
+<v n="5"> Do obrabiania kamieni do oprawy i do ciosania drewna, aby wykona³ wszelkie rodzaje dzie³a. </v>
+<v n="6"> Oto da³em mu Oholiaba, syna Achisamaka, z pokolenia Dana. Wla³em te¿ m¹droœæ w serce ka¿dego uzdolnionego, aby uczynili wszystko, co ci przykaza³em: </v>
+<v n="7"> Namiot Zgromadzenia, arkê œwiadectwa, przeb³agalniê, która ma byæ nad ni¹, i wszystkie sprzêty namiotu; </v>
+<v n="8"> Stó³ i naczynia do niego, szczeroz³oty œwiecznik ze wszystkimi naczyniami do niego i o³tarz kadzenia; </v>
+<v n="9"> O³tarz ca³opalenia ze wszystkimi naczyniami do niego i kadŸ wraz z jej podstaw¹; </v>
+<v n="10"> Szaty do s³u¿by, œwiête szaty dla Aarona, kap³ana, i szaty dla jego synów do sprawowania kap³añstwa; </v>
+<v n="11"> Olejek namaszczenia i wonne kadzid³o do Miejsca Œwiêtego. Wykonaj¹ wed³ug wszystkiego, co ci przykaza³em. </v>
+<v n="12"> Potem PAN powiedzia³ do Moj¿esza: </v>
+<v n="13"> Powiedz te¿ synom Izraela: Koniecznie macie przestrzegaæ moich szabatów, bo to jest znak miêdzy mn¹ a wami przez wszystkie wasze pokolenia, abyœcie wiedzieli, ¿e ja jestem PAN, który was uœwiêca. </v>
+<v n="14"> Przestrzegajcie wiêc szabatu, gdy¿ jest on dla was œwiêty. Kto by go naruszy³, poniesie œmieræ. Ka¿dy bowiem, kto wykonuje pracê w tym dniu, zostanie wytracony spoœród swego ludu. </v>
+<v n="15"> Przez szeœæ dni bêdzie siê wykonywaæ pracê, ale siódmy dzieñ jest szabatem odpoczynku, œwiêtym dla PANA. Ktokolwiek wykona pracê w dniu szabatu, poniesie œmieræ. </v>
+<v n="16"> Dlatego synowie Izraela bêd¹ przestrzegaæ szabatu, zachowuj¹c szabat przez wszystkie pokolenia jako wieczn¹ ustawê. </v>
+<v n="17"> Jest on wiecznym znakiem miêdzy mn¹ a synami Izraela, bo w szeœæ dni PAN uczyni³ niebo i ziemiê, a siódmego dnia przesta³ i odpocz¹³. </v>
+<v n="18"> A gdy dokoñczy³ rozmowê z Moj¿eszem na górze Synaj, PAN da³ mu dwie tablice œwiadectwa, tablice kamienne napisane palcem Boga. </v>
+</c>

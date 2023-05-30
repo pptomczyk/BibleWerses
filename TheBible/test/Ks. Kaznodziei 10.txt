@@ -1,0 +1,21 @@
+<v n="1"> Zdechle muchy zasmradzaja i psuja olejek aptekarza. Tak samo odrobina glupstwa psuje czlowieka powazanego z powodu jego madrosci i slawy. </v>
+<v n="2"> Serce madrego jest po jego prawicy, ale serce glupca po jego lewicy. </v>
+<v n="3"> Nawet gdy glupiec idzie droga, brakuje mu rozumu, i mowi wszystkim, ze jest glupcem. </v>
+<v n="4"> Jesli duch wladcy powstaje przeciwko tobie, nie opuszczaj swego miejsca, gdyz pokora zapobiega wielkim wykroczeniom. </v>
+<v n="5"> Jest zlo, ktore widzialem pod sloncem, to blad, ktory pochodzi od wladcy: </v>
+<v n="6"> Glupota jest wywyzszona do wielkiej godnosci, a bogaci w madrosc siedza nisko. </v>
+<v n="7"> Widzialem slugi na koniach, a ksiazat idacych pieszo jak sludzy. </v>
+<v n="8"> Kto kopie dol, sam w niego wpadnie, kto rozwala plot, tego ukasi waz. </v>
+<v n="9"> Kto przenosi kamienie, porani sie nimi, kto rabie drwa, naraza sie na niebezpieczenstwo. </v>
+<v n="10"> Jesli stepi sie zelazo, a nie naostrzy sie jego ostrza, wtedy trzeba wytezyc sily. Ale lepiej skutkuje madrosc. </v>
+<v n="11"> Waz ukasi bez zaklecia, a gadula nie jest niczym lepszym. </v>
+<v n="12"> Slowa z ust madrego sa laskawe, ale wargi glupca pozeraja jego samego. </v>
+<v n="13"> Poczatek slow jego ust to glupota, a koniec jego mowy to wielkie szalenstwo. </v>
+<v n="14"> Glupiec wiele mowi, choc czlowiek nie wie, co nastapi. Ktoz mu oznajmi, co po nim nastanie? </v>
+<v n="15"> Glupi mecza sie trudem, a nie wiedza nawet, jak dojsc do miasta. </v>
+<v n="16"> Biada tobie, ziemio, gdy twoim krolem dziecko, a twoi ksiazeta z rana biesiaduja. </v>
+<v n="17"> Blogoslawiona jestes, ziemio, gdy twoj krol pochodzi ze szlachetnego rodu, a twoi ksiazeta we wlasciwym czasie jadaja, by sie posilic, a nie dla pijanstwa. </v>
+<v n="18"> Z powodu lenistwa chyli sie dach, a wskutek opieszalosci rak przecieka dom. </v>
+<v n="19"> Dla uciechy wyprawia sie uczte i wino rozwesela zycie, ale pieniadze umozliwiaja wszystko. </v>
+<v n="20"> Nawet w swoich myslach nie zlorzecz krolowi ani w swojej sypialni nie przeklinaj bogatego, bo ptak niebieski zaniesie ten glos, a to, co skrzydlate, rozglosi sprawe. </v>
+</c>

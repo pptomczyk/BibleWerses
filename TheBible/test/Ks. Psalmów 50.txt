@@ -1,0 +1,24 @@
+<v n="1"> Psalm Asafa. Bog nad bogami, PAN, przemowil i wezwal ziemie od wschodu slonca az do jego zachodu. </v>
+<v n="2"> Z Syjonu, doskonalego piekna, zajasnial Bog. </v>
+<v n="3"> Nasz Bog przyjdzie i nie bedzie milczal; ogien bedzie trawil przed nim, a wokol niego powstanie potezna burza. </v>
+<v n="4"> Wezwie z gory niebiosa i ziemie, aby sadzic swoj lud: </v>
+<v n="5"> Zgromadzcie mi moich swietych, ktorzy zawarli ze mna przymierze przez ofiare. </v>
+<v n="6"> Wtedy niebiosa oglosza jego sprawiedliwosc, bo sam Bog jest sedzia. Sela. </v>
+<v n="7"> Sluchaj, moj ludu, a bede mowil; sluchaj, Izraelu, a bede swiadczyl przeciw tobie: Ja jestem Bogiem, twoim Bogiem. </v>
+<v n="8"> Nie bede cie ganil za twoje ofiary ani za twoje calopalenia, ktore sa zawsze przede mna. </v>
+<v n="9"> Nie przyjme cielca z twojego domu ani kozlow z twoich zagrod. </v>
+<v n="10"> Do mnie bowiem nalezy wszelkie zwierze lesne i tysiace bydla na gorach. </v>
+<v n="11"> Znam wszelkie ptactwo gorskie i moje sa zwierzeta polne. </v>
+<v n="12"> Gdybym byl glodny, nie mowilbym ci o tym, bo moj jest swiat i wszystko, co go napelnia. </v>
+<v n="13"> Czyz bede jadl mieso wolow albo pil krew kozlow? </v>
+<v n="14"> Ofiaruj Bogu dziekczynienie i spelnij swoje sluby wobec Najwyzszego; </v>
+<v n="15"> I wzywaj mnie w dniu utrapienia; wtedy cie wybawie, a ty mnie uwielbisz. </v>
+<v n="16"> Lecz do niegodziwego Bog mowi: Po co oglaszasz moje prawa i masz na ustach moje przymierze; </v>
+<v n="17"> Skoro nienawidzisz karnosci i rzucasz za siebie moje slowa? </v>
+<v n="18"> Gdy widzisz zlodzieja, pochwalasz go, i zadajesz sie z cudzoloznikami. </v>
+<v n="19"> Pozwalasz swym ustom zle mowic, a twoj jezyk knuje podstepy. </v>
+<v n="20"> Siedzisz i mowisz przeciwko twemu bratu, obmawiasz syna swej matki. </v>
+<v n="21"> To czyniles, a ja milczalem; sadziles, ze jestem do ciebie podobny, ale bede cie napominal i postawie ci to przed oczy. </v>
+<v n="22"> Zrozumcie to teraz wy, ktorzy zapominacie o Bogu, bym was nie rozszarpal, a nie byloby nikogo, kto by was ocalil. </v>
+<v n="23"> Kto mi ofiaruje chwale, ten oddaje mi czesc; a temu, kto chodzi prosta droga, ukaze Boze zbawienie. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Modlitwa Dawida. Naklon swego ucha, PANIE, wysluchaj mnie, bo jestem nedzny i ubogi. </v>
+<v n="2"> Strzez mojej duszy, bo jestem pobozny; moj Boze, wybaw twego sluge, ktory ufa tobie. </v>
+<v n="3"> Zmiluj sie nade mna, Panie, bo do ciebie codziennie wolam. </v>
+<v n="4"> Rozraduj dusze twego slugi, bo do ciebie, Panie, wznosze swa dusze. </v>
+<v n="5"> Bo ty, Panie, jestes dobry i przebaczajacy, i pelen milosierdzia dla wszystkich, ktorzy cie wzywaja. </v>
+<v n="6"> Wysluchaj, PANIE, mojej modlitwy i zwaz na glos mojego blagania. </v>
+<v n="7"> Wzywam cie w dniu mego ucisku, bo ty mnie wysluchasz. </v>
+<v n="8"> Nie ma wsrod bogow podobnego tobie, Panie, i nie ma dziel takich jak twoje. </v>
+<v n="9"> Wszystkie narody, ktore stworzyles, przyjda i oddadza ci poklon, Panie, i beda wielbic twoje imie; </v>
+<v n="10"> Bo ty jestes wielki i czynisz cuda; tylko ty jestes Bogiem. </v>
+<v n="11"> Naucz mnie, PANIE, twojej drogi, abym chodzil w twojej prawdzie; naklon moje serce ku bojazni twego imienia. </v>
+<v n="12"> Bede cie chwalil, Panie, moj Boze, z calego serca i bede wielbil twoje imie na wieki; </v>
+<v n="13"> Bo wielkie jest twoje milosierdzie dla mnie; ty ocaliles moja dusze z najglebszego piekla. </v>
+<v n="14"> Boze, pyszni powstali przeciwko mnie i zgraja gwaltownikow czyhala na moja dusze, a nie maja ciebie przed oczyma. </v>
+<v n="15"> Ale ty, Panie, jestes Bogiem laskawym i litosciwym, nieskorym do gniewu, pelnym milosierdzia i prawdy. </v>
+<v n="16"> Spojrz na mnie i zmiluj sie nade mna, udziel swojej mocy twemu sludze i wybaw syna twojej sluzacej. </v>
+<v n="17"> Daj mi znak twojej dobroci, aby ci, ktorzy mnie nienawidza, zobaczyli i zawstydzili sie, ze ty, PANIE, wspomogles mnie i pocieszyles. </v>
+</c>

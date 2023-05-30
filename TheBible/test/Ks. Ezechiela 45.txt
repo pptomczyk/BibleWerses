@@ -1,0 +1,26 @@
+<v n="1"> Gdy bedziecie dzielic te ziemie w dziedzictwo przez losowanie, oddacie na ofiare PANU dzial swiety z tej ziemi, dlugi na dwadziescia piec tysiecy pretow i szeroki na dziesiec tysiecy. Bedzie to swiety dzial we wszystkich waszych granicach dokola. </v>
+<v n="2"> Z tego bedzie kwadrat na swiatynie piecset pretow dlugosci na piecset szerokosci dokola; a wokol niego bedzie wolna przestrzen na piecdziesiat lokci. </v>
+<v n="3"> Z tej pierwszej miary odmierzysz dwadziescia piec tysiecy dlugosci i dziesiec tysiecy szerokosci, a na tym bedzie swiatynia i Miejsce Najswietsze. </v>
+<v n="4"> Ten swiety dzial ziemi bedzie nalezec do kaplanow pelniacych sluzbe w swiatyni, ktorzy przystepuja, aby sluzyc PANU. Bedzie to miejsce na ich domy i miejsce swiete na swiatynie. </v>
+<v n="5"> A obszar dlugi na dwadziescia piec tysiecy i szeroki na dziesiec tysiecy tez bedzie dla Lewitow, ktorzy sluza w domu, na posiadlosc liczaca dwadziescia komorek. </v>
+<v n="6"> A na wlasnosc dacie miastu obszar szeroki na piec tysiecy i dlugi na dwadziescia piec tysiecy wzdluz dzialu swietej ofiary. Bedzie to dla calego domu Izraela. </v>
+<v n="7"> Dla ksiecia bedzie obszar z obu stron dzialu swietej ofiary i wlasnosci miasta, przed dzialem swietej ofiary i przed wlasnoscia miasta, od strony zachodniej ku zachodowi i od strony wschodniej ku wschodowi, a dlugosc bedzie naprzeciwko kazdego z tych dzialow od granicy zachodniej az do granicy wschodniej. </v>
+<v n="8"> Ten dzial ziemi bedzie jego posiadloscia w Izraelu, a moi ksiazeta nie beda juz uciskac mojego ludu; ale wydziela ziemie domowi Izraela wedlug jego pokolen. </v>
+<v n="9"> Tak mowi Pan BOG: Dosyc tego, ksiazeta Izraela! Zaniechajcie przemocy i grabiezy, wykonujcie sad i sprawiedliwosc i wycofajcie wasze obciazenia od mego ludu, mowi Pan BOG; </v>
+<v n="10"> Bedziecie mieli sprawiedliwe wagi, sprawiedliwa efe i sprawiedliwy bat. </v>
+<v n="11"> Efa i bat beda mialy jednakowa miare, tak by bat zawieral dziesiata czesc chomera, a takze efa dziesiata czesc chomera. Chomer bedzie podstawa miary. </v>
+<v n="12"> Sykl bedzie mial dwadziescia ger. Dwadziescia syklow, dwadziescia piec syklow i pietnascie syklow stanowi dla was mine. </v>
+<v n="13"> A taka bedzie ofiara wzniesienia, ktora bedziecie ofiarowywac: szosta czesc efy z chomera pszenicy; dacie rowniez szosta czesc efy z chomera jeczmienia. </v>
+<v n="14"> Ustawa dotyczaca oliwy jest taka: bat jest miara oliwy. Bedziecie dawac dziesiata czesc bat z kor, czyli chomer z dziesieciu bat, bo dziesiec bat stanowi chomer. </v>
+<v n="15"> Takze jedna owce z trzody liczacej dwiescie owiec z bujnych pastwisk Izraela na ofiare z pokarmow, na calopalenie i na ofiary pojednawcze, aby dokonac przeblagania za nich, mowi Pan BOG. </v>
+<v n="16"> Caly lud tej ziemi ma skladac te ofiary wzniesienia ksieciu w Izraelu. </v>
+<v n="17"> Na ksieciu bedzie ciazyl obowiazek calopalen i ofiar z pokarmow i z plynow na swieta, na dni nowiu, na szabaty i na wszystkie uroczyste swieta domu Izraela. On bedzie sprawowac ofiare za grzech, ofiare z pokarmow i calopalna oraz ofiary pojednawcze, aby dokonac przeblagania za dom Izraela. </v>
+<v n="18"> Tak mowi Pan BOG: Pierwszego dnia pierwszego miesiaca wezmiesz mlodego cielca bez skazy i oczyscisz swiatynie. </v>
+<v n="19"> Kaplan wezmie nieco krwi z ofiary za grzech i pomaze odrzwia domu, cztery narozniki podstawy tego oltarza i odrzwia bramy dziedzinca wewnetrznego. </v>
+<v n="20"> Tak samo uczynisz siodmego dnia tego miesiaca za kazdego, ktory zgrzeszyl nieswiadomie, i za prostego. Tak oczyscicie dom. </v>
+<v n="21"> W pierwszym miesiacu, czternastego dnia tego miesiaca, bedziecie mieli swieto Paschy, swieto siedmiu dni, w ktorych beda spozywane chleby przasne. </v>
+<v n="22"> I w tym dniu ksiaze zlozy cielca na ofiare za grzech za siebie i za caly lud tej ziemi. </v>
+<v n="23"> Przez siedem dni tego swieta bedzie ofiarowywac PANU na calopalenie siedem cielcow i siedem baranow bez skazy, codziennie, przez siedem dni, a na ofiare za grzech codziennie jednego kozla. </v>
+<v n="24"> A na ofiare z pokarmow zlozy efe na cielca, efe na barana i hin oliwy na efe. </v>
+<v n="25"> W siodmym miesiacu, pietnastego dnia tego miesiaca, w swieto, bedzie ofiarowywac wlasnie to samo przez siedem dni, jak rowniez ofiare za grzech, calopalenie, ofiare z pokarmow i oliwe. </v>
+</c>

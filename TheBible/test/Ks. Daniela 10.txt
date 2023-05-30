@@ -1,0 +1,22 @@
+<v n="1"> W trzecim roku Cyrusa, krola Persji, zostalo objawione slowo Danielowi, ktoremu nadano imie Belteszassar; to slowo bylo prawdziwe i zamierzony czas byl dlugi. Zrozumial to slowo, bo otrzymal zrozumienie w widzeniu. </v>
+<v n="2"> W tych dniach ja, Daniel, bylem smutny przez trzy tygodnie. </v>
+<v n="3"> Nie jadlem smacznego chleba, miesa i wina nie bralem do ust, i nie namaszczalem sie olejkiem, az sie wypelnily trzy tygodnie. </v>
+<v n="4"> A dwudziestego czwartego dnia pierwszego miesiaca bylem nad brzegiem wielkiej rzeki, to jest Chiddekel; </v>
+<v n="5"> I podnioslem swoje oczy, i spojrzalem, a oto stal pewien maz ubrany w lniana szate, a jego biodra byly przepasane czystym zlotem z Ufas; </v>
+<v n="6"> Jego cialo bylo jak z berylu, jego oblicze z wygladu jak blyskawica, jego oczy – jak pochodnie ogniste, jego ramiona i nogi – jak blask wypolerowanej miedzi, a dzwiek jego slow – jak glos tlumu. </v>
+<v n="7"> Tylko ja sam, Daniel, mialem to widzenie. Mezczyzni, ktorzy byli ze mna, nie mieli tego widzenia; ale wielki strach padl na nich i pouciekali, aby sie ukryc. </v>
+<v n="8"> A ja sam zostalem i mialem to wielkie widzenie, ale nie pozostalo we mnie sily. Moja uroda zmienila sie i zepsula, i nie mialem zadnej sily. </v>
+<v n="9"> Wtedy uslyszalem dzwiek jego slow; a gdy uslyszalem dzwiek jego slow, upadlem na twarz w gleboki sen, twarza ku ziemi. </v>
+<v n="10"> I oto dotknela mnie reka, i podniosla mnie na moje kolana i na dlonie moich rak. </v>
+<v n="11"> I powiedzial do mnie: Danielu, mezu bardzo umilowany, uwazaj na moje slowa, ktore mowie do ciebie, i stan na nogi, bo jestem teraz poslany do ciebie. A gdy przemowil do mnie to slowo, stanalem drzac. </v>
+<v n="12"> Wtedy powiedzial do mnie: Nie boj sie, Danielu, bo od pierwszego dnia, gdy wziales sobie do serca to, aby zrozumiec i ukorzyc sie przed swoim Bogiem, twoje slowa zostaly wysluchane, a ja przybylem ze wzgledu na twoje slowa. </v>
+<v n="13"> Lecz ksiaze krolestwa Persji sprzeciwial mi sie przez dwadziescia jeden dni, ale oto Michal, jeden z przedniejszych ksiazat, przyszedl mi z pomoca; a ja zostalem tam przy krolach Persji. </v>
+<v n="14"> Ale przybylem, aby ci oznajmic, co spotka twoj lud w dniach ostatecznych, bo to widzenie bedzie jeszcze na te dni. </v>
+<v n="15"> A gdy mowil do mnie tymi slowy, opuscilem twarz ku ziemi i zamilklem. </v>
+<v n="16"> A oto ktos jakby podobny do synow ludzkich dotknal moich warg. Otworzylem usta i mowilem, powiedzialem do stojacego przede mna: Moj panie, z powodu tego widzenia dopadly mnie bolesci i nie mam zadnej sily. </v>
+<v n="17"> A jakze bedzie mogl taki sluga mego pana rozmawiac w ten sposob z moim panem? Gdyz od tego czasu nie zostala we mnie sila i nie ma we mnie tchu. </v>
+<v n="18"> Wtedy ponownie dotknal mnie ten, ktory byl podobny do czlowieka, i wzmocnil mnie; </v>
+<v n="19"> I powiedzial: Nie boj sie, mezu bardzo umilowany, pokoj tobie! Wzmocnij sie, mowie, wzmocnij sie. A gdy mowil do mnie, nabralem sily i powiedzialem: Niech moj pan mowi, bo mnie wzmocniles. </v>
+<v n="20"> Powiedzial: Czy wiesz, dlaczego przybylem do ciebie? Teraz wroce, aby walczyc z ksieciem Persji. A gdy odejde stamtad, oto nadejdzie ksiaze Grecji. </v>
+<v n="21"> Ale oznajmie ci to, co jest zapisane w pismie prawdy. I nie ma nikogo, ktory by meznie stal przy mnie w tych sprawach, oprocz Michala, waszego ksiecia. </v>
+</c>

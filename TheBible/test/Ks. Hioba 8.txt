@@ -1,0 +1,23 @@
+<v n="1"> Wtedy Bildad z Szuach odpowiedzial: </v>
+<v n="2"> Jak dlugo bedziesz mowil takie rzeczy? Jak dlugo slowa z twoich ust beda jak gwaltowny wiatr? </v>
+<v n="3"> Czy Bog wypacza sad? Czy Wszechmocny wypacza sprawiedliwosc? </v>
+<v n="4"> Jesli twoi synowie zgrzeszyli przeciwko niemu, a on ich odrzucil za ich nieprawosc; </v>
+<v n="5"> Jesli zwrocisz sie pilnie do Boga i bedziesz blagac Wszechmocnego; </v>
+<v n="6"> Jesli jestes czysty i prawy, wtedy na pewno obudzi sie dla ciebie i poszczesci mieszkaniu twojej sprawiedliwosci. </v>
+<v n="7"> A chocby twoj poczatek byl niewielki, jednak twoj koniec bardzo sie rozmnozy. </v>
+<v n="8"> Bo zapytaj, prosze, dawnych pokolen i rozwaz doswiadczenie ich ojcow; </v>
+<v n="9"> (My bowiem jestesmy wczorajsi i nic nie wiemy, poniewaz nasze dni na ziemi sa jak cien). </v>
+<v n="10"> Czy oni nie poucza cie i nie powiedza ci, i czy z ich serc nie wyplyna slowa? </v>
+<v n="11"> Czy sitowie urosnie bez wilgoci? Czy trzcina urosnie bez wody? </v>
+<v n="12"> Chociaz jeszcze jest swieza i nieskoszona, predzej usycha niz inna trawa. </v>
+<v n="13"> Takie sa drogi wszystkich, ktorzy zapominaja Boga, i tak zginie nadzieja obludnika. </v>
+<v n="14"> Jego nadzieja zostanie podcieta, a jego ufnosc bedzie jak pajeczyna. </v>
+<v n="15"> Oprze sie o swoj dom, ale sie nie ostoi; uchwyci sie go, ale nie przetrwa. </v>
+<v n="16"> Zieleni sie na sloncu i w ogrodzie jego swieza latorosl wyrasta. </v>
+<v n="17"> Jego korzenie sa splatane wsrod kamieni i wyrastaja sposrod nich. </v>
+<v n="18"> Ale gdy go wyrwa z jego miejsca, wtedy miejsce to wyprze sie go, mowiac: Nie widzialem cie. </v>
+<v n="19"> Takie oto jest szczescie jego drogi, a z ziemi wyrosna inni. </v>
+<v n="20"> Oto Bog nie odrzuci czlowieka prawego, ale zloczyncom nie poda reki; </v>
+<v n="21"> Az sie napelnia twoje usta usmiechem, a twoje wargi radoscia. </v>
+<v n="22"> Gdyz ci, ktorzy cie nienawidza, okryja sie hanba, a namiotu niegodziwych juz nie bedzie. </v>
+</c>

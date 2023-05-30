@@ -1,0 +1,24 @@
+<v n="1"> Pawel, apostol Jezusa Chrystusa z woli Boga, do swietych, ktorzy sa w Efezie, i wiernych w Chrystusie Jezusie. </v>
+<v n="2"> Laska wam i pokoj od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="3"> Blogoslawiony niech bedzie Bog i Ojciec naszego Pana Jezusa Chrystusa, ktory poblogoslawil nas wszelkim duchowym blogoslawienstwem w miejscach niebianskich w Chrystusie. </v>
+<v n="4"> Jak nas wybral w nim przed zalozeniem swiata, abysmy byli swieci i nienaganni przed jego obliczem w milosci. </v>
+<v n="5"> Przeznaczyl nas dla siebie, ku usynowieniu przez Jezusa Chrystusa, wedlug upodobania swojej woli; </v>
+<v n="6"> Dla uwielbienia chwaly swojej laski, ktora obdarzyl nas w umilowanym; </v>
+<v n="7"> W ktorym mamy odkupienie przez jego krew, przebaczenie grzechow, wedlug bogactwa jego laski; </v>
+<v n="8"> Ktora nam hojnie okazal we wszelkiej madrosci i roztropnosci; </v>
+<v n="9"> Oznajmiajac nam tajemnice swojej woli, wedlug swego upodobania, ktore sam w sobie postanowil; </v>
+<v n="10"> Aby w zarzadzeniu pelni czasow wszystko zebral w jedno w Chrystusie, i to, co w niebiosach, i to, co na ziemi. </v>
+<v n="11"> W nim, mowie, w ktorym tez dostapilismy udzialu, przeznaczeni wedlug postanowienia tego, ktory dokonuje wszystkiego wedlug rady swojej woli; </v>
+<v n="12"> Abysmy istnieli dla uwielbienia jego chwaly, my, ktorzy wczesniej polozylismy nadzieje w Chrystusie. </v>
+<v n="13"> W nim i wy polozyliscie nadzieje, kiedy uslyszeliscie slowo prawdy, ewangelie waszego zbawienia, w nim tez, gdy uwierzyliscie, zostaliscie zapieczetowani obiecanym Duchem Swietym; </v>
+<v n="14"> Ktory jest zadatkiem naszego dziedzictwa, az nastapi odkupienie nabytej wlasnosci, dla uwielbienia jego chwaly. </v>
+<v n="15"> Dlatego i ja, gdy uslyszalem o waszej wierze w Pana Jezusa i o milosci wzgledem wszystkich swietych; </v>
+<v n="16"> Nie przestaje dziekowac za was, czyniac o was wzmianke w moich modlitwach; </v>
+<v n="17"> Proszac, aby Bog naszego Pana Jezusa Chrystusa, Ojciec chwaly, dal wam Ducha madrosci i objawienia w poznaniu jego samego; </v>
+<v n="18"> Azeby oswiecil oczy waszego umyslu, abyscie wiedzieli, czym jest nadzieja jego powolania, czym jest bogactwo chwaly jego dziedzictwa w swietych; </v>
+<v n="19"> I czym jest przemozna wielkosc jego mocy wobec nas, ktorzy wierzymy, wedlug dzialania potegi jego sily. </v>
+<v n="20"> Okazal ja w Chrystusie, gdy go wskrzesil z martwych i posadzil po swojej prawicy w miejscach niebianskich; </v>
+<v n="21"> Wysoko ponad wszelka zwierzchnoscia i wladza, moca, panowaniem i ponad wszelkim imieniem wypowiadanym nie tylko w tym swiecie, ale i w przyszlym. </v>
+<v n="22"> I wszystko poddal pod jego stopy, a jego samego dal jako glowe ponad wszystkim kosciolowi; </v>
+<v n="23"> Ktory jest jego cialem i pelnia tego, ktory wszystko we wszystkich napelnia. </v>
+</c>

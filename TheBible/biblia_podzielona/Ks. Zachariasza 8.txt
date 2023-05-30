@@ -1,0 +1,24 @@
+<v n="1"> Potem dosz³o do mnie s³owo PANA zastêpów mówi¹ce: </v>
+<v n="2"> Tak mówi PAN zastêpów: By³em zazdrosny o Syjon w wielkiej gorliwoœci, by³em zazdrosny w wielkim gniewie. </v>
+<v n="3"> Tak mówi PAN: Wróci³em na Syjon i zamieszkam w Jerozolimie; a Jerozolima bêdzie nazwana Miastem Wiernym, a góra PANA zastêpów – Gór¹ Œwiêt¹. </v>
+<v n="4"> Tak mówi PAN zastêpów: Jeszcze siadaæ bêd¹ starcy i staruszki na ulicach Jerozolimy, ka¿dy z nich z lask¹ w rêku z powodu podesz³ego wieku. </v>
+<v n="5"> I ulice miasta bêd¹ pe³ne bawi¹cych siê na nich ch³opców i dziewcz¹t. </v>
+<v n="6"> Tak mówi PAN zastêpów: Jeœli w tych dniach wyda siê to niemo¿liwe w oczach resztki tego ludu, czy bêdzie to te¿ niemo¿liwe w moich oczach? – mówi PAN zastêpów. </v>
+<v n="7"> Tak mówi PAN zastêpów: Oto wybawiê swój lud z ziemi wschodniej i z ziemi zachodniej. </v>
+<v n="8"> Sprowadzê go i zamieszka w Jerozolimie, i bêdzie moim ludem, a ja bêdê jego Bogiem, w prawdzie i sprawiedliwoœci. </v>
+<v n="9"> Tak mówi PAN zastêpów: Niech siê umocni¹ wasze rêce, wy, którzy s³uchaliœcie w tych dniach s³ów z ust proroków, którzy byli w dniu, kiedy za³o¿ono fundament domu PANA zastêpów, aby œwi¹tynia zosta³a odbudowana. </v>
+<v n="10"> Przed tymi dniami bowiem nie by³a wynagrodzona praca ludzka i praca bydl¹t. Dla wychodz¹cych i wchodz¹cych nie by³o pokoju z powodu wroga, bo ja podburzy³em wszystkich ludzi, jednych przeciwko drugim. </v>
+<v n="11"> Lecz teraz nie uczyniê z resztk¹ tego ludu tak jak za dawnych dni, mówi PAN zastêpów. </v>
+<v n="12"> Ale siewy bêd¹ ros³y w pokoju, winoroœl wyda swój owoc, ziemia wyda swoje plony i niebiosa tak¿e spuszcz¹ swoj¹ rosê, a to wszystko dam resztce tego ludu w posiadanie. </v>
+<v n="13"> I stanie siê, ¿e jak byliœcie przekleñstwem wœród pogan, domu Judy i domu Izraela, tak was wybawiê i bêdziecie b³ogos³awieñstwem. Nie bójcie siê i niech siê umocni¹ wasze rêce. </v>
+<v n="14"> Tak bowiem mówi PAN zastêpów: Jak postanowi³em ukaraæ was, gdy wasi ojcowie pobudzali mnie do gniewu, mówi PAN zastêpów – i nie ¿a³owa³em tego; </v>
+<v n="15"> Tak znowu postanowi³em w tych dniach uczyniæ dobrze Jerozolimie i domowi Judy. Nie bójcie siê. </v>
+<v n="16"> To s¹ rzeczy, które bêdziecie czyniæ: Mówcie prawdê, ka¿dy ze swoim bliŸnim, wykonujcie sprawiedliwy i spokojny s¹d w waszych bramach; </v>
+<v n="17"> Nie obmyœlajcie z³a w sercach waszych, jeden przeciwko drugiemu, i nie lubujcie siê w krzywoprzysiêstwie, gdy¿ tego wszystkiego nienawidzê, mówi PAN. </v>
+<v n="18"> I dosz³o do mnie s³owo PANA zastêpów mówi¹ce: </v>
+<v n="19"> Tak mówi PAN zastêpów: Post w czwartym, pi¹tym, siódmym i dziesi¹tym miesi¹cu zamieni¹ siê dla domu Judy w radoœæ i wesele, i w rozkoszne œwiêta. Mi³ujcie wiêc prawdê i pokój. </v>
+<v n="20"> Tak mówi PAN zastêpów: Jeszcze bêd¹ przychodziæ narody i mieszkañcy wielu miast. </v>
+<v n="21"> Mieszkañcy jednego miasta pójd¹ do drugiego, mówi¹c: PójdŸmy ochoczo przeb³agaæ oblicze PANA i szukaæ PANA zastêpów. Ja tak¿e pójdê. </v>
+<v n="22"> A tak liczne ludy i potê¿ne narody przybêd¹ szukaæ PANA zastêpów w Jerozolimie i przeb³agaæ oblicze PANA. </v>
+<v n="23"> Tak mówi PAN zastêpów: W tych dniach dziesiêciu ludzi ze wszystkich jêzyków narodów uchwyci siê po³y jednego ¯yda, mówi¹c: Pójdziemy z wami, bo us³yszeliœmy, ¿e Bóg jest z wami. </v>
+</c>

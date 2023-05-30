@@ -1,0 +1,17 @@
+<v n="1"> I ja, bracia, gdy do was przyszedlem, nie przybylem z wzniosloscia mowy lub madrosci, gloszac wam swiadectwo Boga. </v>
+<v n="2"> Postanowilem bowiem nie znac wsrod was niczego innego, jak tylko Jezusa Chrystusa, i to ukrzyzowanego. </v>
+<v n="3"> I bylem u was w slabosci, w bojazni i z wielkim drzeniem. </v>
+<v n="4"> A moja mowa i moje gloszenie nie opieraly sie na powabnych slowach ludzkiej madrosci, ale na ukazywaniu Ducha i mocy; </v>
+<v n="5"> Aby wasza wiara nie opierala sie na madrosci ludzkiej, ale na mocy Boga. </v>
+<v n="6"> Glosimy jednak madrosc wsrod doskonalych, ale nie madrosc tego swiata ani wladcow tego swiata, ktorzy przemijaja; </v>
+<v n="7"> Lecz glosimy madrosc Boga w tajemnicy, zakryta madrosc, ktora przed wiekami Bog przeznaczyl ku naszej chwale; </v>
+<v n="8"> Ktorej nie poznal zaden z wladcow tego swiata. Gdyby ja bowiem poznali, nigdy nie ukrzyzowaliby Pana chwaly; </v>
+<v n="9"> Ale glosimy, jak jest napisane: Czego oko nie widzialo ani ucho nie slyszalo, ani nie wstapilo do serca czlowieka, to przygotowal Bog tym, ktorzy go miluja. </v>
+<v n="10"> Nam zas Bog objawil to przez swojego Ducha. Duch bowiem bada wszystko, nawet glebokosci Boga. </v>
+<v n="11"> Bo kto z ludzi wie, co jest w czlowieku oprocz ducha ludzkiego, ktory w nim jest? Tak samo i tego, co jest w Bogu, nikt nie zna, oprocz Ducha Bozego. </v>
+<v n="12"> My zas nie przyjelismy ducha swiata, lecz Ducha, ktory jest z Boga, zebysmy wiedzieli, ktore rzeczy sa nam od Boga darowane. </v>
+<v n="13"> A o tym tez mowimy nie slowami, ktorych naucza ludzka madrosc, lecz ktorych naucza Duch Swiety, stosujac do duchowych spraw to, co duchowe. </v>
+<v n="14"> Lecz cielesny czlowiek nie pojmuje tych rzeczy, ktore sa Ducha Bozego. Sa bowiem dla niego glupstwem i nie moze ich poznac, poniewaz rozsadza sie je duchowo. </v>
+<v n="15"> Czlowiek duchowy zas rozsadza wszystko, lecz sam przez nikogo nie jest sadzony. </v>
+<v n="16"> Kto bowiem poznal umysl Pana? Kto go bedzie pouczal? Ale my mamy umysl Chrystusa. </v>
+</c>

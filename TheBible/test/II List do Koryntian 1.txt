@@ -1,0 +1,25 @@
+<v n="1"> Pawel, z woli Boga apostol Jezusa Chrystusa, i Tymoteusz, brat, do kosciola Bozego, ktory jest w Koryncie, ze wszystkimi swietymi, ktorzy sa w calej Achai. </v>
+<v n="2"> Laska wam i pokoj od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="3"> Blogoslawiony niech bedzie Bog i Ojciec naszego Pana Jezusa Chrystusa, Ojciec milosierdzia i Bog wszelkiej pociechy; </v>
+<v n="4"> Ktory nas pociesza w kazdym naszym utrapieniu, abysmy i my mogli pocieszac tych, ktorzy sa w jakimkolwiek ucisku, taka pociecha, jaka sami jestesmy pocieszani przez Boga. </v>
+<v n="5"> Jak bowiem w nas obfituja utrapienia Chrystusa, tak tez przez Chrystusa obfituje nasza pociecha. </v>
+<v n="6"> Jesli wiec doznajemy ucisku – to dla waszego pocieszenia i zbawienia, ktore sprawia, ze znosicie te same utrapienia, ktore i my cierpimy; i jesli doznajemy pociechy – to dla waszego pocieszenia i zbawienia. </v>
+<v n="7"> A nasza nadzieja co do was jest mocna, bo wiemy, ze jak jestescie uczestnikami utrapienia, tak i pociechy. </v>
+<v n="8"> Nie chcemy bowiem, bracia, abyscie nie wiedzieli o ucisku, ktory nas spotkal w Azji, ze bylismy obciazeni ponad miare i ponad sily, tak ze zaczelismy watpic, czy przezyjemy. </v>
+<v n="9"> Wiecej, sami w sobie mielismy wyrok smierci, abysmy nie ufali samym sobie, lecz Bogu, ktory wskrzesza umarlych. </v>
+<v n="10"> On to wyrwal nas z tak wielkiej smierci i jeszcze wyrywa. W nim tez mamy nadzieje, ze nadal bedzie wyrywac; </v>
+<v n="11"> Takze przy waszej pomocy poprzez modlitwe za nas, aby dar, ktory otrzymalismy dzieki wielu, stal sie dla wielu powodem dziekczynienia za nas. </v>
+<v n="12"> To bowiem jest nasza chluba: swiadectwo naszego sumienia, ze w prostocie i w szczerosci Bozej, nie w cielesnej madrosci, ale w lasce Boga postepowalismy na swiecie, a szczegolnie wzgledem was. </v>
+<v n="13"> Nie piszemy wam nic innego, jak tylko to, co czytacie albo rozumiecie. Spodziewam sie zas, ze tez do konca zrozumiecie; </v>
+<v n="14"> Jak juz po czesci nas zrozumieliscie, ze jestesmy wasza chluba, jak i wy nasza w dniu Pana Jezusa. </v>
+<v n="15"> Z ta ufnoscia chcialem przybyc do was wczesniej, abyscie otrzymali powtorne dobrodziejstwo; </v>
+<v n="16"> A od was udac sie do Macedonii, a z Macedonii znowu przybyc do was i zostac przez was wyprawionym do Judei. </v>
+<v n="17"> Czy wiec tak postanawiajac, postapilem lekkomyslnie? Albo czy to, co postanawiam, postanawiam wedlug ciala, aby bylo u mnie „tak, tak” i „nie, nie”? </v>
+<v n="18"> Lecz jak Bog jest wierny, tak nasze slowa do was nie byly „tak” i „nie”. </v>
+<v n="19"> Poniewaz Syn Bozy, Jezus Chrystus, ktory wsrod was gloszony byl przez nas, to znaczy przeze mnie, Sylwana i Tymoteusza, nie byl „tak” i „nie”, lecz bylo w nim „tak”. </v>
+<v n="20"> Ile jest bowiem obietnic Boga, w nim sa „tak” i w nim sa „Amen”, ku chwale Boga przez nas. </v>
+<v n="21"> Tym zas, ktory utwierdza nas razem z wami w Chrystusie i ktory nas namascil, jest Bog; </v>
+<v n="22"> Ktory tez zapieczetowal nas i dal do naszych serc Ducha jako zadatek. </v>
+<v n="23"> A ja wzywam Boga na swiadka mojej duszy, ze aby was oszczedzic, nie przybylem dotad do Koryntu. </v>
+<v n="24"> Nie dlatego, ze panujemy nad wasza wiara, ale jestesmy pomocnikami waszej radosci; wiara bowiem stoicie. </v>
+</c>

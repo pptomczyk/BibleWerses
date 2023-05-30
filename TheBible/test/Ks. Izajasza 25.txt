@@ -1,0 +1,13 @@
+<v n="1"> PANIE, ty jestes moim Bogiem; bede cie wywyzszac i wyslawiac twoje imie, bo uczyniles cudowne rzeczy; twoje postanowienia, z dawna powziete, sa wiernoscia i prawda. </v>
+<v n="2"> Bo obrociles miasto w rumowisko, miasto obronne w ruiny. Palac cudzoziemcow przestal byc miastem, nigdy nie bedzie odbudowany. </v>
+<v n="3"> Dlatego bedzie cie wielbic lud mocny; miasto okrutnych narodow bedzie sie ciebie bac. </v>
+<v n="4"> Ty bowiem jestes twierdza dla ubogiego, twierdza dla nedzarza w jego ucisku, ucieczka przed powodzia, zaslona przed upalem, gdy wscieklosc okrutnikow jest jak powodz bijaca w sciane. </v>
+<v n="5"> Wrzawe cudzoziemcow stlumisz jak upal na wysuszonej ziemi, jak upal – cieniem obloku. Okrucienstwo okrutnikow bedzie ponizone. </v>
+<v n="6"> Na tej gorze PAN zastepow wyprawi wszystkim ludom uczte z tlustych potraw, uczte z wystalego wina, z tlustych potraw ze szpikiem, z wina wystalego i czystego. </v>
+<v n="7"> I zniszczy na tej gorze zaslone rozpostarta nad wszystkimi ludzmi i przykrycie rozciagniete nad wszystkimi narodami. </v>
+<v n="8"> Polknie smierc w zwyciestwie, a Pan BOG otrze lzy z kazdego oblicza i zdejmie z calej ziemi hanbe swego ludu, bo tak PAN powiedzial. </v>
+<v n="9"> I w tym dniu bedzie sie mowic: Oto nasz Bog, jego oczekiwalismy i on nas wybawi. To jest PAN, jego oczekiwalismy; bedziemy sie weselic i radowac z jego zbawienia. </v>
+<v n="10"> Na tej gorze bowiem spocznie reka PANA, a Moab bedzie zdeptany przez niego, jak depcze sie slome na gnojowisku. </v>
+<v n="11"> I rozciagnie swoje rece posrodku niego, jak je rozciaga plywak, by plywac, i ponizy jego wynioslosc wraz z wysilkami jego rak. </v>
+<v n="12"> A twoje wysokie mury obronne obali, zburzy i zrzuci na ziemie – obroci je w proch. </v>
+</c>

@@ -1,0 +1,27 @@
+<v n="1"> Potem wprowadzil mnie do swiatyni i zmierzyl filary: szesc lokci wynosila szerokosc z jednej strony i szesc lokci szerokosc z drugiej strony, wedlug szerokosci przybytku. </v>
+<v n="2"> A szerokosc drzwi wynosila dziesiec lokci, a boczne sciany wejscia mialy piec lokci z jednej i piec lokci z drugiej strony. I zmierzyl jej dlugosc: czterdziesci lokci, a jej szerokosc: dwadziescia lokci. </v>
+<v n="3"> Nastepnie wszedl do wnetrza i zmierzyl filary przy wejsciu – dwa lokcie, drzwi – szesc lokci, a szerokosc drzwi – siedem lokci. </v>
+<v n="4"> Zmierzyl tez dlugosc – dwadziescia lokci, jego szerokosc – dwadziescia lokci, odpowiednio do swiatyni. I powiedzial do mnie: To jest Miejsce Najswietsze. </v>
+<v n="5"> Potem zmierzyl mur domu – szesc lokci, a szerokosc kazdej bocznej komory – cztery lokcie wokol calego domu. </v>
+<v n="6"> Boczne komory znajdowaly sie na trzech poziomach, jedna nad druga, w liczbie trzydziestu. Wchodzily one w mur otaczajacy dom, aby komory na nim sie opieraly, ale nie opieraly sie na murze domu. </v>
+<v n="7"> I rozszerzaly sie boczne komory dokola domu, odpowiednio do wzrastajacej wysokosci, gdyz mur dokola domu tracil na grubosci. Dlatego szerokosc domu wzrastala od najnizszych komor do najwyzszych, do ktorych sie wchodzilo schodami poprzez te srodkowe. </v>
+<v n="8"> Widzialem tez wysokosc domu dokola i fundament tych komor, a mial pelny pret – szesc lokci. </v>
+<v n="9"> Grubosc zewnetrznego muru bocznych komor wynosila piec lokci, a przed komorami, ktore byly przy domu, pozostala wolna przestrzen. </v>
+<v n="10"> A miedzy komorami i komorkami odleglosc wynosila dwadziescia lokci wszedzie wokol domu. </v>
+<v n="11"> A drzwi bocznych komor wychodzily na wolna przestrzen, jedne drzwi na polnoc, a drugie na poludnie. Szerokosc tej wolnej przestrzeni wynosila piec lokci wszedzie dokola. </v>
+<v n="12"> A budowla, ktora byla poza obszarem wyznaczonym na stronie zachodniej, miala szerokosc siedemdziesieciu lokci, mur tej budowli mial grubosc pieciu lokci wszedzie wokolo i jej dlugosc wynosila dziewiecdziesiat lokci. </v>
+<v n="13"> Potem zmierzyl dom – mial dlugosc stu lokci; a obszar wyznaczony, budowla i jej mury mialy dlugosc stu lokci; </v>
+<v n="14"> Takze szerokosc fasady domu oraz obszaru wyznaczonego od strony wschodniej wynosila sto lokci. </v>
+<v n="15"> Zmierzyl tez dlugosc budowli przed obszarem wyznaczonym, ktora byla za nim, takze i jej kruzganki z jednej i z drugiej strony, i wynosila sto lokci, a tak samo bylo z wewnetrzna swiatynia wraz z przedsionkami dziedzinca. </v>
+<v n="16"> Progi, waskie okna, kruzganki wokolo trzech stron naprzeciwko progu pokryte byly deskami dokola, od ziemi az do okien, a okna byly pokryte deskami; </v>
+<v n="17"> Od wierzchu drzwi az do wewnetrznej i zewnetrznej strony domu, i caly mur wszedzie dokola, wewnatrz i zewnatrz, dobrze wymierzony. </v>
+<v n="18"> Tak oto byly wykonane cherubiny i palmy: kazda palma byla miedzy dwoma cherubinami, a kazdy cherubin mial dwie twarze; </v>
+<v n="19"> Twarz ludzka byla zwrocona w strone palmy z jednej strony, a twarz mlodego lwa zwrocona w strone palmy z drugiej strony. Tak wykonano to w calym domu wszedzie wokolo. </v>
+<v n="20"> Od ziemi az ponad wejscie byly wyrzezbione cherubiny i palmy, takze na scianie swiatyni. </v>
+<v n="21"> Filary swiatyni byly czworokatne, a wyglad Miejsca Najswietszego byl jak wyglad swiatyni. </v>
+<v n="22"> Oltarz drewniany byl wysoki na trzy lokcie i szeroki na dwa lokcie; jego rogi, jego podstawa i jego sciany byly z drewna. Wtedy powiedzial do mnie: To jest stol, ktory stoi przed PANEM. </v>
+<v n="23"> A swiatynia i Miejsce Najswietsze mialy podwojne drzwi. </v>
+<v n="24"> A drzwi byly dwuskrzydlowe, mialy dwa skrzydla obrotowe; dwa skrzydla mialy jedne drzwi i dwa mialy drugie. </v>
+<v n="25"> A wykonano na nich, na tych drzwiach swiatyni, cherubiny i palmy, tak jak wykonano je na scianach; byly takze drewniane belki nad przedsionkiem na zewnatrz. </v>
+<v n="26"> Na waskich oknach byly palmy po obu stronach, na bokach przedsionka, takze na bocznych komorach domu i na belkach. </v>
+</c>

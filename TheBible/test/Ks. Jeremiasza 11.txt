@@ -1,0 +1,24 @@
+<v n="1"> Slowo, ktore doszlo do Jeremiasza od PANA, mowiace: </v>
+<v n="2"> Sluchajcie slow tego przymierza i mowcie do mezczyzn Judy i do mieszkancow Jerozolimy; </v>
+<v n="3"> Powiedz do nich: Tak mowi PAN, Bog Izraela: Przeklety ten czlowiek, ktory nie poslucha slow tego przymierza; </v>
+<v n="4"> Ktore nakazalem waszym ojcom w dniu, kiedy wyprowadzilem ich z ziemi Egiptu, z pieca do topienia zelaza, mowiac: Sluchajcie mojego glosu i czyncie to wszystko, co wam nakazuje; i bedziecie moim ludem, a ja bede waszym Bogiem; </v>
+<v n="5"> Abym mogl wypelnic przysiege, ktora zlozylem waszym ojcom, ze dam im ziemie oplywajaca mlekiem i miodem, jak to jest dzisiaj. A ja odpowiedzialem: Amen, PANIE! </v>
+<v n="6"> I PAN powiedzial do mnie: Glos wszystkie te slowa w miastach Judy i po ulicach Jerozolimy, mowiac: Sluchajcie slow tego przymierza i wypelniajcie je. </v>
+<v n="7"> Usilnie bowiem ostrzegalem waszych ojcow od dnia, kiedy wyprowadzilem ich z ziemi Egiptu, az do dzis, z wczesnym wstawaniem i ostrzeganiem, mowiac: Sluchajcie mego glosu. </v>
+<v n="8"> Oni jednak nie usluchali ani nie naklonili swego ucha, ale kazdy postepowal wedlug uporu swego zlego serca. Dlatego sprowadzilem na nich wszystkie slowa tego przymierza, ktore nakazalem im wypelniac, a nie wypelnili. </v>
+<v n="9"> I PAN powiedzial do mnie: Znalazl sie spisek wsrod mezczyzn Judy i mieszkancow Jerozolimy. </v>
+<v n="10"> Wrocili do nieprawosci swoich przodkow, ktorzy nie chcieli sluchac moich slow; poszli i oni za innymi bogami, aby im sluzyc. Dom Izraela i dom Judy zlamaly moje przymierze, ktore zawarlem z ich ojcami. </v>
+<v n="11"> Dlatego tak mowi PAN: Oto sprowadze na nich nieszczescie, z ktorego nie beda mogli sie wydostac; a chocby wolali do mnie, nie wyslucham ich. </v>
+<v n="12"> I pojda miasta Judy i mieszkancy Jerozolimy i beda wolac do bogow, ktorym pala kadzidlo, lecz oni wcale ich nie wybawia w czasie ich utrapienia. </v>
+<v n="13"> Ile bowiem jest twoich miast, tylu twoich bogow, Judo! Ile ulic w Jerozolimie, tyle wzniesliscie oltarzy obrzydliwosci, oltarzy do palenia kadzidla Baalowi. </v>
+<v n="14"> Dlatego ty sie nie modl za ten lud i nie zanos za niego wolania ani modlitwy, bo ja go nie wyslucham, gdy do mnie bedzie wolac w czasie swego utrapienia. </v>
+<v n="15"> Coz chce moja umilowana w moim domu, skoro bez wstydu dopuscila sie sprosnosci z wieloma, a ofiary swiete odeszly od ciebie? Radujesz sie, gdy czynisz zlo. </v>
+<v n="16"> PAN nazwal cie zielonym drzewem oliwnym, pieknym, dajacym piekny owoc, ale wsrod huku wielkiej burzy rozpalil nad nim ogien, polamane sa jego galezie. </v>
+<v n="17"> PAN zastepow bowiem, ktory cie zasadzil, zapowiedzial przeciwko tobie to nieszczescie z powodu niegodziwosci domu Izraela i domu Judy, ktora popelnily na wlasna szkode, aby mnie pobudzac do gniewu, palac kadzidlo Baalowi. </v>
+<v n="18"> A PAN oznajmil mi to i zrozumialem; wtedy ukazales mi ich uczynki. </v>
+<v n="19"> Ja zas bylem jak baranek i wol prowadzony na rzez, bo nie wiedzialem, ze przeciwko mnie knuli zamysly, mowiac: Zniszczmy drzewo wraz z jego owocem i wykorzenmy go z ziemi zyjacych, aby jego imie juz nie bylo wspominane. </v>
+<v n="20"> Lecz, PANIE zastepow, ktory sadzisz sprawiedliwie i badasz nerki i serca, niech zobacze twoja pomste nad nimi. Wyjawilem ci bowiem swoja sprawe. </v>
+<v n="21"> Dlatego tak mowi PAN o mezczyznach z Anatot, ktorzy nastaja na twoje zycie i mowia: Nie prorokuj w imie PANA, abys nie zginal z naszej reki. </v>
+<v n="22"> Dlatego tak mowi PAN zastepow: Oto nawiedze ich; ich mlodziency zgina od miecza, ich synowie i corki umra z glodu. </v>
+<v n="23"> I nikt z nich nie zostanie, bo sprowadze nieszczescie na ludzi z Anatot w roku ich nawiedzenia. </v>
+</c>

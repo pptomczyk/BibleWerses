@@ -1,0 +1,26 @@
+<v n="1"> Zifejczycy przyszli do Saula, do Gibea, i powiedzieli: Czy Dawid nie ukrywa sie na wzgorzu Hakila, naprzeciwko Jeszimonu? </v>
+<v n="2"> Saul wyruszyl wiec i udal sie na pustynie Zif, a razem z nim trzy tysiace doborowych mezczyzn sposrod Izraela, aby szukac Dawida na pustyni Zif. </v>
+<v n="3"> Saul rozbil oboz na wzgorzu Hakila, ktore lezy naprzeciwko Jeszimonu, przy drodze. Dawid zas przebywal na pustyni i dowiedzial sie, ze Saul przybyl za nim na pustynie. </v>
+<v n="4"> Dawid wyslal wiec zwiadowcow i przekonal sie, ze Saul rzeczywiscie przybyl. </v>
+<v n="5"> Wtedy Dawid wstal i przybyl na miejsce, gdzie Saul rozbil oboz. I Dawid spostrzegl miejsce, gdzie lezeli Saul i Abner, syn Nera, dowodca jego wojska. Saul bowiem spal w srodku obozu, a ludzie lezeli wokol niego. </v>
+<v n="6"> I Dawid odezwal sie do Achimeleka Chetyty i do Abiszaja, syna Serui, brata Joaba: Kto pojdzie ze mna do Saula do obozu? Abiszaj odpowiedzial: Ja pojde z toba. </v>
+<v n="7"> Przyszli wiec Dawid i Abiszaj w nocy do tych ludzi. I oto Saul, lezac, spal w srodku obozu, a jego wlocznia byla wbita w ziemie przy jego glowie. Abner zas i ludzie lezeli dokola niego. </v>
+<v n="8"> Wtedy Abiszaj powiedzial do Dawida: Dzis Bog wydal twego wroga w twoje rece. Pozwol mi wiec teraz go przybic wlocznia do ziemi jeden raz, drugiego nie bedzie trzeba. </v>
+<v n="9"> Ale Dawid odpowiedzial Abiszajowi: Nie zabijaj go, bo ktoz moze wyciagnac reke na pomazanca PANA i pozostac niewinny? </v>
+<v n="10"> Dawid dodal: Jak zyje PAN, sam PAN go zabije albo nadejdzie jego dzien i umrze, albo wyruszy na wojne i zginie. </v>
+<v n="11"> Nie daj Boze, abym mial wyciagnac swoja reke na pomazanca PANA. Tylko wez, prosze, wlocznie, ktora jest przy jego glowie, oraz dzban na wode i odejdzmy. </v>
+<v n="12"> Dawid wzial wiec wlocznie i dzban na wode, ktore lezaly przy glowie Saula, i odeszli. Nikt tego nie widzial ani nie zauwazyl, ani sie nie obudzil, bo wszyscy spali. Spadl na nich bowiem twardy sen od PANA. </v>
+<v n="13"> Potem Dawid przeszedl na druga strone i stanal na szczycie gory daleko od obozu, tak ze odleglosc miedzy nimi byla wielka. </v>
+<v n="14"> Wtedy Dawid zawolal do ludzi i do Abnera, syna Nera: Czy nie odezwiesz sie, Abnerze? Abner odpowiedzial: Ktoz ty jestes, ktory wolasz do krola? </v>
+<v n="15"> Dawid odpowiedzial Abnerowi: Czy ty nie jestes dzielnym mezczyzna? A ktoz w Izraelu jest jak ty? Dlaczego wiec nie strzegles krola, swego pana? Przyszedl bowiem jeden z ludu, aby zabic krola, twego pana. </v>
+<v n="16"> Nie jest dobre to, co uczyniles. Jak zyje PAN, zaslugujecie na smierc, bo nie strzegliscie swojego pana, pomazanca PANA. A teraz patrz, gdzie jest wlocznia krola i dzban na wode, ktore byly przy jego glowie. </v>
+<v n="17"> Wtedy Saul rozpoznal glos Dawida i zawolal: Czy to twoj glos, moj synu, Dawidzie? Dawid odpowiedzial: To moj glos, moj panie, krolu. </v>
+<v n="18"> I dodal: Dlaczego moj pan sciga swego sluge? Coz bowiem uczynilem? A jakiez zlo znajduje sie w moich rekach? </v>
+<v n="19"> Teraz wiec, prosze, niech moj pan, krol, poslucha slow swego slugi. Jesli PAN pobudzil cie przeciwko mnie, niech przyjmie ofiary. Lecz jesli synowie ludzcy, to niech beda przekleci przed PANEM, gdyz wypedzaja mnie dzis, abym nie mieszkal w dziedzictwie PANA, mowiac: Idz, sluz obcym bogom. </v>
+<v n="20"> A teraz niech moja krew nie zostanie wylana na ziemie przed obliczem PANA. Wyszedl bowiem krol Izraela, aby szukac jednej pchly, jak wtedy, gdy poluje sie na kuropatwe w gorach. </v>
+<v n="21"> Wtedy Saul powiedzial: Zgrzeszylem. Wroc, moj synu, Dawidzie, bo nie uczynie ci juz nic zlego, poniewaz dzis moja dusza byla cenna w twoich oczach. Oto glupio postapilem i wielce zbladzilem. </v>
+<v n="22"> Dawid odpowiedzial: Oto wlocznia krola. Niech przyjdzie jeden ze slug i ja odbierze. </v>
+<v n="23"> I niech PAN wynagrodzi kazdemu za jego sprawiedliwosc i wiernosc. PAN bowiem wydal cie dzis w moje rece, ale nie chcialem wyciagnac swojej reki na pomazanca PANA. </v>
+<v n="24"> Oto jak powazane bylo dzis twoje zycie w moich oczach, tak niech bedzie powazane moje zycie w oczach PANA i niech mnie PAN wybawi z wszelkiego ucisku. </v>
+<v n="25"> Wtedy Saul powiedzial do Dawida: Badz blogoslawiony ty, moj synu, Dawidzie. Wielu dziel dokonasz i bedziesz zwyciezal. Potem Dawid poszedl swoja droga, a Saul wrocil na swoje miejsce. </v>
+</c>

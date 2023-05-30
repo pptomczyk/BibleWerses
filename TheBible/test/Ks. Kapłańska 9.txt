@@ -1,0 +1,25 @@
+<v n="1"> A osmego dnia Mojzesz wezwal Aarona, jego synow i starszych Izraela. </v>
+<v n="2"> I powiedzial do Aarona: Wez sobie mlodego cielca na ofiare za grzech i barana na calopalenie, oba bez skazy, i zloz je w ofierze przed PANEM. </v>
+<v n="3"> A do synow Izraela powiesz: Wezcie kozla z koz na ofiare za grzech oraz cielca i barana, jednoroczne i bez skazy, na calopalenie; </v>
+<v n="4"> Takze wolu i barana na ofiary pojednawcze, by zlozyc je przed PANEM, i ofiare pokarmowa zmieszana z oliwa; bo dzis PAN wam sie ukaze. </v>
+<v n="5"> I przyprowadzili to, co Mojzesz rozkazal, przed Namiot Zgromadzenia. A caly lud zblizyl sie i stanal przed PANEM. </v>
+<v n="6"> Wtedy Mojzesz powiedzial: Oto co PAN nakazal wam uczynic; a ukaze sie wam chwala PANA. </v>
+<v n="7"> Do Aarona zas Mojzesz powiedzial: Zbliz sie do oltarza i zloz swoja ofiare za grzech i swoje calopalenie, i dokonaj przeblagania za siebie i lud. Zloz tez ofiare ludu i dokonaj za niego przeblagania, jak PAN rozkazal. </v>
+<v n="8"> Aaron zblizyl sie wiec do oltarza i zabil cielca na ofiare za grzech za siebie. </v>
+<v n="9"> I synowie Aarona podali mu krew, a on umoczyl swoj palec we krwi i pomazal nia rogi oltarza, a reszte krwi wylal u podstawy oltarza; </v>
+<v n="10"> Ale tluszcz, nerki i plat tluszczu na watrobie z ofiary za grzech spalil na oltarzu, jak PAN rozkazal Mojzeszowi; </v>
+<v n="11"> Mieso zas i skore spalil w ogniu poza obozem. </v>
+<v n="12"> Zabil tez ofiare calopalna, a synowie Aarona podali mu krew, ktora pokropil oltarz dokola. </v>
+<v n="13"> Przyniesli mu tez ofiare calopalna podzielona na czesci wraz z glowa, a on spalil to na oltarzu; </v>
+<v n="14"> Obmyl tez wnetrznosci oraz nogi i spalil je z ofiara calopalna na oltarzu. </v>
+<v n="15"> Potem przyprowadzil ofiare ludu. Wzial kozla przeznaczonego na ofiare za grzech za lud, zabil go i zlozyl na ofiare za grzech, tak jak poprzednio. </v>
+<v n="16"> Przyprowadzil tez ofiare calopalna i uczynil z nia wedlug przepisu. </v>
+<v n="17"> Przyprowadzil tez ofiare pokarmowa. Wzial z niej pelna garsc i spalil na oltarzu, oprocz ofiary calopalnej porannej. </v>
+<v n="18"> Zabil tez wolu i barana jako ofiare pojednawcza za lud. I synowie Aarona podali mu krew, ktora pokropil oltarz dokola. </v>
+<v n="19"> Podali mu takze tluszcz z wolu i barana, ogon, tluszcz pokrywajacy wnetrznosci oraz nerki i plat tluszczu na watrobie. </v>
+<v n="20"> Wlozyli tez tluszcz na mostkach, a on spalil tluszcz na oltarzu; </v>
+<v n="21"> Mostki zas i prawa lopatke Aaron kolysal na ofiare kolysana przed PANEM, jak Mojzesz nakazal. </v>
+<v n="22"> Potem Aaron podniosl rece w strone ludu i poblogoslawil go, a po zlozeniu ofiary za grzech, ofiary calopalnej i ofiary pojednawczej zszedl na dol. </v>
+<v n="23"> Wtedy Mojzesz i Aaron weszli do Namiotu Zgromadzenia, potem wyszli i poblogoslawili lud. I chwala PANA ukazala sie calemu ludowi. </v>
+<v n="24"> I wyszedl ogien sprzed PANA, i strawil na oltarzu ofiare calopalna oraz tluszcz. A gdy caly lud to ujrzal, krzyknal z radosci i upadl na twarz. </v>
+</c>

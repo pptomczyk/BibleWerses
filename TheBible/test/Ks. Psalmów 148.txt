@@ -1,0 +1,15 @@
+<v n="1"> Alleluja. Chwalcie PANA z niebios, chwalcie go na wysokosciach. </v>
+<v n="2"> Chwalcie go, wszyscy jego aniolowie; chwalcie go, wszystkie jego zastepy. </v>
+<v n="3"> Chwalcie go, slonce i ksiezycu; chwalcie go, wszystkie gwiazdy swiecace. </v>
+<v n="4"> Chwalcie go, niebiosa nad niebiosami i wody, ktore sa nad niebiosami. </v>
+<v n="5"> Niech chwala imie PANA, on bowiem rozkazal i zostaly stworzone. </v>
+<v n="6"> I ustanowil je na wieki wiekow; dal prawo, ktore nie przeminie. </v>
+<v n="7"> Chwalcie PANA z ziemi, smoki i wszystkie glebiny. </v>
+<v n="8"> Ogniu i gradzie, sniegu i paro, wietrze gwaltowny, wykonujacy jego rozkaz; </v>
+<v n="9"> Gory i wszystkie pagorki, drzewa owocowe i wszystkie cedry; </v>
+<v n="10"> Zwierzeta i wszelkie bydlo, istoty pelzajace i ptactwo skrzydlate. </v>
+<v n="11"> Krolowie ziemscy i wszystkie narody; wladcy i wszyscy sedziowie ziemi; </v>
+<v n="12"> Mlodziency, a takze dziewice, starzy i dzieci; </v>
+<v n="13"> Niech chwala imie PANA, bo tylko jego imie jest wzniosle, a jego chwala nad ziemia i niebem. </v>
+<v n="14"> I wywyzszyl rog swego ludu, chwale wszystkich jego swietych, zwlaszcza synow Izraela, ludu mu bliskiego. Alleluja. </v>
+</c>

@@ -1,0 +1,14 @@
+<v n="1"> Chocbym mowil jezykami ludzi i aniolow, a milosci bym nie mial, stalbym sie jak miedz brzeczaca albo cymbal brzmiacy. </v>
+<v n="2"> I chocbym mial dar prorokowania, i znal wszystkie tajemnice, i posiadal wszelka wiedze, i chocbym mial pelnie wiary, tak, zebym gory przenosil, a milosci bym nie mial, bylbym niczym. </v>
+<v n="3"> I chocbym rozdal na zywnosc dla ubogich caly swoj majatek, i chocbym wydal swoje cialo na spalenie, a milosci bym nie mial, nic nie zyskam. </v>
+<v n="4"> Milosc jest cierpliwa, jest zyczliwa. Milosc nie zazdrosci, nie przechwala sie, nie unosi sie pycha; </v>
+<v n="5"> Nie postepuje nieprzyzwoicie, nie szuka swego, nie jest porywcza, nie mysli nic zlego; </v>
+<v n="6"> Nie raduje sie z niesprawiedliwosci, ale raduje sie z prawdy; </v>
+<v n="7"> Wszystko znosi, wszystkiemu wierzy, wszystkiego sie spodziewa, wszystko przetrzyma. </v>
+<v n="8"> Milosc nigdy nie ustaje. Bo choc sa proroctwa, przemina; choc jezyki, ustana; choc wiedza, obroci sie wniwecz. </v>
+<v n="9"> Po czesci bowiem poznajemy i po czesci prorokujemy. </v>
+<v n="10"> Ale gdy przyjdzie to, co doskonale, wtedy przeminie to, co jest czastkowe. </v>
+<v n="11"> Dopoki bylem dzieckiem, mowilem jak dziecko, rozumialem jak dziecko, myslalem jak dziecko. Lecz gdy stalem sie mezczyzna, zaniechalem tego, co dzieciece. </v>
+<v n="12"> Teraz bowiem widzimy w zwierciadle, niewyraznie, ale wowczas twarza w twarz. Teraz poznaje czastkowo, ale wtedy poznam tak, jak jestem poznany. </v>
+<v n="13"> A teraz trwaja wiara, nadzieja, milosc, te trzy. Z nich zas najwieksza jest milosc. </v>
+</c>

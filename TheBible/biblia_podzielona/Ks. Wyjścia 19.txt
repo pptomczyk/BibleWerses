@@ -1,0 +1,26 @@
+<v n="1"> W trzecim miesi¹cu od wyjœcia synów Izraela z ziemi Egiptu, w tym samym dniu, przyszli na pustyniê Synaj. </v>
+<v n="2"> Bo wyruszyli z Refidim i po przybyciu na pustyniê Synaj rozbili obóz na pustyni; tam Izrael obozowa³ naprzeciw góry. </v>
+<v n="3"> A Moj¿esz wst¹pi³ do Boga i PAN zawo³a³ do niego z góry: Tak powiesz domowi Jakuba i oznajmisz synom Izraela: </v>
+<v n="4"> Widzieliœcie, co uczyni³em Egipcjanom i jak nios³em was na skrzyd³ach or³ów, i przyprowadzi³em was do siebie. </v>
+<v n="5"> Dlatego teraz, jeœli pos³uchacie mego g³osu i bêdziecie przestrzegaæ mojego przymierza, bêdziecie moj¹ szczególn¹ w³asnoœci¹ ponad wszystkie narody, bo do mnie nale¿y ca³a ziemia. </v>
+<v n="6"> A wy bêdziecie mi królestwem kap³anów i narodem œwiêtym. To s¹ s³owa, które bêdziesz mówiæ do synów Izraela. </v>
+<v n="7"> Wtedy Moj¿esz przyszed³ i zwo³a³ starszych ludu, i wy³o¿y³ im wszystkie te s³owa, które mu PAN nakaza³. </v>
+<v n="8"> Ca³y lud odpowiedzia³ wspólnie: Uczynimy wszystko, co PAN powiedzia³. I Moj¿esz zaniós³ s³owa ludu do PANA. </v>
+<v n="9"> PAN powiedzia³ do Moj¿esza: Oto przyjdê do ciebie w gêstym ob³oku, aby lud s³ysza³, gdy bêdê z tob¹ rozmawia³, i uwierzy³ ci na zawsze. A Moj¿esz przekaza³ PANU s³owa ludu. </v>
+<v n="10"> PAN zaœ mówi³ do Moj¿esza: IdŸ do ludu i uœwiêæ ich dziœ i jutro, i niech wypior¹ swoje szaty. </v>
+<v n="11"> Niech bêd¹ gotowi na trzeci dzieñ. Trzeciego dnia bowiem PAN zst¹pi na oczach ca³ego ludu na górê Synaj. </v>
+<v n="12"> I wyznaczysz ludowi granice doko³a, mówi¹c: Strze¿cie siê, abyœcie nie wstêpowali na górê ani nie dotykali jej podnó¿a. Ka¿dy, kto dotknie góry, poniesie œmieræ. </v>
+<v n="13"> Nie dotknie go rêka, ale ukamienuj¹ go albo przeszyj¹ strza³ami; czy to zwierzê, czy cz³owiek, nie bêdzie ¿yæ. Gdy przeci¹gle bêd¹ tr¹biæ, niech podejd¹ do góry. </v>
+<v n="14"> Moj¿esz zst¹pi³ wiêc z góry do ludu i uœwiêci³ lud, a oni uprali swoje szaty. </v>
+<v n="15"> I mówi³ do ludu: B¹dŸcie gotowi na trzeci dzieñ, nie zbli¿ajcie siê do ¿on. </v>
+<v n="16"> Trzeciego dnia o poranku pojawi³y siê grzmoty i b³yskawice, i gêsty ob³ok nad gór¹, i bardzo potê¿ny g³os tr¹by, tak ¿e ca³y lud, który by³ w obozie, zadr¿a³. </v>
+<v n="17"> I Moj¿esz wyprowadzi³ lud z obozu na spotkanie z Bogiem, i stanêli u stóp góry. </v>
+<v n="18"> A góra Synaj ca³a dymi³a, gdy¿ PAN zst¹pi³ na ni¹ w ogniu. Dym unosi³ siê z niej jak dym z pieca i ca³a góra bardzo siê trzês³a. </v>
+<v n="19"> A gdy g³os tr¹by siê przeci¹ga³ i coraz bardziej siê rozlega³, Moj¿esz mówi³, a Bóg odpowiada³ mu g³osem. </v>
+<v n="20"> I PAN zst¹pi³ na górê Synaj, na szczyt góry. Wtedy PAN wezwa³ Moj¿esza na szczyt góry i Moj¿esz tam wst¹pi³. </v>
+<v n="21"> Potem PAN powiedzia³ do Moj¿esza: ZejdŸ, przestrze¿ lud, by nie przekroczy³ granicy, aby zobaczyæ PANA, i aby wielu z nich nie zginê³o. </v>
+<v n="22"> Nawet kap³ani, którzy zbli¿aj¹ siê do PANA, niech siê uœwiêc¹, by ich PAN nie wytraci³. </v>
+<v n="23"> I Moj¿esz powiedzia³ do PANA: Lud nie mo¿e wejœæ na górê Synaj, poniewa¿ ty nas przestrzeg³eœ, mówi¹c: Wyznacz granice wokó³ góry i uœwiêæ j¹. </v>
+<v n="24"> PAN powiedzia³ do niego: IdŸ, zejdŸ, a potem wst¹pisz ty i Aaron z tob¹. Lecz kap³ani i lud niech nie przekraczaj¹ granicy, by wst¹piæ do PANA, aby ich nie wytraci³. </v>
+<v n="25"> Moj¿esz zszed³ wiêc do ludu i powiedzia³ im to. </v>
+</c>

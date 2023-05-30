@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi choru. Psalm i piesn Dawida. Tobie, Boze, nalezy sie chwala na Syjonie i tobie zlozone sluby nalezy wypelnic. </v>
+<v n="2"> Ty wysluchujesz modlitwy, dlatego do ciebie przyjdzie wszelkie cialo. </v>
+<v n="3"> Wielkie nieprawosci wziely gore nad nami; ty oczyszczasz nasze wystepki. </v>
+<v n="4"> Blogoslawiony, kogo ty wybierasz i przyjmujesz, aby mieszkal w twoich przedsionkach; bedziemy nasyceni dobrami twego domu, twej swietej swiatyni. </v>
+<v n="5"> Straszliwymi rzeczami odpowiesz nam wedlug sprawiedliwosci, Boze naszego zbawienia, nadziejo wszystkich krancow ziemi i morz dalekich. </v>
+<v n="6"> Ty, ktory utwierdzasz gory swoja moca, przepasany potega; </v>
+<v n="7"> Ty, ktory uciszasz szum morza, szum jego fal, i wrzawe narodow; </v>
+<v n="8"> Mieszkancy krancow ziemi boja sie twoich znakow; ty radujesz ich nastawaniem poranka i wieczora. </v>
+<v n="9"> Nawiedzasz ziemie i zraszasz ja, wzbogacasz ja obficie strumieniem Bozym pelnym wody. Przygotowujesz im zboze, gdy tak przysposabiasz ziemie. </v>
+<v n="10"> Nawadniasz jej zagony, wyrownujesz jej bruzdy, zmiekczasz ja deszczami i blogoslawisz jej urodzaje. </v>
+<v n="11"> Wienczysz rok swoja dobrocia, a twoje sciezki ociekaja tluszczem. </v>
+<v n="12"> Skrapiasz pustynne pastwiska, a pagorki przepasuja sie radoscia. </v>
+<v n="13"> Laki przyodziewaja sie stadami, a doliny okrywaja sie zbozem; wykrzykuja radosnie i spiewaja. </v>
+</c>

@@ -1,0 +1,13 @@
+<v n="1"> I powiedzialem: Sluchajcie, naczelnicy Jakuba i wodzowie domu Izraela! Czy wy nie powinniscie znac sadu? </v>
+<v n="2"> Wy, ktorzy nienawidzicie dobra, a kochacie zlo, ktorzy zdzieracie z ludu skore i cialo z jego kosci; </v>
+<v n="3"> Ktorzy jecie cialo mojego ludu, skore z niego zdzieracie, jego kosci lamiecie i kroicie je na kawalki jak do garnca i jak mieso do kotla. </v>
+<v n="4"> Wtedy beda wolac do PANA, a nie wyslucha ich, lecz zakryje swoje oblicze przed nimi w tym czasie, gdyz oni popelniali zle czyny. </v>
+<v n="5"> Tak mowi PAN o tych prorokach, ktorzy w blad wprowadza moj lud, ktorzy gryza swoimi zebami i glosza pokoj, a temu, ktory nic im nie wlozy do ust, wypowiadaja wojne. </v>
+<v n="6"> Dlatego wasze widzenie zamienia sie w noc, a wasza wrozba – w ciemnosc; slonce zajdzie nad prorokami i dzien sie zacmi nad nimi. </v>
+<v n="7"> Wtedy widzacy beda sie wstydzic i wrozbiarze sie zarumienia. Oni wszyscy zakryja swoje wargi, bo nie bedzie zadnej odpowiedzi od Boga. </v>
+<v n="8"> Ale ja jestem napelniony moca Ducha PANA oraz sadu i sily, aby oznajmic Jakubowi jego wystepki i Izraelowi jego grzech. </v>
+<v n="9"> Sluchajcie tego, naczelnicy domu Jakuba i wodzowie domu Izraela, ktorzy brzydzicie sie sadem i wypaczacie wszystko, co sprawiedliwe. </v>
+<v n="10"> Kazdy buduje Syjon krwia, a Jerozolime nieprawoscia. </v>
+<v n="11"> Jej naczelnicy sadza za dary, jego kaplani ucza za zaplate i jego prorocy prorokuja za pieniadze. Polegaja jednak na PANU, mowiac: Czy PAN nie jest wsrod nas? Nie spotka nas nic zlego. </v>
+<v n="12"> Dlatego Syjon stanie sie dla was jak zaorane pole, Jerozolima zamieni sie w kupe gruzu, a gora domu – w zalesione wzgorze. </v>
+</c>

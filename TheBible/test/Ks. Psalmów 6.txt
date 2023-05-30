@@ -1,0 +1,11 @@
+<v n="1"> Przewodnikowi choru, na Neginot i Seminit. Psalm Dawida. PANIE, nie karc mnie w swoim gniewie i nie karz mnie w swojej zapalczywosci. </v>
+<v n="2"> Zmiluj sie nade mna, PANIE, bo jestem slaby; uzdrow mnie, PANIE, bo moje kosci drza; </v>
+<v n="3"> I moja dusza bardzo sie zatrwozyla; lecz ty, PANIE, jak dlugo jeszcze? </v>
+<v n="4"> Zawroc, PANIE, ocal moja dusze; wybaw mnie ze wzgledu na twe milosierdzie. </v>
+<v n="5"> W smierci bowiem nie ma pamieci o tobie, a w grobie ktoz cie bedzie wyslawiac? </v>
+<v n="6"> Zmeczylem sie moim wzdychaniem, co noc zalewam lzami moje poslanie, moje loze jest mokre od placzu. </v>
+<v n="7"> Moje oko zacmilo sie od smutku, zestarzalo sie z powodu wszystkich moich wrogow. </v>
+<v n="8"> Odstapcie ode mnie, wszyscy czyniacy nieprawosc, bo PAN uslyszal glos mego placzu. </v>
+<v n="9"> Uslyszal PAN moja prosbe, PAN przyjal moja modlitwe. </v>
+<v n="10"> Niech sie zawstydza i bardzo zatrwoza wszyscy moi wrogowie, niech uciekna i beda pohanbieni w jednej chwili. </v>
+</c>

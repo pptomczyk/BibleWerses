@@ -1,0 +1,24 @@
+<v n="1"> Coz wiec powiemy? Czy mamy trwac w grzechu, aby laska obfitowala? </v>
+<v n="2"> Nie daj Boze! My, ktorzy umarlismy dla grzechu, jakze mozemy jeszcze w nim zyc? </v>
+<v n="3"> Czyz nie wiecie, ze my wszyscy, ktorzy zostalismy ochrzczeni w Jezusie Chrystusie, w jego smierci zostalismy ochrzczeni? </v>
+<v n="4"> Zostalismy wiec pogrzebani z nim przez chrzest w smierci, aby jak Chrystus zostal wskrzeszony z martwych przez chwale Ojca, tak zebysmy i my postepowali w nowosci zycia. </v>
+<v n="5"> Jesli bowiem zostalismy z nim wszczepieni w podobienstwo jego smierci, to bedziemy tez z nim wszczepieni w podobienstwo zmartwychwstania; </v>
+<v n="6"> Wiedzac o tym, ze nasz stary czlowiek zostal ukrzyzowany razem z nim, aby cialo grzechu zostalo zniszczone, zebysmy juz wiecej nie sluzyli grzechowi. </v>
+<v n="7"> Kto bowiem umarl, zostal uwolniony od grzechu. </v>
+<v n="8"> Jesli wiec umarlismy z Chrystusem, wierzymy, ze tez z nim bedziemy zyc; </v>
+<v n="9"> Wiedzac, ze Chrystus, powstawszy z martwych, wiecej nie umiera i smierc nad nim wiecej nie panuje. </v>
+<v n="10"> To bowiem, ze umarl, raz umarl dla grzechu, a ze zyje, zyje dla Boga. </v>
+<v n="11"> Tak i wy uwazajcie siebie za martwych dla grzechu, a zywych dla Boga w Jezusie Chrystusie, naszym Panu. </v>
+<v n="12"> Niechze wiec grzech nie kroluje w waszym smiertelnym ciele, zebyscie mieli mu byc posluszni w jego pozadliwosciach. </v>
+<v n="13"> I nie oddawajcie waszych czlonkow jako oreza niesprawiedliwosci grzechowi, ale oddawajcie samych siebie Bogu jako ozywieni z martwych i wasze czlonki jako orez sprawiedliwosci Bogu. </v>
+<v n="14"> Grzech bowiem nie bedzie nad wami panowal, bo nie jestescie pod prawem, lecz pod laska. </v>
+<v n="15"> Coz wiec? Bedziemy grzeszyc, bo nie jestesmy pod prawem, ale pod laska? Nie daj Boze! </v>
+<v n="16"> Czyz nie wiecie, ze komu oddajecie siebie jako sludzy w posluszenstwo, komu jestescie posluszni, tego jestescie slugami: badz grzechu ku smierci, badz posluszenstwa ku sprawiedliwosci? </v>
+<v n="17"> Ale chwala Bogu, ze gdy byliscie slugami grzechu, usluchaliscie z serca wzoru tej nauki, ktorej sie poddaliscie; </v>
+<v n="18"> A bedac uwolnieni od grzechu, staliscie sie slugami sprawiedliwosci. </v>
+<v n="19"> Po ludzku mowie, z powodu slabosci waszego ciala. Jak bowiem oddawaliscie wasze czlonki na sluzbe nieczystosci i nieprawosci, aby czynic nieprawosc, tak teraz oddawajcie wasze czlonki na sluzbe sprawiedliwosci, abyscie byli uswieceni. </v>
+<v n="20"> Dopoki bowiem byliscie slugami grzechu, byliscie wolni od sprawiedliwosci. </v>
+<v n="21"> Jakiz wiec wowczas mieliscie pozytek z tych rzeczy, ktorych sie teraz wstydzicie? Ich bowiem koncem jest smierc. </v>
+<v n="22"> Lecz teraz, uwolnieni od grzechu, gdy staliscie sie slugami Boga, macie swoj pozytek ku uswieceniu, a na koncu zycie wieczne. </v>
+<v n="23"> Zaplata bowiem za grzech jest smierc, ale darem laski Boga jest zycie wieczne w Jezusie Chrystusie, naszym Panu. </v>
+</c>

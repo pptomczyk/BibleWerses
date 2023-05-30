@@ -1,0 +1,21 @@
+<v n="1"> Pawel, apostol Jezusa Chrystusa wedlug nakazu Boga, naszego Zbawiciela, i Pana Jezusa Chrystusa, ktory jest nasza nadzieja; </v>
+<v n="2"> Do Tymoteusza, mego wlasnego syna w wierze. Laska, milosierdzie i pokoj od Boga, naszego Ojca, i Chrystusa Jezusa, naszego Pana. </v>
+<v n="3"> Jak cie prosilem, gdy wybieralem sie do Macedonii, bys pozostal w Efezie, tak teraz prosze, abys nakazal niektorym, zeby inaczej nie nauczali; </v>
+<v n="4"> I nie zajmowali sie basniami i niekonczacymi sie rodowodami, ktore wywoluja raczej spory niz zbudowanie Boze, ktore oparte jest na wierze. </v>
+<v n="5"> Koncem zas przykazania jest milosc plynaca z czystego serca, z prawego sumienia i wiary nieobludnej; </v>
+<v n="6"> Od czego niektorzy odstapili i zwrocili sie ku czczej gadaninie; </v>
+<v n="7"> Chcac byc nauczycielami prawa, nie rozumiejac ani tego, co mowia, ani tego, co stanowczo twierdza. </v>
+<v n="8"> Wiemy zas, ze prawo jest dobre, jesli ktos je wlasciwie stosuje. </v>
+<v n="9"> Rozumiemy, ze prawo nie jest ustanowione dla sprawiedliwego, ale dla nieprawych i nieposlusznych, dla bezboznych i grzesznikow, dla niegodziwych i nieczystych, dla ojcobojcow, matkobojcow i mordercow; </v>
+<v n="10"> Dla rozpustnikow, mezczyzn wspolzyjacych ze soba, handlarzy ludzmi, dla klamcow, krzywoprzysiezcow i dla wszystkiego, co jest przeciwne zdrowej nauce; </v>
+<v n="11"> Zgodnie z chwalebna ewangelia blogoslawionego Boga, ktora mi powierzono. </v>
+<v n="12"> Dziekuje wiec temu, ktory mnie umocnil, Chrystusowi Jezusowi, naszemu Panu, ze uznal mnie za wiernego, przeznaczajac mnie do poslugi; </v>
+<v n="13"> Mnie, ktory przedtem bylem bluznierca, przesladowca i gnebicielem, ale dostapilem milosierdzia, bo czynilem to nieswiadomie, w niewierze. </v>
+<v n="14"> A laska naszego Pana stala sie bardzo obfita wraz z wiara i miloscia, ktora jest w Chrystusie Jezusie. </v>
+<v n="15"> Wiarygodne to slowa i godne calkowitego przyjecia, ze Chrystus Jezus przyszedl na swiat, aby zbawic grzesznikow, z ktorych ja jestem pierwszy. </v>
+<v n="16"> Lecz dostapilem milosierdzia po to, aby we mnie pierwszym Jezus Chrystus okazal wszelka cierpliwosc jako przyklad dla tych, ktorzy maja w niego uwierzyc ku zyciu wiecznemu. </v>
+<v n="17"> A Krolowi wiekow, niesmiertelnemu, niewidzialnemu, jedynemu madremu Bogu niech bedzie czesc i chwala na wieki wiekow. Amen. </v>
+<v n="18"> Ten nakaz daje tobie, synu Tymoteuszu, wedlug wczesniej wygloszonych o tobie proroctw, abys toczyl zgodnie z nimi dobry boj; </v>
+<v n="19"> Majac wiare i czyste sumienie, ktore niektorzy odrzucili i stali sie rozbitkami w wierze. </v>
+<v n="20"> Do nich naleza Hymenajos i Aleksander, ktorych oddalem szatanowi, aby nauczyli sie nie bluznic. </v>
+</c>

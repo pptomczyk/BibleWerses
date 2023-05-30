@@ -1,0 +1,17 @@
+<v n="1"> Wiarygodne to slowa: Jesli ktos pragnie biskupstwa, pragnie dobrej pracy. </v>
+<v n="2"> Biskup wiec ma byc nienaganny, maz jednej zony, czujny, trzezwy, przyzwoity, goscinny, zdolny do nauczania; </v>
+<v n="3"> Nieoddajacy sie piciu wina, niesklonny do bicia, nielakomy na brudny zysk, ale opanowany, nieklotliwy, niechciwy; </v>
+<v n="4"> Dobrze rzadzacy wlasnym domem, trzymajacy dzieci w posluszenstwie i wszelkim szacunku; </v>
+<v n="5"> Jesli bowiem ktos nie umie rzadzic wlasnym domem, jakze bedzie mogl troszczyc sie o kosciol Bozy? </v>
+<v n="6"> Nie nowicjusz, zeby nie wbil sie w pyche i nie wpadl w potepienie diabelskie. </v>
+<v n="7"> Musi tez miec dobre swiadectwo od tych, ktorzy sa na zewnatrz, zeby nie sciagal na siebie hanby i nie wpadl w sidla diabla. </v>
+<v n="8"> Diakoni takze maja byc powazni, niedwulicowi, nienaduzywajacy wina, nielakomi na brudny zysk; </v>
+<v n="9"> Zachowujacy tajemnice wiary w czystym sumieniu. </v>
+<v n="10"> I niech beda najpierw wyprobowani, a potem niech sluza, jesli sa nienaganni. </v>
+<v n="11"> Ich zony takze niech beda powazne, nierzucajace oszczerstw, trzezwe, wierne we wszystkim. </v>
+<v n="12"> Diakoni niech beda mezami jednej zony, rzadzacy dobrze dziecmi i wlasnymi domami. </v>
+<v n="13"> Ci bowiem, ktorzy dobrze pelnia sluzbe, zyskuja sobie zaszczytny stopien i wielka smialosc w wierze, ktora jest w Chrystusie Jezusie. </v>
+<v n="14"> Pisze ci to, majac nadzieje, ze wkrotce przybede do ciebie. </v>
+<v n="15"> A gdybym sie opoznial, pisze, abys wiedzial, jak nalezy postepowac w domu Bozym, ktory jest kosciolem Boga zywego, filarem i podpora prawdy. </v>
+<v n="16"> A bez watpienia wielka jest tajemnica poboznosci: Bog objawiony zostal w ciele, usprawiedliwiony w Duchu, widziany byl przez anioly, gloszony byl poganom, uwierzono mu na swiecie, wziety zostal w gore do chwaly. </v>
+</c>

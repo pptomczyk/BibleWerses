@@ -1,0 +1,24 @@
+<v n="1"> Potem Moj¿esz i Aaron przyszli do faraona i powiedzieli: Tak mówi PAN, Bóg Izraela: Wypuœæ mój lud, aby dla mnie obchodzi³ œwiêto na pustyni. </v>
+<v n="2"> Faraon odpar³: Któ¿ to jest PAN, abym mia³ s³uchaæ jego g³osu i wypuœciæ Izraela? Nie znam PANA, a Izraela te¿ nie wypuszczê. </v>
+<v n="3"> I odpowiedzieli: Bóg Hebrajczyków ukaza³ siê nam. Pozwól nam iœæ trzy dni drog¹ na pustyniê i z³o¿yæ ofiarê PANU, naszemu Bogu, by nie nawiedzi³ nas zaraz¹ albo mieczem. </v>
+<v n="4"> Król Egiptu zapyta³ ich: Dlaczego wy, Moj¿eszu i Aaronie, odrywacie lud od pracy? IdŸcie do waszych robót. </v>
+<v n="5"> I faraon doda³: Oto lud tej ziemi jest teraz liczny, a wy go odrywacie od robót. </v>
+<v n="6"> Rozkaza³ wiêc faraon tego dnia nadzorcom ludu i jego prze³o¿onym: </v>
+<v n="7"> Ju¿ wiêcej nie bêdziecie dawaæ ludowi s³omy do wyrobu ceg³y, jak dotychczas. Niech sami id¹ i zbieraj¹ sobie s³omê. </v>
+<v n="8"> Wyznaczcie im tê sam¹ liczbê cegie³, jak¹ wyrabiali poprzednio, nic nie zmniejszajcie. Pró¿nuj¹ bowiem i dlatego wo³aj¹: Pozwól nam pójœæ i z³o¿yæ ofiarê naszemu Bogu. </v>
+<v n="9"> Niech praca tych ludzi bêdzie ciê¿sza, aby byli ni¹ zajêci, a nie ufali k³amliwym s³owom. </v>
+<v n="10"> Wtedy wyszli nadzorcy ludu i jego prze³o¿eni i powiedzieli do ludu: Tak mówi faraon: Nie bêdê wam dawa³ s³omy. </v>
+<v n="11"> Sami idŸcie, zbierajcie sobie s³omê, gdzie j¹ mo¿ecie znaleŸæ. Mimo to nic nie bêdzie odjête z waszej pracy. </v>
+<v n="12"> Lud rozproszy³ siê wiêc po ca³ej ziemi Egiptu, aby zbieraæ œcierñ zamiast s³omy. </v>
+<v n="13"> A nadzorcy przynaglali, mówi¹c: Wykonujcie wasze roboty, codzienn¹ pracê jak wtedy, gdy wam dawano s³omê. </v>
+<v n="14"> I bito prze³o¿onych spoœród synów Izraela, których nadzorcy faraona postawili nad nimi, i pytano ich: Dlaczego ani wczoraj, ani dzisiaj nie wykonaliœcie tej iloœci cegie³ jak poprzednio? </v>
+<v n="15"> Prze³o¿eni spoœród synów Izraela przyszli wiêc do faraona i wo³ali: Czemu postêpujesz tak ze swoimi s³ugami? </v>
+<v n="16"> Nie daj¹ twoim s³ugom s³omy, a mówi¹: Róbcie ceg³ê. I oto bij¹ twe s³ugi, a to wina twojego ludu. </v>
+<v n="17"> On odpowiedzia³: Pró¿nujecie, pró¿nujecie i dlatego mówicie: Pozwól nam pójœæ i z³o¿yæ ofiarê PANU. </v>
+<v n="18"> Teraz wiêc idŸcie i pracujcie. S³omy wam nie dadz¹, ale macie dostarczaæ tak¹ sam¹ iloœæ cegie³. </v>
+<v n="19"> A prze³o¿eni spoœród synów Izraela zobaczyli, ¿e s¹ w z³ym po³o¿eniu, poniewa¿ mówiono: Nie zmniejszacie nic z dziennego wyrobu cegie³. </v>
+<v n="20"> Gdy wychodzili od faraona, spotkali Moj¿esza i Aarona, którzy na nich czekali. </v>
+<v n="21"> I powiedzieli do nich: Niech PAN wejrzy na was i os¹dzi, bo sprawiliœcie, ¿e staliœmy siê wstrêtni w oczach faraona i w oczach jego s³ug, i daliœcie im do rêki miecz, aby nas zabili. </v>
+<v n="22"> Wtedy Moj¿esz wróci³ do PANA i powiedzia³: Panie, dlaczego wyrz¹dzi³eœ to z³o twojemu ludowi? Dlaczego mnie tu pos³a³eœ? </v>
+<v n="23"> Odk¹d bowiem poszed³em do faraona, aby mówiæ w twoim imieniu, gorzej siê obchodzi z tym ludem; a ty nie wybawi³eœ swego ludu. </v>
+</c>

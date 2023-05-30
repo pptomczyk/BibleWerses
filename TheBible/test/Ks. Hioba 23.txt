@@ -1,0 +1,18 @@
+<v n="1"> Wtedy Hiob odpowiedzial: </v>
+<v n="2"> Rowniez dzis moja skarga jest gorzka, choc moje nieszczescie jest ciezsze niz moje jeki. </v>
+<v n="3"> O gdybym wiedzial, gdzie moglbym go znalezc, udalbym sie az do jego tronu. </v>
+<v n="4"> Przedstawilbym mu swoja sprawe, a moje usta napelnilbym dowodami; </v>
+<v n="5"> Poznalbym slowa jego odpowiedzi i zrozumialbym, co chce mi powiedziec. </v>
+<v n="6"> Czy w swojej wielkiej mocy bedzie sie spieral ze mna? Nie, raczej sam doda mi sily. </v>
+<v n="7"> Tam czlowiek prawy rozprawialby z nim, a ja na zawsze bylbym wolny od mojego sedziego. </v>
+<v n="8"> Ale oto ide prosto, a jego nie ma; cofam sie, a nie dostrzegam go. </v>
+<v n="9"> Ide w lewo, gdzie on dziala, a nie ogladam go; ide na prawo, a nie widze go. </v>
+<v n="10"> Gdyz on zna droge, ktora krocze; kiedy mnie doswiadczy, wyjde jak zloto. </v>
+<v n="11"> Moja noga trzymala sie jego sladu, przestrzegalem jego drogi i nie zbaczalem z niej. </v>
+<v n="12"> Od przykazania jego ust nie odchodzilem; cenilem slowa jego ust bardziej niz moj wlasny pokarm. </v>
+<v n="13"> Lecz on jest niezmienny, ktoz go odwroci? Czego bowiem jego dusza zapragnie, to uczyni; </v>
+<v n="14"> Bo on wykona, co postanowil o mnie; u niego jest wiele takich przykladow. </v>
+<v n="15"> Dlatego drze przed jego obliczem; gdy to rozwazam, lekam sie go. </v>
+<v n="16"> Bog oslabil moje serce, Wszechmocny mnie zatrwozyl. </v>
+<v n="17"> O malo bowiem nie zginalem od ciemnosci, nie zakryl mroku przed moim obliczem. </v>
+</c>

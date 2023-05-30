@@ -1,0 +1,27 @@
+<v n="1"> Piotr i Jan weszli razem do swiatyni w godzinie modlitwy, o dziewiatej. </v>
+<v n="2"> A wnoszono wlasnie pewnego mezczyzne, chromego od urodzenia, ktorego kazdego dnia sadzano u bramy swiatyni, zwanej Piekna, zeby wchodzacych do swiatyni prosil o jalmuzne. </v>
+<v n="3"> Gdy zobaczyl Piotra i Jana, jak mieli wejsc do swiatyni, prosil ich o jalmuzne. </v>
+<v n="4"> A Piotr, przypatrujac mu sie wraz z Janem, powiedzial: Spojrz na nas. </v>
+<v n="5"> On wiec spojrzal na nich uwaznie, spodziewajac sie, ze cos od nich otrzyma. </v>
+<v n="6"> Wtedy Piotr powiedzial: Nie mam srebra ani zlota, lecz co mam, to ci daje: W imieniu Jezusa Chrystusa z Nazaretu, wstan i chodz! </v>
+<v n="7"> A ujawszy go za prawa reke, podniosl go. I natychmiast wzmocnily sie jego nogi i kostki. </v>
+<v n="8"> A on zerwal sie, wstal i chodzil. Wszedl z nimi do swiatyni, chodzac, skaczac i chwalac Boga. </v>
+<v n="9"> A wszyscy ludzie widzieli go chodzacego i chwalacego Boga. </v>
+<v n="10"> I rozpoznali w nim tego czlowieka, ktory dla jalmuzny siadal przy Pieknej Bramie swiatyni, i ogarnelo ich zdumienie i zachwyt nad tym, co mu sie przydarzylo. </v>
+<v n="11"> A gdy ten chromy, ktory zostal uzdrowiony, trzymal sie Piotra i Jana, wszyscy ludzie zdumieni zbiegli sie do nich w przedsionku, ktory zwano Salomonowym. </v>
+<v n="12"> Kiedy Piotr to zobaczyl, przemowil do ludzi: Mezowie izraelscy, dlaczego sie temu dziwicie i dlaczego sie nam tak uwaznie przypatrujecie, jakbysmy wlasna moca albo poboznoscia sprawili, ze on chodzi? </v>
+<v n="13"> Bog Abrahama, Izaaka i Jakuba, Bog naszych ojcow, uwielbil Jezusa, swego Syna, ktorego wy wydaliscie i wyparliscie sie przed Pilatem, gdy postanowil go uwolnic. </v>
+<v n="14"> A wy wyparliscie sie Swietego i Sprawiedliwego i prosiliscie o uwolnienie wam mordercy. </v>
+<v n="15"> I zabiliscie Dawce zycia, ktorego Bog wskrzesil z martwych, czego my jestesmy swiadkami. </v>
+<v n="16"> A przez wiare w jego imie, temu, ktorego widzicie i znacie, imie to przywrocilo sily. To wiara, ktora jest przez niego, dala mu pelne zdrowie na oczach was wszystkich. </v>
+<v n="17"> Ale teraz, bracia, wiem, ze uczyniliscie to z nieswiadomosci, tak jak wasi przelozeni. </v>
+<v n="18"> Lecz Bog w ten sposob wypelnil to, co przepowiedzial przez usta wszystkich swoich prorokow, ze jego Chrystus bedzie cierpial. </v>
+<v n="19"> Dlatego pokutujcie i nawroccie sie, aby wasze grzechy byly zgladzone, gdy nadejda od obecnosci Pana czasy ochlody; </v>
+<v n="20"> I posle tego, ktory byl wam gloszony, Jezusa Chrystusa; </v>
+<v n="21"> Ktorego niebo musi przyjac az do czasu odnowienia wszystkich rzeczy, jak Bog od wiekow przepowiadal przez usta wszystkich swoich swietych prorokow. </v>
+<v n="22"> Mojzesz bowiem powiedzial do ojcow: Proroka jak ja wzbudzi wam Pan, wasz Bog, sposrod waszych braci. Jego bedziecie sluchac we wszystkim, co wam powie. </v>
+<v n="23"> I stanie sie, ze kazda dusza, ktora nie bedzie sluchac tego proroka, bedzie wytracona sposrod ludu. </v>
+<v n="24"> Przepowiadali te dni takze wszyscy prorocy, ktorzy przemawiali od czasow Samuela i inni po nim. </v>
+<v n="25"> Wy jestescie synami prorokow i przymierza, ktore Bog zawarl z naszymi ojcami, mowiac do Abrahama: W twoim potomstwie beda blogoslawione wszystkie narody ziemi. </v>
+<v n="26"> Wzbudziwszy swego Syna, Jezusa, Bog najpierw poslal go do was, aby wam blogoslawil w odwracaniu sie kazdego z was od swoich nieprawosci. </v>
+</c>

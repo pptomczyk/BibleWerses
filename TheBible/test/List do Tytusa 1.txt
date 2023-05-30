@@ -1,0 +1,17 @@
+<v n="1"> Pawel, sluga Boga i apostol Jezusa Chrystusa wedlug wiary wybranych Bozych i poznania prawdy, ktora jest zgodna z poboznoscia; </v>
+<v n="2"> W nadziei zycia wiecznego, ktore obiecal przed dawnymi wiekami ten, ktory nie klamie, Bog; </v>
+<v n="3"> I we wlasciwym czasie objawil swoje slowo przez gloszenie, ktore zostalo mi powierzone zgodnie z nakazem Boga, naszego Zbawiciela; </v>
+<v n="4"> Do Tytusa, mego wlasnego syna we wspolnej wierze. Laska, milosierdzie i pokoj od Boga Ojca i Pana Jezusa Chrystusa, naszego Zbawiciela. </v>
+<v n="5"> Zostawilem cie na Krecie w tym celu, abys uporzadkowal to, co tam jeszcze zostalo do zrobienia, i ustanowil w kazdym miescie starszych, jak ci nakazalem; </v>
+<v n="6"> Jesli ktos jest nienaganny, maz jednej zony, majacy dzieci wierne, nieobwiniane o hulaszcze zycie lub niekarnosc. </v>
+<v n="7"> Biskup bowiem, jako szafarz Bozy, ma byc nienaganny, niesamowolny, nieskory do gniewu, nieoddajacy sie piciu wina, niesklonny do bicia, niegoniacy za brudnym zyskiem; </v>
+<v n="8"> Lecz goscinny, milujacy dobro, roztropny, sprawiedliwy, swiety, powsciagliwy; </v>
+<v n="9"> Trzymajacy sie wiernego slowa, zgodnego z nauka, aby tez mogl przez zdrowa nauke napominac i przekonywac tych, ktorzy sie sprzeciwiaja. </v>
+<v n="10"> Jest bowiem wielu niekarnych, oddajacych sie czczej gadaninie i zwodzicieli, zwlaszcza wsrod obrzezanych. </v>
+<v n="11"> Im trzeba zamknac usta, gdyz cale domy wywracaja, nauczajac, czego nie nalezy, dla brudnego zysku. </v>
+<v n="12"> Jeden z nich, ich wlasny prorok, powiedzial: Kretenczycy to zawsze klamcy, zle bestie, brzuchy leniwe. </v>
+<v n="13"> Swiadectwo to jest prawdziwe. Dlatego karc ich surowo, aby byli zdrowi w wierze; </v>
+<v n="14"> I nie zajmowali sie zydowskimi basniami i przykazaniami ludzi odwracajacych sie od prawdy. </v>
+<v n="15"> Dla czystych wszystko jest czyste, natomiast dla skalanych i niewierzacych nie ma nic czystego, lecz skalany jest zarowno ich umysl, jak i sumienie. </v>
+<v n="16"> Twierdza, ze znaja Boga, ale swymi uczynkami temu przecza, budzac obrzydzenie, bedac nieposlusznymi i niezdolnymi do wszelkiego dobrego uczynku. </v>
+</c>

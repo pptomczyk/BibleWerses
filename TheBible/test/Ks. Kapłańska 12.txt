@@ -1,0 +1,9 @@
+<v n="1"> I PAN przemowil do Mojzesza: </v>
+<v n="2"> Powiedz synom Izraela: Jesli kobieta pocznie i urodzi chlopca, bedzie nieczysta przez siedem dni; jak w dniach jej odlaczenia z powodu swej miesiecznej slabosci, bedzie nieczysta. </v>
+<v n="3"> A osmego dnia zostanie obrzezany jego napletek. </v>
+<v n="4"> Potem ona pozostanie przez trzydziesci trzy dni we krwi swego oczyszczenia; nie dotknie zadnej swietej rzeczy ani nie wejdzie do swiatyni, az wypelnia sie dni jej oczyszczenia. </v>
+<v n="5"> A jesli urodzi dziewczynke, bedzie nieczysta przez dwa tygodnie, jak podczas jej odlaczenia. Potem pozostanie przez szescdziesiat szesc dni we krwi swego oczyszczenia. </v>
+<v n="6"> A gdy wypelnia sie dni jej oczyszczenia po synu lub po corce, przyniesie do kaplana przed wejscie do Namiotu Zgromadzenia rocznego baranka na calopalenie i mlodego golebia lub synogarlice na ofiare za grzech; </v>
+<v n="7"> Ten zlozy to w ofierze przed PANEM i dokona za nia przeblagania; i tak bedzie oczyszczona od uplywu swojej krwi. Takie jest prawo dla tej, ktora urodzila chlopca lub dziewczynke. </v>
+<v n="8"> A jesli nie moze przyniesc baranka, to przyniesie dwie synogarlice lub dwa mlode golebie: jednego na calopalenie, a drugiego na ofiare za grzech. I kaplan dokona za nia przeblagania i bedzie czysta. </v>
+</c>

@@ -1,0 +1,15 @@
+<v n="1"> A Hiob tak odpowiedzial: </v>
+<v n="2"> Jakze uratowales tego, ktory nie ma mocy? Jakze wybawiles ramie, ktore nie ma sily? </v>
+<v n="3"> Jakze doradziles temu, ktory nie ma madrosci? Jakze dokladnie nauczyles tej sprawy? </v>
+<v n="4"> Komu powiedziales te slowa? Czyj to duch wyszedl od ciebie? </v>
+<v n="5"> Rzeczy martwe rodza sie pod wodami oraz ich mieszkancy. </v>
+<v n="6"> Pieklo jest odkryte przed nim i zatracenie nie ma przykrycia. </v>
+<v n="7"> Rozciagnal polnoc nad pustym miejscem i ziemie zawiesil na niczym. </v>
+<v n="8"> Zawiazuje wody w swoich oblokach, a oblok nie peka pod nimi. </v>
+<v n="9"> Zatrzymuje widok swego tronu, rozciaga nad nim swoj oblok. </v>
+<v n="10"> Wodom nakreslil granice, az nastapi koniec swiatlosci i ciemnosci. </v>
+<v n="11"> Filary niebios trzesa sie i zdumiewaja sie jego gromem. </v>
+<v n="12"> Swoja moca dzieli morze, a swoja roztropnoscia usmierza jego nawalnice. </v>
+<v n="13"> Swoim duchem przyozdobil niebiosa, a jego reka stworzyla pokrzywionego weza. </v>
+<v n="14"> Oto tylko czastka jego drog, ale jakze malo o nim slyszymy! A kto pojmie grzmot jego wielkiej potegi? </v>
+</c>

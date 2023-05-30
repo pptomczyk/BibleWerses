@@ -1,0 +1,20 @@
+<v n="1"> Gdyby ktos zgrzeszyl przez to, ze uslyszal przeklenstwo i byl tego swiadkiem lub widzial czy dowiedzial sie o tym, a tego nie oznajmil, bedzie obciazony nieprawoscia; </v>
+<v n="2"> Albo jesli ktos dotknal czegos nieczystego, czy to padliny nieczystego zwierzecia, czy padliny nieczystego bydlecia, czy padliny nieczystego zwierzecia pelzajacego, a nie jest tego swiadomy, i tak bedzie nieczysty i winny; </v>
+<v n="3"> Lub jesli ktos dotknal jakiejkolwiek nieczystosci ludzkiej, przez ktora stanie sie nieczysty, a nie jest tego swiadomy, a potem sie o tym dowie, bedzie winny; </v>
+<v n="4"> Albo jesli ktos przysiagl, mowiac wargami, ze zle lub dobrze uczyni w czymkolwiek, co ow czlowiek powie w przysiedze, a nie jest tego swiadomy, lecz potem sobie uswiadomi, bedzie winny w jednej z tych rzeczy. </v>
+<v n="5"> Jesli wiec jest winny jednej z tych rzeczy, ma wyznac swoj grzech; </v>
+<v n="6"> I przyprowadzi PANU ofiare za przewinienie z powodu swego grzechu, ktory popelnil: samice z trzody, owce albo koze na ofiare za grzech, a kaplan dokona za niego przeblagania za jego grzech. </v>
+<v n="7"> A jesli nie stac go na owce, niech przyniesie PANU jako ofiare za swoje przewinienie, ktore popelnil, dwie synogarlice lub dwa mlode golebie: jednego na ofiare za grzech, a drugiego na calopalenie; </v>
+<v n="8"> I przyniesie je do kaplana, a on najpierw zlozy to, co ma byc na ofiare za grzech, i ukreci jego glowe przy szyi, ale jej nie oddzieli. </v>
+<v n="9"> I pokropi krwia tej ofiary za grzech sciane oltarza, a reszte krwi wycisnie u podstawy oltarza. To jest ofiara za grzech. </v>
+<v n="10"> Drugiego zas zlozy jako calopalenie wedlug przepisu. W ten sposob kaplan dokona za niego przeblagania za jego grzech, ktory popelnil, i bedzie mu przebaczony. </v>
+<v n="11"> A jesli nie stac go na dwie synogarlice lub dwa mlode golebie, niech ten, ktory zgrzeszyl, przyniesie na swoja ofiare dziesiata czesc efy maki pszennej na ofiare za swoj grzech. Nie naleje jednak na nia oliwy ani nie polozy na nia kadzidla, gdyz jest to ofiara za grzech. </v>
+<v n="12"> Przyniesie ja do kaplana, a kaplan nabierze z niej pelna garsc jako pamiatke i spali ja na oltarzu na ofiarach calopalnych dla PANA. To jest ofiara za grzech. </v>
+<v n="13"> I kaplan dokona za niego przeblagania za jego grzech, ktory popelnil w jednej z tych spraw, i bedzie mu przebaczony. Reszta zas bedzie dla kaplana, jak przy ofierze pokarmowej. </v>
+<v n="14"> PAN powiedzial jeszcze do Mojzesza: </v>
+<v n="15"> Jesli ktos popelni przewinienie i zgrzeszy nieswiadomie przy rzeczach poswieconych PANU, to przyprowadzi PANU jako ofiare za swoje przewinienie barana bez skazy z trzody oraz twoje oszacowanie w syklach srebra wedlug sykla swiatynnego na ofiare za przewinienie. </v>
+<v n="16"> I odda kaplanowi za to, czym przewinil przy rzeczach poswieconych, i dolozy do tego jedna piata. I kaplan dokona za niego przeblagania baranem, bedacym ofiara za przewinienie, a bedzie mu przebaczone. </v>
+<v n="17"> Jesli ktos zgrzeszy i przekroczy nieswiadomie ktorekolwiek z przykazan PANA, czyniac to, czego nie wolno, stanie sie winny i bedzie obciazony nieprawoscia. </v>
+<v n="18"> Przyprowadzi do kaplana barana z trzody bez skazy wedlug twojego oszacowania na ofiare za przewinienie. A kaplan dokona za niego przeblagania za jego uchybienie, ktorego nieswiadomie sie dopuscil, i bedzie mu przebaczone. </v>
+<v n="19"> Jest to ofiara za przewinienie, gdyz w istocie zawinil przeciwko PANU. </v>
+</c>

@@ -1,0 +1,22 @@
+<v n="1"> Uczynisz te¿ o³tarz z drewna akacjowego, d³ugi na piêæ ³okci i szeroki na piêæ ³okci. O³tarz bêdzie kwadratowy i wysoki na trzy ³okcie. </v>
+<v n="2"> I uczynisz rogi na jego czterech naro¿nikach; jego rogi bêd¹ z tego samego. I pokryjesz go miedzi¹. </v>
+<v n="3"> Uczynisz te¿ do niego kocio³ki do zsypywania popio³u oraz szufle, miednice, wide³ki i ³opaty na roz¿arzone wêgle. Wszystkie naczynia do niego uczynisz z miedzi. </v>
+<v n="4"> Uczynisz te¿ do niego miedzian¹ kratê na kszta³t sieci, a na tej kracie, na czterech jej naro¿nikach, uczynisz cztery miedziane pierœcienie. </v>
+<v n="5"> I umieœcisz j¹ u do³u pod obramowaniem o³tarza, tak aby krata siêga³a do po³owy o³tarza. </v>
+<v n="6"> Uczynisz te¿ dr¹¿ki do o³tarza, dr¹¿ki z drewna akacjowego, i pokryjesz je miedzi¹. </v>
+<v n="7"> Dr¹¿ki te bêd¹ w³o¿one w pierœcienie i bêd¹ one na obydwu stronach o³tarza, aby mo¿na go by³o nosiæ. </v>
+<v n="8"> Uczynisz go z desek, aby by³ pusty wewn¹trz. Niech go uczyni¹ tak, jak ci pokazano na górze. </v>
+<v n="9"> Uczynisz te¿ dziedziniec przybytku. Na po³udniu po prawej stronie zas³ony dziedziñca bêd¹ ze skrêconego bisioru o d³ugoœci stu ³okci na jedn¹ stronê. </v>
+<v n="10"> Do tego dwadzieœcia s³upów i dwadzieœcia miedzianych podstawek. Haczyki na s³upach i ich klamry bêd¹ ze srebra. </v>
+<v n="11"> Podobnie wzd³u¿ strony pó³nocnej bêd¹ zas³ony o d³ugoœci stu ³okci, do tego dwadzieœcia s³upów i dwadzieœcia miedzianych podstawek. Haczyki na s³upach i ich klamry bêd¹ ze srebra. </v>
+<v n="12"> A na szerokoœci dziedziñca od strony zachodniej bêd¹ zas³ony na piêædziesi¹t ³okci, a do tego dziesiêæ s³upów i dziesiêæ podstawek. </v>
+<v n="13"> Szerokoœæ dziedziñca z przodu, po stronie wschodniej, bêdzie wynosiæ piêædziesi¹t ³okci. </v>
+<v n="14"> Po jednej stronie wejœcia bêd¹ zas³ony na piêtnaœcie ³okci, a do tego trzy s³upy i trzy podstawki. </v>
+<v n="15"> Po drugiej stronie bêd¹ zas³ony na piêtnaœcie ³okci, a do tego trzy s³upy i trzy podstawki. </v>
+<v n="16"> A do wejœcia dziedziñca bêdzie zas³ona na dwadzieœcia ³okci z b³êkitnej tkaniny, z purpury i karmazynu oraz skrêconego bisioru, haftowana. Do tego cztery s³upy i cztery podstawki. </v>
+<v n="17"> Wszystkie s³upy doko³a dziedziñca bêd¹ mia³y srebrne klamry. Ich haczyki bêd¹ ze srebra, a ich podstawki – z miedzi. </v>
+<v n="18"> D³ugoœæ dziedziñca bêdzie wynosiæ sto ³okci, a szerokoœæ – piêædziesi¹t, wszêdzie jednakowa, a wysokoœæ – piêæ ³okci, zas³ony bêd¹ ze skrêconego bisioru, jej podstawki zaœ z miedzi. </v>
+<v n="19"> Wszystkie naczynia przybytku do wszelkiej s³u¿by w nim i wszystkie jego ko³ki, i wszystkie ko³ki dziedziñca bêd¹ z miedzi. </v>
+<v n="20"> Rozka¿esz synom Izraela, aby przynieœli do ciebie czyst¹, wyt³oczon¹ oliwê do oœwietlenia, aby lampy zawsze siê pali³y. </v>
+<v n="21"> W Namiocie Zgromadzenia przed zas³on¹, za któr¹ jest arka œwiadectwa, Aaron i jego synowie bêd¹ je stawiaæ przed PANEM od wieczora a¿ do poranka. Bêdzie to wieczna ustawa wœród ich potomków dla synów Izraela. </v>
+</c>

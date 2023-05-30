@@ -1,0 +1,7 @@
+<v n="1"> Wtedy Bildad z Szuach odpowiedzial: </v>
+<v n="2"> Przy nim jest panowanie i strach, on czyni pokoj na swoich wysokosciach. </v>
+<v n="3"> Czy mozna zliczyc jego wojska? A nad kim nie wschodzi jego swiatlo? </v>
+<v n="4"> Jak wiec moze czlowiek byc usprawiedliwiony przed Bogiem? Albo jak moze byc czysty ten, kto sie urodzil z kobiety? </v>
+<v n="5"> Oto nawet ksiezyc nie swieci i gwiazdy nie sa czyste w jego oczach; </v>
+<v n="6"> Tym bardziej czlowiek, ktory jest robakiem, i syn czlowieczy, ktory jest czerwiem. </v>
+</c>

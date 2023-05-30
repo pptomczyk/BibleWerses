@@ -1,0 +1,23 @@
+<v n="1"> W czternastym roku krolowania Ezechiasza Sennacheryb, krol Asyrii, wyruszyl przeciwko wszystkim warownym miastom Judy i zdobyl je. </v>
+<v n="2"> I krol Asyrii poslal Rabszaka z Lakisz do Jerozolimy, do krola Ezechiasza, z wielkim wojskiem. Ten stanal przy kanale gornej sadzawki przy drodze pola folusznika. </v>
+<v n="3"> Wtedy wyszli do niego Eliakim, syn Chilkiasza, przelozony domu, i Szebna, pisarz, oraz Joach, syn Asafa, kronikarz. </v>
+<v n="4"> Wtedy Rabszak powiedzial do nich: Prosze, powiedzcie Ezechiaszowi: Tak mowi wielki krol, krol Asyrii: Co to za ufnosc, na ktorej polegasz? </v>
+<v n="5"> Mowisz – ale to slowa daremne – mam dosc duzo rad i sily do wojny. Teraz wiec w kim pokladasz ufnosc, ze zbuntowales sie przeciwko mnie? </v>
+<v n="6"> Oto opierasz sie na tej nadlamanej lasce trzcinowej – na Egipcie – ktora, gdy ktos sie oprze na niej, wbija mu sie w dlon i przebija ja. Taki jest faraon, krol Egiptu, dla wszystkich, ktorzy mu ufaja. </v>
+<v n="7"> A jesli mi powiesz: Ufamy PANU, naszemu Bogu, czy on nie jest tym, ktorego wyzyny i oltarze zniosl Ezechiasz i nakazal Judzie i Jerozolimie: Przed tym oltarzem bedziecie oddawac poklon? </v>
+<v n="8"> Dlatego teraz prosze, daj zastaw memu panu, krolowi Asyrii, a ja dam ci dwa tysiace koni, jesli zdolasz posadzic na nich jezdzcow. </v>
+<v n="9"> Jakze wiec stawisz opor jednemu dowodcy z najmniejszych slug mego pana, a pokladasz nadzieje w Egipcie, ze otrzymasz rydwany i jezdzcow? </v>
+<v n="10"> Poza tym czy bez woli PANA wyruszylem przeciw tej ziemi, aby ja zniszczyc? PAN powiedzial do mnie: Wyrusz przeciwko tej ziemi i spustosz ja. </v>
+<v n="11"> Wtedy Eliakim, Szebna i Joach powiedzieli do Rabszaka: Prosze, mow do swoich slug po syryjsku, bo rozumiemy, a nie mow do nas po hebrajsku wobec ludu, ktory jest na murze. </v>
+<v n="12"> Lecz Rabszak odpowiedzial: Czy do twego pana i do ciebie poslal mnie moj pan, abym mowil te slowa? Czyz nie do tych mezczyzn siedzacych na murze, aby jedli swoj kal i pili swoj mocz razem z wami? </v>
+<v n="13"> Stal wiec Rabszak i zawolal donosnym glosem po hebrajsku tymi slowami: Sluchajcie slow wielkiego krola, krola Asyrii. </v>
+<v n="14"> Tak mowi krol: Niech was nie zwodzi Ezechiasz, bo nie bedzie mogl was wybawic. </v>
+<v n="15"> A nie dajcie sie przekonac Ezechiaszowi, by zaufac PANU, gdy mowi: Na pewno PAN nas wybawi i to miasto nie bedzie wydane w rece krola Asyrii. </v>
+<v n="16"> Nie sluchajcie Ezechiasza. Tak bowiem powiedzial krol Asyrii: Zawrzyjcie ze mna przymierze i wyjdzcie do mnie, a kazdy bedzie jesc ze swojej winorosli i ze swego drzewa figowego i kazdy bedzie pic wode ze swojej studni; </v>
+<v n="17"> Az przyjde i zabiore was do ziemi podobnej do waszej ziemi, do ziemi zboza i wina, do ziemi chleba i winnic. </v>
+<v n="18"> Niech Ezechiasz nie zwodzi was, mowiac: PAN nas wybawi. Czy bogowie innych narodow mogli wybawic swoja ziemie z reki krola Asyrii? </v>
+<v n="19"> Gdzie sa bogowie Chamatu i Arpadu? Gdzie sa bogowie Sefarwaim? Czy wybawili Samarie z mojej reki? </v>
+<v n="20"> Ktorzy sposrod wszystkich bogow tych ziem wybawili swoja ziemie z mojej reki, zeby PAN mial wybawic Jerozolime z mojej reki? </v>
+<v n="21"> Lecz lud milczal i nie odpowiedzial mu ani slowa, bo taki byl rozkaz krola: Nie odpowiadajcie mu. </v>
+<v n="22"> Wtedy przelozony domu Eliakim, syn Chilkiasza, pisarz Szebna i kronikarz Joach, syn Asafa, przyszli do Ezechiasza z rozdartymi szatami i oznajmili mu slowa Rabszaka. </v>
+</c>

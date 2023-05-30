@@ -1,0 +1,11 @@
+<v n="1"> A los synow Jozefa przypadl od Jordanu przy Jerychu do wod Jerycha na wschodzie, do pustyni, ktora rozciaga sie od Jerycha przez gore Betel; </v>
+<v n="2"> Od Betel biegnie do Luz i dalej do granic Archy, do Atarot. </v>
+<v n="3"> Potem ciagnie sie ku zachodowi do granicy Jaflety, az do granicy dolnego Bet-Choron i az do Gezer, i konczy sie przy morzu. </v>
+<v n="4"> Tak wiec synowie Jozefa, Manasses i Efraim, wzieli dziedzictwo. </v>
+<v n="5"> A granica synow Efraima wedlug ich rodzin – granica ich dziedzictwa na wschodzie – byla od Atarot-Addar az do gornego Bet-Choron. </v>
+<v n="6"> I ta granica biegla w kierunku morza do Mikmetat na polnocy, potem skrecala na wschod do Taanat-Szilo i przechodzila obok jej wschodniej strony az do Janocha; </v>
+<v n="7"> I ciagnela sie od Janocha do Atarot i Naarat, i dochodzila do Jerycha, a konczyla sie przy Jordanie. </v>
+<v n="8"> Od Tappuach granica biegla na zachod do potoku Kana, a konczyla sie przy morzu. Takie bylo dziedzictwo pokolenia synow Efraima wedlug ich rodzin. </v>
+<v n="9"> Synowie Efraima mieli tez wydzielone miasta posrodku dziedzictwa synow Manassesa – wszystkie te miasta wraz z przyleglymi do nich wioskami. </v>
+<v n="10"> I nie wygnali Kananejczykow, mieszkajacych w Gezer. I mieszkaja Kananejczycy posrod Efraimitow az do dzis, i stali sie slugami skladajacymi danine. </v>
+</c>

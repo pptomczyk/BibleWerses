@@ -1,0 +1,20 @@
+<v n="1"> Dlatego, bracia œwiêci, uczestnicy niebieskiego powo³ania, zwróæcie uwagê na Aposto³a i Najwy¿szego Kap³ana naszego wyznania, Chrystusa Jezusa; </v>
+<v n="2"> Wiernego temu, który go ustanowi³, podobnie jak Moj¿esz by³ w ca³ym jego domu. </v>
+<v n="3"> Tym wiêkszej bowiem chwa³y jest on godzien od Moj¿esza, im wiêksz¹ czeœæ od domu ma jego budowniczy. </v>
+<v n="4"> Bo ka¿dy dom jest przez kogoœ zbudowany, lecz tym, który wszystko zbudowa³, jest Bóg. </v>
+<v n="5"> I Moj¿esz wprawdzie by³ wierny w ca³ym jego domu jako s³uga, na œwiadectwo tego, co potem mia³o byæ powiedziane; </v>
+<v n="6"> Lecz Chrystus jako syn panuje nad swoim domem. Jego domem my jesteœmy, jeœli tylko ufnoœæ i chwalebn¹ nadziejê a¿ do koñca niewzruszenie zachowamy. </v>
+<v n="7"> Dlatego, jak mówi Duch Œwiêty: Dzisiaj, jeœli us³yszycie jego g³os; </v>
+<v n="8"> Nie zatwardzajcie waszych serc jak podczas rozdra¿nienia, w dniu próby na pustyni; </v>
+<v n="9"> Gdzie mnie wystawiali na próbê wasi ojcowie i doœwiadczali, i ogl¹dali moje dzie³a przez czterdzieœci lat. </v>
+<v n="10"> Dlatego siê rozgniewa³em na to pokolenie i powiedzia³em: Oni zawsze b³¹dz¹ sercem i nie poznali moich dróg; </v>
+<v n="11"> Tote¿ przysi¹g³em w moim gniewie, ¿e nie wejd¹ do mojego odpoczynku. </v>
+<v n="12"> Uwa¿ajcie, bracia, ¿eby nie by³o czasem w kimœ z was przewrotnego serca niewiary, które by odstêpowa³o od Boga ¿ywego; </v>
+<v n="13"> Lecz zachêcajcie siê wzajemnie ka¿dego dnia, dopóki nazywa siê „Dzisiaj”, aby nikt z was nie popad³ w zatwardzia³oœæ przez oszustwo grzechu. </v>
+<v n="14"> Staliœmy siê bowiem uczestnikami Chrystusa, jeœli tylko nasze pierwotne przeœwiadczenie a¿ do koñca niewzruszenie zachowamy. </v>
+<v n="15"> Dopóki jest powiedziane: Dzisiaj, jeœli us³yszycie jego g³os, nie zatwardzajcie waszych serc jak w dniu rozdra¿nienia. </v>
+<v n="16"> Niektórzy bowiem, us³yszawszy, rozdra¿nili Pana, ale nie wszyscy z tych, którzy wyszli z Egiptu pod wodz¹ Moj¿esza. </v>
+<v n="17"> A na kogo gniewa³ siê przez czterdzieœci lat? Czy nie na tych, którzy zgrzeszyli, a których cia³a leg³y na pustyni? </v>
+<v n="18"> A którym przysi¹g³, ¿e nie wejd¹ do jego odpoczynku, jeœli nie tym, którzy byli niepos³uszni? </v>
+<v n="19"> Widzimy wiêc, ¿e nie mogli wejœæ z powodu niewiary. </v>
+</c>

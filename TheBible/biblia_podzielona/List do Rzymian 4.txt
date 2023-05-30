@@ -1,0 +1,26 @@
+<v n="1"> Có¿ wiêc powiemy, co zyska³ Abraham, nasz ojciec, wed³ug cia³a? </v>
+<v n="2"> Jeœli bowiem Abraham zosta³ usprawiedliwiony z uczynków, ma siê czym chlubiæ, ale nie przed Bogiem. </v>
+<v n="3"> Có¿ bowiem mówi Pismo? Abraham uwierzy³ Bogu i zosta³o mu to poczytane za sprawiedliwoœæ. </v>
+<v n="4"> A temu, kto pracuje, zap³ata nie jest uznana za ³askê, ale za nale¿noœæ. </v>
+<v n="5"> Temu zaœ, kto nie pracuje, lecz wierzy w tego, który usprawiedliwia bezbo¿nego, jego wiara zostaje poczytana za sprawiedliwoœæ. </v>
+<v n="6"> Jak i Dawid mówi, ¿e b³ogos³awiony jest cz³owiek, któremu Bóg przypisze sprawiedliwoœæ bez uczynków, mówi¹c: </v>
+<v n="7"> B³ogos³awieni, których nieprawoœci s¹ przebaczone i których grzechy s¹ zakryte. </v>
+<v n="8"> B³ogos³awiony cz³owiek, któremu Pan nie poczyta grzechu. </v>
+<v n="9"> Czy wiêc to b³ogos³awieñstwo dotyczy tylko obrzezanych, czy te¿ nieobrzezanych? Mówimy przecie¿, ¿e wiara zosta³a Abrahamowi poczytana za sprawiedliwoœæ. </v>
+<v n="10"> Jak¿e wiêc zosta³a mu poczytana? Gdy by³ obrzezany czy przed obrzezaniem? Nie po obrzezaniu, ale przed obrzezaniem. </v>
+<v n="11"> I przyj¹³ znak obrzezania jako pieczêæ sprawiedliwoœci wiary, któr¹ mia³ przed obrzezaniem, po to, aby by³ ojcem wszystkich nieobrzezanych wierz¹cych, aby im te¿ poczytana by³a sprawiedliwoœæ; </v>
+<v n="12"> I aby by³ ojcem obrzezania, nie tylko tych, którzy s¹ obrzezani, ale te¿ tych, którzy chodz¹ œladami wiary naszego ojca Abrahama, któr¹ mia³ przed obrzezaniem. </v>
+<v n="13"> Obietnica bowiem, ¿e ma byæ dziedzicem œwiata, nie zosta³a dana Abrahamowi czy jego potomstwu przez prawo, ale przez sprawiedliwoœæ wiary. </v>
+<v n="14"> Jeœli bowiem dziedzicami s¹ ci, którzy s¹ z prawa, to wiara sta³a siê daremna i obietnica obróci³a siê wniwecz. </v>
+<v n="15"> Gdy¿ prawo sprowadza gniew, bo gdzie nie ma prawa, tam nie ma przestêpstwa. </v>
+<v n="16"> Tak wiêc dziedzictwo jest z wiary, aby by³o z ³aski i ¿eby obietnica by³a niewzruszona dla ca³ego potomstwa, nie tylko dla tego, które opiera siê na prawie, ale i dla tego, które jest z wiary Abrahama, który jest ojcem nas wszystkich; </v>
+<v n="17"> (Jak jest napisane: Ustanowi³em ciê ojcem wielu narodów) przed Bogiem, któremu uwierzy³, który o¿ywia umar³ych i przywo³uje te rzeczy, których nie ma, tak jakby by³y. </v>
+<v n="18"> On to wbrew nadziei, maj¹c nadziejê, uwierzy³, ¿e stanie siê ojcem wielu narodów wed³ug tego, co mu powiedziano: Takie bêdzie twoje potomstwo. </v>
+<v n="19"> A nie bêd¹c s³abym w wierze, nie zwa¿a³ na swoje ju¿ obumar³e cia³o – bo mia³ oko³o stu lat – ani na obumar³e ³ono Sary. </v>
+<v n="20"> I nie zachwia³ siê z powodu niewiary w obietnicê Boga, ale umocni³ siê wiar¹ i odda³ chwa³ê Bogu; </v>
+<v n="21"> Bêd¹c te¿ pewien tego, ¿e to, co on obieca³, ma moc te¿ uczyniæ. </v>
+<v n="22"> Dlatego zosta³o mu to poczytane za sprawiedliwoœæ. </v>
+<v n="23"> A nie tylko ze wzglêdu na niego samego napisano, ¿e zosta³o mu to poczytane; </v>
+<v n="24"> Ale i ze wzglêdu na nas, którym ma byæ poczytane, którzy wierzymy w tego, który wskrzesi³ z martwych Jezusa, naszego Pana; </v>
+<v n="25"> Który zosta³ wydany za nasze grzechy i wsta³ z martwych dla naszego usprawiedliwienia. </v>
+</c>

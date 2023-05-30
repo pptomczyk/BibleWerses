@@ -1,0 +1,25 @@
+<v n="1"> PAN powiedzial tez do Mojzesza: Mow do kaplanow, synow Aarona i powiedz im: Niech nikt z was nie zanieczysci sie z powodu umarlych sposrod swego ludu; </v>
+<v n="2"> Z wyjatkiem najblizszych krewnych, czyli swej matki, swego ojca, swego syna, swej corki i swego brata; </v>
+<v n="3"> A takze swej siostry dziewicy, bliskiej mu, ktora nie miala meza; z jej powodu moze sie zanieczyscic. </v>
+<v n="4"> Jako przelozony wsrod swego ludu nie zanieczysci sie, tak zeby byl skalany. </v>
+<v n="5"> Nie beda sobie czynili lysiny na swej glowie ani nie beda golic skrajow swej brody, ani nie beda nacinac swego ciala. </v>
+<v n="6"> Beda swieci dla swego Boga i nie beda bezczescili imienia swego Boga, skladaja bowiem ofiary PANA spalane w ogniu oraz chleb swego Boga. Beda wiec swieci. </v>
+<v n="7"> Nie pojma sobie za zone nierzadnicy lub naruszonej w panienstwie; nie beda takze pojmowac kobiety oddalonej przez jej meza, gdyz kazdy z nich jest swiety dla swego Boga. </v>
+<v n="8"> Miej go wiec za swietego, bo on sklada w ofierze chleb twego Boga; dlatego bedzie swiety dla ciebie, bo ja, PAN, ktory was poswieca, jestem swiety. </v>
+<v n="9"> Jesli corka kaplana zbezczesci sie przez nierzad, zbezczesci swego ojca. Bedzie spalona w ogniu. </v>
+<v n="10"> Najwyzszy kaplan wsrod swoich braci, na ktorego glowe zostala wylana oliwa namaszczenia i ktory zostal poswiecony, aby wkladac na siebie swiete szaty, nie bedzie odslanial swej glowy i nie rozedrze swoich szat; </v>
+<v n="11"> I nie zblizy sie do zadnego zmarlego, nawet nie zanieczysci sie z powodu swego ojca lub z powodu swej matki. </v>
+<v n="12"> Nie wyjdzie ze swiatyni i nie zbezczesci swiatyni swego Boga, gdyz korona oliwy namaszczenia swego Boga jest na nim: Ja jestem PAN. </v>
+<v n="13"> I wezmie sobie dziewice za zone. </v>
+<v n="14"> Nie wezmie sobie ani wdowy, ani oddalonej, ani zhanbionej, ani nierzadnicy, lecz wezmie sobie za zone dziewice ze swego ludu. </v>
+<v n="15"> I nie zbezczesci swego potomstwa wsrod swego ludu, bo ja jestem PAN, ktory go uswieca. </v>
+<v n="16"> Przemowil dalej PAN do Mojzesza, mowiac: </v>
+<v n="17"> Powiedz Aaronowi tymi slowy: Ktokolwiek z twego potomstwa w ich pokoleniach mial jakas wade, niech nie zbliza sie, aby skladac w ofierze chleb swego Boga. </v>
+<v n="18"> Zaden mezczyzna, ktory ma jakas wade, nie zblizy sie: ani niewidomy, ani chromy, ani majacy plaski nos, ani nieproporcjonalnie zbudowany; </v>
+<v n="19"> Ani ten, ktory ma zlamana noge lub reke; </v>
+<v n="20"> Ani garbaty, ani z bielmem na oku, ani chory na swierzb, ani pokryty liszajami, ani eunuch: </v>
+<v n="21"> Zaden mezczyzna z potomkow kaplana Aarona, ktory ma jakas wade, nie zblizy sie, by skladac ofiary PANA spalane w ogniu. Ma wade, wiec nie zblizy sie, aby skladac w ofierze chleb swego Boga. </v>
+<v n="22"> Moze jednak spozywac chleb swego Boga, zarowno swiety, jak i najswietszy. </v>
+<v n="23"> Lecz nie moze wchodzic poza zaslone ani zblizac sie do oltarza, bo ma wade, zeby nie zbezczescil mojej swiatyni. Ja bowiem jestem PAN, ktory ja poswieca. </v>
+<v n="24"> I Mojzesz powiedzial to Aaronowi, jego synom i wszystkim synom Izraela. </v>
+</c>

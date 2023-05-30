@@ -1,0 +1,11 @@
+<v n="1"> I PAN powiedzia³ do Moj¿esza: Sprowadzê jeszcze jedn¹ plagê na faraona i na Egipt, potem wypuœci was st¹d. A gdy was wypuœci, ca³kowicie was st¹d wypêdzi. </v>
+<v n="2"> Powiedz teraz do uszu ludu, aby ka¿dy mê¿czyzna po¿yczy³ od swego s¹siada i ka¿da kobieta od swej s¹siadki srebrne i z³ote przedmioty. </v>
+<v n="3"> A PAN da³ ludowi ³askê w oczach Egipcjan. Moj¿esz tak¿e by³ bardzo wielkim mê¿em w ziemi Egiptu w oczach s³ug faraona i w oczach ludu. </v>
+<v n="4"> Wtedy Moj¿esz powiedzia³: Tak mówi PAN: O pó³nocy przejdê przez Egipt. </v>
+<v n="5"> I umrze wszystko, co pierworodne w ziemi Egiptu, od pierworodnego syna faraona, który mia³ zasiadaæ na jego tronie, a¿ do pierworodnego niewolnicy, która jest przy ¿arnach, i wszelkie pierworodne byd³a. </v>
+<v n="6"> I bêdzie wielki krzyk w ca³ej ziemi Egiptu, jakiego nigdy przedtem nie by³o i jakiego potem nie bêdzie. </v>
+<v n="7"> Ale na nikogo z synów Izraela pies nie ruszy swym jêzykiem, ani na cz³owieka, ani na bydlê, abyœcie wiedzieli, ¿e PAN uczyni³ ró¿nicê miêdzy Egipcjanami a Izraelem. </v>
+<v n="8"> I przyjd¹ do mnie wszyscy twoi s³udzy, i bêd¹ mi siê k³aniaæ, mówi¹c: WyjdŸ ty i ca³y lud, który jest pod twoim przywództwem. Potem wyjdê. I wyszed³ od faraona z wielkim gniewem. </v>
+<v n="9"> PAN powiedzia³ do Moj¿esza: Faraon nie pos³ucha was, aby mno¿y³y siê moje cuda w ziemi Egiptu. </v>
+<v n="10"> Moj¿esz i Aaron czynili wiêc te wszystkie cuda przed faraonem. Lecz PAN zatwardzi³ serce faraona i ten nie wypuœci³ synów Izraela ze swojej ziemi. </v>
+</c>

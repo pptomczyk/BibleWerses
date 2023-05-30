@@ -1,0 +1,18 @@
+<v n="1"> I zobaczy³em, gdy Baranek otworzy³ pierwsz¹ z pieczêci, i us³ysza³em pierwsze z czterech stworzeñ mówi¹ce jakby g³osem gromu: ChodŸ i zobacz. </v>
+<v n="2"> I zobaczy³em, a oto bia³y koñ, ten zaœ, który na nim siedzia³, mia³ ³uk. I dano mu koronê, i wyruszy³ jako zwyciêzca, ¿eby zwyciê¿aæ. </v>
+<v n="3"> A gdy otworzy³ drug¹ pieczêæ, us³ysza³em drugie stworzenie mówi¹ce: ChodŸ i zobacz. </v>
+<v n="4"> I wyszed³ inny koñ, rudy, a temu, który na nim siedzia³, pozwolono odebraæ ziemi pokój, aby ludzie zabijali siê nawzajem. I dano mu wielki miecz. </v>
+<v n="5"> A gdy otworzy³ trzeci¹ pieczêæ, us³ysza³em trzecie stworzenie mówi¹ce: ChodŸ i zobacz. I zobaczy³em, a oto koñ czarny, ten zaœ, który na nim siedzia³, mia³ w swojej rêce wagê. </v>
+<v n="6"> I us³ysza³em g³os poœród czterech stworzeñ mówi¹cy: Miara pszenicy za grosz i trzy miary jêczmienia za grosz. A nie krzywdŸ oliwy i wina. </v>
+<v n="7"> A gdy otworzy³ czwart¹ pieczêæ, us³ysza³em g³os czwartego stworzenia mówi¹cy: ChodŸ i zobacz. </v>
+<v n="8"> I zobaczy³em, oto koñ p³owy, a temu, który na nim siedzia³, by³o na imiê Œmieræ, a Piek³o sz³o za nim. I dano im w³adzê nad czwart¹ czêœci¹ ziemi, aby zabijali mieczem i g³odem, i zaraz¹, i przez zwierzêta ziemi. </v>
+<v n="9"> A gdy otworzy³ pi¹t¹ pieczêæ, widzia³em pod o³tarzem dusze zabitych z powodu s³owa Bo¿ego i œwiadectwa, które z³o¿yli. </v>
+<v n="10"> I wo³a³y donoœnym g³osem: Jak d³ugo jeszcze, Panie œwiêty i prawdziwy, nie bêdziesz s¹dzi³ i nie pomœcisz naszej krwi na mieszkañcach ziemi? </v>
+<v n="11"> I dano ka¿demu z nich bia³¹ szatê, i powiedziano im, aby odpoczywali jeszcze przez krótki czas, a¿ dope³ni siê liczba ich wspó³s³ug i braci, którzy maj¹ zostaæ zabici jak i oni. </v>
+<v n="12"> I zobaczy³em, gdy otworzy³ szóst¹ pieczêæ, a oto nast¹pi³o wielkie trzêsienie ziemi i s³oñce sta³o siê czarne jak w³osiany wór, a ksiê¿yc sta³ siê jak krew. </v>
+<v n="13"> Gwiazdy niebieskie spad³y na ziemiê, podobnie jak drzewo figowe zrzuca niedojrza³e figi, gdy potrz¹œnie nim gwa³towny wiatr. </v>
+<v n="14"> I niebo ust¹pi³o jak zwój zrolowany, a ka¿da góra i wyspa ruszy³y siê ze swoich miejsc. </v>
+<v n="15"> A królowie ziemscy i mo¿now³adcy, i bogacze, i wodzowie, i mocarze, i ka¿dy niewolnik, i ka¿dy wolny ukryli siê w jaskiniach i ska³ach górskich. </v>
+<v n="16"> I mówili do gór i ska³: Padnijcie na nas i zakryjcie nas przed obliczem zasiadaj¹cego na tronie i przed gniewem Baranka; </v>
+<v n="17"> Bo nadszed³ wielki dzieñ jego gniewu. I któ¿ mo¿e siê ostaæ? </v>
+</c>

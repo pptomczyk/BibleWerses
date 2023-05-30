@@ -1,0 +1,26 @@
+<v n="1"> Wsta³ wiêc Jerubbaal, czyli Gedeon, wczeœnie rano, wraz z ca³ym ludem, który by³ z nim, i rozbili obóz przy Ÿródle Charod. A obóz Midianitów by³ na pó³noc od nich, u stóp wzgórza More, w dolinie. </v>
+<v n="2"> I PAN powiedzia³ do Gedeona: Lud, który przebywa z tob¹, jest zbyt liczny, abym wyda³ Midianitów w jego rêce, gdy¿ Izrael móg³by siê che³piæ przede mn¹, mówi¹c: Moja rêka mnie wybawi³a. </v>
+<v n="3"> Wo³aj wiêc teraz do uszu ludu: Kto jest lêkliwy i bojaŸliwy, niech zawróci, a rano niech idzie precz ku górze Gilead. Wtedy z ludu zawróci³y dwadzieœcia dwa tysi¹ce, a dziesiêæ tysiêcy pozosta³o. </v>
+<v n="4"> I PAN powiedzia³ do Gedeona: Lud jest jeszcze zbyt liczny. ZaprowadŸ go do wody, a tam go doœwiadczê. Ten, o którym ci powiem: Ten pójdzie z tob¹, on pójdzie z tob¹, a ten, o którym ci powiem: Ten nie pójdzie z tob¹, on nie pójdzie. </v>
+<v n="5"> Zaprowadzi³ wiêc lud nad wodê, a PAN powiedzia³ do Gedeona: Ka¿dego, kto bêdzie ch³epta³ wodê swym jêzykiem, jak ch³epce pies, postawisz osobno; tak¿e ka¿dy, który uklêknie na kolana, aby piæ, stanie osobno. </v>
+<v n="6"> A liczba tych, którzy ch³eptali wodê z rêki podnoszonej do ust, wynosi³a trzystu mê¿czyzn; ca³a zaœ reszta ludu klêka³a na kolana, aby piæ wodê. </v>
+<v n="7"> Wtedy PAN powiedzia³ do Gedeona: Przez tych trzystu mê¿czyzn, którzy ch³eptali wodê, wybawiê was i wydam Midianitów w twoje rêce, a reszta ludu niech wraca – ka¿dy do siebie. </v>
+<v n="8"> Ten lud wzi¹³ wiêc ze sob¹ ¿ywnoœæ oraz swe tr¹by. A pozosta³ych mê¿czyzn Izraela odes³a³, ka¿dego do swego namiotu, i zatrzyma³ tylko trzystu mê¿czyzn; a obóz Midianitów by³ poni¿ej, w dolinie. </v>
+<v n="9"> Tej nocy PAN powiedzia³ do niego: Wstañ, zejdŸ do obozu, bo wyda³em go w twoje rêce; </v>
+<v n="10"> A jeœli boisz siê iœæ, zejdŸ do obozu z Pur¹, swoim s³ug¹. </v>
+<v n="11"> I us³yszysz, co bêd¹ mówiæ, a potem twoje rêce wzmocni¹ siê, aby wyruszyæ na obóz. Zeszli wiêc on i Pura, jego s³uga, a¿ do krañca przedniej stra¿y obozu. </v>
+<v n="12"> A Midianici, Amalekici oraz ca³y lud ze wschodu le¿eli w dolinie, liczni jak szarañcza, a ich wielb³¹dów by³o bez liku, jak niezliczony jest piasek na morskim brzegu. </v>
+<v n="13"> Gdy Gedeon tam przyszed³, pewien cz³owiek opowiada³ swemu towarzyszowi sen: Oto mia³em sen. Bochen chleba jêczmiennego wtoczy³ siê do obozu Midianitów, dotar³ a¿ do namiotu i uderzy³ w niego, a¿ upad³, i wywróci³ go do³em do góry, i zapad³ siê namiot. </v>
+<v n="14"> Jego towarzysz odpowiedzia³: To nic innego jak tylko miecz Gedeona, syna Joasza, mê¿a Izraela; Bóg wyda³ w jego rêce Midianitów i ca³y obóz. </v>
+<v n="15"> Gdy Gedeon us³ysza³ opowiadanie o tym œnie i jego wyt³umaczenie, podziêkowa³ Bogu, a gdy wróci³ do obozu Izraela, powiedzia³: Wstañcie, gdy¿ PAN da³ w wasze rêce obóz Midianitów. </v>
+<v n="16"> Wtedy podzieli³ tych trzystu mê¿czyzn na trzy oddzia³y i da³ w rêce ka¿demu z nich tr¹by oraz puste dzbany, a w dzbanach – pochodnie. </v>
+<v n="17"> I powiedzia³ do nich: Patrzcie na mnie i czyñcie to samo, co ja. Oto pójdê do krañca obozu, a co ja bêdê czyniæ, to i wy czyñcie. </v>
+<v n="18"> Gdy zadmê w tr¹bê, ja i wszyscy, którzy s¹ ze mn¹, wtedy wy te¿ zadmiecie w tr¹by wokó³ ca³ego obozu i bêdziecie mówili: Miecz PANA i Gedeona. </v>
+<v n="19"> Przyszed³ wiêc Gedeon wraz ze stu mê¿ami, którzy z nim byli, do krañca obozu, w³aœnie wtedy, gdy zaczê³a siê œrodkowa stra¿. I zadêli w tr¹by, i pot³ukli dzbany, które mieli w rêkach. </v>
+<v n="20"> Zadê³y w tr¹by wiêc te trzy oddzia³y i pot³uk³y dzbany; trzymaj¹c w lewej rêce pochodnie, a w prawej rêce tr¹by, aby zad¹æ, wo³a³y: Miecz PANA i Gedeona. </v>
+<v n="21"> I stanêli, ka¿dy na swoim miejscu, doko³a obozu, a wszyscy w obozie powstali, krzyczeli i uciekali. </v>
+<v n="22"> Gdy wiêc tych trzystu mê¿czyzn zadê³o w tr¹by, PAN obróci³ miecz jednego przeciw drugiemu w ca³ym obozie. I tak wojsko uciek³o a¿ do Bet-Szitta w Serera, a¿ do granicy Abel-Mechola, w stronê Tabbat. </v>
+<v n="23"> Wtedy zebrali siê mê¿czyŸni Izraela z Neftalego, z Aszera i ca³ego pokolenia Manassesa i œcigali Midianitów. </v>
+<v n="24"> Potem Gedeon rozes³a³ pos³añców po ca³ym pogórzu Efraim, mówi¹c: ZejdŸcie na spotkanie Midianitom, a zajmijcie przed nimi wody a¿ do Bet-Bara i Jordanu. Zebrali siê wiêc wszyscy mê¿czyŸni z Efraima i zajêli wody a¿ do Bet-Bara i Jordanu. </v>
+<v n="25"> Pojmali przy tym dwóch ksi¹¿¹t Midianu, Oreba i Zeeba; Oreba zabili na skale Oreba, a Zeeba zabili przy t³oczni Zeeba. Œcigali dalej Midianitów, a g³owy Oreba i Zeeba przynieœli do Gedeona za Jordan. </v>
+</c>

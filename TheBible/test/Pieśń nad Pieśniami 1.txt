@@ -1,0 +1,18 @@
+<v n="1"> Piesn nad piesniami Salomona. </v>
+<v n="2"> Niech mnie pocaluje pocalunkami swoich ust. Twoja milosc bowiem jest lepsza od wina. </v>
+<v n="3"> Z powodu wonnosci twoich olejkow twoje imie jest jak rozlany olejek; dlatego miluja cie dziewice. </v>
+<v n="4"> Pociagnij mnie, a pobiegniemy za toba. Krol wprowadzil mnie do swoich komnat. Bedziemy sie cieszyc i radowac toba, bedziemy pamietac o twojej milosci bardziej niz o winie. Miluja cie prawi. </v>
+<v n="5"> Czarna jestem, ale piekna, o corki Jerozolimy, jak namioty Kedaru, jak zaslony Salomona. </v>
+<v n="6"> Nie patrzcie na mnie, ze jestem czarna, gdyz slonce mnie opalilo. Synowie mojej matki rozgniewali sie na mnie, postawili mnie na strazy winnic; a mojej wlasnej winnicy nie ustrzeglam. </v>
+<v n="7"> Powiedz mi ty, ktorego miluje moja dusza, gdzie wypasasz, gdzie dajesz swojej trzodzie odpoczac w poludnie. Czemu bowiem mam byc jak bladzaca przy trzodach twoich towarzyszy? </v>
+<v n="8"> Jesli nie wiesz, najpiekniejsza wsrod kobiet, to idz sladem trzody i pas swoje kozlatka przy szalasach pasterzy. </v>
+<v n="9"> Przyrownam cie, moja umilowana, do zaprzegu rydwanow faraona. </v>
+<v n="10"> Twoje lica sa piekne, ozdobione klejnotami, a twoja szyja – lancuchami. </v>
+<v n="11"> Uczynimy ci zlote klejnoty nakrapiane srebrem. </v>
+<v n="12"> Dopoki krol jest przy swoim stole, moj nard rozsiewa swoja won. </v>
+<v n="13"> Jak wiazka mirry jest dla mnie moj mily, spoczywa na moich piersiach. </v>
+<v n="14"> Moj mily jest dla mnie jak grono cyprysu posrod winnic w En-Gedi. </v>
+<v n="15"> O jaka ty jestes piekna, moja umilowana! O jaka ty jestes piekna! Twoje oczy sa jak oczy golebicy. </v>
+<v n="16"> O jaki ty jestes piekny, moj umilowany, i jak mily! Loze nasze sie zieleni. </v>
+<v n="17"> Belki naszego domu sa cedrowe, a nasze stropy – cyprysowe. </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> Pawe³, aposto³ Jezusa Chrystusa z woli Boga, do œwiêtych, którzy s¹ w Efezie, i wiernych w Chrystusie Jezusie. </v>
+<v n="2"> £aska wam i pokój od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="3"> B³ogos³awiony niech bêdzie Bóg i Ojciec naszego Pana Jezusa Chrystusa, który pob³ogos³awi³ nas wszelkim duchowym b³ogos³awieñstwem w miejscach niebiañskich w Chrystusie. </v>
+<v n="4"> Jak nas wybra³ w nim przed za³o¿eniem œwiata, abyœmy byli œwiêci i nienaganni przed jego obliczem w mi³oœci. </v>
+<v n="5"> Przeznaczy³ nas dla siebie, ku usynowieniu przez Jezusa Chrystusa, wed³ug upodobania swojej woli; </v>
+<v n="6"> Dla uwielbienia chwa³y swojej ³aski, któr¹ obdarzy³ nas w umi³owanym; </v>
+<v n="7"> W którym mamy odkupienie przez jego krew, przebaczenie grzechów, wed³ug bogactwa jego ³aski; </v>
+<v n="8"> Któr¹ nam hojnie okaza³ we wszelkiej m¹droœci i roztropnoœci; </v>
+<v n="9"> Oznajmiaj¹c nam tajemnicê swojej woli, wed³ug swego upodobania, które sam w sobie postanowi³; </v>
+<v n="10"> Aby w zarz¹dzeniu pe³ni czasów wszystko zebra³ w jedno w Chrystusie, i to, co w niebiosach, i to, co na ziemi. </v>
+<v n="11"> W nim, mówiê, w którym te¿ dost¹piliœmy udzia³u, przeznaczeni wed³ug postanowienia tego, który dokonuje wszystkiego wed³ug rady swojej woli; </v>
+<v n="12"> Abyœmy istnieli dla uwielbienia jego chwa³y, my, którzy wczeœniej po³o¿yliœmy nadziejê w Chrystusie. </v>
+<v n="13"> W nim i wy po³o¿yliœcie nadziejê, kiedy us³yszeliœcie s³owo prawdy, ewangeliê waszego zbawienia, w nim te¿, gdy uwierzyliœcie, zostaliœcie zapieczêtowani obiecanym Duchem Œwiêtym; </v>
+<v n="14"> Który jest zadatkiem naszego dziedzictwa, a¿ nast¹pi odkupienie nabytej w³asnoœci, dla uwielbienia jego chwa³y. </v>
+<v n="15"> Dlatego i ja, gdy us³ysza³em o waszej wierze w Pana Jezusa i o mi³oœci wzglêdem wszystkich œwiêtych; </v>
+<v n="16"> Nie przestajê dziêkowaæ za was, czyni¹c o was wzmiankê w moich modlitwach; </v>
+<v n="17"> Prosz¹c, aby Bóg naszego Pana Jezusa Chrystusa, Ojciec chwa³y, da³ wam Ducha m¹droœci i objawienia w poznaniu jego samego; </v>
+<v n="18"> A¿eby oœwieci³ oczy waszego umys³u, abyœcie wiedzieli, czym jest nadzieja jego powo³ania, czym jest bogactwo chwa³y jego dziedzictwa w œwiêtych; </v>
+<v n="19"> I czym jest przemo¿na wielkoœæ jego mocy wobec nas, którzy wierzymy, wed³ug dzia³ania potêgi jego si³y. </v>
+<v n="20"> Okaza³ j¹ w Chrystusie, gdy go wskrzesi³ z martwych i posadzi³ po swojej prawicy w miejscach niebiañskich; </v>
+<v n="21"> Wysoko ponad wszelk¹ zwierzchnoœci¹ i w³adz¹, moc¹, panowaniem i ponad wszelkim imieniem wypowiadanym nie tylko w tym œwiecie, ale i w przysz³ym. </v>
+<v n="22"> I wszystko podda³ pod jego stopy, a jego samego da³ jako g³owê ponad wszystkim koœcio³owi; </v>
+<v n="23"> Który jest jego cia³em i pe³ni¹ tego, który wszystko we wszystkich nape³nia. </v>
+</c>

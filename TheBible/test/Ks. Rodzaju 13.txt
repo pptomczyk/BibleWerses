@@ -1,0 +1,19 @@
+<v n="1"> Tak wiec Abram wyszedl z Egiptu, on i jego zona, i wszystko, co mial, i Lot z nim, i udali sie ku poludniu. </v>
+<v n="2"> A Abram byl bardzo bogaty w bydlo, srebro i zloto. </v>
+<v n="3"> I szedl, robiac postoje, od poludnia az do Betel, do tego miejsca, gdzie poprzednio byl jego namiot, miedzy Betel a Aj; </v>
+<v n="4"> Do miejsca, gdzie poprzednio zbudowal oltarz. Tam wezwal Abram imienia PANA. </v>
+<v n="5"> Lot, ktory szedl z Abramem, rowniez mial owce, woly i namioty. </v>
+<v n="6"> A ziemia ta nie mogla ich pomiescic, zeby mieszkali razem, bo ich majatek byl tak wielki, ze nie mogli mieszkac razem. </v>
+<v n="7"> I wynikla sprzeczka miedzy pasterzami stad Abrama a pasterzami stad Lota. Kananejczycy i Peryzzyci mieszkali wowczas na tej ziemi. </v>
+<v n="8"> Abram powiedzial wiec do Lota: Prosze, niech nie bedzie sporu miedzy mna a toba, takze miedzy moimi pasterzami a twoimi pasterzami, bo jestesmy bracmi. </v>
+<v n="9"> Czyz cala ziemia nie stoi przed toba? Odlacz sie, prosze, ode mnie. Jesli pojdziesz w lewo, ja pojde w prawo, a jesli ty pojdziesz w prawo, ja pojde w lewo. </v>
+<v n="10"> Wtedy Lot podniosl swe oczy i zobaczyl, ze cala rownina nad Jordanem byla dobrze nawodniona – zanim PAN zniszczyl Sodome i Gomore – jak ogrod PANA, jak ziemia Egiptu, az do Zoar. </v>
+<v n="11"> Lot wybral wiec sobie cala te rownine nad Jordanem i udal sie na wschod. I rozlaczyli sie bracia jeden od drugiego. </v>
+<v n="12"> Abram mieszkal w ziemi Kanaan, a Lot mieszkal w miastach tej rowniny i rozbil swoj namiot az do Sodomy. </v>
+<v n="13"> Ale mezczyzni Sodomy byli zli i wielkimi grzesznikami przed PANEM. </v>
+<v n="14"> I PAN powiedzial do Abrama, gdy Lot juz odlaczyl sie od niego: Podnies teraz swe oczy i spojrz z miejsca, na ktorym teraz jestes, na polnoc i na poludnie, na wschod i na zachod. </v>
+<v n="15"> Bo cala ziemie, ktora widzisz, dam tobie i twemu potomstwu na wieki. </v>
+<v n="16"> I rozmnoze twoje potomstwo jak proch ziemi, tak ze jesli ktos bedzie mogl zliczyc proch ziemi, to rowniez twoje potomstwo bedzie policzone. </v>
+<v n="17"> Wstan i przejdz te ziemie wzdluz i wszerz, bo dam ci ja. </v>
+<v n="18"> Abram zwinal wiec namiot, przyszedl i mieszkal na rowninach Mamre, ktore sa w Hebronie, i tam zbudowal oltarz dla PANA. </v>
+</c>

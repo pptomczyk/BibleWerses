@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Blogoslawiony, kto zwaza na ubogiego, PAN go wybawi w dniu niedoli. </v>
+<v n="2"> PAN bedzie go strzegl, zachowa przy zyciu, bedzie mu blogoslawil na ziemi i nie wyda go na pastwe jego wrogow. </v>
+<v n="3"> PAN pokrzepi go na lozu bolesci, w czasie choroby poprawi cale jego poslanie. </v>
+<v n="4"> Powiedzialem: PANIE, zmiluj sie nade mna, uzdrow moja dusze, bo zgrzeszylem przeciwko tobie. </v>
+<v n="5"> Moi wrogowie zle o mnie mowia: Kiedy on umrze i zginie jego imie? </v>
+<v n="6"> Jesli ktorys przychodzi mnie odwiedzic, mowi obludnie; w swoim sercu gromadzi nieprawosc, a gdy wychodzi, rozpowiada. </v>
+<v n="7"> Wszyscy, ktorzy mnie nienawidza, szepcza wspolnie przeciwko mnie, przeciwko mnie obmyslaja zlo; </v>
+<v n="8"> Mowiac: Spadla na niego zlosliwa zaraza, polozyl sie i juz nie wstanie. </v>
+<v n="9"> Nawet moj przyjaciel, ktoremu ufalem, ktory jadl moj chleb, podniosl przeciwko mnie piete. </v>
+<v n="10"> Ale ty, PANIE, zmiluj sie nade mna i podnies mnie, abym im odplacil. </v>
+<v n="11"> Po tym poznam, ze mnie sobie upodobales, ze moj wrog nie bedzie triumfowal nade mna. </v>
+<v n="12"> Ty zas wesprzesz mnie ze wzgledu na moja uczciwosc i na wieki postawisz mnie przed swoim obliczem. </v>
+<v n="13"> Blogoslawiony PAN, Bog Izraela, od wiekow az na wieki. Amen, amen. </v>
+</c>

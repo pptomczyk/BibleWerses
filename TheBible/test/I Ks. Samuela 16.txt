@@ -1,0 +1,24 @@
+<v n="1"> Wtedy PAN powiedzial do Samuela: Jak dlugo bedziesz bolal nad Saulem, skoro odrzucilem go, aby nie krolowal nad Izraelem? Napelnij swoj rog oliwa i idz, posylam cie do Jessego Betlejemity. Tam bowiem upatrzylem sobie krola wsrod jego synow. </v>
+<v n="2"> Samuel powiedzial: Jak mam pojsc? Saul bowiem o tym uslyszy i zabije mnie. PAN odpowiedzial: Wez ze soba jalowice ze stada i powiedz: Przyszedlem, aby zlozyc PANU ofiare. </v>
+<v n="3"> I wezwij Jessego na ofiare, a ja ci oznajmie, co masz czynic. A namascisz mi tego, ktorego ci wskaze. </v>
+<v n="4"> Samuel uczynil wiec tak, jak mu powiedzial PAN, i przybyl do Betlejem. Wtedy starsi miasta z drzeniem wyszli mu naprzeciw i zapytali: Czy przychodzisz w pokoju? </v>
+<v n="5"> Odpowiedzial: W pokoju. Przyszedlem, aby zlozyc PANU ofiare. Poswieccie sie i przyjdzcie ze mna na skladanie ofiary. Poswiecil tez Jessego i jego synow i zaprosil ich na skladanie ofiary. </v>
+<v n="6"> A gdy przyszli, ujrzal Eliaba i powiedzial: Na pewno stoi przed PANEM jego pomazaniec. </v>
+<v n="7"> Lecz PAN powiedzial do Samuela: Nie patrz na jego urode ani na jego wysoki wzrost, gdyz go odrzucilem. PAN bowiem nie patrzy na to, na co patrzy czlowiek, bo czlowiek patrzy na to, co jest przed oczami, ale PAN patrzy na serce. </v>
+<v n="8"> Jesse zawolal wtedy Abinadaba i kazal mu przejsc przed Samuelem. A on powiedzial: Tego tez PAN nie wybral. </v>
+<v n="9"> Potem Jesse kazal przejsc Szammie. A on powiedzial: Tego tez PAN nie wybral. </v>
+<v n="10"> W ten sposob Jesse kazal przejsc siedmiu swoim synom przed Samuelem. I Samuel powiedzial do Jessego: PAN nie wybral tych. </v>
+<v n="11"> Potem Samuel zapytal Jessego: Czy to juz wszyscy twoi synowie? Odpowiedzial: Zostal jeszcze najmlodszy, ktory pasie owce. Wtedy Samuel powiedzial do Jessego: Poslij po niego i przyprowadz go, gdyz nie usiadziemy, dopoki on tu nie przyjdzie. </v>
+<v n="12"> Poslal wiec po niego i przyprowadzil go. Byl on rudy i mial piekne oczy oraz ladny wyglad. I PAN powiedzial: Wstan, namasc go, bo to jest on. </v>
+<v n="13"> Samuel wzial wiec rog z oliwa i namascil go posrod jego braci. I od tego dnia Duch PANA zstepowal na Dawida. Samuel zas wstal i poszedl do Rama. </v>
+<v n="14"> Lecz Duch PANA opuscil Saula i zaczal go trapic zly duch od PANA. </v>
+<v n="15"> Wtedy sludzy Saula powiedzieli do niego: Oto teraz trapi cie zly duch od Boga. </v>
+<v n="16"> Niech nasz pan rozkaze swoim slugom, ktorzy sa przed toba, by poszukali czlowieka, ktory umie grac na harfie. A gdy bedzie na tobie ten zly duch od Boga, czlowiek ten zagra swa reka i ulzy ci. </v>
+<v n="17"> Saul odpowiedzial swoim slugom: Prosze, upatrzcie mi czlowieka, ktory umialby dobrze grac, i przyprowadzcie go do mnie. </v>
+<v n="18"> Jeden ze slug odpowiedzial: Oto widzialem syna Jessego Betlejemity, ktory umie grac. Jest to dzielny wojownik, czlowiek waleczny, roztropny i przystojny, a PAN jest z nim. </v>
+<v n="19"> Saul wyslal wiec poslancow do Jessego i powiedzial: Poslij do mnie swego syna Dawida, ktory jest przy trzodzie. </v>
+<v n="20"> Wtedy Jesse wzial osla, chleb, buklak wina oraz jedno kozle i poslal to wszystko Saulowi przez swego syna Dawida. </v>
+<v n="21"> I Dawid przybyl do Saula, i stanal przed nim. Ten ukochal go bardzo i Dawid zostal jego giermkiem. </v>
+<v n="22"> Potem Saul poslal do Jessego, mowiac: Prosze, niech Dawid stoi przede mna, bo znalazl laske w moich oczach. </v>
+<v n="23"> A gdy zly duch od Boga zstepowal na Saula, Dawid bral harfe i gral swa reka melodie. Wtedy Saul doznawal ulgi i czul sie lepiej, a zly duch odchodzil od niego. </v>
+</c>

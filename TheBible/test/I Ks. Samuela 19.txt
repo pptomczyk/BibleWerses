@@ -1,0 +1,25 @@
+<v n="1"> Wtedy Saul mowil do swego syna Jonatana i do wszystkich swoich slug, aby zabili Dawida. </v>
+<v n="2"> Lecz Jonatan, syn Saula, bardzo milowal Dawida. I Jonatan doniosl Dawidowi, mowiac: Moj ojciec Saul chce cie zabic. Teraz wiec strzez sie do rana i siedz w ukryciu. </v>
+<v n="3"> A ja wyjde i stane przy swoim ojcu na polu, tam gdzie ty bedziesz. Bede rozmawial o tobie ze swoim ojcem, a cokolwiek zobacze, powiadomie cie o tym. </v>
+<v n="4"> Jonatan mowil wiec dobrze o Dawidzie ze swym ojcem Saulem i powiedzial mu: Niech krol nie grzeszy przeciwko swemu sludze Dawidowi, gdyz on nie zgrzeszyl przeciw tobie, a jego czyny sa raczej dla ciebie bardzo pozyteczne: </v>
+<v n="5"> On przeciez narazal swoje zycie i zabil Filistyna, i PAN dokonal wielkiego wybawienia dla calego Izraela. Sam to widziales i uradowales sie. Dlaczego wiec mialbys grzeszyc przeciw niewinnej krwi i bez powodu zabic Dawida? </v>
+<v n="6"> I Saul posluchal slow Jonatana, i przysiagl: Jak zyje PAN, nie zostanie zabity. </v>
+<v n="7"> Jonatan zawolal wiec Dawida i powtorzyl mu wszystkie te slowa. Potem Jonatan przyprowadzil Dawida do Saula i przebywal z nim, tak jak poprzednio. </v>
+<v n="8"> Gdy znowu wybuchla wojna, Dawid wyruszyl przeciw Filistynom i walczyl z nimi, i zadal im wielka kleske tak, ze uciekli przed nim. </v>
+<v n="9"> A zly duch od PANA opanowal Saula, kiedy siedzial w swym domu, trzymajac wlocznie w reku, Dawid zas gral swa reka melodie. </v>
+<v n="10"> I Saul chcial przybic Dawida wlocznia do sciany, lecz ten wymknal sie Saulowi i wlocznia utkwila w scianie, a Dawid wybiegl i uciekl tej nocy. </v>
+<v n="11"> Potem Saul wyslal poslancow do domu Dawida, aby go pilnowali i rano zabili. Lecz Mikal, jego zona, powiedziala o tym Dawidowi: Jesli nie ujdziesz z zyciem tej nocy, jutro zostaniesz zabity. </v>
+<v n="12"> Mikal spuscila wiec Dawida przez okno, a on odszedl, uciekl i ocalal. </v>
+<v n="13"> A Mikal wziela bozka i polozyla na lozu, a poduszke z koziej siersci umiescila pod jego glowa i przykryla szata. </v>
+<v n="14"> Gdy Saul wyslal poslancow, aby porwali Dawida, powiedziala: Jest chory. </v>
+<v n="15"> Saul znowu wyslal poslancow, aby zobaczyli Dawida, nakazujac: Przyniescie go do mnie na lozu, abym go zabil. </v>
+<v n="16"> A gdy poslancy przyszli, oto na lozu byl bozek, a poduszka z koziej skory byla pod jego glowa. </v>
+<v n="17"> I Saul powiedzial do Mikal: Dlaczego mnie tak oszukalas i wypuscilas mego wroga, aby uszedl? Mikal odpowiedziala Saulowi: On mi powiedzial: Pusc mnie, dlaczego mialbym cie zabic? </v>
+<v n="18"> Dawid uciekl wiec i ocalal, nastepnie przybyl do Samuela, do Rama, i opowiedzial mu wszystko, co Saul mu uczynil. Potem wraz z Samuelem poszli do Najot i tam zamieszkali. </v>
+<v n="19"> I doniesiono Saulowi: Oto Dawid jest w Najot, w Rama. </v>
+<v n="20"> Wtedy Saul wyslal poslancow, aby pojmali Dawida. Gdy zobaczyli gromade prorokujacych prorokow oraz Samuela stojacego na ich czele, Duch Bozy zstapil na poslancow i oni takze zaczeli prorokowac. </v>
+<v n="21"> Kiedy doniesiono o tym Saulowi, wyslal innych poslancow, lecz i oni prorokowali. Saul wyslal i trzecich poslancow, lecz takze i ci prorokowali. </v>
+<v n="22"> Potem on sam poszedl do Rama i gdy przyszedl do wielkiej studni, ktora jest w Seku, zapytal: Gdzie jest Samuel i Dawid? Odpowiedziano mu: Oto sa w Najot, w Rama. </v>
+<v n="23"> I szedl stamtad do Najot w Rama, lecz na niego tez zstapil Duch Bozy, tak ze idac, prorokowal, az przyszedl do Najot w Rama. </v>
+<v n="24"> I zdjal z siebie szaty i takze prorokowal przed Samuelem, lezac nagi przez caly dzien i cala noc. Stad powiedzenie: Czyz i Saul miedzy prorokami? </v>
+</c>

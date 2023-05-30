@@ -1,0 +1,13 @@
+<v n="1"> Dawid jednak powiedzial sobie w sercu: Ktoregos dnia zgine z reki Saula. Nie ma dla mnie nic lepszego, niz bym uszedl szybko do ziemi Filistynow. Wtedy Saul bedzie zrozpaczony szukaniem mnie po wszystkich granicach Izraela. I tak ujde z jego rak. </v>
+<v n="2"> Powstal wiec Dawid i wraz z szesciuset ludzmi, ktorzy byli z nim, poszedl do Akisza, syna Maoka, krola Gat. </v>
+<v n="3"> I Dawid mieszkal u Akisza w Gat, on i jego ludzie, kazdy ze swoja rodzina: Dawid i jego dwie zony, Achinoam Jizreelitka i Abigail, dawna zona Nabala, Karmelitka. </v>
+<v n="4"> A gdy doniesiono Saulowi, ze Dawid uciekl do Gat, przestal go szukac. </v>
+<v n="5"> I Dawid powiedzial do Akisza: Jesli teraz znalazlem laske w twoich oczach, niech mi dadza miejsce w jednym z miast tego kraju, abym tam mieszkal. Dlaczego bowiem twoj sluga mialby mieszkac w miescie krolewskim wraz z toba? </v>
+<v n="6"> Akisz dal mu wiec w tym dniu Siklag. Dlatego Siklag nalezy do krolow Judy az do dzis. </v>
+<v n="7"> A okres, ktory Dawid przebywal w krainie Filistynow, wynosil rok i cztery miesiace. </v>
+<v n="8"> Dawid i jego ludzie wyprawiali sie i najezdzali Geszurytow, Girzytow i Amalekitow. Ci bowiem od dawna mieszkali w tej ziemi lezacej przy wejsciu do Szur az do ziemi Egiptu. </v>
+<v n="9"> I Dawid pustoszyl te ziemie, i nie pozostawial przy zyciu ani mezczyzny, ani kobiety. Zabieral zas owce, woly, osly i wielblady, a takze szaty, zawracal i przybywal do Akisza. </v>
+<v n="10"> A gdy Akisz pytal: Gdzie byliscie dzisiaj na wyprawie? Dawid odpowiadal: Na poludniu Judy, na poludnie od Jerachmeelitow i na poludnie od Kenitow. </v>
+<v n="11"> Dawid nie zostawial przy zyciu ani mezczyzny, ani kobiety, aby ich nie przyprowadzic do Gat. Mowil: Aby nie skarzyli na nas i nie mowili: Tak uczynil Dawid i taki byl jego zwyczaj przez wszystkie dni, kiedy mieszkal w ziemi Filistynow. </v>
+<v n="12"> Akisz zas wierzyl Dawidowi i mowil: Zostal znienawidzony przez swoj lud, Izrael. Pozostanie wiec moim sluga na zawsze. </v>
+</c>

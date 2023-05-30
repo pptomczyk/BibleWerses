@@ -1,0 +1,23 @@
+<v n="1"> I PAN powiedzia³ do Moj¿esza: </v>
+<v n="2"> Poœwiêæ mi wszystko, co pierworodne. Wszystko, co otwiera ³ono u synów Izraela, tak wœród ludzi, jak i wœród byd³a. To nale¿y do mnie. </v>
+<v n="3"> Moj¿esz powiedzia³ wiêc do ludu: Pamiêtajcie ten dzieñ, w którym wyszliœcie z Egiptu, z domu niewoli. PAN bowiem potê¿n¹ rêk¹ wyprowadzi³ was stamt¹d. Nie bêdziecie jeœæ nic kwaszonego. </v>
+<v n="4"> Dziœ wychodzicie, w miesi¹cu Abib. </v>
+<v n="5"> A gdy PAN wprowadzi ciê do ziemi Kananejczyków, Chetytów, Amorytów, Chiwwitów i Jebusytów, któr¹ przysi¹g³ daæ waszym ojcom, ziemiê op³ywaj¹c¹ mlekiem i miodem, wtedy bêdziesz obchodzi³ ten obrzêd w tym samym miesi¹cu. </v>
+<v n="6"> Przez siedem dni bêdziesz jeœæ przaœny chleb, a siódmego dnia bêdzie œwiêto dla PANA. </v>
+<v n="7"> Bêdziesz jad³ przaœny chleb przez siedem dni i nie mo¿e znaleŸæ siê u ciebie nic kwaszonego ani ¿aden zakwas nie mo¿e byæ widziany we wszystkich twoich granicach. </v>
+<v n="8"> W tym dniu opowiesz swemu synowi: Obchodzê to ze wzglêdu na to, co PAN dla mnie uczyni³, gdy wychodzi³em z Egiptu. </v>
+<v n="9"> To bêdzie jako znak na twojej rêce i jako pami¹tka przed twoimi oczyma, aby prawo PANA by³o na twoich ustach. PAN bowiem potê¿n¹ rêk¹ wyprowadzi³ ciê z Egiptu. </v>
+<v n="10"> Bêdziesz przestrzega³ tej ustawy w wyznaczonym czasie, z roku na rok. </v>
+<v n="11"> A gdy PAN wprowadzi ciê do ziemi Kanaan, jak przysi¹g³ tobie i twoim ojcom, i da j¹ tobie; </v>
+<v n="12"> Wtedy przeznaczysz dla PANA wszystko, co otwiera ³ono, i ka¿dy p³ód otwieraj¹cy ³ono z twojego byd³a, ka¿dy samiec bêdzie dla PANA. </v>
+<v n="13"> Ka¿de zaœ pierworodne oœlê wykupisz barankiem, a jeœli nie wykupisz, z³amiesz mu kark. Wykupisz te¿ ka¿dego pierworodnego cz³owieka wœród twoich synów. </v>
+<v n="14"> A gdy w przysz³oœci twój syn ciê zapyta: Có¿ to jest? Wtedy odpowiesz mu: PAN wyprowadzi³ nas potê¿n¹ rêk¹ z Egiptu, z domu niewoli. </v>
+<v n="15"> Gdy bowiem faraon sta³ siê twardy i wzbrania³ siê nas wypuœciæ, wtedy PAN zabi³ wszystko, co pierworodne w ziemi Egiptu, od pierworodnego z ludzi a¿ do pierworodnego z byd³a. Dlatego sk³adam w ofierze PANU wszystkie samce otwieraj¹ce ³ono, ale ka¿dego pierworodnego z moich synów wykupujê. </v>
+<v n="16"> To bêdzie jako znak na twojej rêce i jako przepaska ozdobna miêdzy twoimi oczyma, ¿e PAN potê¿n¹ rêk¹ wyprowadzi³ nas z Egiptu. </v>
+<v n="17"> A sta³o siê tak, ¿e gdy faraon wypuœci³ lud, Bóg nie prowadzi³ go drog¹ przez ziemiê Filistynów, chocia¿ by³a bli¿sza. Bóg bowiem powiedzia³: ¯eby lud na widok wojny nie ¿a³owa³ i nie wróci³ do Egiptu. </v>
+<v n="18"> Ale Bóg prowadzi³ lud okrê¿n¹ drog¹ przez pustyniê nad Morzem Czerwonym. I synowie Izraela wyszli z ziemi Egiptu w bojowym szyku. </v>
+<v n="19"> Moj¿esz wzi¹³ te¿ ze sob¹ koœci Józefa, gdy¿ ten zobowi¹za³ synów Izraela przysiêg¹, mówi¹c: Na pewno Bóg was nawiedzi. Zabierzcie wiêc st¹d ze sob¹ moje koœci. </v>
+<v n="20"> Wyruszyli z Sukkot i rozbili obóz w Etam, na skraju pustyni. </v>
+<v n="21"> A PAN szed³ przed nimi za dnia w s³upie ob³oku, by prowadziæ ich drog¹, a noc¹ w s³upie ognia, by im œwieciæ, ¿eby mogli iœæ dniem i noc¹. </v>
+<v n="22"> Nie oddala³ od ludu ani s³upa ob³oku za dnia, ani s³upa ognia noc¹. </v>
+</c>

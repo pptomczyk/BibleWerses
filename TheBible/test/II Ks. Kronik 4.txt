@@ -1,0 +1,23 @@
+<v n="1"> Uczynil tez oltarz z brazu dlugi na dwadziescia lokci, szeroki na dwadziescia lokci, a na dziesiec lokci wysoki. </v>
+<v n="2"> Wykonal rowniez odlewane morze na dziesiec lokci od brzegu do brzegu. Bylo ono dokladnie okragle, mialo piec lokci wysokosci i trzydziesci lokci obwodu. </v>
+<v n="3"> A pod nim dokola znajdowaly sie podobizny wolow, ktorych bylo po dziesiec na kazdym lokciu, a otaczaly morze dokola. Byly dwa rzedy tych wolow odlanych razem z morzem. </v>
+<v n="4"> Stalo ono na dwunastu wolach, z ktorych trzy spogladaly na polnoc, trzy spogladaly na zachod, trzy spogladaly na poludnie, a trzy spogladaly na wschod. Morze stalo na nich na wierzchu, a wszystkie ich zady byly zwrocone do srodka. </v>
+<v n="5"> Jego grubosc byla na szerokosc dloni; a jego brzeg byl wykonany jak brzeg kielicha, w ksztalcie kwiatu lilii. Miescilo w sobie trzy tysiace bat. </v>
+<v n="6"> Wykonal rowniez dziesiec kadzi do obmywania w nich wszystkiego, co nalezalo do calopalenia, i postawil piec po prawej i piec po lewej stronie. Ale morze sluzylo do obmywania sie w nim kaplanow. </v>
+<v n="7"> Uczynil tez dziesiec zlotych swiecznikow w ksztalcie, jaki mialy miec, i postawil je w swiatyni, piec po prawej i piec po lewej stronie. </v>
+<v n="8"> Uczynil tez dziesiec stolow, ktore postawil w swiatyni, piec po prawej i piec po lewej stronie. Wykonal tez sto zlotych czasz. </v>
+<v n="9"> Zbudowal rowniez dziedziniec kaplanow i wielki dziedziniec oraz bramy do dziedzinca, a bramy pokryl brazem. </v>
+<v n="10"> A morze postawil po prawej stronie na poludniowy wschod. </v>
+<v n="11"> Huram uczynil kociolki, lopatki i miednice. Tak ukonczyl Huram prace, ktora mial wykonac dla krola Salomona, dla domu Bozego. </v>
+<v n="12"> Mianowicie: dwie kolumny z okraglymi glowicami na wierzchu tych dwoch kolumn oraz dwie siatki, ktore okrywaly dwie okragle glowice na szczycie kolumn; </v>
+<v n="13"> I czterysta jablek granatu do tych dwoch siatek, po dwa rzedy jablek granatu na kazdej siatce, do pokrycia dwoch okraglych glowic na wierzchach kolumn. </v>
+<v n="14"> Porobil takze podstawy oraz kadzie na tych podstawach; </v>
+<v n="15"> Jedno morze i dwanascie wolow pod nim. </v>
+<v n="16"> Do tego kociolki, lopatki, widelki i wszystkie naczynia do nich porobil Huram-Abi dla krola Salomona, do domu PANA z polerowanego brazu. </v>
+<v n="17"> Na rowninach Jordanu krol odlewal je w gliniastej ziemi, miedzy Sukkot i Seredata. </v>
+<v n="18"> Salomon sporzadzil wiec wszystkie te naczynia w tak wielkiej liczbie, ze nie mozna bylo obliczyc wagi brazu. </v>
+<v n="19"> Sporzadzil takze Salomon wszystkie naczynia, ktore nalezaly do domu Bozego: zloty oltarz i stoly, na ktorych skladano chleby pokladne; </v>
+<v n="20"> Takze swieczniki i ich lampy ze szczerego zlota, aby je rozpalano wedlug zwyczaju przed Miejscem Najswietszym; </v>
+<v n="21"> Ponadto kwiaty, lampy i szczypce ze zlota, i to z wybornego zlota; </v>
+<v n="22"> Do tego nozyce, miednice, czasze i kadzielnice ze szczerego zlota; bramy do domu, bramy wewnetrzne do Najswietszego Miejsca oraz drzwi domu, czyli swiatyni, ze zlota. </v>
+</c>

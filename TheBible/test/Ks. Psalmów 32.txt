@@ -1,0 +1,12 @@
+<v n="1"> Psalm Dawida. Piesn pouczajaca. Blogoslawiony ten, komu przebaczono wystepek, komu grzech zakryto. </v>
+<v n="2"> Blogoslawiony czlowiek, ktoremu PAN nie poczytuje nieprawosci i w ktorego duchu nie ma podstepu. </v>
+<v n="3"> Gdy milczalem, moje kosci schly od moich calodziennych narzekan. </v>
+<v n="4"> We dnie i w nocy bowiem ciazyla na mnie twoja reka, usychalem jak podczas letniej suszy. Sela. </v>
+<v n="5"> Wyznalem ci swoj grzech i nie krylem mojej nieprawosci. Powiedzialem: Wyznam moje wystepki PANU, a ty przebaczyles nieprawosc mego grzechu. Sela. </v>
+<v n="6"> Dlatego do ciebie bedzie sie modlil kazdy pobozny w czasie, gdy mozna cie znalezc; nawet w czasie powodzi wielkich wod, one go nie dosiegna. </v>
+<v n="7"> Ty jestes moim schronieniem, zachowasz mnie od ucisku; otaczasz mnie piesniami wybawienia. Sela. </v>
+<v n="8"> Poucze cie i naucze cie drogi, ktora masz kroczyc, poprowadze cie swoim okiem. </v>
+<v n="9"> Nie badzcie bezrozumni jak kon czy jak mul, ktorych pyski trzeba okielznac uzda i wedzidlem, aby sie na ciebie nie porywaly. </v>
+<v n="10"> Wiele cierpien spada na niegodziwego, lecz ufajacego PANU otoczy milosierdzie. </v>
+<v n="11"> Weselcie sie w PANU i radujcie sie sprawiedliwi, wykrzykujcie radosnie, wszyscy prawego serca. </v>
+</c>

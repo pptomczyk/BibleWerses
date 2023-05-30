@@ -1,0 +1,15 @@
+<v n="1"> W czwartym roku króla Dariusza s³owo PANA dosz³o do Zachariasza, czwartego dnia dziewi¹tego miesi¹ca, to jest w miesi¹cu Kislew; </v>
+<v n="2"> Gdy lud pos³a³ do domu Bo¿ego Saresera i Regem-Meleka z ich ludŸmi, aby siê modlili przed PANEM; </v>
+<v n="3"> I aby zapytali kap³anów, którzy byli w domu PANA zastêpów, a tak¿e proroków: Czy w pi¹tym miesi¹cu mam jeszcze p³akaæ, poœwiêcaj¹c siê, jak to ju¿ czyni³em przez tyle lat? </v>
+<v n="4"> Dosz³o do mnie s³owo PANA zastêpów mówi¹ce: </v>
+<v n="5"> Powiedz do ca³ego ludu tej ziemi i do kap³anów: Gdy poœciliœcie i p³akaliœcie w pi¹tym i siódmym miesi¹cu przez te siedemdziesi¹t lat, czy poœciliœcie dla mnie? </v>
+<v n="6"> A gdy jecie i pijecie, czy nie dla siebie jecie i nie dla siebie pijecie? </v>
+<v n="7"> Czy nie nale¿a³o raczej czyniæ wed³ug s³owa, które PAN g³osi³ przez dawnych proroków, gdy Jerozolima by³a jeszcze zamieszkana i za¿ywa³a pokoju, a tak¿e jej okoliczne miasta, gdy po³udnie i równina by³y zamieszkane? </v>
+<v n="8"> I s³owo PANA dosz³o do Zachariasza mówi¹ce: </v>
+<v n="9"> Tak mówi PAN zastêpów: S¹dŸcie sprawiedliwie i okazujcie mi³osierdzie i litoœæ, ka¿dy swojemu bratu. </v>
+<v n="10"> Nie uciskajcie wdowy i sieroty, obcego i ubogiego i nie obmyœlajcie z³a w swoich sercach, jedni przeciwko drugim. </v>
+<v n="11"> Ale oni nie chcieli s³uchaæ i odwrócili siê plecami, i zatkali swoje uszy, aby nie s³yszeæ. </v>
+<v n="12"> Zatwardzili swoje serca jak diament, aby nie s³uchaæ prawa i s³ów, które posy³a³ PAN zastêpów przez swego Ducha za poœrednictwem dawnych proroków. Dlatego nadszed³ wielki gniew od PANA zastêpów. </v>
+<v n="13"> I sta³o siê tak, ¿e podobnie jak gdy on wo³a³, a oni nie s³uchali, tak te¿ gdy oni wo³ali, ja ich nie wys³ucha³em, mówi PAN zastêpów. </v>
+<v n="14"> I rozproszy³em ich wichrem pomiêdzy wszystkimi narodami, których nie znali, a ta ziemia opustosza³a po nich, tak ¿e nikt nie przechodzi³ ani nie wraca³. Zamienili bowiem rozkoszn¹ ziemiê w spustoszenie. </v>
+</c>

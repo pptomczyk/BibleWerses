@@ -1,0 +1,22 @@
+<v n="1"> Wtedy Elifaz z Temanu odpowiedzial: </v>
+<v n="2"> Jesli bedziemy rozmawiac z toba, nie bedzie ci przykro? Ale ktoz moze sie od mowienia powstrzymac? </v>
+<v n="3"> Oto nauczales wielu i rece slabe umocniles. </v>
+<v n="4"> Twoje slowa podnosily upadajacego, a omdlale kolana wzmacniales. </v>
+<v n="5"> A teraz, gdy to przyszlo na ciebie, opadasz z sil, dotknelo cie i sie trwozysz. </v>
+<v n="6"> Czy twoja bojazn nie byla twoja ufnoscia, a prawosc twoich drog – twoja nadzieja? </v>
+<v n="7"> Przypomnij sobie, prosze, czy kiedykolwiek zginal ktos niewinny? Albo gdzie sprawiedliwych wytepiono? </v>
+<v n="8"> Wedlug tego, co zauwazylem, ci, ktorzy orza zlo i sieja niegodziwosc, zbieraja je. </v>
+<v n="9"> Od tchnienia Boga gina i od powiewu jego gniewu niszczeja. </v>
+<v n="10"> Ryk lwa, glos dzikiego lwa i zeby lwiatek sa zlamane. </v>
+<v n="11"> Lew ginie z braku lupu i mlode lwicy rozpraszaja sie. </v>
+<v n="12"> Oto potajemnie doszlo do mnie slowo i moje ucho uslyszalo szept. </v>
+<v n="13"> W rozmyslaniu o nocnych widzeniach, gdy twardy sen spada na ludzi; </v>
+<v n="14"> Ogarnely mnie strach i drzenie, od ktorych wszystkie moje kosci zadrzaly. </v>
+<v n="15"> Wtedy duch przeszedl przed moja twarza, zjezyly sie wlosy na moim ciele. </v>
+<v n="16"> Stanal, lecz nie rozpoznalem jego wygladu, tylko jakis ksztalt byl przed moimi oczami; nastala cisza, a potem uslyszalem glos mowiacy: </v>
+<v n="17"> Czy smiertelny czlowiek moze byc sprawiedliwszy niz Bog? Czy czlowiek moze byc czystszy niz jego Stworca? </v>
+<v n="18"> Oto swoim slugom nie ufa i w swoich aniolach dostrzega braki; </v>
+<v n="19"> O ilez bardziej w tych, ktorzy mieszkaja w domach glinianych, ktorych podstawa jest w prochu – latwiej ich zgniesc niz mola. </v>
+<v n="20"> Od poranka az do wieczora sa gladzeni; gina na wieki, a nikt tego nie zauwaza. </v>
+<v n="21"> Czy ich wspanialosc nie przemija wraz z nimi? Umieraja, ale nie w madrosci. </v>
+</c>

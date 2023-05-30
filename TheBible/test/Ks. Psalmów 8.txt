@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi choru, na Gittyt. Psalm Dawida. O PANIE, nasz Panie, jak slawne jest twoje imie na calej ziemi! Ty, ktory swoja chwale wyniosles nad niebiosa. </v>
+<v n="2"> Przez usta niemowlat i ssacych ugruntowales swa potege z powodu twoich wrogow, aby poskromic nieprzyjaciela i msciciela. </v>
+<v n="3"> Gdy przypatruje sie twoim niebiosom, dzielu twoich palcow, ksiezycowi i gwiazdom, ktore utwierdziles; </v>
+<v n="4"> Wtedy mowie: Czymze jest czlowiek, ze o nim pamietasz, albo syn czlowieczy, ze troszczysz sie o niego? </v>
+<v n="5"> Uczyniles go bowiem niewiele mniejszym od aniolow, chwala i czcia go ukoronowales. </v>
+<v n="6"> Dales mu panowanie nad dzielami twoich rak, wszystko poddales pod jego stopy: </v>
+<v n="7"> Owce i wszelkie bydlo, a takze zwierzeta polne; </v>
+<v n="8"> Ptactwo niebieskie i ryby morskie, i wszystko, co przemierza szlaki morz. </v>
+<v n="9"> O PANIE, nasz Panie, jak slawne jest twoje imie na calej ziemi! </v>
+</c>

@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Wybaw mnie, PANIE, od zlego czlowieka; strzez mnie od okrutnika; </v>
+<v n="2"> Od tych, ktorzy knuja w sercu zle rzeczy, kazdego dnia zbieraja sie na wojne. </v>
+<v n="3"> Wyostrzaja swe jezyki jak weze, jad zmii pod ich wargami. Sela. </v>
+<v n="4"> Zachowaj mnie, PANIE, od rak niegodziwego, strzez mnie od okrutnika; od tych, ktorzy postanowili zwalic mnie z nog. </v>
+<v n="5"> Pyszni zastawili na mnie sidla i przygotowali powrozy; rozciagneli sieci przy sciezce; zastawili na mnie pulapke. Sela. </v>
+<v n="6"> Powiedzialem PANU: Ty jestes moim Bogiem; wysluchaj, PANIE, glosu moich blagan. </v>
+<v n="7"> Panie BOZE, mocy mego zbawienia, ktory oslaniasz moja glowe w dniu bitwy; </v>
+<v n="8"> Nie spelniaj, PANIE, pragnien niegodziwego; nie wspomagaj jego zlych zamyslow, aby sie nie podniosl. Sela. </v>
+<v n="9"> Niech nieprawosc ich wlasnych warg okryje wodza tych, ktorzy mnie otoczyli. </v>
+<v n="10"> Niech na nich spadna rozzarzone wegle; niech beda wrzuceni do ognia i do glebokich dolow, by juz nie powstali. </v>
+<v n="11"> Niech oszczerca nie bedzie utwierdzony na ziemi, a czlowiek okrutny upadnie przygnieciony zlem. </v>
+<v n="12"> Wiem, ze PAN ujmie sie za strapionym i pomsci krzywde nedzarzy. </v>
+<v n="13"> Zaprawde sprawiedliwi beda wyslawiac twoje imie, a prawi beda mieszkac przed twoim obliczem. </v>
+</c>

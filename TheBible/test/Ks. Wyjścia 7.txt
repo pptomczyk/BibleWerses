@@ -1,0 +1,26 @@
+<v n="1"> I PAN powiedzial do Mojzesza: Oto ustanowilem cie bogiem dla faraona, a twoj brat Aaron bedzie twoim prorokiem. </v>
+<v n="2"> Ty powiesz wszystko, co ci rozkaze. A twoj brat Aaron bedzie mowil do faraona, aby wypuscil synow Izraela ze swojej ziemi. </v>
+<v n="3"> A ja zatwardze serce faraona i pomnoze moje znaki i cuda w ziemi Egiptu. </v>
+<v n="4"> Faraon was nie poslucha, lecz ja poloze moja reke na Egipcie i wyprowadze moje zastepy, moj lud, synow Izraela, z ziemi Egiptu przez wielkie sady. </v>
+<v n="5"> A Egipcjanie poznaja, ze ja jestem PAN, gdy wyciagne reke na Egipt i wyprowadze synow Izraela sposrod nich. </v>
+<v n="6"> Mojzesz i Aaron uczynili wiec, jak im PAN przykazal; tak wlasnie uczynili. </v>
+<v n="7"> Mojzesz mial osiemdziesiat lat, a Aaron osiemdziesiat trzy lata, gdy mowili do faraona. </v>
+<v n="8"> Wtedy PAN powiedzial do Mojzesza i Aarona: </v>
+<v n="9"> Gdy faraon powie wam: Uczyncie jakis cud, wtedy powiesz do Aarona: Wez swa laske i rzuc ja przed faraonem, a zamieni sie w weza. </v>
+<v n="10"> Mojzesz i Aaron przyszli do faraona i uczynili tak, jak PAN rozkazal. Aaron rzucil swoja laske przed faraonem i jego slugami, a ona zamienila sie w weza. </v>
+<v n="11"> Wtedy faraon wezwal medrcow i czarownikow. I ci egipscy czarownicy uczynili to samo swoimi czarami. </v>
+<v n="12"> Kazdy z nich rzucil swoja laske, a zamienily sie w weze. Lecz laska Aarona pozarla ich laski. </v>
+<v n="13"> Serce faraona stalo sie jednak zatwardziale i nie posluchal ich, jak PAN zapowiedzial. </v>
+<v n="14"> Potem PAN powiedzial do Mojzesza: Serce faraona jest zatwardziale, wzbrania sie wypuscic lud. </v>
+<v n="15"> Idz do faraona rankiem, kiedy wyjdzie nad wode. Staniesz naprzeciwko niego nad brzegiem rzeki i wezmiesz do reki laske, ktora sie zamienila w weza; </v>
+<v n="16"> I powiesz mu: PAN, Bog Hebrajczykow, poslal mnie do ciebie, mowiac: Wypusc moj lud, aby mi sluzyl na pustyni, a oto dotad nie posluchales. </v>
+<v n="17"> Dlatego tak mowi PAN: Po tym poznasz, ze ja jestem PAN. Oto uderze laska, ktora jest w mojej rece, w wody, ktore sa w rzece, a one zamienia sie w krew. </v>
+<v n="18"> Ryby, ktore sa w rzece, pozdychaja i rzeka bedzie cuchnac. Egipcjanie sie zmecza poszukiwaniem wody z rzeki do picia. </v>
+<v n="19"> PAN mowil dalej do Mojzesza: Powiedz Aaronowi: Wez swoja laske i wyciagnij reke nad wody Egiptu, nad ich rzeki, nad ich strugi, nad ich jeziora i nad wszelkie zbiorowiska wod, a one zamienia sie w krew. Krew bedzie na calej ziemi Egiptu, tak w naczyniach drewnianych, jak i w kamiennych. </v>
+<v n="20"> Mojzesz i Aaron uczynili tak, jak PAN rozkazal. Aaron podniosl laske i uderzyl wody rzeki na oczach faraona i jego slug. I wszystkie wody rzeki zamienily sie w krew. </v>
+<v n="21"> Ryby, ktore byly w rzece, pozdychaly i rzeka zaczela cuchnac, tak ze Egipcjanie nie mogli pic z niej wody. A krew byla w calej ziemi Egiptu. </v>
+<v n="22"> Lecz egipscy czarownicy uczynili to samo swoimi czarami. Pozostalo wiec zatwardziale serce faraona i nie posluchal ich, jak PAN zapowiedzial. </v>
+<v n="23"> Faraon odwrocil sie i poszedl do swego domu, i tego rowniez nie wzial sobie do serca. </v>
+<v n="24"> I wszyscy Egipcjanie kopali wokol rzeki w poszukiwaniu wody do picia, bo nie mogli pic wody z rzeki. </v>
+<v n="25"> I uplynelo siedem dni od chwili, gdy PAN uderzyl rzeke. </v>
+</c>

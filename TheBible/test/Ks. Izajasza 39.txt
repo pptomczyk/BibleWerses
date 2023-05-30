@@ -1,0 +1,9 @@
+<v n="1"> W tym czasie Merodak-Baladan, syn Baladana, krol Babilonu, poslal listy i dar do Ezechiasza. Uslyszal bowiem, ze chorowal, a potem wyzdrowial. </v>
+<v n="2"> I Ezechiasz ucieszyl sie z tego, i pokazal im caly skarbiec swoich kosztownosci: srebro i zloto, wonnosci, drogocenne olejki oraz swoja zbrojownie, a takze wszystko, co sie znajdowalo w jego skarbcach. Nie bylo niczego, czego Ezechiasz by im nie pokazal w swoim domu i w calym swoim panstwie. </v>
+<v n="3"> Wtedy prorok Izajasz przyszedl do krola Ezechiasza i zapytal go: Co powiedzieli ci mezczyzni i skad przyszli do ciebie? Ezechiasz odpowiedzial: Przybyli do mnie z dalekiej ziemi, z Babilonu. </v>
+<v n="4"> Znowu zapytal: Co widzieli w twoim domu? Ezechiasz odpowiedzial: Widzieli wszystko, co jest w moim domu. Nie bylo niczego, czego bym im nie pokazal w swoich skarbcach. </v>
+<v n="5"> Wtedy Izajasz powiedzial do Ezechiasza: Sluchaj slowa PANA zastepow: </v>
+<v n="6"> Oto przyjda dni, gdy zabiora do Babilonu wszystko, co jest w twoim domu i co twoi ojcowie zgromadzili az do tego dnia, mowi PAN. </v>
+<v n="7"> A z twoich synow, ktorzy beda pochodzic od ciebie i ktorych splodzisz, zabiora niektorych i beda eunuchami w palacu krola Babilonu. </v>
+<v n="8"> Wtedy Ezechiasz powiedzial do Izajasza: Dobre jest slowo PANA, ktore wypowiedziales. I dodal: Bedzie bowiem pokoj i prawda za moich dni. </v>
+</c>

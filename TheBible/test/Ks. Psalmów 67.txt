@@ -1,0 +1,8 @@
+<v n="1"> Przewodnikowi choru, na Neginot. Psalm i piesn. Niech Bog sie zmiluje nad nami i blogoslawi nam, niech rozjasni nad nami swoje oblicze. Sela. </v>
+<v n="2"> Aby poznano na ziemi twoja droge, wsrod wszystkich narodow twoje zbawienie. </v>
+<v n="3"> Niech cie wyslawiaja ludy, o Boze, niech cie wyslawiaja wszystkie ludy. </v>
+<v n="4"> Niech narody sie raduja i wykrzykuja, bo ty bedziesz sadzil ludy sprawiedliwie i rzadzic bedziesz narodami na ziemi. Sela. </v>
+<v n="5"> Niech cie wyslawiaja ludy, o Boze, niech cie wyslawiaja wszystkie ludy. </v>
+<v n="6"> Wtedy ziemia wyda swoj plon i Bog, nasz Bog, bedzie nam blogoslawic. </v>
+<v n="7"> Niech nam Bog blogoslawi i niech sie go boja wszystkie krance ziemi. </v>
+</c>

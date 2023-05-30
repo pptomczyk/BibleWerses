@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi choru, na Gittyt. Psalm dla synow Korego. O, jak mile sa twoje przybytki, PANIE zastepow! </v>
+<v n="2"> Moja dusza wzdycha i omdlewa z tesknoty do przedsionkow PANA; moje serce i cialo wolaja radosnie do Boga zywego. </v>
+<v n="3"> Oto nawet wrobel znalazl sobie dom i jaskolka gniazdo, gdzie sklada swe piskleta, u twoich oltarzy, PANIE zastepow, moj Krolu i moj Boze! </v>
+<v n="4"> Blogoslawieni ci, ktorzy mieszkaja w twoim domu, nieustannie beda cie chwalic. Sela. </v>
+<v n="5"> Blogoslawiony czlowiek, ktorego sila jest w tobie, w ktorego sercu sa twoje drogi; </v>
+<v n="6"> Ci, ktorzy przechodzac przez doline Baka, zmieniaja ja w zrodlo, a deszcz okrywa ja blogoslawienstwem. </v>
+<v n="7"> I ida z mocy w moc, i ukaza sie przed Bogiem na Syjonie. </v>
+<v n="8"> O PANIE, Boze zastepow, wysluchaj mojej modlitwy, naklon ucha, Boze Jakuba. Sela. </v>
+<v n="9"> Spojrz, Boze, nasza tarczo, i wejrzyj na oblicze twego pomazanca. </v>
+<v n="10"> Lepszy bowiem jest jeden dzien w twoich przedsionkach niz tysiac gdzie indziej; wole raczej stac w progu domu mego Boga, niz mieszkac w namiotach niegodziwcow. </v>
+<v n="11"> PAN Bog bowiem jest sloncem i tarcza, PAN obdarza laska i chwala, nie odmawia dobra tym, ktorzy postepuja nienagannie. </v>
+<v n="12"> PANIE zastepow, blogoslawiony czlowiek, ktory ufa tobie. </v>
+</c>

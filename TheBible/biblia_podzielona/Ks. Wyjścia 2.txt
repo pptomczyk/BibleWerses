@@ -1,0 +1,26 @@
+<v n="1"> Pewien mê¿czyzna z rodu Lewiego poj¹³ za ¿onê córkê z rodu Lewiego. </v>
+<v n="2"> Kobieta ta poczê³a i urodzi³a syna, a gdy zobaczy³a, ¿e jest piêkny, ukrywa³a go przez trzy miesi¹ce. </v>
+<v n="3"> Ale gdy nie mog³a go d³u¿ej ukrywaæ, wziê³a koszyk z sitowia, wysmarowa³a ¿ywic¹ i smo³¹, w³o¿y³a do niego dziecko i umieœci³a miêdzy trzcinami na brzegu rzeki. </v>
+<v n="4"> A jego siostra sta³a daleko, aby wiedzieæ, co siê z nim stanie. </v>
+<v n="5"> Wtedy zesz³a do rzeki córka faraona, aby siê wyk¹paæ, a jej s³u¿¹ce przechadza³y siê po brzegu rzeki. Gdy zobaczy³a koszyk w trzcinie, pos³a³a sw¹ s³u¿¹c¹, aby go wziê³a. </v>
+<v n="6"> Kiedy go otworzy³a, zobaczy³a dziecko, a ch³opiec p³aka³. Ulitowa³a siê nad nim i powiedzia³a: To jedno z hebrajskich dzieci. </v>
+<v n="7"> Wówczas jego siostra zapyta³a córkê faraona: Czy mam pójœæ i zawo³aæ ci mamkê spoœród hebrajskich kobiet, aby ci wykarmi³a to dziecko? </v>
+<v n="8"> Córka faraona odpowiedzia³a jej: IdŸ. Dziewczynka posz³a wiêc i zawo³a³a matkê tego dziecka. </v>
+<v n="9"> Do niej powiedzia³a córka faraona: WeŸ to dziecko i wykarm mi je, a ja dam ci nale¿n¹ zap³atê. Kobieta wziê³a wiêc dziecko i wykarmi³a je. </v>
+<v n="10"> A gdy dziecko podros³o, przyprowadzi³a je do córki faraona i sta³o siê jej synem. I nada³a mu imiê Moj¿esz, bo mówi³a: Wyci¹gnê³am go z wody. </v>
+<v n="11"> Kiedy Moj¿esz dorós³, wyszed³ do swych braci i widzia³ ich ciê¿ary. Zobaczy³ te¿ Egipcjanina, który bi³ Hebrajczyka, jednego z jego braci. </v>
+<v n="12"> Rozejrza³ siê na wszystkie strony, a gdy zobaczy³, ¿e nikogo nie ma, zabi³ Egipcjanina i ukry³ go w piasku. </v>
+<v n="13"> A gdy wyszed³ nastêpnego dnia, oto k³ócili siê dwaj Hebrajczycy. Wtedy zapyta³ tego, który wyrz¹dza³ krzywdê: Dlaczego bijesz swego bliŸniego? </v>
+<v n="14"> Ten mu odpowiedzia³: Któ¿ ciê ustanowi³ prze³o¿onym i sêdzi¹ nad nami? Czy zamierzasz mnie zabiæ, jak zabi³eœ Egipcjanina? Wtedy Moj¿esz zl¹k³ siê i powiedzia³: Na pewno sprawa wysz³a na jaw. </v>
+<v n="15"> Gdy faraon us³ysza³ o sprawie, usi³owa³ zabiæ Moj¿esza. Lecz Moj¿esz uciek³ przed faraonem i zamieszka³ w ziemi Midian. I zatrzyma³ siê tam przy pewnej studni. </v>
+<v n="16"> A kap³an Midianitów mia³ siedem córek. Przysz³y one, naczerpa³y wody i nape³ni³y koryta, aby napoiæ stado swego ojca; </v>
+<v n="17"> Ale nadeszli pasterze i odganiali je. Wtedy Moj¿esz wsta³, obroni³ je i napoi³ ich byd³o. </v>
+<v n="18"> Gdy wróci³y do swego ojca Reuela, ten zapyta³: Dlaczego dziœ przysz³yœcie tak szybko? </v>
+<v n="19"> One odpowiedzia³y: Jakiœ Egipcjanin wybawi³ nas z r¹k pasterzy, naczerpa³ nam te¿ wody i napoi³ stado. </v>
+<v n="20"> Wtedy zapyta³ swoje córki: A gdzie on jest? Dlaczego zostawi³yœcie tego cz³owieka? Zawo³ajcie go, aby zjad³ chleb. </v>
+<v n="21"> Moj¿esz zgodzi³ siê zamieszkaæ u tego cz³owieka, a ten da³ Moj¿eszowi swoj¹ córkê Seforê. </v>
+<v n="22"> Ta urodzi³a mu syna, któremu nada³ imiê Gerszom, bo mówi³: By³em przybyszem w obcej ziemi. </v>
+<v n="23"> Po d³u¿szym czasie umar³ król Egiptu, a synowie Izraela wzdychali i wo³ali z powodu niewoli. Ich wo³anie z powodu niewoli dotar³o do Boga. </v>
+<v n="24"> Bóg us³ysza³ ich jêk i wspomnia³ Bóg na swoje przymierze z Abrahamem, Izaakiem i Jakubem. </v>
+<v n="25"> I spojrza³ Bóg na synów Izraela, i mia³ Bóg na nich wzgl¹d. </v>
+</c>

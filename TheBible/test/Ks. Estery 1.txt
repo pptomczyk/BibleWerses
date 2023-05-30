@@ -1,0 +1,23 @@
+<v n="1"> I stalo sie za dni Aswerusa – tego Aswerusa, ktory krolowal od Indii az do Etiopii nad stu dwudziestoma siedmioma prowincjami; </v>
+<v n="2"> Ze w tych dniach, gdy krol Aswerus zasiadal na tronie swego krolestwa w palacu Suza; </v>
+<v n="3"> W trzecim roku swego panowania wyprawil u siebie uczte dla wszystkich swoich ksiazat i slug. Stawili sie przed nim dowodcy Persow i Medow oraz dostojnicy i ksiazeta prowincji. </v>
+<v n="4"> I pokazywal bogactwa i chwale swego krolestwa oraz wspanialosc swego majestatu przez wiele dni, mianowicie przez sto osiemdziesiat dni. </v>
+<v n="5"> A po uplywie tych dni krol wyprawil uczte dla wszystkich ludzi znajdujacych sie w palacu Suza, od najwiekszego az do najmniejszego, przez siedem dni na dziedzincu, w ogrodzie palacu krola. </v>
+<v n="6"> Wisialy w nim biale, zielone i blekitne tkaniny przymocowane sznurami z bisioru i purpury do srebrnych pierscieni na slupach z marmuru. Zlote i srebrne loza staly na posadzce z krysztalu i marmuru, z bialego i czarnego marmuru. </v>
+<v n="7"> A napoj podawano w zlotych naczyniach, kazde z naczyn bylo zas inne, a wina krolewskiego bylo pod dostatkiem, jak przystalo na krola. </v>
+<v n="8"> Ale do picia, wedlug polecenia, nikt nikogo nie przymuszal. Tak bowiem rozkazal krol wszystkim zarzadcom swego domu, aby czynili wedlug woli kazdego. </v>
+<v n="9"> Krolowa Waszti takze wyprawila uczte dla kobiet w domu krolewskim, ktory nalezal do krola Aswerusa. </v>
+<v n="10"> A dnia siodmego, gdy serce krola rozweselilo sie winem, rozkazal on Mechumanie, Bizzecie, Charbonie, Bigcie, Abagcie, Zetarowi i Karkasowi, siedmiu eunuchom, ktorzy sluzyli przy krolu Aswerusie; </v>
+<v n="11"> Aby przyprowadzili przed oblicze krola krolowa Waszti w koronie krolewskiej, chcac pokazac ludowi i ksiazetom jej pieknosc. Byla bowiem bardzo piekna. </v>
+<v n="12"> Ale krolowa Waszti odmowila przyjscia na rozkaz krola, przekazany przez eunuchow. Krol wiec bardzo sie rozgniewal, a gniew w nim zaplonal. </v>
+<v n="13"> Wtedy krol zapytal medrcow obeznanych z czasami (gdyz taki byl zwyczaj, aby sprawy krolewskie przedkladac wszystkim znawcom prawa i sadu; </v>
+<v n="14"> A jego najblizszymi byli: Karszena, Szetar, Admata, Tarszisz, Meres, Marsena i Memukan, siedmiu ksiazat perskich i medyjskich, ktorzy ogladali oblicze krola i zajmowali pierwsze miejsce w krolestwie); </v>
+<v n="15"> Co wedlug prawa nalezy czynic z krolowa Waszti za to, ze nie wykonala rozkazu krola Aswerusa przekazanego przez eunuchow? </v>
+<v n="16"> Wtedy Memukan odpowiedzial przed krolem i ksiazetami: Krolowa Waszti wystapila nie tylko przeciw samemu krolowi, ale przeciw wszystkim ksiazetom i wszystkim ludom, ktore zyja we wszystkich prowincjach krola Aswerusa. </v>
+<v n="17"> Kiedy bowiem postepek krolowej rozniesie sie wsrod wszystkich kobiet, wzgardza one swoimi mezami w swoich oczach i powiedza: Krol Aswerus rozkazal przyprowadzic krolowa Waszti przed swoje oblicze, a ona nie przyszla. </v>
+<v n="18"> Jeszcze dzisiaj ksiezniczki perskie i medyjskie, ktore slyszaly o postepku krolowej, beda mowily to samo wszystkim ksiazetom krola, a bedzie wiele pogardy i gniewu. </v>
+<v n="19"> Dlatego wiec, jesli krol uzna to za sluszne, niech wyjdzie od krola wyrok i niech bedzie wpisany do praw perskich i medyjskich, ktore sa nieodwolalne: Ze Waszti nie przyjdzie juz przed oblicze krola Aswerusa, a jej godnosc krolewska niech krol da innej, lepszej od niej. </v>
+<v n="20"> A gdy ten wyrok, wydany przez krola, bedzie ogloszony w calym jego krolestwie – a jest ono wielkie – wtedy wszystkie zony okaza szacunek swoim mezom, od wielkiego az do malego. </v>
+<v n="21"> Ta rada podobala sie krolowi i ksiazetom i krol uczynil wedlug rady Memukana. </v>
+<v n="22"> I rozeslal listy do wszystkich prowincji krolewskich, do kazdej prowincji napisany jej wlasnym pismem, i do kazdego ludu w jego jezyku, aby kazdy mezczyzna byl panem w swoim domu. A ogloszono to w jezyku kazdego narodu. </v>
+</c>

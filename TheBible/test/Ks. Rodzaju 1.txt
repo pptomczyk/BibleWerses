@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="windows-1250"?>
+<bible>
+<v n="1"> Na poczatku Bog stworzyl niebo i ziemie. </v>
+<v n="2"> A ziemia byla bezksztaltna i pusta i ciemnosc byla nad glebia, a Duch Bozy unosil sie nad wodami. </v>
+<v n="3"> I Bog powiedzial: Niech stanie sie swiatlosc. I stala sie swiatlosc. </v>
+<v n="4"> Bog widzial, ze swiatlosc byla dobra. I oddzielil Bog swiatlosc od ciemnosci. </v>
+<v n="5"> I nazwal Bog swiatlosc dniem, a ciemnosc nazwal noca. I nastal wieczor i poranek, dzien pierwszy. </v>
+<v n="6"> Potem Bog powiedzial: Niech stanie sie firmament posrodku wod i niech oddzieli wody od wod. </v>
+<v n="7"> I uczynil Bog firmament, i oddzielil wody, ktore sa pod firmamentem, od wod, ktore sa nad firmamentem. I tak sie stalo. </v>
+<v n="8"> I Bog nazwal firmament niebem. I nastal wieczor i poranek, dzien drugi. </v>
+<v n="9"> Potem Bog powiedzial: Niech sie zbiora w jednym miejscu wody, ktore sa pod niebem, i niech sie ukaze sucha powierzchnia. I tak sie stalo. </v>
+<v n="10"> I Bog nazwal sucha powierzchnie ziemia, a zbiorowisko wod – morzami. I Bog widzial, ze to bylo dobre. </v>
+<v n="11"> Potem Bog powiedzial: Niech ziemia zrodzi trawe, rosliny wydajace nasiona i drzewo urodzajne przynoszace owoc wedlug swego rodzaju, ktorego nasienie bedzie w nim na ziemi. I tak sie stalo. </v>
+<v n="12"> I ziemia wydala trawe, rosliny wydajace nasienie wedlug swego rodzaju i drzewo przynoszace owoc, w ktorym bylo nasienie wedlug swego rodzaju. I Bog widzial, ze to bylo dobre. </v>
+<v n="13"> I nastal wieczor i poranek, dzien trzeci. </v>
+<v n="14"> Potem Bog powiedzial: Niech sie stana swiatla na firmamencie nieba, by oddzielaly dzien od nocy, i niech stanowia znaki, pory roku, dni i lata. </v>
+<v n="15"> I niech beda swiatlami na firmamencie nieba, aby swiecily nad ziemia. I tak sie stalo. </v>
+<v n="16"> I Bog uczynil dwa wielkie swiatla: swiatlo wieksze, aby rzadzilo dniem, i swiatlo mniejsze, aby rzadzilo noca, oraz gwiazdy. </v>
+<v n="17"> I Bog umiescil je na firmamencie nieba, aby swiecily nad ziemia; </v>
+<v n="18"> I zeby rzadzily dniem i noca, i oddzielaly swiatlosc od ciemnosci. I Bog widzial, ze to bylo dobre. </v>
+<v n="19"> I nastal wieczor i poranek, dzien czwarty. </v>
+<v n="20"> Potem Bog powiedzial: Niech wody hojnie wydadza zywe istoty, a ptactwo niech lata nad ziemia, pod firmamentem nieba. </v>
+<v n="21"> I Bog stworzyl wielkie wieloryby i wszelkie plywajace istoty zywe, ktore hojnie wydaly wody, wedlug ich rodzaju oraz wszelkie ptactwo skrzydlate wedlug jego rodzaju. I Bog widzial, ze to bylo dobre. </v>
+<v n="22"> Bog blogoslawil je, mowiac: Badzcie plodne i rozmnazajcie sie, i wypelniajcie wody morskie, a ptactwo niech sie rozmnaza na ziemi. </v>
+<v n="23"> I nastal wieczor i poranek, dzien piaty. </v>
+<v n="24"> Bog powiedzial tez: Niech ziemia wyda istoty zywe wedlug swego rodzaju: bydlo, zwierzeta pelzajace i zwierzeta ziemi wedlug swego rodzaju. I tak sie stalo. </v>
+<v n="25"> I Bog uczynil zwierzeta ziemi wedlug swego rodzaju i bydlo wedlug swego rodzaju, i wszelkie zwierzeta, ktore pelzaja po ziemi wedlug swego rodzaju. I Bog widzial, ze to bylo dobre. </v>
+<v n="26"> Potem Bog powiedzial: Uczynmy czlowieka na nasz obraz wedlug naszego podobienstwa; niech panuje nad rybami morskimi i ptactwem niebieskim, nad bydlem i cala ziemia oraz nad wszelkimi zwierzetami pelzajacymi, ktore pelzaja po ziemi. </v>
+<v n="27"> Stworzyl wiec Bog czlowieka na swoj obraz, na obraz Boga go stworzyl; stworzyl ich mezczyzna i kobieta. </v>
+<v n="28"> I Bog blogoslawil im. Potem Bog powiedzial do nich: Badzcie plodni i rozmnazajcie sie, napelniajcie ziemie i czyncie ja sobie poddana; panujcie nad rybami morskimi i nad ptactwem niebieskim, i nad wszelkimi zwierzetami, ktore poruszaja sie po ziemi. </v>
+<v n="29"> I Bog powiedzial: Oto dalem wam wszelkie rosliny wydajace z siebie nasienie, ktore sa na powierzchni calej ziemi, i wszelkie drzewo majace owoc drzewa, wydajace z siebie nasienie – beda one dla was pokarmem. </v>
+<v n="30"> I wszelkim zwierzetom ziemi, i wszelkiemu ptactwu niebieskiemu, i wszystkiemu, co pelza po ziemi i ma w sobie zycie, pokarmem beda wszelkie rosliny zielone. I tak sie stalo. </v>
+<v n="31"> I Bog widzial wszystko, co uczynil, a bylo to bardzo dobre. I nastal wieczor i poranek, dzien szosty. </v>
+</c>

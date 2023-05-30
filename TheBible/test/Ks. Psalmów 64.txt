@@ -1,0 +1,11 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Wysluchaj, o Boze, mego glosu, gdy sie modle; zachowaj moje zycie od strachu przed wrogiem. </v>
+<v n="2"> Ukryj mnie przed tajemna rada zloczyncow, przed zgraja czyniacych nieprawosc; </v>
+<v n="3"> Ktorzy naostrzyli swoj jezyk jak miecz, nalozyli swoje strzaly, slowa jadowite; </v>
+<v n="4"> Aby strzelac z ukrycia w niewinnego; strzelaja znienacka i nikogo sie nie boja. </v>
+<v n="5"> Utwierdzaja sie w zlym zamiarze, zmawiaja sie, jak ukryc pulapki, i mowia: Ktoz je zobaczy? </v>
+<v n="6"> Szukaja nieprawosci, starannie jej poszukuja; ich wnetrze i serce sa glebokie. </v>
+<v n="7"> Ale Bog wypusci na nich strzale, nagle odniosa rany; </v>
+<v n="8"> Wlasny jezyk doprowadzi ich do upadku; wszyscy, ktorzy ich zobacza, uciekna. </v>
+<v n="9"> I zlekna sie wszyscy ludzie, beda opowiadali o dziele Boga i zrozumieja jego czyny. </v>
+<v n="10"> A sprawiedliwy bedzie sie weselic w PANU i bedzie mu ufal; i beda sie chlubili wszyscy prawego serca. </v>
+</c>

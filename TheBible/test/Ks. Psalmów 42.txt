@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi choru. Psalm pouczajacy dla synow Korego. Jak jelen pragnie wod strumieni, tak moja dusza pragnie ciebie, Boze. </v>
+<v n="2"> Moja dusza jest spragniona Boga, Boga zywego. Kiedy przyjde i ukaze sie przed obliczem Boga? </v>
+<v n="3"> Lzy staly sie dla mnie chlebem we dnie i w nocy, gdy mowia do mnie co dzien: Gdzie jest twoj Bog? </v>
+<v n="4"> Wylewam swa dusze, gdy wspominam, jak kroczac w tlumie, szedlem z nimi do domu Bozego wsrod glosow radosci i chwaly, posrod swietujacego tlumu. </v>
+<v n="5"> Dlaczego sie smucisz, moja duszo, i czemu sie we mnie trwozysz? Zaufaj Bogu, bo jeszcze bede go wyslawial za jego zbawcze oblicze. </v>
+<v n="6"> Moj Boze, smuci sie we mnie moja dusza, dlatego wspominam cie z ziemi Jordanu i Hermonu, z gory Misar. </v>
+<v n="7"> Przepasc przyzywa przepasc szumem twoich upustow; wszystkie twoje fale i nawalnice przewalaja sie nade mna. </v>
+<v n="8"> Lecz we dnie PAN udzieli mi swego milosierdzia, a w nocy bedzie we mnie jego piesn i moja modlitwa do Boga mego zycia. </v>
+<v n="9"> Powiem Bogu, mojej skale: Czemu o mnie zapomniales? Czemu chodze smutny z powodu ucisku wroga? </v>
+<v n="10"> Jak rana w moich kosciach, tak mnie uragaja moi wrogowie, gdy mowia do mnie kazdego dnia: Gdzie jest twoj Bog? </v>
+<v n="11"> Czemu sie smucisz, moja duszo, i czemu sie we mnie trwozysz? Zaufaj Bogu, bo jeszcze bede go wyslawial, gdyz on jest zbawieniem mego oblicza i moim Bogiem. </v>
+</c>

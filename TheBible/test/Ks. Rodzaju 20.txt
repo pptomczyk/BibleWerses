@@ -1,0 +1,19 @@
+<v n="1"> Potem Abraham wyruszyl stamtad do ziemi poludniowej i zamieszkal miedzy Kadesz a Szur, i byl przybyszem w Gerarze. </v>
+<v n="2"> Tam Abraham powiedzial o swej zonie Sarze: Ona jest moja siostra. Dlatego Abimelek, krol Geraru, poslal po Sare i wzial ja. </v>
+<v n="3"> Lecz Bog przyszedl do Abimeleka we snie w nocy i powiedzial mu: Umrzesz z powodu tej kobiety, ktora wziales, bo ona ma meza. </v>
+<v n="4"> Ale Abimelek jeszcze nie zblizyl sie do niej i powiedzial: Panie, czy zabijesz tez lud sprawiedliwy? </v>
+<v n="5"> Czy on sam nie mowil mi: Ona jest moja siostra? I czy ona rowniez nie mowila: On jest moim bratem? Uczynilem to w prostocie mego serca i z czystymi rekami. </v>
+<v n="6"> Wtedy Bog powiedzial mu we snie: Wiem, ze uczyniles to w prostocie swego serca. Dlatego powstrzymalem cie, abys nie zgrzeszyl przeciwko mnie, i nie dopuscilem, abys jej dotknal. </v>
+<v n="7"> Teraz wiec zwroc zone mezowi, bo on jest prorokiem i bedzie sie modlil za ciebie, a bedziesz zyl. Jesli jej nie zwrocisz, wiedz, ze na pewno umrzesz, ty i wszystko, co jest twoje. </v>
+<v n="8"> Abimelek wstal zatem wczesnie rano, zwolal wszystkie swoje slugi i do ich uszu opowiedzial wszystko. Gdy ci mezczyzni to uslyszeli, bardzo sie przestraszyli. </v>
+<v n="9"> Potem Abimelek wezwal Abrahama i powiedzial mu: Co nam uczyniles? W czym zgrzeszylem przeciwko tobie, ze sprowadziles na mnie i na moje krolestwo tak wielki grzech? Postapiles ze mna tak, jak nie nalezy postepowac. </v>
+<v n="10"> Abimelek zapytal jeszcze Abrahama: Co widziales, ze tak postapiles? </v>
+<v n="11"> Abraham odpowiedzial: Bo myslalem – na pewno nie ma w tym miejscu bojazni Bozej i zabija mnie z powodu mojej zony. </v>
+<v n="12"> Zreszta ona naprawde jest moja siostra, corka mego ojca, choc nie corka mojej matki. I zostala moja zona. </v>
+<v n="13"> Gdy wiec Bog wyprawil mnie na wedrowke z domu mego ojca, powiedzialem do niej: Oto przysluga, jaka mi wyswiadczysz – w kazdym miejscu, do ktorego przyjdziemy, mow o mnie: To jest moj brat. </v>
+<v n="14"> Wtedy Abimelek wzial owce i woly oraz sluzacych i sluzace i dal Abrahamowi, i zwrocil mu jego zone Sare. </v>
+<v n="15"> I Abimelek powiedzial: Oto moja ziemia jest przed toba. Zamieszkaj, gdzie ci sie podoba. </v>
+<v n="16"> A do Sary powiedzial: Dalem twemu bratu tysiac srebrnikow. Oto on jest zaslona twoich oczu u wszystkich, ktorzy sa z toba, i u wszystkich innych. O tym Sara zostala pouczona. </v>
+<v n="17"> Wtedy Abraham modlil sie do Boga i Bog uzdrowil Abimeleka, a takze jego zone i jego sluzace, i one rodzily. </v>
+<v n="18"> PAN bowiem zamknal wszystkie lona domu Abimeleka z powodu Sary, zony Abrahama. </v>
+</c>

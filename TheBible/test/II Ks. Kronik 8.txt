@@ -1,0 +1,19 @@
+<v n="1"> A po uplywie dwudziestu lat, w ktorych Salomon zbudowal dom PANA i swoj dom; </v>
+<v n="2"> Odbudowal tez miasta, ktore Huram zwrocil Salomonowi, i oddal je na mieszkanie synom Izraela. </v>
+<v n="3"> Potem Salomon wyruszyl do Chamat Soby i zdobyl je. </v>
+<v n="4"> Odbudowal tez Tadmor na pustyni oraz wszystkie miasta, w ktorych mial sklady, a ktore zbudowal w Chamat. </v>
+<v n="5"> Odbudowal takze Bet-Choron gorne i Bet-Choron dolne, miasta warowne, z murami, bramami i ryglami; </v>
+<v n="6"> Rowniez Baalat i wszystkie miasta, w ktorych Salomon mial sklady, wszystkie tez miasta rydwanow i miasta jezdzcow i wszystko to, co mu sie podobalo wybudowac w Jerozolimie, w Libanie i w calej ziemi swego panowania. </v>
+<v n="7"> A wszystkie ludy, ktore ocalaly sposrod Chetytow, Amorytow, Peryzzytow, Chiwwitow i Jebusytow, ktore nie byly z Izraela; </v>
+<v n="8"> Lecz stanowily potomstwo tych, ktorzy pozostali po nich w ziemi, a ktorych synowie Izraela nie mogli wytracic – te Salomon obciazyl praca przymusowa az do dzis. </v>
+<v n="9"> Ale z synow Izraela Salomon nie uczynil niewolnikow do swoich prac, byli tylko dzielnymi wojownikami, naczelnikami jego dowodcow i przelozonymi nad jego rydwanami i jezdzcami. </v>
+<v n="10"> Ci byli naczelnikami sposrod wodzow, ktorych mial krol Salomon; bylo ich dwustu piecdziesieciu, ktorzy panowali nad ludem. </v>
+<v n="11"> Lecz corke faraona Salomon przeniosl z miasta Dawida do domu, ktory jej zbudowal. Powiedzial bowiem: Moja zona nie bedzie mieszkala w domu Dawida, krola Izraela, bo jest swiety przez to, ze weszla do niego arka PANA. </v>
+<v n="12"> Wtedy Salomon zlozyl PANU calopalenia na oltarzu PANA, ktory zbudowal przed przedsionkiem; </v>
+<v n="13"> Zgodnie ze zwyczajem, skladajac kazdego dnia wedlug nakazu Mojzesza, w szabaty, w dni nowiu ksiezyca i w uroczyste swieta, trzy razy w roku: w Swieto Przasnikow, w Swieto Tygodni i w Swieto Namiotow. </v>
+<v n="14"> I ustanowil wedlug rozporzadzenia Dawida, swojego ojca, zmiany kaplanow w ich sluzbie oraz Lewitow w ich obowiazkach, aby chwalili Boga i sluzyli przy kaplanach wedlug ustalonego porzadku kazdego dnia. Odzwiernych tez ustanowil wedlug ich zmian przy kazdej bramie. Taki bowiem byl rozkaz Dawida, meza Bozego. </v>
+<v n="15"> I nie odstapiono w zadnej sprawie od rozkazu krola dotyczacego kaplanow i Lewitow oraz skarbow. </v>
+<v n="16"> I tak zostaly przygotowane wszystkie dziela Salomona od dnia, w ktorym polozono fundamenty domu PANA, az do jego ukonczenia. W ten sposob zostal dokonczony dom PANA. </v>
+<v n="17"> Wtedy Salomon wyruszyl do Esjon-Geber i do Elot nad brzegiem morza w ziemi Edomu. </v>
+<v n="18"> I Huram za posrednictwem swoich slug, poslal mu okrety i zeglarzy obeznanych z morzem. Wraz ze slugami Salomona poplyneli do Ofiru, wzieli stamtad czterysta piecdziesiat talentow zlota i przywiezli je do krola Salomona. </v>
+</c>

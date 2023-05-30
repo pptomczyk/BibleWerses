@@ -1,0 +1,26 @@
+<v n="1"> Pewien mezczyzna z rodu Lewiego pojal za zone corke z rodu Lewiego. </v>
+<v n="2"> Kobieta ta poczela i urodzila syna, a gdy zobaczyla, ze jest piekny, ukrywala go przez trzy miesiace. </v>
+<v n="3"> Ale gdy nie mogla go dluzej ukrywac, wziela koszyk z sitowia, wysmarowala zywica i smola, wlozyla do niego dziecko i umiescila miedzy trzcinami na brzegu rzeki. </v>
+<v n="4"> A jego siostra stala daleko, aby wiedziec, co sie z nim stanie. </v>
+<v n="5"> Wtedy zeszla do rzeki corka faraona, aby sie wykapac, a jej sluzace przechadzaly sie po brzegu rzeki. Gdy zobaczyla koszyk w trzcinie, poslala swa sluzaca, aby go wziela. </v>
+<v n="6"> Kiedy go otworzyla, zobaczyla dziecko, a chlopiec plakal. Ulitowala sie nad nim i powiedziala: To jedno z hebrajskich dzieci. </v>
+<v n="7"> Wowczas jego siostra zapytala corke faraona: Czy mam pojsc i zawolac ci mamke sposrod hebrajskich kobiet, aby ci wykarmila to dziecko? </v>
+<v n="8"> Corka faraona odpowiedziala jej: Idz. Dziewczynka poszla wiec i zawolala matke tego dziecka. </v>
+<v n="9"> Do niej powiedziala corka faraona: Wez to dziecko i wykarm mi je, a ja dam ci nalezna zaplate. Kobieta wziela wiec dziecko i wykarmila je. </v>
+<v n="10"> A gdy dziecko podroslo, przyprowadzila je do corki faraona i stalo sie jej synem. I nadala mu imie Mojzesz, bo mowila: Wyciagnelam go z wody. </v>
+<v n="11"> Kiedy Mojzesz dorosl, wyszedl do swych braci i widzial ich ciezary. Zobaczyl tez Egipcjanina, ktory bil Hebrajczyka, jednego z jego braci. </v>
+<v n="12"> Rozejrzal sie na wszystkie strony, a gdy zobaczyl, ze nikogo nie ma, zabil Egipcjanina i ukryl go w piasku. </v>
+<v n="13"> A gdy wyszedl nastepnego dnia, oto klocili sie dwaj Hebrajczycy. Wtedy zapytal tego, ktory wyrzadzal krzywde: Dlaczego bijesz swego blizniego? </v>
+<v n="14"> Ten mu odpowiedzial: Ktoz cie ustanowil przelozonym i sedzia nad nami? Czy zamierzasz mnie zabic, jak zabiles Egipcjanina? Wtedy Mojzesz zlakl sie i powiedzial: Na pewno sprawa wyszla na jaw. </v>
+<v n="15"> Gdy faraon uslyszal o sprawie, usilowal zabic Mojzesza. Lecz Mojzesz uciekl przed faraonem i zamieszkal w ziemi Midian. I zatrzymal sie tam przy pewnej studni. </v>
+<v n="16"> A kaplan Midianitow mial siedem corek. Przyszly one, naczerpaly wody i napelnily koryta, aby napoic stado swego ojca; </v>
+<v n="17"> Ale nadeszli pasterze i odganiali je. Wtedy Mojzesz wstal, obronil je i napoil ich bydlo. </v>
+<v n="18"> Gdy wrocily do swego ojca Reuela, ten zapytal: Dlaczego dzis przyszlyscie tak szybko? </v>
+<v n="19"> One odpowiedzialy: Jakis Egipcjanin wybawil nas z rak pasterzy, naczerpal nam tez wody i napoil stado. </v>
+<v n="20"> Wtedy zapytal swoje corki: A gdzie on jest? Dlaczego zostawilyscie tego czlowieka? Zawolajcie go, aby zjadl chleb. </v>
+<v n="21"> Mojzesz zgodzil sie zamieszkac u tego czlowieka, a ten dal Mojzeszowi swoja corke Sefore. </v>
+<v n="22"> Ta urodzila mu syna, ktoremu nadal imie Gerszom, bo mowil: Bylem przybyszem w obcej ziemi. </v>
+<v n="23"> Po dluzszym czasie umarl krol Egiptu, a synowie Izraela wzdychali i wolali z powodu niewoli. Ich wolanie z powodu niewoli dotarlo do Boga. </v>
+<v n="24"> Bog uslyszal ich jek i wspomnial Bog na swoje przymierze z Abrahamem, Izaakiem i Jakubem. </v>
+<v n="25"> I spojrzal Bog na synow Izraela, i mial Bog na nich wzglad. </v>
+</c>

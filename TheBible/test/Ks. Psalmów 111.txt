@@ -1,0 +1,11 @@
+<v n="1"> Alleluja. Bede wyslawial PANA calym sercem w radzie prawych i w zgromadzeniu. </v>
+<v n="2"> Wielkie sa dziela PANA, rozwazane przez wszystkich, ktorzy je miluja. </v>
+<v n="3"> Jego dzielo jest chwalebne i wspaniale, a jego sprawiedliwosc trwa na wieki. </v>
+<v n="4"> Pamietnymi uczynil swe cuda; milosierny i litosciwy jest PAN. </v>
+<v n="5"> Dal pokarm tym, ktorzy sie go boja, pamieta wiecznie o swoim przymierzu. </v>
+<v n="6"> Okazal swemu ludowi potege swoich dziel, dajac mu dziedzictwo pogan. </v>
+<v n="7"> Dziela rak jego to prawda i sad, niezmienne sa wszystkie jego przykazania; </v>
+<v n="8"> Ustalone na wieki wiekow, ustanowione w prawdzie i prawosci. </v>
+<v n="9"> Zeslal swemu ludowi odkupienie, ustanowil na wieki swoje przymierze; jego imie jest swiete i straszne. </v>
+<v n="10"> Bojazn PANA jest poczatkiem madrosci; prawdziwego rozumu nabywaja wszyscy, ktorzy wypelniaja jego przykazania; jego chwala trwa na wieki. </v>
+</c>

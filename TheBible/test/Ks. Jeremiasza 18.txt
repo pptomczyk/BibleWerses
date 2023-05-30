@@ -1,0 +1,24 @@
+<v n="1"> Slowo, ktore doszlo do Jeremiasza od PANA, mowiace: </v>
+<v n="2"> Wstan i zejdz do domu garncarza, a tam sprawie, ze uslyszysz moje slowa. </v>
+<v n="3"> Zstapilem wiec do domu garncarza, a oto on wykonywal prace na kole. </v>
+<v n="4"> A naczynie, ktore wykonywal z gliny, uleglo znieksztalceniu w rece garncarza. Uczynil wiec z niej inne naczynie, jak mu sie podobalo uczynic. </v>
+<v n="5"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="6"> Czyz nie moge z wami postapic tak jak ten garncarz, domu Izraela? – mowi PAN. Oto jak glina w rece garncarza tak wy jestescie w moim reku, domu Izraela. </v>
+<v n="7"> Gdy raz oglosze przeciwko narodowi i przeciwko krolestwu, ze je wykorzenie, wywroce i zniszcze; </v>
+<v n="8"> A jednak ten narod, przeciw ktoremu mowilem, odwroci sie od swojego zla, bede zalowal nieszczescia, ktore zamierzam na niego zeslac. </v>
+<v n="9"> Gdy innym razem oglosze o narodzie i o krolestwie, ze je zbuduje i zasadze; </v>
+<v n="10"> Jesli jednak uczyni to, co zle w moich oczach i nie uslucha mego glosu, ja bede zalowal tego dobrodziejstwa, jakim obiecalem je obdarzyc. </v>
+<v n="11"> Dlatego powiedz teraz do Judejczykow i do mieszkancow Jerozolimy: Tak mowi PAN: Oto przygotowuje na was nieszczescie i obmyslam zamysl przeciwko wam. Niech wiec kazdy zawroci ze swojej zlej drogi; poprawcie wasze drogi i czyny. </v>
+<v n="12"> Ale oni odpowiedzieli: Nic z tego. Pojdziemy raczej za wlasnymi zamyslami, kazdy bedzie postepowal wedlug uporu swego zlego serca. </v>
+<v n="13"> Dlatego tak mowi PAN: Zapytajcie teraz wsrod pogan, czy ktos slyszal cos takiego. Straszny czyn popelnila dziewica Izraela. </v>
+<v n="14"> Czy czlowiek opusci snieg ze skalistych pol Libanu? Czy ktos opusci zimne wody plynace z daleka? </v>
+<v n="15"> Ale moj lud zapomnial o mnie, pali kadzidlo marnosciom, ktore sprawily, ze potyka sie na swoich drogach, na starodawnych sciezkach, by chodzic po sciezkach, po drodze nieutorowanej; </v>
+<v n="16"> Aby zamienic swoja ziemie w spustoszenie, w wieczne swistanie. Kazdy, kto bedzie przez nia przechodzil, zdumieje sie i bedzie kiwal glowa. </v>
+<v n="17"> Jak wschodni wiatr rozprosze ich przed wrogiem. Pokaze im plecy, a nie twarz w dniu ich zatracenia. </v>
+<v n="18"> I powiedzieli: Chodzcie, obmyslmy zamysly przeciwko Jeremiaszowi, bo nie zaginie prawo od kaplana, ani rada od madrego, ani slowo od proroka. Chodzcie, uderzmy go jezykiem i nie zwazajmy na zadne jego slowa. </v>
+<v n="19"> Zwazaj na mnie, PANIE, i sluchaj glosu tych, ktorzy sie spieraja ze mna. </v>
+<v n="20"> Czy odplaca sie zlem za dobro? Bo wykopali dol dla mojej duszy. Wspomnij, ze stawalem przed toba, aby mowic za nimi dla ich dobra i odwrocic od nich twoj gniew. </v>
+<v n="21"> Dlatego wydaj ich dzieci na glod i spraw, aby padli od mocy miecza; niech ich zony beda osierocone i owdowiale, ich mezczyzni haniebnie usmierceni, a ich mlodziency zabici mieczem na wojnie. </v>
+<v n="22"> Niech bedzie slychac krzyk z ich domow, gdy nagle sprowadzisz na nich wojsko. Wykopali bowiem dol, aby mnie schwytac, zastawili sidla na moje nogi. </v>
+<v n="23"> Lecz ty, PANIE, znasz wszystkie ich plany przeciwko mnie, chca mojej smierci. Nie przebaczaj im ich nieprawosci, a ich grzechu nie zmaz sprzed swego oblicza, ale niech upadna przed toba. Postap z nimi tak w czasie twojego gniewu. </v>
+</c>

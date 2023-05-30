@@ -1,0 +1,15 @@
+<v n="1"> Brzemie slowa PANA do Izraela przez Malachiasza. </v>
+<v n="2"> Umilowalem was, mowi PAN, a wy mowicie: W czym nas umilowales? Czy Ezaw nie byl bratem Jakuba? – mowi PAN, a jednak umilowalem Jakuba; </v>
+<v n="3"> A Ezawa znienawidzilem i wydalem jego gory na spustoszenie, a jego dziedzictwo – smokom na pustkowiu. </v>
+<v n="4"> Chocby Edom powiedzial: Stalismy sie ubodzy, ale wrocimy i odbudujemy spustoszone miejsca, to tak mowi PAN zastepow: Niech oni buduja, a ja zburze; i nazwa ich granica bezboznosci oraz ludem, na ktory PAN zapalal gniewem az na wieki. </v>
+<v n="5"> Wasze oczy spojrza i powiecie: PAN bedzie uwielbiony w granicach Izraela. </v>
+<v n="6"> Syn czci ojca, a sluga swego pana. Jesli wiec jestem ojcem, gdzie jest moja czesc? Jesli jestem panem, gdzie jest bojazn przede mna? – mowi PAN zastepow do was, kaplani, ktorzy lekcewazycie moje imie. Wy jednak mowicie: W czym lekcewazymy twoje imie? </v>
+<v n="7"> Przynosicie na moj oltarz pokarm nieczysty i mowicie: Czym cie zanieczyscilismy? Tym, ze mowicie: Stolem PANA mozna wzgardzic. </v>
+<v n="8"> Gdy bowiem przyprowadzacie na ofiare to, co jest slepe, czyz nie jest to zla rzecz? I gdy przyprowadzacie kulawe i chore, czy to nie jest zla rzecz? Ofiaruj to twemu namiestnikowi, zobaczysz, czy bedzie mu sie podobac. Czy przyjmie twoja osobe? – mowi PAN zastepow. </v>
+<v n="9"> Dlatego teraz, prosze, przeblagajcie Boga, aby sie zlitowal nad nami. To sie dzieje z waszych rak, czy wiec przyjmie wasza osobe? – mowi PAN zastepow. </v>
+<v n="10"> Kto sposrod was za darmo zamknalby drzwi albo zapalilby ogien na moim oltarzu? Nie mam w was upodobania, mowi PAN zastepow, i nie przyjme ofiary z waszej reki. </v>
+<v n="11"> Od wschodu slonca bowiem az do jego zachodu moje imie bedzie wielkie wsrod pogan; na kazdym miejscu beda skladane mojemu imieniu kadzidlo i ofiara czysta. Moje imie bowiem bedzie wielkie wsrod narodow, mowi PAN zastepow. </v>
+<v n="12"> Lecz wy bezczescicie je, gdy mowicie: Stol PANA jest nieczysty; a to, co kladziecie na nim, jest wzgardzonym pokarmem. </v>
+<v n="13"> Mowicie tez: Jakiz to wysilek! I parskacie na to, co mowi PAN zastepow, i przynosicie to, co jest rozszarpane, kulawe i chore, takie ofiary przynosicie. Czy mam to przyjac z waszej reki? – mowi PAN. </v>
+<v n="14"> Niech bedzie przeklety oszust, ktory majac w swej trzodzie samca, slubuje, a sklada Panu w ofierze to, co jest ulomne. Jestem bowiem wielkim Krolem, mowi PAN zastepow, a moje imie jest straszne miedzy narodami. </v>
+</c>

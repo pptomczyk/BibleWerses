@@ -1,0 +1,26 @@
+<v n="1"> I PAN powiedzia³ do Moj¿esza: Oto ustanowi³em ciê bogiem dla faraona, a twój brat Aaron bêdzie twoim prorokiem. </v>
+<v n="2"> Ty powiesz wszystko, co ci rozka¿ê. A twój brat Aaron bêdzie mówi³ do faraona, aby wypuœci³ synów Izraela ze swojej ziemi. </v>
+<v n="3"> A ja zatwardzê serce faraona i pomno¿ê moje znaki i cuda w ziemi Egiptu. </v>
+<v n="4"> Faraon was nie pos³ucha, lecz ja po³o¿ê moj¹ rêkê na Egipcie i wyprowadzê moje zastêpy, mój lud, synów Izraela, z ziemi Egiptu przez wielkie s¹dy. </v>
+<v n="5"> A Egipcjanie poznaj¹, ¿e ja jestem PAN, gdy wyci¹gnê rêkê na Egipt i wyprowadzê synów Izraela spoœród nich. </v>
+<v n="6"> Moj¿esz i Aaron uczynili wiêc, jak im PAN przykaza³; tak w³aœnie uczynili. </v>
+<v n="7"> Moj¿esz mia³ osiemdziesi¹t lat, a Aaron osiemdziesi¹t trzy lata, gdy mówili do faraona. </v>
+<v n="8"> Wtedy PAN powiedzia³ do Moj¿esza i Aarona: </v>
+<v n="9"> Gdy faraon powie wam: Uczyñcie jakiœ cud, wtedy powiesz do Aarona: WeŸ sw¹ laskê i rzuæ j¹ przed faraonem, a zamieni siê w wê¿a. </v>
+<v n="10"> Moj¿esz i Aaron przyszli do faraona i uczynili tak, jak PAN rozkaza³. Aaron rzuci³ swoj¹ laskê przed faraonem i jego s³ugami, a ona zamieni³a siê w wê¿a. </v>
+<v n="11"> Wtedy faraon wezwa³ mêdrców i czarowników. I ci egipscy czarownicy uczynili to samo swoimi czarami. </v>
+<v n="12"> Ka¿dy z nich rzuci³ swoj¹ laskê, a zamieni³y siê w wê¿e. Lecz laska Aarona po¿ar³a ich laski. </v>
+<v n="13"> Serce faraona sta³o siê jednak zatwardzia³e i nie pos³ucha³ ich, jak PAN zapowiedzia³. </v>
+<v n="14"> Potem PAN powiedzia³ do Moj¿esza: Serce faraona jest zatwardzia³e, wzbrania siê wypuœciæ lud. </v>
+<v n="15"> IdŸ do faraona rankiem, kiedy wyjdzie nad wodê. Staniesz naprzeciwko niego nad brzegiem rzeki i weŸmiesz do rêki laskê, która siê zamieni³a w wê¿a; </v>
+<v n="16"> I powiesz mu: PAN, Bóg Hebrajczyków, pos³a³ mnie do ciebie, mówi¹c: Wypuœæ mój lud, aby mi s³u¿y³ na pustyni, a oto dot¹d nie pos³ucha³eœ. </v>
+<v n="17"> Dlatego tak mówi PAN: Po tym poznasz, ¿e ja jestem PAN. Oto uderzê lask¹, która jest w mojej rêce, w wody, które s¹ w rzece, a one zamieni¹ siê w krew. </v>
+<v n="18"> Ryby, które s¹ w rzece, pozdychaj¹ i rzeka bêdzie cuchn¹æ. Egipcjanie siê zmêcz¹ poszukiwaniem wody z rzeki do picia. </v>
+<v n="19"> PAN mówi³ dalej do Moj¿esza: Powiedz Aaronowi: WeŸ swoj¹ laskê i wyci¹gnij rêkê nad wody Egiptu, nad ich rzeki, nad ich strugi, nad ich jeziora i nad wszelkie zbiorowiska wód, a one zamieni¹ siê w krew. Krew bêdzie na ca³ej ziemi Egiptu, tak w naczyniach drewnianych, jak i w kamiennych. </v>
+<v n="20"> Moj¿esz i Aaron uczynili tak, jak PAN rozkaza³. Aaron podniós³ laskê i uderzy³ wody rzeki na oczach faraona i jego s³ug. I wszystkie wody rzeki zamieni³y siê w krew. </v>
+<v n="21"> Ryby, które by³y w rzece, pozdycha³y i rzeka zaczê³a cuchn¹æ, tak ¿e Egipcjanie nie mogli piæ z niej wody. A krew by³a w ca³ej ziemi Egiptu. </v>
+<v n="22"> Lecz egipscy czarownicy uczynili to samo swoimi czarami. Pozosta³o wiêc zatwardzia³e serce faraona i nie pos³ucha³ ich, jak PAN zapowiedzia³. </v>
+<v n="23"> Faraon odwróci³ siê i poszed³ do swego domu, i tego równie¿ nie wzi¹³ sobie do serca. </v>
+<v n="24"> I wszyscy Egipcjanie kopali wokó³ rzeki w poszukiwaniu wody do picia, bo nie mogli piæ wody z rzeki. </v>
+<v n="25"> I up³ynê³o siedem dni od chwili, gdy PAN uderzy³ rzekê. </v>
+</c>

@@ -1,0 +1,6 @@
+<v n="1"> Slowo, ktore prorok Jeremiasz wypowiedzial do Barucha, syna Neriasza, gdy spisal te slowa w ksiedze z ust Jeremiasza w czwartym roku Joakima, syna Jozjasza, krola Judy: </v>
+<v n="2"> Tak mowi PAN, Bog Izraela, do ciebie, Baruchu: </v>
+<v n="3"> Powiedziales: Biada mi teraz! Bo PAN przydaje smutku do mojego bolu; utrudzilem sie swoim wzdychaniem i nie znajduje odpoczynku. </v>
+<v n="4"> Tak powiesz do niego: Tak mowi PAN: Oto co zbudowalem, zburze, co zasadzilem, wyplenie, te cala ziemie. </v>
+<v n="5"> A ty szukasz dla siebie wielkich rzeczy? Nie szukaj. Oto bowiem sprowadze nieszczescie na wszelkie cialo, mowi PAN. Ale tobie dam twoje zycie jako zdobycz we wszystkich miejscach, dokadkolwiek pojdziesz. </v>
+</c>

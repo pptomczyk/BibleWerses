@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi choru, dla Jedutuna. Psalm Dawida. Tylko w Bogu spoczywa moja dusza, od niego pochodzi moje zbawienie. </v>
+<v n="2"> Tylko on jest moja skala i zbawieniem, moja twierdza; nie zachwieje sie za bardzo. </v>
+<v n="3"> Jak dlugo bedziecie knuc zlo przeciwko czlowiekowi? Wy wszyscy bedziecie zabici, bedziecie jak pochylona sciana i jak walacy sie mur. </v>
+<v n="4"> Oni tylko naradzaja sie, jak go stracic z dostojenstwa; maja upodobanie w klamstwie, ustami swymi blogoslawia, ale w sercu zlorzecza. Sela. </v>
+<v n="5"> Tylko w Bogu spocznij, moja duszo, bo od niego pochodzi moja nadzieja. </v>
+<v n="6"> On jedynie jest moja skala i zbawieniem, moja twierdza; nie zachwieje sie. </v>
+<v n="7"> W Bogu moje wybawienie i moja chwala; skala mojej mocy, moja ucieczka jest w Bogu. </v>
+<v n="8"> Ufajcie mu w kazdym czasie, o narody, wylewajcie przed nim wasze serca; Bog jest nasza ucieczka. Sela. </v>
+<v n="9"> Doprawdy synowie ludzcy sa marnoscia, synowie mocarzy – zawodni; polozeni na wage, wszyscy razem sa lzejsi niz marnosc. </v>
+<v n="10"> Nie pokladajcie ufnosci w ucisku ani nie ludzcie sie grabieza; jesli przybedzie wam bogactw, nie przywiazujcie do nich serca. </v>
+<v n="11"> Bog raz przemowil, dwa razy to slyszalem, ze moc nalezy do Boga; </v>
+<v n="12"> I do ciebie, Panie, nalezy milosierdzie, bo ty oddajesz kazdemu wedlug jego uczynkow. </v>
+</c>

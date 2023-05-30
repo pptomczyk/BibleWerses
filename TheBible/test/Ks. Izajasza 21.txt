@@ -1,0 +1,18 @@
+<v n="1"> Brzemie pustynnego morza. Jak wicher na poludnie nadciaga, tak przyjdzie z pustyni, ze strasznej ziemi. </v>
+<v n="2"> Srogie widzenie jest mi pokazane. Zdrajca zdradza, niszczyciel niszczy. Nadciagnij, Elamie! Oblegaj, Medio! Poloze kres wszelkiemu wzdychaniu. </v>
+<v n="3"> Dlatego moje biodra sa wypelnione bolem, ogarnely mnie skurcze jak skurcze rodzacej. Wstrzasniety jestem tym, co slysze, przerazony tym, co widze. </v>
+<v n="4"> Zleklo sie moje serce, strach mnie ogarnal. Noc moich rozkoszy zamienila sie w postrach. </v>
+<v n="5"> Przygotuj stol, niech straznik trzyma straz; jedz, pij. Wstancie, ksiazeta, namaszczajcie tarcze. </v>
+<v n="6"> Tak bowiem powiedzial mi Pan: Idz, postaw straznika, niech mowi, co widzi. </v>
+<v n="7"> I zobaczyl rydwan z dwoma jezdzcami, ktory ciagnely osly, i rydwan, ktory ciagnely wielblady; i przypatrywal sie im z wielka uwaga. </v>
+<v n="8"> Wtedy zawolal jak lew: Panie moj! Stoje ciagle za dnia na wiezy strazniczej; stoje na warcie calymi nocami. </v>
+<v n="9"> A oto nadciagaja mezczyzni na rydwanie z dwoma jezdzcami. I zawolal: Upadl, upadl Babilon i wszystkie rzezbione posagi jego bogow roztrzaskane zostaly o ziemie. </v>
+<v n="10"> O moi wymloceni i zboze mego klepiska! Co uslyszalem od PANA zastepow, Boga Izraela, to wam oznajmilem. </v>
+<v n="11"> Brzemie Dumy. Z Seiru ktos wola do mnie: Strazniku, co sie stalo w nocy? Strazniku, co sie stalo w nocy? </v>
+<v n="12"> Straznik odpowiedzial: Nadchodzi poranek, a takze noc. Jesli chcecie dopytywac, dopytujcie, nawroccie sie, przyjdzcie. </v>
+<v n="13"> Brzemie na Arabie. W lasach Arabii bedziecie nocowac, wy, karawany Dedanitow. </v>
+<v n="14"> Niech mieszkancy Tema wyjda z woda naprzeciw spragnionych, ze swoim chlebem niech wyjda na spotkanie uciekajacym. </v>
+<v n="15"> Beda bowiem uciekali przed mieczami, przed dobytym mieczem, przed napietym lukiem, przed ciezka bitwa. </v>
+<v n="16"> Gdyz tak Pan powiedzial do mnie: Za rok, liczony jak rok najemnika, ustanie cala chwala Kedaru. </v>
+<v n="17"> A reszta sposrod lucznikow, dzielni wojownicy sposrod synow Kedaru, bedzie zmniejszona. Tak bowiem powiedzial PAN, Bog Izraela. </v>
+</c>

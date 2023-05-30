@@ -1,0 +1,22 @@
+<v n="1"> Uczynisz tez oltarz z drewna akacjowego, dlugi na piec lokci i szeroki na piec lokci. Oltarz bedzie kwadratowy i wysoki na trzy lokcie. </v>
+<v n="2"> I uczynisz rogi na jego czterech naroznikach; jego rogi beda z tego samego. I pokryjesz go miedzia. </v>
+<v n="3"> Uczynisz tez do niego kociolki do zsypywania popiolu oraz szufle, miednice, widelki i lopaty na rozzarzone wegle. Wszystkie naczynia do niego uczynisz z miedzi. </v>
+<v n="4"> Uczynisz tez do niego miedziana krate na ksztalt sieci, a na tej kracie, na czterech jej naroznikach, uczynisz cztery miedziane pierscienie. </v>
+<v n="5"> I umiescisz ja u dolu pod obramowaniem oltarza, tak aby krata siegala do polowy oltarza. </v>
+<v n="6"> Uczynisz tez drazki do oltarza, drazki z drewna akacjowego, i pokryjesz je miedzia. </v>
+<v n="7"> Drazki te beda wlozone w pierscienie i beda one na obydwu stronach oltarza, aby mozna go bylo nosic. </v>
+<v n="8"> Uczynisz go z desek, aby byl pusty wewnatrz. Niech go uczynia tak, jak ci pokazano na gorze. </v>
+<v n="9"> Uczynisz tez dziedziniec przybytku. Na poludniu po prawej stronie zaslony dziedzinca beda ze skreconego bisioru o dlugosci stu lokci na jedna strone. </v>
+<v n="10"> Do tego dwadziescia slupow i dwadziescia miedzianych podstawek. Haczyki na slupach i ich klamry beda ze srebra. </v>
+<v n="11"> Podobnie wzdluz strony polnocnej beda zaslony o dlugosci stu lokci, do tego dwadziescia slupow i dwadziescia miedzianych podstawek. Haczyki na slupach i ich klamry beda ze srebra. </v>
+<v n="12"> A na szerokosci dziedzinca od strony zachodniej beda zaslony na piecdziesiat lokci, a do tego dziesiec slupow i dziesiec podstawek. </v>
+<v n="13"> Szerokosc dziedzinca z przodu, po stronie wschodniej, bedzie wynosic piecdziesiat lokci. </v>
+<v n="14"> Po jednej stronie wejscia beda zaslony na pietnascie lokci, a do tego trzy slupy i trzy podstawki. </v>
+<v n="15"> Po drugiej stronie beda zaslony na pietnascie lokci, a do tego trzy slupy i trzy podstawki. </v>
+<v n="16"> A do wejscia dziedzinca bedzie zaslona na dwadziescia lokci z blekitnej tkaniny, z purpury i karmazynu oraz skreconego bisioru, haftowana. Do tego cztery slupy i cztery podstawki. </v>
+<v n="17"> Wszystkie slupy dokola dziedzinca beda mialy srebrne klamry. Ich haczyki beda ze srebra, a ich podstawki – z miedzi. </v>
+<v n="18"> Dlugosc dziedzinca bedzie wynosic sto lokci, a szerokosc – piecdziesiat, wszedzie jednakowa, a wysokosc – piec lokci, zaslony beda ze skreconego bisioru, jej podstawki zas z miedzi. </v>
+<v n="19"> Wszystkie naczynia przybytku do wszelkiej sluzby w nim i wszystkie jego kolki, i wszystkie kolki dziedzinca beda z miedzi. </v>
+<v n="20"> Rozkazesz synom Izraela, aby przyniesli do ciebie czysta, wytloczona oliwe do oswietlenia, aby lampy zawsze sie palily. </v>
+<v n="21"> W Namiocie Zgromadzenia przed zaslona, za ktora jest arka swiadectwa, Aaron i jego synowie beda je stawiac przed PANEM od wieczora az do poranka. Bedzie to wieczna ustawa wsrod ich potomkow dla synow Izraela. </v>
+</c>

@@ -1,0 +1,11 @@
+<v n="1"> Alleluja. Blogoslawiony czlowiek, ktory boi sie PANA i ma upodobanie w jego przykazaniach. </v>
+<v n="2"> Jego potomstwo bedzie potezne na ziemi, pokolenie prawych bedzie blogoslawione. </v>
+<v n="3"> Dobrobyt i bogactwo sa w jego domu, a jego sprawiedliwosc trwa na wieki. </v>
+<v n="4"> Dla prawych wschodzi swiatlosc w ciemnosci; on jest laskawy, milosierny i sprawiedliwy. </v>
+<v n="5"> Dobry czlowiek lituje sie i pozycza, i prowadzi swoje sprawy rozwaznie. </v>
+<v n="6"> Na pewno nigdy sie nie zachwieje, sprawiedliwy na wieki pozostanie w pamieci. </v>
+<v n="7"> Nie bedzie sie bal zlej nowiny, jego serce jest stateczne, ufa PANU. </v>
+<v n="8"> Jego serce jest umocnione, nie bedzie sie bal, az zobaczy pomste nad swymi wrogami. </v>
+<v n="9"> Rozrzucil i dal ubogim, jego sprawiedliwosc trwa na wieki, jego rog bedzie wywyzszony w chwale. </v>
+<v n="10"> Niegodziwy zobaczy to i rozgniewa sie, zgrzytnie zebami i uschnie, pragnienie niegodziwych zginie. </v>
+</c>

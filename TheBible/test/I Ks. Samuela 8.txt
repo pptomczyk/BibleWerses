@@ -1,0 +1,23 @@
+<v n="1"> A gdy Samuel zestarzal sie, ustanowil swoich synow sedziami nad Izraelem. </v>
+<v n="2"> Jego pierworodny syn mial na imie Joel, a drugi syn – Abija; byli oni sedziami w Beer-Szebie. </v>
+<v n="3"> Jednak jego synowie nie chodzili jego drogami, lecz sklaniali sie ku zyskowi, brali lapowki i wypaczali sad. </v>
+<v n="4"> Zebrali sie wiec wszyscy starsi Izraela i przyszli do Samuela, do Rama; </v>
+<v n="5"> I powiedzieli mu: Oto zestarzales sie, a twoi synowie nie chodza twoimi drogami. Ustanow nam wiec krola, aby nas sadzil, jak to jest u wszystkich narodow. </v>
+<v n="6"> Lecz Samuelowi nie podobalo sie to, ze mowili: Daj nam krola, aby nas sadzil. I modlil sie Samuel do PANA. </v>
+<v n="7"> Wtedy PAN powiedzial do Samuela: Posluchaj glosu tego ludu we wszystkim, co ci powiedza, gdyz nie toba wzgardzili, ale mna wzgardzili, abym nie krolowal nad nimi. </v>
+<v n="8"> A zgodnie ze wszystkim, co uczynili od tego dnia, kiedy wyprowadzilem ich z Egiptu, az do dzis, gdy mnie opuscili i sluzyli obcym bogom, tak tez czynia z toba. </v>
+<v n="9"> Teraz wiec posluchaj ich glosu, ale stanowczo ostrzez ich i oznajmij im prawo krola, ktory bedzie nad nimi panowac. </v>
+<v n="10"> I Samuel powiedzial wszystkie slowa PANA do ludu, ktory go prosil o krola; </v>
+<v n="11"> I mowil: Takie bedzie prawo krola, ktory bedzie panowal nad wami: Bedzie bral waszych synow, by ich osadzic w swych rydwanach, ustanowic ich jezdzcami, a inni beda biegac przed jego rydwanem; </v>
+<v n="12"> I ustanowi ich sobie dowodcami nad tysiacami i nad piecdziesiatkami; wyznaczy ich, aby uprawiali jego role i zbierali jego plony, i robili sprzet wojenny oraz sprzet do jego rydwanow. </v>
+<v n="13"> Wasze corki rowniez zabierze, aby przyrzadzaly wonnosci oraz aby byly kucharkami i piekarkami. </v>
+<v n="14"> Zabierze tez wasze pola, winnice i sady oliwne, te najlepsze, i da swoim slugom. </v>
+<v n="15"> Z waszych zasiewow i winnic bedzie pobieral dziesiecine i odda ja swoim urzednikom i slugom. </v>
+<v n="16"> Wezmie rowniez wasze slugi i sluzace oraz waszych najlepszych mlodziencow, a takze wasze osly, i zatrudni w swojej pracy. </v>
+<v n="17"> Pobierze dziesiecine z waszych trzod, a wy bedziecie jego slugami. </v>
+<v n="18"> I bedziecie wolac tego dnia z powodu waszego krola, ktorego sobie wybraliscie, a PAN nie wyslucha was w tym dniu. </v>
+<v n="19"> Lud jednak nie chcial posluchac glosu Samuela i mowil: Nie tak, ale niech bedzie krol nad nami; </v>
+<v n="20"> Abysmy tez byli jak wszystkie narody – aby nasz krol sadzil nas, aby nam przewodzil i prowadzil nasze wojny. </v>
+<v n="21"> A Samuel wysluchal wszystkich slow ludu i powtorzyl je do uszu PANA. </v>
+<v n="22"> I PAN powiedzial do Samuela: Posluchaj ich glosu i ustanow nad nimi krola. Samuel powiedzial wiec do mezczyzn Izraela: Idzcie kazdy do swego miasta. </v>
+</c>

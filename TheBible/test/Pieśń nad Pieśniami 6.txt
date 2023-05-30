@@ -1,0 +1,14 @@
+<v n="1"> Dokad poszedl twoj umilowany, o najpiekniejsza wsrod kobiet? Dokad sie zwrocil twoj umilowany, abysmy szukali go wraz z toba? </v>
+<v n="2"> Moj umilowany zstapil do swojego ogrodu miedzy grzadki wonnosci, aby pasc w ogrodach i zbierac lilie. </v>
+<v n="3"> Ja naleze do mego umilowanego, a moj umilowany nalezy do mnie; pasie on wsrod lilii. </v>
+<v n="4"> Piekna jestes, moja umilowana, jak Tirsa; urodziwa jak Jerozolima; grozna jak wojsko z choragwiami. </v>
+<v n="5"> Odwroc ode mnie swoje oczy, gdyz one mnie urzekaja. Twoje wlosy sa jak stado koz, ktore schodza z Gileadu. </v>
+<v n="6"> Twoje zeby sa jak stado owiec, ktore wychodza z kapieli, wszystkie maja bliznieta, a nie ma zadnej nieplodnej wsrod nich. </v>
+<v n="7"> Twoje skronie miedzy twoimi kedziorkami sa jak polowki granatu. </v>
+<v n="8"> Szescdziesiat jest krolowych i osiemdziesiat naloznic, a dziewic bez liku. </v>
+<v n="9"> Lecz moja golebica, moja nieskalana, jest jedna; jedynaczka u swojej matki, bez skazy u swojej rodzicielki. Widzialy ja corki i nazwaly ja blogoslawiona, takze krolowe i naloznice, i chwalily ja, mowiac: </v>
+<v n="10"> Kim jest ta, ktora pokazuje sie jak zorza poranna, piekna jak ksiezyc, czysta jak slonce, grozna jak uszykowane wojsko z choragwiami? </v>
+<v n="11"> Zeszlam do ogrodu orzechow, aby patrzec na owoce rosnace w dolinach, by zobaczyc, czy winorosl kwitnie i czy granaty wypuszczaja paczki. </v>
+<v n="12"> Nim sie zorientowalam, moja dusza wsadzila mnie jakby w rydwany ksiazat mego ludu. </v>
+<v n="13"> Zawroc, zawroc, Szulamitko; zawroc, zawroc, abysmy mogli na ciebie patrzec. Coz widzicie w Szulamitce? Widzimy jakby oddzialy wojenne. </v>
+</c>

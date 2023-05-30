@@ -1,0 +1,27 @@
+<v n="1"> Wyslawiajcie PANA, bo jest dobry; bo na wieki jego milosierdzie. </v>
+<v n="2"> Wyslawiajcie Boga bogow, bo na wieki jego milosierdzie. </v>
+<v n="3"> Wyslawiajcie Pana panow, bo na wieki jego milosierdzie; </v>
+<v n="4"> Tego, ktory sam czyni wielkie cuda, bo na wieki jego milosierdzie. </v>
+<v n="5"> Tego, ktory w madrosci uczynil niebiosa, bo na wieki jego milosierdzie; </v>
+<v n="6"> Tego, ktory rozpostarl ziemie nad wodami, bo na wieki jego milosierdzie; </v>
+<v n="7"> Tego, ktory uczynil wielkie swiatla, bo na wieki jego milosierdzie; </v>
+<v n="8"> Slonce, aby panowalo we dnie, bo na wieki jego milosierdzie; </v>
+<v n="9"> Ksiezyc i gwiazdy, aby panowaly w nocy, bo na wieki jego milosierdzie. </v>
+<v n="10"> Tego, ktory porazil Egipt w jego pierworodnych, bo na wieki jego milosierdzie. </v>
+<v n="11"> Tego, ktory wyprowadzil sposrod niego Izraela, bo na wieki jego milosierdzie; </v>
+<v n="12"> Mocna reka i wyciagnietym ramieniem, bo na wieki jego milosierdzie. </v>
+<v n="13"> Tego, ktory rozdzielil Morze Czerwone na czesci, bo na wieki jego milosierdzie; </v>
+<v n="14"> I przeprowadzil srodkiem Izraela, bo na wieki jego milosierdzie. </v>
+<v n="15"> I wrzucil faraona z jego wojskiem w Morze Czerwone, bo na wieki jego milosierdzie. </v>
+<v n="16"> Tego, ktory prowadzil swoj lud przez pustynie, bo na wieki jego milosierdzie. </v>
+<v n="17"> Tego, ktory pobil wielkich krolow, bo na wieki jego milosierdzie; </v>
+<v n="18"> I zgladzil poteznych krolow, bo na wieki jego milosierdzie; </v>
+<v n="19"> Sychona, krola Amorytow, bo na wieki jego milosierdzie; </v>
+<v n="20"> I Oga, krola Baszanu, bo na wieki jego milosierdzie. </v>
+<v n="21"> I dal ich ziemie w dziedzictwo, bo na wieki jego milosierdzie; </v>
+<v n="22"> W dziedzictwo Izraelowi, swemu sludze, bo na wieki jego milosierdzie. </v>
+<v n="23"> Tego, ktory w naszym ponizeniu pamietal o nas, bo na wieki jego milosierdzie. </v>
+<v n="24"> I wybawil nas od naszych nieprzyjaciol, bo na wieki jego milosierdzie. </v>
+<v n="25"> Tego, ktory daje pokarm wszelkiemu cialu, bo na wieki jego milosierdzie. </v>
+<v n="26"> Wyslawiajcie Boga niebios, bo na wieki jego milosierdzie. </v>
+</c>

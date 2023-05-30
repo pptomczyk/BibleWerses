@@ -1,0 +1,25 @@
+<v n="1"> I drzy z tego powodu moje serce, i wyrywa sie ze swego miejsca. </v>
+<v n="2"> Sluchajcie uwaznie grzmotu jego glosu i dzwieku, ktory wychodzi z jego ust. </v>
+<v n="3"> Pod calym niebem go wypuszcza, a jego blyskawice – na krance ziemi. </v>
+<v n="4"> Po niej huczy grzmot, grzmi glosem swojego majestatu, i nie powstrzymuje ich, gdy slychac jego glos. </v>
+<v n="5"> Bog cudownie grzmi swoim glosem, czyni wielkie rzeczy, ktorych nie mozemy zrozumiec. </v>
+<v n="6"> Mowi bowiem do sniegu: Padaj na ziemie, a takze do deszczu i do ulewy jego potegi. </v>
+<v n="7"> Pieczetuje reke kazdego czlowieka, aby wszyscy ludzie poznali jego dzielo. </v>
+<v n="8"> Wtedy zwierzeta wchodza do jaskini i zostaja w swoich jamach. </v>
+<v n="9"> Od poludnia przychodzi wicher, a zima od wiatrow polnocnych. </v>
+<v n="10"> Swoim tchnieniem Bog czyni lod i scinaja sie szerokie wody. </v>
+<v n="11"> Takze wilgocia ziemi obciaza oblok, rozpedza chmure swoim swiatlem. </v>
+<v n="12"> One kraza wedlug jego rady, aby czynily wszystko, co rozkazuje na powierzchni okregu ziemi. </v>
+<v n="13"> A on sprawia, ze sie pojawiaja – czy to dla karania, czy dla swojej ziemi, czy dla okazywania milosierdzia. </v>
+<v n="14"> Sluchaj tego uwaznie, Hiobie; zastanow sie i rozwaz cudowne dziela Boga. </v>
+<v n="15"> Czy wiesz, kiedy i co postanawia Bog o tych sprawach albo kiedy rozjasnia swiatlo swej chmury? </v>
+<v n="16"> Czy wiesz, jak wisza chmury – cuda tego, ktory jest doskonaly we wszelkiej wiedzy? </v>
+<v n="17"> Czy wiesz, jak twoje szaty sie rozgrzewaja, gdy on uspokaja ziemie wiatrem poludniowym? </v>
+<v n="18"> Czy rozposcierales z nim niebiosa, ktore sa trwale i podobne do zwierciadla odlanego? </v>
+<v n="19"> Poucz nas, co mamy mu powiedziec, bo nie mozemy ulozyc slow z powodu ciemnosci. </v>
+<v n="20"> Czy nalezy go powiadomic, ze przemawiam? Przeciez jesli ktos przemowi, zostanie na pewno pozarty. </v>
+<v n="21"> Teraz jednak ludzie nie moga patrzyc na swiatlo, gdy jasnieje w chmurach, gdy wiatr przechodzi i rozprasza je. </v>
+<v n="22"> Od polnocy przychodzi jakby zloty blask, ale w Bogu jest straszliwy majestat. </v>
+<v n="23"> On jest Wszechmocny, nie mozemy go doscignac. On jest wielki w potedze i sadzie i bogaty w sprawiedliwosc. Nie uciska nikogo. </v>
+<v n="24"> Dlatego boja sie go ludzie. On nie ma wzgledu na zadnego, ktory jest madry w sercu. </v>
+</c>

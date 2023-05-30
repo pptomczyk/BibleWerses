@@ -1,0 +1,26 @@
+<v n="1"> W dwudziestym trzecim roku Joasza, syna Achazjasza, krola Judy, Jehoachaz, syn Jehu, zaczal krolowac nad Izraelem w Samarii i krolowal siedemnascie lat. </v>
+<v n="2"> A czynil to, co zle w oczach PANA, nasladujac grzechy Jeroboama, syna Nebata, ktory przywiodl Izraela do grzechu, i nie odstapil od nich. </v>
+<v n="3"> I zapalil sie gniew PANA przeciw Izraelowi, i wydal go w reke Chazaela, krola Syrii, i w reke Ben-Hadada, syna Chazaela, po wszystkie ich dni. </v>
+<v n="4"> Ale gdy Jehoachaz blagal PANA, PAN go wysluchal. Widzial bowiem ucisk Izraela dreczonego przez krola Syrii. </v>
+<v n="5"> I PAN dal Izraelowi wybawce, tak ze wyszli spod reki Syryjczykow, i synowie Izraela mieszkali w swoich namiotach jak dawniej. </v>
+<v n="6"> Jednakze nie odstapili od grzechow domu Jeroboama, ktory przywiodl Izraela do grzechu, ale chodzili w nich. A do tego jeszcze w Samarii zostal gaj. </v>
+<v n="7"> I Jehoachazowi nie pozostalo wiecej wojska jak tylko piecdziesieciu jezdzcow, dziesiec rydwanow i dziesiec tysiecy pieszych, gdyz krol Syrii wytracil ich i starl w proch. </v>
+<v n="8"> A pozostale dzieje Jehoachaza i wszystko, co czynil, oraz jego potega, czy nie sa zapisane w kronikach krolow Izraela? </v>
+<v n="9"> I Jehoachaz zasnal ze swymi ojcami, i pogrzebano go w Samarii, a jego syn Joasz krolowal w jego miejsce. </v>
+<v n="10"> W trzydziestym siodmym roku Joasza, krola Judy, Jehoasz, syn Jehoachaza, zaczal krolowac nad Izraelem w Samarii i krolowal szesnascie lat; </v>
+<v n="11"> I czynil to, co zle w oczach PANA, nie odstepujac od zadnych grzechow Jeroboama, syna Nebata, ktory przywiodl Izraela do grzechu – ale chodzac w nich. </v>
+<v n="12"> A pozostale dzieje Joasza i wszystko, co czynil, oraz jego potega – to, jak walczyl z Amazjaszem, krolem Judy, czy nie sa zapisane w kronikach krolow Izraela? </v>
+<v n="13"> I Joasz zasnal ze swymi ojcami, a Jeroboam zasiadl na jego tronie. I Joasz zostal pogrzebany w Samarii razem z krolami Izraela. </v>
+<v n="14"> A Elizeusz zapadl na ciezka chorobe, na ktora mial umrzec. Przyszedl do niego Joasz, krol Izraela, i plakal nad nim, mowiac: Moj ojcze, moj ojcze! Rydwanie Izraela i jego jezdzcze! </v>
+<v n="15"> Wtedy Elizeusz powiedzial mu: Wez luk i strzaly. Wzial wiec luk i strzaly. </v>
+<v n="16"> Potem powiedzial do krola Izraela: Wez luk w reke. I wzial go w reke. Elizeusz zas polozyl swoje rece na rece krola. </v>
+<v n="17"> I powiedzial: Otworz okno na wschod. A gdy je otworzyl, Elizeusz polecil: Strzelaj! I strzelil, a on powiedzial: Strzala wybawienia PANA i strzala wybawienia od Syryjczykow. Pobijesz bowiem Syryjczykow w Afek doszczetnie. </v>
+<v n="18"> Nastepnie powiedzial: Wez strzaly! I wzial. Wtedy rzekl do krola Izraela: Uderz w ziemie! I uderzyl trzy razy, i zaprzestal. </v>
+<v n="19"> Wtedy maz Bozy rozgniewal sie na niego i powiedzial: Trzeba bylo uderzyc piec lub szesc razy. Wtedy bys pokonal Syrie doszczetnie. Lecz teraz pokonasz Syrie tylko trzy razy. </v>
+<v n="20"> Potem Elizeusz umarl i pogrzebali go. A z nastaniem roku moabskie zgraje napadly na ziemie. </v>
+<v n="21"> I zdarzylo sie, ze gdy grzebano pewnego czlowieka, zobaczyli taka zgraje. Wrzucili wiec tego czlowieka do grobu Elizeusza. A gdy ten czlowiek zostal tam wrzucony, dotknal kosci Elizeusza, ozyl i wstal na nogi. </v>
+<v n="22"> Chazael zas, krol Syrii, uciskal lud Izraela po wszystkie dni Jehoachaza. </v>
+<v n="23"> PAN jednak zlitowal sie nad nimi, byl dla nich milosierny i zwrocil sie ku nim ze wzgledu na swoje przymierze z Abrahamem, Izaakiem i Jakubem. Nie chcial ich wytracic ani nie odrzucil ich sprzed swego oblicza az dotad. </v>
+<v n="24"> I Chazael, krol Syrii, umarl, a jego syn Ben-Hadad krolowal w jego miejsce. </v>
+<v n="25"> Jehoasz, syn Jehoachaza, znowu odebral z reki Ben-Hadada, syna Chazaela, te miasta, ktore podczas wojny ten zabral z reki jego ojca Jehoachaza. Joasz pokonal go trzy razy i odzyskal miasta Izraela. </v>
+</c>

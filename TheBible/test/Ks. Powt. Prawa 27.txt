@@ -1,0 +1,27 @@
+<v n="1"> Wtedy Mojzesz i starsi Izraela nakazali ludowi: Przestrzegajcie wszystkich przykazan, ktore wam dzis nakazuje. </v>
+<v n="2"> A w dniu, w ktorym przeprawicie sie przez Jordan do ziemi, ktora daje ci PAN, twoj Bog, ustawisz sobie wielkie kamienie i pobielisz je wapnem. </v>
+<v n="3"> I wypiszesz na nich wszystkie slowa tego prawa, gdy tylko przeprawisz sie, abys wszedl do ziemi, ktora daje ci PAN, twoj Bog, do ziemi mlekiem i miodem plynacej, jak ci obiecal PAN, Bog twoich ojcow. </v>
+<v n="4"> Gdy wiec przeprawicie sie przez Jordan, ustawicie te kamienie, o ktorych wam dzis nakazuje, na gorze Ebal, i pobielisz je wapnem. </v>
+<v n="5"> Tam tez zbudujesz oltarz PANU, swemu Bogu, oltarz z kamieni. Nie bedziesz ich ciosal narzedziem z zelaza. </v>
+<v n="6"> Z kamieni nieciosanych zbudujesz oltarz PANU, swemu Bogu, i na nim bedziesz skladal calopalenia PANU, swemu Bogu. </v>
+<v n="7"> Zlozysz tez ofiary pojednawcze i bedziesz tam jadl, i radowal sie przed PANEM, swoim Bogiem; </v>
+<v n="8"> I na tych kamieniach bardzo wyraznie wypiszesz wszystkie slowa tego prawa. </v>
+<v n="9"> Potem Mojzesz i kaplani Lewici powiedzieli do calego Izraela: Milcz i sluchaj, Izraelu. Dzis stales sie ludem PANA, swego Boga. </v>
+<v n="10"> Bedziesz wiec sluchal glosu PANA, swego Boga, i bedziesz wypelnial jego przykazania i ustawy, ktore dzis ci nakazuje. </v>
+<v n="11"> W tym samym dniu Mojzesz nakazal ludowi: </v>
+<v n="12"> Oto ci, ktorzy stana, by blogoslawic lud na gorze Gerizim, gdy przeprawicie sie przez Jordan: Symeon, Lewi, Juda, Issachar, Jozef i Beniamin. </v>
+<v n="13"> Oto zas ci stana na gorze Ebal, by przeklinac: Ruben, Gad, Aszer, Zebulon, Dan i Neftali. </v>
+<v n="14"> I odezwa sie Lewici, i przemowia donosnym glosem do wszystkich mezczyzn Izraela: </v>
+<v n="15"> Przeklety czlowiek, ktory wykona wyrzezbiony lub odlewany posag – obrzydliwosc dla PANA, dzielo rak rzemieslnika, i postawi w ukrytym miejscu. A caly lud odpowie: Amen. </v>
+<v n="16"> Przeklety, kto lekcewazy swego ojca i swoja matke. A caly lud powie: Amen. </v>
+<v n="17"> Przeklety, kto przesuwa granice swego blizniego. A caly lud powie: Amen. </v>
+<v n="18"> Przeklety, kto sprowadza slepego z drogi, aby bladzil. A caly lud powie: Amen. </v>
+<v n="19"> Przeklety, kto nagina sadu przybysza, sieroty i wdowy. A caly lud powie: Amen. </v>
+<v n="20"> Przeklety, kto obcuje z zona swego ojca, bo odkrywa brzeg plaszcza swego ojca. A caly lud powie: Amen. </v>
+<v n="21"> Przeklety, kto obcuje z jakimkolwiek zwierzeciem. A caly lud powie: Amen. </v>
+<v n="22"> Przeklety, kto obcuje ze swoja siostra, corka swego ojca lub corka swojej matki. A caly lud powie: Amen. </v>
+<v n="23"> Przeklety, kto obcuje ze swoja tesciowa. A caly lud powie: Amen. </v>
+<v n="24"> Przeklety, kto zabija potajemnie swego blizniego. A caly lud powie: Amen. </v>
+<v n="25"> Przeklety, kto przyjmuje dary, by zabic niewinnego czlowieka. A caly lud powie: Amen. </v>
+<v n="26"> Przeklety, kto nie trwa w wypelnianiu slow tego prawa. A caly lud powie: Amen. </v>
+</c>

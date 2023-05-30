@@ -1,0 +1,26 @@
+<v n="1"> Madry syn przyjmuje pouczenie ojca, a szyderca nie slucha strofowania. </v>
+<v n="2"> Czlowiek bedzie spozywac dobro z owocu swoich ust, a dusza przewrotnych bedzie spozywac przemoc. </v>
+<v n="3"> Kto strzeze swych ust, strzeze swojej duszy; kto szeroko otwiera swe wargi, bedzie zniszczony. </v>
+<v n="4"> Dusza leniwego pragnie, a nic nie ma, a dusza pracowitych zostanie obficie nasycona. </v>
+<v n="5"> Sprawiedliwy nienawidzi klamliwego slowa, a niegodziwy staje sie obrzydliwy i zhanbiony. </v>
+<v n="6"> Sprawiedliwosc strzeze tego, ktory postepuje uczciwie, a niegodziwosc powala grzesznika. </v>
+<v n="7"> Znajduje sie taki, ktory czyni siebie bogatym, a nie ma nic; inny czyni siebie ubogim, choc ma wiele bogactw. </v>
+<v n="8"> Okupem za zycie czlowieka jest jego bogactwo, a ubogi nie slucha strofowania. </v>
+<v n="9"> Radosnie blyszczy swiatlo sprawiedliwych, a pochodnia niegodziwych zgasnie. </v>
+<v n="10"> Spor powstaje tylko dzieki pysze, a madrosc jest przy tych, co przyjmuja rade. </v>
+<v n="11"> Latwo zdobyte bogactwo zmniejsza sie, a kto je gromadzi swa reka, pomnaza je. </v>
+<v n="12"> Przedluzajaca sie nadzieja sprawia bol sercu, a spelnione pragnienie jest drzewem zycia. </v>
+<v n="13"> Kto gardzi slowem Bozym, ten zginie, a kto sie boi przykazania, dostanie nagrode. </v>
+<v n="14"> Prawo madrego jest zrodlem zycia, by uniknac sidel smierci. </v>
+<v n="15"> Prawdziwy rozum daje laske, a droga przewrotnych jest ciezka. </v>
+<v n="16"> Kazdy roztropny postepuje rozwaznie, a glupi ujawnia glupote. </v>
+<v n="17"> Niegodziwy poslaniec popada w zlo, a wierny wyslannik jest lekarstwem. </v>
+<v n="18"> Ubostwo i hanba spadna na tego, ktory odrzuca karnosc, a kto szanuje upomnienia, dozna czci. </v>
+<v n="19"> Spelnione pragnienie jest slodkie dla duszy, a odwrocenie sie od zla budzi odraze w glupcach. </v>
+<v n="20"> Kto przestaje z madrymi, bedzie madry, a towarzysz glupcow bedzie zniszczony. </v>
+<v n="21"> Nieszczescie sciga grzesznikow, a sprawiedliwych Bog nagrodzi dobrem. </v>
+<v n="22"> Dobry czlowiek zostawia dziedzictwo dzieciom swoich dzieci, a majatek grzesznika jest zachowany dla sprawiedliwego. </v>
+<v n="23"> Obfita zywnosc jest na roli ubogich, lecz i ta moze niszczec przez nieroztropnosc. </v>
+<v n="24"> Kto oszczedza swa rozge, nienawidzi swego syna, a kto go kocha, karze w pore. </v>
+<v n="25"> Sprawiedliwy je i syci swoja dusze, a zoladek niegodziwych cierpi niedostatek. </v>
+</c>

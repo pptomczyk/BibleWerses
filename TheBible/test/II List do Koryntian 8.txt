@@ -1,0 +1,25 @@
+<v n="1"> A oznajmiamy wam, bracia, o lasce Bozej, ktora jest dana kosciolom Macedonii; </v>
+<v n="2"> Iz w ciezkiej probie ucisku ich obfita radosc i skrajne ubostwo obfitowaly bogactwem ich ofiarnosci. </v>
+<v n="3"> Zaswiadczam bowiem, ze wedlug mozliwosci, a nawet ponad mozliwosc okazali gotowosc; </v>
+<v n="4"> Z wielkim naleganiem proszac nas, abysmy przyjeli ten dar i ich udzial w sluzbie na rzecz swietych. </v>
+<v n="5"> A postapili nie tylko tak, jak sie spodziewalismy, ale samych siebie najpierw oddali Panu, a potem nam za wola Boga. </v>
+<v n="6"> Tak, ze poprosilismy Tytusa, aby tak jak wczesniej zaczal, tak tez dokonczyl u was tego dziela laski. </v>
+<v n="7"> Jak wiec obfitujecie we wszystko, w wiare, w mowe, w poznanie, we wszelka pilnosc i w milosc wasza do nas, tak i w tym dziele laski obfitujcie. </v>
+<v n="8"> Nie mowie tego jako rozkaz, lecz abym przez zapal innych wyprobowal szczerosc waszej milosci. </v>
+<v n="9"> Znacie bowiem laske naszego Pana Jezusa Chrystusa, ze bedac bogatym, dla was stal sie ubogim, abyscie wy zostali ubogaceni jego ubostwem. </v>
+<v n="10"> A w tej sprawie daje wam swoja rade, gdyz jest to pozyteczne dla was, ktorzy nie tylko zaczeliscie to robic, ale juz ubieglego roku wykazaliscie chec. </v>
+<v n="11"> Teraz wiec to, co zaczeliscie robic, dokonczcie, aby tak, jak byla gotowosc w checiach, tak tez aby bylo wykonanie z tego, co macie. </v>
+<v n="12"> Jesli bowiem najpierw jest gotowosc, jest przyjmowana wedlug tego, co kto ma, a nie wedlug tego, czego nie ma. </v>
+<v n="13"> Nie chodzi bowiem o to, zeby innym ulzyc, a was obciazyc; </v>
+<v n="14"> Lecz o rownosc, aby teraz wasza obfitosc usluzyla ich niedostatkowi, aby tez ich obfitosc waszemu niedostatkowi usluzyla, tak zeby byla rownosc; </v>
+<v n="15"> Jak jest napisane: Kto wiele nazbieral, nie mial za wiele, a kto malo nazbieral, nie mial za malo. </v>
+<v n="16"> Lecz Bogu niech beda dzieki, ktory wszczepil taka troske o was w serce Tytusa; </v>
+<v n="17"> Ze przyjal te zachete, a bedac bardziej gorliwym, dobrowolnie wybral sie do was. </v>
+<v n="18"> Poslalismy razem z nim brata, ktorego slawa w ewangelii rozchodzi sie po wszystkich kosciolach. </v>
+<v n="19"> A nie tylko to, ale tez zostal wybrany przez koscioly na towarzysza naszej podrozy w tym dziele laski, ktorym sluzymy ku chwale samego Pana i ku okazaniu waszej gotowosci; </v>
+<v n="20"> Wystrzegajac sie tego, aby nas ktos nie ganil z powodu tego hojnego daru, ktorym sluzymy; </v>
+<v n="21"> Starajac sie o to, co uczciwe, nie tylko przed Panem, ale tez przed ludzmi. </v>
+<v n="22"> A poslalismy z nimi naszego brata, ktorego pilnosc wielokrotnie wyprobowalismy w wielu sprawach, a ktory teraz jest o wiele bardziej pilny, poniewaz ma do was wielkie zaufanie. </v>
+<v n="23"> A jesli chodzi o Tytusa, jest on moim towarzyszem i wspolpracownikiem wsrod was, jesli zas chodzi o naszych braci, sa wyslannikami kosciolow i chwala Chrystusa. </v>
+<v n="24"> Okazcie im wiec przed kosciolami dowod waszej milosci i naszej chluby z was. </v>
+</c>

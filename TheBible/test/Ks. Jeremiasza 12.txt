@@ -1,0 +1,18 @@
+<v n="1"> Sprawiedliwy jestes, PANIE, chocbym sie z toba spieral. Ja jednak bede rozmawiac z toba o twoich sadach. Czemu szczesci sie droga bezboznych? Czemu spokojnie zyja wszyscy, ktorzy postepuja bardzo zdradliwie? </v>
+<v n="2"> Zasadziles ich, zapuscili tez korzenie; rosna i nawet wydaja owoc. Bliski jestes ich ust, ale daleki od ich nerek. </v>
+<v n="3"> Ale ty, PANIE, znasz mnie, wypatrujesz mnie i doswiadczyles moje serce, i wiesz, ze jest z toba. Odlacz ich jak owce na rzez i przygotuj ich na dzien zabicia. </v>
+<v n="4"> Jak dlugo ziemia bedzie plakac, a trawa na wszystkich polach bedzie usychac z powodu niegodziwosci jej mieszkancow? Gina wszystkie zwierzeta i ptactwo, bo mowia: Nie widzi naszego konca. </v>
+<v n="5"> Jesli biegles z pieszymi i zmeczyles sie, to jak zmierzysz sie z konmi? A jesli zmeczyles sie w spokojnej ziemi, w ktorej pokladales nadzieje, co zrobisz przy wezbraniu Jordanu? </v>
+<v n="6"> Nawet twoi bracia i dom twego ojca sprzeniewierzyli sie tobie, oni tez glosno wolaja za toba. Ale nie wierz im, chocby mowili do ciebie piekne slowa. </v>
+<v n="7"> Opuscilem swoj dom, porzucilem swoje dziedzictwo; umilowana mojej duszy wydalem w rece jej wrogow. </v>
+<v n="8"> Moje dziedzictwo stalo sie dla mnie jak lew w lesie; podnosi przeciwko mnie swoj glos, dlatego je znienawidzilem. </v>
+<v n="9"> Moje dziedzictwo jest pstrym ptakiem, ptaki dokola beda przeciwko niemu. Chodzcie, zbierzcie wszystkie zwierzeta polne, zejdzcie sie na zer. </v>
+<v n="10"> Wielu pasterzy zniszczylo moja winnice, zdeptalo moj dzial; moj rozkoszny dzial zamienili w opustoszale pustkowie. </v>
+<v n="11"> Zamienili go w pustkowie; a spustoszony lezy w zalobie przede mna; cala ziemia pustoszeje, bo nikt tego nie bierze sobie do serca. </v>
+<v n="12"> Na wszystkie pustynne wzniesienia przyjda niszczyciele, bo miecz PANA pozre wszystko od jednego kranca do drugiego kranca ziemi. Zadne cialo nie bedzie mialo pokoju. </v>
+<v n="13"> Posiali pszenice, ale beda zbierac ciernie; natrudzili sie, ale nic nie osiagna. Zawstydza sie ze swoich plonow z powodu zapalczywego gniewu PANA. </v>
+<v n="14"> Tak mowi PAN o wszystkich moich zlych sasiadach dotykajacych mojego dziedzictwa, ktore dalem w dziedzictwo memu ludowi Izraelowi: Oto wykorzenie ich z ich ziemi, a dom Judy wyrwe sposrod nich. </v>
+<v n="15"> A gdy ich wyrwe, wroce, zlituje sie nad nimi i znowu przyprowadze kazdego z nich do jego dziedzictwa i kazdego z nich do jego ziemi. </v>
+<v n="16"> I jesli dokladnie sie naucza drog mojego ludu, i beda przysiegac na moje imie, mowiac: PAN zyje, podobnie jak nauczali moj lud przysiegac na Baala, wtedy zostana zbudowani wsrod mego ludu. </v>
+<v n="17"> Ale jesli nie usluchaja, wtedy wykorzenie ten narod, wyrwe i wytrace go, mowi PAN. </v>
+</c>

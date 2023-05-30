@@ -1,0 +1,15 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Niebiosa glosza chwale Boga, a firmament obwieszcza dzielo jego rak. </v>
+<v n="2"> Dzien dniowi opowiada slowo, a noc nocy oznajmia wiedze. </v>
+<v n="3"> Nie ma jezyka ani mowy, w ktorych nie slychac ich glosu. </v>
+<v n="4"> Ich zasieg rozchodzi sie po calej ziemi i na krance swiata ich slowa. Na nich wystawil namiot sloncu. </v>
+<v n="5"> A ono wychodzi jak oblubieniec ze swojej komnaty, cieszy sie jak mocarz, ktory rozpoczyna bieg. </v>
+<v n="6"> Wyrusza z jednego kranca nieba i obchodzi je az na drugi kraniec, a nic nie ukryje sie przed jego zarem. </v>
+<v n="7"> Prawo PANA jest doskonale, nawracajace dusze; swiadectwo PANA pewne, dajace madrosc prostemu. </v>
+<v n="8"> Nakazy PANA sa prawe, radujace serce; przykazanie PANA czyste, oswiecajace oczy. </v>
+<v n="9"> Bojazn PANA jest czysta, trwajaca na wieki; sady PANA prawdziwe, wszystkie sa sluszne. </v>
+<v n="10"> Bardziej pozadane niz zloto, niz mnostwo szczerego zlota, i slodsze niz miod, nawet niz plaster miodu. </v>
+<v n="11"> Takze twoj sluga jest przez nie pouczony, a kto ich przestrzega, otrzymuje wielka nagrode. </v>
+<v n="12"> Lecz kto dostrzeze wlasne bledy? Oczysc mnie z tych, ktore sa ukryte przede mna. </v>
+<v n="13"> Chron tez swego sluge od zuchwalych grzechow, aby nie panowaly nade mna. Wtedy bede nienaganny i wolny od wielkiego przestepstwa. </v>
+<v n="14"> Niech beda ci mile slowa moich ust i rozmyslanie mego serca, PANIE, moja Skalo i moj Odkupicielu! </v>
+</c>

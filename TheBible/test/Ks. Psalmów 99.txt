@@ -1,0 +1,10 @@
+<v n="1"> PAN kroluje, niech drza narody; siedzi miedzy cherubinami, niech zachwieje sie ziemia. </v>
+<v n="2"> Wielki jest PAN na Syjonie i wywyzszony nad wszystkie narody. </v>
+<v n="3"> Niech wyslawiaja twoje wielkie i straszne imie, bo jest swiete. </v>
+<v n="4"> Moc krola miluje sad, ty ustanowiles slusznosc, ty wykonujesz sad i sprawiedliwosc w Jakubie. </v>
+<v n="5"> Wywyzszajcie PANA, naszego Boga, i oddajcie poklon u podnozka jego stop, bo on jest swiety. </v>
+<v n="6"> Mojzesz i Aaron wsrod jego kaplanow, a Samuel wsrod tych, ktorzy wzywaja jego imienia; wolali do PANA, a on ich wysluchal. </v>
+<v n="7"> W slupie obloku mowil do nich, a oni strzegli jego swiadectw i praw, ktore im dal. </v>
+<v n="8"> PANIE, nasz Boze, ty ich wysluchiwales, byles dla nich Bogiem, ktory przebacza, choc karales ich za ich wystepki. </v>
+<v n="9"> Wywyzszajcie PANA, naszego Boga, i oddajcie poklon na jego swietej gorze, bo PAN, nasz Bog, jest swiety. </v>
+</c>

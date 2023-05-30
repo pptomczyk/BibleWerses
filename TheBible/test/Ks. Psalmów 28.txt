@@ -1,0 +1,10 @@
+<v n="1"> Psalm Dawida. Do ciebie wolam, PANIE, Skalo moja; nie badz gluchy na moje wolanie, abym jesli sie nie odezwiesz, nie stal sie podobny do zstepujacych do dolu. </v>
+<v n="2"> Uslysz glos mego blagania, gdy wolam do ciebie, gdy podnosze rece ku twojemu miejscu najswietszemu. </v>
+<v n="3"> Nie zabieraj mnie z niegodziwymi i z czyniacymi nieprawosc, ktorzy mowia o pokoju z bliznimi, a zlo jest w ich sercach. </v>
+<v n="4"> Oddaj im wedlug ich uczynkow i wedlug zla ich postepkow; wedlug czynow ich rak odplac im, oddaj im, co im sie nalezy. </v>
+<v n="5"> Skoro nie zwazaja na czyny PANA ani na dziela jego rak, on zniszczy ich i nie odbuduje. </v>
+<v n="6"> Blogoslawiony niech bedzie PAN, bo wysluchal glosu mego blagania. </v>
+<v n="7"> PAN jest moja sila i tarcza, moje serce jemu zaufalo i doznalem pomocy; dlatego moje serce sie rozweselilo i moja piesnia bede go chwalic. </v>
+<v n="8"> PAN jest sila dla swoich i twierdza zbawienia swego pomazanca. </v>
+<v n="9"> Wybaw twoj lud, PANIE, blogoslaw twemu dziedzictwu, pas ich i nies na wieki. </v>
+</c>

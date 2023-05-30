@@ -1,0 +1,17 @@
+<v n="1"> Pawe³, s³uga Boga i aposto³ Jezusa Chrystusa wed³ug wiary wybranych Bo¿ych i poznania prawdy, która jest zgodna z pobo¿noœci¹; </v>
+<v n="2"> W nadziei ¿ycia wiecznego, które obieca³ przed dawnymi wiekami ten, który nie k³amie, Bóg; </v>
+<v n="3"> I we w³aœciwym czasie objawi³ swoje s³owo przez g³oszenie, które zosta³o mi powierzone zgodnie z nakazem Boga, naszego Zbawiciela; </v>
+<v n="4"> Do Tytusa, mego w³asnego syna we wspólnej wierze. £aska, mi³osierdzie i pokój od Boga Ojca i Pana Jezusa Chrystusa, naszego Zbawiciela. </v>
+<v n="5"> Zostawi³em ciê na Krecie w tym celu, abyœ uporz¹dkowa³ to, co tam jeszcze zosta³o do zrobienia, i ustanowi³ w ka¿dym mieœcie starszych, jak ci nakaza³em; </v>
+<v n="6"> Jeœli ktoœ jest nienaganny, m¹¿ jednej ¿ony, maj¹cy dzieci wierne, nieobwiniane o hulaszcze ¿ycie lub niekarnoœæ. </v>
+<v n="7"> Biskup bowiem, jako szafarz Bo¿y, ma byæ nienaganny, niesamowolny, nieskory do gniewu, nieoddaj¹cy siê piciu wina, niesk³onny do bicia, niegoni¹cy za brudnym zyskiem; </v>
+<v n="8"> Lecz goœcinny, mi³uj¹cy dobro, roztropny, sprawiedliwy, œwiêty, powœci¹gliwy; </v>
+<v n="9"> Trzymaj¹cy siê wiernego s³owa, zgodnego z nauk¹, aby te¿ móg³ przez zdrow¹ naukê napominaæ i przekonywaæ tych, którzy siê sprzeciwiaj¹. </v>
+<v n="10"> Jest bowiem wielu niekarnych, oddaj¹cych siê czczej gadaninie i zwodzicieli, zw³aszcza wœród obrzezanych. </v>
+<v n="11"> Im trzeba zamkn¹æ usta, gdy¿ ca³e domy wywracaj¹, nauczaj¹c, czego nie nale¿y, dla brudnego zysku. </v>
+<v n="12"> Jeden z nich, ich w³asny prorok, powiedzia³: Kreteñczycy to zawsze k³amcy, z³e bestie, brzuchy leniwe. </v>
+<v n="13"> Œwiadectwo to jest prawdziwe. Dlatego karæ ich surowo, aby byli zdrowi w wierze; </v>
+<v n="14"> I nie zajmowali siê ¿ydowskimi baœniami i przykazaniami ludzi odwracaj¹cych siê od prawdy. </v>
+<v n="15"> Dla czystych wszystko jest czyste, natomiast dla skalanych i niewierz¹cych nie ma nic czystego, lecz skalany jest zarówno ich umys³, jak i sumienie. </v>
+<v n="16"> Twierdz¹, ¿e znaj¹ Boga, ale swymi uczynkami temu przecz¹, budz¹c obrzydzenie, bêd¹c niepos³usznymi i niezdolnymi do wszelkiego dobrego uczynku. </v>
+</c>

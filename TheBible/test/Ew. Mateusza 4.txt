@@ -1,0 +1,26 @@
+<v n="1"> Wtedy Jezus zostal zaprowadzony przez Ducha na pustynie, aby byl kuszony przez diabla. </v>
+<v n="2"> A po czterdziestu dniach i czterdziestu nocach postu poczul glod. </v>
+<v n="3"> Wowczas przystapil do niego kusiciel i powiedzial: Jesli jestes Synem Bozym, powiedz, aby te kamienie staly sie chlebem. </v>
+<v n="4"> A on odpowiedzial: Jest napisane: Nie samym chlebem bedzie zyl czlowiek, ale kazdym slowem pochodzacym z ust Boga. </v>
+<v n="5"> Wtedy diabel wzial go do miasta swietego i postawil na szczycie swiatyni. </v>
+<v n="6"> I powiedzial mu: Jesli jestes Synem Bozym, rzuc sie w dol, jest bowiem napisane: Rozkaze o tobie swoim aniolom i beda cie nosic na rekach, abys nie uderzyl swojej nogi o kamien. </v>
+<v n="7"> Jezus mu odpowiedzial: Jest tez napisane: Nie bedziesz wystawial na probe Pana, swego Boga. </v>
+<v n="8"> Znowu wzial go diabel na bardzo wysoka gore i pokazal mu wszystkie krolestwa swiata oraz ich wspanialosc. </v>
+<v n="9"> I powiedzial do niego: Dam ci to wszystko, jesli upadniesz i oddasz mi poklon. </v>
+<v n="10"> Wtedy Jezus powiedzial mu: Idz precz, szatanie! Jest bowiem napisane: Panu, swemu Bogu, bedziesz oddawal poklon i tylko jemu bedziesz sluzyl. </v>
+<v n="11"> Wowczas diabel go opuscil, a oto aniolowie przystapili do niego i mu sluzyli. </v>
+<v n="12"> A gdy Jezus uslyszal, ze Jan zostal wtracony do wiezienia, wrocil do Galilei. </v>
+<v n="13"> A opusciwszy Nazaret, przyszedl i zamieszkal w Kafarnaum, ktore lezy nad morzem, w granicach Zabulona i Neftalego; </v>
+<v n="14"> Aby sie wypelnilo, co zostalo powiedziane przez proroka Izajasza: </v>
+<v n="15"> Ziemia Zabulona i ziemia Neftalego, wzdluz drogi nadmorskiej, za Jordanem, Galilea pogan. </v>
+<v n="16"> Lud, ktory siedzial w ciemnosci, ujrzal swiatlosc wielka, a siedzacym w krainie i cieniu smierci wzeszla swiatlosc. </v>
+<v n="17"> Od tego czasu Jezus zaczal glosic i mowic: Pokutujcie, przyblizylo sie bowiem krolestwo niebieskie. </v>
+<v n="18"> A gdy Jezus przechodzil nad Morzem Galilejskim, zobaczyl dwoch braci: Szymona, zwanego Piotrem, i Andrzeja, jego brata, ktorzy zapuszczali siec w morze; byli bowiem rybakami. </v>
+<v n="19"> I powiedzial im: Chodzcie za mna, a uczynie was rybakami ludzi. </v>
+<v n="20"> Oni natychmiast porzucili sieci i poszli za nim. </v>
+<v n="21"> A gdy poszedl stamtad dalej, zobaczyl innych dwoch braci, Jakuba, syna Zebedeusza, i Jana, jego brata, jak ze swoim ojcem Zebedeuszem naprawiali w lodzi swoje sieci. I wezwal ich. </v>
+<v n="22"> A oni natychmiast opuscili lodz i swego ojca i poszli za nim. </v>
+<v n="23"> I obchodzil Jezus cala Galilee, nauczajac w ich synagogach, gloszac ewangelie krolestwa i uzdrawiajac wszystkie choroby i wszelkie dolegliwosci wsrod ludzi. </v>
+<v n="24"> A wiesc o nim rozeszla sie po calej Syrii. I przyprowadzano do niego wszystkich, ktorzy sie zle czuli, ktorzy byli nekani roznymi chorobami i cierpieniami, a takze opetanych, oblakanych i sparalizowanych, a on ich uzdrawial. </v>
+<v n="25"> A szlo za nim mnostwo ludzi z Galilei i Dekapolu, Jerozolimy, Judei i Zajordania. </v>
+</c>

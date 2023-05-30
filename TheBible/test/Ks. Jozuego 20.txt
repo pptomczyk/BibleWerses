@@ -1,0 +1,10 @@
+<v n="1"> Potem PAN powiedzial do Jozuego: </v>
+<v n="2"> Powiedz synom Izraela: Wyznaczcie sobie miasta schronienia, o ktorych mowilem wam przez Mojzesza; </v>
+<v n="3"> Aby tam uciekal zabojca, ktory by zabil czlowieka niechcacy i mimowolnie. Beda dla was schronieniem przed mscicielem krwi. </v>
+<v n="4"> Gdy ktos ucieknie do jednego z tych miast i stanie przy wejsciu do bramy miejskiej, opowie do uszu starszych tego miasta swoja sprawe, a oni przyjma go do miasta do siebie i dadza mu miejsce, i bedzie z nimi mieszkal. </v>
+<v n="5"> A gdy bedzie go scigal msciciel krwi, to nie wydadza zabojcy w jego rece, gdyz nieumyslnie zabil swego blizniego i nie czul do niego przedtem nienawisci. </v>
+<v n="6"> I bedzie mieszkal w tym miescie, dopoki nie stanie przed zgromadzeniem na sad i az do smierci najwyzszego kaplana, ktory bedzie w tym czasie. Wtedy zabojca wroci i przyjdzie do swego miasta i do swego domu, do miasta, z ktorego uciekl. </v>
+<v n="7"> I wyznaczyli Kedesz w Galilei na gorze Neftalego, Sychem na gorze Efraim oraz Kiriat-Arba, czyli Hebron, na gorze Judy. </v>
+<v n="8"> Z drugiej zas strony Jordanu, na wschod od Jerycha, wyznaczyli Beser na pustyni, na rowninie, z pokolenia Rubena, Ramot w Gileadzie z pokolenia Gada oraz Golan w Baszanie z pokolenia Manassesa. </v>
+<v n="9"> Oto miasta ucieczki dla wszystkich synow Izraela i cudzoziemcow, ktorzy mieszkaja posrod nich, aby mogl tam uciec kazdy, kto zabil kogos przez nieuwage i nie poniosl smierci z reki msciciela krwi, zanim stanie przed zgromadzeniem. </v>
+</c>

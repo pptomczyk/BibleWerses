@@ -1,0 +1,21 @@
+<v n="1"> Wtedy Elizeusz powiedzial: Sluchajcie slowa PANA. Tak mowi PAN: Jutro o tej porze w bramie Samarii jedna miara maki pszennej bedzie za jednego sykla i dwie miary jeczmienia tez za sykla. </v>
+<v n="2"> Wowczas ksiaze, na ktorego ramieniu krol sie wspieral, odezwal sie do meza Bozego: Chocby PAN zrobil okna w niebie, czy mogloby tak sie stac? Odpowiedzial mu: Oto zobaczysz to na wlasne oczy, ale jesc z tego nie bedziesz. </v>
+<v n="3"> A bylo czterech tredowatych mezczyzn u wejscia bramy. Mowili oni jeden do drugiego: Po co tu siedzimy, az umrzemy? </v>
+<v n="4"> Jesli powiemy: Wejdziemy do miasta, w miescie jest glod i tam umrzemy. A jesli zostaniemy tu, rowniez umrzemy. Teraz wiec chodzcie i przejdzmy do obozu Syryjczykow. Jesli pozostawia nas przy zyciu, bedziemy zyc, a jesli nas zabija, umrzemy. </v>
+<v n="5"> Wstali wiec o zmierzchu, aby przejsc do obozu Syryjczykow. A gdy dotarli do kranca obozu Syryjczykow, oto nikogo tam nie bylo. </v>
+<v n="6"> PAN bowiem sprawil, ze w obozie Syryjczykow slychac bylo turkot rydwanow, tetent koni i gwar wielkiego wojska. Mowili jeden do drugiego: Oto krol Izraela najal przeciwko nam krolow chetyckich i krolow Egiptu, aby na nas napadli. </v>
+<v n="7"> Wstali wiec i uciekli o zmierzchu, zostawiajac swoje namioty, swoje konie i osly – caly oboz tak, jak byl, i uciekli, aby ratowac swoje zycie. </v>
+<v n="8"> A gdy tredowaci dotarli do kranca obozu, weszli do jednego namiotu, jedli, pili, wyniesli stamtad srebro, zloto i szaty, po czym poszli i ukryli to. Nastepnie wrocili, weszli do drugiego namiotu, rowniez wyniesli stamtad lup, odeszli i ukryli go. </v>
+<v n="9"> Wtedy powiedzieli jeden do drugiego: Niedobrze czynimy. Ten dzien jest dniem dobrej nowiny, a my milczymy. Jesli bedziemy czekac az do brzasku, spotka nas kara. Chodzcie wiec teraz, pojdzmy i opowiadajmy o tym domowi krola. </v>
+<v n="10"> Przyszli wiec i zawolali na straznika bramy miejskiej. Powiedzieli im: Przyszlismy do obozu Syryjczykow, a oto nikogo tam nie bylo, nie slychac bylo glosu ludzkiego, widzielismy tylko uwiazane konie i osly oraz namioty, tak jak byly. </v>
+<v n="11"> Wtedy zawolal on innych straznikow, a ci opowiedzieli o tym we wnetrzu domu krola. </v>
+<v n="12"> Wowczas krol wstal w nocy i powiedzial do swoich slug: Powiem wam, co nam uczynili Syryjczycy: wiedza, ze glodujemy. Wyszli wiec z obozu i ukryli sie w polu, mowiac: Gdy wyjda z miasta, pojmiemy ich zywych i wejdziemy do miasta. </v>
+<v n="13"> Jeden z jego slug odpowiedzial: Niech wezma, prosze, piec sposrod reszty koni, ktore zostaly w miescie – oto sa one jak cale mnostwo Izraela, ktore zostalo w nim, oto sa one jak cale mnostwo Izraela, ktore juz zginelo – wyslemy je i zobaczymy. </v>
+<v n="14"> Wzieli wiec dwa konie zaprzegowe, ktore krol poslal do obozu Syryjczykow, mowiac: Idzcie i zobaczcie. </v>
+<v n="15"> Szli za nimi az do Jordanu. A oto cala droga byla pelna szat i naczyn, ktore Syryjczycy porzucili w pospiechu. Wtedy poslancy wrocili i oznajmili to krolowi. </v>
+<v n="16"> Wowczas lud wyszedl i zlupil oboz Syryjczykow. I jedna miara maki pszennej byla za sykla i dwie miary jeczmienia za sykla, wedlug slowa PANA. </v>
+<v n="17"> A krol ustanowil tego ksiecia, na ktorego ramieniu sie wspieral, nadzorca bramy. Lud jednak zadeptal go w bramie na smierc, jak powiedzial maz Bozy, ktory o tym mowil, gdy krol zszedl do niego. </v>
+<v n="18"> I stalo sie tak, jak powiedzial krolowi maz Bozy: Dwie miary jeczmienia za sykla i jedna miara maki pszennej za sykla beda jutro o tej porze w bramie Samarii. </v>
+<v n="19"> Wtedy ten ksiaze odpowiedzial mezowi Bozemu: Chocby PAN zrobil okna w niebie, czy mogloby tak sie stac? Odpowiedzial: Oto zobaczysz to na wlasne oczy, ale jesc z tego nie bedziesz. </v>
+<v n="20"> I tak sie z nim stalo. Lud bowiem zadeptal go w bramie i ksiaze umarl. </v>
+</c>

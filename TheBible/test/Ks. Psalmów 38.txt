@@ -1,0 +1,23 @@
+<v n="1"> Psalm Dawida. Dla przypomnienia. PANIE, nie karc mnie w swym gniewie i nie karz mnie w swojej zapalczywosci. </v>
+<v n="2"> Twoje strzaly utkwily bowiem we mnie i ciazy na mnie twoja reka. </v>
+<v n="3"> Nie ma nic zdrowego w moim ciele wskutek twego gniewu, nie ma odpoczynku dla moich kosci z powodu mojego grzechu. </v>
+<v n="4"> Bo moje nieprawosci siegaja ponad moja glowe, obciazaja mnie jak ciezkie brzemie. </v>
+<v n="5"> Cuchna i ropieja moje rany z powodu mej glupoty. </v>
+<v n="6"> Jestem zgnebiony i bardzo pochylony, przez caly dzien chodze smutny. </v>
+<v n="7"> Moje wnetrze bowiem pali straszna dolegliwosc i nie ma nic zdrowego w moim ciele. </v>
+<v n="8"> Jestem oslabiony i bardzo zalamany, zawodze z powodu trwogi mego serca. </v>
+<v n="9"> Panie, przed toba sa wszystkie moje pragnienia i moje wzdychanie nie jest przed toba ukryte. </v>
+<v n="10"> Moje serce trzepocze, opuscila mnie sila, a swiatlo moich oczu zniklo. </v>
+<v n="11"> Moi bliscy i przyjaciele stronia od moich ran, a moi krewni stoja z daleka. </v>
+<v n="12"> Ci, ktorzy czyhaja na moja dusze, zastawiaja sidla, a ci, ktorzy pragna mego nieszczescia, mowia przewrotnie i przez caly dzien knuja podstepy. </v>
+<v n="13"> Lecz ja niczym gluchy nie slyszalem i bylem jak niemy, ktory nie otwiera swych ust. </v>
+<v n="14"> I stalem sie jak czlowiek, ktory nic nie slyszy i nie ma w ustach upomnien. </v>
+<v n="15"> Ciebie bowiem, PANIE, oczekuje; ty odpowiesz, Panie, moj Boze. </v>
+<v n="16"> Bo powiedzialem: Niech sie nie ciesza z mojego powodu; gdy moja noga poslizgnie sie, niech nie wynosza sie nade mnie. </v>
+<v n="17"> Jestem bowiem bliski upadku i moja bolesc zawsze jest przede mna. </v>
+<v n="18"> Wyznaje wiec moja nieprawosc i boleje nad swoim grzechem. </v>
+<v n="19"> Lecz moi wrogowie sa zdrowi i silni i namnozylo sie tych, ktorzy bez powodu mnie nienawidza. </v>
+<v n="20"> Odplacaja mi zlem za dobro i sprzeciwiaja mi sie, bo podazam za dobrem. </v>
+<v n="21"> Nie opuszczaj mnie, PANIE, moj Boze, nie oddalaj sie ode mnie. </v>
+<v n="22"> Pospiesz mi z pomoca, Panie, moje zbawienie. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Slowo PANA doszlo do Jonasza, syna Amittaja, mowiace: </v>
+<v n="2"> Wstan, idz do Niniwy, tego wielkiego miasta, i wolaj przeciwko niej, bo jej niegodziwosc wzniosla sie przed moje oblicze. </v>
+<v n="3"> Ale Jonasz wstal, aby uciec do Tarszisz sprzed oblicza PANA, i przybyl do Jafy. Znalazl okret, ktory plynal do Tarszisz, zaplacil za przejazd i wsiadl na niego, aby plynac z nimi do Tarszisz i uciec sprzed oblicza PANA. </v>
+<v n="4"> Lecz PAN zeslal gwaltowny wiatr na morze i powstala potezna burza na morzu, tak ze zdawalo sie, ze okret sie rozbije. </v>
+<v n="5"> A zeglarze przestraszyli sie i kazdy z nich wolal do swego boga, a wyrzucali do morza ladunek, ktory byl na okrecie, aby ten byl lzejszy. Ale Jonasz zszedl wczesniej na nizszy poklad okretu, polozyl sie i twardo zasnal. </v>
+<v n="6"> Przyszedl wiec do niego sternik i zapytal go: Coz ty czynisz, spiochu? Wstan, wolaj do swego Boga, moze Bog wspomni na nas, abysmy nie zgineli. </v>
+<v n="7"> Wtedy powiedzieli jeden do drugiego: Chodzcie, rzucmy losy, abysmy sie dowiedzieli, przez kogo spadlo na nas to nieszczescie. Rzucili wiec losy i padlo na Jonasza. </v>
+<v n="8"> I powiedzieli do niego: Powiedz nam, prosimy, przez kogo spadlo na nas to nieszczescie. Jaki jest twoj zawod? Skad pochodzisz? Z jakiego kraju i z jakiego narodu jestes? </v>
+<v n="9"> Odpowiedzial im: Jestem Hebrajczykiem i boje sie PANA, Boga nieba, ktory stworzyl morze i ziemie. </v>
+<v n="10"> Wtedy ci mezczyzni bardzo sie zlekli i zapytali: Czemu tak uczyniles? Oni bowiem dowiedzieli sie, ze ucieka sprzed oblicza PANA, bo im to powiedzial. </v>
+<v n="11"> Powiedzieli jeszcze do niego: Coz mamy z toba uczynic, aby morze sie uspokoilo? Morze bowiem coraz bardziej sie burzylo. </v>
+<v n="12"> Odpowiedzial im: Wezcie mnie i wrzuccie do morza, a ono uspokoi sie dla was, gdyz wiem, ze z mojego powodu ta wielka burza przyszla na was. </v>
+<v n="13"> Lecz ci mezczyzni wioslowali silniej, aby dotrzec do brzegu, ale nie mogli, bo morze coraz bardziej sie burzylo przeciwko nim. </v>
+<v n="14"> Zawolali wiec do PANA: PANIE, prosimy, nie pozwol nam zginac z powodu zycia tego czlowieka i nie obciazaj nas krwia niewinna. Ty bowiem, PANIE, uczyniles, jak ci sie spodobalo. </v>
+<v n="15"> Potem wzieli Jonasza i wrzucili do morza, a morze przestalo sie burzyc. </v>
+<v n="16"> Wtedy ci mezczyzni, zdjeci wielkim strachem przed PANEM, zlozyli PANU ofiare i uczynili sluby. </v>
+<v n="17"> A PAN przygotowal wielka rybe, ktora polknela Jonasza. I Jonasz byl we wnetrznosciach tej ryby trzy dni i trzy noce. </v>
+</c>

@@ -1,0 +1,11 @@
+<v n="1"> Krol i Haman przybyli wiec na uczte do krolowej Estery. </v>
+<v n="2"> I drugiego dnia, gdy sie napil wina, krol znowu zapytal Estere: Jaka jest twoja prosba, krolowo Estero, a bedzie ci dane. Jakie jest twoje zyczenie? Chocbys prosila nawet o polowe krolestwa, tak sie stanie. </v>
+<v n="3"> Wtedy krolowa Estera odpowiedziala: Jesli znalazlam laske w twoich oczach, o krolu, i jesli krolowi sie spodoba, niech bedzie mi darowane moje zycie na moja prosbe i moj narod na moje zyczenie. </v>
+<v n="4"> Zostalismy bowiem sprzedani, ja i moj lud, aby nas zgladzic, wymordowac i wytracic. Gdybysmy zostali sprzedani jako niewolnicy i niewolnice, milczalabym, chociaz wrog nigdy by nie mogl wynagrodzic tej szkody wyrzadzonej krolowi. </v>
+<v n="5"> Wtedy krol Aswerus odpowiedzial do krolowej Estery: Ktoz to jest i gdzie jest ten, ktorego serce jest tak nadete, aby osmielil sie tak uczynic? </v>
+<v n="6"> Estera odpowiedziala: Tym przeciwnikiem i wrogiem jest niegodziwy Haman. I Haman zatrwozyl sie przed krolem i krolowa. </v>
+<v n="7"> Wowczas krol wstal w gniewie, opuscil uczte i poszedl do ogrodu palacowego. Haman zas stal, aby blagac krolowa Estere o zycie, gdyz widzial, ze krol postanowil jego zgube. </v>
+<v n="8"> Potem krol wrocil z ogrodu palacowego do domu, gdzie sie odbywala uczta, a Haman upadl na loze, na ktorym siedziala Estera. Wtedy krol powiedzial: Czy jeszcze chce gwalcic krolowa przy mnie w domu? A gdy te slowa wyszly z ust krola, natychmiast zakryto twarz Hamana. </v>
+<v n="9"> I Charbona, jeden z eunuchow, powiedzial do krola: Oto szubienica przygotowana przez Hamana dla Mardocheusza, ktory dbal o dobro krola, stoi przy domu Hamana, wysoka na piecdziesiat lokci. Krol powiedzial: Powiescie go na niej. </v>
+<v n="10"> I powieszono Hamana na tej szubienicy, ktora przygotowal dla Mardocheusza. I tak gniew krola sie uspokoil. </v>
+</c>

@@ -1,0 +1,20 @@
+<v n="1"> Przewodnikowi choru, na Sosannim. Psalm swiadectwa Asafa. Posluchaj, Pasterzu Izraela, ty, ktory prowadzisz Jozefa jak stado owiec, ty, ktory zasiadasz miedzy cherubinami, zablysnij. </v>
+<v n="2"> Przed Efraimem, Beniaminem i Manassesem wzbudz swoja moc i przyjdz nas zbawic. </v>
+<v n="3"> Boze, odnow nas, rozjasnij nad nami swoje oblicze, a bedziemy wybawieni. </v>
+<v n="4"> PANIE, Boze zastepow, jak dlugo bedziesz sie gniewal na modlitwe swego ludu? </v>
+<v n="5"> Nakarmiles ich chlebem placzu i napoiles ich lzami nad miare. </v>
+<v n="6"> Zrobiles z nas przedmiot sporu dla naszych sasiadow, a nasi wrogowie smieja sie z nas. </v>
+<v n="7"> Boze zastepow, odnow nas, rozjasnij nad nami swoje oblicze, a bedziemy wybawieni. </v>
+<v n="8"> Ty przeniosles winorosl z Egiptu; wygnales pogan, a ja zasadziles. </v>
+<v n="9"> Przygotowales jej miejsce i sprawiles, ze zapuscila korzenie i napelnila ziemie. </v>
+<v n="10"> Gory okryly sie jej cieniem, a jej galezie byly jak najwyzsze cedry. </v>
+<v n="11"> Wypuscila swe latorosle az do morza i swoje pedy az do rzeki. </v>
+<v n="12"> Dlaczego wiec zburzyles jej ogrodzenie, tak ze obrywaja ja wszyscy, ktorzy przechodza droga? </v>
+<v n="13"> Niszczy ja dzik lesny, a zwierze polne pozera ja. </v>
+<v n="14"> O Boze zastepow, prosze, powroc, spojrz z nieba i zobacz, nawiedz te winorosl; </v>
+<v n="15"> Te winnice, ktora zasadzila twoja prawica, i latorosl, ktora umocniles dla siebie. </v>
+<v n="16"> Spalona jest ogniem i wycieta; gina od zgromienia twojego oblicza. </v>
+<v n="17"> Niech twoja reka bedzie nad mezem twojej prawicy, nad synem czlowieczym, ktorego umocniles dla siebie. </v>
+<v n="18"> A my nie odstapimy od ciebie; zachowaj nas przy zyciu, a bedziemy wzywac twego imienia. </v>
+<v n="19"> PANIE, Boze zastepow, odnow nas, rozjasnij nad nami swoje oblicze, a bedziemy wybawieni. </v>
+</c>

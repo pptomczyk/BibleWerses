@@ -1,0 +1,17 @@
+<v n="1"> O jaka ty jestes piekna, moja umilowana! O jaka ty jestes piekna! Twoje oczy miedzy twymi kedziorkami sa jak oczy golebicy; twoje wlosy sa jak stado koz, ktore widac na gorze Gileadu. </v>
+<v n="2"> Twoje zeby sa jak stado strzyzonych owiec, gdy wychodza z kapieli; wszystkie maja bliznieta i nie ma zadnej nieplodnej wsrod nich. </v>
+<v n="3"> Twoje wargi sa jak nic purpurowa, a twoja wymowa pelna wdzieku. Twoje skronie sa jak polowki granatu miedzy twymi kedziorkami. </v>
+<v n="4"> Twoja szyja jest jak wieza Dawida, zbudowana na zbrojownie, na ktorej tysiac puklerzy zawieszono, wszystko to tarcze dzielnych wojownikow. </v>
+<v n="5"> Twoje piersi sa jak dwoje blizniaczych sarniat, ktore pasa sie miedzy liliami. </v>
+<v n="6"> Nim zaswita dzien i znikna cienie, wejde na gore mirry i na pagorek kadzidla. </v>
+<v n="7"> Cala jestes piekna, moja umilowana, i nie ma w tobie zadnej skazy. </v>
+<v n="8"> Przyjdz ze mna z Libanu, moja oblubienico, przyjdz ze mna z Libanu. Spojrz ze szczytu gory Amana, ze szczytu gory Senir i Hermon, z jaskin lwow i z gor lampartow. </v>
+<v n="9"> Zachwycilas moje serce, moja siostro, moja oblubienico! Zachwycilas moje serce jednym twoim okiem i jednym lancuszkiem na twojej szyi. </v>
+<v n="10"> Jakze piekna jest twoja milosc, moja siostro, moja oblubienico! Jak daleko lepsza jest twoja milosc od wina, a won twoich olejkow od wszystkich innych wonnosci! </v>
+<v n="11"> Z twoich warg ocieka miod jak z plastrow, moja oblubienico! Miod i mleko pod twoim jezykiem, a won twoich szat jest jak won Libanu. </v>
+<v n="12"> Jestes zamknietym ogrodem, moja siostro, moja oblubienico; zrodlem zamknietym, zdrojem zapieczetowanym. </v>
+<v n="13"> Twoje pedy to sad drzew granatu z wybornym owocem cyprysu i nardu; </v>
+<v n="14"> Nard i szafran, tatarak i cynamon, ze wszelkimi drzewami, kadzidlo, mirra i aloes, ze wszelkimi wybornymi wonnosciami. </v>
+<v n="15"> Zrodlo ogrodow, zdroj zywych wod, ktore plyna z Libanu! </v>
+<v n="16"> Powstan, wietrze polnocny, i przyjdz, wietrze z poludnia, powiej przez moj ogrod, by sie rozplynely jego wonnosci. Niech przyjdzie moj umilowany do swego ogrodu i niech je swoje rozkoszne owoce. </v>
+</c>

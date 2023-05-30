@@ -1,0 +1,22 @@
+<v n="1"> Piesn pochwalna Dawida. Bede cie wywyzszac, Boze moj, krolu moj, i bede blogoslawic twe imie na wieki wiekow. </v>
+<v n="2"> Kazdego dnia bede cie blogoslawic i chwalic twoje imie na wieki wiekow. </v>
+<v n="3"> Wielki jest PAN i godzien wielkiej chwaly, a jego wielkosc jest niezbadana. </v>
+<v n="4"> Pokolenie pokoleniu bedzie wychwalac twoje dziela i opowiadac o twoich poteznych czynach. </v>
+<v n="5"> Bede wyslawiac wspanialosc chwaly twojego majestatu i twoje cudowne dziela. </v>
+<v n="6"> I beda mowic o mocy twoich straszliwych czynow, a ja bede opowiadac twoja wielkosc. </v>
+<v n="7"> Beda wyslawiac pamiec twojej wielkiej dobroci i spiewac o twojej sprawiedliwosci. </v>
+<v n="8"> Laskawy jest PAN i litosciwy, nieskory do gniewu i bardzo milosierny. </v>
+<v n="9"> Dobry jest PAN dla wszystkich, a jego milosierdzie nad wszystkimi jego dzielami. </v>
+<v n="10"> Twoje dziela beda cie wyslawiac, PANIE, a twoi swieci beda ci blogoslawic. </v>
+<v n="11"> Beda opowiadac o chwale twego krolestwa i mowic o twojej potedze; </v>
+<v n="12"> Aby oznajmic synom ludzkim jego potezne czyny i wspaniala chwale jego krolestwa. </v>
+<v n="13"> Twoje krolestwo jest krolestwem wiecznym, a twoje panowanie trwa przez wszystkie pokolenia. </v>
+<v n="14"> PAN podtrzymuje wszystkich, ktorzy upadaja, i podnosi wszystkich przygnebionych. </v>
+<v n="15"> Oczy wszystkich oczekuja ciebie, a ty im dajesz pokarm we wlasciwym czasie. </v>
+<v n="16"> Otwierasz swoja reke i nasycasz do woli wszystko, co zyje. </v>
+<v n="17"> Sprawiedliwy jest PAN we wszystkich swoich drogach i milosierny we wszystkich swoich dzielach. </v>
+<v n="18"> Bliski jest PAN wszystkim, ktorzy go wzywaja; wszystkim, ktorzy go wzywaja w prawdzie. </v>
+<v n="19"> Spelni pragnienia tych, ktorzy sie go boja; uslyszy ich wolanie i wybawi ich. </v>
+<v n="20"> PAN strzeze wszystkich, ktorzy go miluja; a wytraci wszystkich niegodziwych. </v>
+<v n="21"> Moje usta beda glosic chwale PANA i niech wszelkie cialo blogoslawi jego swiete imie na wieki wiekow. </v>
+</c>

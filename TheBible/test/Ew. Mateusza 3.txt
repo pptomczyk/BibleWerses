@@ -1,0 +1,18 @@
+<v n="1"> W tych dniach przyszedl Jan Chrzciciel, gloszac na pustyni judzkiej: </v>
+<v n="2"> Pokutujcie, bo przyblizylo sie krolestwo niebieskie. </v>
+<v n="3"> To bowiem jest ten, o ktorym powiedziano przez proroka Izajasza: Glos wolajacego na pustyni: Przygotujcie droge Pana, prostujcie jego sciezki. </v>
+<v n="4"> A ow Jan mial ubranie z siersci wielbladziej i pas skorzany wokol bioder, a jego pokarmem byla szarancza i miod lesny. </v>
+<v n="5"> Wtedy przychodzila do niego Jerozolima oraz cala Judea i cala okolica nad Jordanem. </v>
+<v n="6"> I byli przez niego chrzczeni w Jordanie, wyznajac swoje grzechy. </v>
+<v n="7"> A gdy zobaczyl wielu sposrod faryzeuszy i saduceuszy przychodzacych do chrztu, powiedzial im: Plemie zmijowe, ktoz was ostrzegl, zebyscie uciekali przed nadchodzacym gniewem? </v>
+<v n="8"> Wydajcie wiec owoce godne pokuty; </v>
+<v n="9"> A nie myslcie, ze mozecie sobie mowic: Naszym ojcem jest Abraham. Mowie wam bowiem, ze Bog moze i z tych kamieni wzbudzic dzieci Abrahamowi. </v>
+<v n="10"> Juz i siekiera do korzenia drzew jest przylozona. Kazde wiec drzewo, ktore nie wydaje dobrego owocu, zostaje wyciete i wrzucone w ogien. </v>
+<v n="11"> Ja was chrzcze woda ku pokucie; ten zas, ktory idzie za mna, jest mocniejszy ode mnie; nie jestem godny nosic mu obuwia. On bedzie was chrzcil Duchem Swietym i ogniem. </v>
+<v n="12"> Ma swoje wiejadlo w reku i wyczysci swoje klepisko, i zgromadzi swoja pszenice do spichlerza, a plewy spali w ogniu nieugaszonym. </v>
+<v n="13"> Wtedy Jezus przyszedl z Galilei nad Jordan do Jana, aby byc przez niego ochrzczonym. </v>
+<v n="14"> Ale Jan powstrzymywal go, mowiac: Ja potrzebuje byc ochrzczonym przez ciebie, a ty przychodzisz do mnie? </v>
+<v n="15"> A Jezus mu odpowiedzial: Ustap teraz, bo godzi sie nam wypelnic wszelka sprawiedliwosc. Wtedy mu ustapil. </v>
+<v n="16"> A gdy Jezus zostal ochrzczony, zaraz wyszedl z wody, a oto otworzyly mu sie niebiosa i ujrzal Ducha Bozego zstepujacego jak golebica i przychodzacego na niego. </v>
+<v n="17"> I rozlegl sie glos z nieba: To jest moj umilowany Syn, w ktorym mam upodobanie. </v>
+</c>

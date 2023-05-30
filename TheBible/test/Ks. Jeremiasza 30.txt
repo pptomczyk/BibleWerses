@@ -1,0 +1,25 @@
+<v n="1"> Slowo, ktore doszlo do Jeremiasza od PANA, mowiace: </v>
+<v n="2"> Tak mowi PAN, Bog Izraela: Napisz sobie w ksiedze wszystkie slowa, ktore powiedzialem do ciebie. </v>
+<v n="3"> Oto bowiem nadchodza dni, mowi PAN, gdy odwroce niewole swego ludu Izraela i Judy, mowi PAN, i sprowadze ich do ziemi, ktora dalem ich ojcom, i posiada ja. </v>
+<v n="4"> A to sa slowa, ktore PAN mowil o Izraelu i o Judzie: </v>
+<v n="5"> Tak mowi PAN: Slyszelismy glos strachu i leku, a nie pokoju. </v>
+<v n="6"> Pytajcie teraz i zobaczcie: Czy mezczyzna moze rodzic? Czemu wiec widze, ze kazdy mezczyzna trzyma rece na biodrach – jak u rodzacej – i ze ich twarze staly sie blade? </v>
+<v n="7"> Biada! Bo wielki jest ten dzien, ze nie bedzie mu rownego. To jest czas utrapienia Jakuba, ale bedzie z niego wybawiony. </v>
+<v n="8"> W tym dniu bowiem, mowi PAN zastepow, zlamie jego jarzmo znad twojej szyi i rozerwe twoje wiezy, i cudzoziemcy juz nie beda go ujarzmiac; </v>
+<v n="9"> Ale beda sluzyc PANU, swemu Bogu, i Dawidowi, swemu krolowi, ktorego im wzbudze. </v>
+<v n="10"> Dlatego nie boj sie, moj slugo, Jakubie, mowi PAN, nie lekaj sie, Izraelu! Oto bowiem wybawie cie z daleka, twoje potomstwo z ziemi jego niewoli. Powroci Jakub, aby zaznac odpoczynku i spokoju i nikt nie bedzie go straszyl. </v>
+<v n="11"> Ja bowiem jestem z toba, mowi PAN, aby cie wybawic. A chociaz poloze kres wszystkim narodom, wsrod ktorych cie rozproszylem, tobie jednak nie poloze kresu, ale ukarze cie sprawiedliwie, nie zostawie cie calkiem bez kary. </v>
+<v n="12"> Tak mowi PAN: Twoje zranienie jest nieuleczalne, bardzo bolesna twoja rana. </v>
+<v n="13"> Nie ma nikogo, kto by bronil twojej sprawy, abys byla uleczona. Nie masz lekarstwa na gojenie ran. </v>
+<v n="14"> Wszyscy twoi kochankowie zapomnieli o tobie, nie szukaja cie, gdyz zranilem cie ciosem wroga i okrutnym karaniem z powodu mnostwa twoich nieprawosci i twoich niezliczonych grzechow. </v>
+<v n="15"> Czemu wolasz z powodu swej rany i ciezkiej bolesci? Za ogrom twoich nieprawosci i twoje niezliczone grzechy uczynilem ci to. </v>
+<v n="16"> Wszyscy jednak, co cie pozeraja, zostana pozarci; wszyscy, ktorzy cie uciskaja, pojda w niewole; ci, ktorzy cie ograbiaja, zostana ograbieni; a wszystkich, ktorzy cie lupia, wydam na lup. </v>
+<v n="17"> Przywroce ci bowiem zdrowie i ulecze cie z twoich ran, mowi PAN, gdyz nazwali cie Odrzucona, mowiac: To jest Syjon, o ktory nikt sie nie troszczy. </v>
+<v n="18"> Tak mowi PAN: Oto odwroce niewole namiotow Jakuba i zlituje sie nad jego mieszkaniem, i miasto zostanie odbudowane na swoim wzgorzu, a palac wystawiony wedlug swego porzadku. </v>
+<v n="19"> I rozlegnie sie stamtad dziekczynienie i glos weselacych sie. Rozmnoze ich i nie bedzie ich ubywalo, uwielbie ich i nie beda ponizeni. </v>
+<v n="20"> Jego synowie beda tak jak dawniej i jego zgromadzenie bedzie utwierdzone przede mna, ale ukarze wszystkich, ktorzy ich trapia. </v>
+<v n="21"> I z niego powstanie jego wladca, panujacy nad nim sposrod niego wyjdzie; kaze mu sie zblizyc, a przystapi do mnie. Kim bowiem jest ten, co odwazylby sie w sercu zblizyc do mnie? – mowi PAN. </v>
+<v n="22"> I bedziecie moim ludem, a ja bede waszym Bogiem. </v>
+<v n="23"> Oto wicher PANA zrywa sie w zapalczywosci, trwajacy wicher spadnie nad glowy bezboznych. </v>
+<v n="24"> Zapalczywosc gniewu PANA nie odwroci sie, az on to uczyni i wykona zamysly swego serca. W dniach ostatecznych to zrozumiecie. </v>
+</c>

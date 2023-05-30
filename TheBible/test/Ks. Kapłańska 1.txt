@@ -1,0 +1,18 @@
+<v n="1"> I PAN zawolal do Mojzesza, i powiedzial do niego z Namiotu Zgromadzenia: </v>
+<v n="2"> Przemow do synow Izraela i powiedz im: Jesli ktos z was zechce zlozyc PANU ofiare, niech zlozy ja z bydla, ze stada albo z trzody. </v>
+<v n="3"> Jesli jego ofiara calopalna bedzie ze stada, niech zlozy samca bez skazy. Niech go zlozy dobrowolnie przed PANEM u wejscia do Namiotu Zgromadzenia. </v>
+<v n="4"> I polozy swa reke na glowie ofiary calopalnej, a zostanie przyjeta jako przeblaganie za niego. </v>
+<v n="5"> Potem zabije tego cielca przed PANEM. A kaplani, synowie Aarona, ofiaruja krew i pokropia ta krwia z wierzchu dokola oltarz, ktory jest przed wejsciem do Namiotu Zgromadzenia. </v>
+<v n="6"> I obedrze ofiare calopalna ze skory, i pokroi ja na czesci. </v>
+<v n="7"> Wtedy synowie kaplana Aarona poloza ogien na oltarzu i uloza drwa na ogniu. </v>
+<v n="8"> Potem kaplani, synowie Aarona, porzadnie uloza te czesci oraz glowe i tluszcz na drwach lezacych na ogniu na oltarzu. </v>
+<v n="9"> A jego wnetrznosci i nogi obmyje woda. I kaplan spali to wszystko na oltarzu. To jest calopalenie, ofiara ogniowa, mila won dla PANA. </v>
+<v n="10"> A jesli jego ofiara na calopalenie bedzie z trzody, owiec lub koz, niech wezmie samca bez skazy; </v>
+<v n="11"> I zabije go obok oltarza po polnocnej stronie przed PANEM. A kaplani, synowie Aarona, pokropia jego krwia z wierzchu oltarz dokola. </v>
+<v n="12"> Potem pokroi go na czesci wraz z jego glowa i tluszczem. A kaplan ulozy je porzadnie na drwach lezacych na ogniu na oltarzu. </v>
+<v n="13"> Wnetrznosci zas i nogi obmyje woda. I kaplan wezmie to wszystko, i spali na oltarzu. To jest calopalenie, ofiara ogniowa, mila won dla PANA. </v>
+<v n="14"> A jesli jego ofiara na calopalenie dla PANA bedzie z ptactwa, niech wezmie swoja ofiare z synogarlic albo z mlodych golebi. </v>
+<v n="15"> Kaplan przyniesie go do oltarza, ukreci mu glowe i spali na oltarzu, a jego krew wycisnie na sciane oltarza. </v>
+<v n="16"> I usunie wole wraz z jego pierzem i wyrzuci je na popielisko, obok oltarza po wschodniej stronie; </v>
+<v n="17"> I naderwie jego skrzydla, ale ich nie oderwie. I kaplan spali to na oltarzu, na drwach lezacych na ogniu. To jest calopalenie, ofiara ogniowa, mila won dla PANA. </v>
+</c>

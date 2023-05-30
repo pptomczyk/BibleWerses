@@ -1,0 +1,24 @@
+<v n="1"> A gdy Dawid zszedl troche ze szczytu gory, oto Siba, sluga Mefiboszeta, zaszedl mu droge z para osiodlanych oslow, na ktorych bylo dwiescie chlebow, sto peczkow rodzynek, sto swiezych owocow i buklak wina. </v>
+<v n="2"> Wtedy krol zapytal Sibe: Po co to? Siba odpowiedzial: Osly sa dla rodziny krola, by na nich jezdzila, chleb i owoc na posilek dla slug, a wino jest do picia dla znuzonych na pustyni. </v>
+<v n="3"> Zapytal krol: A gdzie jest syn twego pana? Siba odpowiedzial krolowi: Zostal w Jerozolimie. Powiedzial bowiem: Dzis dom Izraela przywroci mi krolestwo mojego ojca. </v>
+<v n="4"> Wtedy krol powiedzial do Siby: Oto twoje jest wszystko, co nalezalo do Mefiboszeta. Siba poklonil sie i odpowiedzial: Obym znalazl laske w twoich oczach, moj panie, krolu. </v>
+<v n="5"> Kiedy krol Dawid przybyl do Bachurim, oto wyszedl stamtad czlowiek z rodziny domu Saula imieniem Szimei, syn Gery. Ten wyszedl, a gdy szedl, przeklinal. </v>
+<v n="6"> I rzucal kamieniami w Dawida i wszystkie slugi krola Dawida, chociaz caly lud i wszyscy wojownicy szli po jego prawej i lewej stronie. </v>
+<v n="7"> I tak mowil Szimei, przeklinajac: Wyjdz, wyjdz, krwawy czlowieku, czlowieku Beliala. </v>
+<v n="8"> PAN sprowadzil na ciebie cala krew domu Saula, w miejsce ktorego zostales krolem, i oddal PAN krolestwo w rece Absaloma, twego syna. A oto twoje zlo spotkalo ciebie, bo jestes krwawym czlowiekiem. </v>
+<v n="9"> Wtedy Abiszaj, syn Serui, powiedzial do krola: Czemu ten zdechly pies przeklina mojego pana, krola? Pozwol, ze pojde i utne mu glowe. </v>
+<v n="10"> Ale krol odpowiedzial: Co ja mam z wami, synowie Serui? Niech przeklina, gdyz PAN mu kazal: Przeklinaj Dawida. Ktoz wiec moze powiedziec: Czemu tak czynisz? </v>
+<v n="11"> Dawid powiedzial jeszcze do Abiszaja i do wszystkich swoich slug: Oto moj syn, ktory wyszedl z mego wnetrza, nastaje na moje zycie. Coz dopiero ten Beniaminita? Zostawcie go, niech przeklina, bo PAN mu tak rozkazal. </v>
+<v n="12"> Moze PAN wejrzy na moje utrapienie i odplaci mi dobrem za jego dzisiejsze przeklenstwo. </v>
+<v n="13"> Dawid i jego ludzie szli wiec droga, Szimei zas szedl zboczem gory obok niego, a idac, przeklinal, rzucal kamieniami w niego i miotal prochem. </v>
+<v n="14"> I tak krol i caly lud, ktory byl z nim, przybyli znuzeni i odpoczeli tam. </v>
+<v n="15"> Lecz Absalom i caly lud, mezczyzni Izraela, przyszli do Jerozolimy, a Achitofel byl z nim. </v>
+<v n="16"> A gdy Chuszaj Arkita, przyjaciel Dawida, przyszedl do Absaloma, Chuszaj powiedzial do Absaloma: Niech zyje krol, niech zyje krol! </v>
+<v n="17"> Wtedy Absalom zapytal Chuszaja: Taka to jest twoja milosc do twego przyjaciela? Czemu nie poszedles ze swoim przyjacielem? </v>
+<v n="18"> Chuszaj odpowiedzial Absalomowi: Nie! Lecz kogo wybierze PAN, ten lud i wszyscy mezczyzni Izraela, do tego bede nalezal i z nim pozostane. </v>
+<v n="19"> Po drugie: Komu bede sluzyl? Czy nie jego synowi? Jak sluzylem twemu ojcu, tak bede i tobie. </v>
+<v n="20"> Wtedy Absalom powiedzial do Achitofela: Radzcie, co mam czynic. </v>
+<v n="21"> Achitofel odpowiedzial Absalomowi: Wejdz do naloznic swego ojca, ktore zostawil, aby strzegly domu. A gdy caly Izrael uslyszy, ze zostales znienawidzony przez swego ojca, wtedy wzmocnia sie rece wszystkich, ktorzy sa z toba. </v>
+<v n="22"> Rozbili wiec dla Absaloma namiot na dachu. I Absalom wszedl do naloznic swego ojca na oczach calego Izraela. </v>
+<v n="23"> A rada Achitofela, ktorej udzielal w tym czasie, byla niczym rada od Boga. Taka byla wszelka rada Achitofela, zarowno u Dawida, jak i u Absaloma. </v>
+</c>

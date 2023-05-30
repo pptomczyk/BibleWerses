@@ -1,0 +1,13 @@
+<v n="1"> Psalm i piesn na poswiecenie przybytku Dawida. PANIE, bede cie wywyzszac, bo podniosles mnie i nie pozwoliles mym wrogom cieszyc sie z mojego powodu. </v>
+<v n="2"> PANIE, Boze moj, wolalem do ciebie i uzdrowiles mnie. </v>
+<v n="3"> PANIE, wyprowadziles moja dusze z piekla, zachowales mnie przy zyciu, abym nie zstapil do dolu. </v>
+<v n="4"> Spiewajcie PANU, swieci jego, i wyslawiajcie go, wspominajac jego swietosc. </v>
+<v n="5"> Jego gniew bowiem trwa tylko chwile, a jego laskawosc przez cale zycie; chocby placz trwal przez noc, rankiem nastanie radosc. </v>
+<v n="6"> Powiedzialem w czasie mej pomyslnosci: Nigdy sie nie zachwieje. </v>
+<v n="7"> PANIE, w swojej laskawosci umocniles moja gore; ale gdy ukryles swoje oblicze, strwozylem sie. </v>
+<v n="8"> Wolalem do ciebie, PANIE, modlilem sie do PANA: </v>
+<v n="9"> Jaki pozytek z mojej krwi, gdybym zstapil do dolu? Czy proch bedzie cie chwalic? Czy bedzie glosic twoja prawde? </v>
+<v n="10"> Uslysz, PANIE, i zmiluj sie nade mna; PANIE, badz moim pomocnikiem. </v>
+<v n="11"> Moj placz zmieniles w taniec, zdjales ze mnie wor pokutny, a przepasales mnie radoscia; </v>
+<v n="12"> Aby moja chwala spiewala ci i nie milkla; PANIE, moj Boze, bede cie wyslawiac na wieki. </v>
+</c>

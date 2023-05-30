@@ -1,0 +1,25 @@
+<v n="1"> Biada Arielu, Arielu, miasto, w ktorym mieszkal Dawid. Dodawajcie rok do roku, niech zarzynaja barany. </v>
+<v n="2"> Zesle jednak ucisk na Ariela i nastanie smutek i lament, i bedzie mi jak Ariel. </v>
+<v n="3"> Rozbije oboz przeciwko tobie dokola, otocze cie walami i wzniose przeciwko tobie baszty. </v>
+<v n="4"> Wtedy ponizony bedziesz mowil z ziemi, z prochu ledwie wyjdzie twoja mowa i twoj glos bedzie mowil z ziemi jak glos czarownika, a twoja mowa z prochu jak szept. </v>
+<v n="5"> Mnostwo twoich wrogow bedzie jak drobny pyl, a zgraja okrutnikow jak rozwiane plewy. A stanie sie to nagle, w okamgnieniu. </v>
+<v n="6"> Zostaniesz nawiedzony od PANA zastepow grzmotem, trzesieniem ziemi i wielkim hukiem, wichura, burza i plomieniem trawiacego ognia. </v>
+<v n="7"> Jak sen nocnego widzenia bedzie zgraja wszystkich narodow walczacych przeciwko Arielowi i wszystkich, ktorzy walcza przeciwko niemu i jego twierdzom, oraz tych, ktorzy go uciskaja. </v>
+<v n="8"> Bedzie tak jak wtedy, gdy sni sie glodnemu, ze je, ale gdy sie obudzi, ma pusty zoladek; i jak wtedy, gdy sni sie spragnionemu, ze pije, a gdy sie obudzi, nadal jest slaby i jego dusza jest spragniona. Tak bedzie ze zgraja wszystkich narodow walczacych przeciwko gorze Syjon. </v>
+<v n="9"> Zatrzymujcie sie i zdumiewajcie; rozkoszujcie, chocbyscie mieli wolac na pomoc. Upili sie, ale nie winem; zataczaja sie, ale nie od mocnego napoju. </v>
+<v n="10"> PAN bowiem wylal na was ducha twardego snu i zamknal wasze oczy. Oczy waszych prorokow i ksiazat, widzacych, zaslonil. </v>
+<v n="11"> Dlatego cale to widzenie stalo sie dla was jak slowa zapieczetowanej ksiegi, ktora podaje sie temu, kto umie czytac, mowiac: Przeczytaj to, prosze, na co odpowiada: Nie moge, bo jest zapieczetowana. </v>
+<v n="12"> A jesli podaje sie ksiege temu, kto nie umie czytac, mowiac: Czytaj to, prosze, ten wtedy odpowiada: Nie umiem czytac. </v>
+<v n="13"> Mowi wiec PAN: Poniewaz ten lud zbliza sie do mnie swymi ustami i czci mnie swymi wargami, a jego serce jest daleko ode mnie i jego bojazn wobec mnie jest wyuczona przez nakazy ludzi; </v>
+<v n="14"> Dlatego ja bede postepowal przedziwnie z tym ludem, przedziwnie i cudownie; zginie madrosc jego madrych, a rozum jego roztropnych sie skryje. </v>
+<v n="15"> Biada tym, ktorzy gleboko przed PANEM ukrywaja swoj zamysl, ktorych czyny sa popelnione w ciemnosci i mowia: Kto nas widzi? Kto o nas wie? </v>
+<v n="16"> Wasze przewrotne mysli sa jak glina garncarska. Czyz glina powie o tym, co ja uczynil: Nie uczynil mnie? Czyz to, co ulepione, powie o tym, co je ulepil: Nie mial rozumu? </v>
+<v n="17"> Czyz nie w bardzo krotkim czasie Liban obroci sie w pole, a pole bedzie uwazane za las? </v>
+<v n="18"> Tego dnia glusi uslysza slowa ksiegi, a oczy slepych przejrza z mroku i ciemnosci. </v>
+<v n="19"> Cisi jeszcze bardziej sie rozwesela w PANU, a ubodzy sposrod ludzi rozraduja sie w Swietym Izraela. </v>
+<v n="20"> Gdyz nastanie kres dla okrutnika, zniszczeje szyderca i zostana wytepieni wszyscy, ktorzy czyhaja na nieprawosc; </v>
+<v n="21"> Ktorzy obwiniaja czlowieka za slowo, zastawiaja sidlo na tego, ktory ich strofuje w bramie, i bez powodu doprowadzaja sprawiedliwego do upadku. </v>
+<v n="22"> Dlatego tak mowi PAN, ktory odkupil Abrahama, o domu Jakuba: Jakub juz wiecej nie zazna wstydu ani jego twarz juz nie zblednie. </v>
+<v n="23"> Gdy bowiem ujrzy posrod siebie swoich synow, dzielo moich rak, poswieca moje imie, poswieca Swietego Jakuba, i beda sie bac Boga Izraela. </v>
+<v n="24"> Ci, ktorzy bladzili duchem, nabiora rozumu, ci, ktorzy szemrali, przyjma nauke. </v>
+</c>

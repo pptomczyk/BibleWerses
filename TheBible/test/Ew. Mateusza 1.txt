@@ -1,0 +1,26 @@
+<v n="1"> Ksiega rodu Jezusa Chrystusa, syna Dawida, syna Abrahama. </v>
+<v n="2"> Abraham splodzil Izaaka, a Izaak splodzil Jakuba, a Jakub splodzil Jude i jego braci. </v>
+<v n="3"> A Juda splodzil z Tamar Faresa i Zare, a Fares splodzil Ezroma, a Ezrom splodzil Arama. </v>
+<v n="4"> A Aram splodzil Aminadaba, a Aminadab splodzil Naasona, a Naason splodzil Salmona. </v>
+<v n="5"> A Salmon splodzil z Rachab Booza, a Booz splodzil z Rut Obeda, a Obed splodzil Jessego. </v>
+<v n="6"> A Jesse splodzil krola Dawida, a krol Dawid splodzil Salomona z tej, ktora byla zona Uriasza. </v>
+<v n="7"> A Salomon splodzil Roboama, a Roboam splodzil Abiasza, a Abiasz splodzil Aze. </v>
+<v n="8"> A Aza splodzil Jozafata, a Jozafat splodzil Jorama, a Joram splodzil Ozjasza. </v>
+<v n="9"> A Ozjasz splodzil Joatama, a Joatam splodzil Achaza, a Achaz splodzil Ezechiasza. </v>
+<v n="10"> A Ezechiasz splodzil Manassesa, a Manasses splodzil Amona, a Amon splodzil Jozjasza. </v>
+<v n="11"> A Jozjasz splodzil Jechoniasza i jego braci w czasie uprowadzenia do Babilonu. </v>
+<v n="12"> A po uprowadzeniu do Babilonu Jechoniasz splodzil Salatiela, a Salatiel splodzil Zorobabela. </v>
+<v n="13"> A Zorobabel splodzil Abiuda, a Abiud splodzil Eliakima, a Eliakim splodzil Azora. </v>
+<v n="14"> A Azor splodzil Sadoka, a Sadok splodzil Achima, a Achim splodzil Eliuda. </v>
+<v n="15"> A Eliud splodzil Eleazara, a Eleazar splodzil Matana, a Matan splodzil Jakuba. </v>
+<v n="16"> A Jakub splodzil Jozefa, meza Marii, z ktorej narodzil sie Jezus, zwany Chrystusem. </v>
+<v n="17"> Tak wiec wszystkich pokolen od Abrahama az do Dawida jest czternascie; a od Dawida az do uprowadzenia do Babilonu – pokolen czternascie; a od uprowadzenia do Babilonu az do Chrystusa – pokolen czternascie. </v>
+<v n="18"> A z narodzeniem Jezusa Chrystusa bylo tak: Gdy Maria, jego matka, zostala zaslubiona Jozefowi, zanim sie zeszli, okazalo sie, ze jest brzemienna z Ducha Swietego. </v>
+<v n="19"> Ale Jozef, jej maz, bedac sprawiedliwym i nie chcac jej znieslawic, chcial ja potajemnie oddalic. </v>
+<v n="20"> A gdy o tym rozmyslal, oto aniol Pana ukazal mu sie we snie i powiedzial: Jozefie, synu Dawida, nie boj sie przyjac Marii, twojej zony. To bowiem, co sie w niej poczelo, jest z Ducha Swietego. </v>
+<v n="21"> I urodzi syna, ktoremu nadasz imie Jezus. On bowiem zbawi swoj lud od jego grzechow. </v>
+<v n="22"> A to wszystko sie stalo, aby sie wypelnilo, co powiedzial Pan przez proroka: </v>
+<v n="23"> Oto dziewica bedzie brzemienna i urodzi syna, ktoremu nadadza imie Emmanuel, co sie tlumaczy: Bog z nami. </v>
+<v n="24"> Wtedy Jozef, obudziwszy sie ze snu, uczynil tak, jak mu rozkazal aniol Pana, i przyjal swoja zone. </v>
+<v n="25"> Ale nie obcowal z nia, dopoki nie urodzila swego pierworodnego syna, ktoremu nadal imie Jezus. </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> Có¿ wiêc powiemy? Czy mamy trwaæ w grzechu, aby ³aska obfitowa³a? </v>
+<v n="2"> Nie daj Bo¿e! My, którzy umarliœmy dla grzechu, jak¿e mo¿emy jeszcze w nim ¿yæ? </v>
+<v n="3"> Czy¿ nie wiecie, ¿e my wszyscy, którzy zostaliœmy ochrzczeni w Jezusie Chrystusie, w jego œmierci zostaliœmy ochrzczeni? </v>
+<v n="4"> Zostaliœmy wiêc pogrzebani z nim przez chrzest w œmierci, aby jak Chrystus zosta³ wskrzeszony z martwych przez chwa³ê Ojca, tak ¿ebyœmy i my postêpowali w nowoœci ¿ycia. </v>
+<v n="5"> Jeœli bowiem zostaliœmy z nim wszczepieni w podobieñstwo jego œmierci, to bêdziemy te¿ z nim wszczepieni w podobieñstwo zmartwychwstania; </v>
+<v n="6"> Wiedz¹c o tym, ¿e nasz stary cz³owiek zosta³ ukrzy¿owany razem z nim, aby cia³o grzechu zosta³o zniszczone, ¿ebyœmy ju¿ wiêcej nie s³u¿yli grzechowi. </v>
+<v n="7"> Kto bowiem umar³, zosta³ uwolniony od grzechu. </v>
+<v n="8"> Jeœli wiêc umarliœmy z Chrystusem, wierzymy, ¿e te¿ z nim bêdziemy ¿yæ; </v>
+<v n="9"> Wiedz¹c, ¿e Chrystus, powstawszy z martwych, wiêcej nie umiera i œmieræ nad nim wiêcej nie panuje. </v>
+<v n="10"> To bowiem, ¿e umar³, raz umar³ dla grzechu, a ¿e ¿yje, ¿yje dla Boga. </v>
+<v n="11"> Tak i wy uwa¿ajcie siebie za martwych dla grzechu, a ¿ywych dla Boga w Jezusie Chrystusie, naszym Panu. </v>
+<v n="12"> Niech¿e wiêc grzech nie króluje w waszym œmiertelnym ciele, ¿ebyœcie mieli mu byæ pos³uszni w jego po¿¹dliwoœciach. </v>
+<v n="13"> I nie oddawajcie waszych cz³onków jako orê¿a niesprawiedliwoœci grzechowi, ale oddawajcie samych siebie Bogu jako o¿ywieni z martwych i wasze cz³onki jako orê¿ sprawiedliwoœci Bogu. </v>
+<v n="14"> Grzech bowiem nie bêdzie nad wami panowa³, bo nie jesteœcie pod prawem, lecz pod ³ask¹. </v>
+<v n="15"> Có¿ wiêc? Bêdziemy grzeszyæ, bo nie jesteœmy pod prawem, ale pod ³ask¹? Nie daj Bo¿e! </v>
+<v n="16"> Czy¿ nie wiecie, ¿e komu oddajecie siebie jako s³udzy w pos³uszeñstwo, komu jesteœcie pos³uszni, tego jesteœcie s³ugami: b¹dŸ grzechu ku œmierci, b¹dŸ pos³uszeñstwa ku sprawiedliwoœci? </v>
+<v n="17"> Ale chwa³a Bogu, ¿e gdy byliœcie s³ugami grzechu, us³uchaliœcie z serca wzoru tej nauki, której siê poddaliœcie; </v>
+<v n="18"> A bêd¹c uwolnieni od grzechu, staliœcie siê s³ugami sprawiedliwoœci. </v>
+<v n="19"> Po ludzku mówiê, z powodu s³aboœci waszego cia³a. Jak bowiem oddawaliœcie wasze cz³onki na s³u¿bê nieczystoœci i nieprawoœci, aby czyniæ nieprawoœæ, tak teraz oddawajcie wasze cz³onki na s³u¿bê sprawiedliwoœci, abyœcie byli uœwiêceni. </v>
+<v n="20"> Dopóki bowiem byliœcie s³ugami grzechu, byliœcie wolni od sprawiedliwoœci. </v>
+<v n="21"> Jaki¿ wiêc wówczas mieliœcie po¿ytek z tych rzeczy, których siê teraz wstydzicie? Ich bowiem koñcem jest œmieræ. </v>
+<v n="22"> Lecz teraz, uwolnieni od grzechu, gdy staliœcie siê s³ugami Boga, macie swój po¿ytek ku uœwiêceniu, a na koñcu ¿ycie wieczne. </v>
+<v n="23"> Zap³at¹ bowiem za grzech jest œmieræ, ale darem ³aski Boga jest ¿ycie wieczne w Jezusie Chrystusie, naszym Panu. </v>
+</c>

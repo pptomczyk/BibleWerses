@@ -1,0 +1,16 @@
+<v n="1"> Psalm i piesn na dzien szabatu. Dobra rzecza jest wyslawiac PANA i spiewac twemu imieniu, o Najwyzszy. </v>
+<v n="2"> Glosic rankiem twoje milosierdzie, a nocami twoja wiernosc; </v>
+<v n="3"> Na instrumencie o dziesieciu strunach, na cytrze i na harfie ze spiewaniem. </v>
+<v n="4"> Ty bowiem rozradowales mnie, PANIE, twymi czynami; bede spiewac o dzielach twoich rak. </v>
+<v n="5"> Jakze wielkie sa twoje dziela, PANIE; bardzo glebokie sa twoje mysli. </v>
+<v n="6"> Prostak nie zna, a glupi tego nie rozumie: </v>
+<v n="7"> Gdy niegodziwi wyrastaja jak ziele i kwitna wszyscy czyniacy nieprawosc, to tylko po to, aby byli wykorzenieni az na wieki; </v>
+<v n="8"> Ty zas, PANIE, jestes Najwyzszy na wieki. </v>
+<v n="9"> Oto bowiem twoi wrogowie, PANIE, oto bowiem twoi wrogowie zgina, rozprosza sie wszyscy czyniacy nieprawosc. </v>
+<v n="10"> Ale moj rog wzniesiesz jak u jednorozca, bede namaszczony swiezym olejem. </v>
+<v n="11"> I moje oko zobaczy nieszczescie tych, ktorzy na mnie czyhaja; moje uszy uslysza o klesce zloczyncow, ktorzy powstaja przeciwko mnie. </v>
+<v n="12"> Sprawiedliwy zakwitnie jak palma, rozrosnie sie jak cedr na Libanie. </v>
+<v n="13"> Zasadzeni w domu PANA rozkwitna na dziedzincach naszego Boga. </v>
+<v n="14"> Nawet w starosci wydadza owoc, pelni sil i kwitnacy; </v>
+<v n="15"> Aby opowiadac, ze PAN jest prawy; on jest moja skala i nie ma w nim zadnej nieprawosci. </v>
+</c>

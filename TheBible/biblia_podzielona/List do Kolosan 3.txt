@@ -1,0 +1,26 @@
+<v n="1"> Jeœli wiêc razem z Chrystusem powstaliœcie z martwych, szukajcie tego, co w górze, gdzie Chrystus zasiada po prawicy Boga. </v>
+<v n="2"> Myœlcie o tym, co w górze, nie o tym, co na ziemi. </v>
+<v n="3"> Umarliœcie bowiem i wasze ¿ycie jest ukryte z Chrystusem w Bogu. </v>
+<v n="4"> Lecz gdy siê Chrystus, nasze ¿ycie, uka¿e, wtedy i wy razem z nim uka¿ecie siê w chwale. </v>
+<v n="5"> Umartwiajcie wiêc wasze cz³onki, które s¹ na ziemi: nierz¹d, nieczystoœæ, namiêtnoœæ, z³e ¿¹dze i chciwoœæ, która jest ba³wochwalstwem; </v>
+<v n="6"> Z powodu których przychodzi gniew Bo¿y na synów niepos³uszeñstwa. </v>
+<v n="7"> I wy niegdyœ tak postêpowaliœcie, gdy ¿yliœcie w nich. </v>
+<v n="8"> Lecz teraz i wy odrzuæcie to wszystko: gniew, zapalczywoœæ, z³oœliwoœæ, bluŸnierstwo i nieprzyzwoite s³owa z waszych ust. </v>
+<v n="9"> Nie ok³amujcie siê wzajemnie, skoro zrzuciliœcie z siebie starego cz³owieka z jego uczynkami; </v>
+<v n="10"> A przyodzialiœcie siê w nowego, który siê odnawia w poznaniu na obraz tego, który go stworzy³. </v>
+<v n="11"> Gdzie nie ma Greka ani ¯yda, obrzezanego ani nieobrzezanego, cudzoziemca ani Scyty, niewolnika ani wolnego, ale wszystkim i we wszystkich Chrystus. </v>
+<v n="12"> Tak wiêc jako wybrani Boga, œwiêci i umi³owani, przyodziejcie siê w serdeczne mi³osierdzie, dobroæ, pokorê, ³agodnoœæ, cierpliwoœæ; </v>
+<v n="13"> Znosz¹c jedni drugich i przebaczaj¹c sobie nawzajem, jeœli ktoœ ma skargê przeciw drugiemu: jak i Chrystus przebaczy³ wam, tak i wy. </v>
+<v n="14"> A nade wszystko przyodziejcie siê w mi³oœæ, która jest wiêzi¹ doskona³oœci. </v>
+<v n="15"> A pokój Bo¿y niech rz¹dzi w waszych sercach, do którego te¿ jesteœcie powo³ani w jednym ciele. B¹dŸcie te¿ wdziêczni. </v>
+<v n="16"> S³owo Chrystusa niech mieszka w was obficie ze wszelk¹ m¹droœci¹, nauczajcie i napominajcie siê wzajemnie przez psalmy, hymny i pieœni duchowe, z wdziêcznoœci¹ œpiewaj¹c w waszych sercach Panu. </v>
+<v n="17"> A wszystko, co czynicie w s³owie lub w uczynku, wszystko czyñcie w imiê Pana Jezusa, dziêkuj¹c Bogu i Ojcu przez niego. </v>
+<v n="18"> ¯ony, b¹dŸcie poddane swym mê¿om, jak przystoi w Panu. </v>
+<v n="19"> Mê¿owie, mi³ujcie wasze ¿ony i nie b¹dŸcie surowi wobec nich. </v>
+<v n="20"> Dzieci, b¹dŸcie pos³uszne rodzicom we wszystkim, to bowiem podoba siê Panu. </v>
+<v n="21"> Ojcowie, nie pobudzajcie do gniewu waszych dzieci, aby nie upada³y na duchu. </v>
+<v n="22"> S³udzy, b¹dŸcie pos³uszni we wszystkim ziemskim panom, nie s³u¿¹c dla oka, jak ci, którzy chc¹ siê podobaæ ludziom, lecz w szczeroœci serca, boj¹c siê Boga. </v>
+<v n="23"> A wszystko, co czynicie, z serca czyñcie, jak dla Pana, a nie dla ludzi; </v>
+<v n="24"> Wiedz¹c, ¿e od Pana otrzymacie dziedzictwo jako zap³atê, gdy¿ s³u¿ycie Panu Chrystusowi. </v>
+<v n="25"> A ten, kto wyrz¹dza krzywdê, otrzyma zap³atê za krzywdê, a u Boga nie ma wzglêdu na osobê. </v>
+</c>

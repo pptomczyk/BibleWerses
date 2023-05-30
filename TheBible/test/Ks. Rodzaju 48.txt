@@ -1,0 +1,23 @@
+<v n="1"> Gdy to sie stalo, dano znac Jozefowi: Oto twoj ojciec zachorowal. Wzial wiec ze soba swoich dwoch synow, Manassesa i Efraima. </v>
+<v n="2"> I powiedziano Jakubowi: Oto twoj syn Jozef idzie do ciebie. A Izrael zebral sile i usiadl na lozu. </v>
+<v n="3"> Wtedy Jakub powiedzial do Jozefa: Bog Wszechmogacy ukazal mi sie w Luz, w ziemi Kanaan, i blogoslawil mi. </v>
+<v n="4"> I powiedzial do mnie: Oto ja uczynie cie plodnym i rozmnoze cie, i wywiode z ciebie wielki lud. I dam te ziemie twemu potomstwu po tobie w wieczne dziedzictwo. </v>
+<v n="5"> Dlatego teraz twoi dwaj synowie, Efraim i Manasses, ktorzy urodzili ci sie w ziemi Egiptu, zanim przyszedlem tu do ciebie do Egiptu, sa moimi. Beda moi jak Ruben i Symeon. </v>
+<v n="6"> Ale twoje dzieci, ktore splodzisz po nich, beda twoje; beda zwane w swych posiadlosciach imieniem swoich braci. </v>
+<v n="7"> A gdy wracalem z Paddan, umarla mi Rachela w ziemi Kanaan, w drodze, gdy bylem jeszcze w niewielkiej odleglosci od Efraty, i pogrzebalem ja tam przy drodze do Efraty, czyli Betlejem. </v>
+<v n="8"> A gdy Izrael zobaczyl synow Jozefa, zapytal: Czyi oni sa? </v>
+<v n="9"> Jozef odpowiedzial swemu ojcu: To sa moi synowie, ktorych Bog dal mi tutaj. A on powiedzial: Prosze, przyprowadz ich do mnie, abym im blogoslawil. </v>
+<v n="10"> A oczy Izraela byly tak slabe ze starosci, ze nie mogl widziec. I przyprowadzil ich do niego, a Jakub ich pocalowal i uscisnal. </v>
+<v n="11"> Potem Izrael powiedzial do Jozefa: Nie spodziewalem sie, ze bede jeszcze ogladal twoja twarz, a oto Bog dal mi widziec nawet twoje potomstwo. </v>
+<v n="12"> Wtedy Jozef odsunal ich od jego kolan i poklonil sie twarza az do ziemi. </v>
+<v n="13"> Potem Jozef wzial obydwu i postawil Efraima po swojej prawej rece, czyli po lewej stronie Izraela; a Manassesa po swojej lewej rece, czyli po prawej stronie Izraela, i przyprowadzil ich do niego. </v>
+<v n="14"> Izrael wyciagnal swoja prawa reke, polozyl ja na glowe Efraima, ktory byl mlodszy, a swoja lewa reke na glowe Manassesa, umyslnie pokladajac swoje rece, choc pierworodny byl Manasses. </v>
+<v n="15"> I blogoslawil Jozefowi, mowiac: Bog, przed ktorego obliczem chodzili moi ojcowie, Abraham i Izaak, Bog, ktory mnie zywil od mej mlodosci az do dzis; </v>
+<v n="16"> Aniol, ktory wybawil mnie ze wszelkiego zla, niech blogoslawi tym chlopcom i niech beda nazywani od mego imienia i od imienia moich ojcow, Abrahama i Izaaka, i niech sie rozmnoza na ziemi. </v>
+<v n="17"> A gdy Jozef zobaczyl, ze jego ojciec polozyl swoja prawa reke na glowe Efraima, nie podobalo mu sie to. Wzial wiec reke swego ojca, aby ja przeniesc z glowy Efraima na glowe Manassesa. </v>
+<v n="18"> I Jozef powiedzial do swego ojca: Nie tak, moj ojcze. Ten bowiem jest pierworodny, poloz swoja prawa reke na jego glowe. </v>
+<v n="19"> Ale jego ojciec wzbranial sie i powiedzial: Wiem, moj synu, wiem. Ten tez stanie sie ludem i on tez urosnie, ale jego mlodszy brat go przewyzszy, a z jego potomstwa wyjdzie mnostwo narodow. </v>
+<v n="20"> Blogoslawil im wiec tego dnia, mowiac: Przez ciebie Izrael bedzie blogoslawil, mowiac: Niech Bog cie uczyni jak Efraim i jak Manasses. Tak wyroznil Efraima przed Manassesem. </v>
+<v n="21"> Potem Izrael powiedzial do Jozefa: Oto ja umieram, ale Bog bedzie z wami i przywroci was do ziemi waszych ojcow. </v>
+<v n="22"> Oto daje ci jedna czesc wiecej niz twoim braciom, ktora nabylem moim mieczem i moim lukiem z reki Amorytow. </v>
+</c>

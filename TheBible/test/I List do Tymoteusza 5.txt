@@ -1,0 +1,26 @@
+<v n="1"> Starszego czlowieka nie strofuj, lecz naklaniaj jak ojca, mlodszych – jak braci; </v>
+<v n="2"> Starsze kobiety – jak matki, mlodsze – jak siostry, z cala czystoscia. </v>
+<v n="3"> Okazuj szacunek wdowom, ktore rzeczywiscie sa wdowami. </v>
+<v n="4"> Jesli zas jakas wdowa ma dzieci lub wnuki, niech sie one najpierw ucza byc poboznymi wzgledem wlasnego domu i odwzajemniac sie rodzicom; jest to bowiem rzecz dobra i mila w oczach Boga. </v>
+<v n="5"> Ta zas, ktora rzeczywiscie jest wdowa i jest osamotniona, poklada nadzieje w Bogu i trwa w prosbach i modlitwach we dnie i w nocy. </v>
+<v n="6"> Lecz ta, ktora oddaje sie rozkoszom, jest martwa, chociaz zyje. </v>
+<v n="7"> To wiec nakazuj, zeby byly nienaganne. </v>
+<v n="8"> A jesli ktos nie dba o swoich, a zwlaszcza o domownikow, ten wyparl sie wiary i gorszy jest od niewierzacego. </v>
+<v n="9"> Do wdow niech bedzie zaliczona taka, ktora nie ma mniej niz szescdziesiat lat, byla zona jednego meza; </v>
+<v n="10"> Znana z dobrych uczynkow, jesli wychowala dzieci, jesli udzielala gosciny, jesli obmywala nogi swietym, jesli wspomagala strapionych, jesli wykonywala kazdy dobry uczynek. </v>
+<v n="11"> Natomiast mlodszych wdow do nich nie zaliczaj, bo gdy rozkosze odwodza je od Chrystusa, chca wyjsc za maz; </v>
+<v n="12"> Sciagajac na siebie potepienie, poniewaz odrzucily pierwsza wiare. </v>
+<v n="13"> Co wiecej, ucza sie bezczynnosci, chodzac od domu do domu, i nie tylko sa bezczynne, lecz tez gadatliwe, wscibskie, mowiace to, co nie wypada. </v>
+<v n="14"> Chce wiec, zeby mlodsze wychodzily za maz, rodzily dzieci, zajmowaly sie domem, nie dawaly przeciwnikowi zadnego powodu do obmowy. </v>
+<v n="15"> Juz bowiem niektore odwrocily sie i poszly za szatanem. </v>
+<v n="16"> A jesli jakis wierzacy lub wierzaca ma w rodzinie wdowy, niech im pomaga, aby kosciol nie byl obciazony i mogl przyjsc z pomoca tym, ktore rzeczywiscie sa wdowami. </v>
+<v n="17"> Starsi, ktorzy dobrze przewodza, niech beda uwazani za godnych podwojnej czci, a zwlaszcza ci, ktorzy pracuja w slowie i w nauce. </v>
+<v n="18"> Mowi bowiem Pismo: Mlocacemu wolowi nie zawiazesz pyska, oraz: Godny jest robotnik swojej zaplaty. </v>
+<v n="19"> Nie przyjmuj oskarzenia przeciwko starszemu, chyba ze na podstawie zeznania dwoch albo trzech swiadkow. </v>
+<v n="20"> A tych, ktorzy grzesza, strofuj w obecnosci wszystkich, aby i inni sie bali. </v>
+<v n="21"> Zaklinam cie wobec Boga i Pana Jezusa Chrystusa, i wybranych aniolow, abys tego przestrzegal, nie majac wzgledu na osoby, nie kierujac sie stronniczoscia. </v>
+<v n="22"> Rak na nikogo pospiesznie nie wkladaj ani nie badz uczestnikiem cudzych grzechow. Siebie samego zachowaj czystym. </v>
+<v n="23"> Samej wody juz nie pij, ale uzywaj troche wina ze wzgledu na twoj zoladek i czeste niedomagania. </v>
+<v n="24"> Grzechy niektorych ludzi sa jawne, jeszcze zanim zostana osadzone, a za niektorymi ida w slad. </v>
+<v n="25"> Podobnie dobre uczynki sa jawne, a te, ktore nie sa, pozostac w ukryciu nie moga. </v>
+</c>

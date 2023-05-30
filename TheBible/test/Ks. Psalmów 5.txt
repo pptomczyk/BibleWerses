@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi choru, na Nechylot. Psalm Dawida. Naklon ucha ku moim slowom, PANIE, zwaz na moje westchnienie. </v>
+<v n="2"> Sluchaj pilnie glosu mego wolania, moj Krolu i moj Boze, bo sie do ciebie modle. </v>
+<v n="3"> PANIE, z rana uslyszysz moj glos, z rana zaniose do ciebie modlitwe i bede czekal. </v>
+<v n="4"> Ty bowiem nie jestes Bogiem, ktory miluje nieprawosc, zly z toba nie zamieszka. </v>
+<v n="5"> Glupcy nie ostoja sie przed twymi oczyma. Nienawidzisz wszystkich czyniacych nieprawosc. </v>
+<v n="6"> Wytracisz tych, ktorzy mowia klamstwa. PAN brzydzi sie czlowiekiem krwawym i podstepnym. </v>
+<v n="7"> Lecz ja dzieki obfitosci twego milosierdzia wejde do twego domu, oddam poklon przed twoim swietym przybytkiem w twojej bojazni. </v>
+<v n="8"> Prowadz mnie, PANIE, w swojej sprawiedliwosci ze wzgledu na moich wrogow; wyprostuj przede mna twoja droge. </v>
+<v n="9"> Bo w ich ustach nie ma szczerosci, ich wnetrze pelne przewrotnosci, ich gardlo jest grobem otwartym, swoim jezykiem pochlebiaja. </v>
+<v n="10"> Spustosz ich, Boze! Niech upadna przez wlasne zamiary. Z powodu ich licznych wystepkow odtrac ich, poniewaz buntuja sie przeciwko tobie. </v>
+<v n="11"> Lecz niech sie raduja wszyscy, ktorzy tobie ufaja; niech zawsze wykrzykuja z radosci, bo ty bedziesz ich oslanial. Niech rozraduja sie w tobie ci, ktorzy miluja twoje imie. </v>
+<v n="12"> Ty bowiem, PANIE, bedziesz blogoslawil sprawiedliwego, oslonisz go dobrocia jak tarcza. </v>
+</c>

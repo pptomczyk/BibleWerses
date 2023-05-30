@@ -1,0 +1,24 @@
+<v n="1"> Potem Dawid odszedl stamtad i uciekl do jaskini Adullam. Kiedy jego bracia i cala rodzina jego ojca uslyszeli o tym, przyszli tam do niego. </v>
+<v n="2"> I zebrali sie wokol niego wszyscy, ktorzy byli ucisnieni, wszyscy, ktorzy byli zadluzeni, oraz wszyscy, ktorzy byli rozgoryczeni, a on stal sie ich przywodca. I bylo przy nim okolo czterystu mezczyzn. </v>
+<v n="3"> Stamtad Dawid poszedl do Mispy w Moabie i powiedzial do krola Moabu: Pozwol, prosze, by moj ojciec i moja matka przyszli i mieszkali z wami, az sie dowiem, co Bog ze mna uczyni. </v>
+<v n="4"> Przyprowadzil ich wiec przed krola Moabu i mieszkali u niego przez wszystkie dni, kiedy Dawid przebywal w warowni. </v>
+<v n="5"> Potem prorok Gad powiedzial do Dawida: Nie pozostawaj w warowni. Wyrusz i wroc do ziemi judzkiej. Dawid wyruszyl wiec i przybyl do lasu Cheret. </v>
+<v n="6"> W czasie gdy Saul uslyszal, ze pojawil sie Dawid oraz ludzie, ktorzy z nim byli, Saul przebywal w Gibea pod drzewem w Rama, z wlocznia w reku, a wszyscy jego sludzy stali przy nim. </v>
+<v n="7"> Saul powiedzial wiec do swych slug, ktorzy stali przy nim: Sluchajcie, Beniaminici: Czy syn Jessego da wam wszystkim pola i winnice i czy wszystkich was ustanowi tysiacznikami i setnikami? </v>
+<v n="8"> Czy dlatego sprzysiegliscie sie wszyscy przeciwko mnie i nie ma nikogo, kto by mi wyjawil, ze moj syn zawarl przymierze z synem Jessego, i nie ma nikogo wsrod was, kto by mi wspolczul i powiadomil mnie, ze moj syn podburzyl mego sluge przeciwko mnie, aby czyhal na mnie, jak to jest dzisiaj? </v>
+<v n="9"> Wtedy Doeg Edomita, przelozony slug Saula, odpowiedzial: Widzialem syna Jessego, gdy przyszedl do Nob, do Achimeleka, syna Achituba. </v>
+<v n="10"> Ten radzil sie PANA w jego sprawie i dal mu zywnosc, dal mu tez miecz Goliata Filistyna. </v>
+<v n="11"> Wtedy krol poslal, by wezwac kaplana Achimeleka, syna Achituba, i caly dom jego ojca, czyli kaplanow, ktorzy byli w Nob. I wszyscy oni przyszli do krola. </v>
+<v n="12"> Saul powiedzial: Sluchaj teraz, synu Achituba. A ten odpowiedzial: Oto jestem, moj panie. </v>
+<v n="13"> Saul zapytal go: Dlaczego sprzysiegliscie sie przeciwko mnie, ty i syn Jessego, ze dales mu chleb i miecz i radziles sie Boga w jego sprawie, by powstal przeciwko mnie, czyhajac na mnie, jak to jest dzisiaj? </v>
+<v n="14"> Achimelek odpowiedzial krolowi: I ktoz sposrod wszystkich twoich slug jest tak wierny jak Dawid, ziec krola, ktory wyrusza na twoj rozkaz i jest szanowany w twoim domu? </v>
+<v n="15"> Czyz dopiero dzis zaczalem radzic sie Boga w jego sprawie? Dalekie to ode mnie! Niech krol nie obciaza swego slugi ani calego domu mego ojca o nic takiego. Twoj sluga bowiem nie mial o tym wszystkim najmniejszego pojecia. </v>
+<v n="16"> Krol powiedzial: Musisz umrzec, Achimeleku, ty i caly dom twego ojca. </v>
+<v n="17"> Potem krol nakazal slugom, ktorzy stali przy nim: Odwroccie sie i zabijcie kaplanow PANA, gdyz ich reka takze jest z Dawidem, a chociaz wiedzieli, ze on uciekl, nie powiadomili mnie. Lecz sludzy krola nie chcieli podniesc reki na kaplanow PANA i rzucic sie na nich. </v>
+<v n="18"> Wtedy krol powiedzial do Doega: Odwroc sie i rzuc na kaplanow. I Doeg Edomita odwrocil sie i rzucil na kaplanow, i zabil w tym dniu osiemdziesieciu pieciu mezczyzn noszacych lniany efod. </v>
+<v n="19"> Rowniez Nob, miasto kaplanow, wybil ostrzem miecza: mezczyzn i kobiety, dzieci i niemowleta, woly, osly i owce – wszystko to ostrzem miecza. </v>
+<v n="20"> Uszedl tylko jeden syn Achimeleka, syna Achituba, imieniem Abiatar, uciekl on do Dawida. </v>
+<v n="21"> Abiatar zawiadomil Dawida, ze Saul zabil kaplanow PANA. </v>
+<v n="22"> I Dawid powiedzial do Abiatara: Wiedzialem juz tego dnia, gdy byl tam Doeg Edomita, ze z pewnoscia doniesie o tym Saulowi. To ja spowodowalem smierc wszystkich osob domu twego ojca. </v>
+<v n="23"> Zostan ze mna, nie boj sie. Kto bowiem czyha na moje zycie, czyha tez na twoje zycie. Lecz u mnie bedziesz bezpieczny. </v>
+</c>

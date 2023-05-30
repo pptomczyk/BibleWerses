@@ -1,0 +1,23 @@
+<v n="1"> Slowo, ktore widzial Izajasz, syn Amosa, dotyczace Judy i Jerozolimy. </v>
+<v n="2"> Stanie sie w dniach ostatecznych, ze gora domu PANA bedzie utwierdzona na szczycie gor i wywyzszona ponad pagorki; i wszystkie narody poplyna do niej. </v>
+<v n="3"> I pojdzie wiele ludow, i powie: Chodzcie, wstapmy na gore PANA, do domu Boga Jakuba; on bedzie nas uczyl swoich drog, a my bedziemy kroczyli jego sciezkami. Z Syjonu bowiem wyjdzie prawo, a slowo PANA z Jerozolimy. </v>
+<v n="4"> On bedzie sadzil wsrod narodow i karcil wielu ludzi. I przekuja swe miecze na lemiesze, a swoje wlocznie na sierpy. Narod przeciw narodowi nie podniesie juz miecza i nie beda sie juz cwiczyc do wojny. </v>
+<v n="5"> Domu Jakuba, chodzcie, postepujmy w swiatlosci PANA. </v>
+<v n="6"> Ale ty opusciles swoj lud, dom Jakuba, gdyz pelen jest obrzydliwosci wschodu i sa oni wrozbitami jak Filistyni, a kochaja sie w cudzych synach. </v>
+<v n="7"> Ich ziemia jest pelna srebra i zlota i nie ma konca ich skarbom. Ich ziemia jest pelna koni i nie ma konca ich rydwanom. </v>
+<v n="8"> Ich ziemia jest pelna bozkow, oni oddaja poklon dzielom wlasnych rak, ktore wykonaly ich palce. </v>
+<v n="9"> Klania sie przed nimi prosty czlowiek, poniza sie tez wielki; nie przebaczaj im. </v>
+<v n="10"> Wejdz w skale i ukryj sie w prochu ze strachu przed PANEM i przed chwala jego majestatu. </v>
+<v n="11"> Wyniosle oczy czlowieka ukorza sie, ludzka pycha bedzie ponizona, a sam tylko PAN zostanie wywyzszony w tym dniu. </v>
+<v n="12"> Przyjdzie bowiem dzien PANA zastepow przeciwko kazdemu pysznemu i wynioslemu, i przeciwko kazdemu wywyzszonemu, a kazdy zostanie ponizony; </v>
+<v n="13"> Przeciwko wszystkim cedrom Libanu, ktore sa wysokie a wyniosle, i przeciwko wszystkim debom Baszanu; </v>
+<v n="14"> Przeciwko wszystkim wysokim gorom i przeciwko wszystkim wynioslym pagorkom; </v>
+<v n="15"> Przeciwko kazdej wysokiej wiezy i przeciwko kazdemu murowi obronnemu; </v>
+<v n="16"> Przeciwko wszystkim okretom Tarszisz i przeciwko wszelkiemu pieknemu malarstwu. </v>
+<v n="17"> I wynioslosc czlowieka bedzie ugieta i pycha ludzka bedzie ponizona, a sam tylko PAN zostanie wywyzszony w tym dniu. </v>
+<v n="18"> A bozki zniszczy doszczetnie. </v>
+<v n="19"> Wtedy wejda do jaskin skalnych i do jam podziemnych ze strachu przed PANEM i przed chwala jego majestatu, gdy powstanie, by przerazic ziemie. </v>
+<v n="20"> W tym dniu czlowiek wrzuci kretom i nietoperzom swoje bozki srebrne i zlote, ktore uczynil, aby oddawac im poklon; </v>
+<v n="21"> I wejdzie w szczeliny skalne i na szczyty opok ze strachu przed PANEM i przed chwala jego majestatu, gdy powstanie, aby przerazic ziemie. </v>
+<v n="22"> Przestancie polegac na czlowieku, ktorego tchnienie jest w jego nozdrzach. Za co bowiem ma byc uznany? </v>
+</c>

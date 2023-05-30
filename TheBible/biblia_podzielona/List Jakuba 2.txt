@@ -1,0 +1,27 @@
+<v n="1"> Bracia moi, niech wiara naszego Pana Jezusa Chrystusa, Pana chwa³y, bêdzie wolna od wzglêdu na osobê. </v>
+<v n="2"> Gdyby bowiem na wasze zgromadzenie przyszed³ cz³owiek ze z³otym pierœcieniem i we wspania³ej szacie i przyszed³by te¿ ubogi w nêdznym stroju; </v>
+<v n="3"> A wy zwrócicie oczy na tego, który ma wspania³¹ szatê i powiecie: Ty usi¹dŸ tu w zaszczytnym miejscu, do ubogiego zaœ powiecie: Ty stañ tam lub usi¹dŸ tu u mego podnó¿ka; </v>
+<v n="4"> To czy nie czynicie ró¿nicy miêdzy sob¹ i nie stajecie siê sêdziami o przewrotnych myœlach? </v>
+<v n="5"> Pos³uchajcie, moi umi³owani bracia: Czy¿ Bóg nie wybra³ ubogich tego œwiata, aby byli bogatymi w wierze i dziedzicami królestwa, które obieca³ tym, którzy go mi³uj¹? </v>
+<v n="6"> Lecz wy wzgardziliœcie ubogim. Czy¿ to nie bogaci was uciskaj¹ i nie oni ci¹gn¹ was do s¹dów? </v>
+<v n="7"> Czy¿ nie oni bluŸni¹ zaszczytnemu imieniu, od którego jesteœcie nazwani? </v>
+<v n="8"> A jeœli wype³niacie królewskie prawo zgodnie z Pismem: Bêdziesz mi³owa³ swego bliŸniego jak samego siebie, dobrze czynicie. </v>
+<v n="9"> Lecz jeœli macie wzgl¹d na osobê, pope³niacie grzech i jesteœcie os¹dzeni przez prawo jako przestêpcy. </v>
+<v n="10"> Kto bowiem przestrzega ca³ego prawa, a przekroczy jedno przykazanie, staje siê winnym wszystkich. </v>
+<v n="11"> Bo ten, który powiedzia³: Nie bêdziesz cudzo³o¿y³, powiedzia³ te¿: Nie bêdziesz zabija³. Je¿eli wiêc nie cudzo³o¿ysz, ale zabijasz, jesteœ przestêpc¹ prawa. </v>
+<v n="12"> Tak mówcie i tak czyñcie, jak ci, którzy maj¹ byæ s¹dzeni przez prawo wolnoœci. </v>
+<v n="13"> S¹d bowiem bez mi³osierdzia odbêdzie siê nad tym, który nie czyni³ mi³osierdzia, a mi³osierdzie chlubi siê przeciwko s¹dowi. </v>
+<v n="14"> Jaki z tego po¿ytek, moi bracia, jeœli ktoœ mówi, ¿e ma wiarê, a nie ma uczynków? Czy wiara mo¿e go zbawiæ? </v>
+<v n="15"> Gdyby brat albo siostra nie mieli siê w co ubraæ i brakowa³oby im codziennego po¿ywienia; </v>
+<v n="16"> A ktoœ z was powiedzia³by im: IdŸcie w pokoju, ogrzejcie siê i najedzcie, a nie dalibyœcie im tego, czego potrzebuje cia³o, jaki z tego po¿ytek? </v>
+<v n="17"> Tak i wiara, jeœli nie ma uczynków, martwa jest sama w sobie. </v>
+<v n="18"> Lecz ktoœ mo¿e powiedzieæ: Ty masz wiarê, a ja mam uczynki; poka¿ mi swoj¹ wiarê bez twoich uczynków, a ja ci poka¿ê swoj¹ wiarê z moich uczynków. </v>
+<v n="19"> Ty wierzysz, ¿e jest jeden Bóg, i dobrze czynisz. Demony tak¿e wierz¹ i dr¿¹. </v>
+<v n="20"> Czy chcesz siê przekonaæ, marny cz³owieku, ¿e wiara bez uczynków jest martwa? </v>
+<v n="21"> Czy Abraham, nasz ojciec, nie zosta³ usprawiedliwiony z uczynków, gdy ofiarowa³ Izaaka, swego syna, na o³tarzu? </v>
+<v n="22"> Widzisz, ¿e wiara wspó³dzia³a³a z jego uczynkami i przez uczynki wiara sta³a siê doskona³a. </v>
+<v n="23"> I tak wype³ni³o siê Pismo, które mówi: Uwierzy³ Abraham Bogu i poczytano mu to za sprawiedliwoœæ, i zosta³ nazwany przyjacielem Boga. </v>
+<v n="24"> Widzicie wiêc, ¿e cz³owiek zostaje usprawiedliwiony z uczynków, a nie tylko z wiary. </v>
+<v n="25"> Podobnie i nierz¹dnica Rachab, czy nie z uczynków zosta³a usprawiedliwiona, gdy przyjê³a wys³anników i wypuœci³a ich inn¹ drog¹? </v>
+<v n="26"> Jak bowiem cia³o bez ducha jest martwe, tak i wiara bez uczynków jest martwa. </v>
+</c>

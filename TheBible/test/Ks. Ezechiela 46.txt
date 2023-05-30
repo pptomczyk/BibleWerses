@@ -1,0 +1,25 @@
+<v n="1"> Tak mowi Pan BOG: Brama dziedzinca wewnetrznego, ktora jest zwrocona ku wschodowi, bedzie zamknieta przez szesc dni roboczych. Ale w dniu szabatu bedzie otwarta, takze i w dniu nowiu bedzie otwarta. </v>
+<v n="2"> I ksiaze wejdzie przez przedsionek bramy zewnetrznej, i stanie przy odrzwiach tej bramy. Nastepnie kaplani zloza jego calopalenie i ofiary pojednawcze, a on odda poklon na progu bramy. Potem wyjdzie, lecz brama nie bedzie zamknieta az do wieczora. </v>
+<v n="3"> Podobnie lud tej ziemi bedzie oddawal poklon przed PANEM u wejscia tej bramy w dni szabatu i w czasie nowiu. </v>
+<v n="4"> A calopalenie, ktore ksiaze bedzie ofiarowywal PANU w dniu szabatu, bedzie sie skladalo z szesciu barankow bez skazy i jednego barana bez skazy. </v>
+<v n="5"> Ofiara z pokarmow z efy na barana, a na baranki ofiara z pokarmow bedzie wedlug woli jego reki oraz hin oliwy na efe. </v>
+<v n="6"> A na dzien nowiu ma to byc mlody cielec bez skazy oraz szesc barankow i baran bez skazy. </v>
+<v n="7"> Na ofiare z pokarmow ma ofiarowac efe na cielca, efe na barana i na baranka wedlug woli swojej reki oraz hin oliwy na efe. </v>
+<v n="8"> A gdy ksiaze bedzie wchodzil, wejdzie przez przedsionek tej bramy i wyjdzie ta sama droga. </v>
+<v n="9"> Ale gdy lud tej ziemi wejdzie przed oblicze PANA na swieta uroczyste, to ten, ktory wejdzie przez brame polnocna, aby oddac poklon, wyjdzie przez brame poludniowa; a kto wejdzie przez brame poludniowa, wyjdzie przez brame polnocna. Nie wroci przez brame, ktora wszedl, ale wyjdzie przeciwlegla. </v>
+<v n="10"> A gdy oni beda wchodzic, ksiaze wsrod nich wejdzie; a gdy beda wychodzic, wyjdzie. </v>
+<v n="11"> Takze na swieta i na uroczyste swieta ofiara z pokarmow bedzie efa na cielca, efa na barana, a na baranki wedlug woli jego reki oraz hin oliwy na efe. </v>
+<v n="12"> A gdy ksiaze bedzie skladal PANU dobrowolna ofiare calopalna lub dobrowolna ofiare pojednawcza, to niech mu otworza wschodnia brame, a zlozy swoje calopalenie i ofiary pojednawcze, jak to czyni w dniu szabatu. Potem wyjdzie, a po jego wyjsciu niech zamkna brame. </v>
+<v n="13"> Ponadto codziennie zlozysz PANU baranka rocznego bez skazy na calopalenie. Kazdego rana zlozysz go. </v>
+<v n="14"> Takze ofiare z pokarmow bedziesz ofiarowywal przy nim kazdego ranka: szosta czesc efy, trzecia czesc hinu oliwy, aby pokropic najlepsza make, jako nieustanna ofiare z pokarmow dla PANA wiecznym postanowieniem. </v>
+<v n="15"> Tak wiec maja skladac baranka, ofiare z pokarmow i oliwe kazdego rana jako calopalenie nieustanne. </v>
+<v n="16"> Tak mowi Pan BOG: Jesli ksiaze da jakis dar ktoremus ze swych synow, bedzie to dziedzictwem jego synow. Bedzie to ich wlasnosc dziedziczna. </v>
+<v n="17"> Ale jesli przekaze dar ze swego dziedzictwa ktoremus ze swoich slug, wtedy bedzie to jego az do roku wyzwolenia, a potem wroci do tego ksiecia. Ale do synow bedzie nalezec jego dziedzictwo. </v>
+<v n="18"> Ksiaze nie bedzie bral z dziedzictwa ludu, pozbawiajac go sila jego posiadlosci. Lecz ze swojej posiadlosci da dziedzictwo swoim synom, aby nikt z mojego ludu nie byl wyrzucony ze swojej posiadlosci. </v>
+<v n="19"> Nastepnie wprowadzil mnie przez wejscie, ktore bylo z boku bramy, do komorek swietych dla kaplanow, ktore byly zwrocone na polnoc, a oto bylo tam miejsce po obu stronach na zachod. </v>
+<v n="20"> I powiedzial do mnie: To jest miejsce, gdzie kaplani beda gotowac ofiare za przewinienie i ofiare za grzech, gdzie beda piec ofiare z pokarmow, aby nie musieli wynosic ich na dziedziniec zewnetrzny na uswiecanie ludu. </v>
+<v n="21"> Potem wyprowadzil mnie na dziedziniec zewnetrzny i oprowadzil mnie po czterech rogach dziedzinca, a oto byl dziedziniec w kazdym rogu dziedzinca. </v>
+<v n="22"> W czterech katach dziedzinca byly dziedzince dlugie na czterdziesci lokci i szerokie na trzydziesci lokci. Te cztery narozne dziedzince mialy ten sam wymiar. </v>
+<v n="23"> A dokola nich czterech byly rzedy pomieszczen, a pod tymi rzedami uczyniono wokolo paleniska. </v>
+<v n="24"> I powiedzial mi: To sa miejsca dla tych, ktorzy gotuja, gdzie sludzy domu beda gotowac ofiary ludu. </v>
+</c>

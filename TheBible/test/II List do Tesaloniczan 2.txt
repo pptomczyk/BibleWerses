@@ -1,0 +1,18 @@
+<v n="1"> Prosimy was, bracia, przez wzglad na przyjscie naszego Pana Jezusa Chrystusa i nasze zgromadzenie sie przy nim; </v>
+<v n="2"> Abyscie nie tak latwo dali sie zachwiac w waszym umysle i zatrwozyc sie ani przez ducha, ani przez mowe, ani przez list rzekomo przez nas pisany, jakoby juz nadchodzil dzien Chrystusa. </v>
+<v n="3"> Niech was nikt w zaden sposob nie zwodzi. Ten dzien bowiem nie nadejdzie, dopoki najpierw nie przyjdzie odstepstwo i nie objawi sie czlowiek grzechu, syn zatracenia; </v>
+<v n="4"> Ktory sie sprzeciwia i wynosi ponad wszystko, co sie nazywa Bogiem lub co jest przedmiotem czci, tak ze zasiadzie w swiatyni Boga jako Bog, podajac sie za Boga. </v>
+<v n="5"> Czy nie pamietacie, ze jeszcze bedac u was, mowilem o tym? </v>
+<v n="6"> A teraz wiecie, co przeszkadza, tak ze sie objawi w swoim czasie. </v>
+<v n="7"> Tajemnica nieprawosci bowiem juz dziala. Tylko ze ten, ktory teraz przeszkadza, bedzie przeszkadzal, az zostanie usuniety z drogi. </v>
+<v n="8"> Wowczas pojawi sie ow niegodziwiec, ktorego Pan zabije duchem swoich ust i zniszczy blaskiem swego przyjscia. </v>
+<v n="9"> Niegodziwiec przyjdzie za sprawa szatana, z cala moca, wsrod znakow i falszywych cudow; </v>
+<v n="10"> Wsrod wszelkiego zwodzenia nieprawosci wobec tych, ktorzy gina, poniewaz nie przyjeli milosci prawdy, by zostali zbawieni. </v>
+<v n="11"> Dlatego Bog zsyla im silne omamienie, tak ze uwierza klamstwu; </v>
+<v n="12"> Aby zostali osadzeni wszyscy, ktorzy nie uwierzyli prawdzie, ale upodobali sobie niesprawiedliwosc. </v>
+<v n="13"> Lecz my nieustannie powinnismy dziekowac Bogu za was, bracia umilowani przez Pana, ze Bog od poczatku wybral was do zbawienia przez uswiecenie Ducha i wiare w prawde. </v>
+<v n="14"> Do tego powolal was przez nasza ewangelie, abyscie dostapili chwaly naszego Pana Jezusa Chrystusa. </v>
+<v n="15"> Dlatego, bracia, stojcie niewzruszenie i trzymajcie sie przekazanych nauk, o ktorych zostaliscie pouczeni czy to przez mowe, czy przez nasz list. </v>
+<v n="16"> A sam nasz Pan Jezus Chrystus i Bog, nasz Ojciec, ktory nas umilowal i dal wieczna pocieche i dobra nadzieje przez laske; </v>
+<v n="17"> Niech pocieszy wasze serca i utwierdzi was w kazdym dobrym slowie i uczynku. </v>
+</c>

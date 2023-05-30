@@ -1,0 +1,17 @@
+<v n="1"> Moj oddech jest skazony, moje dni gasna, groby na mnie czekaja. </v>
+<v n="2"> Czy nie szydercy sa przy mnie? Czy moje oko nie czuwa przez ich zniewagi? </v>
+<v n="3"> Zloz wiec zastaw za mnie u siebie. Ktoz jest ten, ktory za mnie poreczy? </v>
+<v n="4"> Ich serce bowiem ukryles przed zrozumieniem, dlatego ich nie wywyzszysz. </v>
+<v n="5"> Kto pochlebia przyjaciolom, tego dzieciom zgasna oczy. </v>
+<v n="6"> Uczynil mnie tematem przyslowia wsrod ludzi i posmiewiskiem przed nimi. </v>
+<v n="7"> Moje oko zacmilo sie od smutku, a wszystkie moje czlonki sa jak cien. </v>
+<v n="8"> Prawi zdumieja sie nad tym, a niewinny powstanie przeciwko obludnikowi. </v>
+<v n="9"> Sprawiedliwy bedzie trwal przy swojej drodze, a kto ma czyste rece, nabierze sily. </v>
+<v n="10"> Lecz wy wszyscy zawroccie i przyjdzcie; bo madrego wsrod was nie znajduje. </v>
+<v n="11"> Moje dni przeminely, rozwialy sie moje zamiary, mysli mego serca. </v>
+<v n="12"> Noc zamieniaja w dzien, swiatlosc skraca sie z powodu ciemnosci. </v>
+<v n="13"> Gdybym czegos oczekiwal, grob bedzie moim domem, w ciemnosci rozlozylem swoje poslanie. </v>
+<v n="14"> Powiedzialem do zniszczenia: Jestes moim ojcem, a robactwu: Moja matko i moja siostro. </v>
+<v n="15"> Gdzie jest wiec teraz moja nadzieja? Kto zobaczy moja nadzieje? </v>
+<v n="16"> Zstapia do zasuw grobu, gdy razem odpoczniemy w prochu. </v>
+</c>

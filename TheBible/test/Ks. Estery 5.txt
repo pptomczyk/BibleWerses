@@ -1,0 +1,15 @@
+<v n="1"> Trzeciego dnia Estera ubrala sie w szaty krolowej, stanela na wewnetrznym dziedzincu domu krola, naprzeciw domu krola. A krol siedzial na swoim krolewskim tronie w domu krola naprzeciw bramy domu. </v>
+<v n="2"> A gdy krol zobaczyl krolowa Estere, stojaca na dziedzincu, znalazla ona laske w jego oczach i krol wyciagnal do Estery zlote berlo, ktore trzymal w reku. Estera wiec zblizyla sie i dotknela konca berla. </v>
+<v n="3"> Krol zapytal ja: Co ci jest, krolowo Estero? Jaka jest twoja prosba? Chocbys prosila o polowe krolestwa, bedzie ci dane. </v>
+<v n="4"> Estera odpowiedziala: Jesli to sie krolowi podoba, to niech przyjdzie krol i Haman dzisiaj na uczte, ktora dla niego przygotowalam. </v>
+<v n="5"> Krol powiedzial: Zawolajcie szybko Hamana, aby spelnil prosbe Estery. Przyszedl wiec krol i Haman na uczte, ktora wyprawila Estera. </v>
+<v n="6"> Potem krol zapytal Estere, gdy sie napil wina: Jaka jest twoja prosba, a bedzie ci dane. Jakie jest twoje zyczenie? Chocbys prosila o polowe krolestwa, bedzie ci dane. </v>
+<v n="7"> Na to Estera odpowiedziala: Oto moje zyczenie i moja prosba: </v>
+<v n="8"> Jesli znalazlam laske w oczach krola i jesli krolowi sie podoba, aby spelnic moja prosbe i wykonac moje zyczenie, to niech przyjdzie krol i Haman na uczte, ktora im przygotuje, a jutro uczynie wedlug slowa krola. </v>
+<v n="9"> I wyszedl Haman tego dnia wesoly i dobrej mysli. Ale gdy Haman zobaczyl Mardocheusza w bramie krolewskiej, ze on ani nie powstal, ani sie nie poruszyl przed nim, napelnil sie gniewem na Mardocheusza. </v>
+<v n="10"> Opanowal sie jednak Haman, a gdy przyszedl do domu, poslal po swoich przyjaciol i Zeresz, swoja zone. </v>
+<v n="11"> I opowiadal im Haman o wspanialosci jego bogactwa, o mnostwie swoich synow oraz o tym wszystkim, jak wielkim krol go uczynil i jak go wywyzszyl ponad innych ksiazat i slugi krola. </v>
+<v n="12"> Ponadto Haman powiedzial: Nawet krolowa Estera nikogo oprocz mnie nie zaprosila na uczte z krolem, ktora przygotowala, a jeszcze na jutro zostalem do niej zaproszony z krolem. </v>
+<v n="13"> Ale to wszystko jest dla mnie niczym, dopoki widze Zyda Mardocheusza, siedzacego w bramie krolewskiej. </v>
+<v n="14"> Wtedy jego zona Zeresz oraz wszyscy jego przyjaciele powiedzieli mu: Niech postawia szubienice wysoka na piecdziesiat lokci, a rano powiedz krolowi, aby powieszono na niej Mardocheusza. Potem idz wesol z krolem na uczte. I spodobala sie Hamanowi ta rada, i rozkazal postawic szubienice. </v>
+</c>

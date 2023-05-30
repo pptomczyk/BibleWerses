@@ -1,0 +1,27 @@
+<v n="1"> Powiedzialem w sercu: Niech teraz doswiadcze cie w radosci, zazywaj wiec przyjemnosci. Lecz to takze jest marnoscia. </v>
+<v n="2"> O smiechu powiedzialem: To szalenstwo, a o radosci: Co to daje? </v>
+<v n="3"> Postanowilem w sercu, ze poddam swoje cialo winu – serce jednak kierowalem madroscia – i ze bede sie trzymac glupoty, az zobacze, co dla synow ludzkich jest dobrem sposrod tego, co maja czynic pod niebem, przez wszystkie dni ich zycia. </v>
+<v n="4"> Dokonalem wielkich dziel, zbudowalem sobie domy, zasadzilem sobie winnice. </v>
+<v n="5"> Zalozylem sobie ogrody i sady i posadzilem w nich wszelkiego rodzaju drzewa owocowe. </v>
+<v n="6"> Zbudowalem tez sobie stawy na wode, by nawadniac nia las rosnacych drzew. </v>
+<v n="7"> Nabylem slugi i sluzace, mialem tez slugi urodzone w swoim domu. Posiadalem rowniez stada wolow i trzody owiec wieksze niz wszyscy, ktorzy byli przede mna w Jerozolimie. </v>
+<v n="8"> Zgromadzilem sobie srebro i zloto, i klejnoty krolow i prowincji. Przygotowalem sobie spiewakow i spiewaczki, i inne rozkosze synow ludzkich oraz liczne instrumenty muzyczne. </v>
+<v n="9"> I tak stalem sie wiekszy i mozniejszy niz wszyscy, ktorzy byli przede mna w Jerozolimie. W dodatku moja madrosc pozostala przy mnie. </v>
+<v n="10"> Nie wzbranialem swoim oczom niczego, czego pragnely, nie odmawialem swemu sercu zadnej uciechy; moje serce bowiem radowalo sie z calego mojego trudu. A to byl moj dzial za caly moj trud. </v>
+<v n="11"> Nastepnie przyjrzalem sie wszystkim dzielom, jakich dokonaly moje rece, i trudowi, jaki podjalem dla ich wykonania, a oto wszystko to marnosc i utrapienie ducha i nie ma zadnego pozytku pod sloncem. </v>
+<v n="12"> Odwrocilem sie wiec, aby przyjrzec sie madrosci, szalenstwu i glupocie. Co bowiem moze uczynic czlowiek, ktory nastapi po krolu? To, co czynili juz inni. </v>
+<v n="13"> I zobaczylem, ze madrosc jest pozyteczniejsza od glupoty, tak jak swiatlo jest pozyteczniejsze od ciemnosci. </v>
+<v n="14"> Madry ma oczy w swojej glowie, glupi zas chodzi w ciemnosci. A poznalem, ze ten sam los spotyka wszystkich. </v>
+<v n="15"> Dlatego powiedzialem w sercu: Los, ktory spotyka glupiego, spotka rowniez mnie. Po co wiec przewyzszylem go madroscia? Wtedy powiedzialem w sercu, ze to takze jest marnoscia. </v>
+<v n="16"> Nie ma bowiem pamieci zarowno o madrym, jak i o glupcu na wieki, gdyz to, co jest teraz, w najblizszych dniach pojdzie w niepamiec. A jak umiera madry? Tak jak glupi. </v>
+<v n="17"> Dlatego obrzydlo mi zycie, gdyz przykre mi sa wszystkie sprawy dokonane pod sloncem. Wszystko bowiem jest marnoscia i utrapieniem ducha. </v>
+<v n="18"> Zbrzydl mi nawet caly moj trud, ktory podejmowalem pod sloncem, gdyz musze go zostawic czlowiekowi, ktory przyjdzie po mnie. </v>
+<v n="19"> A kto wie, czy bedzie madry, czy glupi? A jednak bedzie wladac cala moja praca, w ktora wlozylem swoj trud i madrosc pod sloncem. Takze i to jest marnoscia. </v>
+<v n="20"> Doszedlem wiec do tego, ze zwatpilem w sercu w caly swoj trud, jaki podjalem pod sloncem. </v>
+<v n="21"> Gdyz niejeden czlowiek pracuje madrze, umiejetnie i sprawiedliwie, a swoj dzial pozostawia innemu, ktory sie nim nie trudzil. Takze i to jest marnoscia i wielkim zlem. </v>
+<v n="22"> Coz bowiem ma czlowiek z calej swojej pracy i z utrapienia swego serca, ktorymi sie trudzi pod sloncem? </v>
+<v n="23"> Bo wszystkie jego dni sa cierpieniem, a jego zajecie – smutkiem; nawet w nocy jego serce nie zaznaje spokoju. Takze i to jest marnoscia. </v>
+<v n="24"> Nie ma nic lepszego dla czlowieka, niz aby jadl i pil, i czynil dobrze swojej duszy przy swojej pracy. Zobaczylem tez, ze pochodzi to z reki Boga. </v>
+<v n="25"> Kto bowiem potrafi jesc i cieszyc sie tym sluszniej niz ja? </v>
+<v n="26"> Bo czlowiekowi, ktory mu sie podoba, daje madrosc, wiedze i radosc. Ale grzesznikowi zadaje trud, aby zbieral i gromadzil, i potem zostawil to temu, ktory sie Bogu podoba. Takze i to jest marnoscia i utrapieniem ducha. </v>
+</c>

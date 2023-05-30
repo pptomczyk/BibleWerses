@@ -1,0 +1,17 @@
+<v n="1"> O jaka ty jesteœ piêkna, moja umi³owana! O jaka ty jesteœ piêkna! Twoje oczy miêdzy twymi kêdziorkami s¹ jak oczy go³êbicy; twoje w³osy s¹ jak stado kóz, które widaæ na górze Gileadu. </v>
+<v n="2"> Twoje zêby s¹ jak stado strzy¿onych owiec, gdy wychodz¹ z k¹pieli; wszystkie maj¹ bliŸniêta i nie ma ¿adnej niep³odnej wœród nich. </v>
+<v n="3"> Twoje wargi s¹ jak niæ purpurowa, a twoja wymowa pe³na wdziêku. Twoje skronie s¹ jak po³ówki granatu miêdzy twymi kêdziorkami. </v>
+<v n="4"> Twoja szyja jest jak wie¿a Dawida, zbudowana na zbrojowniê, na której tysi¹c puklerzy zawieszono, wszystko to tarcze dzielnych wojowników. </v>
+<v n="5"> Twoje piersi s¹ jak dwoje bliŸniaczych sarni¹t, które pas¹ siê miêdzy liliami. </v>
+<v n="6"> Nim zaœwita dzieñ i znikn¹ cienie, wejdê na górê mirry i na pagórek kadzid³a. </v>
+<v n="7"> Ca³a jesteœ piêkna, moja umi³owana, i nie ma w tobie ¿adnej skazy. </v>
+<v n="8"> PrzyjdŸ ze mn¹ z Libanu, moja oblubienico, przyjdŸ ze mn¹ z Libanu. Spójrz ze szczytu góry Amana, ze szczytu góry Senir i Hermon, z jaskiñ lwów i z gór lampartów. </v>
+<v n="9"> Zachwyci³aœ moje serce, moja siostro, moja oblubienico! Zachwyci³aœ moje serce jednym twoim okiem i jednym ³añcuszkiem na twojej szyi. </v>
+<v n="10"> Jak¿e piêkna jest twoja mi³oœæ, moja siostro, moja oblubienico! Jak daleko lepsza jest twoja mi³oœæ od wina, a woñ twoich olejków od wszystkich innych wonnoœci! </v>
+<v n="11"> Z twoich warg ocieka miód jak z plastrów, moja oblubienico! Miód i mleko pod twoim jêzykiem, a woñ twoich szat jest jak woñ Libanu. </v>
+<v n="12"> Jesteœ zamkniêtym ogrodem, moja siostro, moja oblubienico; Ÿród³em zamkniêtym, zdrojem zapieczêtowanym. </v>
+<v n="13"> Twoje pêdy to sad drzew granatu z wybornym owocem cyprysu i nardu; </v>
+<v n="14"> Nard i szafran, tatarak i cynamon, ze wszelkimi drzewami, kadzid³o, mirra i aloes, ze wszelkimi wybornymi wonnoœciami. </v>
+<v n="15"> ród³o ogrodów, zdrój ¿ywych wód, które p³yn¹ z Libanu! </v>
+<v n="16"> Powstañ, wietrze pó³nocny, i przyjdŸ, wietrze z po³udnia, powiej przez mój ogród, by siê rozp³ynê³y jego wonnoœci. Niech przyjdzie mój umi³owany do swego ogrodu i niech je swoje rozkoszne owoce. </v>
+</c>

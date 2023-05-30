@@ -1,0 +1,22 @@
+<v n="1"> Prosze wiec was, bracia, przez milosierdzie Boze, abyscie skladali wasze ciala jako ofiare zywa, swieta, przyjemna Bogu, to jest wasza rozumna sluzba. </v>
+<v n="2"> A nie dostosowujcie sie do tego swiata, ale przemiencie sie przez odnowienie waszego umyslu, abyscie mogli rozeznac, co jest dobra, przyjemna i doskonala wola Boga. </v>
+<v n="3"> Mowie bowiem przez laske, ktora mi jest dana, kazdemu, kto jest wsrod was, aby nie myslal o sobie wiecej niz nalezy, ale zeby myslal o sobie skromnie, stosownie do miary wiary, jakiej Bog kazdemu udzielil. </v>
+<v n="4"> Jak bowiem w jednym ciele mamy wiele czlonkow, ale nie wszystkie czlonki wykonuja te sama czynnosc; </v>
+<v n="5"> Tak my, chociaz liczni, jestesmy jednym cialem w Chrystusie, ale z osobna jestesmy czlonkami jedni drugich. </v>
+<v n="6"> Mamy wiec rozne dary wedlug laski, ktora nam jest dana: jesli ktos ma dar prorokowania, niech go uzywa stosownie do miary wiary; </v>
+<v n="7"> Jesli uslugiwania, niech usluguje; jesli ktos naucza, niech trwa w nauczaniu; </v>
+<v n="8"> Jesli ktos napomina, to w napominaniu; jesli ktos rozdaje, to w szczerosci; jesli ktos jest przelozonym, niech nim bedzie w pilnosci; jesli ktos okazuje milosierdzie, niech to czyni ochoczo. </v>
+<v n="9"> Milosc niech bedzie nieobludna. Brzydzcie sie zlem, trzymajac sie tego, co dobre. </v>
+<v n="10"> Milujcie sie wzajemnie miloscia braterska, wyprzedzajac jedni drugich w okazywaniu szacunku. </v>
+<v n="11"> W pracy nieleniwi, palajacy duchem, sluzacy Panu; </v>
+<v n="12"> Radujacy sie w nadziei, cierpliwi w ucisku, nieustajacy w modlitwie; </v>
+<v n="13"> Wspomagajacy swietych w potrzebach, okazujacy goscinnosc. </v>
+<v n="14"> Blogoslawcie tych, ktorzy was przesladuja, blogoslawcie, a nie przeklinajcie. </v>
+<v n="15"> Radujcie sie z tymi, ktorzy sie raduja, a placzcie z tymi, ktorzy placza. </v>
+<v n="16"> Badzcie miedzy soba jednomyslni. Nie miejcie o sobie wysokiego mniemania, ale sie ku niskim sklaniajcie. Nie uwazajcie samych siebie za madrych. </v>
+<v n="17"> Nikomu zlem za zlo nie odplacajcie; starajcie sie o to, co uczciwe wobec wszystkich ludzi. </v>
+<v n="18"> Jesli to mozliwe, o ile to od was zalezy, ze wszystkimi ludzmi zyjcie w pokoju. </v>
+<v n="19"> Najmilsi, nie mscijcie sie sami, ale pozostawcie miejsce gniewowi. Jest bowiem napisane: Zemsta do mnie nalezy, ja odplace – mowi Pan. </v>
+<v n="20"> Jesli wiec twoj nieprzyjaciel jest glodny, nakarm go, jesli jest spragniony, napoj go. Tak bowiem robiac, rozzarzone wegle zgarniesz na jego glowe. </v>
+<v n="21"> Nie daj sie zwyciezyc zlu, ale zlo dobrem zwyciezaj. </v>
+</c>

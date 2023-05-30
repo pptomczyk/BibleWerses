@@ -1,0 +1,9 @@
+<v n="1"> Gdy Izrael wychodzil z Egiptu, dom Jakuba sposrod ludu obcego jezyka; </v>
+<v n="2"> Juda stal sie jego swiatynia, Izrael jego panowaniem. </v>
+<v n="3"> Morze to ujrzalo i ucieklo, Jordan wstecz sie odwrocil. </v>
+<v n="4"> Gory skakaly jak barany, pagorki jak jagnieta. </v>
+<v n="5"> Morze, coz ci sie stalo, zes ucieklo, a tobie, Jordanie, ze wstecz sie odwrociles? </v>
+<v n="6"> Gory, ze skakalyscie jak barany, a wy, pagorki, jak jagnieta? </v>
+<v n="7"> Zadrzyj, ziemio, przed obliczem Pana, przed obliczem Boga Jakuba; </v>
+<v n="8"> Ktory zamienia skale w jezioro, a krzemien w zrodlo wod. </v>
+</c>

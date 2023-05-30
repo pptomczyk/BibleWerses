@@ -1,0 +1,10 @@
+<v n="1"> Jotam mial dwadziescia piec lat, kiedy zaczal krolowac, i krolowal szesnascie lat w Jerozolimie. Jego matka miala na imie Jerusza, byla corka Sadoka. </v>
+<v n="2"> Czynil on to, co prawe w oczach PANA, wedlug wszystkiego, co czynil jego ojciec Uzjasz, tylko nie wchodzil do swiatyni PANA. Ale lud byl nadal zepsuty. </v>
+<v n="3"> On zbudowal brame gorna domu PANA i wykonal wiele prac na murach Ofelu. </v>
+<v n="4"> Ponadto pobudowal miasta w gorach Judy, a w lasach pobudowal zamki i wieze. </v>
+<v n="5"> Walczyl rowniez z krolem Ammonitow i pokonal ich. Synowie Ammona dali mu tego roku sto talentow srebra i dziesiec tysiecy kor pszenicy oraz dziesiec tysiecy kor jeczmienia. Tyle samo dali mu synowie Ammona w drugim i trzecim roku. </v>
+<v n="6"> A tak Jotam umocnil sie, gdyz przygotowal swoje drogi przed PANEM, swoim Bogiem. </v>
+<v n="7"> A pozostale dzieje Jotama, wszystkie jego wojny i jego drogi, sa zapisane w ksiedze krolow Izraela i Judy. </v>
+<v n="8"> Mial dwadziescia piec lat, kiedy zaczal krolowac, i krolowal szesnascie lat w Jerozolimie. </v>
+<v n="9"> Potem Jotam zasnal ze swoimi ojcami i pogrzebano go w miescie Dawida. A jego syn Achaz krolowal w jego miejsce. </v>
+</c>

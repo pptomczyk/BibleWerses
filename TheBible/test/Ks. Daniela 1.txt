@@ -1,0 +1,22 @@
+<v n="1"> W trzecim roku panowania Joakima, krola Judy, do Jerozolimy nadciagnal Nabuchodonozor, krol Babilonu, i oblegl ja. </v>
+<v n="2"> I Pan wydal w jego reke Joakima, krola Judy, oraz czesc naczyn domu Bozego, a on je zabral do ziemi Szinear, do domu swego boga, i wniosl te naczynia do skarbca swego boga. </v>
+<v n="3"> I krol rozkazal Aszpenazowi, przelozonemu swoich eunuchow, aby przyprowadzil niektorych sposrod synow Izraela, z potomstwa krola i z ksiazat; </v>
+<v n="4"> Mlodziencow, w ktorych by nie bylo zadnej skazy, o pieknym wygladzie, bieglych we wszelkiej madrosci, posiadajacych wiedze i pojetnych w nauce, ktorzy byliby zdatni stanac w palacu krola, i aby ich nauczac pisma i jezyka chaldejskiego. </v>
+<v n="5"> I krol wyznaczyl im codzienna porcje potraw krolewskich i wina, ktore on sam pil. Mieli byc tak wychowywani, by po uplywie trzech lat mogli stanac przed krolem. </v>
+<v n="6"> Wsrod nich, sposrod synow Judy, byli: Daniel, Chananiasz, Miszael i Azariasz. </v>
+<v n="7"> I przelozony eunuchow nadal im imiona: Daniela nazwal Belteszassarem, Chananiasza – Szadrakiem, Miszaela – Meszakiem i Azariasza – Abed-Nego. </v>
+<v n="8"> Ale Daniel postanowil w swoim sercu, ze nie splami sie potrawami krola ani winem, ktore krol pil. Poprosil wiec przelozonego eunuchow, aby nie musial sie splamic. </v>
+<v n="9"> I Bog zjednal Danielowi laske i milosc przelozonego eunuchow. </v>
+<v n="10"> Przelozony eunuchow powiedzial do Daniela: Boje sie krola, mojego pana, ktory wyznaczyl wasz pokarm i wasz napoj. Jesli zobaczy, ze wasze twarze sa chudsze niz innych mlodziencow, ktorzy razem z wami maja byc wychowani, wtedy narazicie u krola na niebezpieczenstwo moja glowe. </v>
+<v n="11"> Wtedy Daniel powiedzial do slugi, ktorego przelozony eunuchow ustanowil nad Danielem, Chananiaszem, Miszaelem i Azariaszem; </v>
+<v n="12"> Poddaj probie, prosze, twoje slugi przez dziesiec dni. Niech nam daja jarzyny do jedzenia i wode do picia. </v>
+<v n="13"> Potem przypatrzysz sie naszym twarzom oraz twarzom mlodziencow, ktorzy jadaja pokarm z potraw krolewskich, i wedlug tego, co zobaczysz, tak postapisz ze swoimi slugami. </v>
+<v n="14"> I posluchal ich w tej sprawie, i poddal ich probie przez dziesiec dni. </v>
+<v n="15"> A po uplywie dziesieciu dni okazalo sie, ze ich twarze wygladaly lepiej i ich ciala byly tezsze niz wszystkich mlodziencow, ktorzy jadali pokarm z potraw krolewskich. </v>
+<v n="16"> Sluga zabral wiec ich potrawy oraz wino, ktore mieli pic, a dal im jarzyny. </v>
+<v n="17"> Tym czterem mlodziencom dal Bog wiedze i zrozumienie we wszelkim pismie oraz madrosc. Ponadto Danielowi dal zrozumienie wszelkich widzen i snow. </v>
+<v n="18"> Gdy minely dni wyznaczone przez krola, by ich przyprowadzic, przelozony dworzan wprowadzil ich przed Nabuchodonozora. </v>
+<v n="19"> I krol rozmawial z nimi, ale nie znalazl sie posrod nich wszystkich nikt taki, jak Daniel, Chananiasz, Miszael i Azariasz. I staneli przed krolem. </v>
+<v n="20"> We wszystkich sprawach madrosci i rozumu, o ktore pytal ich krol, stwierdzal, ze sa dziesieciokrotnie bieglejsi od wszystkich magow i astrologow, ktorzy byli w calym jego krolestwie. </v>
+<v n="21"> I Daniel byl tam az do pierwszego roku krola Cyrusa. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Modlitwa Mojzesza, meza Bozego. Panie, ty byles nasza ucieczka z pokolenia na pokolenie. </v>
+<v n="2"> Zanim zrodzily sie gory, zanim uksztaltowales ziemie i swiat, od wiekow na wieki ty jestes Bogiem. </v>
+<v n="3"> Obracasz czlowieka w proch i mowisz: Wracajcie, synowie ludzcy. </v>
+<v n="4"> Tysiac lat bowiem w twoich oczach jest jak dzien wczorajszy, ktory minal, i jak straz nocna. </v>
+<v n="5"> Porywasz ich jakby powodzia, sa jak sen i jak trawa, ktora rosnie o poranku. </v>
+<v n="6"> Rano kwitnie i rosnie, a wieczorem zostaje skoszona i usycha. </v>
+<v n="7"> Giniemy bowiem od twego gniewu i jestesmy przerazeni twoja zapalczywoscia. </v>
+<v n="8"> Polozyles przed soba nasze nieprawosci, nasze skryte grzechy w swietle twego oblicza. </v>
+<v n="9"> Wszystkie nasze dni przemijaja z powodu twego gniewu, nasze lata nikna jak westchnienie. </v>
+<v n="10"> Liczba naszych dni jest lat siedemdziesiat, a jesli sil starczy, lat osiemdziesiat, a to, co w nich najlepsze, to tylko klopot i cierpienie, bo szybko mijaja, a my odlatujemy. </v>
+<v n="11"> Ktoz zna srogosc twego gniewu? Albo kto, bojac sie ciebie, zna twoja zapalczywosc? </v>
+<v n="12"> Naucz nas liczyc nasze dni, abysmy przywiedli serce do madrosci. </v>
+<v n="13"> Powroc, PANIE. Jak dlugo jeszcze? Zlituj sie nad swymi slugami. </v>
+<v n="14"> Nasyc nas z rana twoim milosierdziem, abysmy mogli sie cieszyc i radowac przez wszystkie nasze dni. </v>
+<v n="15"> Spraw nam radosc wedlug dni, w ktorych nas trapiles; wedlug lat, w ktorych zaznalismy zla. </v>
+<v n="16"> Niech sie ukaze twoim slugom twoje dzielo, a twoja chwala ich synom. </v>
+<v n="17"> Niech dobroc PANA, naszego Boga, bedzie z nami; i utwierdz wsrod nas dzielo naszych rak; utwierdz dzielo naszych rak! </v>
+</c>

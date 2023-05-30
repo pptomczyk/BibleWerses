@@ -1,0 +1,18 @@
+<v n="1"> Jestem ró¿¹ Saronu i lili¹ dolin. </v>
+<v n="2"> Jak lilia miêdzy cierniami, tak moja umi³owana miêdzy pannami. </v>
+<v n="3"> Jak jab³oñ miêdzy leœnymi drzewami, tak mój mi³y miêdzy m³odzieñcami. Z wielkim pragnieniem usiad³am w jego cieniu, a jego owoc jest s³odki memu podniebieniu. </v>
+<v n="4"> Wprowadzi³ mnie do komnaty biesiadnej, a jego chor¹gwi¹ nade mn¹ jest mi³oœæ. </v>
+<v n="5"> Pokrzepcie mnie buk³akami, posilcie mnie jab³kami, bo jestem chora z mi³oœci. </v>
+<v n="6"> Jego lewa rêka pod moj¹ g³ow¹, a jego prawa rêka mnie obejmuje. </v>
+<v n="7"> Zaklinam was, córki Jerozolimy, na sarny i ³anie polne: Nie budŸcie mego umi³owanego i nie przerywajcie jego snu, dopóki nie zechce. </v>
+<v n="8"> G³os mego umi³owanego! Oto idzie, skacz¹c po górach, a podskakuj¹c po pagórkach. </v>
+<v n="9"> Mój umi³owany podobny jest do sarny albo m³odego jelenia. Oto stoi za naszym murem, zagl¹da przez okna, patrzy przez kraty. </v>
+<v n="10"> Mój umi³owany odezwa³ siê i powiedzia³ mi: Wstañ, moja umi³owana, moja piêkna, i chodŸ! </v>
+<v n="11"> Oto bowiem minê³a zima, deszcz usta³ i przeszed³. </v>
+<v n="12"> Kwiatki pokaza³y siê na ziemi, nadszed³ czas œpiewania i g³os synogarlicy s³ychaæ w naszej ziemi. </v>
+<v n="13"> Drzewo figowe ju¿ wypuœci³o swoje niedojrza³e figi, a kwitn¹ca winoroœl wydaje swoj¹ woñ. Wstañ, moja umi³owana, moja piêkna, i chodŸ! </v>
+<v n="14"> Moja go³êbico, mieszkaj¹ca w skalnych szczelinach, w stromych kryjówkach, uka¿ mi swoj¹ twarz, daj mi us³yszeæ swój g³os, gdy¿ twój g³os jest s³odki i twoja twarz piêkna. </v>
+<v n="15"> Schwytajcie nam lisy, ma³e lisy, które psuj¹ winnice, poniewa¿ nasze winnice kwitn¹. </v>
+<v n="16"> Mój umi³owany jest mój, a ja jestem jego. Pasie on wœród lilii. </v>
+<v n="17"> Nim zaœwita dzieñ i znikn¹ cienie, zawróæ, mój umi³owany, b¹dŸ jak sarna albo m³ode jelenie na górach Beter. </v>
+</c>

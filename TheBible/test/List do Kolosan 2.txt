@@ -1,0 +1,24 @@
+<v n="1"> Chce bowiem, abyscie wiedzieli, jak wielka walke tocze o was, o tych, ktorzy sa w Laodycei, i o tych wszystkich, ktorzy nie widzieli mego oblicza w ciele; </v>
+<v n="2"> Aby ich serca byly pocieszone, bedac zespolone w milosci, a to ku wszelkiemu bogactwu zupelnej pewnosci zrozumienia, ku poznaniu tajemnicy Boga, Ojca i Chrystusa; </v>
+<v n="3"> W ktorym sa ukryte wszystkie skarby madrosci i poznania. </v>
+<v n="4"> A mowie to, aby was nikt nie zwodzil podstepnymi slowami. </v>
+<v n="5"> Choc bowiem cialem jestem nieobecny, to jednak duchem jestem z wami i raduje sie, widzac wasz porzadek i stalosc waszej wiary w Chrystusa. </v>
+<v n="6"> Jak wiec przyjeliscie Pana Jezusa Chrystusa, tak w nim postepujcie; </v>
+<v n="7"> Zakorzenieni i zbudowani na nim, i utwierdzeni w wierze, jak was nauczono, obfitujac w niej z dziekczynieniem. </v>
+<v n="8"> Uwazajcie, zeby was ktos nie obrocil na wlasna korzysc przez filozofie i prozne oszustwo, oparte na ludzkiej tradycji, na zywiolach swiata, a nie na Chrystusie. </v>
+<v n="9"> Gdyz w nim mieszka cielesnie cala pelnia Bostwa. </v>
+<v n="10"> I jestescie dopelnieni w nim, ktory jest glowa wszelkiej zwierzchnosci i wladzy; </v>
+<v n="11"> W nim tez zostaliscie obrzezani obrzezaniem nie reka uczynionym, lecz obrzezaniem Chrystusa, przez zrzucenie grzesznego ciala doczesnego; </v>
+<v n="12"> Pogrzebani z nim w chrzcie, w ktorym tez razem z nim zostaliscie wskrzeszeni przez wiare, ktora jest dzialaniem Boga, ktory go wskrzesil z martwych. </v>
+<v n="13"> I was, gdy byliscie umarlymi w grzechach i w nieobrzezaniu waszego ciala, razem z nim ozywil, przebaczajac wam wszystkie grzechy; </v>
+<v n="14"> Wymazal obciazajacy nas wykaz zawarty w przepisach, ktory byl przeciwko nam, i usunal go z drogi, przybiwszy do krzyza; </v>
+<v n="15"> I rozbroiwszy zwierzchnosci i wladze, jawnie wystawil je na pokaz, gdy przez niego odniosl triumf nad nimi. </v>
+<v n="16"> Niech wiec nikt was nie osadza z powodu jedzenia lub picia, co do swieta, nowiu ksiezyca lub szabatow. </v>
+<v n="17"> Sa to cienie rzeczy przyszlych, cialo zas jest Chrystusa. </v>
+<v n="18"> Niech nikt, kto ma upodobanie w ponizaniu siebie i kulcie aniolow, nie pozbawia was nagrody, wdajac sie w to, czego nie widzial, i pyszniac sie bezpodstawnie cielesnym sposobem myslenia; </v>
+<v n="19"> A nie trzyma sie glowy, z ktorej cale cialo, odzywiane i wespol zespolone przez stawy i sciegna, rosnie wzrostem Bozym. </v>
+<v n="20"> Jesli wiec umarliscie z Chrystusem dla zywiolow tego swiata, to dlaczego – jakbyscie jeszcze zyli dla swiata – poddajecie sie nakazom: </v>
+<v n="21"> Nie dotykaj, nie kosztuj, nie ruszaj; </v>
+<v n="22"> (To wszystko niszczeje przez uzywanie), wedlug przykazan i nauk ludzkich? </v>
+<v n="23"> Maja one pozor madrosci w religijnosci wedlug wlasnego upodobania, w ponizaniu siebie i nieoszczedzaniu ciala, jednak nie maja zadnej wartosci, sluza tylko do nasycenia ciala. </v>
+</c>

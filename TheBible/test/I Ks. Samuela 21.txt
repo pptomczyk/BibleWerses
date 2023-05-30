@@ -1,0 +1,16 @@
+<v n="1"> Potem Dawid przyszedl do Nob, do kaplana Achimeleka. Achimelek wyszedl przestraszony naprzeciw Dawida i zapytal go: Dlaczego jestes sam i nie ma z toba nikogo? </v>
+<v n="2"> Dawid odpowiedzial kaplanowi Achimelekowi: Krol zlecil mi pewna sprawe, nakazujac: Niech nikt nie wie o tej sprawie, z ktora cie wysylam i ktora ci zlecilem. Z tego powodu umowilem sie ze swoimi slugami w pewnym miejscu. </v>
+<v n="3"> Teraz wiec, co masz pod reka? Daj mi do reki piec chlebow lub cokolwiek sie znajdzie. </v>
+<v n="4"> Kaplan odpowiedzial Dawidowi: Nie mam pod reka zwyklego chleba, tylko chleb poswiecony. Dam ci go, ale pod warunkiem, ze sludzy wstrzymali sie od kobiet. </v>
+<v n="5"> Dawid odpowiedzial kaplanowi: Na pewno kobiety byly oddalone od nas przez trzy dni, odkad wyruszylem. Naczynia mlodziencow sa wiec swiete. A chleb jest w pewien sposob zwykly, chociaz zostal dzis poswiecony w naczyniu. </v>
+<v n="6"> Kaplan dal mu wiec poswiecony chleb, gdyz nie bylo tam innego chleba oprocz chleba pokladnego, ktory zabrano sprzed oblicza PANA, aby w dniu jego usuniecia polozyc swiezy chleb. </v>
+<v n="7"> W tym dniu byl tam pewien czlowiek sposrod slug Saula, zatrzymany przed PANEM. Mial na imie Doeg, byl to Edomita, przelozony nad pasterzami Saula. </v>
+<v n="8"> I Dawid zapytal Achimeleka: Czy nie masz tu pod reka wloczni albo miecza? Bo nie wzialem ze soba ani swego miecza, ani zadnej swojej broni, gdyz sprawa krola byla pilna. </v>
+<v n="9"> Kaplan odpowiedzial: Miecz Goliata, Filistyna, ktorego zabiles w dolinie Ela, jest zawiniety w szate za efodem. Jesli chcesz go sobie wziac, wez. Nie ma tu bowiem innego oprocz tego. Dawid odpowiedzial: Nie ma od niego lepszego. Daj mi go. </v>
+<v n="10"> Dawid wstal wiec i uciekl tego dnia przed Saulem, i przybyl do Akisza, krola Gat. </v>
+<v n="11"> A sludzy Akisza mowili do niego: Czy to nie jest Dawid, krol ziemi? Czy nie o nim spiewano wsrod plasow: Saul pobil swoje tysiace, a Dawid swoich dziesiatki tysiecy? </v>
+<v n="12"> I Dawid wzial sobie te slowa do serca, i bardzo sie bal Akisza, krola Gat. </v>
+<v n="13"> Zmienil wiec przed nimi swoje zachowanie i udawal szalonego w ich rekach, bazgral na wrotach bramy i pozwalal, aby slina splywala mu po brodzie. </v>
+<v n="14"> Wtedy Akisz powiedzial do swoich slug: Oto widzicie czlowieka szalonego. Dlaczego przyprowadziliscie go do mnie? </v>
+<v n="15"> Czy brakuje mi szalencow, ze przyprowadziliscie tego, aby szalal przede mna? Czy on ma wejsc do mego domu? </v>
+</c>

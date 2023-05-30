@@ -1,0 +1,19 @@
+<v n="1"> Madrosc zbudowala sobie dom i wyciosala siedem slupow; </v>
+<v n="2"> Zabila swoje bydlo, zmieszala wino i zastawila stol; </v>
+<v n="3"> Rozeslala swoje sluzace, wola na szczytach najwyzszych miejsc miasta: </v>
+<v n="4"> Ktokolwiek jest prostym, niech wstapi; a do nierozumnego mowi: </v>
+<v n="5"> Chodzcie, jedzcie moj chleb i pijcie wino, ktore zmieszalam. </v>
+<v n="6"> Porzuccie glupote, a bedziecie zyli, i chodzcie droga roztropnosci. </v>
+<v n="7"> Kto upomina szyderce, sciaga na siebie hanbe, a kto strofuje niegodziwego, ten sie plami. </v>
+<v n="8"> Nie strofuj szydercy, aby cie nie znienawidzil; strofuj madrego, a bedzie cie milowal. </v>
+<v n="9"> Upomnij madrego, a bedzie madrzejszy; poucz sprawiedliwego, a pomnozy swa wiedze. </v>
+<v n="10"> Poczatkiem madrosci jest bojazn PANA, a wiedza o tym, co swiete, to rozum. </v>
+<v n="11"> Bo dzieki mnie rozmnoza sie twoje dni i przedluza sie lata twojego zycia. </v>
+<v n="12"> Jesli bedziesz madry, tobie samemu bedzie sluzyla twoja madrosc; a jesli szyderca, sam poniesiesz szkode. </v>
+<v n="13"> Glupia kobieta jest wrzaskliwa, prosta i nic nie rozumie; </v>
+<v n="14"> Siedzi u drzwi swego domu, na krzesle, na wysokich miejscach w miescie; </v>
+<v n="15"> Aby wolac na przechodzacych, ktorzy ida prosto swoimi sciezkami: </v>
+<v n="16"> Ktokolwiek jest prosty, niech wstapi; a do nierozumnego mowi: </v>
+<v n="17"> Kradzione wody sa slodkie, a chleb jedzony pokatnie smaczny. </v>
+<v n="18"> Ale on nie wie, ze tam sa umarli, ze jej zaproszeni sa w glebinach piekla. </v>
+</c>

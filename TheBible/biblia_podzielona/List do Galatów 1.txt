@@ -1,0 +1,25 @@
+<v n="1"> Pawe³, aposto³ nie od ludzi ani przez cz³owieka, ale przez Jezusa Chrystusa i Boga Ojca, który go wskrzesi³ z martwych; </v>
+<v n="2"> I wszyscy bracia, którzy s¹ ze mn¹, do koœcio³ów Galacji: </v>
+<v n="3"> £aska wam i pokój od Boga Ojca i naszego Pana Jezusa Chrystusa; </v>
+<v n="4"> Który wyda³ samego siebie za nasze grzechy, aby nas wyrwaæ z obecnego z³ego œwiata wed³ug woli Boga i Ojca naszego; </v>
+<v n="5"> Któremu chwa³a na wieki wieków. Amen. </v>
+<v n="6"> Dziwiê siê, ¿e tak szybko dajecie siê odwieœæ od tego, który was powo³a³ ku ³asce Chrystusa, do innej ewangelii; </v>
+<v n="7"> Która nie jest inn¹; s¹ tylko pewni ludzie, którzy was niepokoj¹ i chc¹ wypaczyæ ewangeliê Chrystusa. </v>
+<v n="8"> Lecz choæbyœmy nawet my albo anio³ z nieba g³osi³ wam ewangeliê inn¹ od tej, któr¹ wam g³osiliœmy, niech bêdzie przeklêty. </v>
+<v n="9"> Jak powiedzieliœmy przedtem, tak i teraz znowu mówiê: Gdyby wam ktoœ g³osi³ ewangeliê inn¹ od tej, któr¹ przyjêliœcie, niech bêdzie przeklêty. </v>
+<v n="10"> Czy teraz bowiem chcê pozyskaæ ludzi, czy Boga? Albo czy staram siê przypodobaæ ludziom? Gdybym nadal ludziom chcia³ siê przypodobaæ, nie by³bym s³ug¹ Chrystusa. </v>
+<v n="11"> A oznajmiam wam, bracia, ¿e g³oszona przeze mnie ewangelia nie jest wed³ug cz³owieka. </v>
+<v n="12"> Nie otrzyma³em jej bowiem ani nie nauczy³em siê jej od cz³owieka, ale przez objawienie Jezusa Chrystusa. </v>
+<v n="13"> S³yszeliœcie bowiem o moim dawniejszym postêpowaniu w judaizmie, ¿e ponad miarê przeœladowa³em koœció³ Bo¿y i niszczy³em go; </v>
+<v n="14"> I wyprzedza³em w judaizmie wielu moich rówieœników z mojego narodu, bêd¹c bardzo gorliwym zwolennikiem moich ojczystych tradycji. </v>
+<v n="15"> Lecz gdy upodoba³o siê Bogu, który mnie od³¹czy³ w ³onie mojej matki i powo³a³ swoj¹ ³ask¹; </v>
+<v n="16"> Aby objawiæ swego Syna we mnie, abym g³osi³ go wœród pogan, natychmiast, nie radz¹c siê cia³a i krwi; </v>
+<v n="17"> Ani nie udaj¹c siê do Jerozolimy, do tych, którzy przede mn¹ byli aposto³ami, poszed³em do Arabii, po czym znowu wróci³em do Damaszku. </v>
+<v n="18"> Potem, trzy lata póŸniej, uda³em siê do Jerozolimy, aby zobaczyæ siê z Piotrem, u którego przebywa³em piêtnaœcie dni. </v>
+<v n="19"> A spoœród aposto³ów nie widzia³em ¿adnego innego poza Jakubem, bratem Pana. </v>
+<v n="20"> Oœwiadczam przed Bogiem, ¿e w tym, co do was piszê, nie k³amiê. </v>
+<v n="21"> Potem uda³em siê w okolice Syrii i Cylicji; </v>
+<v n="22"> A nie by³em osobiœcie znany koœcio³om Judei, które s¹ w Chrystusie. </v>
+<v n="23"> S³yszeli tylko: ten, który kiedyœ nas przeœladowa³, teraz g³osi wiarê, któr¹ przedtem niszczy³. </v>
+<v n="24"> I chwalili Boga z mojego powodu. </v>
+</c>

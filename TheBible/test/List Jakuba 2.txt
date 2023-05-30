@@ -1,0 +1,27 @@
+<v n="1"> Bracia moi, niech wiara naszego Pana Jezusa Chrystusa, Pana chwaly, bedzie wolna od wzgledu na osobe. </v>
+<v n="2"> Gdyby bowiem na wasze zgromadzenie przyszedl czlowiek ze zlotym pierscieniem i we wspanialej szacie i przyszedlby tez ubogi w nedznym stroju; </v>
+<v n="3"> A wy zwrocicie oczy na tego, ktory ma wspaniala szate i powiecie: Ty usiadz tu w zaszczytnym miejscu, do ubogiego zas powiecie: Ty stan tam lub usiadz tu u mego podnozka; </v>
+<v n="4"> To czy nie czynicie roznicy miedzy soba i nie stajecie sie sedziami o przewrotnych myslach? </v>
+<v n="5"> Posluchajcie, moi umilowani bracia: Czyz Bog nie wybral ubogich tego swiata, aby byli bogatymi w wierze i dziedzicami krolestwa, ktore obiecal tym, ktorzy go miluja? </v>
+<v n="6"> Lecz wy wzgardziliscie ubogim. Czyz to nie bogaci was uciskaja i nie oni ciagna was do sadow? </v>
+<v n="7"> Czyz nie oni bluznia zaszczytnemu imieniu, od ktorego jestescie nazwani? </v>
+<v n="8"> A jesli wypelniacie krolewskie prawo zgodnie z Pismem: Bedziesz milowal swego blizniego jak samego siebie, dobrze czynicie. </v>
+<v n="9"> Lecz jesli macie wzglad na osobe, popelniacie grzech i jestescie osadzeni przez prawo jako przestepcy. </v>
+<v n="10"> Kto bowiem przestrzega calego prawa, a przekroczy jedno przykazanie, staje sie winnym wszystkich. </v>
+<v n="11"> Bo ten, ktory powiedzial: Nie bedziesz cudzolozyl, powiedzial tez: Nie bedziesz zabijal. Jezeli wiec nie cudzolozysz, ale zabijasz, jestes przestepca prawa. </v>
+<v n="12"> Tak mowcie i tak czyncie, jak ci, ktorzy maja byc sadzeni przez prawo wolnosci. </v>
+<v n="13"> Sad bowiem bez milosierdzia odbedzie sie nad tym, ktory nie czynil milosierdzia, a milosierdzie chlubi sie przeciwko sadowi. </v>
+<v n="14"> Jaki z tego pozytek, moi bracia, jesli ktos mowi, ze ma wiare, a nie ma uczynkow? Czy wiara moze go zbawic? </v>
+<v n="15"> Gdyby brat albo siostra nie mieli sie w co ubrac i brakowaloby im codziennego pozywienia; </v>
+<v n="16"> A ktos z was powiedzialby im: Idzcie w pokoju, ogrzejcie sie i najedzcie, a nie dalibyscie im tego, czego potrzebuje cialo, jaki z tego pozytek? </v>
+<v n="17"> Tak i wiara, jesli nie ma uczynkow, martwa jest sama w sobie. </v>
+<v n="18"> Lecz ktos moze powiedziec: Ty masz wiare, a ja mam uczynki; pokaz mi swoja wiare bez twoich uczynkow, a ja ci pokaze swoja wiare z moich uczynkow. </v>
+<v n="19"> Ty wierzysz, ze jest jeden Bog, i dobrze czynisz. Demony takze wierza i drza. </v>
+<v n="20"> Czy chcesz sie przekonac, marny czlowieku, ze wiara bez uczynkow jest martwa? </v>
+<v n="21"> Czy Abraham, nasz ojciec, nie zostal usprawiedliwiony z uczynkow, gdy ofiarowal Izaaka, swego syna, na oltarzu? </v>
+<v n="22"> Widzisz, ze wiara wspoldzialala z jego uczynkami i przez uczynki wiara stala sie doskonala. </v>
+<v n="23"> I tak wypelnilo sie Pismo, ktore mowi: Uwierzyl Abraham Bogu i poczytano mu to za sprawiedliwosc, i zostal nazwany przyjacielem Boga. </v>
+<v n="24"> Widzicie wiec, ze czlowiek zostaje usprawiedliwiony z uczynkow, a nie tylko z wiary. </v>
+<v n="25"> Podobnie i nierzadnica Rachab, czy nie z uczynkow zostala usprawiedliwiona, gdy przyjela wyslannikow i wypuscila ich inna droga? </v>
+<v n="26"> Jak bowiem cialo bez ducha jest martwe, tak i wiara bez uczynkow jest martwa. </v>
+</c>

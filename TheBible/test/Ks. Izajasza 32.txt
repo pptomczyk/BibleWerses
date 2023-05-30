@@ -1,0 +1,21 @@
+<v n="1"> Oto krol bedzie panowal w sprawiedliwosci, a ksiazeta beda rzadzic w prawosci. </v>
+<v n="2"> I ten mezczyzna bedzie jak zaslona przed wiatrem i jak schronienie przed burza; jak strumienie wod w suchym miejscu, jak cien wielkiej skaly w spragnionej ziemi. </v>
+<v n="3"> Oczy patrzacych nie beda zacmione i uszy sluchajacych beda uwaznie sluchac. </v>
+<v n="4"> Serce pochopnych zrozumie wiedze, a jezyk jakajacych sie bedzie mowic pewnie i wyraznie. </v>
+<v n="5"> Nieszlachetnego nie beda juz nazywac szlachetnym ani o skapym nie powie sie, ze jest szczodry; </v>
+<v n="6"> Nieszlachetny bowiem mowi nikczemnie i jego serce obmysla nieprawosc, aby postepowal obludnie i mowil przeciwko PANU przewrotnie, by wyniszczyl dusze glodnego i spragnionego pozbawil napoju. </v>
+<v n="7"> Zamierzenia skapego sa zle, bo chytrze obmysla, jak zniszczyc biednych slowami klamstwa i mowic przeciwko ubogim przed sadem. </v>
+<v n="8"> Ale szczodry ma szczodrobliwe mysli i bedzie obstawac przy swojej szczodrobliwosci. </v>
+<v n="9"> Kobiety beztroskie, powstancie, sluchajcie mego glosu; corki pewne siebie, nakloncie ucha na moja mowe. </v>
+<v n="10"> Przez wiele dni i lat bedziecie zatrwozone, wy pewne siebie! Ustanie bowiem winobranie, zbioru nie bedzie. </v>
+<v n="11"> Zatrwozcie sie, wy beztroskie, uleknijcie sie, pewne siebie! Rozbierzcie sie i obnazcie sie, a przepaszcie worem biodra. </v>
+<v n="12"> Nastanie lament nad piersiami, nad rozkosznymi polami i nad urodzajna winorosla. </v>
+<v n="13"> Na ziemi mojego ludu wyrosna ciernie i osty – tak, we wszystkich wesolych domach w rozbawionym miescie. </v>
+<v n="14"> Palace bowiem zostana opuszczone, ustanie wrzawa miasta, zamek i baszty stana sie jaskiniami na zawsze, miejscem uciechy dla dzikich oslow, pastwiskiem dla stad; </v>
+<v n="15"> Az zostanie wylany na nas duch z wysoka, pustynia obroci sie w urodzajne pole, a urodzajne pole bedzie uwazane za las. </v>
+<v n="16"> Sad zamieszka na pustyni, sprawiedliwosc osiadzie na urodzajnym polu. </v>
+<v n="17"> Dzielem sprawiedliwosci bedzie pokoj, owocem sprawiedliwosci odpoczynek i bezpieczenstwo na wieki. </v>
+<v n="18"> Moj lud bowiem bedzie mieszkal w przybytku pokoju, w bezpiecznych mieszkaniach i w spokojnych miejscach odpoczynku; </v>
+<v n="19"> Gdy spadnie na las grad, a miasto bedzie bardzo ponizone. </v>
+<v n="20"> Blogoslawieni jestescie, wy, ktorzy siejecie na wszelkich urodzajnych miejscach, puszczajac tam wolno woly i osly. </v>
+</c>

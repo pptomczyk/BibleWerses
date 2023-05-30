@@ -1,0 +1,26 @@
+<v n="1"> Potem Hiob odpowiedzial: </v>
+<v n="2"> Doprawdy jestescie ludem i wraz z wami zginie madrosc. </v>
+<v n="3"> Ale ja rowniez mam rozum, jak i wy, i nie jestem od was gorszy. Kto nie zna tych rzeczy? </v>
+<v n="4"> Jestem posmiewiskiem dla swojego przyjaciela; ja, ktory wolam do Boga, a on odpowiada; sprawiedliwy i doskonaly jest posmiewiskiem. </v>
+<v n="5"> Ten, ktory jest bliski upadku, to pochodnia wzgardzona w umysle tego, ktory zyje w pokoju. </v>
+<v n="6"> Namioty lupiezcow sa spokojne i bezpieczni sa ci, ktorzy draznia Boga, a ktorym Bog obficie daje w rece. </v>
+<v n="7"> Ale zapytaj zwierzat, a one cie poucza, i ptakow nieba, a powiedza tobie. </v>
+<v n="8"> Albo rozmawiaj z ziemia, a ona cie nauczy, i opowiedza ci ryby morskie. </v>
+<v n="9"> Ktoz sposrod nich wszystkich nie wie, ze reka PANA to wykonala? </v>
+<v n="10"> W jego reku jest dusza wszelkiej istoty zywej i duch wszelkiego czlowieka. </v>
+<v n="11"> Czy ucho nie bada mowy, a podniebienie nie smakuje pokarmu? </v>
+<v n="12"> U starcow jest madrosc, a w dlugosci dni roztropnosc. </v>
+<v n="13"> Ale u niego jest madrosc i sila, u niego rada i roztropnosc. </v>
+<v n="14"> Oto on burzy, a nikt nie moze odbudowac, zamyka czlowieka, a nikt nie moze otworzyc. </v>
+<v n="15"> Oto gdy zatrzyma wody, wysychaja, gdy je wypusci, wywracaja ziemie. </v>
+<v n="16"> U niego jest moc i madrosc. Do niego nalezy zwiedziony i zwodziciel. </v>
+<v n="17"> Pozbawia radcow madrosci i sedziow czyni glupcami. </v>
+<v n="18"> Rozwiazuje wiezy krolow i przepasuje ich biodra pasem. </v>
+<v n="19"> Odprowadza zlupionych ksiazat i wywraca mocarzy. </v>
+<v n="20"> Odbiera mowe prawdomownym i zabiera starcom rozsadek. </v>
+<v n="21"> Wylewa pogarde na ksiazat i oslabia sily mocarzy. </v>
+<v n="22"> On odslania glebokie rzeczy z ciemnosci i wyprowadza na swiatlo cien smierci. </v>
+<v n="23"> Rozmnaza narody i wytraca je, rozszerza narody i pomniejsza je. </v>
+<v n="24"> On zabiera serca przelozonym ludu ziemi i sprawia, ze bladza po pustyni bezdroznej; </v>
+<v n="25"> I chodza po omacku w ciemnosci bez swiatla, i sprawia, ze zataczaja sie jak pijani. </v>
+</c>

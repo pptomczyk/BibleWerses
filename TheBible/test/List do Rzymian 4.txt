@@ -1,0 +1,26 @@
+<v n="1"> Coz wiec powiemy, co zyskal Abraham, nasz ojciec, wedlug ciala? </v>
+<v n="2"> Jesli bowiem Abraham zostal usprawiedliwiony z uczynkow, ma sie czym chlubic, ale nie przed Bogiem. </v>
+<v n="3"> Coz bowiem mowi Pismo? Abraham uwierzyl Bogu i zostalo mu to poczytane za sprawiedliwosc. </v>
+<v n="4"> A temu, kto pracuje, zaplata nie jest uznana za laske, ale za naleznosc. </v>
+<v n="5"> Temu zas, kto nie pracuje, lecz wierzy w tego, ktory usprawiedliwia bezboznego, jego wiara zostaje poczytana za sprawiedliwosc. </v>
+<v n="6"> Jak i Dawid mowi, ze blogoslawiony jest czlowiek, ktoremu Bog przypisze sprawiedliwosc bez uczynkow, mowiac: </v>
+<v n="7"> Blogoslawieni, ktorych nieprawosci sa przebaczone i ktorych grzechy sa zakryte. </v>
+<v n="8"> Blogoslawiony czlowiek, ktoremu Pan nie poczyta grzechu. </v>
+<v n="9"> Czy wiec to blogoslawienstwo dotyczy tylko obrzezanych, czy tez nieobrzezanych? Mowimy przeciez, ze wiara zostala Abrahamowi poczytana za sprawiedliwosc. </v>
+<v n="10"> Jakze wiec zostala mu poczytana? Gdy byl obrzezany czy przed obrzezaniem? Nie po obrzezaniu, ale przed obrzezaniem. </v>
+<v n="11"> I przyjal znak obrzezania jako pieczec sprawiedliwosci wiary, ktora mial przed obrzezaniem, po to, aby byl ojcem wszystkich nieobrzezanych wierzacych, aby im tez poczytana byla sprawiedliwosc; </v>
+<v n="12"> I aby byl ojcem obrzezania, nie tylko tych, ktorzy sa obrzezani, ale tez tych, ktorzy chodza sladami wiary naszego ojca Abrahama, ktora mial przed obrzezaniem. </v>
+<v n="13"> Obietnica bowiem, ze ma byc dziedzicem swiata, nie zostala dana Abrahamowi czy jego potomstwu przez prawo, ale przez sprawiedliwosc wiary. </v>
+<v n="14"> Jesli bowiem dziedzicami sa ci, ktorzy sa z prawa, to wiara stala sie daremna i obietnica obrocila sie wniwecz. </v>
+<v n="15"> Gdyz prawo sprowadza gniew, bo gdzie nie ma prawa, tam nie ma przestepstwa. </v>
+<v n="16"> Tak wiec dziedzictwo jest z wiary, aby bylo z laski i zeby obietnica byla niewzruszona dla calego potomstwa, nie tylko dla tego, ktore opiera sie na prawie, ale i dla tego, ktore jest z wiary Abrahama, ktory jest ojcem nas wszystkich; </v>
+<v n="17"> (Jak jest napisane: Ustanowilem cie ojcem wielu narodow) przed Bogiem, ktoremu uwierzyl, ktory ozywia umarlych i przywoluje te rzeczy, ktorych nie ma, tak jakby byly. </v>
+<v n="18"> On to wbrew nadziei, majac nadzieje, uwierzyl, ze stanie sie ojcem wielu narodow wedlug tego, co mu powiedziano: Takie bedzie twoje potomstwo. </v>
+<v n="19"> A nie bedac slabym w wierze, nie zwazal na swoje juz obumarle cialo – bo mial okolo stu lat – ani na obumarle lono Sary. </v>
+<v n="20"> I nie zachwial sie z powodu niewiary w obietnice Boga, ale umocnil sie wiara i oddal chwale Bogu; </v>
+<v n="21"> Bedac tez pewien tego, ze to, co on obiecal, ma moc tez uczynic. </v>
+<v n="22"> Dlatego zostalo mu to poczytane za sprawiedliwosc. </v>
+<v n="23"> A nie tylko ze wzgledu na niego samego napisano, ze zostalo mu to poczytane; </v>
+<v n="24"> Ale i ze wzgledu na nas, ktorym ma byc poczytane, ktorzy wierzymy w tego, ktory wskrzesil z martwych Jezusa, naszego Pana; </v>
+<v n="25"> Ktory zostal wydany za nasze grzechy i wstal z martwych dla naszego usprawiedliwienia. </v>
+</c>

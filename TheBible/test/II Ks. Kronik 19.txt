@@ -1,0 +1,12 @@
+<v n="1"> A Jehoszafat, krol Judy, wrocil do swojego domu w pokoju, do Jerozolimy. </v>
+<v n="2"> I wyszedl mu naprzeciw widzacy Jehu, syn Chananiego, i powiedzial do krola Jehoszafata: Czy powinienes byl pomagac bezboznym i milowac tych, ktorzy nienawidza PANA? Przez to wlasnie wisi nad toba gniew PANA. </v>
+<v n="3"> Znalazly sie jednak dobre czyny w tobie, bo powycinales gaje z ziemi i przygotowales swoje serce, aby szukac Boga. </v>
+<v n="4"> Zamieszkal wiec Jehoszafat w Jerozolimie. I znowu wyruszyl na objazd do ludu, od Beer-Szeby az do gory Efraim, i nawrocil ich do PANA, Boga swoich ojcow. </v>
+<v n="5"> I ustanowil sedziow w ziemi we wszystkich warownych miastach Judy, w kazdym miescie. </v>
+<v n="6"> I powiedzial do sedziow: Uwazajcie na to, co czynicie, bo sadzicie nie dla czlowieka, ale dla PANA, ktory jest z wami podczas sprawowania sadu. </v>
+<v n="7"> Niech wiec bedzie w was bojazn PANA. Strzezcie sie i czyncie sprawiedliwosc. Nie ma bowiem nieprawosci u PANA, Boga naszego, i nie ma wzgledu na osoby ani przyjmowania darow. </v>
+<v n="8"> Takze i w Jerozolimie Jehoszafat ustanowil niektorych sposrod Lewitow, kaplanow i naczelnikow rodow Izraela dla sadu PANA i do rozstrzygania sporow tych, ktorzy sie udawali do Jerozolimy. </v>
+<v n="9"> I nakazal im: Czyncie to w bojazni PANA, wiernie i doskonalym sercem. </v>
+<v n="10"> A przy wszystkich sporach, ktore wam przedloza wasi bracia mieszkajacy w swoich miastach, czy dotycza one przelania krwi, czy prawa, przykazania, ustaw czy sadow, napominajcie ich, aby nie grzeszyli przeciwko PANU, aby gniew nie spadl na was i na waszych braci. Tak czyncie, a nie zgrzeszycie. </v>
+<v n="11"> A oto najwyzszy kaplan Amariasz bedzie postawiony nad wami we wszystkich sprawach PANA, a Zebadiasz, syn Izmaela, ksiaze w domu Judy – we wszystkich sprawach krola. Lewici beda rowniez waszymi urzednikami. Umacniajcie sie i czyncie tak, a PAN bedzie z dobrym. </v>
+</c>

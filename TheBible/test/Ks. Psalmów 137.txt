@@ -1,0 +1,10 @@
+<v n="1"> Nad rzekami Babilonu, tam siedzielismy i plakalismy, wspominajac Syjon. </v>
+<v n="2"> Na wierzbach tamtej krainy zawiesilismy nasze harfy; </v>
+<v n="3"> Bo tam ci, ktorzy nas wzieli w niewole, zadali od nas piesni, a nasi ciemiezcy – radosci, mowiac: Spiewajcie nam ktoras z piesni Syjonu. </v>
+<v n="4"> Jakze mozemy spiewac piesn PANA na obcej ziemi? </v>
+<v n="5"> Jesli zapomne o tobie, Jeruzalem, niech sama o sobie zapomni moja prawica. </v>
+<v n="6"> Niech mi jezyk przylgnie do podniebienia, jesli nie bede pamietal o tobie, jesli nie postawie Jeruzalem ponad najwieksza moja radosc. </v>
+<v n="7"> Pamietaj, PANIE, synow Edomu i dzien Jeruzalem, gdy mowili: Zburzcie, zburzcie je az do jego fundamentu. </v>
+<v n="8"> O corko Babilonu, i ty bedziesz spustoszona. Blogoslawiony, kto ci odplaci za zlo, jakie nam uczynilas. </v>
+<v n="9"> Blogoslawiony, kto schwyci i roztrzaska twe dzieci o skale. </v>
+</c>

@@ -1,0 +1,7 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Jak dlugo, PANIE? Zapomnisz o mnie na wieki? Jak dlugo bedziesz ukrywal przede mna swoje oblicze? </v>
+<v n="2"> Jak dlugo bede szukal rady w swojej duszy i codziennie trapil sie w sercu? Jak dlugo moj wrog bedzie sie nade mnie wynosil? </v>
+<v n="3"> Spojrz i wysluchaj mnie, PANIE, moj Boze! Oswiec moje oczy, bym nie zasnal w smierci; </v>
+<v n="4"> By nie powiedzial moj wrog: Pokonalem go! Niech sie nie ciesza moi nieprzyjaciele, gdy sie zachwieje. </v>
+<v n="5"> Lecz ja zaufalem twemu milosierdziu; moje serce rozraduje sie twoim zbawieniem. </v>
+<v n="6"> Bede spiewal PANU, bo obdarzyl mnie dobrem. </v>
+</c>

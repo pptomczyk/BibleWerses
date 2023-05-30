@@ -1,0 +1,19 @@
+<v n="1"> Los przypadl tez pokoleniu Manassesa, bo byl on pierworodnym Jozefa. Przypadl Makirowi, pierworodnemu Manassesa, ojcu Gileada, a poniewaz byl wojownikiem, otrzymal Gilead i Baszan. </v>
+<v n="2"> Dzial otrzymali tez inni synowie Manassesa wedlug ich rodzin: synowie Abiezera, synowie Cheleka, synowie Asriela, synowie Sychema, synowie Chefera i synowie Szemidy. Ci byli synami Manassesa, syna Jozefa – mezczyzni wedlug ich rodzin. </v>
+<v n="3"> Lecz Selofchad, syn Chefera, syna Gileada, syna Makira, syna Manassesa, nie mial synow, tylko corki. Oto imiona jego corek: Machla, Noa, Chogla, Milka i Tirsa. </v>
+<v n="4"> Przyszly one przed kaplana Eleazara, przed Jozuego, syna Nuna, oraz przed naczelnikow i powiedzialy: PAN rozkazal Mojzeszowi, aby dal nam dziedzictwo posrod naszych braci; i Jozue dal im zgodnie z rozkazem PANA dziedzictwo posrod braci ich ojca. </v>
+<v n="5"> I przypadlo Manassesowi dziesiec dzialow oprocz ziemi Gilead i Baszan, ktore byly za Jordanem. </v>
+<v n="6"> Corki Manassesa otrzymaly bowiem dziedzictwo posrod jego synow, a ziemia Gilead przypadla pozostalym synom Manassesa. </v>
+<v n="7"> I granica Manassesa ciagnela sie od Aszera do Michmetat, ktore lezy naprzeciw Szechem, a dalej biegla na prawo do mieszkancow w En-Tappuach. </v>
+<v n="8"> Ziemia Tappuach nalezala do Manassesa, ale Tappuach na granicy Manassesa nalezalo do synow Efraima. </v>
+<v n="9"> Granica ta biegla do potoku Kana, na poludnie od tego potoku. Te miasta Efraimitow leza wsrod miast Manassesa, ale granica Manassesa biegla od polnocy tego potoku, a konczyla sie przy morzu. </v>
+<v n="10"> Na poludniu byl dzial Efraima, a na polnocy Manassesa, a jego granica bylo morze. Z Aszerem graniczy na polnocy, a z Issacharem na wschodzie. </v>
+<v n="11"> I Manasses posiadal w dzialach Issachara i Aszera Bet-Szean i przylegle do niego miasteczka, Jibleam i przylegle do niego miasteczka, mieszkancow Dor i przylegle do niego miasteczka, mieszkancow Endor i przylegle do niego miasteczka, mieszkancow Tanaku i przylegle do niego miasteczka oraz mieszkancow Megiddo i przylegle do niego miasteczka – trzy okregi. </v>
+<v n="12"> Lecz synowie Manassesa nie mogli wypedzic z tych miast ich mieszkancow, dlatego Kananejczycy dalej mieszkali w tej ziemi. </v>
+<v n="13"> A gdy synowie Izraela wzmocnili sie, kazali Kananejczykom placic danine, ale nie wypedzili ich calkowicie. </v>
+<v n="14"> Wtedy synowie Jozefa powiedzieli do Jozuego: Dlaczego dales nam w dziedzictwo jeden los i jeden dzial? Jestesmy przeciez ludem wielkim i PAN dotychczas nam blogoslawil. </v>
+<v n="15"> I Jozue odpowiedzial im: Jesli jestescie ludem wielkim, idzcie do lasu i wykarczujcie tam sobie miejsce w ziemi Peryzzytow i Refaitow, skoro za ciasno jest wam na gorze Efraim. </v>
+<v n="16"> Synowie Jozefa odpowiedzieli: Gora nam nie wystarczy, a wszyscy Kananejczycy, ktorzy mieszkaja w dolinach, maja zelazne rydwany, zarowno ci, ktorzy mieszkaja w Bet-Szean i w przyleglych do niego miasteczkach, jak i ci, ktorzy mieszkaja w dolinie Jizreel. </v>
+<v n="17"> Wtedy Jozue powiedzial do domu Jozefa, do Efraima i Manassesa: Jestes ludem wielkim i twoja moc jest wielka, nie bedziesz mial tylko jednego losu; </v>
+<v n="18"> Lecz otrzymasz gore; a ze tam jest las, to go wykarczujesz i bedziesz mial jego granice. Wypedzisz bowiem Kananejczykow, choc maja zelazne rydwany i sa potezni. </v>
+</c>

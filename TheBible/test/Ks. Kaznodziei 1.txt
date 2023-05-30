@@ -1,0 +1,19 @@
+<v n="1"> Slowa Kaznodziei, syna Dawida, krola w Jerozolimie. </v>
+<v n="2"> Marnosc nad marnosciami – mowi Kaznodzieja – marnosc nad marnosciami. Wszystko jest marnoscia. </v>
+<v n="3"> Jaki pozytek ma czlowiek z calego swego trudu, ktory podejmuje pod sloncem? </v>
+<v n="4"> Jedno pokolenie przemija, drugie pokolenie przychodzi, lecz ziemia trwa na wieki. </v>
+<v n="5"> Slonce wschodzi i slonce zachodzi, i spieszy do swego miejsca, z ktorego znow wschodzi. </v>
+<v n="6"> Wiatr idzie na poludnie i zawraca na polnoc, krazy nieustannie i znowu wraca na droge swego krazenia. </v>
+<v n="7"> Wszystkie rzeki plyna do morza, lecz morze sie nie przepelnia; do miejsca, z ktorego rzeki plyna, znowu wracaja. </v>
+<v n="8"> Wszystkie rzeczy sa pelne trudu, a czlowiek nie zdola tego wyrazic. Oko nie nasyci sie patrzeniem ani ucho nie napelni sie sluchaniem. </v>
+<v n="9"> To, co bylo, jest tym, co bedzie; a to, co sie stalo, jest tym, co sie stanie. I nie ma nic nowego pod sloncem. </v>
+<v n="10"> Czy jest cos, o czym mozna by powiedziec: Patrz, to jest cos nowego? I to juz bylo w dawnych czasach, ktore byly przed nami. </v>
+<v n="11"> Nie ma pamieci o dawnych rzeczach; takze o tych, ktore beda, nie bedzie pamieci u tych, ktorzy potem nastana. </v>
+<v n="12"> Ja, Kaznodzieja, bylem krolem nad Izraelem w Jerozolimie. </v>
+<v n="13"> I przylozylem sie w swoim sercu do tego, aby madroscia szukac wszystkiego i wybadac wszystko, co sie dzieje pod niebem. To uciazliwe zadanie Bog dal synom ludzkim, aby sie nim trudzili. </v>
+<v n="14"> Widzialem wszystkie sprawy, jakie sie dzieja pod sloncem, a oto wszystko jest marnoscia i utrapieniem ducha. </v>
+<v n="15"> Tego, co krzywe, nie da sie wyprostowac, a tego, czego brak, nie da sie policzyc. </v>
+<v n="16"> Tak wiec pomyslalem w swoim sercu: Oto wzbogacilem sie i dano mi wiecej madrosci niz wszystkim, ktorzy byli przede mna w Jerozolimie. I moje serce doswiadczylo wielkiej madrosci i wiedzy. </v>
+<v n="17"> I przylozylem sie w swoim sercu do tego, aby poznac madrosc, a takze by poznac szalenstwo i glupote. Ale poznalem, ze i to jest utrapieniem ducha. </v>
+<v n="18"> Gdzie bowiem jest wiele madrosci, tam jest wiele smutku. A kto przysparza wiedzy, przysparza i cierpienia. </v>
+</c>

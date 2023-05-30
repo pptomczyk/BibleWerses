@@ -1,0 +1,20 @@
+<v n="1"> Kim jest ten, ktory przybywa z Edomu, w farbowanych szatach z Bosry? Ten wspanialy w swoich szatach, kroczacy w swojej wielkiej mocy? To ja jestem, ktory mowie w sprawiedliwosci, potezny w wybawieniu. </v>
+<v n="2"> Dlaczego twoja odziez jest czerwona? A twoje szaty jak u tego, ktory tloczy w prasie? </v>
+<v n="3"> Sam jeden tloczylem prase i sposrod ludu nie bylo ze mna nikogo. Tloczylem go w swoim gniewie i deptalem go w swojej zapalczywosci, az pryskala jego krew na moje szaty, poplamilem cala swa odziez. </v>
+<v n="4"> Dzien pomsty byl bowiem w moim sercu, a rok moich odkupionych nadszedl. </v>
+<v n="5"> Rozgladalem sie, ale nie bylo pomocnika, zdumialem sie, ze nikogo nie bylo, kto by mnie podparl. Dlatego moje ramie przynioslo mi zbawienie, a moja zapalczywosc – ona mnie podparla. </v>
+<v n="6"> Zdeptalem narody w swoim gniewie, upoilem je w swojej zapalczywosci i uderzylem o ziemie ich mocarzy. </v>
+<v n="7"> Bede wspominac milosierdzie PANA i chwale PANA za wszystko, co nam PAN wyswiadczyl, i za wielka dobroc, ktora okazal domowi Izraela wedlug swego milosierdzia i wedlug swojej wielkiej laskawosci. </v>
+<v n="8"> Powiedzial bowiem: Na pewno sa moim ludem, synami, ktorzy mi sie nie sprzeniewierza. I tak stal sie ich Zbawicielem. </v>
+<v n="9"> We wszelkim ich ucisku i on byl ucisniony, a Aniol jego oblicza zbawil ich. W swojej milosci i litosci on ich odkupil. Troszczyl sie o nich i nosil ich przez wszystkie dni wiekow. </v>
+<v n="10"> Ale oni sie zbuntowali i zasmucili jego Swietego Ducha. Dlatego zamienil sie w ich wroga i walczyl przeciwko nim. </v>
+<v n="11"> Wowczas wspomnial dawne dni, Mojzesza i jego lud, mowiac: Gdziez jest ten, ktory ich wyprowadzil z morza, z pasterzem swojej trzody? Gdziez jest ten, ktory wlozyl w jego wnetrze swego Swietego Ducha? </v>
+<v n="12"> Ktory prowadzil ich prawica Mojzesza dzieki swemu chwalebnemu ramieniu i rozdzielil wody przed nimi, aby uczynic sobie wieczne imie? </v>
+<v n="13"> Ktory ich przeprowadzil przez glebiny, jak konia na pustyni, tak ze sie nie potkneli? </v>
+<v n="14"> Jak bydlo schodzace w doline tak Duch PANA spokojnie ich prowadzil. Tak prowadziles swoj lud, aby uczynic sobie chwalebne imie. </v>
+<v n="15"> Spojrz z nieba i popatrz z przybytku swojej swietosci i chwaly. Gdzie twoja gorliwosc i twoja wielka sila? Gdzie poruszenie twoich uczuc i litosci przede mna? Czy powstrzymales je? </v>
+<v n="16"> Przeciez ty jestes naszym ojcem, bo Abraham nas nie zna, a Izrael nas nie uznaje. Ty, PANIE, jestes naszym ojcem, naszym Odkupicielem; twoje imie jest od wiekow. </v>
+<v n="17"> Czemu, PANIE, pozwoliles nam zboczyc z twoich drog i zatwardziles nasze serce, abysmy sie ciebie nie bali? Odwroc sie ze wzgledu na twoje slugi, pokolenia twego dziedzictwa. </v>
+<v n="18"> Lud posiadl ja na krotki czas, nasi wrogowie zas zdeptali twoja swiatynie. </v>
+<v n="19"> My jestesmy twoi. Nad nimi nigdy nie panowales ani nie byli nazywani twoimi imieniem. </v>
+</c>

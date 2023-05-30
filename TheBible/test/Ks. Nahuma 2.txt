@@ -1,0 +1,14 @@
+<v n="1"> Nadciaga niszczyciel przeciwko tobie! Strzez miejsc obronnych, obserwuj droge, wzmocnij biodra i zbierz wszystkie swe sily. </v>
+<v n="2"> PAN bowiem odwrocil pyche Jakuba jak pyche Izraela, gdyz zlupili ich grabiezcy i zniszczyli ich latorosle. </v>
+<v n="3"> Tarcza jego mocarzy czerwona, jego wojownicy ubrani w szkarlat, rydwany beda jak plonace pochodnie w dniu jego przygotowania, a jodly beda strasznie sie trzasc. </v>
+<v n="4"> Rydwany po ulicach beda szalec i na rynku skrzypiec. Z wygladu beda podobne do pochodni, jak blyskawice beda pedzic. </v>
+<v n="5"> Wezwie swoich mocarzy; zatocza sie w swoim pochodzie, pospiesza sie do murow, obrona bedzie przygotowana. </v>
+<v n="6"> Bramy przy rzekach otworza sie i palac sie rozplynie; </v>
+<v n="7"> A Chusab zostanie uprowadzona do niewoli, jej sluzace beda ja prowadzic, jeczac jak golebie i bijac sie w piersi. </v>
+<v n="8"> A Niniwa od swego poczatku byla jak sadzawka wod, ale uciekna. I choc ktos powie: Stojcie, stojcie! – nikt jednak sie nie obejrzy. </v>
+<v n="9"> Rabujcie srebro, rabujcie zloto, bo nie ma konca bogactwo i przepych wszystkich kosztownosci. </v>
+<v n="10"> Pusta, oprozniona i spustoszona! Serce topnieje, trzesa sie kolana, czuc bol w biodrach wszystkich ludzi, a twarze wszystkich czernieja. </v>
+<v n="11"> Gdzie jest jaskinia lwow i pastwisko lwiat, dokad chodzily lew, ten wielki lew, oraz lwieta, a nie bylo nikogo, kto by je straszyl. </v>
+<v n="12"> Lew juz dosyc rozszarpal ofiar dla swych lwiat i zadusil je dla swoich lwic, napelnial lupem swoje jaskinie, a zdobycza swoje legowiska. </v>
+<v n="13"> Oto jestem przeciwko tobie, mowi PAN zastepow, spale na proch twoje rydwany i twoje lwieta pozre miecz. Wykorzenie z ziemi twoj lup i nie bedzie juz slychac glosu twoich poslow. </v>
+</c>

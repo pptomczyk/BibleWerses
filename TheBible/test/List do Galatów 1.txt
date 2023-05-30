@@ -1,0 +1,25 @@
+<v n="1"> Pawel, apostol nie od ludzi ani przez czlowieka, ale przez Jezusa Chrystusa i Boga Ojca, ktory go wskrzesil z martwych; </v>
+<v n="2"> I wszyscy bracia, ktorzy sa ze mna, do kosciolow Galacji: </v>
+<v n="3"> Laska wam i pokoj od Boga Ojca i naszego Pana Jezusa Chrystusa; </v>
+<v n="4"> Ktory wydal samego siebie za nasze grzechy, aby nas wyrwac z obecnego zlego swiata wedlug woli Boga i Ojca naszego; </v>
+<v n="5"> Ktoremu chwala na wieki wiekow. Amen. </v>
+<v n="6"> Dziwie sie, ze tak szybko dajecie sie odwiesc od tego, ktory was powolal ku lasce Chrystusa, do innej ewangelii; </v>
+<v n="7"> Ktora nie jest inna; sa tylko pewni ludzie, ktorzy was niepokoja i chca wypaczyc ewangelie Chrystusa. </v>
+<v n="8"> Lecz chocbysmy nawet my albo aniol z nieba glosil wam ewangelie inna od tej, ktora wam glosilismy, niech bedzie przeklety. </v>
+<v n="9"> Jak powiedzielismy przedtem, tak i teraz znowu mowie: Gdyby wam ktos glosil ewangelie inna od tej, ktora przyjeliscie, niech bedzie przeklety. </v>
+<v n="10"> Czy teraz bowiem chce pozyskac ludzi, czy Boga? Albo czy staram sie przypodobac ludziom? Gdybym nadal ludziom chcial sie przypodobac, nie bylbym sluga Chrystusa. </v>
+<v n="11"> A oznajmiam wam, bracia, ze gloszona przeze mnie ewangelia nie jest wedlug czlowieka. </v>
+<v n="12"> Nie otrzymalem jej bowiem ani nie nauczylem sie jej od czlowieka, ale przez objawienie Jezusa Chrystusa. </v>
+<v n="13"> Slyszeliscie bowiem o moim dawniejszym postepowaniu w judaizmie, ze ponad miare przesladowalem kosciol Bozy i niszczylem go; </v>
+<v n="14"> I wyprzedzalem w judaizmie wielu moich rowiesnikow z mojego narodu, bedac bardzo gorliwym zwolennikiem moich ojczystych tradycji. </v>
+<v n="15"> Lecz gdy upodobalo sie Bogu, ktory mnie odlaczyl w lonie mojej matki i powolal swoja laska; </v>
+<v n="16"> Aby objawic swego Syna we mnie, abym glosil go wsrod pogan, natychmiast, nie radzac sie ciala i krwi; </v>
+<v n="17"> Ani nie udajac sie do Jerozolimy, do tych, ktorzy przede mna byli apostolami, poszedlem do Arabii, po czym znowu wrocilem do Damaszku. </v>
+<v n="18"> Potem, trzy lata pozniej, udalem sie do Jerozolimy, aby zobaczyc sie z Piotrem, u ktorego przebywalem pietnascie dni. </v>
+<v n="19"> A sposrod apostolow nie widzialem zadnego innego poza Jakubem, bratem Pana. </v>
+<v n="20"> Oswiadczam przed Bogiem, ze w tym, co do was pisze, nie klamie. </v>
+<v n="21"> Potem udalem sie w okolice Syrii i Cylicji; </v>
+<v n="22"> A nie bylem osobiscie znany kosciolom Judei, ktore sa w Chrystusie. </v>
+<v n="23"> Slyszeli tylko: ten, ktory kiedys nas przesladowal, teraz glosi wiare, ktora przedtem niszczyl. </v>
+<v n="24"> I chwalili Boga z mojego powodu. </v>
+</c>

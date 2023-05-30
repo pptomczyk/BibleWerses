@@ -1,0 +1,15 @@
+<v n="1"> Gdy Filistyni walczyli z Izraelem, Izraelici uciekli przed nimi i padli zabici na gorze Gilboa. </v>
+<v n="2"> I Filistyni scigali Saula i jego synow, i zabili Jonatana, Abinadaba i Malkiszue, synow Saula. </v>
+<v n="3"> A gdy rozgorzala bitwa przeciw Saulowi, lucznicy trafili w niego i zostal przez nich ciezko zraniony. </v>
+<v n="4"> Wtedy Saul powiedzial do swego giermka: Dobadz swoj miecz i przebij mnie nim, aby nie przyszli ci nieobrzezani i nie znecali sie nade mna. Ale jego giermek nie chcial tego zrobic, poniewaz bardzo sie bal. Saul wiec wzial miecz i sam rzucil sie na niego. </v>
+<v n="5"> A gdy jego giermek zobaczyl, ze Saul umarl, rzucil sie i on na swoj miecz i umarl. </v>
+<v n="6"> Tak umarli Saul i jego trzej synowie, a caly jego dom zginal razem z nim. </v>
+<v n="7"> A gdy wszyscy Izraelici, ktorzy mieszkali w dolinie, zobaczyli, ze Izraelici uciekli oraz ze Saul i jego synowie umarli, opuscili swoje miasta i uciekli. Przyszli wiec Filistyni i mieszkali w nich. </v>
+<v n="8"> Kiedy nazajutrz Filistyni przyszli, aby zlupic zabitych, znalezli Saula i jego synow poleglych na gorze Gilboa. </v>
+<v n="9"> Obdarli go wiec z szat, wzieli jego glowe i zbroje i rozeslali po calej ziemi filistynskiej, aby oglosic radosna wiesc swoim bozkom i swojemu ludowi. </v>
+<v n="10"> Jego zbroje polozyli w domu swoich bogow, a jego glowe powiesili w swiatyni Dagona. </v>
+<v n="11"> Kiedy wszyscy mieszkancy Jabesz-Gilead uslyszeli o wszystkim, co Filistyni uczynili Saulowi; </v>
+<v n="12"> Powstali wszyscy waleczni mezczyzni, wzieli cialo Saula oraz ciala jego synow, przyniesli je do Jabesz i pogrzebali ich kosci pod debem w Jabesz. Potem poscili przez siedem dni. </v>
+<v n="13"> Tak umarl Saul z powodu swojego przestepstwa, ktore popelnil przeciwko PANU i przeciwko slowu PANA, ktorego nie przestrzegal, oraz za to, ze szukal rady czarownika; </v>
+<v n="14"> A nie radzil sie PANA. PAN zabil go wiec i przeniosl krolestwo na Dawida, syna Jessego. </v>
+</c>

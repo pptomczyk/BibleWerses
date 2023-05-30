@@ -1,0 +1,13 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida, slugi PANA. Nieprawosc niegodziwego swiadczy w mym sercu, ze nie ma bojazni Bozej przed jego oczyma. </v>
+<v n="2"> Schlebia sobie bowiem w swoich oczach, az jego nieprawosc okaze sie obrzydliwa. </v>
+<v n="3"> Slowa jego ust to niegodziwosc i falsz, porzucil madrosc i czynienie dobra. </v>
+<v n="4"> Na swoim lozu obmysla nieprawosc, stoi na drodze niedobrej i nie brzydzi sie zlem. </v>
+<v n="5"> PANIE, twoje milosierdzie siega niebios, twoja wiernosc az do oblokow. </v>
+<v n="6"> Twoja sprawiedliwosc jak najwyzsze gory, twoje sady jak wielka przepasc; ty, PANIE, zachowujesz ludzi i zwierzeta! </v>
+<v n="7"> Jak cenne jest twoje milosierdzie, Boze! Dlatego synowie ludzcy chronia sie w cieniu twoich skrzydel. </v>
+<v n="8"> Nasyca sie obfitoscia twego domu, napoisz ich strumieniem twoich rozkoszy. </v>
+<v n="9"> U ciebie bowiem jest zrodlo zycia, w twojej swiatlosci ujrzymy swiatlosc. </v>
+<v n="10"> Roztocz twe milosierdzie nad tymi, ktorzy cie znaja, a twoja sprawiedliwosc nad ludzmi prawego serca. </v>
+<v n="11"> Niech nie nastepuje na mnie noga pyszalka, niech nie wygania mnie reka niegodziwego. </v>
+<v n="12"> Oto tam upadli czyniacy nieprawosc, zostali powaleni i nie beda mogli powstac. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi choru. Psalm dla synow Korego. Sluchajcie tego wszystkie narody, nadstawcie ucha wszyscy mieszkancy swiata. </v>
+<v n="2"> Zarowno wy, prosci, jak i wy, mozni; zarowno bogaty, jak i ubogi. </v>
+<v n="3"> Moje usta wypowiedza madrosc, a rozmyslaniem mego serca bedzie roztropnosc. </v>
+<v n="4"> Naklonie ucha ku przypowiesci, przy harfie rozwiaze moja zagadke. </v>
+<v n="5"> Dlaczego mam sie bac w dniach niedoli, gdy otacza mnie nieprawosc tych, ktorzy mnie depcza? </v>
+<v n="6"> Ci, ktorzy ufaja swym bogactwom i chlubia sie swym wielkim dostatkiem; </v>
+<v n="7"> Nikt z nich w zaden sposob nie odkupi swego brata ani nie moze dac Bogu za niego okupu; </v>
+<v n="8"> (Kosztowny bowiem jest okup za ich dusze i nigdy sie nie zdarzy); </v>
+<v n="9"> Aby zyl na wieki i nie doznal zniszczenia. </v>
+<v n="10"> Kazdy bowiem widzi, ze madrzy umieraja, tak samo jak ginie glupiec i prostak, i zostawiaja obcym swoje bogactwa. </v>
+<v n="11"> Mysla, ze ich domy sa wieczne, a ich mieszkania beda trwac z pokolenia na pokolenie; nazywaja ziemie swymi imionami. </v>
+<v n="12"> Lecz czlowiek, choc otoczony czcia, nie przetrwa; podobny jest do bydlat, ktore gina. </v>
+<v n="13"> Ich droga jest ich glupstwem, mimo to ich potomkowie pochwalaja ich mowe. Sela. </v>
+<v n="14"> Jak owce beda zlozeni w grobie, smierc ich pozre; prawi beda nad nimi panowac o poranku, ich postac zostanie zniszczona w grobie, gdy opuszcza swoje mieszkanie. </v>
+<v n="15"> Ale Bog wykupi moja dusze z mocy grobu, bo mnie przyjmie. Sela. </v>
+<v n="16"> Nie boj sie, gdy sie ktos wzbogaci, gdy sie rozmnozy slawa jego domu; </v>
+<v n="17"> Bo gdy umrze, niczego ze soba nie wezmie i nie pojdzie za nim jego slawa. </v>
+<v n="18"> Chociaz za zycia swej duszy pochlebial i chwalono go, gdy dobrze sie urzadzil; </v>
+<v n="19"> Pojdzie jednak do grona swych ojcow; nigdy nie ujrza swiatla. </v>
+<v n="20"> Czlowiek, ktory jest otoczony czcia, a nie rozumie tego, podobny jest do bydlat, ktore gina. </v>
+</c>

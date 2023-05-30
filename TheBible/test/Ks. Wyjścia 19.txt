@@ -1,0 +1,26 @@
+<v n="1"> W trzecim miesiacu od wyjscia synow Izraela z ziemi Egiptu, w tym samym dniu, przyszli na pustynie Synaj. </v>
+<v n="2"> Bo wyruszyli z Refidim i po przybyciu na pustynie Synaj rozbili oboz na pustyni; tam Izrael obozowal naprzeciw gory. </v>
+<v n="3"> A Mojzesz wstapil do Boga i PAN zawolal do niego z gory: Tak powiesz domowi Jakuba i oznajmisz synom Izraela: </v>
+<v n="4"> Widzieliscie, co uczynilem Egipcjanom i jak nioslem was na skrzydlach orlow, i przyprowadzilem was do siebie. </v>
+<v n="5"> Dlatego teraz, jesli posluchacie mego glosu i bedziecie przestrzegac mojego przymierza, bedziecie moja szczegolna wlasnoscia ponad wszystkie narody, bo do mnie nalezy cala ziemia. </v>
+<v n="6"> A wy bedziecie mi krolestwem kaplanow i narodem swietym. To sa slowa, ktore bedziesz mowic do synow Izraela. </v>
+<v n="7"> Wtedy Mojzesz przyszedl i zwolal starszych ludu, i wylozyl im wszystkie te slowa, ktore mu PAN nakazal. </v>
+<v n="8"> Caly lud odpowiedzial wspolnie: Uczynimy wszystko, co PAN powiedzial. I Mojzesz zaniosl slowa ludu do PANA. </v>
+<v n="9"> PAN powiedzial do Mojzesza: Oto przyjde do ciebie w gestym obloku, aby lud slyszal, gdy bede z toba rozmawial, i uwierzyl ci na zawsze. A Mojzesz przekazal PANU slowa ludu. </v>
+<v n="10"> PAN zas mowil do Mojzesza: Idz do ludu i uswiec ich dzis i jutro, i niech wypiora swoje szaty. </v>
+<v n="11"> Niech beda gotowi na trzeci dzien. Trzeciego dnia bowiem PAN zstapi na oczach calego ludu na gore Synaj. </v>
+<v n="12"> I wyznaczysz ludowi granice dokola, mowiac: Strzezcie sie, abyscie nie wstepowali na gore ani nie dotykali jej podnoza. Kazdy, kto dotknie gory, poniesie smierc. </v>
+<v n="13"> Nie dotknie go reka, ale ukamienuja go albo przeszyja strzalami; czy to zwierze, czy czlowiek, nie bedzie zyc. Gdy przeciagle beda trabic, niech podejda do gory. </v>
+<v n="14"> Mojzesz zstapil wiec z gory do ludu i uswiecil lud, a oni uprali swoje szaty. </v>
+<v n="15"> I mowil do ludu: Badzcie gotowi na trzeci dzien, nie zblizajcie sie do zon. </v>
+<v n="16"> Trzeciego dnia o poranku pojawily sie grzmoty i blyskawice, i gesty oblok nad gora, i bardzo potezny glos traby, tak ze caly lud, ktory byl w obozie, zadrzal. </v>
+<v n="17"> I Mojzesz wyprowadzil lud z obozu na spotkanie z Bogiem, i staneli u stop gory. </v>
+<v n="18"> A gora Synaj cala dymila, gdyz PAN zstapil na nia w ogniu. Dym unosil sie z niej jak dym z pieca i cala gora bardzo sie trzesla. </v>
+<v n="19"> A gdy glos traby sie przeciagal i coraz bardziej sie rozlegal, Mojzesz mowil, a Bog odpowiadal mu glosem. </v>
+<v n="20"> I PAN zstapil na gore Synaj, na szczyt gory. Wtedy PAN wezwal Mojzesza na szczyt gory i Mojzesz tam wstapil. </v>
+<v n="21"> Potem PAN powiedzial do Mojzesza: Zejdz, przestrzez lud, by nie przekroczyl granicy, aby zobaczyc PANA, i aby wielu z nich nie zginelo. </v>
+<v n="22"> Nawet kaplani, ktorzy zblizaja sie do PANA, niech sie uswieca, by ich PAN nie wytracil. </v>
+<v n="23"> I Mojzesz powiedzial do PANA: Lud nie moze wejsc na gore Synaj, poniewaz ty nas przestrzegles, mowiac: Wyznacz granice wokol gory i uswiec ja. </v>
+<v n="24"> PAN powiedzial do niego: Idz, zejdz, a potem wstapisz ty i Aaron z toba. Lecz kaplani i lud niech nie przekraczaja granicy, by wstapic do PANA, aby ich nie wytracil. </v>
+<v n="25"> Mojzesz zszedl wiec do ludu i powiedzial im to. </v>
+</c>

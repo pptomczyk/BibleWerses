@@ -1,0 +1,21 @@
+<v n="1"> Jozjasz mial osiem lat, kiedy zaczal krolowac, i krolowal trzydziesci jeden lat w Jerozolimie. Jego matka miala na imie Jedida i byla corka Adajasza z Boskat. </v>
+<v n="2"> Czynil on to, co bylo sluszne w oczach PANA, i szedl wszystkimi drogami Dawida, swego ojca, a nie zbaczal ani na prawo, ani na lewo. </v>
+<v n="3"> A w osiemnastym roku krola Jozjasza krol poslal pisarza, Szafana, syna Azaliasza, syna Meszullama, do domu PANA, mowiac: </v>
+<v n="4"> Idz do najwyzszego kaplana Chilkiasza. Niech zbiera pieniadze, ktore przyniesiono do domu PANA, a ktore stroze progu zebrali od ludu; </v>
+<v n="5"> I niech je dadza do rak kierownikom robot, przelozonym nad domem PANA. A ci niech przekaza je robotnikom pracujacym w domu PANA, aby naprawiali szkody domu; </v>
+<v n="6"> To jest cieslom, budowniczym i murarzom, oraz na zakup drewna i ciosanego kamienia na naprawe domu. </v>
+<v n="7"> Jednak nie trzeba bylo rozliczac sie z nimi z pieniedzy, ktore dali im do rak, bo oni postepowali uczciwie. </v>
+<v n="8"> Wtedy najwyzszy kaplan Chilkiasz powiedzial do pisarza, Szafana: Znalazlem ksiege Prawa w domu PANA. I Chilkiasz dal ksiege Szafanowi, a ten ja czytal. </v>
+<v n="9"> Nastepnie pisarz Szafan przyszedl do krola i zdal sprawe krolowi, mowiac: Twoi sludzy zebrali pieniadze, ktore znajdowaly sie w domu PANA, i dali je w rece kierownikom robot, przelozonym nad domem PANA. </v>
+<v n="10"> Pisarz Szafan oznajmil takze krolowi: Kaplan Chilkiasz dal mi ksiege. I Szafan czytal ja wobec krola. </v>
+<v n="11"> A gdy krol uslyszal slowa ksiegi Prawa, rozdarl swoje szaty. </v>
+<v n="12"> Potem krol rozkazal kaplanowi Chilkiaszowi, Achikamowi, synowi Szafana, Akborowi, synowi Micheasza, pisarzowi Szafanowi i swojemu sludze Asajaszowi: </v>
+<v n="13"> Idzcie, radzcie sie PANA co do mnie, co do ludu i co do calej Judy w zwiazku ze slowami tej ksiegi, ktora znaleziono. Wielki bowiem jest gniew PANA, ktorym zaplonal przeciwko nam, dlatego ze nasi ojcowie nie posluchali slow tej ksiegi, aby czynic zgodnie ze wszystkim, co jest dla nas napisane. </v>
+<v n="14"> Tak wiec kaplan Chilkiasz, Achikam, Akbor, Szafan i Asajasz poszli do prorokini Chuldy, zony Szalluma, syna Tikwy, syna Charchasza, straznika szat – mieszkala ona w Jerozolimie, po drugiej stronie miasta – i opowiedzieli jej o tej sprawie. </v>
+<v n="15"> Ona zas powiedziala im: Tak mowi PAN, Bog Izraela: Powiedzcie mezczyznie, ktory was poslal do mnie; </v>
+<v n="16"> Tak mowi PAN: Oto sprowadze nieszczescie na to miejsce i na jego mieszkancow, zgodnie ze wszystkimi slowami tej ksiegi, ktore czytal krol Judy; </v>
+<v n="17"> Za to, ze mnie opuscili i palili kadzidlo innym bogom, aby pobudzic mnie do gniewu wszystkimi dzielami swoich rak. Dlatego zaplonie moj gniew przeciwko temu miejscu i nie zagasnie. </v>
+<v n="18"> A krolowi Judy, ktory poslal was, aby radzic sie PANA, tak powiedzcie: Tak mowi PAN, Bog Izraela, co do slow, ktore slyszales; </v>
+<v n="19"> Poniewaz twoje serce zmieklo i upokorzyles sie przed PANEM, gdy uslyszales, co powiedzialem przeciw temu miejscu i przeciw jego mieszkancom – ze stana sie spustoszeniem i klatwa – rozdarles swoje szaty i plakales przede mna, to i ja rowniez ciebie wysluchalem, mowi PAN. </v>
+<v n="20"> Dlatego oto przylacze cie do twoich ojcow i bedziesz zlozony w swoim grobie w pokoju, aby twoje oczy nie ogladaly calego nieszczescia, ktore sprowadze na to miejsce. A oni zaniesli te odpowiedz krolowi. </v>
+</c>

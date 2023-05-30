@@ -1,0 +1,23 @@
+<v n="1"> Moja dusza zmeczona jest zyciem; dam upust swemu narzekaniu, bede mowil w goryczy swej duszy. </v>
+<v n="2"> Powiem Bogu: Nie potepiaj mnie. Oznajmij mi, czemu wiedziesz ze mna spor? </v>
+<v n="3"> Czy dobrze ci z tym, ze mnie uciskasz, ze odrzucasz dzielo swoich rak i sprzyjasz radzie niegodziwych? </v>
+<v n="4"> Czy masz oczy cielesne? Czy widzisz, jak czlowiek widzi? </v>
+<v n="5"> Czy twoje dni sa jak dni czlowieka, a twoje lata jak lata ludzkie; </v>
+<v n="6"> Ze sie wywiadujesz o moja nieprawosc i dochodzisz mojego grzechu? </v>
+<v n="7"> Ty wiesz, ze nie jestem niegodziwy i nikt nie wyrwie mnie z twoich rak. </v>
+<v n="8"> Twoje rece uksztaltowaly mnie i uczynily mnie calego ze wszystkich stron, lecz mnie niszczysz. </v>
+<v n="9"> Pamietaj, prosze, ze ulepiles mnie jak gline; czy obrocisz mnie w proch? </v>
+<v n="10"> Czy nie wylales mnie jak mleko i nie sprawiles, ze jak ser stezalem? </v>
+<v n="11"> Przyoblekles mnie skora i cialem, a koscmi i zylami pospinales mnie. </v>
+<v n="12"> Obdarzyles mnie zyciem i milosierdziem, a twoja opatrznosc strzegla mego ducha. </v>
+<v n="13"> I chociaz ukryles to wszystko w swoim sercu, wiem jednak, ze to jest z twojej woli. </v>
+<v n="14"> Jesli grzesze, ty to spostrzegasz i nie uwolnisz mnie od mojej nieprawosci. </v>
+<v n="15"> Jesli jestem niegodziwy, biada mi, a chocbym tez byl sprawiedliwy, nie podniose swojej glowy. Jestem syty hanby, zwaz na moje utrapienie; </v>
+<v n="16"> Gdyz go przybywa; gonisz mnie jak okrutny lew i zachowujesz sie dziwnie wobec mnie. </v>
+<v n="17"> Stawiasz przeciwko mnie nowych swiadkow i pomnazasz nade mna swoj gniew; wojsko za wojskiem naciera na mnie. </v>
+<v n="18"> Czemu wyprowadziles mnie z lona? Obym umarl i nie widzialo mnie zadne oko! </v>
+<v n="19"> Bylbym, jakby mnie nie bylo, od lona zaniesliby mnie do grobu! </v>
+<v n="20"> Czy nie zostalo mi niewiele dni? Przestan wiec i odejdz ode mnie, abym nabral troche otuchy; </v>
+<v n="21"> Zanim odejde tam, skad juz nie powroce, do ziemi ciemnosci i cienia smierci; </v>
+<v n="22"> Do ziemi ciemnej jak noc i do cienia smierci i bezladu, gdzie swieci tylko ciemnosc. </v>
+</c>

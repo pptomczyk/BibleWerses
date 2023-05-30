@@ -1,0 +1,24 @@
+<v n="1"> A Noemi miala krewnego ze strony meza, czlowieka bardzo zamoznego z domu Elimelecha. Mial on na imie Boaz. </v>
+<v n="2"> I Rut Moabitka powiedziala do Noemi: Pozwol mi pojsc na pole zbierac klosy za tym, w ktorego oczach znajde laske. A ona odpowiedziala: Idz, moja corko. </v>
+<v n="3"> Poszla wiec, a gdy przybyla, zbierala na polu za zniwiarzami. I zdarzylo sie przypadkiem, ze trafila na czesc pola Boaza, ktory byl z rodziny Elimelecha. </v>
+<v n="4"> A oto Boaz przybyl z Betlejem i powiedzial do zniwiarzy: PAN z wami. A oni mu odpowiedzieli: Niech ci PAN blogoslawi. </v>
+<v n="5"> Wtedy Boaz zapytal swego sluge postawionego nad zniwiarzami: Czyja to dziewczyna? </v>
+<v n="6"> I sluga postawiony nad zniwiarzami odpowiedzial mu: To jest ta mloda Moabitka, ktora przyszla z Noemi z ziemi Moabu. </v>
+<v n="7"> Powiedziala: Pozwol mi, prosze, zbierac i gromadzic klosy miedzy snopami za zniwiarzami. Przyszla wiec i pozostala od rana az dotad, a w domu krotko odpoczywala. </v>
+<v n="8"> Wtedy Boaz powiedzial do Rut: Sluchaj mnie, moja corko! Nie chodz zbierac klosow na inne pole i nie odchodz stad, ale pozostan tu z moimi sluzacymi. </v>
+<v n="9"> Spojrz na pole, na ktorym beda zac, i chodz za nimi, poniewaz nakazalem swoim slugom, zeby cie nie tykali. A jesli bedziesz spragniona, idz do naczyn i napij sie z tego, co czerpia moi sludzy. </v>
+<v n="10"> Wtedy upadla na twarz i poklonila sie az do ziemi, i powiedziala do niego: Dlaczego znalazlam laske w twoich oczach, ze zwracasz na mnie uwage, choc jestem cudzoziemka? </v>
+<v n="11"> Boaz odpowiedzial jej: Dokladnie opowiedziano mi o wszystkim, co uczynilas dla swojej tesciowej po smierci swego meza, i to, jak opuscilas swego ojca i swa matke oraz ziemie, w ktorej sie urodzilas, i przyszlas do ludu, ktorego przedtem nie znalas. </v>
+<v n="12"> Niech PAN wynagrodzi twoj uczynek i niech bedzie pelna twoja zaplata od PANA, Boga Izraela, pod ktorego skrzydla przyszlas sie schronic. </v>
+<v n="13"> A ona odpowiedziala: Znalazlam laske w twoich oczach, moj panie. Pocieszyles mnie bowiem i mowiles do serca swej sluzacej, chociaz nie jestem rowna zadnej z twoich sluzacych. </v>
+<v n="14"> I Boaz jej powiedzial: Gdy bedzie czas posilku, przychodz tu i jedz chleb, i maczaj swoj kawalek w occie. I usiadla przy zniwiarzach, on zas podal jej prazone ziarno, ktore jadla az do syta, i jeszcze jej zostalo. </v>
+<v n="15"> A gdy wstala, aby zbierac klosy, Boaz nakazal swoim slugom: Pozwolcie jej zbierac nawet miedzy snopami i nie zawstydzajcie jej. </v>
+<v n="16"> Co wiecej, umyslnie upuszczajcie dla niej klosy i zostawiajcie je, aby mogla je zbierac, i nie gancie jej. </v>
+<v n="17"> Tak zbierala na tym polu az do wieczora, potem wymlocila to, co zebrala. Bylo tego okolo efy jeczmienia. </v>
+<v n="18"> Nastepnie wziela to i poszla do miasta, i jej tesciowa zobaczyla to, co nazbierala. Wyjela tez i dala jej to, co pozostalo jej z posilku. </v>
+<v n="19"> I tesciowa zapytala ja: Gdzie zbieralas dzis klosy i gdzie pracowalas? Niech bedzie blogoslawiony ten, ktory zwrocil na ciebie uwage. I opowiedziala swej tesciowej, u kogo pracowala: Czlowiek, u ktorego dzis pracowalam, ma na imie Boaz. </v>
+<v n="20"> Potem Noemi odezwala sie do swojej synowej: Niech bedzie blogoslawiony przez PANA, ktory nie zaniechal swego milosierdzia dla zywych i umarlych. Ponadto Noemi powiedziala: Ten czlowiek jest naszym krewnym, jednym sposrod blisko z nami spokrewnionych. </v>
+<v n="21"> Wtedy Rut Moabitka powiedziala: Ten czlowiek powiedzial jeszcze do mnie: Pozostan z moimi slugami, poki nie skoncza calego mojego zniwa. </v>
+<v n="22"> Noemi powiedziala do Rut, swej synowej: To dobrze, moja corko, ze bedziesz chodzila z jego sluzacymi, aby cie nie spotkali na innym polu. </v>
+<v n="23"> Pozostala wiec ze sluzacymi Boaza i zbierala klosy, dopoki nie skonczyly sie zniwa jeczmienia i pszenicy, a mieszkala ze swoja tesciowa. </v>
+</c>

@@ -1,0 +1,9 @@
+<v n="1"> Psalm Dawida. Bede cie wyslawial, PANIE, z calego mego serca; bede ci spiewal wobec bogow. </v>
+<v n="2"> Oddam ci poklon ku twej swietej swiatyni i bede wyslawial twoje imie za milosierdzie twoje i prawde; bo wywyzszyles twoje imie i slowo ponad wszystko. </v>
+<v n="3"> W dniu, gdy cie wzywalem, wysluchales mnie i moca posililes moja dusze. </v>
+<v n="4"> Wszyscy krolowie beda cie wyslawiali, PANIE, gdy uslysza slowa twoich ust. </v>
+<v n="5"> I beda spiewali o drogach PANA, ze wielka jest chwala PANA. </v>
+<v n="6"> A choc wywyzszony jest PAN, jednak ma wzglad na pokornego, a wynioslego poznaje z daleka. </v>
+<v n="7"> Chocbym chodzil posrod utrapienia, ozywisz mnie; wyciagniesz swoja reke przeciw gniewowi moich nieprzyjaciol, a twoja prawica mnie wybawi. </v>
+<v n="8"> PAN dokona wszystkiego za mnie. PANIE, twoje milosierdzie trwa na wieki; nie opuszczaj dziel twoich rak. </v>
+</c>

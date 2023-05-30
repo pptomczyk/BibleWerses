@@ -1,0 +1,14 @@
+<v n="1"> A gdy otworzyl siodma pieczec, nastala w niebie cisza na okolo pol godziny. </v>
+<v n="2"> I zobaczylem siedmiu aniolow, ktorzy stoja przed Bogiem. I dano im siedem trab. </v>
+<v n="3"> I przyszedl inny aniol, i stanal przy oltarzu, majac zlota kadzielnice. Dano mu wiele kadzidel, aby je ofiarowal z modlitwami wszystkich swietych na zlotym oltarzu, ktory jest przed tronem. </v>
+<v n="4"> I dym kadzidel z modlitwami swietych wzniosl sie z reki aniola przed Bogiem. </v>
+<v n="5"> Aniol zas wzial kadzielnice, napelnil ja ogniem z oltarza i zrzucil na ziemie. I nastapily glosy i gromy, i blyskawice, i trzesienie ziemi. </v>
+<v n="6"> A siedmiu aniolow, ktorzy mieli siedem trab, przygotowalo sie, aby zatrabic. </v>
+<v n="7"> I zatrabil pierwszy aniol, i powstaly grad i ogien zmieszane z krwia, i zrzucono je na ziemie. I splonela trzecia czesc drzew, splonela tez cala zielona trawa. </v>
+<v n="8"> I zatrabil drugi aniol, i jakby wielka gora plonaca ogniem zostala wrzucona w morze, i trzecia czesc morza zamienila sie w krew. </v>
+<v n="9"> I zginela w morzu trzecia czesc zywych stworzen, i trzecia czesc statkow ulegla zniszczeniu. </v>
+<v n="10"> I zatrabil trzeci aniol, i spadla z nieba wielka gwiazda, plonaca jak pochodnia, i spadla na trzecia czesc rzek i na zrodla wod. </v>
+<v n="11"> A imie gwiazdy brzmi Piolun. I trzecia czesc wod zamienila sie w piolun, i wielu ludzi umarlo od tych wod, bo staly sie gorzkie. </v>
+<v n="12"> I zatrabil czwarty aniol, i razona zostala trzecia czesc slonca i trzecia czesc ksiezyca, i trzecia czesc gwiazd, tak ze zacmila sie trzecia ich czesc i dzien przez jedna trzecia swoja czesc nie jasnial, podobnie i noc. </v>
+<v n="13"> I zobaczylem, i uslyszalem jednego aniola lecacego srodkiem nieba, ktory mowil donosnym glosem: Biada, biada, biada mieszkancom ziemi z powodu pozostalych glosow trab trzech aniolow, ktorzy maja zatrabic. </v>
+</c>

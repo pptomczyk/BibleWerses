@@ -1,0 +1,16 @@
+<v n="1"> Obudz sie, obudz sie; przyoblecz sie w swoja sile, Syjonie! Przyoblecz sie w swa wspaniala szate, Jerozolimo, miasto swiete! Juz bowiem nie wtargnie do ciebie nieobrzezany ani nieczysty. </v>
+<v n="2"> Otrzasnij sie z prochu, powstan i usiadz, Jerozolimo! Uwolnij sie z okowow swojej szyi, pojmana corko Syjonu! </v>
+<v n="3"> Tak bowiem mowi PAN: Za darmo sprzedaliscie sie i bez pieniedzy zostaniecie odkupieni. </v>
+<v n="4"> Tak bowiem mowi Pan BOG: Moj lud niegdys wstapil do Egiptu, aby tam przebywac; ale Asyryjczyk bez przyczyny go trapil. </v>
+<v n="5"> A teraz co mam czynic, mowi PAN, skoro moj lud zostal zabrany bez powodu, a ci, ktorzy panuja nad nim, doprowadzaja go do placzu, mowi PAN, natomiast moje imie nieustannie kazdego dnia jest bluznione? </v>
+<v n="6"> Dlatego moj lud pozna moje imie. Dlatego pozna w tym dniu, ze ja jestem tym, ktory mowi. Oto ja. </v>
+<v n="7"> O jak piekne sa na gorach nogi tego, kto zwiastuje dobre wiesci i oglasza pokoj; tego, kto zwiastuje dobro i oglasza zbawienie, kto mowi do Syjonu: Twoj Bog kroluje! </v>
+<v n="8"> Twoi stroze podnosza glos, tym glosem wspolnie wznosza okrzyki, bo oko w oko ujrza, jak PAN przywroci Syjon. </v>
+<v n="9"> Wykrzykujcie i spiewajcie razem, ruiny Jerozolimy! PAN bowiem pocieszyl swoj lud, odkupil Jerozolime. </v>
+<v n="10"> PAN obnazyl swoje swiete ramie na oczach wszystkich narodow i wszystkie krance ziemi zobacza zbawienie naszego Boga. </v>
+<v n="11"> Odstapcie, odstapcie, wyjdzcie stamtad, nieczystego nie dotykajcie; wyjdzcie sposrod niego; oczysccie sie, wy, ktorzy nosicie naczynia PANA. </v>
+<v n="12"> Nie wyjdziecie bowiem w pospiechu ani nie bedziecie uciekac, gdyz PAN pojdzie przed wami, a Bog Izraela bedzie za wami. </v>
+<v n="13"> Oto sie szczesliwie powiedzie memu sludze. Bedzie on wywyzszony, wyniesiony i wielce uwielbiony. </v>
+<v n="14"> Jak wielu przerazilo sie z jego powodu, ze zeszpecono jego wyglad bardziej niz innych ludzi, a jego postac – bardziej niz synow ludzkich; </v>
+<v n="15"> Tak tez pokropi wiele narodow, krolowie zamkna przed nim swoje usta, dlatego ze ujrza to, czego im nie powiedziano, i zrozumieja to, o czym nie slyszeli. </v>
+</c>

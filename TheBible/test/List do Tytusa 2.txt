@@ -1,0 +1,16 @@
+<v n="1"> Ty zas mow to, co jest zgodne ze zdrowa nauka. </v>
+<v n="2"> Starsi mezczyzni niech beda trzezwi, powazni, roztropni, zdrowi w wierze, w milosci, w cierpliwosci. </v>
+<v n="3"> Podobnie starsze kobiety niech zachowuja sie w sposob godny swietych, niech nie oczerniaja, nie naduzywaja wina, ucza tego, co dobre. </v>
+<v n="4"> Niech ucza mlodsze kobiety rozsadku, jak maja kochac swoich mezow i dzieci; </v>
+<v n="5"> Zeby byly roztropne, czyste, zeby zajmowaly sie domem, byly dobre, posluszne swoim mezom, aby nie bluzniono slowu Bozemu. </v>
+<v n="6"> Mlodziencow takze napominaj, aby byli trzezwi. </v>
+<v n="7"> We wszystkim stawiaj samego siebie za wzor dobrych uczynkow. W nauczaniu okazuj prawosc, powage; </v>
+<v n="8"> Slowa zdrowe, nienaganne, aby ten, kto sie sprzeciwia, byl zawstydzony, nie majac o was nic zlego do powiedzenia. </v>
+<v n="9"> Slugi nauczaj, aby byli poddani swoim panom i we wszystkim sie im podobali, nie sprzeciwiajac sie; </v>
+<v n="10"> Niczego sobie nie przywlaszczajac, ale we wszystkim okazujac doskonala wiernosc, aby we wszystkim zdobili nauke Boga, naszego Zbawiciela. </v>
+<v n="11"> Objawila sie bowiem laska Boga, niosaca zbawienie wszystkim ludziom; </v>
+<v n="12"> Pouczajaca nas, abysmy wyrzeklszy sie bezboznosci i swiatowych pozadliwosci, trzezwo, sprawiedliwie i poboznie zyli na tym swiecie; </v>
+<v n="13"> Oczekujac blogoslawionej nadziei i chwalebnego objawienia sie wielkiego Boga i Zbawiciela naszego, Jezusa Chrystusa; </v>
+<v n="14"> Ktory wydal samego siebie za nas, aby nas wykupic od wszelkiej nieprawosci i oczyscic sobie lud na wlasnosc, gorliwy w spelnianiu dobrych uczynkow. </v>
+<v n="15"> To mow, do tego zachecaj i strofuj z cala powaga; niech nikt toba nie gardzi. </v>
+</c>

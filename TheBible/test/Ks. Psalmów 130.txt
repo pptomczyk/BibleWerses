@@ -1,0 +1,9 @@
+<v n="1"> Piesn stopni. Z glebokosci wolam do ciebie, PANIE. </v>
+<v n="2"> Panie, wysluchaj mego glosu. Naklon swych uszu na glos mojego blagania. </v>
+<v n="3"> PANIE, jesli bedziesz zwazal na nieprawosci, o Panie, ktoz sie ostoi? </v>
+<v n="4"> Ale u ciebie jest przebaczenie, aby sie ciebie bano. </v>
+<v n="5"> Oczekuje PANA, moja dusza oczekuje; i w jego slowie pokladam nadzieje. </v>
+<v n="6"> Moja dusza oczekuje Pana bardziej niz straznicy switu, bardziej niz ci, ktorzy strzega do poranka. </v>
+<v n="7"> Niech Izrael oczekuje PANA; u PANA bowiem jest milosierdzie i u niego obfite odkupienie. </v>
+<v n="8"> On sam odkupi Izraela ze wszystkich jego nieprawosci. </v>
+</c>

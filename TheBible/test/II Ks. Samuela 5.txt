@@ -1,0 +1,26 @@
+<v n="1"> Wtedy wszystkie pokolenia Izraela zeszly sie u Dawida w Hebronie i powiedzialy: Oto jestesmy twoja koscia i twoim cialem. </v>
+<v n="2"> Juz dawniej, gdy Saul byl krolem nad nami, ty wyprowadzales i przyprowadzales Izraela. I PAN powiedzial do ciebie: Ty bedziesz pasl moj lud Izraela i ty bedziesz wodzem nad Izraelem. </v>
+<v n="3"> Wszyscy starsi Izraela przyszli wiec do krola do Hebronu i krol Dawid zawarl z nimi przymierze w Hebronie przed PANEM, a oni namascili Dawida na krola nad Izraelem. </v>
+<v n="4"> Dawid mial trzydziesci lat, gdy zaczal krolowac, a krolowal czterdziesci lat. </v>
+<v n="5"> W Hebronie krolowal nad Juda siedem lat i szesc miesiecy, w Jerozolimie zas krolowal trzydziesci trzy lata nad calym Izraelem i Juda. </v>
+<v n="6"> I krol oraz jego ludzie poszli do Jerozolimy przeciw Jebusytom zamieszkujacym w tej ziemi, a oni powiedzieli do Dawida: Nie wejdziesz tutaj, dopoki nie wyniesiesz slepych i chromych. Mysleli bowiem: Dawid tu nie wejdzie. </v>
+<v n="7"> Dawid jednak zdobyl twierdze Syjon, to jest miasto Dawida. </v>
+<v n="8"> Dawid powiedzial w tym dniu: Ktokolwiek pokona Jebusytow, wchodzac przez kanal, i zabije slepych i chromych, ktorych nienawidzi dusza Dawida, ustanowie go dowodca. Dlatego mowiono: Slepi i chromi nie wejda do tego domu. </v>
+<v n="9"> I tak zamieszkal Dawid w tej twierdzy, i nazwal ja miastem Dawida. Dawid obudowal je tez wokolo, od Millo i wnetrza. </v>
+<v n="10"> I Dawid stale wzrastal w potedze, a PAN Bog zastepow byl z nim. </v>
+<v n="11"> Wtedy Hiram, krol Tyru, wyslal poslancow do Dawida z drzewem cedrowym, cieslami i murarzami i zbudowali dom dla Dawida. </v>
+<v n="12"> I Dawid poznal, ze PAN utwierdzil go jako krola nad Izraelem i ze wywyzszyl jego krolestwo ze wzgledu na swoj lud Izraela. </v>
+<v n="13"> A po przybyciu z Hebronu Dawid wzial sobie jeszcze wiecej naloznic i zon z Jerozolimy. I urodzilo sie Dawidowi wiecej synow i corek. </v>
+<v n="14"> Oto imiona tych, ktorzy mu sie urodzili w Jerozolimie: Szammua, Szobab, Natan i Salomon; </v>
+<v n="15"> Jibchar, Eliszua, Nefeg i Jafia; </v>
+<v n="16"> Eliszama, Eliada i Elifelet. </v>
+<v n="17"> A gdy Filistyni uslyszeli, ze Dawid zostal namaszczony na krola nad Izraelem, wszyscy Filistyni wyruszyli, aby szukac Dawida. Kiedy Dawid o tym uslyszal, zstapil do twierdzy. </v>
+<v n="18"> Wtedy Filistyni przybyli i rozciagneli sie w dolinie Refaim. </v>
+<v n="19"> I Dawid radzil sie PANA: Czy mam ruszyc na Filistynow? Czy wydasz ich w moje rece? PAN odpowiedzial Dawidowi: Idz, gdyz z cala pewnoscia wydam Filistynow w twoje rece. </v>
+<v n="20"> Dawid przybyl wiec do Baal-Perasim i tam ich pobil, i powiedzial: PAN rozerwal moich wrogow przede mna jak rwaca woda. Dlatego nazwal to miejsce Baal-Perasim. </v>
+<v n="21"> I porzucili tam swoje bozki, a Dawid i jego ludzie spalili je. </v>
+<v n="22"> I Filistyni znowu nadciagneli, i rozciagneli sie w dolinie Refaim. </v>
+<v n="23"> Gdy Dawid radzil sie PANA, PAN odpowiedzial: Nie ruszaj na nich, lecz obejdz ich z tylu i uderz na nich od strony drzew morwowych. </v>
+<v n="24"> A gdy uslyszysz odglos krokow dochodzacych od wierzcholkow drzew morwowych, wtedy wyruszysz, gdyz wtedy PAN wyjdzie przed toba, aby pokonac wojska Filistynow. </v>
+<v n="25"> I Dawid uczynil tak, jak mu PAN rozkazal, i pobil Filistynow od Geba az do wejscia do Gezer. </v>
+</c>

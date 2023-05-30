@@ -1,0 +1,18 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Synu czlowieczy, zwroc swoja twarz przeciwko Ammonitom i prorokuj przeciwko nim. </v>
+<v n="3"> Powiedz Ammonitom: Sluchajcie slowa Pana BOGA. Tak mowi Pan BOG: Poniewaz mowiles: Ha! na moja swiatynie, gdy zostala zbezczeszczona, i na ziemie Izraela, gdy byla spustoszona, i na dom Judy, gdy poszedl w niewole; </v>
+<v n="4"> Oto wydam cie w posiadanie narodom Wschodu. Pobuduja swoje palace u ciebie i urzadza u ciebie swoje mieszkania. Beda jesc twoje plony i beda pic twoje mleko. </v>
+<v n="5"> I uczynie z Rabby legowisko dla wielbladow, a z miast Ammonitow – legowisko dla trzod. I poznacie, ze ja jestem PANEM. </v>
+<v n="6"> Tak bowiem mowi Pan BOG: Poniewaz klaskales rekami, tupales nogami i cieszyles sie w sercu z cala pogarda wobec ziemi Izraela; </v>
+<v n="7"> Oto wyciagne swa reke przeciwko tobie i wydam cie na lup poganom; wytne cie sposrod narodow, wytrace cie z ziem i wyniszcze cie. I poznasz, ze ja jestem PANEM. </v>
+<v n="8"> Tak mowi Pan BOG: Poniewaz Moab i Seir mowia: Oto dom Judy jest jak wszystkie inne narody; </v>
+<v n="9"> Dlatego odslonie zbocze Moabu od miast, od jego granicznych miast, ktore sa ozdoba ziemi: Bet-Jeszimot, Baal-Meon i Kiriataim; </v>
+<v n="10"> Przed narodami Wschodu wraz z Ammonitami; dam je w posiadanie, aby nie wspominano Ammonitow miedzy narodami. </v>
+<v n="11"> I dokonam sadow nad Moabem, i poznaja, ze ja jestem PANEM. </v>
+<v n="12"> Tak mowi Pan BOG: Poniewaz Edom srodze sie mscil nad domem Judy i ciezko zawinil, mszczac sie nad nim; </v>
+<v n="13"> Tak mowi Pan BOG: Wyciagne tez swoja reke na ziemie Edomu i wytrace z niej ludzi i zwierzeta, i zamienie ja w pustynie; od Temanu az do Dedanu polegna od miecza. </v>
+<v n="14"> I dokonam swojej zemsty na Edomie przez rece mego ludu Izraela, a postapia z Edomem wedlug mojej zapalczywosci i wedlug mojego gniewu. I poznaja moja pomste, mowi Pan BOG. </v>
+<v n="15"> Tak mowi Pan BOG: Poniewaz Filistyni sie mscili i dokonali zemsty zlosliwym sercem, aby prowadzic do zguby z powodu odwiecznej nieprzyjazni; </v>
+<v n="16"> Dlatego tak mowi Pan BOG: Oto wyciagne swoja reke na Filistynow, wykorzenie Keretytow i wytrace resztke wybrzeza morskiego. </v>
+<v n="17"> I dokonam na nich wielkiej pomsty, karzac ich w zapalczywosci; i poznaja, ze ja jestem PANEM, gdy wywre na nich swoja pomste. </v>
+</c>

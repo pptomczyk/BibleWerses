@@ -1,0 +1,25 @@
+<v n="1"> Potem Jozue, syn Nuna, wyslal potajemnie z Szittim dwoch szpiegow, mowiac: Idzcie, obejrzyjcie ziemie i Jerycho. Poszli wiec i weszli do domu pewnej nierzadnicy, ktora miala na imie Rachab, i tam odpoczeli. </v>
+<v n="2"> I doniesiono krolowi Jerycha: Oto jacys mezczyzni sposrod synow Izraela przyszli tu tej nocy, aby wybadac te ziemie. </v>
+<v n="3"> Krol Jerycha poslal wiec do Rachab, rozkazujac: Wyprowadz mezczyzn, ktorzy przyszli do ciebie i weszli do twego domu, bo przyszli wybadac cala te ziemie. </v>
+<v n="4"> Kobieta jednak wziela tych dwoch mezczyzn, ukryla ich i powiedziala: To prawda, ze przyszli do mnie mezczyzni, ale nie wiedzialam, skad oni sa. </v>
+<v n="5"> A gdy miano zamykac brame o zmierzchu, mezczyzni ci wyszli i nie wiem, dokad poszli. Scigajcie ich predko, to ich dogonicie. </v>
+<v n="6"> Ona zas zaprowadzila ich na dach i przykryla wiazkami lnu, ktore rozlozyla na dachu. </v>
+<v n="7"> Wyslani mezczyzni scigali ich w kierunku Jordanu az do brodow; i jak tylko scigajacy wyszli, zamknieto brame. </v>
+<v n="8"> A zanim usneli, ona wyszla do nich na dach; </v>
+<v n="9"> I powiedziala do tych mezczyzn: Wiem, ze PAN dal wam te ziemie, bo strach przed wami padl na nas i wszyscy obywatele tej ziemi truchleja przed wami. </v>
+<v n="10"> Slyszelismy bowiem, jak PAN wysuszyl przed wami wody Morza Czerwonego, gdy wychodziliscie z Egiptu, i co uczyniliscie dwom krolom amorejskim, ktorzy byli po tamtej stronie Jordanu, Sichonowi i Ogowi, ktorych pobiliscie. </v>
+<v n="11"> Gdy o tym uslyszelismy, nasze serca struchlaly i nie bylo juz odwagi w nikim z waszego powodu; bo PAN, wasz Bog, jest Bogiem wysoko na niebie i nisko na ziemi. </v>
+<v n="12"> Dlatego teraz, prosze, przysiegnijcie mi na PANA, ze jak ja okazalam wam milosierdzie, tak i wy okazecie milosierdzie domowi mego ojca, i dajcie mi pewny znak; </v>
+<v n="13"> Ze zachowacie przy zyciu mego ojca i moja matke, moich braci i moje siostry, i wszystko, co do nich nalezy, i ocalicie nas od smierci. </v>
+<v n="14"> Odpowiedzieli jej mezczyzni: Reczymy za was naszym zyciem, jesli nie wydacie tej naszej sprawy, i gdy PAN odda nam te ziemie, okazemy ci milosierdzie i wiernosc. </v>
+<v n="15"> Potem spuscila ich na sznurze z okna, bo jej dom przylegal do muru i ona mieszkala w murze. </v>
+<v n="16"> I powiedziala im: Idzcie w gory, by nie spotkali was scigajacy; ukryjcie sie tam przez trzy dni, az powroca scigajacy, a potem pojdziecie swoja droga. </v>
+<v n="17"> Mezczyzni powiedzieli jej: Bedziemy wolni od tej przysiegi, ktora kazalas nam zlozyc; </v>
+<v n="18"> Gdy wejdziemy do ziemi, przywiazesz do okna czerwony sznur, po ktorym nas spuscilas, i zbierzesz u siebie, w domu swego ojca, swoja matke, swoich braci i caly dom swego ojca. </v>
+<v n="19"> Ktokolwiek bowiem wyjdzie poza drzwi twego domu, jego krew spadnie mu na glowe, a my bedziemy bez winy. Lecz krew kazdego, kto bedzie z toba w domu, spadnie na nasza glowe, jesli czyjas reka go dotknie. </v>
+<v n="20"> Jesli jednak wydasz nasza sprawe, bedziemy wolni od przysiegi, ktora kazalas nam zlozyc. </v>
+<v n="21"> I odpowiedziala: Jak powiedzieliscie, niech tak bedzie. Wtedy wypuscila ich i poszli. I przywiazala czerwony sznur do okna. </v>
+<v n="22"> Odeszli wiec i przyszli na gore, i pozostali tam przez trzy dni, az powrocili scigajacy. A scigajacy szukali ich po wszystkich drogach, ale nie znalezli. </v>
+<v n="23"> I zawrocili ci dwaj mezczyzni, zeszli z gory, przeprawili sie przez rzeke, przyszli do Jozuego, syna Nuna, i opowiedzieli mu wszystko, co sie z nimi dzialo; </v>
+<v n="24"> I mowili do Jozuego: PAN oddal w nasze rece cala te ziemie, bo wszyscy obywatele tej ziemi struchleli przed nami. </v>
+</c>

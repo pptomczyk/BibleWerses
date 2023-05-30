@@ -1,0 +1,18 @@
+<v n="1"> A postanowilem to sobie, aby nie przychodzic do was znowu w smutku. </v>
+<v n="2"> Jesli bowiem ja was zasmucam, to ktoz moze mnie rozweselic, jesli nie ten, ktorego ja zasmucam? </v>
+<v n="3"> A to wam napisalem, abym, gdy przyjde, nie doznal smutku od tych, od ktorych powinienem doznawac radosci, bedac pewien co do was wszystkich, ze moja radosc jest takze wasza radoscia. </v>
+<v n="4"> Gdyz w wielkim ucisku i utrapieniu serca, wsrod wielu lez pisalem do was nie po to, abyscie sie smucili, ale zebyscie poznali, jak wielka jest moja milosc do was. </v>
+<v n="5"> Jesli wiec ktos spowodowal smutek, to nie mnie zasmucil, ale po czesci – by nie obciazyc – was wszystkich. </v>
+<v n="6"> Takiemu wystarczy kara wymierzona przez wielu z was. </v>
+<v n="7"> Tak wiec przeciwnie, powinniscie mu raczej przebaczyc i pocieszyc go, aby przypadkiem zbytni smutek go nie pochlonal. </v>
+<v n="8"> Dlatego prosze was, abyscie potwierdzili swa milosc do niego. </v>
+<v n="9"> Po to tez pisalem, aby was wyprobowac i sie przekonac, czy we wszystkim jestescie posluszni. </v>
+<v n="10"> A komu wy cos przebaczacie, temu i ja, gdyz i ja, jesli cos przebaczylem temu, ktoremu przebaczylem, zrobilem to ze wzgledu na was wobec Chrystusa; </v>
+<v n="11"> Aby nas szatan nie podszedl; jego zamysly bowiem nie sa nam nieznane. </v>
+<v n="12"> Gdy zas przybylem do Troady, aby glosic ewangelie Chrystusa, a drzwi zostaly mi otwarte w Panu; </v>
+<v n="13"> Nie zaznalem spokoju ducha, bo nie znalazlem Tytusa, mego brata. Rozstawszy sie wiec z nimi, wyruszylem do Macedonii. </v>
+<v n="14"> Lecz dzieki Bogu, ktory nam zawsze daje zwyciestwo w Chrystusie i roznosi przez nas won swojego poznania w kazdym miejscu. </v>
+<v n="15"> Jestesmy bowiem dla Boga przyjemna wonia Chrystusa wsrod tych, ktorzy sa zbawieni, i wsrod tych, ktorzy gina. </v>
+<v n="16"> Dla jednych wonia smierci ku smierci, a dla drugich wonia zycia ku zyciu. Lecz do tego ktoz jest zdatny? </v>
+<v n="17"> Nie jestesmy bowiem jak wielu, ktorzy falszuja slowo Boze, lecz ze szczerosci, jak od Boga mowimy w Chrystusie przed obliczem Boga. </v>
+</c>

@@ -1,0 +1,23 @@
+<v n="1"> Gdy ludzie zaczeli sie mnozyc na ziemi i rodzily im sie corki; </v>
+<v n="2"> Synowie Bozy, widzac, ze corki ludzkie byly piekne, brali sobie za zony wszystkie, ktore sobie upodobali. </v>
+<v n="3"> I powiedzial PAN: Moj duch nie bedzie na zawsze sie spieral z czlowiekiem, bo jest on cialem. Bedzie wiec jego dni sto dwadziescia lat. </v>
+<v n="4"> A w tych dniach byli na ziemi olbrzymi; nawet i potem, gdy synowie Bozy zblizali sie do corek ludzkich, a one rodzily im synow. To sa mocarze, ktorzy od dawna byli slawnymi mezczyznami. </v>
+<v n="5"> A gdy PAN widzial, ze wielka jest niegodziwosc ludzi na ziemi i wszystkie zamysly i mysli ich serca byly tylko zle po wszystkie dni; </v>
+<v n="6"> Zalowal PAN, ze uczynil czlowieka na ziemi, i ubolewal nad tym calym sercem. </v>
+<v n="7"> I PAN powiedzial: Zgladze z powierzchni ziemi czlowieka, ktorego stworzylem, zarowno czlowieka, jak i bydlo, zwierzeta pelzajace i ptactwo niebieskie, bo zaluje, ze ich uczynilem. </v>
+<v n="8"> Ale Noe znalazl laske w oczach PANA. </v>
+<v n="9"> To sa dzieje rodu Noego: Noe byl czlowiekiem sprawiedliwym i doskonalym w swoich czasach. I Noe chodzil z Bogiem. </v>
+<v n="10"> A Noe splodzil trzech synow: Sema, Chama i Jafeta. </v>
+<v n="11"> Ale ziemia zepsula sie w oczach Boga i napelnila sie nieprawoscia. </v>
+<v n="12"> Wtedy Bog wejrzal na ziemie, a oto byla zepsuta, bo wszelkie cialo wypaczylo swoja droge na ziemi. </v>
+<v n="13"> I Bog powiedzial do Noego: Nadszedl koniec wszelkiego ciala przed moim obliczem, bo ziemia przez nie jest pelna nieprawosci; wytrace je wiec wraz z ziemia. </v>
+<v n="14"> Zbuduj sobie arke z drewna gofer, zrobisz w arce przegrody i oblejesz ja wewnatrz i na zewnatrz smola. </v>
+<v n="15"> A zbudujesz ja w ten sposob: Dlugosc arki bedzie na trzysta lokci, piecdziesiat lokci – jej szerokosc, a trzydziesci lokci – jej wysokosc. </v>
+<v n="16"> Zrobisz okno w arce, a zakonczysz je na lokiec od gory. Drzwi umiescisz z boku arki, zrobisz w niej dolne, drugie i trzecie pietro. </v>
+<v n="17"> A ja, oto ja sprowadze potop wod na ziemie, aby wytracic wszelkie cialo, w ktorym jest tchnienie zycia pod niebem. Wszystko, co jest na ziemi, zginie. </v>
+<v n="18"> Ale z toba zawre moje przymierze; i wejdziesz do arki, ty i twoi synowie, i twoja zona, i zony twoich synow z toba. </v>
+<v n="19"> I ze wszystkich zwierzat wszelkiego ciala po jednej parze wprowadzisz do arki, aby uchowaly sie z toba zywe, beda to samiec i samica. </v>
+<v n="20"> Z ptactwa wedlug jego rodzaju i z bydla wedlug jego rodzaju, i z wszelkich ziemskich zwierzat pelzajacych wedlug ich rodzaju, po parze z kazdego rodzaju wejda z toba, aby zywe zostaly. </v>
+<v n="21"> A ty wezmiesz ze soba wszelki pokarm, ktory sie nadaje do jedzenia, i zabierzesz do siebie, i bedzie tobie i im na pokarm. </v>
+<v n="22"> I Noe tak uczynil. Zrobil wszystko tak, jak mu Bog rozkazal. </v>
+</c>

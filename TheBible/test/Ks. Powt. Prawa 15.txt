@@ -1,0 +1,24 @@
+<v n="1"> Po uplywie kazdego siodmego roku ustanowisz darowanie dlugow. </v>
+<v n="2"> A to jest sposob darowania: kazdy wierzyciel daruje pozyczke, jakiej udzielil swemu blizniemu; nie bedzie domagal sie zwrotu od swego blizniego lub od swego brata, poniewaz obwolano darowanie dlugow dla PANA. </v>
+<v n="3"> Od obcego mozesz domagac sie zwrotu, lecz co bedziesz mial u swego brata, twoja reka daruje; </v>
+<v n="4"> Do czasu, gdy nie bedzie posrod was ubogich, poniewaz PAN bedzie cie hojnie blogoslawil w ziemi, ktora PAN, twoj Bog, daje ci w dziedziczne posiadanie. </v>
+<v n="5"> Jesli tylko bedziesz uwaznie sluchal glosu PANA, swego Boga, bys pilnowal wypelniania wszystkich przykazan, ktore dzis ci nakazuje; </v>
+<v n="6"> Gdyz PAN, twoj Bog, bedzie cie blogoslawic, tak jak ci obiecal; bedziesz pozyczal wielu narodom, a sam od nikogo nie bedziesz pozyczal; bedziesz panowal nad wieloma narodami, a one nad toba nie zapanuja. </v>
+<v n="7"> Jesli bedzie u ciebie jakis ubogi sposrod twoich braci w ktorymkolwiek z twoich miast w ziemi, ktora ci daje PAN, twoj Bog, nie zatwardzaj swego serca ani nie zamykaj swej reki przed swoim ubogim bratem; </v>
+<v n="8"> Ale hojnie otworzysz mu swoja reke i chetnie pozyczysz mu tyle, ile bedzie potrzebowal, czego mu bedzie brakowalo. </v>
+<v n="9"> Strzez sie, by nie powstala w twoim sercu niegodziwa mysl, bys nie mowil: Zbliza sie rok siodmy, rok darowania dlugow – i abys nie patrzyl surowo na swego ubogiego brata i nic mu nie dal; wtedy on wolalby do PANA przeciwko tobie i obciazylbys sie grzechem; </v>
+<v n="10"> Chetnie mu dasz i twoje serce nie bedzie ubolewalo, gdy mu dajesz, gdyz PAN, twoj Bog, bedzie cie za to blogoslawil w kazdym twoim dziele i w kazdym twoim przedsiewzieciu. </v>
+<v n="11"> Ubogich bowiem nie zabraknie w waszej ziemi. Dlatego nakazuje ci: Otworzysz hojnie swoja reke swemu bratu, nedznemu i ubogiemu w twej ziemi. </v>
+<v n="12"> Jesli zaprzeda ci sie twoj brat, Hebrajczyk lub Hebrajka, a bedzie ci sluzyc przez szesc lat, to w siodmym roku wypuscisz go od siebie na wolnosc. </v>
+<v n="13"> A gdy wypuscisz go od siebie na wolnosc, nie wypuscisz go z pustymi rekami. </v>
+<v n="14"> Hojnie go obdarujesz ze swego bydla, klepiska i tloczni. Dasz mu z tego, w czym poblogoslawil cie PAN, twoj Bog. </v>
+<v n="15"> I bedziesz pamietac, ze sam byles niewolnikiem w ziemi Egiptu i ze, PAN, twoj Bog, wykupil cie. Dlatego ja nakazuje ci to dzis. </v>
+<v n="16"> Ale jesli on ci powie: Nie odejde od ciebie – bo miluje ciebie i twoj dom i poniewaz jest mu u ciebie dobrze; </v>
+<v n="17"> Wtedy wezmiesz szydlo i przeklujesz mu ucho, przykladajac je o drzwi, i bedzie twoim sluga na wieki. Tak samo postapisz ze swoja sluzaca. </v>
+<v n="18"> Niech nie bedzie ci przykro, ze wypuscisz go od siebie na wolnosc, gdyz sluzac ci przez szesc lat, wysluzyl podwojna zaplate najemnika. A PAN, twoj Bog, bedzie cie blogoslawil we wszystkim, co uczynisz. </v>
+<v n="19"> Kazdego pierworodnego samca ze swego bydla albo z owiec poswiecisz PANU, swemu Bogu. Nie bedziesz uzywal do pracy pierworodnego z cielcow ani nie bedziesz strzygl pierworodnego ze swoich owiec. </v>
+<v n="20"> Bedziesz je spozywal kazdego roku przed PANEM, swoim Bogiem, ty i twoj dom, w miejscu, ktore wybierze PAN; </v>
+<v n="21"> A gdyby mialo jakas wade, bylo kulawe, slepe lub mialo jakakolwiek inna wade, nie zlozysz go na ofiare PANU, swemu Bogu. </v>
+<v n="22"> Zjesz je w swoich bramach. Zarowno nieczysty, jak i czysty moze je jesc, tak jak sarne i jelenia; </v>
+<v n="23"> Tylko jego krwi nie bedziesz spozywal; wylejesz ja na ziemie jak wode. </v>
+</c>

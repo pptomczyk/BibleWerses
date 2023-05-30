@@ -1,0 +1,26 @@
+<v n="1"> A trzeciego dnia odbywalo sie wesele w Kanie Galilejskiej i byla tam matka Jezusa. </v>
+<v n="2"> Zaproszono na to wesele takze Jezusa i jego uczniow. </v>
+<v n="3"> A gdy zabraklo wina, matka Jezusa powiedziala do niego: Nie maja wina. </v>
+<v n="4"> Jezus jej odpowiedzial: Co ja mam z toba, kobieto? Jeszcze nie nadeszla moja godzina. </v>
+<v n="5"> Jego matka powiedziala do slug: Zrobcie wszystko, co wam powie. </v>
+<v n="6"> A bylo tam szesc stagwi kamiennych, postawionych wedlug zydowskiego zwyczaju oczyszczenia, mieszczacych kazda dwa albo trzy wiadra. </v>
+<v n="7"> Jezus im powiedzial: Napelnijcie te stagwie woda. I napelnili je az po brzegi. </v>
+<v n="8"> Wtedy powiedzial do nich: Zaczerpnijcie teraz i zaniescie przelozonemu wesela. I zaniesli. </v>
+<v n="9"> A gdy przelozony wesela skosztowal wody, ktora stala sie winem (a nie wiedzial, skad pochodzilo, lecz sludzy, ktorzy zaczerpneli wody, wiedzieli), zawolal oblubienca. </v>
+<v n="10"> I powiedzial do niego: Kazdy czlowiek najpierw podaje dobre wino, a gdy sobie podpija, wtedy gorsze. A ty dobre wino zachowales az do tej pory. </v>
+<v n="11"> Taki poczatek cudow uczynil Jezus w Kanie Galilejskiej i objawil swoja chwale, i uwierzyli w niego jego uczniowie. </v>
+<v n="12"> Potem on, jego matka, jego bracia i jego uczniowie poszli do Kafarnaum i mieszkali tam kilka dni. </v>
+<v n="13"> A poniewaz zblizala sie Pascha zydowska, Jezus poszedl do Jerozolimy. </v>
+<v n="14"> I zastal w swiatyni sprzedajacych woly, owce i golebie oraz tych, ktorzy siedzieli i wymieniali pieniadze. </v>
+<v n="15"> A zrobiwszy bicz z powrozkow, wypedzil wszystkich ze swiatyni, takze owce i woly, rozsypal pieniadze wymieniajacych i poprzewracal stoly. </v>
+<v n="16"> A do sprzedajacych golebie powiedzial: Wyniescie to stad, a nie robcie z domu mego Ojca domu kupieckiego. </v>
+<v n="17"> I przypomnieli sobie jego uczniowie, ze jest napisane: Gorliwosc o twoj dom zzarla mnie. </v>
+<v n="18"> Wtedy Zydzi zapytali: Jaki nam znak pokazesz, skoro to czynisz? </v>
+<v n="19"> Odpowiedzial im Jezus: Zburzcie te swiatynie, a w trzy dni ja wzniose. </v>
+<v n="20"> Wtedy Zydzi powiedzieli: Czterdziesci szesc lat budowano te swiatynie, a ty ja w trzy dni wzniesiesz? </v>
+<v n="21"> Ale on mowil o swiatyni swego ciala. </v>
+<v n="22"> Gdy wiec zmartwychwstal, jego uczniowie przypomnieli sobie, ze im to powiedzial, i uwierzyli Pismu i slowu, ktore wypowiedzial Jezus. </v>
+<v n="23"> A gdy byl w Jerozolimie podczas Paschy w swieto, wielu uwierzylo w jego imie, widzac cuda, ktore czynil. </v>
+<v n="24"> Ale Jezus nie powierzal im samego siebie, bo on znal wszystkich; </v>
+<v n="25"> I nie potrzebowal, aby mu ktos dawal swiadectwo o czlowieku. On bowiem wiedzial, co bylo w czlowieku. </v>
+</c>

@@ -1,0 +1,15 @@
+<v n="1"> A tej nocy krol nie mogl spac, kazal wiec przyniesc ksiege pamiatkowa kronik. I odczytano ja przed krolem. </v>
+<v n="2"> I tam znaleziono zapisek, ze to Mardocheusz doniosl na Bigtana i Teresza, dwoch eunuchow krola, strozow progu, ze usilowali podniesc reke na krola Aswerusa. </v>
+<v n="3"> Wtedy krol zapytal: Jaka czesc i jaki zaszczyt przyznano za to Mardocheuszowi? Odpowiedzieli sludzy krola, jego dworzanie: Niczego mu nie przyznano. </v>
+<v n="4"> Krol zapytal: Kto jest na dziedzincu? A wlasnie Haman przyszedl na zewnetrzny dziedziniec domu krolewskiego, aby porozmawiac z krolem, by powiesic Mardocheusza na szubienicy, ktora dla niego przygotowal. </v>
+<v n="5"> Sludzy krola odpowiedzieli mu: Oto Haman stoi na dziedzincu. Krol powiedzial: Niech wejdzie. </v>
+<v n="6"> I Haman wszedl. A krol zapytal go: Co uczynic temu mezczyznie, ktorego krol chce uczcic? A Haman myslal w swoim sercu: Kogo by krol chcial uczcic bardziej niz mnie? </v>
+<v n="7"> Odpowiedzial Haman krolowi: Dla mezczyzny, ktorego krol chce uczcic; </v>
+<v n="8"> Niech przyniosa szate krolewska, w ktora sie ubiera krol, niech przyprowadza konia, na ktorym jezdzi krol, i niech wloza mu korone krolewska na glowe; </v>
+<v n="9"> Potem niech przekaza te szate i konia do rak jednego z najznakomitszych ksiazat, niech ubiora tego mezczyzne, ktorego krol chce uczcic, niech go prowadza na koniu po placu miejskim i niech wolaja przed nim: Tak postapi sie z mezczyzna, ktorego krol chce uczcic. </v>
+<v n="10"> Wtedy krol powiedzial do Hamana: Spiesz sie, wez szate i konia, tak jak powiedziales, i uczyn tak z Zydem Mardocheuszem, ktory siedzi w bramie krolewskiej. Nie pomin niczego z tego wszystkiego, co powiedziales. </v>
+<v n="11"> Haman wzial wiec szate i konia, ubral Mardocheusza i prowadzil go na koniu po placu miejskim, wolajac przed nim: Tak postapi sie z mezczyzna, ktorego krol chce uczcic. </v>
+<v n="12"> Potem wrocil Mardocheusz do bramy krolewskiej, Haman zas pospieszyl sie do swego domu smutny, z nakryta glowa. </v>
+<v n="13"> I Haman opowiedzial swojej zonie Zeresz i wszystkim swoim przyjaciolom o wszystkim, co mu sie przydarzylo. Jego medrcy i jego zona Zeresz powiedzieli: Jesli Mardocheusz, przed ktorym zaczales upadac, pochodzi z narodu zydowskiego, to nie przemozesz go, ale niezawodnie upadniesz przed nim. </v>
+<v n="14"> A gdy oni jeszcze z nim rozmawiali, oto przyszli eunuchowie krola, aby spiesznie zaprowadzic Hamana na uczte, ktora przygotowala Estera. </v>
+</c>

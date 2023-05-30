@@ -1,0 +1,22 @@
+<v n="1"> W siodmym roku Jehu zaczal krolowac Jehoasz i krolowal czterdziesci lat w Jerozolimie. Jego matka miala na imie Sibia, byla z Beer-Szeby. </v>
+<v n="2"> Jehoasz czynil to, co sluszne w oczach PANA, przez wszystkie swoje dni, w ktorych uczyl go kaplan Jehojada. </v>
+<v n="3"> Wyzyn jednak nie zniesiono i lud jeszcze skladal ofiary, i palil kadzidlo na tych wyzynach. </v>
+<v n="4"> I Jehoasz powiedzial do kaplanow: Wszystkie pieniadze z ofiar poswieconych, ktore przynoszone sa do domu PANA, pieniadze tych, ktorzy sa spisani, pieniadze kazdego wedlug jego oszacowania i wszystkie pieniadze, ktore ktokolwiek dobrowolnie wnosi do domu PANA; </v>
+<v n="5"> Niech wezma dla siebie kaplani, kazdy od swego znajomego, i niech naprawia szkody domu PANA, gdziekolwiek taka szkoda sie znajdzie. </v>
+<v n="6"> Lecz jeszcze w dwudziestym trzecim roku krola Jehoasza kaplani nie naprawili szkod domu. </v>
+<v n="7"> Wtedy krol Jehoasz wezwal kaplana Jehojade oraz pozostalych kaplanow i mowil do nich: Czemu nie naprawiacie szkod domu? Teraz wiec nie bierzcie pieniedzy od swoich znajomych, ale oddajcie je na naprawe szkod domu. </v>
+<v n="8"> I kaplani zgodzili sie na to, aby nie brac pieniedzy od ludu, oraz na to, ze nie beda naprawiali szkod domu. </v>
+<v n="9"> Wtedy kaplan Jehojada wzial jedna skrzynie, zrobil otwor w jej wieku i postawil ja przy oltarzu po prawej stronie, ktoredy wchodzono do domu PANA. Kaplani zas, ktorzy strzegli progu, wrzucali tam wszystkie pieniadze, ktore wnoszono do domu PANA. </v>
+<v n="10"> A gdy widzieli, ze w skrzyni bylo duzo pieniedzy, przychodzil pisarz krola i najwyzszy kaplan, ktorzy liczyli i chowali pieniadze znajdujace sie w domu PANA. </v>
+<v n="11"> I odwazone pieniadze dawali do rak kierownikow robot, przelozonych nad domem PANA. Ci zas wydawali je na ciesli i budowniczych, ktorzy naprawiali dom PANA; </v>
+<v n="12"> Na murarzy, na kamieniarzy, na kupno drewna i ciosanych kamieni do naprawy szkod w domu PANA i na wszelkie inne wydatki zwiazane z naprawa tego domu. </v>
+<v n="13"> Jednakze z pieniedzy, ktore przynoszono do domu PANA, nie sporzadzono dla domu PANA srebrnych mis, nozyc, czasz, trab ani zadnych zlotych i srebrnych naczyn; </v>
+<v n="14"> Lecz dawano je robotnikom, ktorzy naprawiali za nie dom PANA. </v>
+<v n="15"> I nie rozliczano ludzi, ktorym dawano pieniadze do reki na oplacenie robotnikow, poniewaz postepowali uczciwie. </v>
+<v n="16"> Lecz pieniedzy z ofiar za wystepek i pieniedzy z ofiar za grzech nie wnoszono do domu PANA, lecz nalezaly do kaplanow. </v>
+<v n="17"> Wtedy Chazael, krol Syrii, wyruszyl, aby walczyc z Gat i zdobyl je. Potem Chazael postanowil wyruszyc przeciw Jerozolimie. </v>
+<v n="18"> Jehoasz, krol Judy, wzial wiec wszystkie rzeczy poswiecone, ktore poswiecili Jehoszafat, Joram i Achazjasz, jego ojcowie, krolowie Judy, i to, co sam poswiecil, oraz cale zloto, ktore znalazlo sie w skarbcach domu PANA i domu krola, i poslal to do Chazaela, krola Syrii. I ten wycofal sie z Jerozolimy. </v>
+<v n="19"> A pozostale dzieje Jehoasza i wszystko, co czynil, czy nie sa zapisane w kronikach krolow Judy? </v>
+<v n="20"> Potem jego sludzy powstali i uknuli spisek przeciwko niemu, i zabili Joasza w domu na Millo, na drodze schodzacej do Silla; </v>
+<v n="21"> Jozachar, syn Szimeata, i Jozabad, syn Szomera, byli wlasnie tymi slugami, ktorzy zabili go. A pogrzebali go z jego ojcami w miescie Dawida, a jego syn Amazjasz krolowal w jego miejsce. </v>
+</c>

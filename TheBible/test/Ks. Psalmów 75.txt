@@ -1,0 +1,11 @@
+<v n="1"> Przewodnikowi choru. Al taszchet. Psalm i piesn Asafa. Wyslawiamy cie, Boze, wyslawiamy, bo bliskie twoje imie; opowiadaja to twoje cudowne dziela. </v>
+<v n="2"> Gdy wyznacze czas, bede sadzic sprawiedliwie. </v>
+<v n="3"> Roztopila sie ziemia i wszyscy jej mieszkancy, ale ja umacniam jej filary. Sela. </v>
+<v n="4"> Powiedzialem glupcom: Nie szalejcie, a niegodziwym: Nie podnoscie rogu. </v>
+<v n="5"> Nie podnoscie wysoko swego rogu i nie mowcie wyniosle; </v>
+<v n="6"> Bo nie ze wschodu ani z zachodu, ani z poludnia przychodzi wywyzszenie. </v>
+<v n="7"> Lecz Bog jest sedzia; tego poniza, a tamtego wywyzsza. </v>
+<v n="8"> W reku PANA bowiem jest kielich metnego wina, pelnego przypraw; z niego nalewa tak, ze wszyscy niegodziwi ziemi wycisna nawet mety i wypija je. </v>
+<v n="9"> Ja zas bede zawsze opowiadal, bede spiewal Bogu Jakuba. </v>
+<v n="10"> I polamie wszystkie rogi niegodziwych, a rogi sprawiedliwego beda wzniesione. </v>
+</c>

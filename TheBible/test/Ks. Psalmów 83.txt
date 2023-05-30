@@ -1,0 +1,19 @@
+<v n="1"> Piesn i psalm Asafa. Boze, nie milcz; nie badz gluchy i bezczynny, Boze! </v>
+<v n="2"> Bo oto burza sie twoi wrogowie, a ci, ktorzy cie nienawidza, podnosza glowe. </v>
+<v n="3"> Przeciwko twemu ludowi knuja spisek i naradzali sie przeciw tym, ktorych ochraniasz; </v>
+<v n="4"> Mowiac: Chodzcie, wytepmy ich, niech nie beda narodem, zeby wiecej nie wspominano imienia Izraela. </v>
+<v n="5"> Zmowili sie bowiem jednomyslnie, przeciwko tobie zawarli przymierze: </v>
+<v n="6"> Namioty Edomitow i Izmaelitow, Moab i Hagaryci; </v>
+<v n="7"> Gebal, Ammon i Amalek; Filistyni z mieszkancami Tyru. </v>
+<v n="8"> Takze Assur przylaczyl sie do nich, wsparl swym ramieniem synow Lota. Sela. </v>
+<v n="9"> Uczyn im tak, jak Midianitom, jak Syserze, jak Jabinowi nad potokiem Kiszon; </v>
+<v n="10"> Ktorzy zostali wytepieni w Endor, stali sie jak gnoj dla ziemi. </v>
+<v n="11"> Z ich dostojnikami postap jak z Orebem i Zeebem, jak z Zebachem i Salmunna, ze wszystkimi ich ksiazetami; </v>
+<v n="12"> Ktorzy mowili: Wezmy w posiadanie przybytki Boze. </v>
+<v n="13"> Moj Boze, uczyn ich jak kolo i jak zdzblo na wietrze. </v>
+<v n="14"> Jak ogien, ktory pali las, i jak plomien, ktory wypala gory; </v>
+<v n="15"> Tak ty ich scigaj swoja nawalnica i swoja burza zatrwoz ich. </v>
+<v n="16"> Okryj ich twarze hanba, aby szukali twego imienia, PANIE! </v>
+<v n="17"> Niech sie zawstydza i zatrwoza na wieki, niech sie okryja hanba i zgina. </v>
+<v n="18"> Niech poznaja, ze jedynie ty, ktorego imie jest PAN, ty jestes Najwyzszy ponad cala ziemia. </v>
+</c>

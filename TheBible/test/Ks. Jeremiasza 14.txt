@@ -1,0 +1,23 @@
+<v n="1"> Slowo PANA, ktore doszlo do Jeremiasza w zwiazku z susza: </v>
+<v n="2"> Ziemia Judy placze, a jej bramy oslably, w szacie zalobnej siedza na ziemi, a krzyk Jerozolimy sie podnosi. </v>
+<v n="3"> Ich szlachetni posylaja swoje slugi po wode. A gdy przyszli do cystern, nie znalezli wody i powrocili z pustymi naczyniami. Zaploneli i zawstydzili sie, i zakryli swoje glowy. </v>
+<v n="4"> Z powodu spekanej ziemi – bo nie bylo deszczu na ziemi – oracze ze wstydu zakryli swoje glowy. </v>
+<v n="5"> Nawet lania rodzaca na polu porzucila mlode, bo nie bylo trawy. </v>
+<v n="6"> A dzikie osly, stojac na wysokich miejscach, chwycily wiatr jak smoki; ich oczy oslably, bo nie bylo trawy. </v>
+<v n="7"> PANIE, chociaz nasze nieprawosci swiadcza przeciwko nam, dzialaj przez wzglad na twoje imie. Liczne sa bowiem nasze odstepstwa, zgrzeszylismy przeciwko tobie. </v>
+<v n="8"> Nadziejo Izraela, jego Zbawicielu w czasie utrapienia, czemu jestes jak przybysz w tej ziemi, jak podrozny, ktory zatrzymuje sie na nocleg? </v>
+<v n="9"> Czemu jestes jak czlowiek oslupialy albo jak mocarz, ktory nie moze wybawic? Ty jednak jestes posrod nas, PANIE, i twoje imie jest wzywane nad nami. Nie opuszczaj nas. </v>
+<v n="10"> Tak mowi PAN o tym ludzie: Tak kochaja bladzic, swoich nog nie powstrzymaja; dlatego PAN nie ma w nich upodobania, teraz wspomina ich nieprawosc i nawiedza ich za ich grzechy. </v>
+<v n="11"> Potem PAN powiedzial do mnie: Nie modl sie o dobro tego ludu. </v>
+<v n="12"> Gdy beda poscic, nie wyslucham ich wolania, a gdy beda skladac calopalenia i ofiare z pokarmow, nie przyjme tego, ale wytrace ich mieczem, glodem i zaraza. </v>
+<v n="13"> Wtedy powiedzialem: Ach, Panie BOZE! Oto prorocy mowia im: Nie zobaczycie miecza ani nie dotknie was glod, ale dam wam trwaly pokoj na tym miejscu. </v>
+<v n="14"> I PAN powiedzial do mnie: Ci prorocy falszywie prorokuja w moje imie. Nie poslalem ich ani im niczego nie nakazywalem, ani nie mowilem do nich. Prorokuja wam klamliwe widzenie i wrozbe, marnosc i urojenie swego serca. </v>
+<v n="15"> Dlatego tak mowi PAN o prorokach, ktorzy prorokuja w moje imie, chociaz ich nie poslalem, i ktorzy mowia: Miecza i glodu nie bedzie w tej ziemi. Ci sami prorocy od miecza i glodu zgina. </v>
+<v n="16"> A ten lud, ktoremu oni prorokuja, bedzie wyrzucony na ulice Jerozolimy z powodu glodu i miecza i nie bedzie nikogo, kto by pogrzebal ich samych ani ich zon, ani ich synow i corek. Tak wyleje na nich ich niegodziwosc. </v>
+<v n="17"> Dlatego powiesz im to slowo: Moje oczy wylewaja lzy w nocy i we dnie, bez przerwy, bo dziewicza corka mego ludu zostala dotknieta wielka kleska, ciosem bardzo bolesnym. </v>
+<v n="18"> Jesli wychodze na pole – oto pobici mieczem, jesli wchodze do miasta – oto ginacy od glodu. Tak, zarowno prorok, jak i kaplan kupcza ziemia, a ludzie tego nie zauwazaja. </v>
+<v n="19"> Czy calkowicie odrzucasz Jude? Czy twoja dusza obrzydzila sobie Syjon? Czemu nas bijesz, tak ze juz nie ma dla nas uzdrowienia? Oczekiwalismy pokoju, ale nie ma nic dobrego; oczekiwalismy czasu uleczenia, a oto trwoga. </v>
+<v n="20"> Uznajemy, PANIE, swoja niegodziwosc i nieprawosc naszych ojcow, bo zgrzeszylismy przeciw tobie. </v>
+<v n="21"> Nie odrzucaj nas przez wzglad na twoje imie, nie dopusc do zniewazenia tronu swojej chwaly. Pamietaj o swoim przymierzu i nie zrywaj go z nami. </v>
+<v n="22"> Czy wsrod marnosci pogan sa takie, co spuszczaja deszcz? Czy niebiosa moga same dawac deszcze? Czy to nie ty, PANIE, nasz Boze? Dlatego oczekujemy ciebie, bo ty czynisz to wszystko. </v>
+</c>

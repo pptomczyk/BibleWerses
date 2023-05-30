@@ -1,0 +1,14 @@
+<v n="1"> Piesn. Psalm Dawida. Boze, moje serce jest gotowe; bede ci spiewac i wyslawiac cie, takze i moja chwala. </v>
+<v n="2"> Obudz sie, cytro i harfo, gdy o swicie powstane. </v>
+<v n="3"> Bede cie wyslawiac wsrod ludu, PANIE, bede ci spiewal wsrod narodow. </v>
+<v n="4"> Twoje milosierdzie bowiem jest wielkie, siega ponad niebiosa, a twoja prawda az pod obloki. </v>
+<v n="5"> Badz wywyzszony ponad niebiosa, Boze, a twoja chwala ponad cala ziemie; </v>
+<v n="6"> Aby twoi umilowani byli ocaleni, wybaw ich swoja prawica i wysluchaj mnie. </v>
+<v n="7"> Bog przemowil w swej swietosci: Bede sie weselic, rozdziele Sychem, a doline Sukkot wymierze. </v>
+<v n="8"> Moj jest Gilead, moj i Manasses, Efraim moca mojej glowy, Juda moim prawodawca. </v>
+<v n="9"> Moab jest moja miednica do mycia, na Edom rzuce moje obuwie, nad Filistea zatriumfuje. </v>
+<v n="10"> Kto mnie wprowadzi do miasta warownego? Kto mnie doprowadzi az do Edomu? </v>
+<v n="11"> Czy nie ty, Boze, ktory nas odrzuciles? Czy nie wyruszysz, Boze, z naszymi wojskami? </v>
+<v n="12"> Udziel nam pomocy w ucisku, bo prozna jest pomoc ludzka. </v>
+<v n="13"> W Bogu bedziemy mezni, on podepcze naszych wrogow. </v>
+</c>

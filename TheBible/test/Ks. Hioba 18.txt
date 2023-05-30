@@ -1,0 +1,22 @@
+<v n="1"> Wtedy Bildad z Szuach odpowiedzial: </v>
+<v n="2"> Kiedy wreszcie polozycie kres tym slowom? Pomyslcie, potem bedziemy mowic. </v>
+<v n="3"> Czemu uwazacie nas za bydlo? Czemu jestesmy obrzydliwi w waszych oczach? </v>
+<v n="4"> Ty, ktory szarpiesz gniewem swa dusze – czy z twojego powodu bedzie opuszczona ziemia i skaly beda przesuniete ze swego miejsca? </v>
+<v n="5"> Tak, swiatlo niegodziwych zgasnie, a iskra jego ognia juz nie zaswieci. </v>
+<v n="6"> Swiatlo jego przybytku sie zacmi i jego pochodnia nad nim zagasnie. </v>
+<v n="7"> Kroki jego sily beda skrepowane, jego wlasna rada powali go. </v>
+<v n="8"> Jego nogi bowiem zawioda go w siec, chodzi po sidlach. </v>
+<v n="9"> Sidlo uchwyci go za piete i przemoze go lupiezca. </v>
+<v n="10"> Sidlo dla niego ukryte jest w ziemi, a pulapka na niego – na drodze. </v>
+<v n="11"> Zewszad beda go przerazac strachy, scigaja go na kazdym kroku. </v>
+<v n="12"> Glod oslabi jego sily i zniszczenie bedzie czyhalo u jego boku. </v>
+<v n="13"> Pozre zyly jego skory, pierworodny smierci pozre jego czlonki. </v>
+<v n="14"> Jego ufnosc bedzie wykorzeniona z jego namiotu i zostanie on przyprowadzony do krola strachow. </v>
+<v n="15"> Strach bedzie mieszkal w jego namiocie, bo ten nie nalezy do niego; jego mieszkanie bedzie posypane siarka. </v>
+<v n="16"> Od spodu uschna jego korzenie, a z wierzchu bedzie obcieta jego galaz. </v>
+<v n="17"> Pamiec o nim zginie z ziemi, a jego imienia nie wspomna na ulicach. </v>
+<v n="18"> Wypedza go ze swiatla do ciemnosci i wyrzuca go z okregu swiata. </v>
+<v n="19"> Nie bedzie mial syna ani wnuka posrod swego ludu i nikt nie pozostanie w jego mieszkaniach. </v>
+<v n="20"> Ci, ktorzy przyjda po nim, oslupieja na jego dzien, tak jak poprzednich ogarnal strach. </v>
+<v n="21"> Takie sa mieszkania niegodziwych i takie jest miejsce tego, ktory nie zna Boga. </v>
+</c>

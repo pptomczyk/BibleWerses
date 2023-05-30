@@ -1,0 +1,11 @@
+<v n="1"> I PAN powiedzial do Mojzesza: Sprowadze jeszcze jedna plage na faraona i na Egipt, potem wypusci was stad. A gdy was wypusci, calkowicie was stad wypedzi. </v>
+<v n="2"> Powiedz teraz do uszu ludu, aby kazdy mezczyzna pozyczyl od swego sasiada i kazda kobieta od swej sasiadki srebrne i zlote przedmioty. </v>
+<v n="3"> A PAN dal ludowi laske w oczach Egipcjan. Mojzesz takze byl bardzo wielkim mezem w ziemi Egiptu w oczach slug faraona i w oczach ludu. </v>
+<v n="4"> Wtedy Mojzesz powiedzial: Tak mowi PAN: O polnocy przejde przez Egipt. </v>
+<v n="5"> I umrze wszystko, co pierworodne w ziemi Egiptu, od pierworodnego syna faraona, ktory mial zasiadac na jego tronie, az do pierworodnego niewolnicy, ktora jest przy zarnach, i wszelkie pierworodne bydla. </v>
+<v n="6"> I bedzie wielki krzyk w calej ziemi Egiptu, jakiego nigdy przedtem nie bylo i jakiego potem nie bedzie. </v>
+<v n="7"> Ale na nikogo z synow Izraela pies nie ruszy swym jezykiem, ani na czlowieka, ani na bydle, abyscie wiedzieli, ze PAN uczynil roznice miedzy Egipcjanami a Izraelem. </v>
+<v n="8"> I przyjda do mnie wszyscy twoi sludzy, i beda mi sie klaniac, mowiac: Wyjdz ty i caly lud, ktory jest pod twoim przywodztwem. Potem wyjde. I wyszedl od faraona z wielkim gniewem. </v>
+<v n="9"> PAN powiedzial do Mojzesza: Faraon nie poslucha was, aby mnozyly sie moje cuda w ziemi Egiptu. </v>
+<v n="10"> Mojzesz i Aaron czynili wiec te wszystkie cuda przed faraonem. Lecz PAN zatwardzil serce faraona i ten nie wypuscil synow Izraela ze swojej ziemi. </v>
+</c>

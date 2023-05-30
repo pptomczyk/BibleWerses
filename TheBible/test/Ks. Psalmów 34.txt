@@ -1,0 +1,23 @@
+<v n="1"> Psalm Dawida, gdy zmienil swoje zachowanie przed Abimelekiem i wypedzony przez niego, odszedl. Bede blogoslawil PANA w kazdym czasie, jego chwala zawsze bedzie na moich ustach. </v>
+<v n="2"> Moja dusza bedzie sie chlubic PANEM; pokorni to uslysza i rozraduja sie. </v>
+<v n="3"> Uwielbiajcie PANA ze mna i wspolnie wywyzszajmy jego imie. </v>
+<v n="4"> Szukalem PANA, a on mnie wysluchal i uwolnil od wszystkich mych trwog. </v>
+<v n="5"> Spojrzeli na niego i rozpromienili sie, a ich oblicza nie doznaly wstydu. </v>
+<v n="6"> Ten oto biedak wolal, a PAN wysluchal i wybawil go ze wszystkich jego utrapien. </v>
+<v n="7"> Aniol PANA rozbija oboz dokola tych, ktorzy sie go boja, i wybawia ich. </v>
+<v n="8"> Skosztujcie i zobaczcie, jak dobry jest PAN: Blogoslawiony czlowiek, ktory mu ufa. </v>
+<v n="9"> Bojcie sie PANA, jego swieci, bo niczego nie braknie tym, ktorzy sie go boja. </v>
+<v n="10"> Lwieta cierpia niedostatek i glod, lecz szukajacym PANA nie zabraknie zadnego dobra. </v>
+<v n="11"> Chodzcie, synowie, sluchajcie mnie; naucze was bojazni PANA. </v>
+<v n="12"> Ktory czlowiek chce dlugo zyc i pragnie wiele dni, aby moc ogladac dobro? </v>
+<v n="13"> Strzez swego jezyka od zla, a swoich warg od podstepnej mowy. </v>
+<v n="14"> Odwroc sie od zla i czyn dobrze, szukaj pokoju i daz do niego. </v>
+<v n="15"> Oczy PANA sa zwrocone na sprawiedliwych, a jego uszy nachylone na ich wolanie; </v>
+<v n="16"> Lecz oblicze PANA jest przeciwko zloczyncom, aby pamiec o nich wymazac z ziemi. </v>
+<v n="17"> Wolaja sprawiedliwi, a PAN wysluchuje ich i uwalnia od wszelkich trudnosci. </v>
+<v n="18"> Bliski jest PAN skruszonym w sercu i wybawia zlamanych na duchu. </v>
+<v n="19"> Liczne sa cierpienia sprawiedliwego, ale PAN uwalnia go od nich wszystkich. </v>
+<v n="20"> On strzeze wszystkich jego kosci; ani jedna z nich nie bedzie zlamana. </v>
+<v n="21"> Zlo zabija niegodziwego i ci, ktorzy nienawidza sprawiedliwego, beda zniszczeni; </v>
+<v n="22"> PAN odkupi dusze swoich slug i nie beda zniszczeni ci, ktorzy mu ufaja. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Tego dnia krol Aswerus dal krolowej Esterze dom Hamana, wroga Zydow, a Mardocheusz przyszedl przed krola, gdyz Estera powiedziala mu, kim on jest dla niej. </v>
+<v n="2"> Wtedy krol zdjal swoj pierscien, ktory zabral Hamanowi, i dal go Mardocheuszowi. Estera zas ustanowila Mardocheusza nad domem Hamana. </v>
+<v n="3"> Potem Estera jeszcze mowila do krola, upadla mu do nog i z placzem prosila go, aby odwrocil zlosc Hamana, Agagity, i jego zamiar, ktory powzial przeciwko Zydom. </v>
+<v n="4"> Wtedy krol wyciagnal ku Esterze zlote berlo, a Estera wstala i stanela przed krolem. </v>
+<v n="5"> I powiedziala: Jesli krolowi sie podoba, jesli znalazlam laske w jego oczach, jesli krol uzna to za sluszne i jesli ja jestem mila w jego oczach, niech zostanie napisane, aby wycofano listy obmyslone przez Hamana, syna Hammedaty, Agagity, ktore napisal, aby wytracic Zydow, ktorzy sa we wszystkich prowincjach krolewskich. </v>
+<v n="6"> Jakze bowiem moglabym patrzec na to nieszczescie, ktore spotka moj lud? Jak moglabym patrzec na zgube mojej rodziny? </v>
+<v n="7"> Wtedy krol Aswerus powiedzial do krolowej Estery i do Zyda Mardocheusza: Oto dalem Esterze dom Hamana, a jego powieszono na szubienicy, poniewaz podniosl reke na Zydow. </v>
+<v n="8"> Napiszcie wiec do Zydow to, co uznacie za sluszne, w imieniu krola i zapieczetujcie pierscieniem krolewskim. To bowiem, co zostalo napisane w imieniu krola i zapieczetowane pierscieniem krolewskim, nie moze byc odwolane. </v>
+<v n="9"> Zwolano wiec pisarzy krola w tym czasie, trzeciego miesiaca, to jest miesiaca Siwan, dwudziestego trzeciego dnia tego miesiaca, i napisano wszystko, tak jak nakazal Mardocheusz, do Zydow, do satrapow, do namiestnikow i do przelozonych prowincji, ktore rozciagaja sie od Indii az do Etiopii, do stu dwudziestu siedmiu prowincji, do kazdej prowincji jej pismem i do kazdego ludu w jego jezyku, i do Zydow ich pismem i w ich jezyku. </v>
+<v n="10"> A gdy napisal w imieniu krola Aswerusa i zapieczetowal pierscieniem krolewskim, rozeslal listy przez goncow jezdzacych na koniach szybkich i na mulach mlodych; </v>
+<v n="11"> Ze krol dal wolnosc Zydom, ktorzy byli we wszystkich miastach, aby zgromadzili sie i staneli w obronie swego zycia, aby tez wytracili, zabili i wygubili wszystkich zbrojnych napadajacych na nich wsrod ludu i prowincji, wraz z ich dziecmi i kobietami, a ich mienie zabrali jako lup; </v>
+<v n="12"> I to w jednym dniu we wszystkich prowincjach krola Aswerusa, mianowicie trzynastego dnia dwunastego miesiaca, to jest miesiaca Adar. </v>
+<v n="13"> Odpis tego pisma, w ktorym wydano dekret dla kazdej prowincji, ogloszono wszystkim ludom, ze Zydzi beda gotowi na ten dzien do pomsty nad swymi wrogami. </v>
+<v n="14"> Wtedy wyruszyli goncy, jezdzacy na szybkich koniach i na mulach, przynaglani rozkazem krola. Dekret ogloszono takze w palacu Suza. </v>
+<v n="15"> A Mardocheusz wyszedl od krola ubrany w niebieskie i biale szaty krolewskie, z wielka korona zlota i w plaszcz z bisioru i purpury. A miasto Suza weselilo i radowalo sie. </v>
+<v n="16"> Dla Zydow nastaly swiatlo i wesele, radosc i czesc. </v>
+<v n="17"> A w kazdej prowincji i w kazdym miescie, dokadkolwiek rozkaz krola i jego dekret dotarly, Zydzi mieli wesele, radosc, uczte i doniosly dzien. Wielu zas sposrod ludu tych ziem zostalo Zydami. Padl bowiem na nich strach przed Zydami. </v>
+</c>

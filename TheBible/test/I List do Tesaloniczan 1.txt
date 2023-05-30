@@ -1,0 +1,11 @@
+<v n="1"> Pawel, Sylwan i Tymoteusz do kosciola Tesaloniczan, ktory jest w Bogu Ojcu i Panu Jezusie Chrystusie. Laska wam i pokoj od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="2"> Zawsze dziekujemy Bogu za was wszystkich, czyniac wzmianke o was w naszych modlitwach; </v>
+<v n="3"> Nieustannie wspominajac wasze dzielo wiary i trud milosci, i wytrwalosc w nadziei w naszym Panu Jezusie Chrystusie, przed Bogiem i naszym Ojcem; </v>
+<v n="4"> Wiedzac, umilowani bracia, ze zostaliscie wybrani przez Boga; </v>
+<v n="5"> Gdyz nasza ewangelia nie doszla was tylko w slowie, ale takze w mocy i w Duchu Swietym, i w pelnym przekonaniu. Wiecie bowiem, jacy bylismy dla was, przebywajac wsrod was. </v>
+<v n="6"> A wy staliscie sie nasladowcami naszymi i Pana, przyjmujac slowo posrod wielkiego ucisku, z radoscia Ducha Swietego; </v>
+<v n="7"> Tak ze staliscie sie wzorem dla wszystkich wierzacych w Macedonii i Achai. </v>
+<v n="8"> Od was bowiem slowo Panskie rozbrzmiewalo nie tylko w Macedonii i Achai, ale tez wasza wiara w Boga rozkrzewila sie w kazdym miejscu, tak ze nie trzeba nam mowic czegokolwiek; </v>
+<v n="9"> Poniewaz oni sami opowiadaja o nas, jakie bylo nasze przybycie do was i jak nawrociliscie sie od bozkow do Boga, aby sluzyc zywemu i prawdziwemu Bogu; </v>
+<v n="10"> I oczekiwac z niebios jego Syna, ktorego wskrzesil z martwych, Jezusa, ktory nas wyrwal od nadchodzacego gniewu. </v>
+</c>

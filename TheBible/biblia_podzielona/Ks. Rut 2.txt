@@ -1,0 +1,24 @@
+<v n="1"> A Noemi mia³a krewnego ze strony mê¿a, cz³owieka bardzo zamo¿nego z domu Elimelecha. Mia³ on na imiê Boaz. </v>
+<v n="2"> I Rut Moabitka powiedzia³a do Noemi: Pozwól mi pójœæ na pole zbieraæ k³osy za tym, w którego oczach znajdê ³askê. A ona odpowiedzia³a: IdŸ, moja córko. </v>
+<v n="3"> Posz³a wiêc, a gdy przyby³a, zbiera³a na polu za ¿niwiarzami. I zdarzy³o siê przypadkiem, ¿e trafi³a na czêœæ pola Boaza, który by³ z rodziny Elimelecha. </v>
+<v n="4"> A oto Boaz przyby³ z Betlejem i powiedzia³ do ¿niwiarzy: PAN z wami. A oni mu odpowiedzieli: Niech ci PAN b³ogos³awi. </v>
+<v n="5"> Wtedy Boaz zapyta³ swego s³ugê postawionego nad ¿niwiarzami: Czyja to dziewczyna? </v>
+<v n="6"> I s³uga postawiony nad ¿niwiarzami odpowiedzia³ mu: To jest ta m³oda Moabitka, która przysz³a z Noemi z ziemi Moabu. </v>
+<v n="7"> Powiedzia³a: Pozwól mi, proszê, zbieraæ i gromadziæ k³osy miêdzy snopami za ¿niwiarzami. Przysz³a wiêc i pozosta³a od rana a¿ dot¹d, a w domu krótko odpoczywa³a. </v>
+<v n="8"> Wtedy Boaz powiedzia³ do Rut: S³uchaj mnie, moja córko! Nie chodŸ zbieraæ k³osów na inne pole i nie odchodŸ st¹d, ale pozostañ tu z moimi s³u¿¹cymi. </v>
+<v n="9"> Spójrz na pole, na którym bêd¹ ¿¹æ, i chodŸ za nimi, poniewa¿ nakaza³em swoim s³ugom, ¿eby ciê nie tykali. A jeœli bêdziesz spragniona, idŸ do naczyñ i napij siê z tego, co czerpi¹ moi s³udzy. </v>
+<v n="10"> Wtedy upad³a na twarz i pok³oni³a siê a¿ do ziemi, i powiedzia³a do niego: Dlaczego znalaz³am ³askê w twoich oczach, ¿e zwracasz na mnie uwagê, choæ jestem cudzoziemk¹? </v>
+<v n="11"> Boaz odpowiedzia³ jej: Dok³adnie opowiedziano mi o wszystkim, co uczyni³aœ dla swojej teœciowej po œmierci swego mê¿a, i to, jak opuœci³aœ swego ojca i sw¹ matkê oraz ziemiê, w której siê urodzi³aœ, i przysz³aœ do ludu, którego przedtem nie zna³aœ. </v>
+<v n="12"> Niech PAN wynagrodzi twój uczynek i niech bêdzie pe³na twoja zap³ata od PANA, Boga Izraela, pod którego skrzyd³a przysz³aœ siê schroniæ. </v>
+<v n="13"> A ona odpowiedzia³a: Znalaz³am ³askê w twoich oczach, mój panie. Pocieszy³eœ mnie bowiem i mówi³eœ do serca swej s³u¿¹cej, chocia¿ nie jestem równa ¿adnej z twoich s³u¿¹cych. </v>
+<v n="14"> I Boaz jej powiedzia³: Gdy bêdzie czas posi³ku, przychodŸ tu i jedz chleb, i maczaj swój kawa³ek w occie. I usiad³a przy ¿niwiarzach, on zaœ poda³ jej pra¿one ziarno, które jad³a a¿ do syta, i jeszcze jej zosta³o. </v>
+<v n="15"> A gdy wsta³a, aby zbieraæ k³osy, Boaz nakaza³ swoim s³ugom: Pozwólcie jej zbieraæ nawet miêdzy snopami i nie zawstydzajcie jej. </v>
+<v n="16"> Co wiêcej, umyœlnie upuszczajcie dla niej k³osy i zostawiajcie je, aby mog³a je zbieraæ, i nie gañcie jej. </v>
+<v n="17"> Tak zbiera³a na tym polu a¿ do wieczora, potem wym³óci³a to, co zebra³a. By³o tego oko³o efy jêczmienia. </v>
+<v n="18"> Nastêpnie wziê³a to i posz³a do miasta, i jej teœciowa zobaczy³a to, co nazbiera³a. Wyjê³a te¿ i da³a jej to, co pozosta³o jej z posi³ku. </v>
+<v n="19"> I teœciowa zapyta³a j¹: Gdzie zbiera³aœ dziœ k³osy i gdzie pracowa³aœ? Niech bêdzie b³ogos³awiony ten, który zwróci³ na ciebie uwagê. I opowiedzia³a swej teœciowej, u kogo pracowa³a: Cz³owiek, u którego dziœ pracowa³am, ma na imiê Boaz. </v>
+<v n="20"> Potem Noemi odezwa³a siê do swojej synowej: Niech bêdzie b³ogos³awiony przez PANA, który nie zaniecha³ swego mi³osierdzia dla ¿ywych i umar³ych. Ponadto Noemi powiedzia³a: Ten cz³owiek jest naszym krewnym, jednym spoœród blisko z nami spokrewnionych. </v>
+<v n="21"> Wtedy Rut Moabitka powiedzia³a: Ten cz³owiek powiedzia³ jeszcze do mnie: Pozostañ z moimi s³ugami, póki nie skoñcz¹ ca³ego mojego ¿niwa. </v>
+<v n="22"> Noemi powiedzia³a do Rut, swej synowej: To dobrze, moja córko, ¿e bêdziesz chodzi³a z jego s³u¿¹cymi, aby ciê nie spotkali na innym polu. </v>
+<v n="23"> Pozosta³a wiêc ze s³u¿¹cymi Boaza i zbiera³a k³osy, dopóki nie skoñczy³y siê ¿niwa jêczmienia i pszenicy, a mieszka³a ze swoj¹ teœciow¹. </v>
+</c>

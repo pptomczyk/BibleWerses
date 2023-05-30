@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi choru. Psalm dla synow Korego. Klaszczcie w dlonie, wszystkie narody, wykrzykujcie Bogu radosnym glosem. </v>
+<v n="2"> Gdyz PAN Najwyzszy budzi groze, jest wielkim Krolem nad cala ziemia. </v>
+<v n="3"> Podda nam ludzi i narody pod nasze stopy. </v>
+<v n="4"> Wybral nam nasze dziedzictwo, chlube Jakuba, ktorego umilowal. Sela. </v>
+<v n="5"> Wstapil Bog wsrod okrzykow, PAN przy dzwieku traby. </v>
+<v n="6"> Spiewajcie Bogu, spiewajcie; spiewajcie naszemu Krolowi, spiewajcie. </v>
+<v n="7"> Bog bowiem jest Krolem calej ziemi, spiewajcie piesni pouczajace. </v>
+<v n="8"> Bog kroluje nad narodami, Bog zasiada na swym swietym tronie. </v>
+<v n="9"> Wladcy narodow zebrali sie z ludem Boga Abrahama, bo do Boga naleza tarcze ziemi; on jest wielce wywyzszony. </v>
+</c>

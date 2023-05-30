@@ -1,0 +1,24 @@
+<v n="1"> Potem Mojzesz i Aaron przyszli do faraona i powiedzieli: Tak mowi PAN, Bog Izraela: Wypusc moj lud, aby dla mnie obchodzil swieto na pustyni. </v>
+<v n="2"> Faraon odparl: Ktoz to jest PAN, abym mial sluchac jego glosu i wypuscic Izraela? Nie znam PANA, a Izraela tez nie wypuszcze. </v>
+<v n="3"> I odpowiedzieli: Bog Hebrajczykow ukazal sie nam. Pozwol nam isc trzy dni droga na pustynie i zlozyc ofiare PANU, naszemu Bogu, by nie nawiedzil nas zaraza albo mieczem. </v>
+<v n="4"> Krol Egiptu zapytal ich: Dlaczego wy, Mojzeszu i Aaronie, odrywacie lud od pracy? Idzcie do waszych robot. </v>
+<v n="5"> I faraon dodal: Oto lud tej ziemi jest teraz liczny, a wy go odrywacie od robot. </v>
+<v n="6"> Rozkazal wiec faraon tego dnia nadzorcom ludu i jego przelozonym: </v>
+<v n="7"> Juz wiecej nie bedziecie dawac ludowi slomy do wyrobu cegly, jak dotychczas. Niech sami ida i zbieraja sobie slome. </v>
+<v n="8"> Wyznaczcie im te sama liczbe cegiel, jaka wyrabiali poprzednio, nic nie zmniejszajcie. Proznuja bowiem i dlatego wolaja: Pozwol nam pojsc i zlozyc ofiare naszemu Bogu. </v>
+<v n="9"> Niech praca tych ludzi bedzie ciezsza, aby byli nia zajeci, a nie ufali klamliwym slowom. </v>
+<v n="10"> Wtedy wyszli nadzorcy ludu i jego przelozeni i powiedzieli do ludu: Tak mowi faraon: Nie bede wam dawal slomy. </v>
+<v n="11"> Sami idzcie, zbierajcie sobie slome, gdzie ja mozecie znalezc. Mimo to nic nie bedzie odjete z waszej pracy. </v>
+<v n="12"> Lud rozproszyl sie wiec po calej ziemi Egiptu, aby zbierac sciern zamiast slomy. </v>
+<v n="13"> A nadzorcy przynaglali, mowiac: Wykonujcie wasze roboty, codzienna prace jak wtedy, gdy wam dawano slome. </v>
+<v n="14"> I bito przelozonych sposrod synow Izraela, ktorych nadzorcy faraona postawili nad nimi, i pytano ich: Dlaczego ani wczoraj, ani dzisiaj nie wykonaliscie tej ilosci cegiel jak poprzednio? </v>
+<v n="15"> Przelozeni sposrod synow Izraela przyszli wiec do faraona i wolali: Czemu postepujesz tak ze swoimi slugami? </v>
+<v n="16"> Nie daja twoim slugom slomy, a mowia: Robcie cegle. I oto bija twe slugi, a to wina twojego ludu. </v>
+<v n="17"> On odpowiedzial: Proznujecie, proznujecie i dlatego mowicie: Pozwol nam pojsc i zlozyc ofiare PANU. </v>
+<v n="18"> Teraz wiec idzcie i pracujcie. Slomy wam nie dadza, ale macie dostarczac taka sama ilosc cegiel. </v>
+<v n="19"> A przelozeni sposrod synow Izraela zobaczyli, ze sa w zlym polozeniu, poniewaz mowiono: Nie zmniejszacie nic z dziennego wyrobu cegiel. </v>
+<v n="20"> Gdy wychodzili od faraona, spotkali Mojzesza i Aarona, ktorzy na nich czekali. </v>
+<v n="21"> I powiedzieli do nich: Niech PAN wejrzy na was i osadzi, bo sprawiliscie, ze stalismy sie wstretni w oczach faraona i w oczach jego slug, i daliscie im do reki miecz, aby nas zabili. </v>
+<v n="22"> Wtedy Mojzesz wrocil do PANA i powiedzial: Panie, dlaczego wyrzadziles to zlo twojemu ludowi? Dlaczego mnie tu poslales? </v>
+<v n="23"> Odkad bowiem poszedlem do faraona, aby mowic w twoim imieniu, gorzej sie obchodzi z tym ludem; a ty nie wybawiles swego ludu. </v>
+</c>

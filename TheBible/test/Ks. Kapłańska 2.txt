@@ -1,0 +1,17 @@
+<v n="1"> Gdy ktos zechce zlozyc PANU ofiare pokarmowa, niech jego ofiara bedzie z maki pszennej. Niech poleje ja oliwa i polozy na niej kadzidla. </v>
+<v n="2"> I przyniesie ja do synow Aarona, kaplanow, a kaplan wezmie stamtad pelna garsc tej maki pszennej wraz z oliwa i calym kadzidlem i spali to na oltarzu jako pamiatke. To jest ofiara ogniowa, mila won dla PANA. </v>
+<v n="3"> To zas, co zostanie z tej ofiary pokarmowej, bedzie dla Aarona i jego synow. Jest to najswietsza czesc z ofiar ogniowych dla PANA. </v>
+<v n="4"> A jesli bedziesz skladal ofiare pokarmowa upieczona w piecu, niech to beda przasne placki z maki pszennej zmieszane z oliwa albo przasne podplomyki skropione oliwa. </v>
+<v n="5"> Jesli zas bedziesz skladal ofiare pokarmowa smazona na patelni, niech bedzie ona z maki pszennej niezakwaszonej, zmieszanej z oliwa. </v>
+<v n="6"> Polamiesz ja na kawalki i polejesz oliwa. To jest ofiara pokarmowa. </v>
+<v n="7"> A jesli bedziesz skladal ofiare pokarmowa gotowana w rondlu, niech ona bedzie z maki pszennej z oliwa. </v>
+<v n="8"> I przyniesiesz PANU ofiare pokarmowa tak przyrzadzona. Oddasz ja kaplanowi, a on odniesie ja do oltarza. </v>
+<v n="9"> I kaplan wezmie z tej ofiary pokarmowej czesc na pamiatke i spali na oltarzu. To jest ofiara ogniowa, mila won dla PANA. </v>
+<v n="10"> To zas, co pozostanie z ofiary pokarmowej, bedzie nalezec do Aarona i jego synow. Jest to najswietsza czesc z ofiar ogniowych dla PANA. </v>
+<v n="11"> Zadna ofiara pokarmowa, jaka bedziecie skladac PANU, nie bedzie przygotowywana z zakwasem, bo zadnego zakwasu ani zadnego miodu nie bedziecie spalac na ofiare ogniowa dla PANA. </v>
+<v n="12"> Mozecie je skladac PANU jako ofiare pierwocin, ale nie bedziecie ich klasc na oltarzu na mila won. </v>
+<v n="13"> Kazda z ofiar pokarmowych posolisz i nie pozbawisz soli przymierza twego Boga swej ofiary pokarmowej. Przy kazdej twojej ofierze zlozysz sol. </v>
+<v n="14"> A jesli bedziesz skladal PANU ofiare pokarmowa z pierwocin, to zlozysz swieze klosy prazone na ogniu, zboze wykruszone ze swiezych klosow jako ofiare pokarmowa z twoich pierwszych plonow; </v>
+<v n="15"> Nalejesz na nia oliwy i polozysz na nia kadzidla. To jest ofiara pokarmowa. </v>
+<v n="16"> Wtedy kaplan spali na pamiatke troche jej wykruszonego zboza i oliwy wraz z calym jej kadzidlem. To jest ofiara ogniowa dla PANA. </v>
+</c>

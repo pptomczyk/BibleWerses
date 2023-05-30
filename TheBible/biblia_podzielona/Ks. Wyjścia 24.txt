@@ -1,0 +1,19 @@
+<v n="1"> I powiedzia³ do Moj¿esza: Wst¹pcie do PANA ty i Aaron, Nadab i Abihu oraz siedemdziesiêciu ze starszych Izraela i oddajcie pok³on z daleka. </v>
+<v n="2"> Tylko sam Moj¿esz zbli¿y siê do PANA. Oni zaœ nie zbli¿¹ siê ani lud nie wst¹pi z nim. </v>
+<v n="3"> Moj¿esz przyszed³ wiêc i opowiedzia³ ludowi wszystkie s³owa PANA i wszystkie prawa. I ca³y lud odpowiedzia³ jednym g³osem: Wype³nimy wszystkie s³owa, które PAN powiedzia³. </v>
+<v n="4"> Wtedy Moj¿esz spisa³ wszystkie s³owa PANA. A kiedy rano wsta³, zbudowa³ o³tarz u stóp góry i ustawi³ dwanaœcie s³upów, wed³ug liczby dwunastu pokoleñ Izraela. </v>
+<v n="5"> I pos³a³ m³odzieñców z synów Izraela, i ci ofiarowali ca³opalenia, i z³o¿yli PANU cielce jako ofiary pojednawcze. </v>
+<v n="6"> Potem Moj¿esz wzi¹³ po³owê krwi i wla³ do czaszy, a drug¹ po³ow¹ pokropi³ o³tarz. </v>
+<v n="7"> Nastêpnie wzi¹³ ksiêgê przymierza i czyta³ ludowi, a oni powiedzieli: Wype³nimy wszystko, co PAN mówi³, i bêdziemy pos³uszni. </v>
+<v n="8"> Moj¿esz wzi¹³ te¿ krew i pokropi³ lud, mówi¹c: Oto krew przymierza, które PAN zawar³ z wami, wed³ug wszystkich tych s³ów. </v>
+<v n="9"> I wst¹pili Moj¿esz, Aaron, Nadab i Abihu oraz siedemdziesiêciu ze starszych Izraela; </v>
+<v n="10"> I widzieli Boga Izraela, a pod jego nogami by³o jakby dzie³o z szafirowego kamienia jak niebo, gdy jest jasne. </v>
+<v n="11"> A na przywódców synów Izraela PAN nie wyci¹gn¹³ swej rêki, choæ widzieli Boga, jedli i pili. </v>
+<v n="12"> Wtedy PAN powiedzia³ do Moj¿esza: Wst¹p do mnie na górê i b¹dŸ tam, a dam ci kamienne tablice, prawo i przykazania, które napisa³em, abyœ ich naucza³. </v>
+<v n="13"> Moj¿esz wsta³ wiêc wraz z Jozuem, swoim s³ug¹; i Moj¿esz wst¹pi³ na górê Boga. </v>
+<v n="14"> A do starszych powiedzia³: Zostañcie tu, a¿ wrócimy do was. A oto Aaron i Chur bêd¹ z wami. Kto by mia³ jak¹œ sprawê, niech idzie do nich. </v>
+<v n="15"> Wtedy Moj¿esz wst¹pi³ na górê, a ob³ok zakry³ górê. </v>
+<v n="16"> I chwa³a PANA spoczê³a na górze Synaj, a ob³ok okrywa³ j¹ przez szeœæ dni. W siódmym dniu PAN zawo³a³ na Moj¿esza spoœród ob³oku. </v>
+<v n="17"> A wygl¹d chwa³y PANA w oczach synów Izraela by³ jak ogieñ po¿eraj¹cy na szczycie góry. </v>
+<v n="18"> I Moj¿esz wszed³ w œrodek ob³oku, i wst¹pi³ na górê. A by³ Moj¿esz na górze czterdzieœci dni i czterdzieœci nocy. </v>
+</c>

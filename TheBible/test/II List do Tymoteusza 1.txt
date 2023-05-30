@@ -1,0 +1,19 @@
+<v n="1"> Pawel, apostol Jezusa Chrystusa z woli Boga, zgodnie z obietnica zycia, ktore jest w Chrystusie Jezusie; </v>
+<v n="2"> Do Tymoteusza, umilowanego syna. Laska, milosierdzie i pokoj od Boga Ojca i Chrystusa Jezusa, naszego Pana. </v>
+<v n="3"> Dziekuje Bogu, ktoremu jak moi przodkowie sluze z czystym sumieniem, ze nieustannie ciebie wspominam w swoich modlitwach, w nocy i we dnie; </v>
+<v n="4"> Wspominajac twoje lzy, pragne cie zobaczyc, aby napelnic sie radoscia; </v>
+<v n="5"> Pamietajac nieobludna wiare, ktora jest w tobie, a ktora najpierw mieszkala w twojej babce Lois i w twojej matce Eunice, jestem tez pewien, ze i w tobie mieszka. </v>
+<v n="6"> Z tego powodu przypominam ci, abys rozniecil dar Bozy, ktory jest w tobie przez nalozenie moich rak. </v>
+<v n="7"> Nie dal nam bowiem Bog ducha bojazni, lecz mocy i milosci, i zdrowego umyslu. </v>
+<v n="8"> Nie wstydz sie wiec swiadectwa naszego Pana ani mnie, jego wieznia, lecz wez udzial w cierpieniach dla ewangelii wedlug mocy Boga; </v>
+<v n="9"> Ktory nas zbawil i powolal swietym powolaniem nie na podstawie naszych uczynkow, ale na podstawie swojego postanowienia i laski, ktora zostala nam dana w Chrystusie Jezusie przed wiecznymi czasy. </v>
+<v n="10"> A obecnie zostala objawiona przez pojawienie sie naszego Zbawiciela, Jezusa Chrystusa, ktory zniszczyl smierc, a zycie i niesmiertelnosc wydobyl na jaw przez ewangelie; </v>
+<v n="11"> Dla ktorej zostalem ustanowiony kaznodzieja, apostolem i nauczycielem pogan. </v>
+<v n="12"> Z tego tez powodu znosze te cierpienia, ale sie nie wstydze, gdyz wiem, komu uwierzylem, i jestem pewien, ze on ma moc zachowac to, co jemu powierzylem, az do owego dnia. </v>
+<v n="13"> Trzymaj sie wzoru zdrowych slow, ktore ode mnie uslyszales, w wierze i milosci, ktora jest w Chrystusie Jezusie. </v>
+<v n="14"> Strzez tego dobrego, ktore powierzyl ci Duch Swiety, ktory w nas mieszka. </v>
+<v n="15"> Wiesz o tym, ze odwrocili sie ode mnie wszyscy, ktorzy sa w Azji, do ktorych naleza Figelos i Hermogenes. </v>
+<v n="16"> Niech Pan okaze swoje milosierdzie domowi Onezyfora, bo mnie czesto pokrzepial i mojego lancucha sie nie wstydzil; </v>
+<v n="17"> Lecz gdy byl w Rzymie, usilnie mnie szukal i odnalazl. </v>
+<v n="18"> Niech mu Pan da, aby w owym dniu znalazl milosierdzie u Pana. A jak wiele uslug oddal mi w Efezie, ty sam dobrze wiesz. </v>
+</c>

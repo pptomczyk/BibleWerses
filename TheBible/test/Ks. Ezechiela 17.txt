@@ -1,0 +1,25 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Synu czlowieczy, zadaj zagadke i opowiedz domowi Izraela przypowiesc; </v>
+<v n="3"> I powiedz: Tak mowi Pan BOG: Wielki orzel o wielkich i dlugich skrzydlach, pelen pstrego pierza, przylecial nad Liban i wzial wierzcholek cedru. </v>
+<v n="4"> Ulamal koniec jego pedow, zaniosl go do ziemi kupieckiej i zlozyl go w miescie kupieckim. </v>
+<v n="5"> Wzial tez nasienie tej ziemi i zasadzil na urodzajnym polu; umiescil je nad wielkimi wodami jak wierzbe. </v>
+<v n="6"> I uroslo, i stalo sie bujna winorosla, choc niskiego wzrostu; jej latorosle zwracaly sie ku niemu, a korzenie byly mu poddane. I stalo sie winorosla, ktora wydala latorosle i wypuscila pedy. </v>
+<v n="7"> Ale byl inny wielki orzel o wielkich skrzydlach i gestym pierzu, a oto ta winorosl zwrocila swoje korzenie ku niemu i rozciagnela swe latorosle do niego, aby on ja nawadnial z bruzd swego sadu. </v>
+<v n="8"> A byla przeciez zasadzona na dobrym polu, nad wielkimi wodami, aby wypuscila latorosle, wydala owoc i stala sie wspaniala winorosla. </v>
+<v n="9"> Wtedy powiedz: Tak mowi Pan BOG: Czy sie jej poszczesci? Czy orzel nie wyrwie jej korzeni i nie oberwie jej owocu tak, by uschla? Uschna wszystkie listki, ktore wypusci, i nie bedzie trzeba wielkiej mocy ani licznego ludu, aby ja wyrwac z korzeniami. </v>
+<v n="10"> Oto jakkolwiek bedzie zasadzona, czy sie jej poszczesci? Czy doszczetnie nie uschnie, gdy dotknie ja wiatr wschodni? Uschnie w bruzdach, w ktorych wyrosla. </v>
+<v n="11"> Potem doszlo do mnie slowo PANA: </v>
+<v n="12"> Mow teraz do domu buntowniczego: Czyz nie wiecie, co znacza te rzeczy? Powiedz: Oto krol Babilonu przybyl do Jerozolimy, zabral jej krola i ksiazat i uprowadzil ich ze soba do Babilonu. </v>
+<v n="13"> Wzial tez jednego z potomkow krola, zawarl z nim przymierze i zwiazal go przysiega. Zabral tez moznych tej ziemi; </v>
+<v n="14"> Aby krolestwo bylo ponizone, tak by sie nie podnosilo, ale by tak trwalo, zachowujac jego przymierze. </v>
+<v n="15"> Lecz on zbuntowal sie przeciwko niemu, wysylajac swych poslow do Egiptu, aby dano mu koni i liczny lud. Czy mu sie poszczesci? Czy ujdzie zemsty ten, ktory tak czynil? Czy ocali sie ten, ktory zlamal przymierze? </v>
+<v n="16"> Jak zyje, mowi Pan BOG, w miejscu tego krola, ktory go uczynil krolem, a ktorego przysiega wzgardzil i ktorego przymierze zlamal, u niego w Babilonie umrze. </v>
+<v n="17"> I ani faraon z wielkim wojskiem i z licznym zastepem nie pomoze mu na wojnie, gdy usypie waly i pobuduje wieze, aby zniszczyc mnostwo ludzi; </v>
+<v n="18"> Poniewaz wzgardzil przysiega, lamiac przymierze. Oto bowiem dal na to swa reke, a to wszystko uczynil. Nie ujdzie zemsty. </v>
+<v n="19"> Dlatego tak mowi Pan BOG: Jak zyje, moja przysiege, ktora wzgardzil, i moje przymierze, ktore zlamal, zloze mu na glowe. </v>
+<v n="20"> Rozciagne na nim swoja siec i zostanie schwytany w moje sidla, i zaprowadze go do Babilonu, a tam sie z nim rozprawie za jego wystepek, ktorym zgrzeszyl przeciwko mnie. </v>
+<v n="21"> A wszyscy, ktorzy uciekli od niego wraz ze wszystkimi jego hufcami, od miecza polegna, a pozostali zostana rozproszeni na wszystkie wiatry. I poznacie, ze ja, PAN, to powiedzialem. </v>
+<v n="22"> Tak mowi Pan BOG: Wezme wierzcholek tego wysokiego cedru i zasadze; z najwyzszych jego galazek odlamie mloda galazke i zasadze ja na wysokiej i wynioslej gorze; </v>
+<v n="23"> Na wysokiej gorze Izraela ja zasadze. Wypusci galazki, wyda owoc i stanie sie cedrem wspanialym. I bedzie mieszkac pod nim wszelkie ptactwo skrzydlate; pod cieniem jego galezi beda mieszkac. </v>
+<v n="24"> A tak wszystkie drzewa polne poznaja, ze ja, PAN, ponizylem drzewo wysokie, a wywyzszylem drzewo niskie, ususzylem drzewo zielone, a sprawilem, ze zakwitlo drzewo suche. Ja, PAN, to powiedzialem i uczynie. </v>
+</c>

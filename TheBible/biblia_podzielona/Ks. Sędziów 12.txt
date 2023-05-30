@@ -1,0 +1,16 @@
+<v n="1"> Potem zebrali siê mê¿czyŸni Efraimici i wyruszyli na pó³noc, po czym powiedzieli do Jeftego: Dlaczego poszed³eœ walczyæ przeciwko synom Ammona, a nas nie wezwa³eœ, abyœmy poszli z tob¹? Spalimy ogniem twój dom nad tob¹. </v>
+<v n="2"> I Jefte powiedzia³ im: Ja i mój lud mieliœmy niema³y spór z synami Ammona; i wzywa³em was, lecz nie wybawiliœcie mnie z ich r¹k. </v>
+<v n="3"> A widz¹c, ¿e nie chcieliœcie mnie wybawiæ, narazi³em swoje ¿ycie i wyruszy³em na synów Ammona, a PAN wyda³ ich w moje rêce. Dlaczego wiêc przyszliœcie dziœ do mnie, by walczyæ ze mn¹? </v>
+<v n="4"> Zebra³ wiêc Jefte wszystkich mê¿czyzn z Gileadu i walczy³ z Efraimem. I mê¿czyŸni z Gileadu pobili Efraima, gdy¿ ci mówili: Wy, Gileadczycy, którzy mieszkacie miêdzy Efraimitami a Manassesytami, jesteœcie zbiegami z Efraima. </v>
+<v n="5"> I Gileadczycy odebrali brody Jordanu Efraimowi. A gdy uciekaj¹cy Efraimita mówi³: Pozwólcie mi przejœæ, wtedy mê¿czyŸni Gileadu pytali: Czy jesteœ Efraimit¹? A jeœli odpowiada³: Nie; </v>
+<v n="6"> Wtedy mówili do niego: Wymów teraz: szibbolet, a ten mówi³: sibbolet, bo inaczej nie móg³ wymówiæ. Wtedy chwytali go i zabijali przy brodach Jordanu. I poleg³o w tym czasie z Efraima czterdzieœci dwa tysi¹ce. </v>
+<v n="7"> A Jefte Gileadczyk s¹dzi³ Izraela przez szeœæ lat. Potem umar³ Jefte Gileadczyk i zosta³ pogrzebany w jednym z miast Gileadu. </v>
+<v n="8"> Po nim s¹dzi³ Izraela Ibsan z Betlejem. </v>
+<v n="9"> A mia³ trzydziestu synów i trzydzieœci córek, które powydawa³ z domu za m¹¿, a spoza domu sprowadzi³ trzydzieœci ¿on dla swoich synów. I s¹dzi³ Izraela przez siedem lat. </v>
+<v n="10"> Potem Ibsan umar³ i zosta³ pogrzebany w Betlejem. </v>
+<v n="11"> A po nim s¹dzi³ Izraela Elon Zebulonita. S¹dzi³ on Izraela przez dziesiêæ lat. </v>
+<v n="12"> Potem Elon Zebulonita umar³ i zosta³ pogrzebany w Ajjalonie, w ziemi Zebulona. </v>
+<v n="13"> A po nim s¹dzi³ Izraela Abdon, syn Hillela, Piratoñczyk. </v>
+<v n="14"> Mia³ on czterdziestu synów i trzydziestu wnuków, którzy jeŸdzili na siedemdziesiêciu oœlêtach. S¹dzi³ on Izraela przez osiem lat. </v>
+<v n="15"> Potem umar³ Abdon, syn Hillela, Piratoñczyk, i zosta³ pogrzebany w Piratonie, w ziemi Efraima, na górze Amalekitów. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> Przewodnikowi choru dla Jedutuna. Psalm Asafa. Wznioslem swoj glos do Boga i zawolalem; wznioslem swoj glos do Boga i mnie wysluchal. </v>
+<v n="2"> W dniu mego utrapienia szukalem Pana, moje rece wyciagalem w nocy nieustannie, moja dusza nie dala sie pocieszyc. </v>
+<v n="3"> Gdy wspominalem Boga, bylem strwozony; rozmyslalem, a moj duch byl ogarniety utrapieniem. Sela. </v>
+<v n="4"> Ty zatrzymujesz otwarte powieki mych oczu, jestem tak zaniepokojony, ze nie potrafie mowic. </v>
+<v n="5"> Rozpamietuje dni przeszle i dawne lata. </v>
+<v n="6"> Przypominam sobie moj spiew; noca rozmyslam w sercu i moj duch docieka: </v>
+<v n="7"> Czy Pan odrzuci na wieki i juz wiecej nie okaze laski? </v>
+<v n="8"> Czy jego milosierdzie ustalo na zawsze i jego obietnica nigdy sie nie spelni? </v>
+<v n="9"> Czy Bog zapomnial o litosci? Czy w gniewie stlumil swoja laskawosc? Sela. </v>
+<v n="10"> I powiedzialem: To jest moja niemoc; jednak bede wspominal lata prawicy Najwyzszego. </v>
+<v n="11"> Bede wspominal dziela PANA, bede wspominal twoje dawne cuda. </v>
+<v n="12"> Bede rozmyslal o wszystkich twoich dzielach i o twoich czynach bede mowil. </v>
+<v n="13"> Boze, swieta jest twoja droga; ktory bog jest tak wielki, jak nasz Bog? </v>
+<v n="14"> Ty jestes Bogiem, ktory czyni cuda; dales poznac narodom swoja moc. </v>
+<v n="15"> Odkupiles swoim ramieniem twoj lud, synow Jakuba i Jozefa. Sela. </v>
+<v n="16"> Widzialy cie wody, o Boze, widzialy cie wody i ulekly sie, poruszyly sie glebiny. </v>
+<v n="17"> Chmury splynely woda, niebiosa wydaly gromy i polecialy twoje strzaly. </v>
+<v n="18"> Huk twego grzmotu wsrod oblokow, blyskawice oswietlily swiat, ziemia poruszyla sie i zatrzesla. </v>
+<v n="19"> Twoja droga wiodla przez morze, twoje sciezki przez wielkie wody i nie bylo znac twoich sladow. </v>
+<v n="20"> Prowadziles swoj lud jak stado owiec reka Mojzesza i Aarona. </v>
+</c>

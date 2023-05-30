@@ -1,0 +1,12 @@
+<v n="1"> Na swoim lozu wsrod nocy szukalam tego, ktorego miluje moja dusza. Szukalam go, ale go nie znalazlam. </v>
+<v n="2"> Wstane wiec juz i obiegne miasto, po ulicach i placach bede szukac tego, ktorego miluje moja dusza. Szukalam go, ale nie znalazlam. </v>
+<v n="3"> Znalezli mnie straznicy, ktorzy obchodzili miasto, i spytalam: Widzieliscie tego, ktorego miluje moja dusza? </v>
+<v n="4"> A gdy ledwie od nich odeszlam, zaraz znalazlam tego, ktorego miluje moja dusza. Uchwycilam go i nie puszcze, az go wprowadze do domu mojej matki, do pokoju mojej rodzicielki. </v>
+<v n="5"> Zaklinam was, corki Jerozolimy, na sarny i lanie polne: Nie budzcie mego umilowanego i nie przerywajcie jego snu, dopoki nie zechce. </v>
+<v n="6"> Kim jest ta, ktora wylania sie z pustyni jak slupy dymu, owiana wonia mirry i kadzidla oraz wszelkim wonnym proszkiem od kupca? </v>
+<v n="7"> Oto loze Salomona, dokola ktorego stoi szescdziesieciu dzielnych wojownikow sposrod dzielnych Izraela. </v>
+<v n="8"> Wszyscy trzymaja miecz, wycwiczeni w boju. Kazdy z nich ma swoj miecz u boku przez wzglad na strach nocny. </v>
+<v n="9"> Krol Salomon uczynil sobie lektyke z drzewa Libanu. </v>
+<v n="10"> Jej slupki uczynil ze srebra, jej poklad ze zlota, podniebienie z purpury, a wnetrze wyscielone miloscia corek Jerozolimy. </v>
+<v n="11"> Wyjdzcie, corki Syjonu, i popatrzcie na krola Salomona w koronie, ktora ukoronowala go jego matka w dniu jego zareczyn i w dniu radosci jego serca. </v>
+</c>

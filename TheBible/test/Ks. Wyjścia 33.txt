@@ -1,0 +1,24 @@
+<v n="1"> Potem PAN mowil do Mojzesza: Idz, wyrusz stad, ty i lud, ktory wyprowadziles z ziemi Egiptu, do ziemi, ktora przysiaglem Abrahamowi, Izaakowi i Jakubowi, mowiac: Dam ja twemu potomstwu. </v>
+<v n="2"> Posle przed toba Aniola i wyrzuce Kananejczyka, Amoryte, Chetyte, Peryzzyte, Chiwwite i Jebusyte; </v>
+<v n="3"> Do ziemi oplywajacej mlekiem i miodem. Lecz sam nie pojde z toba, bo jestes ludem twardego karku, bym cie w drodze nie wytracil. </v>
+<v n="4"> Gdy lud uslyszal te zle wiesci, zasmucil sie i nikt nie wlozyl na siebie swoich ozdob. </v>
+<v n="5"> PAN bowiem powiedzial do Mojzesza: Powiedz synom Izraela: Jestescie ludem twardego karku. Przyjde niespodziewanie posrod ciebie i wytrace cie. Teraz wiec zdejmij z siebie swoje ozdoby, abym wiedzial, co mam ci uczynic. </v>
+<v n="6"> I synowie Izraela zdjeli swoje ozdoby przy gorze Horeb. </v>
+<v n="7"> A Mojzesz wzial namiot i rozbil go poza obozem, z dala od obozu, i nazwal go Namiotem Zgromadzenia. Kazdy, kto chcial sie poradzic PANA, wychodzil do Namiotu Zgromadzenia, ktory byl poza obozem. </v>
+<v n="8"> A gdy Mojzesz wychodzil do namiotu, caly lud powstawal i kazdy stal u wejscia do swego namiotu, i patrzyl na Mojzesza, az wszedl do namiotu. </v>
+<v n="9"> Gdy Mojzesz wchodzil do namiotu, slup obloku zstepowal i stawal u wejscia do namiotu, i PAN rozmawial z Mojzeszem. </v>
+<v n="10"> A caly lud widzial slup obloku stojacy u wejscia do namiotu. Wtedy caly lud powstawal i oddawal poklon, kazdy u wejscia do swego namiotu. </v>
+<v n="11"> I PAN rozmawial z Mojzeszem twarza w twarz, jak czlowiek rozmawia ze swoim przyjacielem. Potem Mojzesz wracal do obozu, a jego sluga Jozue, syn Nuna, mlodzieniec, nie opuszczal namiotu. </v>
+<v n="12"> I Mojzesz powiedzial do PANA: Oto mowisz mi: Prowadz ten lud, a nie oznajmiles mi, kogo poslesz ze mna. Ponadto powiedziales: Znam cie po imieniu, znalazles tez laske w moich oczach. </v>
+<v n="13"> Teraz wiec, jesli znalazlem laske w twoich oczach, ukaz mi, prosze, twoja droge, zebym cie poznal i zebym znalazl laske w twoich oczach. Zwaz takze, ze ten narod jest twoim ludem. </v>
+<v n="14"> I PAN odpowiedzial: Moje oblicze pojdzie przed toba i dam ci odpoczynek. </v>
+<v n="15"> Mojzesz powiedzial do niego: Jesli twoje oblicze nie pojdzie z nami, nie wyprowadzaj nas stad. </v>
+<v n="16"> Po czym bowiem bedzie mozna poznac, ze ja i twoj lud znalezlismy laske w twoich oczach? Czy nie po tym, ze pojdziesz z nami? W ten sposob ja i twoj lud bedziemy wyroznieni sposrod wszystkich ludow, ktore sa na ziemi. </v>
+<v n="17"> I PAN powiedzial do Mojzesza: Uczynie takze to, o czym mowiles, bo znalazles laske w moich oczach i znam cie po imieniu. </v>
+<v n="18"> Mojzesz powiedzial tez: Ukaz mi, prosze, twoja chwale. </v>
+<v n="19"> A on odpowiedzial: Sprawie, ze cala moja dobroc przejdzie przed twoja twarza, i wypowiem imie PANA przed toba. Zmiluje sie, nad kim sie zmiluje, i zlituje sie, nad kim sie zlituje. </v>
+<v n="20"> I dodal: Nie bedziesz mogl widziec mego oblicza, bo nie moze czlowiek ujrzec mnie i pozostac przy zyciu. </v>
+<v n="21"> PAN mowil dalej: Oto miejsce przy mnie, staniesz na skale. </v>
+<v n="22"> A gdy bedzie przechodzic moja chwala, postawie cie w rozpadlinie skalnej i zakryje cie swoja dlonia, az przejde. </v>
+<v n="23"> Potem odejme dlon i ujrzysz mnie od tylu, ale moje oblicze nie bedzie widziane. </v>
+</c>

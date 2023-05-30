@@ -1,0 +1,15 @@
+<v n="1"> Brzemie Damaszku. Oto Damaszek przestanie byc miastem, a stanie sie rumowiskiem. </v>
+<v n="2"> Miasta Aroeru beda opuszczone. Beda dla trzod, by sie tam kladly, a nikt ich nie sploszy. </v>
+<v n="3"> Nastapi koniec twierdzy Efraima i krolestwa Damaszku. A z resztka Syrii bedzie jak z chwala synow Izraela, mowi PAN zastepow. </v>
+<v n="4"> I stanie sie w tym dniu tak, ze chwala Jakuba zmaleje, a jego tluste cialo schudnie. </v>
+<v n="5"> I bedzie tak jak wtedy, gdy zniwiarz zbiera zboze, a jego ramie scina klosy; bedzie jak ten, co zbiera klosy w dolinie Refaim. </v>
+<v n="6"> Pozostanie na nim jednak poklosie, jak przy otrzasaniu drzewa oliwnego: dwie lub trzy oliwki zostana na samym wierzcholku drzewa, a cztery lub piec na urodzajnych galeziach, mowi PAN, Bog Izraela. </v>
+<v n="7"> W tym dniu czlowiek spojrzy na swego Stworce i jego oczy beda spogladac na Swietego Izraela. </v>
+<v n="8"> A nie popatrzy wiecej na oltarze, dzielo swoich rak, ani nie bedzie patrzec na to, co uczynily jego palce ani na gaje, ani na posagi. </v>
+<v n="9"> W tym dniu jego miasta warowne beda jak porzucony konar i sucha galaz, ktore opuscili przed synami Izraela – i bedzie spustoszenie. </v>
+<v n="10"> A poniewaz zapomniales o Bogu twojego zbawienia i nie pamietales o skale twojej mocy, to choc zasadzasz rozkoszne sadzonki i sadzisz obce winorosle; </v>
+<v n="11"> I w dniu sprawiasz, ze sadzonka rosnie, i rano doprowadzasz swoj siew do rozkwitu, w dniu zniwa bedziesz zac mnostwo smutku i nieuleczalnej rozpaczy. </v>
+<v n="12"> Biada tlumom licznych ludow, ktore hucza jak rozhukane morze, i zgielkowi narodow, ktore szumia jak szum wod gwaltownych! </v>
+<v n="13"> Narody szumia jak szum wielkich wod, ale PAN je zgromi i uciekna daleko gnane wiatrem jak plewy na gorach i jak biegacz stepowy przed wichura. </v>
+<v n="14"> Oto w porze wieczornej trwoga, a nim nadejdzie poranek, juz go nie ma. Taki jest dzial tych, ktorzy nas lupia, i los tych, ktorzy nas pladruja. </v>
+</c>

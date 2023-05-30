@@ -1,0 +1,24 @@
+<v n="1"> Wtedy przyszly corki Selofchada, syna Chefera, syna Gileada, syna Makira, syna Manassesa, z rodu Manassesa, syna Jozefa; a to sa imiona jego corek: Machla, Noa, Chogla, Milka i Tirsa. </v>
+<v n="2"> I stanely przed Mojzeszem, przed kaplanem Eleazarem, przed naczelnikami i calym zgromadzeniem u wejscia do Namiotu Zgromadzenia i powiedzialy: </v>
+<v n="3"> Nasz ojciec umarl na pustyni, ale nie nalezal do zgrai tych, ktorzy zbuntowali sie przeciw PANU w gromadzie Koracha. Umarl za wlasny grzech, a nie mial synow. </v>
+<v n="4"> Dlaczego imie naszego ojca mialoby zniknac z jego rodziny przez to, ze nie mial syna? Dajcie nam posiadlosc posrod braci naszego ojca. </v>
+<v n="5"> Mojzesz przedstawil wiec ich sprawe PANU. </v>
+<v n="6"> I PAN powiedzial do Mojzesza: </v>
+<v n="7"> Corki Selofchada slusznie mowia: Daj im koniecznie dziedziczna posiadlosc posrod braci ich ojca, a przenies na nie dziedzictwo ich ojca. </v>
+<v n="8"> I przemow do synow Izraela tak: Jesli ktos umrze, a nie mial syna, wtedy przeniesiecie jego dziedzictwo na jego corke. </v>
+<v n="9"> A jesli nie mial corki, to dacie jego dziedzictwo jego braciom. </v>
+<v n="10"> A jesli nie mial braci, to dacie jego dziedzictwo braciom jego ojca. </v>
+<v n="11"> A jesli jego ojciec nie mial braci, to dacie jego dziedzictwo najblizszemu krewnemu z jego rodziny, aby je odziedziczyl. I bedzie to dla synow Izraela ustawa prawna, jak PAN rozkazal Mojzeszowi. </v>
+<v n="12"> Potem PAN powiedzial do Mojzesza: Wstap na te gore Abarim i spojrz na ziemie, ktora dalem synom Izraela. </v>
+<v n="13"> A gdy ja zobaczysz, zostaniesz i ty przylaczony do swego ludu, jak zostal przylaczony twoj brat Aaron. </v>
+<v n="14"> Dlatego ze sprzeciwiliscie sie mojemu rozkazowi na pustyni Syn, podczas buntu zgromadzenia, i nie uswieciliscie mnie na ich oczach u tych wod. To sa wody Meriba w Kadesz, na pustyni Syn. </v>
+<v n="15"> Wtedy Mojzesz powiedzial do PANA: </v>
+<v n="16"> Niech PAN, Bog duchow wszelkiego ciala, ustanowi meza nad zgromadzeniem; </v>
+<v n="17"> Ktory bedzie wychodzil przed nim i ktory bedzie wchodzil przed nim, ktory bedzie je wyprowadzal i ktory bedzie je przyprowadzal, aby zgromadzenie PANA nie bylo jak owce, ktore nie maja pasterza. </v>
+<v n="18"> PAN powiedzial do Mojzesza: Wez do siebie Jozuego, syna Nuna, meza, w ktorym jest moj Duch, i poloz na nim swoja reke; </v>
+<v n="19"> I postaw go przed kaplanem Eleazarem i przed calym zgromadzeniem, i na ich oczach daj mu polecenie; </v>
+<v n="20"> I przenies na niego czesc swojej godnosci, aby go sluchalo cale zgromadzenie synow Izraela. </v>
+<v n="21"> Bedzie on stawal przed kaplanem Eleazarem, aby ten za niego radzil sie przed PANEM za posrednictwem sadu Urim. Na jego rozkaz beda wychodzic i na jego rozkaz beda wchodzic – on, a z nim wszyscy synowie Izraela, cale zgromadzenie. </v>
+<v n="22"> I Mojzesz uczynil tak, jak PAN mu rozkazal. Wzial Jozuego i postawil go przed kaplanem Eleazarem i przed calym zgromadzeniem. </v>
+<v n="23"> Nastepnie polozyl na niego swoje rece i dal mu polecenie, tak jak PAN nakazal przez Mojzesza. </v>
+</c>

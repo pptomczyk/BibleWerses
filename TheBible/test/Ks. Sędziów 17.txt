@@ -1,0 +1,14 @@
+<v n="1"> A byl pewien czlowiek z gory Efraim imieniem Micheasz. </v>
+<v n="2"> Powiedzial on do swojej matki: Te tysiac sto srebrnikow, ktore ci ukradziono, z powodu ktorych przeklinalas i o ktorych mowilas do moich uszu, otoz to srebro jest u mnie, ja je wzialem. I jego matka powiedziala: Blogoslawiony jestes, moj synu, przez PANA. </v>
+<v n="3"> I zwrocil swej matce owe tysiac sto srebrnikow, po czym matka powiedziala: Poswiecilam to srebro PANU ze swojej reki dla ciebie, moj synu, aby uczyniono z niego posag ryty oraz posag odlany, dlatego teraz oddaje ci je. </v>
+<v n="4"> Lecz on zwrocil to srebro swojej matce. Wtedy jego matka wziela dwiescie srebrnikow, dala je zlotnikowi, a on uczynil z nich posag ryty oraz posag odlany, ktore staly potem w domu Micheasza. </v>
+<v n="5"> A Micheasz mial u siebie kaplice bogow, sporzadzil tez efod i terafim i poswiecil jednego ze swych synow, aby byl jego kaplanem. </v>
+<v n="6"> W tych dniach nie bylo krola w Izraelu, kazdy czynil to, co bylo sluszne w jego oczach. </v>
+<v n="7"> Byl pewien mlodzieniec z Betlejem judzkiego, z pokolenia Judy. Byl on Lewita i tam przebywal. </v>
+<v n="8"> Ten czlowiek wyruszyl z miasta Betlejem judzkiego, aby zamieszkac, gdzie mu sie trafi. Wedrujac tak, przyszedl na gore Efraim az do domu Micheasza. </v>
+<v n="9"> Micheasz powiedzial do niego: Skad przychodzisz? I odpowiedzial mu: Jestem Lewita z Betlejem judzkiego, a ide, aby zamieszkac, gdzie mi sie trafi. </v>
+<v n="10"> I Micheasz powiedzial mu: Zostan u mnie i badz mi za ojca i za kaplana, a dam ci dziesiec srebrnikow rocznie, druga szate i wyzywienie. I Lewita poszedl za nim. </v>
+<v n="11"> I spodobalo sie Lewicie mieszkac z tym czlowiekiem; a ten mlodzieniec stal sie dla niego jakby jednym z jego synow. </v>
+<v n="12"> Micheasz poswiecil Lewite i mlodzieniec ten zostal jego kaplanem, i mieszkal w domu Micheasza. </v>
+<v n="13"> Wtedy Micheasz powiedzial: Teraz wiem, ze PAN bedzie mnie blogoslawil, gdyz mam Lewite za kaplana. </v>
+</c>

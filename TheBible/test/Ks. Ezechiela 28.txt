@@ -1,0 +1,27 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Synu czlowieczy, powiedz ksieciu Tyru: Tak mowi Pan BOG: Poniewaz unioslo sie twoje serce i powiedziales: Ja jestem Bogiem, zasiadam na Bozym tronie w sercu morz – ale ty jestes czlowiekiem, a nie Bogiem, choc twoje serce stawiasz na rowni z sercem Boga; </v>
+<v n="3"> Oto jestes madrzejszy od Daniela, zadna tajemnica nie jest zakryta przed toba; </v>
+<v n="4"> Swoja madroscia i roztropnoscia zdobyles sobie bogactwo i nagromadziles zlota i srebra w swoich skarbcach; </v>
+<v n="5"> Dzieki wielkosci twojej madrosci i twojemu kupiectwu rozmnozyles swoje bogactwa; a tak unioslo sie twoje serce z powodu twoich bogactw; </v>
+<v n="6"> Dlatego tak mowi Pan BOG: Poniewaz postawiles swoje serce jak serce Boga; </v>
+<v n="7"> Oto sprowadze na ciebie cudzoziemcow, najsrozsze z narodow. Dobeda swoje miecze przeciwko pieknosci twej madrosci i splugawia twoj blask. </v>
+<v n="8"> Straca cie do dolu i umrzesz sroga smiercia w sercu morz. </v>
+<v n="9"> Czy powiesz przed tym, ktory cie zabije: Jestem Bogiem? Przeciez jestes czlowiekiem, a nie Bogiem w reku tego, ktory cie zabije. </v>
+<v n="10"> Umrzesz smiercia nieobrzezanych, z reki cudzoziemcow. Ja bowiem to powiedzialem, mowi Pan BOG. </v>
+<v n="11"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="12"> Synu czlowieczy, podnies lament nad krolem Tyru i mow do niego: Tak mowi Pan BOG: Ty pieczetujesz sume, pelen madrosci i doskonaly w swej pieknosci; </v>
+<v n="13"> Byles w Edenie, ogrodzie Bozym; twoim nakryciem byl wszelki drogi kamien: karneol, topaz i jaspis, chryzolit, onyks i beryl, szafir, karbunkul i szmaragd oraz zloto. Wykonanie twoich bebenkow i fletow zostalo przygotowane w dniu, kiedy zostales stworzony. </v>
+<v n="14"> Ty jestes namaszczonym cherubinem nakrywajacym; ja cie ustanowilem. Byles na swietej gorze Boga, przechadzales sie wsrod kamieni ognistych. </v>
+<v n="15"> Byles doskonaly w swoich drogach od dnia, kiedy zostales stworzony, az znalazla sie w tobie nieprawosc. </v>
+<v n="16"> Przez twoj ogromny handel pelno posrod ciebie bezprawia, i zgrzeszyles. Dlatego zrzuce cie z gory Boga, cherubinie nakrywajacy, wyniszcze cie sposrod kamieni ognistych. </v>
+<v n="17"> Unioslo sie twoje serce z powodu twojej pieknosci, zniewazyles swoja madrosc z powodu twojego blasku. Rzuce cie na ziemie i postawie cie przed krolami, aby sie tobie przypatrzyli. </v>
+<v n="18"> Mnostwem twoich nieprawosci i nieprawoscia twego handlu splugawiles swoja swiatynie. Dlatego wywiode ogien z twego wnetrza, ktory cie pozre, a zamienie cie w popiol na ziemi na oczach wszystkich, ktorzy na ciebie patrza. </v>
+<v n="19"> Wszyscy, ktorzy cie znaja wsrod narodow, zdumieja sie nad toba. Staniesz sie postrachem i nie bedzie ciebie juz na wieki. </v>
+<v n="20"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="21"> Synu czlowieczy, zwroc swoja twarz przeciw Sydonowi i prorokuj przeciw niemu; </v>
+<v n="22"> Mow: Tak mowi Pan BOG: Oto jestem przeciwko tobie, Sydonie, bede uwielbiony posrod ciebie. I poznaja, ze ja jestem PANEM, gdy wykonam na niego sady i bede w nim uswiecony. </v>
+<v n="23"> I zesle na niego zaraze i krew na jego ulice; zranieni upadna posrod niego od miecza, ktory spadnie na nich ze wszystkich stron. I poznaja, ze ja jestem PANEM. </v>
+<v n="24"> I tak dla domu Izraela nie bedzie juz klujacego ciernia ani bolesnego kolca sposrod wszystkich okolicznych mieszkancow, ktorzy nim wzgardzili. I poznaja, ze ja jestem Panem BOGIEM. </v>
+<v n="25"> Tak mowi Pan BOG: Gdy zgromadze dom Izraela sposrod narodow, wsrod ktorych zostal rozproszony, i bede w nich uswiecony na oczach pogan, wtedy beda mieszkac w swojej ziemi, ktora dalem swemu sludze Jakubowi. </v>
+<v n="26"> I beda w niej mieszkac bezpiecznie, pobuduja domy i zasadza winnice. Beda mieszkac bezpiecznie, gdy wykonam sady na wszystkich dokola nich, ktorzy nimi wzgardzili. I poznaja, ze ja jestem PANEM, ich Bogiem. </v>
+</c>

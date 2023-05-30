@@ -1,0 +1,22 @@
+<v n="1"> Sprawiedliwy ginie, a nikt nie bierze sobie tego do serca. Ludzie pobozni odchodza, a nikt nie zwaza na to, ze sprawiedliwy jest zabierany przed nadejsciem zla. </v>
+<v n="2"> Dostapi pokoju i odpocznie na swoim lozu kazdy, kto postepuje uczciwie. </v>
+<v n="3"> Ale wy zblizcie sie tutaj, synowie czarownicy, potomstwo cudzoloznika i nierzadnicy. </v>
+<v n="4"> Z kogo sie naigrawacie? Na kogo rozdziawiacie usta i wywieszacie jezyk? Czy nie jestescie synami nierzadu, potomstwem falszu; </v>
+<v n="5"> Wy, ktorzy uprawiacie nierzad z posagami pod kazdym zielonym drzewem, zabijajac swoje dzieci przy potokach, pod wysokimi skalami? </v>
+<v n="6"> Wsrod gladkich kamieni potoku jest twoj dzial. Wlasnie one sa twoim losem, na nie wylewasz ofiare z plynow i ofiarowujesz ofiare z pokarmow. Czyz w tym mialbym miec upodobanie? </v>
+<v n="7"> Na gorze wysokiej i wynioslej postawilas swoje loze i tam wstepowalas, aby skladac ofiary. </v>
+<v n="8"> A za drzwiami i za odrzwiami postawilas swoja pamiatke, gdyz odchodzac ode mnie, odkrywalas sie innym, wstapilas i rozszerzylas swoje loze, czyniac z nimi przymierze; kochalas ich loze w kazdym miejscu, gdzie je widzialas. </v>
+<v n="9"> Chodzilas takze do krola z olejkiem i mnozylas swoje wonnosci; poslalas daleko swoich poslancow, a ponizalas sie az do grobu. </v>
+<v n="10"> Zmeczylas sie licznymi swymi drogami, ale nie powiedzialas: Na prozno. Znalazlas pomoc w swojej rece, dlatego nie oslablas. </v>
+<v n="11"> Kogo sie balas i lekalas, ze sklamalas, i nie pamietalas o mnie ani nie wzielas sobie tego do serca? Czy ja nie milczalem, i to od dawna, a ty mnie sie nie boisz? </v>
+<v n="12"> Opowiem twoja sprawiedliwosc i twoje uczynki, ktore nic ci nie pomoga. </v>
+<v n="13"> Gdy zawolasz, niech wybawi cie twoja zgraja; ale wszystkich ich wiatr rozniesie i pochwyci marnosc. Lecz ten, ktory mi zaufa, odziedziczy ziemie i posiadzie moja swieta gore. </v>
+<v n="14"> I powiedza: Wyrownajcie, wyrownajcie, przygotujcie droge, usuncie przeszkody z drogi mojego ludu. </v>
+<v n="15"> Tak bowiem mowi Wysoki i Wyniosly, ktory zamieszkuje wiecznosc, ktorego imie to Swiety: Ja, ktory mieszkam na wysokosciach, na miejscu swietym, mieszkam i z tym, ktory jest skruszony i unizony w duchu, aby ozywic ducha pokornych i ozywic serce skruszonych. </v>
+<v n="16"> Nie bede sie spieral na wieki ani nie bede wiecznie sie gniewal, bo zemdlalby przede mna duch i dusze, ktore uczynilem. </v>
+<v n="17"> Z powodu jego niegodziwej chciwosci rozgniewalem sie i uderzylem go. Ukrylem sie i rozgniewalem, on jednak byl uparty i poszedl droga swego serca. </v>
+<v n="18"> Widzialem jego drogi, lecz uzdrowie go. Poprowadze go i przywroce mu pocieche, rowniez tym, ktorzy z nim placza. </v>
+<v n="19"> Stworze owoc warg: Pokoj, pokoj dalekiemu i bliskiemu, mowi PAN; i tak uzdrowie go. </v>
+<v n="20"> Lecz bezbozni beda jak wzburzone morze niemogace sie uspokoic, ktorego wody wyrzucaja mul i bloto. </v>
+<v n="21"> Nie ma pokoju dla bezboznych, mowi moj Bog. </v>
+</c>

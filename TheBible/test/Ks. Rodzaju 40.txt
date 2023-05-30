@@ -1,0 +1,24 @@
+<v n="1"> Po tych wydarzeniach podczaszy krola Egiptu i jego piekarz dopuscili sie wykroczenia przeciwko swojemu panu, krolowi Egiptu. </v>
+<v n="2"> Faraon wiec rozgniewal sie na obu swoich dworzan, na przelozonego podczaszych i na przelozonego piekarzy. </v>
+<v n="3"> I oddal ich do wiezienia w domu dowodcy strazy, na miejsce, gdzie Jozef byl wiezniem. </v>
+<v n="4"> A dowodca strazy oddal ich pod nadzor Jozefa, ktory im sluzyl. I przebywali jakis czas w wiezieniu. </v>
+<v n="5"> Pewnej nocy obydwaj – podczaszy i piekarz krola Egiptu, ktorzy byli wiezniami w wiezieniu – mieli sen, kazdy inny, wedlug swego tlumaczenia. </v>
+<v n="6"> A Jozef przyszedl do nich rano i spostrzegl, ze sa smutni. </v>
+<v n="7"> I zapytal dworzan faraona, ktorzy byli z nim w wiezieniu, w domu jego pana: Czemu macie dzis tak smutne twarze? </v>
+<v n="8"> I odpowiedzieli mu: Snil sie nam sen, a nie ma nikogo, kto by go wytlumaczyl. Jozef powiedzial do nich: Czy nie do Boga naleza wytlumaczenia? Opowiedzcie mi, prosze. </v>
+<v n="9"> Wtedy przelozony podczaszych opowiedzial swoj sen Jozefowi: Snilo mi sie, ze przede mna byla winorosl; </v>
+<v n="10"> I na winorosli byly trzy galazki. A ona jakby wypuszczala paki i wychodzil jej kwiat, i jej grona wydaly dojrzale winogrona. </v>
+<v n="11"> A kubek faraona byl w mojej rece. Wzialem wiec winogrona i wyciskalem je do kubka faraona, i podawalem kubek w rece faraona. </v>
+<v n="12"> Wtedy Jozef powiedzial mu: Takie jest wytlumaczenie tego snu: Trzy galazki to trzy dni. </v>
+<v n="13"> Po trzech dniach faraon wywyzszy twa glowe i przywroci cie na twoj urzad, i bedziesz podawal kubek faraona w jego reke jak dawniej, gdy byles jego podczaszym. </v>
+<v n="14"> Tylko wspomnij na mnie, gdy sie bedziesz mial dobrze, i wyswiadcz mi, prosze, te przysluge i wspomnij o mnie faraonowi, i uwolnij mnie z tego domu; </v>
+<v n="15"> Bo sila uprowadzono mnie z ziemi hebrajskiej, a do tego nic zlego tu nie zrobilem, zeby mnie wrzucono do tego wiezienia. </v>
+<v n="16"> A przelozony piekarzy, widzac, ze dobrze wytlumaczyl sen, powiedzial do Jozefa: Ja tez mialem sen, a oto trzy biale kosze na mojej glowie; </v>
+<v n="17"> A w najwyzszym koszu byly wszelkie rodzaje pieczywa dla faraona, a ptaki jadly je z kosza, ktory byl na mojej glowie. </v>
+<v n="18"> Wtedy Jozef odpowiedzial: Takie jest wytlumaczenie snu: Trzy kosze to trzy dni. </v>
+<v n="19"> Po trzech dniach faraon zetnie ci glowe i powiesi cie na drzewie, a ptaki beda jadly twoje cialo. </v>
+<v n="20"> A trzeciego dnia, w dniu urodzin faraona, urzadzil on uczte dla wszystkich swoich slug i w ich obecnosci kazal sprowadzic przelozonego podczaszych i przelozonego piekarzy. </v>
+<v n="21"> I przywrocil przelozonego podczaszych na jego urzad, aby podawal kubek do rak faraona. </v>
+<v n="22"> A przelozonego piekarzy powiesil, jak im Jozef wytlumaczyl. </v>
+<v n="23"> Jednak przelozony podczaszych nie pamietal o Jozefie, ale zapomnial o nim. </v>
+</c>

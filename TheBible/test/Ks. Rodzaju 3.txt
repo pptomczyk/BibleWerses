@@ -1,0 +1,25 @@
+<v n="1"> A waz byl bardziej przebiegly niz wszystkie zwierzeta polne, ktore PAN Bog uczynil. Powiedzial on do kobiety: Czy Bog rzeczywiscie powiedzial: Nie wolno wam jesc ze wszystkich drzew tego ogrodu? </v>
+<v n="2"> I kobieta odpowiedziala wezowi: Mozemy jesc owoce z drzew tego ogrodu; </v>
+<v n="3"> Ale o owocu drzewa, ktore jest posrodku ogrodu, Bog powiedzial: Nie bedziecie z niego jesc ani go dotykac, abyscie nie umarli. </v>
+<v n="4"> I waz powiedzial do kobiety: Na pewno nie umrzecie; </v>
+<v n="5"> Ale Bog wie, ze tego dnia, gdy z niego zjecie, otworza sie wasze oczy i bedziecie jak bogowie znajacy dobro i zlo. </v>
+<v n="6"> A gdy kobieta spostrzegla, ze owoc drzewa byl dobry do jedzenia i mily dla oka, a drzewo godne pozadania dla zdobycia wiedzy, wziela z niego owoc i zjadla; dala tez swemu mezowi, ktory byl z nia; i on zjadl. </v>
+<v n="7"> I otworzyly sie im obojgu oczy i poznali, ze sa nadzy. Spletli wiec liscie figowe i zrobili sobie przepaski. </v>
+<v n="8"> Wtedy uslyszeli glos PANA Boga chodzacego po ogrodzie w powiewie dziennym. I Adam, i jego zona ukryli sie przed obliczem PANA Boga wsrod drzew ogrodu. </v>
+<v n="9"> I PAN Bog zawolal na Adama, i zapytal go: Gdzie jestes? </v>
+<v n="10"> On odpowiedzial: Uslyszalem twoj glos w ogrodzie i zlaklem sie, gdyz jestem nagi, i ukrylem sie. </v>
+<v n="11"> Bog zapytal: Kto ci powiedzial, ze jestes nagi? Czy zjadles z drzewa, z ktorego zakazalem ci jesc? </v>
+<v n="12"> Adam odpowiedzial: Kobieta, ktora mi dales, aby byla ze mna, ona dala mi z tego drzewa i zjadlem. </v>
+<v n="13"> PAN Bog zapytal kobiete: Co zrobilas? I odpowiedziala kobieta: Waz mnie zwiodl i zjadlam. </v>
+<v n="14"> Wtedy PAN Bog powiedzial do weza: Poniewaz to uczyniles, bedziesz przeklety wsrod wszelkiego bydla i wsrod wszelkich zwierzat polnych. Na brzuchu bedziesz sie czolgac i proch bedziesz jesc po wszystkie dni swego zycia. </v>
+<v n="15"> I wprowadze nieprzyjazn miedzy toba a kobieta, miedzy twoim potomstwem a jej potomstwem. Ono zrani ci glowe, a ty zranisz mu piete. </v>
+<v n="16"> A do kobiety powiedzial: Wielce pomnoze twoje cierpienia i twoje poczecia, w bolu bedziesz rodzic dzieci. Twoje pragnienie bedzie ku twemu mezowi, a on bedzie nad toba panowac. </v>
+<v n="17"> Do Adama zas powiedzial: Poniewaz usluchales glosu swojej zony i zjadles z drzewa, o ktorym ci przykazalem, mowiac: Nie bedziesz z niego jadl – przekleta bedzie ziemia z twego powodu, w trudzie bedziesz z niej spozywac po wszystkie dni twego zycia. </v>
+<v n="18"> Ona bedzie ci rodzic ciernie i oset i bedziesz spozywal rosliny polne. </v>
+<v n="19"> W pocie czola bedziesz spozywal chleb, az wrocisz do ziemi, gdyz z niej zostales wziety. Bo jestes prochem i w proch sie obrocisz. </v>
+<v n="20"> I Adam nadal swojej zonie imie Ewa, bo ona byla matka wszystkich zyjacych. </v>
+<v n="21"> I PAN Bog sporzadzil dla Adama i jego zony odzienie ze skor i przyodzial ich. </v>
+<v n="22"> Wtedy PAN Bog powiedzial: Oto czlowiek stal sie jak jeden z nas, znajacy dobro i zlo. Wygnajmy go wiec, aby nie wyciagnal swej reki i nie wzial z drzewa zycia, by jesc i zyc na wieki. </v>
+<v n="23"> PAN Bog wydalil go wiec z ogrodu Eden, aby uprawial ziemie, z ktorej zostal wziety. </v>
+<v n="24"> Tak wygnal czlowieka i postawil na wschod od ogrodu Eden cherubinow i plomienisty miecz obracajacy sie we wszystkie strony, aby strzegly drogi do drzewa zycia. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> A Sara dozyla stu dwudziestu siedmiu lat. Tyle bylo lat zycia Sary. </v>
+<v n="2"> Sara umarla w miescie Kiriat-Arba, czyli w Hebronie, w ziemi Kanaan. I Abraham przyszedl, aby odbyc zalobe po Sarze i oplakiwac ja. </v>
+<v n="3"> Potem Abraham wstal od swej zmarlej i powiedzial do synow Cheta: </v>
+<v n="4"> Jestem wsrod was przybyszem i przychodniem. Dajcie mi na wlasnosc grob miedzy wami, abym pogrzebal moja zmarla sprzed mojego oblicza. </v>
+<v n="5"> Synowie Cheta odpowiedzieli Abrahamowi: </v>
+<v n="6"> Sluchaj nas, moj panie: Jestes ksieciem Boga wsrod nas. Pochowaj swoja zmarla w naszych najlepszych grobach. Nikt z nas nie odmowi ci swego grobu, abys pochowal swoja zmarla. </v>
+<v n="7"> Wtedy Abraham wstal, poklonil sie ludowi tej ziemi, czyli synom Cheta; </v>
+<v n="8"> I powiedzial do nich: Jesli zgadzacie sie, abym pochowal moja zmarla sprzed mojego oblicza, posluchajcie mnie i wstawcie sie za mna do Efrona, syna Sochara; </v>
+<v n="9"> Aby mi ustapil swa jaskinie Makpela, ktora znajduje sie na koncu jego pola. Niech mi ja odda za odpowiednia cene jako grob na wlasnosc wsrod was. </v>
+<v n="10"> A Efron siedzial wsrod synow Cheta. Odpowiedzial wiec Efron Chetyta Abrahamowi w obecnosci synow Cheta i wszystkich, ktorzy wchodzili w brame jego miasta: </v>
+<v n="11"> Nie, panie moj, posluchaj mnie. Daje ci to pole i jaskinie, ktora na nim jest. Daje ja tobie w obecnosci synow mego ludu. Pochowaj swoja zmarla. </v>
+<v n="12"> Wtedy Abraham poklonil sie przed ludem tej ziemi; </v>
+<v n="13"> I powiedzial do Efrona w obecnosci ludu tej ziemi: Raczej jesli sie da, prosze, posluchaj mnie. Dam ci pieniadze za pole, wez je ode mnie, a pochowam tam moja zmarla. </v>
+<v n="14"> Efron odpowiedzial Abrahamowi: </v>
+<v n="15"> Moj panie, posluchaj mnie. Ta ziemia jest warta czterysta syklow srebra, ale coz to jest miedzy mna a toba? Pochowaj swoja zmarla. </v>
+<v n="16"> I Abraham wysluchal Efrona. Odwazyl wiec Abraham Efronowi srebro, ktore ten wymienil w obecnosci synow Cheta: czterysta syklow srebra, jakie byly w obiegu u kupcow. </v>
+<v n="17"> Tak wiec pole Efrona, ktore jest w Makpelu naprzeciw Mamre, pole i jaskinia, ktora na nim jest, i wszystkie drzewa, ktore byly na polu i wkolo na wszystkich jego granicach, przeszly; </v>
+<v n="18"> Na wlasnosc Abrahama w obecnosci synow Cheta i wszystkich, ktorzy wchodzili w brame tego miasta. </v>
+<v n="19"> Potem Abraham pochowal swoja zone Sare w jaskini pola w Makpelu naprzeciwko Mamre, czyli Hebronie, w ziemi Kanaan. </v>
+<v n="20"> I zostaly oddane Abrahamowi pole i jaskinia, ktora byla na nim, jako grob na wlasnosc, przez synow Cheta. </v>
+</c>

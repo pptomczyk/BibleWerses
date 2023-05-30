@@ -1,0 +1,22 @@
+<v n="1"> Czy czlowiekowi nie jest wyznaczony czas na ziemi? Czy jego dni nie sa jak dni najemnika? </v>
+<v n="2"> Jak sluga pragnie cienia, jak najemnik oczekuje zaplaty za swoja prace; </v>
+<v n="3"> Tak moim udzialem sa miesiace prozne, a przeznaczono mi noce bolesne. </v>
+<v n="4"> Gdy sie klade, mowie: Kiedy minie noc, abym mogl wstac? I jestem pelny niepokoju az do switu. </v>
+<v n="5"> Moje cialo pokryte jest robactwem i strupami w prochu, moja skora peka i ropieje. </v>
+<v n="6"> Moje dni biegna szybciej niz czolenko tkackie i przemijaja bez nadziei. </v>
+<v n="7"> Pamietaj, ze moje zycie jest wiatrem, moje oko juz nie zobaczy dobra. </v>
+<v n="8"> Oko, ktore mnie widzialo, juz mnie nie zobaczy. Twoje oczy sa zwrocone na mnie, a mnie juz nie ma. </v>
+<v n="9"> Jak oblok sie rozchodzi i przemija, tak ten, kto zstepuje do grobu, nie wraca. </v>
+<v n="10"> Nie wroci juz do swego domu ani nie pozna go juz jego miejsce. </v>
+<v n="11"> Dlatego nie moge powstrzymac swoich ust, bede mowil w utrapieniu swego ducha, bede narzekal w goryczy swojej duszy. </v>
+<v n="12"> Czy jestem morzem albo wielorybem, ze postawiles przy mnie straz? </v>
+<v n="13"> Gdy mowie: Pocieszy mnie moje lozko i moje poslanie ulzy mojemu narzekaniu; </v>
+<v n="14"> Wtedy straszysz mnie snami i przerazasz mnie widzeniami; </v>
+<v n="15"> Tak ze moja dusza wybralaby sobie uduszenie, raczej smierc niz zycie. </v>
+<v n="16"> Uprzykrzylo mi sie zycie, nie chce zyc wiecznie. Zostaw mnie, bo moje dni sa marnoscia. </v>
+<v n="17"> Czym jest czlowiek, ze go tak wywyzszasz i ze zwracasz ku niemu swoje serce? </v>
+<v n="18"> Ze nawiedzasz go kazdego ranka i w kazdej chwili doswiadczasz? </v>
+<v n="19"> Kiedy odwrocisz sie ode mnie i zostawisz mnie, abym mogl przelknac swoja sline? </v>
+<v n="20"> Zgrzeszylem, coz mam czynic, strozu czlowieka? Czemu mnie wziales za cel, abym byl sam dla siebie ciezarem? </v>
+<v n="21"> Czemu nie przebaczysz mojego przestepstwa i nie zmazesz mojej nieprawosci? Teraz bowiem poloze sie w prochu i gdy rano bedziesz mnie szukal, nie bedzie mnie. </v>
+</c>

@@ -1,0 +1,17 @@
+<v n="1"> Kto mieszka pod oslona Najwyzszego, w cieniu Wszechmocnego przebywac bedzie. </v>
+<v n="2"> Bede mowil o PANU: Moja ucieczka i twierdza, moj Bog, jemu bede ufal. </v>
+<v n="3"> Zaprawde, on wybawi cie z sidel lowcy i od zgubnej zarazy. </v>
+<v n="4"> Okryje cie swymi piorami i pod jego skrzydlami bedziesz bezpieczny; jego prawda bedzie ci tarcza i puklerzem. </v>
+<v n="5"> Nie ulekniesz sie strachu nocnego ani strzaly lecacej za dnia; </v>
+<v n="6"> Ani zarazy, ktora przychodzi w ciemnosci, ani dzumy, ktora pustoszy w poludnie. </v>
+<v n="7"> Tysiac padnie u twego boku, a dziesiec tysiecy po twojej prawicy, lecz ciebie to nie dosiegnie. </v>
+<v n="8"> Tylko zobaczysz na wlasne oczy i ujrzysz zaplate dana niegodziwym. </v>
+<v n="9"> Poniewaz PANA, moja ucieczke i Najwyzszego, uczyniles swoim mieszkaniem; </v>
+<v n="10"> Nie spotka cie nic zlego ani zadna plaga nie zblizy sie do twego namiotu. </v>
+<v n="11"> Rozkaze bowiem o tobie swoim aniolom, aby cie strzegli na wszystkich twoich drogach. </v>
+<v n="12"> Na rekach beda cie nosic, bys przypadkiem nie uderzyl swojej nogi o kamien. </v>
+<v n="13"> Bedziesz stapal po lwie i po zmii, lwiatko i smoka podepczesz. </v>
+<v n="14"> Wybawie go, bo mnie umilowal; wywyzsze go, bo poznal moje imie. </v>
+<v n="15"> Bedzie mnie wzywal, a ja go wyslucham; bede z nim w utrapieniu, wyrwe go i otocze chwala. </v>
+<v n="16"> Dlugimi dniami go nasyce i ukaze mu moje zbawienie. </v>
+</c>

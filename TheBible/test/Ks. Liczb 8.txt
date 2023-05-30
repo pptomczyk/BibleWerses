@@ -1,0 +1,27 @@
+<v n="1"> I PAN przemowil do Mojzesza tymi slowy: </v>
+<v n="2"> Powiedz Aaronowi: Gdy zapalisz lampy, siedem lamp ma rzucac swiatlo na przednia strone swiecznika. </v>
+<v n="3"> I Aaron tak uczynil. Z przedniej strony swiecznika zapalil lampy, tak jak PAN rozkazal Mojzeszowi. </v>
+<v n="4"> Swiecznik byl wykuty ze zlota, od trzonu az po kwiaty byl kuty. Zgodnie ze wzorem, ktory PAN pokazal Mojzeszowi, tak zrobil swiecznik. </v>
+<v n="5"> Potem PAN powiedzial do Mojzesza: </v>
+<v n="6"> Wez Lewitow sposrod synow Izraela i oczysc ich. </v>
+<v n="7"> I tak postapisz z nimi, aby ich oczyscic: Pokrop ich woda oczyszczenia, a oni niech ogola cale swoje cialo i wypiora swoje szaty, wtedy beda czysci. </v>
+<v n="8"> Nastepnie niech wezma mlodego cielca wraz z jego ofiara pokarmowa z maki pszennej zmieszanej z oliwa, drugiego zas mlodego cielca wezmiesz na ofiare za grzech. </v>
+<v n="9"> I przyprowadzisz Lewitow przed Namiot Zgromadzenia, i zbierzesz cale zgromadzenie synow Izraela; </v>
+<v n="10"> I przyprowadzisz Lewitow przed PANA, a synowie Izraela poloza na nich swoje rece. </v>
+<v n="11"> Wtedy Aaron przedstawi Lewitow przed PANEM jako ofiare od synow Izraela, aby pelnili sluzbe dla PANA. </v>
+<v n="12"> Lewici zas poloza swoje rece na glowy cielcow. Ty zlozysz jednego na ofiare za grzech, a drugiego na ofiare calopalna dla PANA, aby dokonac przeblagania za Lewitow. </v>
+<v n="13"> Nastepnie postawisz Lewitow przed Aaronem i przed jego synami i przedstawisz ich jako ofiare dla PANA. </v>
+<v n="14"> W ten sposob oddzielisz Lewitow sposrod synow Izraela i Lewici beda nalezec do mnie. </v>
+<v n="15"> Potem Lewici wejda, aby sluzyc w Namiocie Zgromadzenia, gdy ich oczyscisz i przedstawisz jako ofiare. </v>
+<v n="16"> Oni bowiem sa mi oddani sposrod synow Izraela; w miejsce kazdego, kto otwiera lono, w miejsce wszystkich pierworodnych synow Izraela wzialem ich sobie. </v>
+<v n="17"> Gdyz do mnie nalezy wszystko, co pierworodne wsrod synow Izraela, zarowno z ludzi, jak i ze zwierzat. Poswiecilem ich sobie w dniu, w ktorym zabilem wszystko, co pierworodne w ziemi Egiptu. </v>
+<v n="18"> Wzialem Lewitow w zamian za wszystkich pierworodnych wsrod synow Izraela. </v>
+<v n="19"> I dalem Lewitow jako dar Aaronowi i jego synom sposrod synow Izraela, aby pelnili sluzbe synow Izraela w Namiocie Zgromadzenia i dokonywali przeblagania za nich, aby nie spadla na synow Izraela zadna kara, gdy beda zblizac sie do swiatyni. </v>
+<v n="20"> Wtedy Mojzesz i Aaron oraz cale zgromadzenie synow Izraela postapili z Lewitami tak, jak PAN rozkazal Mojzeszowi o Lewitach; tak postapili z nimi synowie Izraela. </v>
+<v n="21"> Lewici oczyscili sie i wyprali swoje szaty, a Aaron przedstawil ich jako ofiare przed PANEM i dokonal przeblagania za nich, aby ich oczyscic. </v>
+<v n="22"> Potem Lewici weszli, aby pelnic swoja sluzbe w Namiocie Zgromadzenia przed Aaronem i przed jego synami. Jak PAN rozkazal Mojzeszowi odnosnie do Lewitow, tak z nimi postapili. </v>
+<v n="23"> I PAN powiedzial do Mojzesza: </v>
+<v n="24"> Oto co dotyczy Lewitow: Od dwudziestego piatego roku zycia wzwyz przystapia, by pelnic sluzbe w Namiocie Zgromadzenia. </v>
+<v n="25"> A od piecdziesiatego roku zycia przestana pelnic sluzbe i wiecej nie beda sluzyc. </v>
+<v n="26"> Beda jednak uslugiwac swym braciom w Namiocie Zgromadzenia w pelnieniu strazy, lecz samej sluzby nie beda pelnic. Tak postapisz z Lewitami w sprawie ich sluzby. </v>
+</c>

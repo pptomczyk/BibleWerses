@@ -1,0 +1,20 @@
+<v n="1"> Wtedy Dawid powiedzial: To jest dom PANA Boga i to jest oltarz calopalenia dla Izraela. </v>
+<v n="2"> Dawid rozkazal zgromadzic cudzoziemcow, ktorzy byli w ziemi Izraela, i ustanowil sposrod nich kamieniarzy do obrobki kamieni ciosanych na budowe domu Bozego. </v>
+<v n="3"> Dawid przygotowal tez bardzo duzo zelaza na gwozdzie do drzwi w bramach i na spojenie oraz niezliczona wage brazu; </v>
+<v n="4"> Takze drzewa cedrowego niezliczona ilosc, bo Sydonczycy i Tyryjczycy przywiezli Dawidowi bardzo wiele drewna cedrowego. </v>
+<v n="5"> Dawid powiedzial: Salomon, moj syn, jest mlody i niedoswiadczony, a dom, ktory ma byc zbudowany dla PANA, musi byc niezmiernie okazaly, aby byl znany i slawny we wszystkich krajach. Teraz wiec poczynie przygotowania za niego. I wiele przygotowal Dawid przed swoja smiercia. </v>
+<v n="6"> Potem zawolal swego syna Salomona i nakazal mu zbudowac dom dla PANA, Boga Izraela. </v>
+<v n="7"> I Dawid powiedzial do Salomona: Synu moj! Pragnalem zbudowac dom dla imienia PANA, swego Boga. </v>
+<v n="8"> Lecz doszlo do mnie slowo PANA mowiace: Rozlales wiele krwi i prowadziles wielkie wojny. Nie bedziesz budowal domu dla mojego imienia, poniewaz rozlales wiele krwi na ziemie przed moim obliczem. </v>
+<v n="9"> Oto urodzi ci sie syn, ktory bedzie czlowiekiem pokoju, bo dam mu odpoczynek od wszystkich jego wrogow wokolo. Bedzie mial na imie Salomon, poniewaz za jego dni dam Izraelowi pokoj i odpoczynek. </v>
+<v n="10"> On zbuduje dom dla mojego imienia i on bedzie mi synem, a ja bede mu ojcem i utwierdze tron jego krolestwa nad Izraelem na wieki. </v>
+<v n="11"> Teraz wiec, moj synu, niech PAN bedzie z toba i niech ci sie powodzi, abys zbudowal dom dla PANA, swego Boga, jak zapowiedzial o tobie. </v>
+<v n="12"> Oby tylko PAN ci dal roztropnosc i rozwage i niech cie ustanowi nad Izraelem, abys strzegl prawa PANA, swego Boga. </v>
+<v n="13"> Wtedy bedzie ci sie powodzilo, jesli bedziesz strzegl i wypelnial przykazania i prawa, ktore PAN dal Mojzeszowi dla Izraela. Badz silny i mezny, nie boj sie ani sie lekaj. </v>
+<v n="14"> A oto w moim trudzie przygotowalem na dom PANA sto tysiecy talentow zlota i tysiac tysiecy talentow srebra, brazu i zelaza zas bez wagi, bo tego jest wiele. Przygotowalem rowniez drewno i kamien, a ty mozesz do tego dokladac. </v>
+<v n="15"> Masz tez u siebie wielu rzemieslnikow, kamieniarzy, murarzy, ciesli i wszelkich bieglych w kazdym rzemiosle. </v>
+<v n="16"> Zlota, srebra, brazu i zelaza jest bez liku. Wstan wiec i dzialaj, a PAN niech bedzie z toba. </v>
+<v n="17"> Dawid tez nakazal wszystkim ksiazetom Izraela, aby pomagali jego synowi Salomonowi; </v>
+<v n="18"> Mowiac: Czy PAN, wasz Bog, nie jest z wami? Czy nie dal wam odpoczynku wokolo? Dal bowiem w moja reke mieszkancow tej ziemi, a ziemia zostala poddana PANU i jego ludowi. </v>
+<v n="19"> Teraz wiec oddajcie swoje serce i swoja dusze ku szukaniu PANA, waszego Boga. Wstancie i budujcie swiatynie PANA Boga, abyscie mogli tam wniesc arke przymierza PANA oraz swiete naczynia Boga, do domu, ktory bedzie zbudowany dla imienia PANA. </v>
+</c>

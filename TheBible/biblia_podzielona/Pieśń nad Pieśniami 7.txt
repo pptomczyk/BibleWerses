@@ -1,0 +1,14 @@
+<v n="1"> Jak piêkne s¹ twoje nogi w sanda³ach, córko ksi¹¿êca! Linia twoich bioder jest jak klejnot, jak dzie³o r¹k rzemieœlnika. </v>
+<v n="2"> Twój pêpek jest jak okr¹g³a czasza, której nie brakuje napoju. Twój brzuch jest jak stóg pszenicy okolony liliami. </v>
+<v n="3"> Twoje piersi s¹ jak dwoje sarni¹t, bliŸni¹t. </v>
+<v n="4"> Twoja szyja jest jak wie¿a z koœci s³oniowej; twoje oczy jak sadzawki Cheszbonu przy bramie Bat-Rabbim; twój nos jak wie¿a Libanu zwrócona w stronê Damaszku. </v>
+<v n="5"> Twoja g³owa na tobie jak Karmel, a w³osy twojej g³owy jak purpura. Król na twój widok jest jakby przywi¹zany w swoich kru¿gankach. </v>
+<v n="6"> Jak¿e piêkna jesteœ i jak mi³a, o mi³oœci przerozkoszna! </v>
+<v n="7"> Twój wzrost jest podobny do palmy, a twoje piersi do kiœci winogron. </v>
+<v n="8"> Powiedzia³em: Wejdê na palmê i uchwycê siê jej ga³êzi. Niech twoje piersi bêd¹ jak kiœcie winoroœli, a woñ twojego oddechu jak zapach jab³ek; </v>
+<v n="9"> Twoje usta jak wyborne wino, które mile sp³ywa po podniebieniu i sprawia, ¿e wargi œpi¹cych mówi¹. </v>
+<v n="10"> Ja nale¿ê do mojego umi³owanego i do mnie zwraca siê jego po¿¹danie. </v>
+<v n="11"> ChodŸ, mój umi³owany, wyjdŸmy w pole i przenocujemy we wsiach. </v>
+<v n="12"> Rankiem wstaniemy i pójdziemy do winnic, zobaczymy, czy kwitnie winoroœl, czy otworzy³y siê ju¿ p¹czki, czy ju¿ kwitn¹ granaty. Tam ciê obdarzê swoj¹ mi³oœci¹. </v>
+<v n="13"> Mandragory wydaj¹ swoj¹ woñ, a przed naszymi drzwiami s¹ wszelkie wyborne owoce, nowe i stare, które przechowa³am dla ciebie, mój umi³owany. </v>
+</c>

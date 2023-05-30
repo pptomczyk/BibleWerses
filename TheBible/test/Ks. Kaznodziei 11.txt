@@ -1,0 +1,11 @@
+<v n="1"> Rzucaj swoj chleb na wody, bo po wielu dniach odnajdziesz go. </v>
+<v n="2"> Rozdaj dzial siedmiu lub osmiu, bo nie wiesz, co zlego wydarzy sie na ziemi. </v>
+<v n="3"> Gdy chmury napelniaja sie deszczem, spuszczaja go na ziemie. Gdy drzewo upada na poludnie lub na polnoc, w miejscu, gdzie upadnie to drzewo, tam zostanie. </v>
+<v n="4"> Kto zwaza na wiatr, nigdy nie bedzie sial, a kto patrzy na chmury, nie bedzie zac. </v>
+<v n="5"> Jak nie wiesz, jaka jest droga ducha, i jak sie ksztaltuja kosci w lonie brzemiennej, tak nie znasz spraw Boga, ktory wszystko czyni. </v>
+<v n="6"> Rano siej swoje ziarno, a wieczorem nie pozwol spoczac swojej rece, gdyz nie wiesz, co sie uda, czy to, czy tamto, czy tez oboje beda rownie dobre. </v>
+<v n="7"> Doprawdy, swiatlo jest slodkie i mila to rzecz dla oczu widziec slonce. </v>
+<v n="8"> A chocby czlowiek zyl przez wiele lat i radowal sie nimi wszystkimi, to niech pamieta o dniach ciemnosci, bo bedzie ich wiele. Wszystko, co nastapi, to tylko marnosc. </v>
+<v n="9"> Dlatego raduj sie, mlodziencze, w swojej mlodosci, niech twoje serce cieszy cie za dni twojej mlodosci i krocz drogami swego serca oraz wedlug zdania swoich oczu, ale wiedz, ze za to wszystko Bog przyprowadzi cie na sad. </v>
+<v n="10"> Usun wiec gniew ze swojego serca i odrzuc zlo od swego ciala, gdyz dziecinstwo i mlodosc sa marnoscia. </v>
+</c>

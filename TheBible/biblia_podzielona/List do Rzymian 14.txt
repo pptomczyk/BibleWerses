@@ -1,0 +1,24 @@
+<v n="1"> A tego, kto jest s³aby w wierze, przyjmujcie, lecz nie po to, aby sprzeczaæ siê wokó³ spornych kwestii. </v>
+<v n="2"> Jeden bowiem wierzy, ¿e mo¿e jeœæ wszystko, a inny, bêd¹c s³aby, jada jarzyny. </v>
+<v n="3"> Ten, kto je, niech nie lekcewa¿y tego, który nie je, a ten, kto nie je, niech nie potêpia tego, który je, bo Bóg go przyj¹³. </v>
+<v n="4"> Kim jesteœ ty, ¿e s¹dzisz cudzego s³ugê? Dla w³asnego Pana stoi albo upada. Ostoi siê jednak, gdy¿ Bóg mo¿e go utwierdziæ. </v>
+<v n="5"> Jeden bowiem czyni ró¿nicê miêdzy dniem a dniem, a drugi ka¿dy dzieñ ocenia jednakowo. Ka¿dy niech bêdzie dobrze upewniony w swoim zamyœle. </v>
+<v n="6"> Kto przestrzega dnia, dla Pana przestrzega, a kto nie przestrzega dnia, dla Pana nie przestrzega. Kto je, dla Pana je, bo dziêkuje Bogu, a kto nie je, dla Pana nie je i dziêkuje Bogu. </v>
+<v n="7"> Nikt bowiem z nas dla siebie nie ¿yje i nikt dla siebie nie umiera. </v>
+<v n="8"> Bo jeœli ¿yjemy, dla Pana ¿yjemy, jeœli umieramy, dla Pana umieramy. Dlatego czy ¿yjemy, czy umieramy, nale¿ymy do Pana. </v>
+<v n="9"> Gdy¿ po to Chrystus umar³, powsta³ i o¿y³, aby panowaæ i nad umar³ymi, i nad ¿ywymi. </v>
+<v n="10"> Dlaczego wiêc ty potêpiasz swego brata? Albo czemu lekcewa¿ysz swego brata? Wszyscy bowiem staniemy przed trybuna³em Chrystusa. </v>
+<v n="11"> Jest bowiem napisane: Jak ¿yjê, mówi Pan, ugnie siê przede mn¹ ka¿de kolano i ka¿dy jêzyk bêdzie wys³awia³ Boga. </v>
+<v n="12"> Tak wiêc ka¿dy z nas sam za siebie zda rachunek Bogu. </v>
+<v n="13"> A tak ju¿ nie os¹dzajmy jedni drugich, ale raczej uwa¿ajcie na to, aby nie dawaæ bratu powodu do potkniêcia siê lub upadku. </v>
+<v n="14"> Wiem i jestem przekonany przez Pana Jezusa, ¿e nie ma niczego, co by samo w sobie by³o nieczyste. Tylko dla tego, kto uwa¿a coœ za nieczyste, to dla niego jest nieczyste. </v>
+<v n="15"> Lecz jeœli z powodu pokarmu twój brat jest zasmucony, ju¿ nie postêpujesz zgodnie z mi³oœci¹. Nie zatracaj swoim pokarmem tego, za którego umar³ Chrystus. </v>
+<v n="16"> Niech wiêc wasze dobro nie bêdzie bluŸnione. </v>
+<v n="17"> Królestwo Bo¿e bowiem to nie pokarm i napój, ale sprawiedliwoœæ, pokój i radoœæ w Duchu Œwiêtym. </v>
+<v n="18"> Kto bowiem w tym s³u¿y Chrystusowi, podoba siê Bogu i cieszy siê uznaniem u ludzi. </v>
+<v n="19"> Tak wiêc d¹¿my do tego, co s³u¿y pokojowi i wzajemnemu zbudowaniu. </v>
+<v n="20"> Z powodu pokarmu nie niszcz dzie³a Bo¿ego. Wszystko wprawdzie jest czyste, ale staje siê z³e dla cz³owieka, który je ze zgorszeniem. </v>
+<v n="21"> Dobrze jest nie jeœæ miêsa i nie piæ wina ani ¿adnej rzeczy, przez któr¹ twój brat siê obra¿a, gorszy albo s³abnie. </v>
+<v n="22"> Masz wiarê? Miej j¹ sam u siebie przed Bogiem. Szczêœliwy ten, kto samego siebie nie potêpia w tym, co uwa¿a za dobre. </v>
+<v n="23"> Lecz kto ma w¹tpliwoœci, jeœli je, jest potêpiony, bo nie je z wiary. Wszystko bowiem, co nie jest z wiary, jest grzechem. </v>
+</c>

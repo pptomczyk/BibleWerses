@@ -1,0 +1,22 @@
+<v n="1"> Alleluja. Chwalcie imie PANA; chwalcie, sludzy PANA; </v>
+<v n="2"> Ktorzy stoicie w domu PANA, w przedsionkach domu naszego Boga. </v>
+<v n="3"> Chwalcie PANA, bo PAN jest dobry; spiewajcie jego imieniu, bo jest wdzieczne. </v>
+<v n="4"> PAN bowiem wybral sobie Jakuba i Izraela na swoja szczegolna wlasnosc. </v>
+<v n="5"> Wiem, ze wielki jest PAN, a nasz Pan jest ponad wszystkimi bogami. </v>
+<v n="6"> Wszystko, co PAN chce, to czyni na niebie i na ziemi, w morzu i we wszystkich glebinach. </v>
+<v n="7"> On sprawia, ze mgly wznosza sie z krancow ziemi; wywoluje blyskawice i deszcz, wydobywa wiatr ze swoich skarbcow; </v>
+<v n="8"> Porazil pierworodnych w Egipcie, od czlowieka az do zwierzecia. </v>
+<v n="9"> Zeslal znaki i cuda posrod ciebie, Egipcie; na faraona i na wszystkie jego slugi. </v>
+<v n="10"> Pobil wiele narodow i zgladzil poteznych krolow; </v>
+<v n="11"> Sychona, krola Amorytow, i Oga, krola Baszanu, i wszystkie krolestwa Kanaanu; </v>
+<v n="12"> I dal ich ziemie w dziedzictwo, w dziedzictwo Izraelowi, swemu ludowi. </v>
+<v n="13"> Twoje imie, PANIE, trwa na wieki; twoja pamiec, PANIE, z pokolenia na pokolenie. </v>
+<v n="14"> Bo PAN bedzie sadzic swoj lud i zmiluje sie nad swymi slugami. </v>
+<v n="15"> Bozki pogan to srebro i zloto, dzielo ludzkich rak. </v>
+<v n="16"> Maja usta, ale nie mowia; maja oczy, ale nie widza; </v>
+<v n="17"> Maja uszy, ale nie slysza, i nie ma oddechu w ich ustach. </v>
+<v n="18"> Podobni sa do nich ci, ktorzy je robia, i wszyscy, ktorzy w nich pokladaja ufnosc. </v>
+<v n="19"> Domu Izraela, blogoslawcie PANA; domu Aarona, blogoslawcie PANA. </v>
+<v n="20"> Domu Lewiego, blogoslawcie PANA; wy, ktorzy sie boicie PANA, blogoslawcie PANA. </v>
+<v n="21"> Niech bedzie blogoslawiony z Syjonu PAN, ktory mieszka w Jeruzalem. Alleluja. </v>
+</c>

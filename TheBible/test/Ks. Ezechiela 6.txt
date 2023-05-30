@@ -1,0 +1,15 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Synu czlowieczy, zwroc swoja twarz ku gorom Izraela i prorokuj przeciwko nim; </v>
+<v n="3"> I mow: Gory Izraela, sluchajcie slowa Pana BOGA. Tak mowi Pan BOG do gor i pagorkow, do strumieni i dolin: Oto ja, wlasnie ja sprowadze na was miecz i zniszcze wasze wyzyny. </v>
+<v n="4"> Wasze oltarze beda spustoszone i wasze posagi beda polamane, a porozrzucam waszych pobitych przed waszymi bozkami. </v>
+<v n="5"> Trupy synow Izraela poloze przed ich bozkami i rozrzuce wasze kosci wokol waszych oltarzy. </v>
+<v n="6"> Wszedzie, gdzie mieszkacie, miasta zostana spustoszone i wyzyny spustoszeja, tak ze wasze oltarze beda zburzone i zniszczone, wasze bozki beda rozbite i przestana istniec, wasze posagi beda wyciete, a wasze dziela wyniszczone. </v>
+<v n="7"> I pobici padna posrod was, a poznacie, ze ja jestem PANEM. </v>
+<v n="8"> Lecz pozostawie niektorych sposrod was, ktorzy ujda spod miecza pogan, gdy bedziecie rozproszeni po krajach. </v>
+<v n="9"> Ci z was, ktorzy ocaleja, beda o mnie pamietac posrod narodow, do ktorych zostana uprowadzeni, bo ubolewam nad ich cudzoloznym sercem, ktore odstapilo ode mnie, i nad ich oczami, ktore uprawialy nierzad, idac za swymi bozkami. I poczuja wstret do samych siebie z powodu zla, ktore popelnili we wszystkich swoich obrzydliwosciach. </v>
+<v n="10"> I poznaja, ze ja jestem PANEM i ze nie na prozno mowilem, ze sprowadze na nich to nieszczescie. </v>
+<v n="11"> Tak mowi Pan BOG: Klasnij swa dlonia, tupnij swa noga i mow: Biada z powodu wszystkich zlych obrzydliwosci domu Izraela! Padna bowiem od miecza, od glodu i od zarazy. </v>
+<v n="12"> Ten, co bedzie daleko, umrze od zarazy, ten, co blisko, polegnie od miecza, a ten, co pozostanie i bedzie oblezony, umrze od glodu. Tak dopelnie na nich swej zapalczywosci. </v>
+<v n="13"> Wtedy poznacie, ze ja jestem PANEM, gdy ich pobici beda lezeli wsrod ich bozkow i dokola ich oltarzy, na kazdym wysokim pagorku, po wszystkich szczytach gorskich, pod kazdym drzewem zielonym i pod kazdym rozlozystym debem, gdzie skladali mila won wszystkim swoim bozkom. </v>
+<v n="14"> Wyciagne swoja reke przeciwko nim i uczynie te ziemie spustoszona, bardziej spustoszona od pustyni Diblat, wszedzie, gdzie mieszkaja. I tak poznaja, ze ja jestem PANEM. </v>
+</c>

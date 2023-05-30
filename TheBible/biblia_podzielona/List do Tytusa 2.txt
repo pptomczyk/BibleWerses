@@ -1,0 +1,16 @@
+<v n="1"> Ty zaœ mów to, co jest zgodne ze zdrow¹ nauk¹. </v>
+<v n="2"> Starsi mê¿czyŸni niech bêd¹ trzeŸwi, powa¿ni, roztropni, zdrowi w wierze, w mi³oœci, w cierpliwoœci. </v>
+<v n="3"> Podobnie starsze kobiety niech zachowuj¹ siê w sposób godny œwiêtych, niech nie oczerniaj¹, nie nadu¿ywaj¹ wina, ucz¹ tego, co dobre. </v>
+<v n="4"> Niech ucz¹ m³odsze kobiety rozs¹dku, jak maj¹ kochaæ swoich mê¿ów i dzieci; </v>
+<v n="5"> ¯eby by³y roztropne, czyste, ¿eby zajmowa³y siê domem, by³y dobre, pos³uszne swoim mê¿om, aby nie bluŸniono s³owu Bo¿emu. </v>
+<v n="6"> M³odzieñców tak¿e napominaj, aby byli trzeŸwi. </v>
+<v n="7"> We wszystkim stawiaj samego siebie za wzór dobrych uczynków. W nauczaniu okazuj prawoœæ, powagê; </v>
+<v n="8"> S³owa zdrowe, nienaganne, aby ten, kto siê sprzeciwia, by³ zawstydzony, nie maj¹c o was nic z³ego do powiedzenia. </v>
+<v n="9"> S³ugi nauczaj, aby byli poddani swoim panom i we wszystkim siê im podobali, nie sprzeciwiaj¹c siê; </v>
+<v n="10"> Niczego sobie nie przyw³aszczaj¹c, ale we wszystkim okazuj¹c doskona³¹ wiernoœæ, aby we wszystkim zdobili naukê Boga, naszego Zbawiciela. </v>
+<v n="11"> Objawi³a siê bowiem ³aska Boga, nios¹ca zbawienie wszystkim ludziom; </v>
+<v n="12"> Pouczaj¹ca nas, abyœmy wyrzek³szy siê bezbo¿noœci i œwiatowych po¿¹dliwoœci, trzeŸwo, sprawiedliwie i pobo¿nie ¿yli na tym œwiecie; </v>
+<v n="13"> Oczekuj¹c b³ogos³awionej nadziei i chwalebnego objawienia siê wielkiego Boga i Zbawiciela naszego, Jezusa Chrystusa; </v>
+<v n="14"> Który wyda³ samego siebie za nas, aby nas wykupiæ od wszelkiej nieprawoœci i oczyœciæ sobie lud na w³asnoœæ, gorliwy w spe³nianiu dobrych uczynków. </v>
+<v n="15"> To mów, do tego zachêcaj i strofuj z ca³¹ powag¹; niech nikt tob¹ nie gardzi. </v>
+</c>

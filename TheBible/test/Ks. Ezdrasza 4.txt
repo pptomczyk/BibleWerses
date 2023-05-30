@@ -1,0 +1,25 @@
+<v n="1"> A gdy wrogowie Judy i Beniamina uslyszeli, ze lud, ktory powrocil z niewoli, budowal swiatynie PANU, Bogu Izraela; </v>
+<v n="2"> Wowczas przybyli do Zorobabela i naczelnikow rodow i powiedzieli im: Bedziemy budowac z wami, gdyz szukamy waszego Boga tak jak wy i skladamy mu ofiary od czasow Asarchaddona, krola Asyrii, ktory nas tu przyprowadzil. </v>
+<v n="3"> Ale Zorobabel, Jeszua i pozostali naczelnicy rodow z Izraela odpowiedzieli im: Nie wolno wam razem z nami budowac domu naszemu Bogu, ale my sami bedziemy budowac PANU, Bogu Izraela, jak nam rozkazal Cyrus, krol Persji. </v>
+<v n="4"> Wtedy lud tej ziemi zaczal zniechecac lud Judy i przeszkadzal im w budowie. </v>
+<v n="5"> Ponadto przekupywal przeciwko nim radcow, aby udaremnic ich zamiar po wszystkie dni Cyrusa, krola Persji, az do panowania Dariusza, krola Persji. </v>
+<v n="6"> Za panowania Aswerusa, na poczatku jego panowania, napisali skarge przeciwko obywatelom Judy i Jerozolimy; </v>
+<v n="7"> A za czasow Artakserksesa Biszlam, Mitredat, Tabeel wraz z pozostalymi towarzyszami napisali do Artakserksesa, krola Persji. List byl sporzadzony pismem syryjskim i przetlumaczony na jezyk syryjski. </v>
+<v n="8"> Kanclerz Rechum i pisarz Szimszaj napisali do krola Artakserksesa list przeciwko Jerozolimie nastepujacej tresci: </v>
+<v n="9"> Kanclerz Rechum, pisarz Szimszaj i pozostali ich towarzysze: Dynajczycy, Afarsadchajczycy, Tarpelajczycy, Afarsajczycy, Arkewijczycy, Babilonczycy, Susanchici, Dehawici i Elamici; </v>
+<v n="10"> I reszta narodow, ktore wielki i slawny Asnappar przyprowadzil i osiedlil w miastach Samarii, oraz pozostali, ktorzy sa za rzeka – otoz; </v>
+<v n="11"> To jest odpis listu, ktory poslali do krola Artakserksesa – Twoi sludzy, ludzie mieszkajacy za rzeka – otoz: </v>
+<v n="12"> Niech krolowi bedzie wiadomo, ze Zydzi, ktorzy wyszli od ciebie, przybyli do nas, do Jerozolimy, i odbudowuja to buntownicze i niegodziwe miasto, juz wznosili mury i polozyli fundamenty. </v>
+<v n="13"> Niech wiec bedzie krolowi wiadomo, ze jesli to miasto zostanie odbudowane i jego mury beda wzniesione, wtedy podatku, danin ani cla oni nie beda placic, a to przyniesie szkode dochodom krola. </v>
+<v n="14"> Teraz wiec, poniewaz jestesmy na utrzymaniu twego palacu i nie przystoi nam patrzec na zniewage krola, posylamy krolowi te wiadomosc; </v>
+<v n="15"> Aby poszukano w ksiedze kronik twoich ojcow, a znajdziesz w niej i dowiesz sie, ze to miasto jest miastem buntowniczym i przynosi szkode krolom i prowincjom i ze od dawien dawna wzniecano w nim bunty. Z tego powodu to miasto zostalo zburzone. </v>
+<v n="16"> Zawiadamiamy krola, ze jesli to miasto zostanie odbudowane i jego mury beda wzniesione, wtedy juz nie bedziesz mial udzialu za rzeka. </v>
+<v n="17"> Wtedy krol wyslal taka odpowiedz: Kanclerzowi Rechumowi, pisarzowi Szimszajowi i pozostalym ich towarzyszom, ktorzy mieszkaja w Samarii, a takze i pozostalym za rzeka: Pokoj! Otoz: </v>
+<v n="18"> List, ktory do nas przyslaliscie, zostal przede mna dokladnie odczytany. </v>
+<v n="19"> Dlatego rozkazalem, aby poszukano. I znaleziono, ze to miasto od dawna powstawalo przeciwko krolom, a bunt i rozruchy byly w nim wzniecane; </v>
+<v n="20"> Ponadto potezni krolowie panowali nad Jerozolima i rzadzili nad wszystkimi za rzeka, i placono im podatek, danine i clo. </v>
+<v n="21"> Wydajcie wiec wyrok, aby powstrzymac tych mezczyzn, zeby to miasto nie zostalo odbudowane, dopoki inny rozkaz nie bedzie przeze mnie wydany. </v>
+<v n="22"> Pilnujcie, abyscie nie zaniedbali tego. Dlaczego mialoby to wzrastac na szkode krolow? </v>
+<v n="23"> Gdy wiec odpis listu krola Artakserksesa zostal odczytany przed Rechumem, pisarzem Szimszajem i ich towarzyszami, udali sie spiesznie do Zydow w Jerozolimie i sila i moca wstrzymali budowe. </v>
+<v n="24"> W ten sposob ustala praca przy domu Bozym, ktory byl w Jerozolimie. I zostala wstrzymana az do drugiego roku panowania Dariusza, krola Persji. </v>
+</c>

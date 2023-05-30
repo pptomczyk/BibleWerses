@@ -1,0 +1,23 @@
+<v n="1"> Czlowiek, urodzony przez kobiete, ma dni niewiele i ma pelno klopotow; </v>
+<v n="2"> Wyrasta jak kwiat i zostaje podciety, znika jak cien i sie nie ostaje. </v>
+<v n="3"> A jednak na takiego otwierasz swoje oczy i wzywasz mnie przed siebie na sad. </v>
+<v n="4"> Ktoz moze wydobyc czystego z nieczystego? Ani jeden. </v>
+<v n="5"> Gdyz jego dni sa ustalone, liczba jego miesiecy jest u ciebie; wyznaczyles mu kres, ktorego nie moze przekroczyc. </v>
+<v n="6"> Odstap od niego, aby odpoczal, az zakonczy swoj dzien jak najemnik. </v>
+<v n="7"> Dla drzewa bowiem jest nadzieja, choc je wytna, ze znowu odrosnie, ze jego latorosl nie ustanie. </v>
+<v n="8"> Choc jego korzen zestarzeje sie w ziemi i jego pien umrze w prochu; </v>
+<v n="9"> To jednak gdy poczuje wode, odrasta i rozpuszcza galezie jak sadzonka. </v>
+<v n="10"> Ale czlowiek umiera i marnieje; a gdy oddaje ducha, gdzie on jest? </v>
+<v n="11"> Jak ubywa wod z morza i rzeka opada, i wysycha; </v>
+<v n="12"> Tak jest z czlowiekiem, gdy sie polozy i juz nie wstanie; dopoki niebiosa beda trwac, nie ocknie sie ani nie bedzie obudzony ze swego snu. </v>
+<v n="13"> Obys mnie w grobie ukryl i schowal, az twoj gniew sie uciszy, wyznaczyl mi czas i wspomnial na mnie. </v>
+<v n="14"> Gdy czlowiek umrze, czy znowu ozyje? Przez wszystkie dni wyznaczonego mi czasu bede czekal, az nadejdzie moja zmiana. </v>
+<v n="15"> Zawolasz, a ja ci odpowiem; zatesknisz za dzielem swoich rak. </v>
+<v n="16"> Teraz jednak liczysz moje kroki. Czy nie zwazasz na moj grzech? </v>
+<v n="17"> Moj wystepek jest zapieczetowany w woreczku, gromadzisz moje nieprawosci. </v>
+<v n="18"> Doprawdy, gora pada i rozsypuje sie, i skala przesuwa sie ze swego miejsca. </v>
+<v n="19"> Wody wydrazaja kamienie, ulewa podrywa to, co wyrosnie z prochu ziemi, a ty nadzieje czlowieka obracasz wniwecz. </v>
+<v n="20"> Stale pokonujesz go, a on odchodzi; zmieniasz jego oblicze i odprawiasz go. </v>
+<v n="21"> Jego synowie darzeni sa szacunkiem, lecz on o tym nie wie; zyja w pogardzie, lecz na to nie zwaza. </v>
+<v n="22"> Ale jego wlasne cialo odczuwa bol, a jego dusza w nim placze. </v>
+</c>

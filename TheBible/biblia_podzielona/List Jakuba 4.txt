@@ -1,0 +1,18 @@
+<v n="1"> Sk¹d wojny i walki wœród was? Czy nie z waszych ¿¹dz, które tocz¹ bój w waszych cz³onkach? </v>
+<v n="2"> Po¿¹dacie, a nie macie, zabijacie i zazdroœcicie, a nie mo¿ecie osi¹gn¹æ. Toczycie wojny i walki, a nie macie, bo nie prosicie. </v>
+<v n="3"> Prosicie, a nie otrzymujecie, dlatego ¿e Ÿle prosicie, chc¹c tym zaspokoiæ wasze ¿¹dze. </v>
+<v n="4"> Cudzo³o¿nicy i cudzo³o¿nice, czy nie wiecie, ¿e przyjaŸñ ze œwiatem jest nieprzyjaŸni¹ z Bogiem? Jeœli wiêc ktoœ chce byæ przyjacielem œwiata, staje siê nieprzyjacielem Boga. </v>
+<v n="5"> Czy s¹dzicie, ¿e na pró¿no Pismo mówi: Duch, który w nas mieszka, zazdroœnie po¿¹da? </v>
+<v n="6"> Wiêksz¹ zaœ daje ³askê, bo mówi: Bóg sprzeciwia siê pysznym, a pokornym daje ³askê. </v>
+<v n="7"> Poddajcie siê wiêc Bogu, przeciwstawcie siê diab³u, a ucieknie od was. </v>
+<v n="8"> Zbli¿cie siê do Boga, a on zbli¿y siê do was. Obmyjcie rêce, grzesznicy, i oczyœæcie serca, ludzie umys³u dwoistego. </v>
+<v n="9"> Ubolewajcie, smuæcie siê i p³aczcie. Wasz œmiech niech siê obróci w smutek, a radoœæ w przygnêbienie. </v>
+<v n="10"> Uni¿cie siê przed Panem, a on was wywy¿szy. </v>
+<v n="11"> Nie obmawiajcie jedni drugich, bracia. Kto obmawia brata i os¹dza brata, obmawia prawo i os¹dza prawo. Jeœli zaœ os¹dzasz prawo, nie jesteœ wykonawc¹ prawa, lecz sêdzi¹. </v>
+<v n="12"> Jeden jest prawodawca, który ma moc zbawiæ i zatraciæ. A ty kim jesteœ, ¿e os¹dzasz drugiego? </v>
+<v n="13"> A teraz wy, którzy mówicie: Dziœ albo jutro udamy siê do tego miasta i zatrzymamy siê tam przez rok, bêdziemy handlowaæ i osi¹gniemy zyski; </v>
+<v n="14"> Wy, którzy nie wiecie, co jutro bêdzie. Bo czym¿e jest wasze ¿ycie? Doprawdy jest par¹, która pojawia siê na krótko, a potem znika. </v>
+<v n="15"> Zamiast tego powinniœcie mówiæ: Je¿eli Pan zechce i bêdziemy ¿yli, zrobimy to lub owo. </v>
+<v n="16"> Teraz zaœ przechwalacie siê w waszej pysze. Wszelkie takie przechwalanie siê jest z³e. </v>
+<v n="17"> Kto wiêc umie dobrze czyniæ, a nie czyni, pope³nia grzech. </v>
+</c>

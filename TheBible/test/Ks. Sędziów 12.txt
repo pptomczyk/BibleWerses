@@ -1,0 +1,16 @@
+<v n="1"> Potem zebrali sie mezczyzni Efraimici i wyruszyli na polnoc, po czym powiedzieli do Jeftego: Dlaczego poszedles walczyc przeciwko synom Ammona, a nas nie wezwales, abysmy poszli z toba? Spalimy ogniem twoj dom nad toba. </v>
+<v n="2"> I Jefte powiedzial im: Ja i moj lud mielismy niemaly spor z synami Ammona; i wzywalem was, lecz nie wybawiliscie mnie z ich rak. </v>
+<v n="3"> A widzac, ze nie chcieliscie mnie wybawic, narazilem swoje zycie i wyruszylem na synow Ammona, a PAN wydal ich w moje rece. Dlaczego wiec przyszliscie dzis do mnie, by walczyc ze mna? </v>
+<v n="4"> Zebral wiec Jefte wszystkich mezczyzn z Gileadu i walczyl z Efraimem. I mezczyzni z Gileadu pobili Efraima, gdyz ci mowili: Wy, Gileadczycy, ktorzy mieszkacie miedzy Efraimitami a Manassesytami, jestescie zbiegami z Efraima. </v>
+<v n="5"> I Gileadczycy odebrali brody Jordanu Efraimowi. A gdy uciekajacy Efraimita mowil: Pozwolcie mi przejsc, wtedy mezczyzni Gileadu pytali: Czy jestes Efraimita? A jesli odpowiadal: Nie; </v>
+<v n="6"> Wtedy mowili do niego: Wymow teraz: szibbolet, a ten mowil: sibbolet, bo inaczej nie mogl wymowic. Wtedy chwytali go i zabijali przy brodach Jordanu. I poleglo w tym czasie z Efraima czterdziesci dwa tysiace. </v>
+<v n="7"> A Jefte Gileadczyk sadzil Izraela przez szesc lat. Potem umarl Jefte Gileadczyk i zostal pogrzebany w jednym z miast Gileadu. </v>
+<v n="8"> Po nim sadzil Izraela Ibsan z Betlejem. </v>
+<v n="9"> A mial trzydziestu synow i trzydziesci corek, ktore powydawal z domu za maz, a spoza domu sprowadzil trzydziesci zon dla swoich synow. I sadzil Izraela przez siedem lat. </v>
+<v n="10"> Potem Ibsan umarl i zostal pogrzebany w Betlejem. </v>
+<v n="11"> A po nim sadzil Izraela Elon Zebulonita. Sadzil on Izraela przez dziesiec lat. </v>
+<v n="12"> Potem Elon Zebulonita umarl i zostal pogrzebany w Ajjalonie, w ziemi Zebulona. </v>
+<v n="13"> A po nim sadzil Izraela Abdon, syn Hillela, Piratonczyk. </v>
+<v n="14"> Mial on czterdziestu synow i trzydziestu wnukow, ktorzy jezdzili na siedemdziesieciu osletach. Sadzil on Izraela przez osiem lat. </v>
+<v n="15"> Potem umarl Abdon, syn Hillela, Piratonczyk, i zostal pogrzebany w Piratonie, w ziemi Efraima, na gorze Amalekitow. </v>
+</c>

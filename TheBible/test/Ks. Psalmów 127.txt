@@ -1,0 +1,6 @@
+<v n="1"> Piesn stopni dla Salomona. Jesli PAN nie zbuduje domu, na prozno trudza sie ci, ktorzy go wznosza; jesli PAN nie bedzie strzegl miasta, na prozno czuwa straznik. </v>
+<v n="2"> Daremne jest dla was wstawac rano, wysiadywac do pozna i jesc chleb bolesci, bo to on daje sen swemu umilowanemu. </v>
+<v n="3"> Oto dzieci sa dziedzictwem od PANA, a owoc lona nagroda. </v>
+<v n="4"> Jak strzaly w reku mocarza, tak sa dzieci zrodzone za mlodu. </v>
+<v n="5"> Blogoslawiony maz, ktory napelnil nimi swoj kolczan; nie doznaja wstydu, gdy sie w bramie beda rozprawiac z nieprzyjaciolmi. </v>
+</c>

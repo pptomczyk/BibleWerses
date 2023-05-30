@@ -1,0 +1,13 @@
+<v n="1"> Pawel, Sylwan i Tymoteusz do kosciola Tesaloniczan, ktory jest w Bogu, naszym Ojcu, i Panu Jezusie Chrystusie. </v>
+<v n="2"> Laska wam i pokoj od Boga, naszego Ojca, i Pana Jezusa Chrystusa. </v>
+<v n="3"> Bracia, powinnismy zawsze dziekowac Bogu za was, co jest rzecza sluszna, bo bardzo wzrasta wasza wiara i u kazdego z was pomnaza sie wzajemna milosc; </v>
+<v n="4"> Tak ze i my sami chlubimy sie wami w kosciolach Bozych z powodu waszej cierpliwosci i wiary we wszystkich waszych przesladowaniach i uciskach, ktore znosicie. </v>
+<v n="5"> Sa one dowodem sprawiedliwego sadu Boga, abyscie byli uznani za godnych krolestwa Bozego, za ktore tez cierpicie. </v>
+<v n="6"> Poniewaz jest rzecza sprawiedliwa u Boga, zeby odplacic uciskiem tym, ktorzy was uciskaja; </v>
+<v n="7"> A wam, ucisnionym, dac odpoczynek wraz z nami, gdy z nieba objawi sie Pan Jezus z aniolami swojej mocy; </v>
+<v n="8"> W ogniu plomienistym wywierajac zemste na tych, ktorzy Boga nie znaja i nie sa posluszni ewangelii naszego Pana Jezusa Chrystusa. </v>
+<v n="9"> Poniosa oni kare, wieczne zatracenie od oblicza Pana i od chwaly jego mocy; </v>
+<v n="10"> Gdy przyjdzie, aby byl uwielbiony w swoich swietych i podziwiany w tym dniu przez wszystkich wierzacych, poniewaz wsrod was uwierzono naszemu swiadectwu. </v>
+<v n="11"> Dlatego tez nieustannie modlimy sie za was, aby nasz Bog uznal was za godnych tego powolania i wypelnil wszelkie upodobanie swojej dobroci i dziela wiary w mocy; </v>
+<v n="12"> Aby imie naszego Pana Jezusa Chrystusa zostalo uwielbione w was, a wy w nim, wedlug laski naszego Boga i Pana Jezusa Chrystusa. </v>
+</c>

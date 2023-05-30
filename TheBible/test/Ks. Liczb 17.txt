@@ -1,0 +1,14 @@
+<v n="1"> Potem PAN powiedzial do Mojzesza: </v>
+<v n="2"> Mow do synow Izraela i wez od kazdego z nich po lasce wedlug domow ich ojcow, od wszystkich ich naczelnikow wedlug domow ich ojcow dwanascie lasek, a imie kazdego napisz na jego lasce. </v>
+<v n="3"> A imie Aarona napiszesz na lasce Lewiego, gdyz jedna laska bedzie dla kazdego naczelnika z domu ich ojcow. </v>
+<v n="4"> I polozysz je w Namiocie Zgromadzenia przed Swiadectwem, gdzie sie z wami spotykam. </v>
+<v n="5"> I stanie sie tak, ze laska tego, kogo wybiore, zakwitnie; i usmierze przed soba szemrania synow Izraela, jakie kieruja przeciwko wam. </v>
+<v n="6"> Gdy Mojzesz przekazal to synom Izraela, wszyscy ich naczelnicy oddali mu swoje laski, po jednej lasce od kazdego naczelnika z domu swego ojca, razem dwanascie lasek. Wsrod ich lasek byla tez laska Aarona. </v>
+<v n="7"> Potem Mojzesz zlozyl te laski przed PANEM w Namiocie Swiadectwa. </v>
+<v n="8"> Nazajutrz, gdy Mojzesz przyszedl do Namiotu Swiadectwa, oto laska Aarona, z domu Lewiego, zakwitla, wypuscila paczki, wydala kwiat i dojrzale migdaly. </v>
+<v n="9"> Wtedy Mojzesz wyniosl wszystkie laski sprzed PANA do wszystkich synow Izraela; a gdy je ujrzeli, kazdy z nich wzial swoja laske. </v>
+<v n="10"> I PAN powiedzial do Mojzesza: Poloz laske Aarona z powrotem przed Swiadectwem, aby byla zachowana na znak dla buntownikow, a polozysz kres ich szemraniu przeciwko mnie, aby nie pomarli. </v>
+<v n="11"> I Mojzesz tak uczynil; jak PAN mu rozkazal, tak uczynil. </v>
+<v n="12"> I synowie Izraela powiedzieli do Mojzesza: Oto umieramy, giniemy, wszyscy giniemy; </v>
+<v n="13"> Kazdy, kto zbliza sie do przybytku PANA, umrze. Czy mamy doszczetnie zginac? </v>
+</c>

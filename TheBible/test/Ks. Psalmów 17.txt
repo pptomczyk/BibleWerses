@@ -1,0 +1,16 @@
+<v n="1"> Modlitwa Dawida. Wysluchaj, PANIE, mojej slusznej sprawy, zwaz na moje wolanie, naklon ucha na modlitwe moich nieobludnych ust. </v>
+<v n="2"> Niech wyrok o mnie wyjdzie sprzed twego oblicza, niech twoje oczy widza to, co sluszne. </v>
+<v n="3"> Doswiadczyles moje serce, nawiedziles mnie noca, wyprobowales mnie ogniem, ale nic nie znalazles. Postanowilem, ze moje usta nie zgrzesza. </v>
+<v n="4"> Co sie tyczy spraw ludzkich, dzieki slowom twoich ust wystrzegalem sie drog okrutnika. </v>
+<v n="5"> Zatrzymaj moje kroki na twoich drogach, aby nie zachwialy sie moje nogi. </v>
+<v n="6"> Wzywam cie, Boze, bo mnie wysluchasz. Naklon ku mnie swego ucha, wysluchaj moich slow. </v>
+<v n="7"> Okaz swoje milosierdzie, ty, ktory wybawiasz ufajacych tobie od tych, ktorzy powstaja przeciwko twojej prawicy. </v>
+<v n="8"> Strzez mnie jak zrenicy oka, ukryj mnie w cieniu swych skrzydel; </v>
+<v n="9"> Przed niegodziwymi, ktorzy mnie gnebia, przed wrogami mojej duszy, ktorzy mnie osaczyli. </v>
+<v n="10"> Okryli sie swoim tluszczem, zuchwale mowia swymi ustami. </v>
+<v n="11"> Gdziekolwiek idziemy, otaczaja nas, wytezaja swoj wzrok, aby nas powalic na ziemie. </v>
+<v n="12"> Podobni sa do lwa zadnego lupu, do lwiatka siedzacego w ukryciu. </v>
+<v n="13"> Powstan, PANIE, wystap przeciwko niemu i powal go, swoim mieczem ocal moja dusze od niegodziwego; </v>
+<v n="14"> A swoja reka, PANIE, od ludzi, od ludzi tego swiata, ktorych udzialem jest to zycie, a ktorych brzuchy napelniasz swymi skarbami, tak ze nasyceni sa nawet ich synowie, a reszte zostawiaja ich dzieciom. </v>
+<v n="15"> Ja zas w sprawiedliwosci ujrze twe oblicze, a gdy sie obudze, nasyce sie twoim podobienstwem. </v>
+</c>

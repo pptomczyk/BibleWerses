@@ -1,0 +1,25 @@
+<v n="1"> PAN mowil dalej do Hioba: </v>
+<v n="2"> Czy ten, co wiedzie spor z Wszechmogacym, bedzie go pouczal? Niech na to odpowie ten, ktory strofuje Boga. </v>
+<v n="3"> Wtedy Hiob odpowiedzial PANU: </v>
+<v n="4"> Oto jestem nedzny, coz ci odpowiem? Przyloze swoja reke do ust. </v>
+<v n="5"> Raz mowilem i drugi, ale wiecej nie odpowiem, niczego wiecej nie dodam. </v>
+<v n="6"> Nadto PAN odpowiedzial Hiobowi sposrod wichru: </v>
+<v n="7"> Przepasz teraz swe biodra jak mezczyzna: bede cie pytal, a ty mnie pouczysz. </v>
+<v n="8"> Czy chcesz wniwecz obrocic moj sad? Czy potepisz mnie, aby usprawiedliwic samego siebie? </v>
+<v n="9"> Czy masz ramie jak Bog? Czy zagrzmisz glosem jak on? </v>
+<v n="10"> Ozdob sie teraz w majestat i dostojenstwo, przyoblecz sie w chwale i piekno. </v>
+<v n="11"> Rozlej swoj gwaltowny gniew, spojrz na kazdego pysznego i poniz go. </v>
+<v n="12"> Spojrz na kazdego pysznego i upokorz go, zdepcz niegodziwych na ich miejscu. </v>
+<v n="13"> Zakryj ich razem w prochu, zamknij w ukryciu ich oblicza. </v>
+<v n="14"> Wtedy i ja ci wyznam, ze twoja prawica moze cie wybawic. </v>
+<v n="15"> Oto behemot, ktorego stworzylem wraz z toba; je trawe jak wol. </v>
+<v n="16"> Oto jego sila jest w jego biodrach, a jego moc w pepku jego brzucha. </v>
+<v n="17"> Rusza swoim ogonem jak cedrem, sciegna jego bioder sa splecione. </v>
+<v n="18"> Jego kosci jak rury spizowe; jego kosci jak dragi zelazne. </v>
+<v n="19"> On jest przednim dzielem Boga. Ten, ktory go uczynil, sam moze na niego natrzec swoim mieczem. </v>
+<v n="20"> Zywnosc dostarczaja mu gory, gdzie wszystkie polne zwierzeta hasaja. </v>
+<v n="21"> Lezy pod cienistymi drzewami, w ukryciu trzcin i bagien. </v>
+<v n="22"> Drzewa cieniste oslaniaja go cieniem, wierzby potoku otaczaja go. </v>
+<v n="23"> Oto wypija rzeke i nie spieszy sie, bedac pewny, ze moze wchlonac Jordan do swojej paszczy. </v>
+<v n="24"> Czy mozna go zlapac za oczy albo powrozy przeciagnac mu przez nozdrza? </v>
+</c>

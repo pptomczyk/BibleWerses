@@ -1,0 +1,18 @@
+<v n="1"> Kiedy Mardocheusz dowiedzial sie o wszystkim, co sie stalo, rozdarl swoje szaty i przyodzial sie w wor, nastepnie posypal sie popiolem, wyszedl na srodek miasta i lamentowal glosno i gorzko. </v>
+<v n="2"> I doszedl az do bramy krolewskiej, gdyz nie wolno bylo wejsc w brame krolewska przyodzianemu w wor. </v>
+<v n="3"> W kazdej prowincji, gdzie tylko dotarl rozkaz krola i jego dekret, nastala wielka zaloba wsrod Zydow, nastal tez post, placz i lament, a wielu lezalo w worze i w popiele. </v>
+<v n="4"> Przyszly wiec sluzace Estery i jej eunuchowie i opowiedzieli jej o tym. Wtedy krolowa bardzo sie zasmucila i poslala szaty, aby ubrac Mardocheusza i zdjac z niego wor. Ale on ich nie przyjal. </v>
+<v n="5"> Wtedy Estera zawolala Hataka, jednego z eunuchow krola, ktorego on dal jej do poslugi, i rozkazala mu pojsc do Mardocheusza, aby sie dowiedzial, co to ma znaczyc i dlaczego tak sie stalo. </v>
+<v n="6"> Wyszedl wiec Hatak do Mardocheusza na plac miejski, ktory byl przed brama krolewska; </v>
+<v n="7"> I Mardocheusz opowiedzial mu wszystko, co mu sie przydarzylo, takze o sumie srebra, ktora Haman obiecal odwazyc do skarbca krolewskiego za Zydow, aby zostali wytraceni. </v>
+<v n="8"> Ponadto dal mu odpis dekretu o ich zagladzie, ktory ogloszono w Suzie, aby pokazal go Esterze, powiadomil ja i rozkazal, aby poszla do krola, blagajac go o swoj lud i wstawiajac sie za nim. </v>
+<v n="9"> Przyszedl wiec Hatak i przekazal Esterze slowa Mardocheusza. </v>
+<v n="10"> I Estera odpowiedziala Hatakowi i polecila mu isc do Mardocheusza: </v>
+<v n="11"> Wszyscy sludzy krola oraz lud z prowincji krolewskich wiedza, ze ktokolwiek – mezczyzna lub kobieta – wejdzie do krola na dziedziniec wewnetrzny, nie bedac wezwany, podlega tylko jednemu prawu – ma zostac zabity, z wyjatkiem tego, nad ktorym krol wyciagnie zlote berlo, ten zostanie przy zyciu. Ale mnie nie wezwano, aby wejsc do krola, juz od trzydziestu dni. </v>
+<v n="12"> I powiedziano Mardocheuszowi slowa Estery. </v>
+<v n="13"> Wtedy Mardocheusz polecil przekazac Esterze taka odpowiedz: Nie mysl sobie, ze ty jedna sposrod wszystkich Zydow ocalejesz w domu krolewskim. </v>
+<v n="14"> Jesli bowiem ty calkowicie bedziesz milczec w tym czasie, uwolnienie i wybawienie dla Zydow przyjdzie z innego miejsca, ale ty i dom twego ojca zginiecie. A kto wie, czy nie na te wlasnie chwile dostapilas godnosci krolestwa? </v>
+<v n="15"> Estera polecila, by odpowiedziano Mardocheuszowi: </v>
+<v n="16"> Idz, zbierz wszystkich Zydow, ktorzy sie znajduja w Suzie, i posccie za mnie, nie jedzcie ani nie pijcie przez trzy dni, noca i dniem. Ja takze i moje sluzace bedziemy poscic, a potem wejde do krola, choc to niezgodne z prawem. A jesli zgine, to zgine. </v>
+<v n="17"> Poszedl wiec Mardocheusz i uczynil wszystko, co mu rozkazala Estera. </v>
+</c>

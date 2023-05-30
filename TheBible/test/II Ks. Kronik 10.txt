@@ -1,0 +1,20 @@
+<v n="1"> Roboam udal sie do Sychem, gdyz do Sychem przybyl caly Izrael, aby ustanowic go krolem. </v>
+<v n="2"> A gdy uslyszal o tym Jeroboam, syn Nebata, ktory byl w Egipcie, dokad uciekl przed krolem Salomonem, wrocil z Egiptu; </v>
+<v n="3"> Wtedy poslano po niego i wezwano go. Przyszedl wiec Jeroboam wraz z calym Izraelem i powiedzieli do Roboama: </v>
+<v n="4"> Twoj ojciec wlozyl na nas ciezkie jarzmo. Teraz wiec ty ulzyj nam w srogiej niewoli swego ojca i w ciezkim jarzmie, ktore wlozyl na nas, a bedziemy ci sluzyc. </v>
+<v n="5"> Odpowiedzial im: Wroccie do mnie po trzech dniach. I lud odszedl. </v>
+<v n="6"> Wtedy krol Roboam radzil sie starszych, ktorzy stawali przed Salomonem, jego ojcem, gdy jeszcze zyl, pytajac: Jaka odpowiedz radzicie dac temu ludowi? </v>
+<v n="7"> Odpowiedzieli mu: Jesli bedziesz dla tego ludu dobry, okazesz im zyczliwosc i bedziesz mowil do nich lagodne slowa, to beda twoimi slugami przez wszystkie dni. </v>
+<v n="8"> Ale on odrzucil rade starszych, ktora mu dali, i radzil sie mlodziencow, ktorzy razem z nim wzrosli i stawali przed nim. </v>
+<v n="9"> I zapytal ich: A co wy radzicie odpowiedziec temu ludowi, ktory poprosil mnie: Ulzyj nam w jarzmie, ktore wlozyl na nas twoj ojciec? </v>
+<v n="10"> Wtedy mlodziency, ktorzy razem z nim wzrosli, odpowiedzieli mu: Tak odpowiesz temu ludowi, ktory powiedzial tobie: Twoj ojciec wlozyl na nas ciezkie jarzmo, ale ty nam ulzyj; tak im powiesz: Moj maly palec jest grubszy niz biodra mojego ojca. </v>
+<v n="11"> Teraz wiec chociaz moj ojciec nalozyl na was ciezkie jarzmo, ja doloze do waszego jarzma. Moj ojciec karcil was biczami, ale ja bede was karcil skorpionami. </v>
+<v n="12"> Przyszedl wiec Jeroboam i caly lud do Roboama trzeciego dnia, tak jak krol nakazal, mowiac: Wroccie do mnie na trzeci dzien. </v>
+<v n="13"> I krol odpowiedzial im surowo, bo odrzucil krol Roboam rade starcow. </v>
+<v n="14"> I przemowil do nich wedlug rady mlodziencow, mowiac: Moj ojciec obciazyl was ciezkim jarzmem, ale ja doloze do niego. Moj ojciec karcil was biczami, ale ja bede was karcil skorpionami. </v>
+<v n="15"> Krol wiec nie usluchal ludu, sprawa bowiem wyszla od Boga, aby PAN spelnil swoje slowo, ktore wypowiedzial przez Achiasza Szilonite do Jeroboama, syna Nebata. </v>
+<v n="16"> A gdy caly Izrael zobaczyl, ze krol ich nie usluchal, lud odpowiedzial krolowi: Jakiz dzial mamy w Dawidzie? Nie mamy dziedzictwa w synu Jessego. Idzcie kazdy do swoich namiotow, Izraelu! A ty, Dawidzie, troszcz sie teraz o swoj dom. I rozszedl sie caly Izrael do swoich namiotow. </v>
+<v n="17"> Tylko nad synami Izraela, ktorzy mieszkali w miastach Judy, krolowal Roboam. </v>
+<v n="18"> Wtedy krol Roboam poslal do synow Izraela Hadorama, ktory byl poborca, a oni ukamienowali go tak, ze umarl. Krol Roboam wsiadl wiec w pospiechu na rydwan i uciekl do Jerozolimy. </v>
+<v n="19"> I w ten sposob Izrael zbuntowal sie przeciwko domowi Dawida az do dzis. </v>
+</c>

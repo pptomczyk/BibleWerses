@@ -1,0 +1,19 @@
+<v n="1"> Piesn i psalm dla synow Korego, przewodnikowi choru, na Machalat do spiewania, pouczajacy, od Hemana Ezrachity. PANIE, Boze mego zbawienia, we dnie i w nocy wolam do ciebie. </v>
+<v n="2"> Niech dojdzie do ciebie moja modlitwa, naklon swego ucha na moje wolanie. </v>
+<v n="3"> Moja dusza bowiem jest nasycona utrapieniem, a moje zycie zbliza sie do grobu. </v>
+<v n="4"> Zaliczono mnie do tych, ktorzy zstepuja do dolu; stalem sie jak czlowiek bez sily. </v>
+<v n="5"> Zaliczono mnie do umarlych; jestem jak zabici, ktorzy leza w grobie, o ktorych juz nie pamietasz i ktorzy sa odlaczeni od twojej reki. </v>
+<v n="6"> Straciles mnie w najglebszy dol, w ciemnosci, w glebie. </v>
+<v n="7"> Twoj gniew ciazy na mnie i przytloczyles mnie wszystkimi twymi falami. Sela. </v>
+<v n="8"> Oddaliles ode mnie moich znajomych, uczyniles mnie dla nich ohyda; jestem uwieziony i nie mam wyjscia. </v>
+<v n="9"> Moje oko placze nad moim utrapieniem; wzywam cie, PANIE, codziennie, wyciagam do ciebie swe rece. </v>
+<v n="10"> Czy dla umarlych bedziesz czynil cuda? Czy umarli powstana, aby cie wyslawiac? Sela. </v>
+<v n="11"> Czy w grobie bedzie sie opowiadac o twoim milosierdziu, a o twojej wiernosci – w zniszczeniu? </v>
+<v n="12"> Czy twoje cuda pozna sie w ciemnosciach, a twoja sprawiedliwosc w ziemi zapomnienia? </v>
+<v n="13"> Lecz ja, PANIE, do ciebie wolam; rankiem wita cie moja modlitwa. </v>
+<v n="14"> Dlaczego, PANIE, odrzucasz moja dusze i ukrywasz przede mna swoje oblicze? </v>
+<v n="15"> Jestem strapiony i od mlodosci bliski smierci; znosze twoja groze i trwoze sie. </v>
+<v n="16"> Twoj srogi gniew spadl na mnie i wyniszczyla mnie twoja groza. </v>
+<v n="17"> Ogarniaja mnie co dzien jak woda, wszystkie mnie otaczaja. </v>
+<v n="18"> Oddaliles ode mnie przyjaciela i towarzysza, a moich znajomych – w ciemnosci. </v>
+</c>

@@ -1,0 +1,21 @@
+<v n="1"> Gdy wyruszysz na wojne przeciw swoim wrogom i zobaczysz konie, rydwany i lud liczniejszy od ciebie, nie boj sie ich, gdyz jest z toba PAN, twoj Bog, ktory cie wyprowadzil z ziemi Egiptu. </v>
+<v n="2"> A gdy bedziecie sie zblizac do walki, kaplan wystapi i przemowi do ludu; </v>
+<v n="3"> I powie do niego: Sluchaj, Izraelu! Dzis staczacie bitwe ze swymi wrogami. Niech wasze serce nie slabnie, nie bojcie sie, nie trwozcie ani nie lekajcie sie ich; </v>
+<v n="4"> Gdyz PAN, wasz Bog, idzie z wami, aby za was walczyc z waszymi wrogami i was wybawic. </v>
+<v n="5"> Dowodcy rowniez przemowia do ludu i powiedza: Jesli jest ktos, kto zbudowal nowy dom, a jeszcze go nie poswiecil, niech idzie i wraca do swego domu, aby nie zginal w bitwie i aby ktos inny go nie poswiecil. </v>
+<v n="6"> Albo jesli jest ktos, kto zasadzil winnice i jeszcze nie spozywal z niej owocu, niech idzie i wraca do swego domu, by nie zginal w bitwie i aby ktos inny z niej nie spozywal. </v>
+<v n="7"> Albo jesli jest ktos, kto poslubil zone, a jeszcze jej nie pojal, niech idzie i wraca do swego domu, by nie zginal w bitwie i aby inny jej nie pojal. </v>
+<v n="8"> Dowodcy jeszcze przemowia do ludu i powiedza: Jesli ktos jest bojazliwy i lekliwego serca, niech idzie i wraca do swego domu, aby serce jego braci nie bylo slabe jak jego serce jest slabe. </v>
+<v n="9"> A gdy dowodcy przestana mowic do ludu, wtedy wyznacza dowodcow wojsk na czele ludu. </v>
+<v n="10"> Gdy podejdziesz do jakiegos miasta, aby je zdobyc, zaoferujesz mu pokoj. </v>
+<v n="11"> A jesli odpowie ci z pokojem i otworzy ci bramy, wtedy caly lud znajdujacy sie w nim stanie sie twoim holdownikiem i bedzie ci sluzyl. </v>
+<v n="12"> Jesli jednak nie zawrze z toba pokoju, lecz wznieci przeciw tobie wojne, oblegniesz je. </v>
+<v n="13"> A gdy PAN, twoj Bog, wyda je w twoje rece, zabijesz w nim kazdego mezczyzne ostrzem miecza. </v>
+<v n="14"> Tylko kobiety, dzieci, bydlo oraz wszystko, co bedzie w miescie, caly lup z niego, wezmiesz sobie jako zdobycz; i bedziesz jadl z lupu swoich wrogow, ktorych daje ci PAN, twoj Bog. </v>
+<v n="15"> Tak postapisz ze wszystkimi miastami bardzo oddalonymi od ciebie, ktore nie naleza do miast tych narodow. </v>
+<v n="16"> Ale z miast tych narodow, ktore PAN, twoj Bog, daje ci w dziedzictwo, zadnej duszy nie zostawisz przy zyciu. </v>
+<v n="17"> Lecz doszczetnie je wytepisz: Chetytow, Amorytow, Kananejczykow, Peryzzytow, Chiwwitow i Jebusytow, jak ci nakazal PAN, twoj Bog; </v>
+<v n="18"> Aby nie uczyli was czynic wedlug wszystkich swoich obrzydliwosci, jakie czynili swym bogom, i abyscie nie zgrzeszyli przeciw PANU, swojemu Bogu. </v>
+<v n="19"> Gdy przez wiele dni bedziesz oblegal jakies miasto, walczac przeciwko niemu, aby je zdobyc, nie niszcz jego drzew, wycinajac je siekiera. Bedziesz bowiem z nich jesc, wiec nie wycinaj ich (bo drzewa polne sa dla zycia czlowieka), aby ich uzyc do oblezenia. </v>
+<v n="20"> Tylko te drzewa, o ktorych wiesz, ze nie rodza owocow, zniszczysz i wytniesz; i zbudujesz narzedzia przeciwko temu miastu, ktore z toba walczy, az je opanujesz. </v>
+</c>

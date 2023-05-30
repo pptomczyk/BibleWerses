@@ -1,0 +1,17 @@
+<v n="1"> Elihu mowil dalej: </v>
+<v n="2"> Czy uwazasz to za sluszne, ze powiedziales: Mam wiecej sprawiedliwosci niz Bog? </v>
+<v n="3"> Powiedziales bowiem: Coz mi pomoze? Jaki bede mial pozytek z tego, ze zostane oczyszczony z grzechu? </v>
+<v n="4"> Odpowiem dowodnie tobie i twoim towarzyszom wraz z toba. </v>
+<v n="5"> Spojrz w niebo i zobacz, przypatrz sie oblokom, ktore sa wyzej od ciebie. </v>
+<v n="6"> Jesli zgrzeszysz, co zrobisz przeciwko niemu? A jesli pomnoza sie twoje nieprawosci, co mu uczynisz? </v>
+<v n="7"> Jesli jestes sprawiedliwy, co mu dajesz? Albo co otrzymuje z twojej reki? </v>
+<v n="8"> Twoja niegodziwosc zaszkodzi czlowiekowi takiemu jak ty, a twoja sprawiedliwosc pomoze synowi czlowieka. </v>
+<v n="9"> Ludzie krzycza z powodu mnostwa uciskow, wolaja z powodu ramienia mocarzy. </v>
+<v n="10"> Ale nikt nie mowi: Gdzie jest Bog, moj Stworca, ktory w nocy daje piesni; </v>
+<v n="11"> Ten, ktory uczy nas wiecej niz zwierzeta ziemskie i czyni nas madrzejszymi od ptactwa niebieskiego? </v>
+<v n="12"> Tak wiec wolaja, ale nikt nie wysluchuje z powodu pychy zlych ludzi. </v>
+<v n="13"> Doprawdy, Bog nie wyslucha slow obludy, Wszechmocny na nia nie zwaza. </v>
+<v n="14"> Chociaz mowisz, ze go nie widzisz, sad jest przed nim, wiec mu zaufaj. </v>
+<v n="15"> Teraz jednak jego gniew spadl na ciebie w niewielkim stopniu, jakby nie znal wielkosci twoich grzechow. </v>
+<v n="16"> Dlatego Hiob na prozno otwiera swe usta; mnozy slowa bez poznania. </v>
+</c>

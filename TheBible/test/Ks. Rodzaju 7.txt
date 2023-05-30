@@ -1,0 +1,25 @@
+<v n="1"> Potem PAN powiedzial do Noego: Wejdz ty wraz z calym twoim domem do arki, gdyz widzialem cie, ze jestes sprawiedliwy przede mna w tym pokoleniu. </v>
+<v n="2"> Z kazdego zwierzecia czystego wez sobie po siedem par, samca i samice jego; ale ze zwierzat nieczystych – po jednej parze, samca i samice jego. </v>
+<v n="3"> Takze z ptactwa niebieskiego po siedem par, samca i samice, aby zachowac przy zyciu ich potomstwo na calej powierzchni ziemi. </v>
+<v n="4"> Pozostaje bowiem jeszcze siedem dni, a potem spuszcze deszcz na ziemie, na czterdziesci dni i czterdziesci nocy, i zgladze z powierzchni ziemi wszelkie stworzenie, ktore uczynilem. </v>
+<v n="5"> Noe uczynil wiec wszystko, co mu PAN rozkazal. </v>
+<v n="6"> Noe mial szescset lat, gdy przyszedl potop wod na ziemie. </v>
+<v n="7"> I wszedl Noe, a z nim jego synowie, jego zona i zony jego synow do arki ze wzgledu na wody potopu. </v>
+<v n="8"> Ze zwierzat czystych i nieczystych i z ptactwa, i ze wszystkiego, co pelza po ziemi; </v>
+<v n="9"> Po parze weszlo do Noego do arki, samiec i samica, jak Bog rozkazal Noemu. </v>
+<v n="10"> A po siedmiu dniach wody potopu spadly na ziemie. </v>
+<v n="11"> W szescsetnym roku zycia Noego, w drugim miesiacu, siedemnastego dnia tego miesiaca, w tym wlasnie dniu, przerwaly sie wszystkie zrodla wielkiej glebi i otworzyly sie okna nieba. </v>
+<v n="12"> I deszcz padal na ziemie czterdziesci dni i czterdziesci nocy. </v>
+<v n="13"> W tym wlasnie dniu weszli do arki Noe oraz jego synowie – Sem, Cham i Jafet, a z nimi zona Noego i trzy zony jego synow. </v>
+<v n="14"> Oni i wszelkie zwierzeta wedlug swego rodzaju, wszelkie bydlo wedlug swego rodzaju, wszelkie zwierzeta pelzajace, ktore pelzaja po ziemi wedlug swego rodzaju, wszelkie ptaki wedlug swego rodzaju i wszelkie stworzenia skrzydlate. </v>
+<v n="15"> I tak weszly do Noego do arki, po parze z kazdego ciala, w ktorym bylo tchnienie zycia. </v>
+<v n="16"> A te, ktore weszly, samiec i samica z kazdego ciala weszly, jak mu Bog rozkazal. I zamknal PAN za nim drzwi. </v>
+<v n="17"> A potop trwal na ziemi czterdziesci dni i wody wezbraly, i podniosly arke, i unosila sie nad ziemia. </v>
+<v n="18"> Wody wzmogly sie i wezbraly bardzo nad ziemia, i plywala arka po wodach. </v>
+<v n="19"> I wody bardzo sie wzmogly nad ziemia, i zakryly wszystkie wysokie gory, ktore byly pod calym niebem. </v>
+<v n="20"> Wody wezbraly na pietnascie lokci wzwyz i gory zostaly zakryte. </v>
+<v n="21"> Zginelo wiec wszelkie cialo poruszajace sie na ziemi: ptactwo, bydlo, zwierzeta i wszelkie zwierzeta pelzajace, ktore pelzaja po ziemi, i wszyscy ludzie. </v>
+<v n="22"> Wszystko, co mialo w nozdrzach tchnienie zycia, wszystko, co zylo na suchym ladzie, zginelo. </v>
+<v n="23"> Tak zostalo zgladzone wszelkie stworzenie, ktore bylo na powierzchni ziemi, od czlowieka az do bydla, zwierzat pelzajacych i ptactwa niebieskiego. Wszystko to zostalo zgladzone z ziemi. Pozostal tylko Noe i ci, ktorzy z nim byli w arce. </v>
+<v n="24"> A wody wezbraly nad ziemia sto piecdziesiat dni. </v>
+</c>

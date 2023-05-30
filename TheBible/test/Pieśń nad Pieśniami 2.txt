@@ -1,0 +1,18 @@
+<v n="1"> Jestem roza Saronu i lilia dolin. </v>
+<v n="2"> Jak lilia miedzy cierniami, tak moja umilowana miedzy pannami. </v>
+<v n="3"> Jak jablon miedzy lesnymi drzewami, tak moj mily miedzy mlodziencami. Z wielkim pragnieniem usiadlam w jego cieniu, a jego owoc jest slodki memu podniebieniu. </v>
+<v n="4"> Wprowadzil mnie do komnaty biesiadnej, a jego choragwia nade mna jest milosc. </v>
+<v n="5"> Pokrzepcie mnie buklakami, posilcie mnie jablkami, bo jestem chora z milosci. </v>
+<v n="6"> Jego lewa reka pod moja glowa, a jego prawa reka mnie obejmuje. </v>
+<v n="7"> Zaklinam was, corki Jerozolimy, na sarny i lanie polne: Nie budzcie mego umilowanego i nie przerywajcie jego snu, dopoki nie zechce. </v>
+<v n="8"> Glos mego umilowanego! Oto idzie, skaczac po gorach, a podskakujac po pagorkach. </v>
+<v n="9"> Moj umilowany podobny jest do sarny albo mlodego jelenia. Oto stoi za naszym murem, zaglada przez okna, patrzy przez kraty. </v>
+<v n="10"> Moj umilowany odezwal sie i powiedzial mi: Wstan, moja umilowana, moja piekna, i chodz! </v>
+<v n="11"> Oto bowiem minela zima, deszcz ustal i przeszedl. </v>
+<v n="12"> Kwiatki pokazaly sie na ziemi, nadszedl czas spiewania i glos synogarlicy slychac w naszej ziemi. </v>
+<v n="13"> Drzewo figowe juz wypuscilo swoje niedojrzale figi, a kwitnaca winorosl wydaje swoja won. Wstan, moja umilowana, moja piekna, i chodz! </v>
+<v n="14"> Moja golebico, mieszkajaca w skalnych szczelinach, w stromych kryjowkach, ukaz mi swoja twarz, daj mi uslyszec swoj glos, gdyz twoj glos jest slodki i twoja twarz piekna. </v>
+<v n="15"> Schwytajcie nam lisy, male lisy, ktore psuja winnice, poniewaz nasze winnice kwitna. </v>
+<v n="16"> Moj umilowany jest moj, a ja jestem jego. Pasie on wsrod lilii. </v>
+<v n="17"> Nim zaswita dzien i znikna cienie, zawroc, moj umilowany, badz jak sarna albo mlode jelenie na gorach Beter. </v>
+</c>

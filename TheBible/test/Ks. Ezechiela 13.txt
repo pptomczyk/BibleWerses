@@ -1,0 +1,24 @@
+<v n="1"> I doszlo do mnie slowo PANA mowiace: </v>
+<v n="2"> Synu czlowieczy, prorokuj przeciw prorokom Izraela, ktorzy prorokuja, i mow do tych, ktorzy prorokuja z wlasnego serca: Sluchajcie slowa PANA. </v>
+<v n="3"> Tak mowi Pan BOG: Biada glupim prorokom, ktorzy ida za swoim duchem, choc nic nie widzieli! </v>
+<v n="4"> Izraelu, twoi prorocy sa jak lisy na pustyniach. </v>
+<v n="5"> Nie wstapiliscie na wylomy ani nie uzupelniliscie muru wokol domu Izraela, aby mogl ostac sie w bitwie w dzien PANA. </v>
+<v n="6"> Widza ulude i klamliwe wrozby i mowia: PAN mowi, choc PAN ich nie poslal. I daja nadzieje ludowi, ze ich slowo sie spelni. </v>
+<v n="7"> Czy nie mieliscie zludnego widzenia i nie glosiliscie klamliwej wrozby? Mowicie bowiem: PAN mowi, chociaz ja nie mowilem. </v>
+<v n="8"> Dlatego tak mowi Pan BOG: Poniewaz mowicie rzeczy zludne i widzicie klamstwo, oto ja jestem przeciwko wam, mowi Pan BOG. </v>
+<v n="9"> I moja reka bedzie przeciwko prorokom, ktorzy widza rzeczy zludne i wroza klamstwo. Nie beda w zgromadzeniu mego ludu i w poczet domu Izraela nie beda wpisani, i do ziemi Izraela nie wejda. A poznacie, ze ja jestem Pan BOG. </v>
+<v n="10"> Dlatego, wlasnie dlatego, ze zwodzili moj lud, mowiac: Pokoj, choc nie bylo pokoju; jeden zbudowal gliniana sciane, a inni tynkowali ja slabym tynkiem. </v>
+<v n="11"> Mow do tych, ktorzy ja tynkuja slabym tynkiem: Zawali sie. Przyjdzie ulewny deszcz, a wy, wielkie kule gradu, spadniecie, i gwaltowny wiatr ja zburzy. </v>
+<v n="12"> A oto gdy sciana runie, czy nie powiedza wam: Gdzie jest tynk, ktorym tynkowaliscie? </v>
+<v n="13"> Dlatego tak mowi Pan BOG: W mojej zapalczywosci zburze ja gwaltownym wiatrem; na skutek mojego gniewu przyjdzie ulewny deszcz i na skutek mojego oburzenia przyjdzie wielki grad, by ja zniszczyc. </v>
+<v n="14"> I zburze te sciane, ktora tynkowaliscie slabym tynkiem, zrownam ja z ziemia tak, ze jej fundamenty zostana odsloniete, i runie, a wy zginiecie posrod niej. I poznacie, ze ja jestem PANEM. </v>
+<v n="15"> A gdy dopelnie mojego gniewu nad ta sciana i nad tymi, ktorzy ja tynkowali slabym tynkiem, powiem do was: Nie ma juz tej sciany, nie ma tych, ktorzy ja tynkowali; </v>
+<v n="16"> To jest prorokow Izraela, ktorzy prorokuja o Jerozolimie i maja o niej widzenia pokoju, choc nie ma pokoju, mowi Pan BOG. </v>
+<v n="17"> Ale ty, synu czlowieczy, zwroc swa twarz przeciwko corkom swego ludu, ktore prorokuja z wlasnego serca, i prorokuj przeciwko nim; </v>
+<v n="18"> I mow: Tak mowi Pan BOG: Biada tym kobietom, ktore szyja poduszki pod wszystkie lokcie rak mego ludu i robia nakrycia glowy dla ludzi kazdego wzrostu, aby lowic dusze! Czy bedziecie lowic dusze mego ludu, aby zachowac dusze, ktore przybeda do was? </v>
+<v n="19"> Bo bezczescicie mnie wobec mego ludu dla garsci jeczmienia i dla kesa chleba, zabijajac dusze, ktore nie powinny umrzec, a oszczedzajac dusze, ktore nie powinny zyc – gdy oklamujecie moj lud, ktory slucha klamstwa. </v>
+<v n="20"> Dlatego tak mowi Pan BOG: Oto wystapie przeciwko waszym poduszkom, ktorymi lowicie dusze, aby je zwiesc. Zerwe je z waszych ramion i wypuszcze dusze, ktore lowicie, aby je zwiesc. </v>
+<v n="21"> I rozerwe wasze nakrycia, i wybawie swoj lud z waszej reki, aby juz nie byl lupem w waszym reku. I poznacie, ze ja jestem PANEM. </v>
+<v n="22"> Poniewaz zasmucacie klamstwem serce sprawiedliwego, chociaz ja go nie zasmucilem, i wzmacniacie rece bezboznego, aby sie nie odwrocil od swojej zlej drogi, ozywiajac go; </v>
+<v n="23"> Dlatego nie bedziecie juz miec widzen zludnych i nie bedziecie prorokowac zadnej wrozby. Wyrwe bowiem swoj lud z waszej reki i poznacie, ze ja jestem PANEM. </v>
+</c>

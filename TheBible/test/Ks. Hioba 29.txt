@@ -1,0 +1,26 @@
+<v n="1"> Hiob ciagnal swoja przypowiesc i mowil: </v>
+<v n="2"> Obym byl taki jak za dawnych miesiecy, za tych dni, w ktorych Bog mnie strzegl; </v>
+<v n="3"> Gdy jego pochodnia swiecila nad moja glowa, a przy jego swietle przechodzilem w ciemnosci; </v>
+<v n="4"> Taki, jaki bylem za dni swojej mlodosci, gdy tajemnica Boga pozostawala nad moim namiotem; </v>
+<v n="5"> Gdy Wszechmocny byl jeszcze ze mna i otaczaly mnie moje dzieci; </v>
+<v n="6"> Gdy moje sciezki oplywaly w maslo, a opoka wylewala mi zrodla oliwy; </v>
+<v n="7"> Gdy wychodzilem do bramy przez miasto i na rynku przygotowalem sobie miejsce. </v>
+<v n="8"> Widzac mnie, mlodzi ukrywali sie, a starcy podnosili sie i stali. </v>
+<v n="9"> Ksiazeta przestawali mowic i kladli reke na swoich ustach. </v>
+<v n="10"> Glos dostojnikow cichl, a ich jezyk przylegal im do podniebienia. </v>
+<v n="11"> Ucho, ktore mnie slyszalo, blogoslawilo mnie, a oko, ktore mnie widzialo, dawalo o mnie swiadectwo; </v>
+<v n="12"> Bo wybawialem ubogiego, gdy wolal, sierote oraz tego, ktory nie mial pomocnika. </v>
+<v n="13"> Blogoslawienstwo ginacego przychodzilo do mnie, a serce wdowy radowalem. </v>
+<v n="14"> Przyobleklem sie w sprawiedliwosc i ona mnie okryla. Moj sad byl jak plaszcz i korona. </v>
+<v n="15"> Bylem oczami dla slepego, a nogami dla chromego. </v>
+<v n="16"> Bylem ojcem ubogich, a sprawe, ktorej nie znalem, badalem. </v>
+<v n="17"> I kruszylem szczeke niegodziwca, a z jego zebow wydzieralem lup. </v>
+<v n="18"> Dlatego powiedzialem: Umre w swoim gniezdzie, rozmnoze swoje dni jak piasek. </v>
+<v n="19"> Moj korzen rozciagnal sie przy wodach, a rosa trwala cala noc na moich galazkach. </v>
+<v n="20"> Moja chwala odswiezala sie we mnie, a moj luk odnowil sie w mojej rece. </v>
+<v n="21"> Sluchali mnie i oczekiwali, przyjmowali moja rade w milczeniu. </v>
+<v n="22"> Po moich slowach juz nie mowili, moja mowa kropila na nich. </v>
+<v n="23"> Oczekiwali mnie jak deszczu, otwierali swe usta jak na pozny deszcz. </v>
+<v n="24"> Jesli sie smialem do nich, nie wierzyli, a swiatla mojej twarzy nie odrzucali. </v>
+<v n="25"> Wytyczalem im droge, siadalem na czele i przybywalem jak krol wsrod wojska, jak ten, ktory smutnych pociesza. </v>
+</c>

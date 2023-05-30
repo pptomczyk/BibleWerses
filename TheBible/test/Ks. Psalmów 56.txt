@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi choru, na Jonat elem rechokim. Miktam Dawida, gdy Filistyni schwytali go w Gat. Zmiluj sie nade mna, Boze, bo chce mnie pochlonac czlowiek; kazdego dnia uciska mnie walka. </v>
+<v n="2"> Moi wrogowie kazdego dnia chca mnie polknac; wielu bowiem walczy przeciwko mnie, o Najwyzszy. </v>
+<v n="3"> Ilekroc strach mnie ogarnia, ufam tobie. </v>
+<v n="4"> W Bogu bede wyslawiac jego slowo; Bogu ufam i nie bede sie bal tego, co czlowiek moze mi uczynic. </v>
+<v n="5"> Przez caly dzien przekrecaja moje slowa, przeciwko mnie kieruja wszystkie swe zamysly, ku memu nieszczesciu. </v>
+<v n="6"> Zbieraja sie, ukrywaja i sledza moje kroki, czyhajac na moja dusze. </v>
+<v n="7"> Czy unikna zemsty za nieprawosc? Boze, powal te narody w swoim gniewie. </v>
+<v n="8"> Ty policzyles dni mojej tulaczki, zbierz tez moje lzy do swego buklaka; czyz nie sa spisane w twojej ksiedze? </v>
+<v n="9"> Gdy zawolam, cofna sie moi wrogowie; to wiem, bo Bog jest ze mna. </v>
+<v n="10"> W Bogu bede wyslawiac jego slowa, w PANU bede chwalic jego slowo. </v>
+<v n="11"> Bogu ufam, nie bede sie bal tego, co mi moze uczynic czlowiek. </v>
+<v n="12"> Tobie, Boze, sluby zlozylem, dlatego tez tobie oddam chwale. </v>
+<v n="13"> Ocaliles bowiem moja dusze od smierci, a moje nogi od upadku, abym chodzil przed Bogiem w swiatlosci zyjacych. </v>
+</c>

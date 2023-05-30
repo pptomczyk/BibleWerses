@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi choru, Jedutunowi. Psalm Dawida. Powiedzialem: Bede strzegl moich drog, abym nie zgrzeszyl jezykiem; naloze na usta wedzidlo, dopoki niegodziwy bedzie przede mna. </v>
+<v n="2"> Zaniemowilem oniemialy, zamilklem nawet w dobrej sprawie, lecz moja bolesc sie wzmagala. </v>
+<v n="3"> Rozgorzalo we mnie serce; gdy rozmyslalem, zaplonal ogien, a wtedy moj jezyk tak przemowil: </v>
+<v n="4"> PANIE, daj mi poznac moj kres i miare moich dni, abym wiedzial, jak jestem slaby. </v>
+<v n="5"> Oto wymierzyles moje dni na szerokosc dloni, a moj wiek jest niczym przed toba; zaprawde kazdy czlowiek, nawet najlepszy, jest calkowita marnoscia. Sela. </v>
+<v n="6"> Doprawdy czlowiek przemija jak cien; doprawdy na prozno sie klopocze; gromadzi, a nie wie, kto to zabierze. </v>
+<v n="7"> A teraz czego mam oczekiwac, Panie? W tobie jest moja nadzieja. </v>
+<v n="8"> Uwolnij mnie od wszystkich moich wystepkow, nie wystawiaj mnie na posmiewisko glupca. </v>
+<v n="9"> Zamilklem i nie otworzylem moich ust, bo ty to sprawiles. </v>
+<v n="10"> Oddal ode mnie twoje karanie, bo gine od uderzen twojej reki. </v>
+<v n="11"> Gdy kara chloszczesz czlowieka za nieprawosc, to jak mol niszczysz jego piekno; doprawdy marnoscia jest kazdy czlowiek. Sela. </v>
+<v n="12"> Wysluchaj mojej modlitwy, PANIE, i naklon ucha na moje wolanie; nie badz gluchy na moje lzy, bo jestem gosciem u ciebie i przychodniem, jak wszyscy moi ojcowie. </v>
+<v n="13"> Oszczedzaj mnie, abym sie wzmacnial, zanim odejde i juz mnie nie bedzie. </v>
+</c>

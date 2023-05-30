@@ -1,0 +1,23 @@
+<v n="1"> Oto imiona synow Izraela, ktorzy przybyli z Jakubem do Egiptu; kazdy przybyl ze swoja rodzina: </v>
+<v n="2"> Ruben, Symeon, Lewi i Juda; </v>
+<v n="3"> Issachar, Zebulon i Beniamin; </v>
+<v n="4"> Dan, Neftali, Gad i Aszer. </v>
+<v n="5"> A wszystkich dusz, ktore wyszly z bioder Jakuba, bylo siedemdziesiat. Jozef zas juz byl w Egipcie. </v>
+<v n="6"> Potem umarli Jozef, wszyscy jego bracia i cale to pokolenie. </v>
+<v n="7"> A synowie Izraela byli plodni, rozrodzili sie, rozmnozyli i bardzo umacniali, a ziemia byla ich pelna. </v>
+<v n="8"> Wowczas nastal nad Egiptem nowy krol, ktory nie znal Jozefa. </v>
+<v n="9"> I powiedzial do swego ludu: Oto lud synow Izraela stal sie liczniejszy i potezniejszy od nas. </v>
+<v n="10"> Postapmy wiec z nimi madrze, by sie nie rozmnozyli, bo gdyby przyszla wojna, mogliby przylaczyc sie do naszych wrogow i walczyc przeciwko nam, i opuscic ziemie. </v>
+<v n="11"> Ustanowiono wiec nad nimi nadzorcow, aby ich gnebili ciezarami. I lud Izraela zbudowal dla faraona miasta na sklady: Pitom i Ramzes. </v>
+<v n="12"> Ale im bardziej ich gnebili, tym bardziej sie rozmnazali i rosli, tak ze zatrwozyli sie z powodu synow Izraela. </v>
+<v n="13"> I Egipcjanie zmuszali synow Izraela do ciezkiej pracy. </v>
+<v n="14"> I uprzykrzali im zycie uciazliwa praca przy glinie i przy ceglach, i przy kazdej robocie na polu. Do wszelkiej pracy zmuszali ich bez litosci. </v>
+<v n="15"> I krol Egiptu rozkazal hebrajskim poloznym, z ktorych jedna miala na imie Szifra, a druga Pua; </v>
+<v n="16"> Powiedzial: Gdy bedziecie przy porodach hebrajskich kobiet i zobaczycie, ze urodzil sie syn, zabijcie go, a jesli corka, niech zostanie przy zyciu. </v>
+<v n="17"> Lecz polozne baly sie Boga i nie robily tak, jak im rozkazal krol Egiptu, ale pozostawialy chlopcow przy zyciu. </v>
+<v n="18"> Wtedy krol Egiptu wezwal polozne i powiedzial do nich: Dlaczego tak postapilyscie, ze pozostawilyscie chlopcow przy zyciu? </v>
+<v n="19"> Polozne odpowiedzialy faraonowi: Hebrajskie kobiety nie sa takie jak egipskie kobiety. Sa bowiem zywotne, rodza wczesniej, zanim przyjdzie do nich polozna. </v>
+<v n="20"> I Bog dobrze czynil tym poloznym, a lud sie mnozyl i bardzo sie wzmocnil. </v>
+<v n="21"> A poniewaz polozne baly sie Boga, zbudowal im domy. </v>
+<v n="22"> Wtedy faraon rozkazal calemu swemu ludowi: Kazdego syna, ktory sie urodzi, wrzuccie do rzeki, a kazda corke pozostawcie przy zyciu. </v>
+</c>

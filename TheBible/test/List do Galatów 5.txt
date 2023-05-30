@@ -1,0 +1,27 @@
+<v n="1"> Trwajcie wiec w tej wolnosci, ktora nas Chrystus wyzwolil, i nie poddawajcie sie na nowo pod jarzmo niewoli. </v>
+<v n="2"> Oto ja, Pawel, mowie wam, ze jesli dacie sie obrzezac, Chrystus na nic wam sie nie przyda. </v>
+<v n="3"> A oswiadczam raz jeszcze kazdemu czlowiekowi, ktory daje sie obrzezac, ze jest zobowiazany wypelnic cale prawo. </v>
+<v n="4"> Pozbawiliscie sie Chrystusa wszyscy, ktorzy usprawiedliwiacie sie przez prawo; wypadliscie z laski. </v>
+<v n="5"> My bowiem przez Ducha oczekujemy nadziei sprawiedliwosci z wiary. </v>
+<v n="6"> Bo w Chrystusie Jezusie ani obrzezanie nic nie znaczy, ani nieobrzezanie, ale wiara, ktora dziala przez milosc. </v>
+<v n="7"> Biegliscie dobrze. Ktoz wam przeszkodzil, abyscie nie byli posluszni prawdzie? </v>
+<v n="8"> Namawianie to nie pochodzi od tego, ktory was powoluje. </v>
+<v n="9"> Troche zakwasu cale ciasto zakwasza. </v>
+<v n="10"> Mam co do was przekonanie w Panu, ze nie bedziecie innego zdania. A ten, kto was niepokoi, zostanie osadzony, kimkolwiek by byl. </v>
+<v n="11"> A ja, bracia, jesli nadal obrzezanie glosze, to dlaczego jeszcze cierpie przesladowanie? Przeciez wtedy zniesione byloby zgorszenie krzyza. </v>
+<v n="12"> Bodajby byli odcieci ci, ktorzy was niepokoja. </v>
+<v n="13"> Bo wy, bracia, zostaliscie powolani do wolnosci, tylko pod pozorem tej wolnosci nie poblazajcie cialu, ale z milosci sluzcie jedni drugim. </v>
+<v n="14"> Cale bowiem prawo wypelnia sie w tym jednym slowie, mianowicie: Bedziesz milowal swego blizniego jak samego siebie. </v>
+<v n="15"> Lecz jesli wzajemnie sie kasacie i pozeracie, uwazajcie, abyscie sie wzajemnie nie zjedli. </v>
+<v n="16"> Mowie wiec: Postepujcie w Duchu, a nie spelnicie pozadania ciala. </v>
+<v n="17"> Cialo bowiem pozada na przekor Duchowi, a Duch na przekor cialu; sa one sobie przeciwne, tak ze nie mozecie czynic tego, co chcecie. </v>
+<v n="18"> Lecz jesli jestescie prowadzeni przez Ducha, nie jestescie pod prawem. </v>
+<v n="19"> A znane sa uczynki ciala, ktorymi sa: cudzolostwo, nierzad, nieczystosc, rozpusta; </v>
+<v n="20"> Balwochwalstwo, czary, nienawisc, niezgoda, zawisc, gniew, spory, klotnie, herezje; </v>
+<v n="21"> Zazdrosc, zabojstwa, pijanstwo, hulanki i tym podobne; o nich wam mowie, jak juz przedtem powiedzialem, ze ci, ktorzy takie rzeczy czynia, krolestwa Bozego nie odziedzicza. </v>
+<v n="22"> Owocem zas Ducha jest milosc, radosc, pokoj, cierpliwosc, zyczliwosc, dobroc, wiara; </v>
+<v n="23"> Lagodnosc, powsciagliwosc. Przeciwko takim nie ma prawa. </v>
+<v n="24"> A ci, ktorzy naleza do Chrystusa, ukrzyzowali swoje cialo wraz z namietnosciami i pozadliwosciami. </v>
+<v n="25"> Jesli zyjemy w Duchu, w Duchu tez postepujmy. </v>
+<v n="26"> Nie badzmy zadni proznej chwaly, jedni drugich drazniac, jedni drugim zazdroszczac. </v>
+</c>

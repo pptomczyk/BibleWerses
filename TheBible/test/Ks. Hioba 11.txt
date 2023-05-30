@@ -1,0 +1,21 @@
+<v n="1"> Wtedy Sofar z Naamy odpowiedzial: </v>
+<v n="2"> Czy nie nalezy odpowiedziec na takie mnostwo slow? Czy czlowiek gadatliwy ma byc usprawiedliwiony? </v>
+<v n="3"> Czy ludzie maja milczec na twoje klamstwa? A gdy kpisz, nikt cie nie zawstydzi? </v>
+<v n="4"> Powiedziales bowiem: Moja nauka jest czysta, jestem czysty w twoich oczach. </v>
+<v n="5"> O gdyby Bog zechcial przemowic i otworzyc usta przeciwko tobie; </v>
+<v n="6"> Gdyby objawil tajemnice madrosci – ze zaslugujesz na dwa razy wieksza kare. Poznaj wiec, ile Bog ci przebaczyl za twoja nieprawosc. </v>
+<v n="7"> Czy wybadasz tajemnice Boga? Czy zglebisz doskonalosc Wszechmocnego? </v>
+<v n="8"> Sa wyzej niz niebiosa, co mozesz z tym uczynic? Glebsze niz pieklo, czy mozesz je poznac? </v>
+<v n="9"> Ich miara jest dluzsza niz ziemia i szersza niz morze. </v>
+<v n="10"> Jesli wycina, zamyka albo gromadzi, ktoz go powstrzyma? </v>
+<v n="11"> On bowiem zna marnosc ludzi i widzi niegodziwosc. Czy mialby na to nie zwazac? </v>
+<v n="12"> Czlowiek nierozumny moze nabyc rozumu, choc czlowiek rodzi sie jak zrebie dzikiego osla. </v>
+<v n="13"> Jesli przygotujesz swoje serce i wyciagniesz do niego swoje rece; </v>
+<v n="14"> Jesli w twoich rekach jest nieprawosc, oddal ja i nie pozwol, aby niegodziwosc mieszkala w twoich przybytkach. </v>
+<v n="15"> Wtedy podniesiesz swoje oblicze bez zmazy, bedziesz staly i nie bedziesz sie bal. </v>
+<v n="16"> Zapomnisz bowiem o swojej udrece i wspomnisz ja tak jak wody, ktore przeplynely. </v>
+<v n="17"> I twoje zycie bedzie jasniejsze niz poludnie; twoja ciemnosc bedzie jak poranek. </v>
+<v n="18"> Bedziesz ufal, majac nadzieje; bedziesz kopac dokola i odpoczniesz bezpiecznie. </v>
+<v n="19"> Polozysz sie i nikt cie nie przestraszy; wielu unizy sie przed twoim obliczem. </v>
+<v n="20"> Ale oczy niegodziwych przygasna i nie bedzie dla nich ucieczki, a ich nadzieja bedzie jak wyzioniecie ducha. </v>
+</c>

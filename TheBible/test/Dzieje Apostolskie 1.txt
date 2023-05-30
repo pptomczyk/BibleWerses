@@ -1,0 +1,27 @@
+<v n="1"> Pierwsza ksiege napisalem, Teofilu, o wszystkim, co Jezus zaczal czynic i czego nauczac; </v>
+<v n="2"> Az do dnia, w ktorym zostal wziety w gore po tym, jak przez Ducha Swietego udzielil polecen apostolom, ktorych wybral. </v>
+<v n="3"> Im tez po swojej mece objawil sie jako zywy w wielu niewatpliwych dowodach, przez czterdziesci dni ukazujac sie im i mowiac o krolestwie Bozym. </v>
+<v n="4"> A gdy byli zebrani razem, nakazal im: Nie odchodzcie z Jerozolimy, ale oczekujcie obietnicy Ojca, o ktorej slyszeliscie ode mnie. </v>
+<v n="5"> Jan bowiem chrzcil woda, ale wy po niewielu dniach bedziecie ochrzczeni Duchem Swietym. </v>
+<v n="6"> Tak wiec zebrani pytali go: Panie, czy w tym czasie przywrocisz krolestwo Izraelowi? </v>
+<v n="7"> Lecz on im odpowiedzial: Nie do was nalezy znac czasy i pory, ktore Ojciec ustanowil swoja wladza. </v>
+<v n="8"> Ale przyjmiecie moc Ducha Swietego, ktory zstapi na was, i bedziecie mi swiadkami w Jerozolimie, w calej Judei, w Samarii i az po krance ziemi. </v>
+<v n="9"> Kiedy to powiedzial, a oni patrzyli, zostal uniesiony w gore i oblok zabral go sprzed ich oczu. </v>
+<v n="10"> A gdy sie wpatrywali w niebo, jak wstepowal, oto staneli przy nich dwaj mezowie w bialych szatach; </v>
+<v n="11"> I powiedzieli: Mezowie z Galilei, dlaczego stoicie, wpatrujac sie w niebo? Ten Jezus, ktory zostal od was wziety w gore do nieba, przyjdzie tak samo, jak go widzieliscie wstepujacego do nieba. </v>
+<v n="12"> Wtedy wrocili do Jerozolimy z gory zwanej Oliwna, ktora lezy blisko Jerozolimy, w odleglosci drogi szabatowej. </v>
+<v n="13"> A gdy przyszli, weszli do sali na gorze, gdzie przebywali Piotr i Jakub, Jan i Andrzej, Filip i Tomasz, Bartlomiej i Mateusz, Jakub, syn Alfeusza, i Szymon Zelota oraz Juda, brat Jakuba. </v>
+<v n="14"> Ci wszyscy trwali jednomyslnie w modlitwie i prosbach razem z kobietami, z Maria, matka Jezusa, i jego bracmi. </v>
+<v n="15"> W tych dniach Piotr stanal posrod uczniow (a bylo zgromadzonych okolo stu dwudziestu osob) i powiedzial: </v>
+<v n="16"> Mezowie bracia, musialo sie wypelnic slowo Pisma, w ktorym Duch Swiety zapowiedzial przez usta Dawida o Judaszu, ktory byl przewodnikiem tych, ktorzy schwytali Jezusa. </v>
+<v n="17"> Zaliczal sie on bowiem do nas i mial udzial w tym poslugiwaniu. </v>
+<v n="18"> On nabyl pole za zaplate za nieprawosc i spadlszy glowa w dol, pekl na pol i wyplynely wszystkie jego wnetrznosci. </v>
+<v n="19"> Roznioslo sie to wsrod wszystkich mieszkancow Jerozolimy, tak ze nazwano to pole w ich jezyku Hakeldamach, to znaczy: Pole Krwi. </v>
+<v n="20"> Jest bowiem napisane w Ksiedze Psalmow: Niech jego dom bedzie pusty, niech nikt w nim nie mieszka; oraz: Jego biskupstwo niech przejmie inny. </v>
+<v n="21"> Trzeba wiec, aby jeden z tych mezczyzn, ktorzy z nami byli przez caly czas, kiedy Pan Jezus przebywal wsrod nas; </v>
+<v n="22"> Poczawszy od chrztu Jana az do dnia, w ktorym zostal wziety od nas w gore, stal sie wraz z nami swiadkiem jego zmartwychwstania. </v>
+<v n="23"> I wybrali dwoch: Jozefa, zwanego Barsaba, z przydomkiem Justus, i Macieja. </v>
+<v n="24"> I tak sie modlili: Ty, Panie, ktory znasz serca wszystkich, wskaz z tych dwoch jednego, ktorego wybrales; </v>
+<v n="25"> Aby zajal miejsce w tym poslugiwaniu i apostolstwie, ktoremu sprzeniewierzyl sie Judasz, aby odejsc na swoje miejsce. </v>
+<v n="26"> I dali im losy, a los padl na Macieja. I zostal przylaczony do jedenastu apostolow. </v>
+</c>

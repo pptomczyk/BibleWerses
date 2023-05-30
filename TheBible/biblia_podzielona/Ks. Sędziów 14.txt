@@ -1,0 +1,21 @@
+<v n="1"> Samson poszed³ do Timny i zobaczy³ tam kobietê z córek Filistynów. </v>
+<v n="2"> A gdy wróci³, oznajmi³ swemu ojcu i swej matce: Widzia³em w Timnie kobietê z córek Filistynów. WeŸcie mi j¹ wiêc za ¿onê. </v>
+<v n="3"> Jego ojciec i matka powiedzieli mu: Czy nie ma kobiety wœród córek twych braci ani w ca³ym moim ludzie, ¿e chcesz iœæ i wzi¹æ sobie ¿onê spoœród nieobrzezanych Filistynów? Samson odpowiedzia³ swemu ojcu: WeŸcie mi tê, bo spodoba³a siê moim oczom. </v>
+<v n="4"> A jego ojciec i matka nie wiedzieli, ¿e to wysz³o od PANA, bo on szuka³ sposobnoœci przeciwko Filistynom. W tym czasie bowiem Filistyni panowali nad Izraelem. </v>
+<v n="5"> Samson poszed³ wiêc ze swoim ojcem i swoj¹ matk¹ do Timny i przyszli do winnic Timny. A oto m³ody, rycz¹cy lew wybieg³ mu naprzeciw. </v>
+<v n="6"> Wtedy Duch PANA zaw³adn¹³ nim i rozdar³ on lwa, jakby rozdar³ koŸlê, choæ nie mia³ nic w rêku. Jednak swojemu ojcu i swojej matce nie powiedzia³ o tym, co uczyni³. </v>
+<v n="7"> Potem przyszed³ i rozmawia³ z t¹ kobiet¹, a ona podoba³a siê Samsonowi. </v>
+<v n="8"> A kiedy po kilku dniach wróci³, aby j¹ poj¹æ za ¿onê, zboczy³ z drogi, aby obejrzeæ padlinê lwa. A oto rój pszczó³ i miód by³y w padlinie lwa. </v>
+<v n="9"> Wzi¹³ go do r¹k, szed³ drog¹ i jad³, a gdy przyszed³ do swego ojca i swej matki, da³ im i jedli. Nie powiedzia³ im jednak, ¿e miodu nabra³ z padliny lwa. </v>
+<v n="10"> Potem jego ojciec poszed³ do tej kobiety i Samson wyprawi³ tam wesele. Tak bowiem zwykli czyniæ m³odzieñcy. </v>
+<v n="11"> A gdy Filistyni ujrzeli go, wziêli trzydziestu towarzyszy, aby przy nim byli. </v>
+<v n="12"> I Samson powiedzia³ do nich: Zadam wam zagadkê. Jeœli j¹ rozwi¹¿ecie w ci¹gu siedmiu dni wesela i wyjaœnicie mi j¹, dam wam trzydzieœci przeœcierade³ i trzydzieœci szat zamiennych. </v>
+<v n="13"> A jeœli mi jej nie rozwi¹¿ecie, wtedy to wy dacie mi trzydzieœci przeœcierade³ i trzydzieœci szat zamiennych. Odpowiedzieli mu: Zadaj swoj¹ zagadkê, a my jej pos³uchamy. </v>
+<v n="14"> I powiedzia³ do nich: Z po¿eraj¹cego wyszed³ pokarm, a z mocnego wysz³a s³odycz. I przez trzy dni nie mogli rozwi¹zaæ tej zagadki. </v>
+<v n="15"> I powiedzieli siódmego dnia do ¿ony Samsona: Namów swego mê¿a, aby nam zdradzi³ zagadkê, inaczej spalimy ogniem ciebie i dom twego ojca. Czy po to nas wezwaliœcie, aby nas ograbiæ? Czy nie po to? </v>
+<v n="16"> P³aka³a wiêc ¿ona Samsona przed nim, mówi¹c: Tak naprawdê nienawidzisz mnie i nie kochasz mnie. Zada³eœ synom mego ludu zagadkê i nie chcesz mi jej wyjaœniæ. I powiedzia³ jej: Oto nie wyjaœni³em jej swojemu ojcu i swojej matce, a tobie mia³bym j¹ wyjaœniæ? </v>
+<v n="17"> I p³aka³a przed nim przez siedem dni, póki trwa³o wesele. A siódmego dnia wyjaœni³ jej, bo mu siê naprzykrza³a. A ona powiedzia³a zagadkê synom swego ludu. </v>
+<v n="18"> A siódmego dnia przed zachodem s³oñca mê¿czyŸni tego miasta powiedzieli do niego: Có¿ s³odszego nad miód, a co mocniejszego nad lwa? On im odpowiedzia³: Gdybyœcie nie orali moj¹ ja³owic¹, nie odgadlibyœcie mojej zagadki. </v>
+<v n="19"> Potem zst¹pi³ na niego Duch PANA i poszed³ do Aszkelonu, zabi³ trzydziestu mê¿czyzn spoœród nich, zdj¹³ z nich ³upy i da³ szaty zamienne tym, którzy rozwi¹zali zagadkê. I rozpali³ siê jego gniew, i poszed³ do domu swojego ojca. </v>
+<v n="20"> ¯ona Samsona zaœ zosta³a oddana jego towarzyszowi, który by³ jego przyjacielem. </v>
+</c>

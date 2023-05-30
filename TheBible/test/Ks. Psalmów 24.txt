@@ -1,0 +1,11 @@
+<v n="1"> Psalm Dawida. Do PANA nalezy ziemia i wszystko, co ja napelnia, swiat i jego mieszkancy. </v>
+<v n="2"> Na morzach bowiem ugruntowal go i utwierdzil na rzekach. </v>
+<v n="3"> Ktoz wstapi na gore PANA? Kto stanie w jego swietym miejscu? </v>
+<v n="4"> Czlowiek rak nieskalanych i czystego serca, ktory nie sklania swej duszy ku marnosci i nie przysiega podstepnie. </v>
+<v n="5"> On otrzyma blogoslawienstwo od PANA i sprawiedliwosc od Boga, swego Zbawiciela. </v>
+<v n="6"> To jest pokolenie tych, ktorzy go szukaja, ktorzy szukaja twego oblicza, Boze Jakuba. Sela. </v>
+<v n="7"> Podniescie, o bramy, wasze glowy; podniescie sie, wrota odwieczne, aby wszedl Krol chwaly. </v>
+<v n="8"> Ktoz jest tym Krolem chwaly? PAN mocny i potezny, PAN potezny w boju. </v>
+<v n="9"> Podniescie, o bramy, wasze glowy; podniescie sie, wrota odwieczne, aby wszedl Krol chwaly. </v>
+<v n="10"> Ktoz jest tym Krolem chwaly? PAN zastepow, on jest Krolem chwaly. Sela. </v>
+</c>

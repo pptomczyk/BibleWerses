@@ -1,0 +1,14 @@
+<v n="1"> Wtedy Dawid zapytal: Czy pozostal jeszcze ktos z domu Saula, abym mogl okazac mu milosierdzie ze wzgledu na Jonatana? </v>
+<v n="2"> A z domu Saula byl sluga imieniem Siba. Zostal on wezwany do Dawida i krol zapytal go: Czy ty jestes Siba? Odpowiedzial: To ja, twoj sluga. </v>
+<v n="3"> Krol pytal dalej: Czy nie ma jeszcze kogos z domu Saula, abym mogl okazac mu milosierdzie Boze? Siba odpowiedzial krolowi: Jest jeszcze syn Jonatana, chromy na nogi. </v>
+<v n="4"> Krol zapytal go: Gdzie on jest? Siba odpowiedzial krolowi: Oto jest w domu Makira, syna Ammiela, w Lo-Debar. </v>
+<v n="5"> Krol Dawid poslal wiec, by go sprowadzic z domu Makira, syna Ammiela, z Lo-Debar. </v>
+<v n="6"> A gdy Mefiboszet, syn Jonatana, syna Saula, przybyl do Dawida, upadl na twarz i poklonil mu sie. I Dawid powiedzial: Mefiboszecie! Ten odpowiedzial: Oto twoj sluga. </v>
+<v n="7"> Dawid powiedzial do niego: Nie boj sie, bo z cala pewnoscia okaze ci milosierdzie ze wzgledu na twego ojca Jonatana i przywroce ci wszystkie ziemie twego ojca Saula, a ty zawsze bedziesz jadal chleb przy moim stole. </v>
+<v n="8"> Wtedy uklonil sie i powiedzial: Czym jest twoj sluga, ze zwracasz sie do zdechlego psa, jakim jestem? </v>
+<v n="9"> Nastepnie krol wezwal Sibe, sluge Saula, i powiedzial mu: Wszystko, co nalezalo do Saula i do calego jego domu, dalem synowi twego pana. </v>
+<v n="10"> Bedziesz wiec uprawial jego ziemie, ty, twoi synowie i twoi sludzy. Bedziesz zbieral plony, aby syn twego pana mogl jesc chleb. Mefiboszet natomiast, syn twego pana, bedzie zawsze jadal chleb przy moim stole. A Siba mial pietnastu synow i dwudziestu slug. </v>
+<v n="11"> Siba odpowiedzial krolowi: Wszystko, co moj pan, krol, rozkazal swemu sludze, to twoj sluga uczyni. A Mefiboszet – dodal krol – bedzie jadal przy moim stole jak jeden z synow krola. </v>
+<v n="12"> Mefiboszet mial tez malego syna imieniem Mika. A wszyscy, ktorzy mieszkali w domu Siby, byli slugami Mefiboszeta. </v>
+<v n="13"> Tak Mefiboszet mieszkal w Jerozolimie, gdyz zawsze jadal przy stole krola. A byl chromy na obie nogi. </v>
+</c>

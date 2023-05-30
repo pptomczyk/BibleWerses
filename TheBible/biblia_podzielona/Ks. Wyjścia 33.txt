@@ -1,0 +1,24 @@
+<v n="1"> Potem PAN mówi³ do Moj¿esza: IdŸ, wyrusz st¹d, ty i lud, który wyprowadzi³eœ z ziemi Egiptu, do ziemi, któr¹ przysi¹g³em Abrahamowi, Izaakowi i Jakubowi, mówi¹c: Dam j¹ twemu potomstwu. </v>
+<v n="2"> Poœlê przed tob¹ Anio³a i wyrzucê Kananejczyka, Amorytê, Chetytê, Peryzzytê, Chiwwitê i Jebusytê; </v>
+<v n="3"> Do ziemi op³ywaj¹cej mlekiem i miodem. Lecz sam nie pójdê z tob¹, bo jesteœ ludem twardego karku, bym ciê w drodze nie wytraci³. </v>
+<v n="4"> Gdy lud us³ysza³ te z³e wieœci, zasmuci³ siê i nikt nie w³o¿y³ na siebie swoich ozdób. </v>
+<v n="5"> PAN bowiem powiedzia³ do Moj¿esza: Powiedz synom Izraela: Jesteœcie ludem twardego karku. Przyjdê niespodziewanie poœród ciebie i wytracê ciê. Teraz wiêc zdejmij z siebie swoje ozdoby, abym wiedzia³, co mam ci uczyniæ. </v>
+<v n="6"> I synowie Izraela zdjêli swoje ozdoby przy górze Horeb. </v>
+<v n="7"> A Moj¿esz wzi¹³ namiot i rozbi³ go poza obozem, z dala od obozu, i nazwa³ go Namiotem Zgromadzenia. Ka¿dy, kto chcia³ siê poradziæ PANA, wychodzi³ do Namiotu Zgromadzenia, który by³ poza obozem. </v>
+<v n="8"> A gdy Moj¿esz wychodzi³ do namiotu, ca³y lud powstawa³ i ka¿dy sta³ u wejœcia do swego namiotu, i patrzy³ na Moj¿esza, a¿ wszed³ do namiotu. </v>
+<v n="9"> Gdy Moj¿esz wchodzi³ do namiotu, s³up ob³oku zstêpowa³ i stawa³ u wejœcia do namiotu, i PAN rozmawia³ z Moj¿eszem. </v>
+<v n="10"> A ca³y lud widzia³ s³up ob³oku stoj¹cy u wejœcia do namiotu. Wtedy ca³y lud powstawa³ i oddawa³ pok³on, ka¿dy u wejœcia do swego namiotu. </v>
+<v n="11"> I PAN rozmawia³ z Moj¿eszem twarz¹ w twarz, jak cz³owiek rozmawia ze swoim przyjacielem. Potem Moj¿esz wraca³ do obozu, a jego s³uga Jozue, syn Nuna, m³odzieniec, nie opuszcza³ namiotu. </v>
+<v n="12"> I Moj¿esz powiedzia³ do PANA: Oto mówisz mi: ProwadŸ ten lud, a nie oznajmi³eœ mi, kogo poœlesz ze mn¹. Ponadto powiedzia³eœ: Znam ciê po imieniu, znalaz³eœ te¿ ³askê w moich oczach. </v>
+<v n="13"> Teraz wiêc, jeœli znalaz³em ³askê w twoich oczach, uka¿ mi, proszê, twoj¹ drogê, ¿ebym ciê pozna³ i ¿ebym znalaz³ ³askê w twoich oczach. Zwa¿ tak¿e, ¿e ten naród jest twoim ludem. </v>
+<v n="14"> I PAN odpowiedzia³: Moje oblicze pójdzie przed tob¹ i dam ci odpoczynek. </v>
+<v n="15"> Moj¿esz powiedzia³ do niego: Jeœli twoje oblicze nie pójdzie z nami, nie wyprowadzaj nas st¹d. </v>
+<v n="16"> Po czym bowiem bêdzie mo¿na poznaæ, ¿e ja i twój lud znaleŸliœmy ³askê w twoich oczach? Czy nie po tym, ¿e pójdziesz z nami? W ten sposób ja i twój lud bêdziemy wyró¿nieni spoœród wszystkich ludów, które s¹ na ziemi. </v>
+<v n="17"> I PAN powiedzia³ do Moj¿esza: Uczyniê tak¿e to, o czym mówi³eœ, bo znalaz³eœ ³askê w moich oczach i znam ciê po imieniu. </v>
+<v n="18"> Moj¿esz powiedzia³ te¿: Uka¿ mi, proszê, twoj¹ chwa³ê. </v>
+<v n="19"> A on odpowiedzia³: Sprawiê, ¿e ca³a moja dobroæ przejdzie przed twoj¹ twarz¹, i wypowiem imiê PANA przed tob¹. Zmi³ujê siê, nad kim siê zmi³ujê, i zlitujê siê, nad kim siê zlitujê. </v>
+<v n="20"> I doda³: Nie bêdziesz móg³ widzieæ mego oblicza, bo nie mo¿e cz³owiek ujrzeæ mnie i pozostaæ przy ¿yciu. </v>
+<v n="21"> PAN mówi³ dalej: Oto miejsce przy mnie, staniesz na skale. </v>
+<v n="22"> A gdy bêdzie przechodziæ moja chwa³a, postawiê ciê w rozpadlinie skalnej i zakryjê ciê swoj¹ d³oni¹, a¿ przejdê. </v>
+<v n="23"> Potem odejmê d³oñ i ujrzysz mnie od ty³u, ale moje oblicze nie bêdzie widziane. </v>
+</c>

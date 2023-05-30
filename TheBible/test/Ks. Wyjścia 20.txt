@@ -1,0 +1,27 @@
+<v n="1"> I Bog mowil te wszystkie slowa: </v>
+<v n="2"> Ja jestem PAN, twoj Bog, ktory cie wyprowadzil z ziemi Egiptu, z domu niewoli. </v>
+<v n="3"> Nie bedziesz mial innych bogow przede mna. </v>
+<v n="4"> Nie bedziesz czynil sobie zadnego rzezbionego posagu ani zadnej podobizny czegokolwiek, co jest w gorze na niebie, co jest nisko na ziemi ani co jest w wodach pod ziemia. </v>
+<v n="5"> Nie bedziesz oddawal im poklonu ani nie bedziesz im sluzyl, bo ja jestem PAN, twoj Bog, Bog zazdrosny, nawiedzajacy nieprawosc ojcow na synach do trzeciego i czwartego pokolenia tych, ktorzy mnie nienawidza; </v>
+<v n="6"> A okazujacy milosierdzie tysiacom tych, ktorzy mnie miluja i strzega moich przykazan. </v>
+<v n="7"> Nie bedziesz bral imienia PANA, twego Boga, nadaremnie, gdyz PAN nie zostawi bez kary tego, ktory bierze jego imie nadaremnie. </v>
+<v n="8"> Pamietaj o dniu szabatu, aby go swiecic. </v>
+<v n="9"> Szesc dni bedziesz pracowac i wykonywac wszystkie swoje prace; </v>
+<v n="10"> Ale siodmy dzien jest szabatem PANA, twego Boga. W tym dniu nie bedziesz wykonywal zadnej pracy – ani ty, ani twoj syn, ani twoja corka, ani twoj sluga, ani twoja sluzaca, ani twoje bydlo, ani twoj gosc, ktory jest w obrebie twoich bram. </v>
+<v n="11"> PAN bowiem przez szesc dni stworzyl niebo i ziemie, morze i wszystko, co jest w nich, a siodmego dnia odpoczal. Dlatego PAN blogoslawil dzien szabatu i uswiecil go. </v>
+<v n="12"> Czcij swego ojca i swoja matke, aby twoje dni byly dlugie na ziemi, ktora PAN, twoj Bog, da tobie. </v>
+<v n="13"> Nie bedziesz zabijal. </v>
+<v n="14"> Nie bedziesz cudzolozyl. </v>
+<v n="15"> Nie bedziesz kradl. </v>
+<v n="16"> Nie bedziesz falszywie swiadczyl przeciw twemu blizniemu. </v>
+<v n="17"> Nie bedziesz pozadal domu twego blizniego ani nie bedziesz pozadal zony twego blizniego, ani jego slugi, ani jego sluzacej, ani jego wolu, ani jego osla, ani zadnej rzeczy, ktora nalezy do twego blizniego. </v>
+<v n="18"> Wtedy caly lud widzial gromy i blyskawice i slyszal glos traby, i dostrzegal dymiaca gore. Gdy lud to widzial, cofnal sie i stanal z daleka. </v>
+<v n="19"> I mowil do Mojzesza: Ty mow do nas, a bedziemy sluchac, ale niech Bog do nas nie mowi, bysmy nie pomarli. </v>
+<v n="20"> Mojzesz odpowiedzial ludowi: Nie bojcie sie. Bog bowiem przyszedl, aby was wystawic na probe i zeby jego bojazn byla przed waszym obliczem, byscie nie grzeszyli. </v>
+<v n="21"> Stal wiec lud z daleka, a Mojzesz zblizyl sie do gestego mroku, w ktorym byl Bog. </v>
+<v n="22"> I PAN powiedzial do Mojzesza: Tak powiesz synom Izraela: Widzieliscie, ze mowilem do was z nieba. </v>
+<v n="23"> Nie bedziecie czynic przy mnie bogow ze srebra ani bogow ze zlota nie bedziecie sobie czynic. </v>
+<v n="24"> Uczynisz mi oltarz z ziemi i bedziesz skladac na nim twoje calopalenia i twoje ofiary pojednawcze, twoje owce i twoje bydlo. Na kazdym miejscu, gdzie upamietnie swoje imie, przyjde do ciebie i bede ci blogoslawil. </v>
+<v n="25"> A jesli uczynisz mi oltarz kamienny, nie buduj go z ciosanego kamienia. Jesli bowiem przylozysz do niego zelazne narzedzie, zbezczescisz go. </v>
+<v n="26"> Nie bedziesz wstepowal po stopniach do mojego oltarza, aby twoja nagosc nie byla przy nim odkryta. </v>
+</c>

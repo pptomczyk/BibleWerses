@@ -1,0 +1,9 @@
+<v n="1"> Psalm Dawida. Bede spiewal o milosierdziu i sadzie; tobie, PANIE, bede spiewac. </v>
+<v n="2"> Kroczyc bede madrze droga prawa. Kiedy przyjdziesz do mnie? Bede postepowal w swoim domu w prawosci serca. </v>
+<v n="3"> Nie bede stawial przed oczami niegodziwej rzeczy; nienawidze czynow ludzi wystepnych, nie przylgna one do mnie. </v>
+<v n="4"> Serce przewrotne odstapi ode mnie, nie chce znac zlego. </v>
+<v n="5"> Zgladze tego, ktory potajemnie oczernia swego blizniego, nie zniose wynioslych oczu i nadetego serca. </v>
+<v n="6"> Moje oczy zwrocone beda na wiernych tej ziemi, aby mieszkali ze mna; kto chodzi droga prawa, ten bedzie mi sluzyc. </v>
+<v n="7"> Nie zamieszka w moim domu oszust, klamca nie ostoi sie przed mymi oczyma. </v>
+<v n="8"> Kazdego ranka bede tepic wszystkich niegodziwych na ziemi, aby tak wykorzenic z miasta PANA wszystkich zloczyncow. </v>
+</c>

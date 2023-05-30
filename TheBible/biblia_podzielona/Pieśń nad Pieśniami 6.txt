@@ -1,0 +1,14 @@
+<v n="1"> Dok¹d poszed³ twój umi³owany, o najpiêkniejsza wœród kobiet? Dok¹d siê zwróci³ twój umi³owany, abyœmy szukali go wraz z tob¹? </v>
+<v n="2"> Mój umi³owany zst¹pi³ do swojego ogrodu miêdzy grz¹dki wonnoœci, aby paœæ w ogrodach i zbieraæ lilie. </v>
+<v n="3"> Ja nale¿ê do mego umi³owanego, a mój umi³owany nale¿y do mnie; pasie on wœród lilii. </v>
+<v n="4"> Piêkna jesteœ, moja umi³owana, jak Tirsa; urodziwa jak Jerozolima; groŸna jak wojsko z chor¹gwiami. </v>
+<v n="5"> Odwróæ ode mnie swoje oczy, gdy¿ one mnie urzekaj¹. Twoje w³osy s¹ jak stado kóz, które schodz¹ z Gileadu. </v>
+<v n="6"> Twoje zêby s¹ jak stado owiec, które wychodz¹ z k¹pieli, wszystkie maj¹ bliŸniêta, a nie ma ¿adnej niep³odnej wœród nich. </v>
+<v n="7"> Twoje skronie miêdzy twoimi kêdziorkami s¹ jak po³ówki granatu. </v>
+<v n="8"> Szeœædziesi¹t jest królowych i osiemdziesi¹t na³o¿nic, a dziewic bez liku. </v>
+<v n="9"> Lecz moja go³êbica, moja nieskalana, jest jedna; jedynaczka u swojej matki, bez skazy u swojej rodzicielki. Widzia³y j¹ córki i nazwa³y j¹ b³ogos³awion¹, tak¿e królowe i na³o¿nice, i chwali³y j¹, mówi¹c: </v>
+<v n="10"> Kim jest ta, która pokazuje siê jak zorza poranna, piêkna jak ksiê¿yc, czysta jak s³oñce, groŸna jak uszykowane wojsko z chor¹gwiami? </v>
+<v n="11"> Zesz³am do ogrodu orzechów, aby patrzeæ na owoce rosn¹ce w dolinach, by zobaczyæ, czy winoroœl kwitnie i czy granaty wypuszczaj¹ p¹czki. </v>
+<v n="12"> Nim siê zorientowa³am, moja dusza wsadzi³a mnie jakby w rydwany ksi¹¿¹t mego ludu. </v>
+<v n="13"> Zawróæ, zawróæ, Szulamitko; zawróæ, zawróæ, abyœmy mogli na ciebie patrzeæ. Có¿ widzicie w Szulamitce? Widzimy jakby oddzia³y wojenne. </v>
+</c>

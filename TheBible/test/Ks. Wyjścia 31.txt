@@ -1,0 +1,19 @@
+<v n="1"> Potem PAN powiedzial do Mojzesza: </v>
+<v n="2"> Oto powolalem po imieniu Besalela, syna Uriego, syna Chura, z pokolenia Judy; </v>
+<v n="3"> I napelnilem go Duchem Bozym, madroscia, rozumem, wiedza i znajomoscia we wszelkim rzemiosle; </v>
+<v n="4"> Aby umiejetnie obmyslal projekty, do wyrobu ze zlota, srebra i miedzi; </v>
+<v n="5"> Do obrabiania kamieni do oprawy i do ciosania drewna, aby wykonal wszelkie rodzaje dziela. </v>
+<v n="6"> Oto dalem mu Oholiaba, syna Achisamaka, z pokolenia Dana. Wlalem tez madrosc w serce kazdego uzdolnionego, aby uczynili wszystko, co ci przykazalem: </v>
+<v n="7"> Namiot Zgromadzenia, arke swiadectwa, przeblagalnie, ktora ma byc nad nia, i wszystkie sprzety namiotu; </v>
+<v n="8"> Stol i naczynia do niego, szczerozloty swiecznik ze wszystkimi naczyniami do niego i oltarz kadzenia; </v>
+<v n="9"> Oltarz calopalenia ze wszystkimi naczyniami do niego i kadz wraz z jej podstawa; </v>
+<v n="10"> Szaty do sluzby, swiete szaty dla Aarona, kaplana, i szaty dla jego synow do sprawowania kaplanstwa; </v>
+<v n="11"> Olejek namaszczenia i wonne kadzidlo do Miejsca Swietego. Wykonaja wedlug wszystkiego, co ci przykazalem. </v>
+<v n="12"> Potem PAN powiedzial do Mojzesza: </v>
+<v n="13"> Powiedz tez synom Izraela: Koniecznie macie przestrzegac moich szabatow, bo to jest znak miedzy mna a wami przez wszystkie wasze pokolenia, abyscie wiedzieli, ze ja jestem PAN, ktory was uswieca. </v>
+<v n="14"> Przestrzegajcie wiec szabatu, gdyz jest on dla was swiety. Kto by go naruszyl, poniesie smierc. Kazdy bowiem, kto wykonuje prace w tym dniu, zostanie wytracony sposrod swego ludu. </v>
+<v n="15"> Przez szesc dni bedzie sie wykonywac prace, ale siodmy dzien jest szabatem odpoczynku, swietym dla PANA. Ktokolwiek wykona prace w dniu szabatu, poniesie smierc. </v>
+<v n="16"> Dlatego synowie Izraela beda przestrzegac szabatu, zachowujac szabat przez wszystkie pokolenia jako wieczna ustawe. </v>
+<v n="17"> Jest on wiecznym znakiem miedzy mna a synami Izraela, bo w szesc dni PAN uczynil niebo i ziemie, a siodmego dnia przestal i odpoczal. </v>
+<v n="18"> A gdy dokonczyl rozmowe z Mojzeszem na gorze Synaj, PAN dal mu dwie tablice swiadectwa, tablice kamienne napisane palcem Boga. </v>
+</c>

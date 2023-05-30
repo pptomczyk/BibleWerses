@@ -1,0 +1,11 @@
+<v n="1"> Alleluja. Chwal, duszo moja, PANA. </v>
+<v n="2"> Bede chwalic PANA, poki zyje; bede spiewal memu Bogu, poki bede istnial. </v>
+<v n="3"> Nie pokladajcie ufnosci we wladcach ani w zadnym synu ludzkim, u ktorego nie ma wybawienia. </v>
+<v n="4"> Opuszcza go duch i wraca do swojej ziemi; w tymze dniu zgina wszystkie jego mysli. </v>
+<v n="5"> Blogoslawiony ten, kogo pomoca jest Bog Jakuba, kto nadzieje poklada w PANU, jego Bogu; </v>
+<v n="6"> Ktory uczynil niebo i ziemie, morze i wszystko, co w nich jest; ktory dochowuje prawdy na wieki; </v>
+<v n="7"> Ktory oddaje sprawiedliwosc pokrzywdzonym i daje chleb glodnym; PAN uwalnia wiezniow. </v>
+<v n="8"> PAN otwiera oczy slepych; PAN podnosi przygnebionych; PAN miluje sprawiedliwych. </v>
+<v n="9"> PAN strzeze przychodniow, wspomaga sierote i wdowe, ale krzyzuje droge niegodziwych. </v>
+<v n="10"> PAN bedzie krolowal na wieki, twoj Bog, o Syjonie, z pokolenia na pokolenie. Alleluja. </v>
+</c>

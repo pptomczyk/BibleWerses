@@ -1,0 +1,24 @@
+<v n="1"> Po tych wydarzeniach, gdy ustal gniew krola Aswerusa, wspomnial on na Waszti i na to, co uczynila, oraz dekret, ktory zostal wydany przeciwko niej. </v>
+<v n="2"> I dworzanie krola, ktorzy mu uslugiwali, powiedzieli: Niech poszukuja dla krola mlodych dziewic o pieknej urodzie; </v>
+<v n="3"> I niech krol ustanowi urzednikow we wszystkich prowincjach swego krolestwa, aby zgromadzili wszystkie mlode dziewice o pieknej urodzie w palacu Suza, w domu kobiet, pod opieka Hegaja, eunucha krolewskiego, stroza kobiet, i niech im dadza srodki do ich pielegnacji. </v>
+<v n="4"> A ta panienka, ktora spodoba sie krolowi, zostanie krolowa w miejsce Waszti. Spodobala sie ta rada krolowi i tak uczynil. </v>
+<v n="5"> A w palacu Suza byl pewien Zyd imieniem Mardocheusz, syn Jaira, syna Szimejego, syna Kisza, z pokolenia Beniamina. </v>
+<v n="6"> Zostal on uprowadzony z Jerozolimy wraz z innymi pojmanymi, ktorych uprowadzono razem z Jechoniaszem, krolem Judy, ktorego wzial do niewoli Nabuchodonozor, krol Babilonu. </v>
+<v n="7"> Byl on opiekunem Hadassy, to jest Estery, corki swego stryja, nie miala ona bowiem ani ojca, ani matki. A byla to panna piekna i urodziwa. Mardocheusz, po smierci jej ojca i matki, przyjal ja za corke. </v>
+<v n="8"> A gdy ogloszono rozkaz krola i jego dekret i gdy zgromadzono wiele panien w palacu Suza pod opieka Hegaja, wzieto tez i Estere do domu krola pod opieka Hegaja, stroza kobiet. </v>
+<v n="9"> I spodobala mu sie dziewczyna, i znalazla laske w jego oczach, tak ze od razu kazal dac jej srodki pielegnacyjne, nalezna jej czesc, oraz siedem dobranych dziewczat z domu krola. Nastepnie przeniosl ja i jej dziewczeta do najlepszej czesci w domu kobiet. </v>
+<v n="10"> Ale Estera nie oznajmila swojego ludu ani pochodzenia, poniewaz Mardocheusz nakazal jej, by tego nie ujawniala. </v>
+<v n="11"> A Mardocheusz kazdego dnia przechadzal sie przed dziedzincem domu kobiet, aby sie dowiedziec o zdrowie Estery i co sie z nia stanie. </v>
+<v n="12"> A gdy nadchodzila kolej na kazda z tych panien, aby wejsc do krola Aswerusa po uplywie dwunastu miesiecy zgodnie z prawem dla kobiet – byl to bowiem okres ich pielegnacji: szesc miesiecy olejkiem z mirry, a szesc miesiecy wonnosciami i innymi srodkami pielegnacji dla kobiet; </v>
+<v n="13"> Wtedy panna udawala sie do krola, a czegokolwiek zadala, dawano jej, aby z tym szla z domu kobiet az do domu krolewskiego. </v>
+<v n="14"> Wieczorem wychodzila, rano zas wracala do drugiego domu kobiet pod opieke Szaaszgaza, eunucha krolewskiego, stroza naloznic. Nie przychodzila juz wiecej do krola, chyba ze spodobala sie krolowi i wzywano ja po imieniu. </v>
+<v n="15"> A gdy przyszla kolej na Estere, corke Abichaila, stryja Mardocheusza, ktory ja przyjal za corke – aby udala sie do krola, nie zadala niczego procz tego, co polecil Hegaj, eunuch krola, stroz kobiet. I Estera zyskala laske w oczach wszystkich, ktorzy na nia patrzyli. </v>
+<v n="16"> Zabrano wiec Estere do krola Aswerusa, do jego domu krolewskiego, w dziesiatym miesiacu, to jest w miesiacu Tebet, w siodmym roku jego panowania. </v>
+<v n="17"> I krol umilowal Estere nad wszystkie kobiety, i znalazla ona laske i jego przychylnosc ponad wszystkie panny, tak ze wlozyl jej na glowe korone krolewska i uczynil ja krolowa w miejsce Waszti. </v>
+<v n="18"> Potem krol wyprawil wielka uczte dla wszystkich swoich ksiazat i slug, uczte Estery, a prowincje uwolnil od podatkow i porozdawal dary, jak przystalo na krola. </v>
+<v n="19"> Gdy ponownie zebrano dziewice, Mardocheusz siedzial przy bramie krola. </v>
+<v n="20"> A Estera nie oznajmila jeszcze swego pochodzenia ani ludu, tak jak jej rozkazal Mardocheusz. Estera wykonala polecenie Mardocheusza, tak jak dawniej, gdy byla jeszcze pod jego opieka. </v>
+<v n="21"> W tych dniach, gdy Mardocheusz siedzial przy bramie krola, dwaj eunuchowie krola, Bigtan i Teresz, stroze progu, byli rozgniewani i szukali sposobnosci, aby podniesc reke na krola Aswerusa. </v>
+<v n="22"> Dowiedzial sie o tym Mardocheusz i oznajmil to krolowej Esterze, a Estera oznajmila to krolowi w imieniu Mardocheusza. </v>
+<v n="23"> A gdy te sprawe zbadano, okazala sie prawdziwa. Powieszono wiec obydwu na szubienicy i zapisano to w ksiegach kronik przed krolem. </v>
+</c>

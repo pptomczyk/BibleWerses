@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi choru. Al taszchet. Miktam Dawida, kiedy uciekal przed Saulem do jaskini. Zmiluj sie nade mna, Boze, zmiluj sie nade mna, bo moja dusza ufa tobie; w cieniu twoich skrzydel bede sie chronil, az przeminie nieszczescie. </v>
+<v n="2"> Bede wolal do Boga Najwyzszego, do Boga, ktory doprowadzi moja sprawe do konca. </v>
+<v n="3"> On zesle pomoc z nieba i wybawi mnie od uragania tego, ktory chce mnie pochlonac. Sela. Zesle mi Bog swoje milosierdzie i prawde. </v>
+<v n="4"> Moja dusza przebywa wsrod lwow; leze wsrod plonacych, wsrod synow ludzkich, ktorych zeby sa jak wlocznie i strzaly, a jezyk jak miecz ostry. </v>
+<v n="5"> Badz wywyzszony, Boze, ponad niebiosa, a twoja chwala ponad cala ziemie. </v>
+<v n="6"> Zastawili sidla na moje kroki, zgnebili moja dusze, wykopali przede mna dol, ale sami do niego wpadli. Sela. </v>
+<v n="7"> Gotowe jest moje serce, Boze, gotowe jest moje serce; bede spiewal i oddawal chwale. </v>
+<v n="8"> Obudz sie, moja chwalo, obudz sie, cytro i harfo; ja sie zbudze o swicie. </v>
+<v n="9"> Bede cie wyslawial wsrod ludu, Panie, bede ci spiewal wsrod narodow. </v>
+<v n="10"> Bo wielkie jest twoje milosierdzie, az do niebios, i az pod obloki twoja prawda. </v>
+<v n="11"> Badz wywyzszony ponad niebiosa, Boze, a ponad cala ziemie twoja chwala. </v>
+</c>

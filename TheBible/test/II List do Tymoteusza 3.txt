@@ -1,0 +1,18 @@
+<v n="1"> A to wiedz, ze w ostatecznych dniach nastana trudne czasy. </v>
+<v n="2"> Ludzie bowiem beda samolubni, chciwi, chelpliwi, pyszni, bluzniacy, nieposluszni rodzicom, niewdzieczni, bezbozni; </v>
+<v n="3"> Bez naturalnej milosci, niedotrzymujacy slowa, oszczercy, niepowsciagliwi, okrutni, niemilujacy dobrych; </v>
+<v n="4"> Zdrajcy, porywczy, nadeci, milujacy bardziej rozkosze niz Boga; </v>
+<v n="5"> Przybierajacy pozor poboznosci, ale wyrzekajacy sie jej mocy. Takich ludzi unikaj. </v>
+<v n="6"> Z takich bowiem sa ci, ktorzy wkradaja sie do domow i usidlaja naiwne kobietki obciazone grzechami, wiedzione przez rozmaite pozadliwosci; </v>
+<v n="7"> Ktore zawsze sie ucza, a nigdy nie moga dojsc do poznania prawdy. </v>
+<v n="8"> Jak Jannes i Jambres sprzeciwiali sie Mojzeszowi, tak tez oni sprzeciwiaja sie prawdzie, ludzie o wypaczonym umysle, odrzuceni jesli chodzi o wiare. </v>
+<v n="9"> Lecz daleko nie zajda, bo ich glupota bedzie jawna dla wszystkich, jak to sie stalo i z tamtymi. </v>
+<v n="10"> Ale ty pojales moja nauke, sposob zycia, dazenia, wiare, wytrwalosc, milosc i cierpliwosc; </v>
+<v n="11"> Przesladowania, cierpienia, ktore mnie spotkaly w Antiochii, w Ikonium i Listrze – przesladowania, ktore znioslem, a ze wszystkich wyrwal mnie Pan. </v>
+<v n="12"> Tak i wszyscy, ktorzy chca zyc poboznie w Chrystusie Jezusie, beda przesladowani. </v>
+<v n="13"> Lecz ludzie zli i zwodziciele coraz bardziej beda brnac w zlo, bladzac i innych wprowadzajac w blad. </v>
+<v n="14"> Ty zas trwaj w tym, czego sie nauczyles i co ci powierzono, wiedzac, od kogo sie tego nauczyles; </v>
+<v n="15"> I poniewaz od dziecka znasz Pisma swiete, ktore cie moga uczynic madrym ku zbawieniu przez wiare, ktora jest w Chrystusie Jezusie. </v>
+<v n="16"> Cale Pismo jest natchnione przez Boga i pozyteczne do nauki, do strofowania, do poprawiania, do wychowywania w sprawiedliwosci; </v>
+<v n="17"> Aby czlowiek Bozy byl doskonaly, do wszelkiego dobrego dziela w pelni przygotowany. </v>
+</c>

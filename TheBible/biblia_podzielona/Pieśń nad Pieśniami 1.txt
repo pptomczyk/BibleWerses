@@ -1,0 +1,18 @@
+<v n="1"> Pieœñ nad pieœniami Salomona. </v>
+<v n="2"> Niech mnie poca³uje poca³unkami swoich ust. Twoja mi³oœæ bowiem jest lepsza od wina. </v>
+<v n="3"> Z powodu wonnoœci twoich olejków twoje imiê jest jak rozlany olejek; dlatego mi³uj¹ ciê dziewice. </v>
+<v n="4"> Poci¹gnij mnie, a pobiegniemy za tob¹. Król wprowadzi³ mnie do swoich komnat. Bêdziemy siê cieszyæ i radowaæ tob¹, bêdziemy pamiêtaæ o twojej mi³oœci bardziej ni¿ o winie. Mi³uj¹ ciê prawi. </v>
+<v n="5"> Czarna jestem, ale piêkna, o córki Jerozolimy, jak namioty Kedaru, jak zas³ony Salomona. </v>
+<v n="6"> Nie patrzcie na mnie, ¿e jestem czarna, gdy¿ s³oñce mnie opali³o. Synowie mojej matki rozgniewali siê na mnie, postawili mnie na stra¿y winnic; a mojej w³asnej winnicy nie ustrzeg³am. </v>
+<v n="7"> Powiedz mi ty, którego mi³uje moja dusza, gdzie wypasasz, gdzie dajesz swojej trzodzie odpocz¹æ w po³udnie. Czemu bowiem mam byæ jak b³¹dz¹ca przy trzodach twoich towarzyszy? </v>
+<v n="8"> Jeœli nie wiesz, najpiêkniejsza wœród kobiet, to idŸ œladem trzody i paœ swoje koŸl¹tka przy sza³asach pasterzy. </v>
+<v n="9"> Przyrównam ciê, moja umi³owana, do zaprzêgu rydwanów faraona. </v>
+<v n="10"> Twoje lica s¹ piêkne, ozdobione klejnotami, a twoja szyja – ³añcuchami. </v>
+<v n="11"> Uczynimy ci z³ote klejnoty nakrapiane srebrem. </v>
+<v n="12"> Dopóki król jest przy swoim stole, mój nard rozsiewa swoj¹ woñ. </v>
+<v n="13"> Jak wi¹zka mirry jest dla mnie mój mi³y, spoczywa na moich piersiach. </v>
+<v n="14"> Mój mi³y jest dla mnie jak grono cyprysu poœród winnic w En-Gedi. </v>
+<v n="15"> O jaka ty jesteœ piêkna, moja umi³owana! O jaka ty jesteœ piêkna! Twoje oczy s¹ jak oczy go³êbicy. </v>
+<v n="16"> O jaki ty jesteœ piêkny, mój umi³owany, i jak mi³y! £o¿e nasze siê zieleni. </v>
+<v n="17"> Belki naszego domu s¹ cedrowe, a nasze stropy – cyprysowe. </v>
+</c>

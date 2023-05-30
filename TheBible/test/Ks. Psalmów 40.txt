@@ -1,0 +1,18 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Z tesknota czekalem na PANA, a sklonil sie ku mnie i wysluchal mojego wolania. </v>
+<v n="2"> Wyciagnal mnie ze strasznego dolu i z blota grzaskiego i postawil moje stopy na skale, i umocnil moje kroki. </v>
+<v n="3"> I wlozyl w moje usta nowa piesn, chwale dla naszego Boga. Wielu to zobaczy i uleknie sie, i zaufa PANU. </v>
+<v n="4"> Blogoslawiony czlowiek, ktory poklada w PANU swoja nadzieje, a nie ma wzgledu na pysznych ani na tych, ktorzy podazaja za klamstwem. </v>
+<v n="5"> Wiele uczyniles cudow, PANIE, moj Boze, a twoich zamyslow wobec nas nikt nie potrafi wyliczyc przed toba; gdybym chcial je opowiedziec i oglosic, jest ich wiecej, niz zdolalbym wypowiedziec. </v>
+<v n="6"> Ofiary i daru nie chciales, lecz otworzyles mi uszy; nie zadales calopalenia i ofiary za grzech. </v>
+<v n="7"> Wtedy powiedzialem: Oto przychodze, na poczatku ksiegi jest napisane o mnie; </v>
+<v n="8"> Pragne czynic twoja wole, moj Boze, a twoje prawo jest w moim wnetrzu. </v>
+<v n="9"> Glosilem twoja sprawiedliwosc w wielkim zgromadzeniu; oto nie powsciagalem moich ust; ty wiesz o tym, PANIE. </v>
+<v n="10"> Twojej sprawiedliwosci nie krylem w glebi serca, opowiadalem twoja wiernosc i zbawienie; nie tailem twego milosierdzia i prawdy w wielkim zgromadzeniu. </v>
+<v n="11"> Dlatego ty, PANIE, nie odmawiaj mi twej litosci; twoje milosierdzie i prawda niech mnie zawsze strzega. </v>
+<v n="12"> Otoczyly mnie bowiem nieszczescia, ktorych nie sposob zliczyc; dosiegly mnie moje nieprawosci, tak ze nie moge ich przejrzec; wiecej ich niz wlosow na mej glowie, wiec serce we mnie ustaje. </v>
+<v n="13"> PANIE, racz mnie ocalic; PANIE, pospiesz mi na pomoc. </v>
+<v n="14"> Niech sie zawioda i zawstydza wszyscy, ktorzy czyhaja, by zatracic moja dusze; niech sie cofna i zawstydza ci, ktorzy mi zle zycza. </v>
+<v n="15"> Niech beda spustoszeni wskutek swej hanby ci, ktorzy mi mowia: Ha, ha! </v>
+<v n="16"> Niech sie raduja i wesela w tobie wszyscy, ktorzy cie szukaja; niech ci, ktorzy miluja twoje zbawienie, mowia zawsze: Niech PAN bedzie wywyzszony. </v>
+<v n="17"> Ja wprawdzie jestem ubogi i nedzny, lecz Pan mysli o mnie. Ty jestes moja pomoca i wybawicielem, moj Boze, nie zwlekaj. </v>
+</c>

@@ -1,0 +1,24 @@
+<v n="1"> Potem doszlo do mnie slowo PANA zastepow mowiace: </v>
+<v n="2"> Tak mowi PAN zastepow: Bylem zazdrosny o Syjon w wielkiej gorliwosci, bylem zazdrosny w wielkim gniewie. </v>
+<v n="3"> Tak mowi PAN: Wrocilem na Syjon i zamieszkam w Jerozolimie; a Jerozolima bedzie nazwana Miastem Wiernym, a gora PANA zastepow – Gora Swieta. </v>
+<v n="4"> Tak mowi PAN zastepow: Jeszcze siadac beda starcy i staruszki na ulicach Jerozolimy, kazdy z nich z laska w reku z powodu podeszlego wieku. </v>
+<v n="5"> I ulice miasta beda pelne bawiacych sie na nich chlopcow i dziewczat. </v>
+<v n="6"> Tak mowi PAN zastepow: Jesli w tych dniach wyda sie to niemozliwe w oczach resztki tego ludu, czy bedzie to tez niemozliwe w moich oczach? – mowi PAN zastepow. </v>
+<v n="7"> Tak mowi PAN zastepow: Oto wybawie swoj lud z ziemi wschodniej i z ziemi zachodniej. </v>
+<v n="8"> Sprowadze go i zamieszka w Jerozolimie, i bedzie moim ludem, a ja bede jego Bogiem, w prawdzie i sprawiedliwosci. </v>
+<v n="9"> Tak mowi PAN zastepow: Niech sie umocnia wasze rece, wy, ktorzy sluchaliscie w tych dniach slow z ust prorokow, ktorzy byli w dniu, kiedy zalozono fundament domu PANA zastepow, aby swiatynia zostala odbudowana. </v>
+<v n="10"> Przed tymi dniami bowiem nie byla wynagrodzona praca ludzka i praca bydlat. Dla wychodzacych i wchodzacych nie bylo pokoju z powodu wroga, bo ja podburzylem wszystkich ludzi, jednych przeciwko drugim. </v>
+<v n="11"> Lecz teraz nie uczynie z resztka tego ludu tak jak za dawnych dni, mowi PAN zastepow. </v>
+<v n="12"> Ale siewy beda rosly w pokoju, winorosl wyda swoj owoc, ziemia wyda swoje plony i niebiosa takze spuszcza swoja rose, a to wszystko dam resztce tego ludu w posiadanie. </v>
+<v n="13"> I stanie sie, ze jak byliscie przeklenstwem wsrod pogan, domu Judy i domu Izraela, tak was wybawie i bedziecie blogoslawienstwem. Nie bojcie sie i niech sie umocnia wasze rece. </v>
+<v n="14"> Tak bowiem mowi PAN zastepow: Jak postanowilem ukarac was, gdy wasi ojcowie pobudzali mnie do gniewu, mowi PAN zastepow – i nie zalowalem tego; </v>
+<v n="15"> Tak znowu postanowilem w tych dniach uczynic dobrze Jerozolimie i domowi Judy. Nie bojcie sie. </v>
+<v n="16"> To sa rzeczy, ktore bedziecie czynic: Mowcie prawde, kazdy ze swoim bliznim, wykonujcie sprawiedliwy i spokojny sad w waszych bramach; </v>
+<v n="17"> Nie obmyslajcie zla w sercach waszych, jeden przeciwko drugiemu, i nie lubujcie sie w krzywoprzysiestwie, gdyz tego wszystkiego nienawidze, mowi PAN. </v>
+<v n="18"> I doszlo do mnie slowo PANA zastepow mowiace: </v>
+<v n="19"> Tak mowi PAN zastepow: Post w czwartym, piatym, siodmym i dziesiatym miesiacu zamienia sie dla domu Judy w radosc i wesele, i w rozkoszne swieta. Milujcie wiec prawde i pokoj. </v>
+<v n="20"> Tak mowi PAN zastepow: Jeszcze beda przychodzic narody i mieszkancy wielu miast. </v>
+<v n="21"> Mieszkancy jednego miasta pojda do drugiego, mowiac: Pojdzmy ochoczo przeblagac oblicze PANA i szukac PANA zastepow. Ja takze pojde. </v>
+<v n="22"> A tak liczne ludy i potezne narody przybeda szukac PANA zastepow w Jerozolimie i przeblagac oblicze PANA. </v>
+<v n="23"> Tak mowi PAN zastepow: W tych dniach dziesieciu ludzi ze wszystkich jezykow narodow uchwyci sie poly jednego Zyda, mowiac: Pojdziemy z wami, bo uslyszelismy, ze Bog jest z wami. </v>
+</c>

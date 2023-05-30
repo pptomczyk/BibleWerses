@@ -1,0 +1,19 @@
+<v n="1"> Niech niewielu z was zostaje nauczycielami, moi bracia, gdy¿ wiecie, ¿e czeka nas surowszy s¹d. </v>
+<v n="2"> Wszyscy bowiem w wielu sprawach upadamy. Jeœli ktoœ nie upada w mowie, jest cz³owiekiem doskona³ym, który te¿ mo¿e utrzymaæ na wodzy ca³e cia³o. </v>
+<v n="3"> Oto koniom wk³adamy wêdzid³a do pysków, aby by³y nam pos³uszne, i kierujemy ca³ym ich cia³em. </v>
+<v n="4"> Podobnie i statki, choæ s¹ tak wielkie i pêdzone gwa³townymi wichrami, jednak za pomoc¹ niewielkiego steru s¹ kierowane tam, dok¹d chce sternik. </v>
+<v n="5"> Tak te¿ jêzyk jest ma³ym organem, lecz bardzo siê przechwala. Jak¿e wielki las zapala ma³y ogieñ! </v>
+<v n="6"> Jêzyk te¿ jest ogniem i œwiatem nieprawoœci. Jêzyk jest tak u³o¿ony wœród naszych cz³onków, ¿e kala ca³e cia³o i zapala bieg ¿ycia, i jest zapalony przez ogieñ piekielny. </v>
+<v n="7"> Wszelki bowiem rodzaj dzikich zwierz¹t, ptaków, gadów i morskich stworzeñ mo¿na ujarzmiæ i zostaje ujarzmiony przez cz³owieka. </v>
+<v n="8"> Natomiast nikt z ludzi nie mo¿e ujarzmiæ jêzyka. Jest to nieokie³znane z³o, pe³ne œmiercionoœnego jadu. </v>
+<v n="9"> Nim b³ogos³awimy Boga i Ojca i nim przeklinamy ludzi stworzonych na podobieñstwo Boga. </v>
+<v n="10"> Z tych samych ust wychodzi b³ogos³awieñstwo i przekleñstwo. Tak byæ nie powinno, moi bracia. </v>
+<v n="11"> Czy Ÿród³o z tej samej szczeliny tryska wod¹ s³odk¹ i gorzk¹? </v>
+<v n="12"> Czy mo¿e, moi bracia, drzewo figowe rodziæ oliwki albo winoroœl figi? Tak te¿ ¿adne Ÿród³o nie mo¿e wydaæ s³onej i s³odkiej wody. </v>
+<v n="13"> Kto wœród was jest m¹dry i rozumny? Niech poka¿e dobrym postêpowaniem swoje uczynki z ³agodnoœci¹ w³aœciw¹ m¹droœci. </v>
+<v n="14"> Jeœli jednak macie w waszym sercu gorzk¹ zazdroœæ i k³ótliwoœæ, to nie przechwalajcie siê i nie k³amcie wbrew prawdzie. </v>
+<v n="15"> Nie jest to m¹droœæ zstêpuj¹ca z góry, lecz ziemska, zmys³owa, diabelska. </v>
+<v n="16"> Gdzie bowiem jest zazdroœæ i k³ótliwoœæ, tam te¿ niepokój i wszelki z³y czyn. </v>
+<v n="17"> M¹droœæ zaœ, która jest z góry, jest przede wszystkim czysta, nastêpnie pokojowo usposobiona, ³agodna, ustêpliwa, pe³na mi³osierdzia i dobrych owoców, bezstronna i nieob³udna. </v>
+<v n="18"> A owoc sprawiedliwoœci jest siany w pokoju przez tych, którzy czyni¹ pokój. </v>
+</c>

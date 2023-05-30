@@ -1,0 +1,27 @@
+<v n="1"> Manasses mial dwanascie lat, kiedy zaczal krolowac, i krolowal piecdziesiat piec lat w Jerozolimie. Jego matka miala na imie Chefsiba. </v>
+<v n="2"> Czynil on to, co zle w oczach PANA, wedlug obrzydliwosci tych narodow, ktore PAN wypedzil przed synami Izraela. </v>
+<v n="3"> Odbudowal bowiem wyzyny, ktore zburzyl jego ojciec Ezechiasz, wznosil oltarze dla Baala, posadzil gaj, tak jak uczynil Achab, krol Izraela, i oddawal poklon calemu zastepowi nieba, i sluzyl mu. </v>
+<v n="4"> Zbudowal tez oltarze w domu PANA, o ktorym PAN powiedzial: W Jerozolimie umieszcze swoje imie. </v>
+<v n="5"> Zbudowal tez oltarze calemu zastepowi nieba w obydwu dziedzincach domu PANA. </v>
+<v n="6"> Przeprowadzil swojego syna przez ogien, uprawial wrozbiarstwo i czary, ustanowil czarownikow i czarnoksieznikow. Bardzo wiele zlego czynil w oczach PANA, pobudzajac go do gniewu. </v>
+<v n="7"> Postawil tez rzezbe gaju, ktora wykonal, w domu, o ktorym PAN powiedzial do Dawida i do jego syna Salomona: W tym domu i w Jerozolimie, ktore wybralem sposrod wszystkich pokolen Izraela, umieszcze swoje imie na wieki; </v>
+<v n="8"> A juz wiecej nie dopuszcze, by noga Izraela opuscila ziemie, ktora dalem ich ojcom, oby tylko pilnie przestrzegali wszystkiego, co im nakazalem, i calego prawa, ktore im nadal moj sluga Mojzesz. </v>
+<v n="9"> Lecz oni nie sluchali. A Manasses zwiodl ich, aby czynili gorzej niz narody, ktore PAN wytracil przed synami Izraela. </v>
+<v n="10"> Wtedy PAN przemowil przez swoje slugi, prorokow, mowiac: </v>
+<v n="11"> Poniewaz Manasses, krol Judy, dopuscil sie tych obrzydliwosci, czyniac gorsze rzeczy niz wszystko, co czynili Amoryci, ktorzy byli przed nim, a przywiodl Jude do grzechu przez swoje bozki; </v>
+<v n="12"> Dlatego tak mowi PAN, Bog Izraela: Oto sprowadze nieszczescie na Jerozolime i na Jude, tak ze kazdemu, kto o tym uslyszy, zadzwoni w obu uszach. </v>
+<v n="13"> Rozciagne bowiem nad Jerozolima sznur Samarii i pion domu Achaba. I wytre Jerozolime, tak jak wyciera sie miske, a po wytarciu odwraca sie dnem do gory. </v>
+<v n="14"> I porzuce reszte swojego dziedzictwa, i wydam je w rece jego wrogow; stana sie lupem i pastwa wszystkich swoich wrogow. </v>
+<v n="15"> Poniewaz dopuszczali sie tego, co zle w moich oczach, i draznili mnie od dnia, kiedy ich ojcowie wyszli z Egiptu, az do dzis. </v>
+<v n="16"> Ponadto nawet krwi niewinnej Manasses przelal bardzo duzo, tak ze napelnil nia Jerozolime od kranca do kranca, nie liczac swojego grzechu, przez ktory przywiodl do grzechu Jude, czyniac to, co zle w oczach PANA. </v>
+<v n="17"> A pozostale dzieje Manassesa i wszystko, co czynil, i jego grzech, ktorego sie dopuscil, czy nie sa zapisane w ksiedze kronik krolow Judy? </v>
+<v n="18"> I Manasses zasnal ze swymi ojcami, i zostal pogrzebany w ogrodzie swego domu, w ogrodzie Uzzy. I Amon, jego syn, krolowal w jego miejsce. </v>
+<v n="19"> Amon mial dwadziescia dwa lata, kiedy zaczal krolowac, i krolowal dwa lata w Jerozolimie. Jego matka miala na imie Meszullemet i byla corka Charusa z Jotba. </v>
+<v n="20"> Czynil on to, co zle w oczach PANA, tak jak czynil jego ojciec Manasses. </v>
+<v n="21"> Szedl wszystkimi drogami, ktorymi szedl jego ojciec, i sluzyl bozkom, ktorym sluzyl jego ojciec, i oddawal im poklon; </v>
+<v n="22"> Opuscil PANA, Boga swoich ojcow, a nie szedl droga PANA. </v>
+<v n="23"> I sludzy Amona uknuli spisek przeciw niemu, i zabili krola w jego domu. </v>
+<v n="24"> Wtedy lud tej ziemi zabil wszystkich, ktorzy uknuli spisek przeciw krolowi Amonowi. I lud tej ziemi ustanowil w jego miejsce krolem Jozjasza, jego syna. </v>
+<v n="25"> A pozostale dzieje Amona, ktore czynil, czy nie sa zapisane w ksiedze kronik krolow Judy? </v>
+<v n="26"> I pogrzebano go w jego grobie, w ogrodzie Uzzy. A jego syn Jozjasz krolowal w jego miejsce. </v>
+</c>

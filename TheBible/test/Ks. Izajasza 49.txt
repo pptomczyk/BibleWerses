@@ -1,0 +1,27 @@
+<v n="1"> Sluchajcie mnie, wyspy, a narody dalekie, uwazajcie! PAN wezwal mnie od lona, od lona mojej matki wspominal moje imie. </v>
+<v n="2"> I uczynil moje usta jak ostry miecz, w cieniu swej reki ukryl mnie i uczynil mnie wyostrzona strzala; w swoim kolczanie schowal mnie; </v>
+<v n="3"> I powiedzial mi: Jestes moim sluga, Izraelu, w tobie sie rozslawie. </v>
+<v n="4"> A ja powiedzialem: Na darmo sie trudzilem, na prozno i daremnie zuzylem swoja sile. A jednak moj sad jest u PANA i moje dzielo – u mojego Boga. </v>
+<v n="5"> A teraz mowi PAN, ktory stworzyl mnie na swego sluge juz od lona, abym przyprowadzil do niego Jakuba, a chocby Izrael nie byl zebrany, bede jednak wyslawiony w oczach PANA, a moj Bog bedzie moja sila. </v>
+<v n="6"> I powiedzial: To za malo, ze jestes moim sluga, aby podzwignac pokolenia Jakuba i przywrocic ocalonych z Izraela. Dlatego ustanowie cie swiatloscia dla pogan, abys byl moim zbawieniem az do krancow ziemi. </v>
+<v n="7"> Tak mowi PAN, Odkupiciel Izraela, jego Swiety, do tego, ktorym kazdy gardzi i ktorym brzydza sie narody, do slugi wladcow: Krolowie zobacza cie i powstana, ksiazeta oddadza ci poklon przez wzglad na PANA, ktory jest wierny, przez wzglad na Swietego Izraela, ktory cie wybral. </v>
+<v n="8"> Tak mowi PAN: W czasie pomyslnym wysluchalem cie, a w dniu zbawienia przyszedlem ci z pomoca. Bede cie strzegl i ustanowie cie przymierzem dla ludu, abys utwierdzil ziemie i rozdzielil opustoszale dziedzictwa; </v>
+<v n="9"> Abys mowil wiezniom: Wyjdzcie; a tym, ktorzy sa w ciemnosci: Pokazcie sie. Beda sie pasli przy drogach i na wszystkich miejscach wysokich beda ich pastwiska. </v>
+<v n="10"> Nie zaznaja glodu ani pragnienia i nie porazi ich upal ani slonce, bo ten, ktory lituje sie nad nimi, poprowadzi ich, poprowadzi ich do zrodel wod. </v>
+<v n="11"> Na wszystkich moich gorach utoruje droge, a moje goscince beda wyzej wzniesione. </v>
+<v n="12"> Oto ci przyjda z daleka, drudzy z polnocy i od strony morza, a jeszcze inni z ziemi Sinim. </v>
+<v n="13"> Spiewajcie, niebiosa, rozraduj sie, ziemio, glosno zabrzmijcie, gory! PAN bowiem pocieszyl swoj lud i zlitowal sie nad swoimi ubogimi. </v>
+<v n="14"> Ale Syjon powiedzial: PAN mnie opuscil, PAN o mnie zapomnial. </v>
+<v n="15"> Czy kobieta moze zapomniec o swoim niemowleciu i nie zlitowac sie nad plodem swego lona? A chocby tez i one zapomnialy, ja jednak o tobie nie zapomne. </v>
+<v n="16"> Oto na swoich dloniach wyrylem cie; twoje mury sa zawsze przede mna. </v>
+<v n="17"> Pospiesza sie twoi synowie, a ci, ktorzy cie burzyli i pustoszyli, odejda od ciebie. </v>
+<v n="18"> Podnies wokolo swoje oczy i zobacz: oni wszyscy sie gromadza i przychodza do ciebie. Jak zyje ja, mowi PAN, przyozdobisz sie nimi jak klejnotem i przepaszesz sie nimi jak oblubienica; </v>
+<v n="19"> Bo twoje ruiny, twoje opustoszale miejsca i zniszczona ziemia beda zbyt ciasne dla mieszkancow, oddala sie ci, ktorzy cie pozerali. </v>
+<v n="20"> A synowie, ktorych bedziesz miala po utraceniu pierwszych, powiedza ci do uszu: To miejsce jest zbyt ciasne; daj mi miejsce, abym mogl mieszkac. </v>
+<v n="21"> I powiesz w swoim sercu: Kto mi tych splodzil? Przeciez bylam osierocona i samotna, wygnana i tulalam sie. Kto wiec tych wychowal? Oto ja sama pozostalam, gdzie wiec oni byli? </v>
+<v n="22"> Tak mowi Pan BOG: Oto wzniose reke ku narodom, podniose swoj sztandar ku ludom. I przyniosa twoich synow na rekach, i twoje corki beda niesc na ramionach. </v>
+<v n="23"> I krolowie beda twoimi piastunami, a ich ksiezne – twoimi mamkami. Z twarza ku ziemi beda sie tobie klaniac i pyl twoich nog beda lizac. Wtedy poznasz, ze ja jestem PANEM i ze nie bywaja zawstydzeni ci, ktorzy mnie oczekuja. </v>
+<v n="24"> Czy mozna odebrac mocarzowi zdobycz? Czy slusznie pojmany lud bedzie wybawiony? </v>
+<v n="25"> Ale tak mowi PAN: Pojmany lud zostanie odebrany mocarzowi i zdobycz okrutnika zostanie wybawiona. Ja bowiem sprzeciwie sie twemu przeciwnikowi i ocale twoich synow. </v>
+<v n="26"> I tych, ktorzy cie gnebia, nakarmie ich wlasnym cialem, a wlasna krwia sie upija jak moszczem. I wszelkie cialo pozna, ze ja jestem PANEM, twoim Zbawicielem i twoim Odkupicielem, Mocarzem Jakuba. </v>
+</c>

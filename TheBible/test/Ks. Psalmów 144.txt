@@ -1,0 +1,16 @@
+<v n="1"> Piesn Dawida. Blogoslawiony PAN, moja skala, ktory zaprawia moje rece do walki, a moje palce do wojny. </v>
+<v n="2"> Moje milosierdzie i moja twierdza, moja warownia, moj wybawiciel i moja tarcza; ten, ktoremu ufam, on mi poddaje moj lud. </v>
+<v n="3"> PANIE, czym jest czlowiek, ze zwracasz na niego uwage? Albo syn czlowieczy, ze go powazasz? </v>
+<v n="4"> Czlowiek jest podobny do marnosci; jego dni jak cien, ktory przemija. </v>
+<v n="5"> PANIE, nachyl twoich niebios i zstap; dotknij gor, a beda dymic. </v>
+<v n="6"> Zablysnij blyskawica i rozprosz ich; wypusc swoje strzaly i poraz ich. </v>
+<v n="7"> Wyciagnij swa reke z wysokosci; wybaw mnie i ocal z wielkich wod, z rak cudzoziemcow; </v>
+<v n="8"> Ktorych usta mowia klamstwo, a ich prawica jest prawica falszywa. </v>
+<v n="9"> Boze, zaspiewam tobie nowa piesn; bede ci spiewal przy dzwiekach lutni i harfy o dziesieciu strunach. </v>
+<v n="10"> Ty dajesz krolom zwyciestwo, a Dawida, swego sluge, wybawiasz od srogiego miecza. </v>
+<v n="11"> Wybaw mnie i ocal z rak cudzoziemcow, ktorych usta mowia klamstwo, a ich prawica jest prawica falszywa; </v>
+<v n="12"> Aby nasi synowie byli jak szczepy wyrosle w swojej mlodosci, a nasze corki jak kamienie wegielne, wyrzezbione na wzor palacu; </v>
+<v n="13"> Aby nasze spichlerze byly pelne, obficie zaopatrzone we wszystko, nasze stada rodzily tysiace i dziesiec tysiecy w naszych zagrodach; </v>
+<v n="14"> Aby nasze woly byly tluste, zeby nie bylo wlaman ani ucieczek, ani narzekania na naszych ulicach. </v>
+<v n="15"> Blogoslawiony lud, ktoremu sie tak dzieje. Blogoslawiony lud, ktorego Bogiem jest PAN. </v>
+</c>

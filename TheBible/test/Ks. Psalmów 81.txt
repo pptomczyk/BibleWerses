@@ -1,0 +1,17 @@
+<v n="1"> Przewodnikowi choru, na Gittyt. Asafa. Radosnie spiewajcie Bogu, naszej mocy; radosnie wykrzykujcie Bogu Jakuba. </v>
+<v n="2"> Wezcie psalm, przyniescie beben, wdzieczna harfe i cytre. </v>
+<v n="3"> Zadmijcie w trabe w czas nowiu, w czasie wyznaczonym, w dniu naszego uroczystego swieta. </v>
+<v n="4"> Jest bowiem taki nakaz w Izraelu, prawo Boga Jakuba. </v>
+<v n="5"> Ustanowil to swiadectwem dla Jozefa, kiedy wyszedl przeciw ziemi Egiptu, gdzie slyszalem jezyk, ktorego nie zrozumialem. </v>
+<v n="6"> Uwolnilem od brzemienia jego barki, a jego rece od dzwigania kotlow. </v>
+<v n="7"> Wzywales mnie w ucisku i wybawilem cie; odpowiedzialem ci w skrytosci gromu, doswiadczylem cie u wod Meriba. Sela. </v>
+<v n="8"> Sluchaj, moj ludu, a oswiadcze ci; Izraelu, jesli bedziesz mnie sluchal; </v>
+<v n="9"> Nie bedziesz mial cudzego boga ani nie oddasz poklonu obcemu bogu; </v>
+<v n="10"> Ja, PAN, jestem twoim Bogiem, ktory cie wyprowadzil z ziemi Egiptu; otworz usta, a ja je napelnie. </v>
+<v n="11"> Lecz moj lud nie usluchal mego glosu, a Izrael nie chcial mnie. </v>
+<v n="12"> Zostawilem ich wiec zadzom ich serca i postepowali wedlug swoich zamyslow. </v>
+<v n="13"> O, gdyby moj lud mnie posluchal, a Izrael chodzil moimi drogami! </v>
+<v n="14"> W krotkim czasie ponizylbym ich nieprzyjaciol i zwrocilbym reke przeciw ich wrogom. </v>
+<v n="15"> Nienawidzacy PANA, choc obludnie, musieliby mu sie poddac, a ich czas trwalby wiecznie. </v>
+<v n="16"> I karmilbym ich wyborna pszenica, a nasycilbym cie miodem ze skaly. </v>
+</c>

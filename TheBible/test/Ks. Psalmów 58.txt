@@ -1,0 +1,12 @@
+<v n="1"> Przewodnikowi choru. Al taszchet. Miktam Dawida. O zgromadzenie, czy rzeczywiscie mowicie to, co sprawiedliwe? Czy slusznie sadzicie, synowie ludzcy? </v>
+<v n="2"> Przeciwnie, w sercu knujecie nieprawosci, wymierzacie przemoc waszych rak na ziemi. </v>
+<v n="3"> Niegodziwi zeszli na bezdroza juz od lona matki, od urodzenia bladza, mowiac klamstwo. </v>
+<v n="4"> Ich jad podobny do jadu weza, sa jak glucha zmija, ktora zatyka uszy; </v>
+<v n="5"> Aby nie slyszec glosu zaklinaczy ani czarownika, co biegle zaklina. </v>
+<v n="6"> Boze, skrusz zeby w ich ustach; PANIE, polam zeby trzonowe lwiat. </v>
+<v n="7"> Niech znikna jak splywajaca woda, niech beda jak ten, ktory naciaga luk, lecz jego strzaly sie lamia. </v>
+<v n="8"> Niech przemina jak slimak, ktory sie rozplywa; jak poroniony plod kobiety niech nie zobacza slonca. </v>
+<v n="9"> Zanim wasze ciernie wypuszcza kolce, gdy jeszcze sa zielone, porwie je wicher gniewu Boga. </v>
+<v n="10"> Bedzie sie weselil sprawiedliwy, gdy ujrzy pomste; swoje stopy umyje we krwi niegodziwego. </v>
+<v n="11"> A ludzie powiedza: Jest, doprawdy, nagroda dla sprawiedliwego; doprawdy jest Bog, ktory sadzi na ziemi. </v>
+</c>

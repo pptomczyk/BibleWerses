@@ -1,0 +1,9 @@
+<v n="1"> Przewodnikowi choru, na Neginot. Psalm Dawida. Wysluchaj, Boze, mojego wolania, miej wzglad na moja modlitwe. </v>
+<v n="2"> Z krancow ziemi wolam do ciebie, gdy moje serce jest zatrwozone; wprowadz mnie na skale, ktora jest wyzsza ode mnie. </v>
+<v n="3"> Ty bowiem jestes moja ucieczka i wieza warowna przed wrogiem. </v>
+<v n="4"> Bede mieszkal w twoim przybytku na wieki, chroniac sie pod oslona twych skrzydel. Sela. </v>
+<v n="5"> Bo ty, Boze, wysluchales moich slubow; dales dziedzictwo tym, ktorzy sie boja twego imienia. </v>
+<v n="6"> Przedluzysz dni krola, jego lata – z pokolenia na pokolenie. </v>
+<v n="7"> Bedzie trwal na wieki przed Bogiem; przygotuj milosierdzie i prawde, niech go strzega. </v>
+<v n="8"> Tak bede spiewal twemu imieniu na wieki i bede spelnial moje sluby kazdego dnia. </v>
+</c>

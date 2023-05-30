@@ -1,0 +1,27 @@
+<v n="1"> Potem Adam obcowal ze swoja zona Ewa, a ta poczela i urodzila Kaina. I powiedziala: Otrzymalam mezczyzne od PANA. </v>
+<v n="2"> I urodzila jeszcze jego brata Abla. Abel byl pasterzem owiec, a Kain byl rolnikiem. </v>
+<v n="3"> Z biegiem czasu zdarzylo sie, ze Kain przyniosl PANU ofiare z plonow ziemi. </v>
+<v n="4"> Takze Abel przyniosl z pierworodnych swej trzody i z ich tluszczu. A PAN wejrzal na Abla i jego ofiare. </v>
+<v n="5"> Lecz na Kaina i jego ofiare nie wejrzal. Kain rozgniewal sie bardzo i spochmurniala jego twarz. </v>
+<v n="6"> Wtedy PAN zapytal Kaina: Dlaczego sie rozgniewales? Czemu spochmurniala twoja twarz? </v>
+<v n="7"> Jesli bedziesz dobrze czynil, czy nie zostaniesz wywyzszony? A jesli nie bedziesz dobrze czynil, grzech lezy u drzwi; a do ciebie bedzie jego pragnienie, a ty bedziesz nad nim panowac. </v>
+<v n="8"> I Kain rozmawial ze swoim bratem Ablem. A gdy byli na polu, Kain powstal przeciwko swemu bratu Ablowi i zabil go. </v>
+<v n="9"> Wtedy PAN zapytal Kaina: Gdzie jest twoj brat Abel? On odpowiedzial: Nie wiem. Czy ja jestem strozem mego brata? </v>
+<v n="10"> Bog zapytal: Coz uczyniles? Glos krwi twego brata wola do mnie z ziemi. </v>
+<v n="11"> Teraz wiec przeklety bedziesz na ziemi, ktora otworzyla swe usta, aby przyjac krew twego brata przelana przez twoja reke. </v>
+<v n="12"> Gdy bedziesz uprawial ziemie, nie da ci juz swego plonu. Tulaczem i zbiegiem bedziesz na ziemi. </v>
+<v n="13"> Wtedy Kain powiedzial do PANA: Zbyt ciezka jest moja kara, bym mogl ja zniesc. </v>
+<v n="14"> Oto wyganiasz mnie dzis z powierzchni ziemi, a przed twoja twarza bede ukryty. Bede tulaczem i zbiegiem na ziemi, a stanie sie tak, ze ktokolwiek mnie spotka, zabije mnie. </v>
+<v n="15"> PAN mu odpowiedzial: Zaprawde, ktokolwiek zabije Kaina, poniesie siedmiokrotna zemste. I nalozyl PAN na Kaina pietno, aby nie zabil go nikt, kto by go spotkal. </v>
+<v n="16"> Wtedy odszedl Kain sprzed oblicza PANA i zamieszkal w ziemi Nod, na wschod od Edenu. </v>
+<v n="17"> I Kain obcowal ze swoja zona, a ona poczela i urodzila Henocha. Zbudowal tez miasto i nazwal je imieniem swego syna – Henoch. </v>
+<v n="18"> Henochowi urodzil sie Irad, a Irad splodzil Mechujaela, a Mechujael splodzil Matuszaela, a Matuszael splodzil Lameka. </v>
+<v n="19"> I Lamek pojal sobie dwie zony. Imie jednej bylo Ada, a drugiej – Silla. </v>
+<v n="20"> Ada urodzila Jabala, ktory byl ojcem mieszkajacych w namiotach i pasterzy. </v>
+<v n="21"> Jego brat mial na imie Jubal, a byl on ojcem wszystkich grajacych na harfie i na flecie. </v>
+<v n="22"> Silla urodzila Tubalkaina, ktory byl rzemieslnikiem wszelkiej roboty od miedzi i zelaza. Siostra Tubalkaina byla Noema. </v>
+<v n="23"> I Lamek powiedzial swym zonom, Adzie i Silli: Sluchajcie mego glosu, zony Lameka, posluchajcie moich slow; zabilem mezczyzne za zranienie mnie i mlodzienca za siniec. </v>
+<v n="24"> Jesli Kain ma byc pomszczony siedem razy, to Lamek siedemdziesiat siedem razy. </v>
+<v n="25"> I Adam znow obcowal ze swoja zona, a ona urodzila syna i nadala mu imie Set, mowiac: Dal mi Bog inne potomstwo za Abla, ktorego zabil Kain. </v>
+<v n="26"> Setowi tez urodzil sie syn i nadal mu imie Enosz. Wtedy zaczeto wzywac imienia PANA. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> Czyz nie wiecie, bracia (bo mowie do znajacych prawo), ze prawo panuje nad czlowiekiem, dopoki on zyje? </v>
+<v n="2"> Zamezna kobieta bowiem, dopoki maz zyje, jest z nim zwiazana prawem, a jesli maz umrze, zostaje uwolniona od prawa meza. </v>
+<v n="3"> Tak wiec, dopoki maz zyje, bedzie nazywana cudzoloznica, jesli zostanie zona innego mezczyzny. Jesli jednak jej maz umrze, jest wolna od tego prawa, tak ze nie bedzie cudzoloznica, chocby zostala zona innego mezczyzny. </v>
+<v n="4"> Tak i wy, moi bracia, zostaliscie usmierceni dla prawa przez cialo Chrystusa, abyscie nalezeli do innego, to znaczy tego, ktory zostal wskrzeszony z martwych, abysmy przynosili Bogu owoc. </v>
+<v n="5"> Gdy bowiem bylismy w ciele, namietnosci grzechow, ktore sie wzniecaly przez prawo, okazywaly swa moc w naszych czlonkach, aby przynosic smierci owoc. </v>
+<v n="6"> Lecz teraz zostalismy uwolnieni od prawa, gdy umarlismy dla tego, w czym bylismy trzymani, abysmy sluzyli Bogu w nowosci ducha, a nie w starosci litery. </v>
+<v n="7"> Coz wiec powiemy? Ze prawo jest grzechem? Nie daj Boze! Przeciwnie, nie poznalem grzechu jak tylko przez prawo, bo i o pozadliwosci nie wiedzialbym, gdyby prawo nie mowilo: Nie bedziesz pozadal. </v>
+<v n="8"> Lecz grzech, gdy zyskal okazje przez przykazanie, wzbudzil we mnie wszelka pozadliwosc. Bez prawa bowiem grzech jest martwy. </v>
+<v n="9"> I ja zylem kiedys bez prawa, lecz gdy przyszlo przykazanie, grzech ozyl, a ja umarlem. </v>
+<v n="10"> I okazalo sie, ze przykazanie, ktore mialo byc ku zyciu, jest mi ku smierci. </v>
+<v n="11"> Grzech bowiem, gdy zyskal okazje przez przykazanie, zwiodl mnie i przez nie mnie zabil. </v>
+<v n="12"> A tak prawo jest swiete i przykazanie jest swiete, sprawiedliwe i dobre. </v>
+<v n="13"> Czy wiec to, co dobre, stalo sie dla mnie smiercia? Nie daj Boze! Przeciwnie, grzech, aby okazal sie grzechem, sprowadzil na mnie smierc przez to, co dobre, zeby grzech stal sie niezmiernie grzesznym przez przykazanie. </v>
+<v n="14"> Gdyz wiemy, ze prawo jest duchowe, ale ja jestem cielesny, zaprzedany grzechowi. </v>
+<v n="15"> Tego bowiem, co robie, nie pochwalam, bo nie robie tego, co chce, ale czego nienawidze, to robie. </v>
+<v n="16"> A jesli robie to, czego nie chce, zgadzam sie z tym, ze prawo jest dobre. </v>
+<v n="17"> Teraz wiec juz nie ja to robie, ale grzech, ktory we mnie mieszka. </v>
+<v n="18"> Gdyz wiem, ze we mnie, to jest w moim ciele, nie mieszka dobro, bo chec jest we mnie, ale wykonac tego, co jest dobre, nie potrafie. </v>
+<v n="19"> Nie czynie bowiem dobra, ktore chce, ale zlo, ktorego nie chce, to czynie. </v>
+<v n="20"> A jesli robie to, czego nie chce, juz nie ja to robie, ale grzech, ktory we mnie mieszka. </v>
+<v n="21"> Odkrywam wiec w sobie to prawo, ze gdy chce czynic dobro, trzyma sie mnie zlo. </v>
+<v n="22"> Mam bowiem upodobanie w prawie Bozym wedlug wewnetrznego czlowieka. </v>
+<v n="23"> Lecz widze inne prawo w moich czlonkach, walczace z prawem mego umyslu, ktore bierze mnie w niewole prawa grzechu, ktore jest w moich czlonkach. </v>
+<v n="24"> Nedzny ja czlowiek! Ktoz mnie wybawi z tego ciala smierci? </v>
+<v n="25"> Dziekuje Bogu przez Jezusa Chrystusa, naszego Pana. Tak wiec ja sam umyslem sluze prawu Bozemu, lecz cialem prawu grzechu. </v>
+</c>

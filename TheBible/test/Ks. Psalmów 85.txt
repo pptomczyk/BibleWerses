@@ -1,0 +1,14 @@
+<v n="1"> Przewodnikowi choru. Psalm dla synow Korego. PANIE, okazales laske swej ziemi, przyprowadziles z niewoli Jakuba. </v>
+<v n="2"> Przebaczyles nieprawosc twego ludu, zakryles wszystkie ich grzechy. Sela. </v>
+<v n="3"> Usmierzyles cale swoje zagniewanie, odwrociles sie od zapalczywosci twojego gniewu. </v>
+<v n="4"> Odnow nas, Boze naszego zbawienia, i odwroc od nas swoj gniew. </v>
+<v n="5"> Czy wiecznie bedziesz sie na nas gniewac? Czy rozciagniesz swoj gniew na wszystkie pokolenia? </v>
+<v n="6"> Czy nie ozywisz nas na nowo, aby twoj lud rozradowal sie w tobie? </v>
+<v n="7"> PANIE, okaz nam twoje milosierdzie i daj nam swoje zbawienie. </v>
+<v n="8"> Poslucham, co bedzie mowil Bog, PAN; zaprawde, oglosi pokoj swojemu ludowi i swoim swietym, aby tylko nie wracali do swojej glupoty. </v>
+<v n="9"> Doprawdy jego zbawienie jest blisko tych, ktorzy sie go boja, aby jego chwala zamieszkala w naszej ziemi. </v>
+<v n="10"> Milosierdzie i prawda spotkaja sie ze soba, sprawiedliwosc i pokoj ucaluja sie. </v>
+<v n="11"> Prawda wyrosnie z ziemi, a sprawiedliwosc wyjrzy z nieba. </v>
+<v n="12"> PAN tez obdarzy tym, co dobre, a nasza ziemia wyda swoj plon. </v>
+<v n="13"> Sprawiedliwosc przed nim pojdzie i bedzie wytyczac droge jego krokom. </v>
+</c>

@@ -1,0 +1,7 @@
+<v n="1"> Przewodnikowi choru, na Machalat. Psalm pouczajacy Dawida. Glupi mowi w swoim sercu: Nie ma Boga. Sa zepsuci i czynia obrzydliwa nieprawosc; nie ma nikogo, kto by czynil dobro. </v>
+<v n="2"> Bog spojrzal z niebios na synow ludzkich, aby zobaczyc, czy jest ktos rozumny i szukajacy Boga. </v>
+<v n="3"> Wszyscy zboczyli z drogi, wszyscy jednakowo znikczemnieli; nie ma nikogo, kto by czynil dobro, nie ma ani jednego. </v>
+<v n="4"> Czyz sa nierozumni czyniacy nieprawosc, ktorzy pozeraja moj lud, jakby chleb jedli, a Boga nie wzywaja? </v>
+<v n="5"> Tam ogarnal ich strach, gdzie nie bylo powodu do strachu, Bog bowiem rozproszyl kosci tych, ktorzy cie oblegali; ty okryjesz ich hanba, bo Bog nimi wzgardzil. </v>
+<v n="6"> Ktoz zesle z Syjonu zbawienie Izraelowi? Gdy Bog odwroci niewole swego ludu, Jakub sie rozraduje i rozweseli sie Izrael. </v>
+</c>

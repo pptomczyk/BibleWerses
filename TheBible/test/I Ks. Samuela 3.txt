@@ -1,0 +1,22 @@
+<v n="1"> A chlopiec Samuel sluzyl PANU przed Helim. W tych dniach slowo PANA bylo drogocenne i nie bylo jawnego widzenia. </v>
+<v n="2"> Pewnego dnia, gdy Heli lezal na swoim miejscu, a jego oczy juz zaczely slabnac i nie mogl widziec; </v>
+<v n="3"> A lampa Boza jeszcze nie zgasla w swiatyni PANA, gdzie byla arka Boga, i Samuel tez sie polozyl; </v>
+<v n="4"> PAN zawolal Samuela, a on odpowiedzial: Oto jestem. </v>
+<v n="5"> I przybiegl do Heliego, i powiedzial: Oto jestem, gdyz mnie wolales. A on odparl: Nie wolalem, wroc i poloz sie. Poszedl wiec i polozyl sie. </v>
+<v n="6"> PAN ponownie zawolal Samuela. I Samuel wstal, poszedl do Heliego i powiedzial: Oto jestem, gdyz mnie wolales. On mu odpowiedzial: Nie wolalem, moj synu; wroc i poloz sie. </v>
+<v n="7"> A Samuel jeszcze nie znal PANA i slowo PANA nie zostalo mu jeszcze objawione. </v>
+<v n="8"> I PAN zawolal Samuela po raz trzeci. Wstal wiec, poszedl do Heliego i powiedzial: Oto jestem, gdyz mnie wolales. Wtedy Heli zrozumial, ze PAN wolal chlopca. </v>
+<v n="9"> I Heli powiedzial do Samuela: Idz, poloz sie, a jesli cie zawola, powiedz: Mow, PANIE, bo twoj sluga slucha. Samuel poszedl wiec i polozyl sie na swoim miejscu. </v>
+<v n="10"> Potem PAN przyszedl, stanal i zawolal tak jak poprzednio: Samuelu, Samuelu! I Samuel odpowiedzial: Mow, bo twoj sluga slucha. </v>
+<v n="11"> Wtedy PAN powiedzial do Samuela: Oto uczynie taka rzecz w Izraelu, ze kazdemu, kto o niej uslyszy, zadzwoni w obu uszach. </v>
+<v n="12"> W tym dniu dokonam na Helim wszystkiego, co mowilem przeciwko jego domowi, od poczatku do konca. </v>
+<v n="13"> I dalem mu poznac, ze osadze jego dom na wieki za nieprawosc, o ktorej wiedzial. Jego synowie bowiem postepowali nikczemnie, a on ich nie poskromil. </v>
+<v n="14"> Dlatego przysiaglem domowi Heliego, ze nieprawosc domu Heliego nigdy nie bedzie oczyszczona zadna ofiara krwawa ani ofiara pokarmowa. </v>
+<v n="15"> I Samuel do rana lezal, po czym otworzyl drzwi domu PANA. Samuel jednak bal sie oznajmic Heliemu o widzeniu. </v>
+<v n="16"> Wtedy Heli zawolal Samuela: Samuelu, synu moj. Ten odpowiedzial: Oto jestem. </v>
+<v n="17"> I zapytal: Coz to za slowa, ktore PAN ci powiedzial? Nie ukrywaj tego, prosze, przede mna. Niech Bog tak ci uczyni i tamto dorzuci, jesli ukryjesz przede mna cokolwiek z tego, co ci powiedzial. </v>
+<v n="18"> Samuel opowiedzial mu wiec wszystko i nie ukryl nic przed nim. A on odparl: To PAN. Niech czyni to, co dobre w jego oczach. </v>
+<v n="19"> I Samuel rosl, a PAN byl z nim i nie pozwolil upasc na ziemie zadnemu z jego slow. </v>
+<v n="20"> A caly Izrael od Dan az do Beer-Szeby poznal, ze Samuel stal sie wiernym prorokiem PANA. </v>
+<v n="21"> PAN zas ukazywal sie znowu w Szilo. PAN bowiem objawil sie Samuelowi w Szilo przez slowo PANA. </v>
+</c>

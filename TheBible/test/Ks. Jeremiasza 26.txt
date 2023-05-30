@@ -1,0 +1,25 @@
+<v n="1"> Na poczatku krolowania Joakima, syna Jozjasza, krola Judy, doszlo to slowo od PANA mowiace: </v>
+<v n="2"> Tak mowi PAN: Stan na dziedzincu domu PANA i mow do wszystkich miast Judy, do tych, ktorzy przychodza oddac poklon w domu PANA, wszystkie slowa, ktore nakazuje ci mowic do nich; nie ujmuj ani slowa. </v>
+<v n="3"> Moze usluchaja i odwroca sie, kazdy od swojej zlej drogi, abym zalowal nieszczescia, ktore zamierzalem im uczynic z powodu zla ich uczynkow. </v>
+<v n="4"> I powiesz im: Tak mowi PAN: Jesli mnie nie usluchacie, by postepowac wedlug mojego prawa, ktore wam przedlozylem; </v>
+<v n="5"> By sluchac slow moich slug, prorokow, ktorych poslalem do was, z wczesnym wstawaniem i przeslaniem, a przeciez nie usluchaliscie; </v>
+<v n="6"> Wtedy postapie z tym domem tak jak z Szilo, a to miasto uczynie przeklenstwem dla wszystkich narodow ziemi. </v>
+<v n="7"> A kaplani i prorocy oraz caly lud slyszeli Jeremiasza mowiacego te slowa w domu PANA. </v>
+<v n="8"> A gdy Jeremiasz skonczyl mowic wszystko, co PAN mu nakazal powiedziec calemu ludowi, pojmali go ci kaplani i prorocy oraz caly lud, mowiac: Musisz umrzec. </v>
+<v n="9"> Czemu prorokowales w imie PANA, gloszac: Z tym domem stanie sie jak z Szilo, a to miasto tak spustoszeje, ze nie bedzie w nim mieszkanca? I zgromadzil sie caly lud przeciwko Jeremiaszowi w domu PANA. </v>
+<v n="10"> Gdy ksiazeta Judy uslyszeli te rzeczy, przyszli z domu krolewskiego do domu PANA i zasiedli u wejscia nowej bramy PANA. </v>
+<v n="11"> Wtedy kaplani i prorocy powiedzieli do ksiazat i do calego ludu: Ten czlowiek zasluguje na smierc, bo prorokowal przeciwko temu miastu, jak to slyszeliscie na wlasne uszy. </v>
+<v n="12"> Jeremiasz zas odezwal sie do wszystkich ksiazat i do calego ludu, mowiac: PAN mnie poslal, abym prorokowal przeciw temu domowi i przeciw temu miastu to wszystko, co slyszeliscie. </v>
+<v n="13"> Dlatego teraz poprawcie swoje drogi i swoje uczynki i usluchajcie glosu PANA, swego Boga, a pozaluje PAN tego nieszczescia, jakie zapowiedzial przeciwko wam. </v>
+<v n="14"> Co do mnie, ja jestem w waszych rekach, czyncie ze mna to, co dobre i sprawiedliwe w waszych oczach. </v>
+<v n="15"> Wiedzcie jednak na pewno – jesli mnie zabijecie, sciagniecie krew niewinna na siebie, na to miasto i na jego mieszkancow. Naprawde bowiem PAN poslal mnie do was, abym mowil te wszystkie slowa do waszych uszu. </v>
+<v n="16"> Wtedy ksiazeta i caly lud powiedzieli do kaplanow i do prorokow: Ten czlowiek nie zasluguje na smierc, poniewaz przemawial do nas w imie PANA, naszego Boga. </v>
+<v n="17"> Powstali tez niektorzy ze starszych tej ziemi i powiedzieli do calego zgromadzenia ludu: </v>
+<v n="18"> Micheasz z Moreszet prorokowal za dni Ezechiasza, krola Judy, i mowil do calego ludu Judy: Tak mowi PAN zastepow: Syjon bedzie zaorany jak pole, Jerozolima stanie sie rumowiskiem, a gora tego domu – jak zalesione wzgorze. </v>
+<v n="19"> Czy zabil go Ezechiasz, krol Judy, i Juda? Czy nie ulekli sie PANA i nie modlili sie do PANA tak, ze PAN zalowal tego nieszczescia, jakie zapowiedzial przeciwko nim? Przeciez sciagniemy na nasze dusze wielkie nieszczescie. </v>
+<v n="20"> Byl takze czlowiek, ktory prorokowal w imie PANA, Uriasz, syn Szemajasza, z Kiriat-Jearim. Prorokowal on przeciwko temu miastu i przeciwko tej ziemi zgodnie ze wszystkimi slowami Jeremiasza. </v>
+<v n="21"> A gdy krol Joakim, wszyscy jego wojownicy i wszyscy ksiazeta uslyszeli jego slowa, krol usilowal go zabic. Lecz gdy Uriasz o tym uslyszal, zlakl sie, uciekl i przybyl do Egiptu. </v>
+<v n="22"> Ale krol Joakim poslal ludzi do Egiptu: Elnatana, syna Akbora, i innych razem z nim do Egiptu. </v>
+<v n="23"> Ci sprowadzili Uriasza z Egiptu i przyprowadzili go do krola Joakima, a ten zabil go mieczem i wrzucil jego zwloki do grobow pospolstwa. </v>
+<v n="24"> Natomiast reka Achikama, syna Szafana, byla przy Jeremiaszu, aby nie zostal wydany w rece ludu i nie zostal zabity. </v>
+</c>

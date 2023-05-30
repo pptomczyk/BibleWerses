@@ -1,0 +1,24 @@
+<v n="1"> I PAN powiedzial do Mojzesza: </v>
+<v n="2"> Rozkaz synom Izraela, aby przyniesli ci czysta, wycisnieta oliwe z oliwek, na oswietlenie, aby lampy ciagle sie palily. </v>
+<v n="3"> Aaron sporzadzi je na zewnatrz zaslony Swiadectwa, w Namiocie Zgromadzenia, aby sie palily od wieczora az do poranka przed PANEM nieustannie. Bedzie to wieczysta ustawa przez wszystkie wasze pokolenia. </v>
+<v n="4"> Bedzie ustawial lampy na czystym swieczniku przed PANEM nieustannie. </v>
+<v n="5"> Wezmiesz tez maki pszennej i upieczesz z niej dwanascie plackow, kazdy placek bedzie z dwoch dziesiatych efy. </v>
+<v n="6"> Potem ulozysz je w dwoch rzedach, po szesc w kazdym rzedzie, na czystym stole przed PANEM. </v>
+<v n="7"> Na kazdy rzad polozysz czystego kadzidla, aby bylo pamiatka na chlebie, ofiara spalona dla PANA. </v>
+<v n="8"> W kazdy dzien szabatu kaplan bedzie je nieustannie ukladac przed PANEM, biorac je od synow Izraela jako wieczne przymierze. </v>
+<v n="9"> I beda nalezaly do Aarona i jego synow: beda je jesc w miejscu swietym, gdyz jest to dla nich najswietsza rzecz ze spalanych ofiar PANA jako wieczysta ustawa. </v>
+<v n="10"> W tym czasie syn Izraelitki, ktorego ojcem byl Egipcjanin, wyszedl miedzy synow Izraela. I poklocil sie w obozie syn tej Izraelitki z pewnym Izraelita. </v>
+<v n="11"> I syn Izraelitki bluznil imieniu PANA i przeklinal. Przyprowadzono go wiec do Mojzesza. A jego matce bylo na imie Szelomit, byla corka Dibriego, z pokolenia Dana. </v>
+<v n="12"> I osadzili go pod straza, zeby im oznajmiono, co PAN rozkaze uczynic. </v>
+<v n="13"> Wtedy PAN powiedzial do Mojzesza: </v>
+<v n="14"> Wyprowadz bluznierce poza oboz i niech wszyscy, ktorzy to slyszeli, poloza swoje rece na jego glowie i niech ukamienuje go cale zgromadzenie. </v>
+<v n="15"> A synom Izraela powiedz tak: Ktokolwiek przeklnie swego Boga, obciazy sie swym grzechem. </v>
+<v n="16"> Ten rowniez, kto zbluznil imieniu PANA, poniesie smierc: Ukamienuje go cale zgromadzenie. Zarowno przybysz, jak i rodowity mieszkaniec, jesli zbluzni imieniu PANA, poniesie smierc. </v>
+<v n="17"> Kazdy, kto zabije jakiegokolwiek czlowieka, poniesie smierc. </v>
+<v n="18"> A kto zabije zwierze, zwroci inne: zwierze za zwierze. </v>
+<v n="19"> Kto tez ranil swego blizniego, niech mu uczynia tak, jak on uczynil. </v>
+<v n="20"> Zlamanie za zlamanie, oko za oko, zab za zab; jak ranil czlowieka, tak niech mu oddadza. </v>
+<v n="21"> Kto zabije zwierze, zwroci inne; lecz kto zabije czlowieka, poniesie smierc. </v>
+<v n="22"> Bedziecie mieli jedno prawo zarowno dla przybysza, jak i dla rodowitego mieszkanca, gdyz ja jestem PAN, wasz Bog. </v>
+<v n="23"> I Mojzesz przemowil do synow Izraela, a wyprowadzili bluznierce poza oboz i ukamienowali go. I synowie Izraela uczynili tak, jak PAN przykazal Mojzeszowi. </v>
+</c>

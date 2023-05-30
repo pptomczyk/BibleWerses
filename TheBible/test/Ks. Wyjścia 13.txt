@@ -1,0 +1,23 @@
+<v n="1"> I PAN powiedzial do Mojzesza: </v>
+<v n="2"> Poswiec mi wszystko, co pierworodne. Wszystko, co otwiera lono u synow Izraela, tak wsrod ludzi, jak i wsrod bydla. To nalezy do mnie. </v>
+<v n="3"> Mojzesz powiedzial wiec do ludu: Pamietajcie ten dzien, w ktorym wyszliscie z Egiptu, z domu niewoli. PAN bowiem potezna reka wyprowadzil was stamtad. Nie bedziecie jesc nic kwaszonego. </v>
+<v n="4"> Dzis wychodzicie, w miesiacu Abib. </v>
+<v n="5"> A gdy PAN wprowadzi cie do ziemi Kananejczykow, Chetytow, Amorytow, Chiwwitow i Jebusytow, ktora przysiagl dac waszym ojcom, ziemie oplywajaca mlekiem i miodem, wtedy bedziesz obchodzil ten obrzed w tym samym miesiacu. </v>
+<v n="6"> Przez siedem dni bedziesz jesc przasny chleb, a siodmego dnia bedzie swieto dla PANA. </v>
+<v n="7"> Bedziesz jadl przasny chleb przez siedem dni i nie moze znalezc sie u ciebie nic kwaszonego ani zaden zakwas nie moze byc widziany we wszystkich twoich granicach. </v>
+<v n="8"> W tym dniu opowiesz swemu synowi: Obchodze to ze wzgledu na to, co PAN dla mnie uczynil, gdy wychodzilem z Egiptu. </v>
+<v n="9"> To bedzie jako znak na twojej rece i jako pamiatka przed twoimi oczyma, aby prawo PANA bylo na twoich ustach. PAN bowiem potezna reka wyprowadzil cie z Egiptu. </v>
+<v n="10"> Bedziesz przestrzegal tej ustawy w wyznaczonym czasie, z roku na rok. </v>
+<v n="11"> A gdy PAN wprowadzi cie do ziemi Kanaan, jak przysiagl tobie i twoim ojcom, i da ja tobie; </v>
+<v n="12"> Wtedy przeznaczysz dla PANA wszystko, co otwiera lono, i kazdy plod otwierajacy lono z twojego bydla, kazdy samiec bedzie dla PANA. </v>
+<v n="13"> Kazde zas pierworodne osle wykupisz barankiem, a jesli nie wykupisz, zlamiesz mu kark. Wykupisz tez kazdego pierworodnego czlowieka wsrod twoich synow. </v>
+<v n="14"> A gdy w przyszlosci twoj syn cie zapyta: Coz to jest? Wtedy odpowiesz mu: PAN wyprowadzil nas potezna reka z Egiptu, z domu niewoli. </v>
+<v n="15"> Gdy bowiem faraon stal sie twardy i wzbranial sie nas wypuscic, wtedy PAN zabil wszystko, co pierworodne w ziemi Egiptu, od pierworodnego z ludzi az do pierworodnego z bydla. Dlatego skladam w ofierze PANU wszystkie samce otwierajace lono, ale kazdego pierworodnego z moich synow wykupuje. </v>
+<v n="16"> To bedzie jako znak na twojej rece i jako przepaska ozdobna miedzy twoimi oczyma, ze PAN potezna reka wyprowadzil nas z Egiptu. </v>
+<v n="17"> A stalo sie tak, ze gdy faraon wypuscil lud, Bog nie prowadzil go droga przez ziemie Filistynow, chociaz byla blizsza. Bog bowiem powiedzial: Zeby lud na widok wojny nie zalowal i nie wrocil do Egiptu. </v>
+<v n="18"> Ale Bog prowadzil lud okrezna droga przez pustynie nad Morzem Czerwonym. I synowie Izraela wyszli z ziemi Egiptu w bojowym szyku. </v>
+<v n="19"> Mojzesz wzial tez ze soba kosci Jozefa, gdyz ten zobowiazal synow Izraela przysiega, mowiac: Na pewno Bog was nawiedzi. Zabierzcie wiec stad ze soba moje kosci. </v>
+<v n="20"> Wyruszyli z Sukkot i rozbili oboz w Etam, na skraju pustyni. </v>
+<v n="21"> A PAN szedl przed nimi za dnia w slupie obloku, by prowadzic ich droga, a noca w slupie ognia, by im swiecic, zeby mogli isc dniem i noca. </v>
+<v n="22"> Nie oddalal od ludu ani slupa obloku za dnia, ani slupa ognia noca. </v>
+</c>

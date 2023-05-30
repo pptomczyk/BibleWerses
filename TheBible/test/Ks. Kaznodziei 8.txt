@@ -1,0 +1,18 @@
+<v n="1"> Kto jest madrym czlowiekiem? Kto zna wyjasnienie rzeczy? Madrosc czlowieka rozjasnia jego oblicze i odmienia srogosc jego twarzy. </v>
+<v n="2"> Radze ci, abys przestrzegal rozkazu krola, a to ze wzgledu na przysiege Boga. </v>
+<v n="3"> Nie spiesz sie z odejsciem sprzed jego oblicza ani nie upieraj sie przy zlej sprawie. Czyni bowiem wszystko tak, jak mu sie podoba. </v>
+<v n="4"> Gdzie slowo krola, tam i jego moc. Ktoz mu powie: Co czynisz? </v>
+<v n="5"> Kto przestrzega przykazania, nie zazna niczego zlego. A serce madrego zna czas i sad. </v>
+<v n="6"> Na kazda sprawe jest czas i sad, dlatego wielkie nieszczescie trzyma sie czlowieka. </v>
+<v n="7"> Nie wie bowiem, co bedzie. Kto mu oznajmi, kiedy co sie przydarzy? </v>
+<v n="8"> Nie ma czlowieka, ktory mialby wladze nad duchem, zeby powstrzymac ducha, ani moc nad dniem smierci. Nie ma tez zwolnienia z tego boju, a niegodziwych nie wybawi ich niegodziwosc. </v>
+<v n="9"> To wszystko widzialem, gdy zwrocilem swoje serce do kazdego dziela, ktorego sie dokonuje pod sloncem. Bywa czas, kiedy jeden czlowiek panuje nad drugim ku jego krzywdzie. </v>
+<v n="10"> Widzialem wiec niegodziwych pogrzebanych, ktorzy przychodzili do miejsca swietego i odchodzili z niego, a zapomniano o nich w miescie, gdzie tak czynili. I to rowniez jest marnoscia. </v>
+<v n="11"> Poniewaz wyroku za zly czyn nie wykonuje sie od razu, serce synow ludzkich jest w nich zawziete i gotowe na to, aby popelniali zlo. </v>
+<v n="12"> I chociaz grzesznik po stokroc czyni zlo i jego dni sie przedluza, to jednak wiem, ze szczesci sie tym, ktorzy boja sie Boga, ktorzy sie boja jego oblicza. </v>
+<v n="13"> Ale niegodziwemu nie szczesci sie i nie przedluzy on swoich dni, przemina bowiem jak cien, poniewaz nie boi sie Boga. </v>
+<v n="14"> Jest tez marnosc, ktora sie dzieje na ziemi: sa ludzie sprawiedliwi, ktorym sie zdarza to, na co zasluguja uczynki niegodziwych; sa tez ludzie niegodziwi, ktorym sie zdarza to, na co zasluguja uczynki sprawiedliwych. Powiedzialem, ze i to jest marnoscia. </v>
+<v n="15"> Chwalilem wiec radosc, gdyz nie ma dla czlowieka nic lepszego pod sloncem nad to, by jadl, pil i radowal sie. To bowiem zostanie mu z jego trudu po wszystkie dni jego zycia, ktore pod sloncem dal mu Bog. </v>
+<v n="16"> Gdy zwrocilem swoje serce na to, aby poznac madrosc i rozwazac sprawy, jakie sie dzieja na ziemi, z powodu ktorych oczy czlowieka nie zaznaja snu ani we dnie, ani w nocy; </v>
+<v n="17"> Wowczas zobaczylem cale dzielo Boga – to, ze czlowiek nie potrafi zglebic sprawy, ktora sie dzieje pod sloncem. Chocby czlowiek staral sie do tego dojsc, nie zglebi tego; chocby nawet madry zamierzyl to poznac, nie zdola tego zglebic. </v>
+</c>

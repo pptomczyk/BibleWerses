@@ -1,0 +1,15 @@
+<v n="1"> Potem Aniol, ktory rozmawial ze mna, powrocil i obudzil mnie, jak budzi sie kogos ze snu. </v>
+<v n="2"> I zapytal mnie: Co widzisz? Odpowiedzialem: Spojrzalem, a oto swiecznik caly ze zlota, a na jego szczycie jest czasza, na nim siedem lamp, a takze siedem rurek do tych siedmiu lamp, ktore sa na jego szczycie; </v>
+<v n="3"> Dwa drzewa oliwne obok niego, jedno po prawej stronie czaszy, a drugie po jej lewej stronie. </v>
+<v n="4"> Wtedy odezwalem sie do Aniola, ktory rozmawial ze mna, i zapytalem: Co to jest, moj Panie? </v>
+<v n="5"> Aniol, ktory rozmawial ze mna, odpowiedzial mi: Czy nie wiesz, co to jest? Odpowiedzialem: Nie wiem, moj Panie. </v>
+<v n="6"> Wtedy odpowiedzial mi: Oto slowo PANA do Zorobabela: Nie wojskiem ani sila, ale moim Duchem, mowi PAN zastepow. </v>
+<v n="7"> Czymze ty jestes, goro wielka? Wobec Zorobabela staniesz sie rownina. On bowiem wyniesie glowny kamien z glosnym okrzykiem: Laska, laska nad nim. </v>
+<v n="8"> I doszlo slowo PANA do mnie mowiace: </v>
+<v n="9"> Rece Zorobabela polozyly fundamenty tego domu, jego rece go dokoncza; a poznasz, ze PAN zastepow poslal mnie do was. </v>
+<v n="10"> Ktoz bowiem wzgardzil dniem malych poczatkow? Oni bowiem beda sie radowac, patrzac na pion w reku Zorobabela i na tych siedmioro oczu PANA, ktore przebiegaja cala ziemie. </v>
+<v n="11"> Wtedy odezwalem sie i zapytalem go: Co oznaczaja te dwa drzewa oliwne po prawej i lewej stronie tego swiecznika? </v>
+<v n="12"> I ponownie odezwalem sie, i zapytalem go: Co oznaczaja te dwie galezie oliwne, ktore dwiema zlotymi rurkami wypuszczaja z siebie zlocista oliwe? </v>
+<v n="13"> On zapytal: Nie wiesz, co to jest? Odpowiedzialem: Nie wiem, moj Panie. </v>
+<v n="14"> Wtedy powiedzial: To sa dwaj pomazancy, ktorzy stoja przed Panem calej ziemi. </v>
+</c>

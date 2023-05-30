@@ -1,0 +1,23 @@
+<v n="1"> Wtedy krol Dariusz rozkazal, aby szukano w archiwum, gdzie przechowywano skarby w Babilonie. </v>
+<v n="2"> I znaleziono w Achmecie, w palacu w prowincji Medii, pewien zwoj, w ktorym tak bylo napisane: </v>
+<v n="3"> W pierwszym roku krola Cyrusa, krol Cyrus wydal dekret w sprawie domu Bozego w Jerozolimie: Dom ten ma byc odbudowany, to miejsce, gdzie skladano ofiary. Fundamenty maja byc polozone. Jego wysokosc – szescdziesiat lokci i jego szerokosc – szescdziesiat lokci. </v>
+<v n="4"> Trzy rzedy z kamienia wielkiego i jeden rzad z nowego drewna. Koszty ma pokryc dom krolewski. </v>
+<v n="5"> Ponadto zlote i srebrne naczynia z domu Bozego, ktore zabral Nabuchodonozor ze swiatyni w Jerozolimie i przeniosl do Babilonu, maja byc zwrocone i przeniesione do swiatyni w Jerozolimie na swoje miejsce, i zlozone w domu Bozym. </v>
+<v n="6"> Teraz wiec ty, Tattenaju, namiestniku zarzecza, Szetarboznaju, i wy, Afarsachajczycy, ich towarzysze, ktorzy jestescie za rzeka, trzymajcie sie z dala od tego miejsca. </v>
+<v n="7"> Zostawcie w spokoju prace nad tym domem Bozym. Niech namiestnik Zydow i starsi zydowscy odbuduja ten dom Bozy na swoim miejscu. </v>
+<v n="8"> Wydaje tez dekret o tym, co macie uczynic dla starszych sposrod Zydow na budowe tego domu Bozego, mianowicie: koszty maja byc bezzwlocznie wyplacone tym ludziom z dochodow krola, z danin pobieranych za rzeka, aby nie przestawali budowac. </v>
+<v n="9"> Takze i to, co bedzie potrzebne do calopalen dla Boga niebios: cielce, barany i jagnieta oraz pszenica, sol, wino i oliwa, wedlug rozkazu kaplanow w Jerozolimie, niech im bedzie dawane kazdego dnia bez zaniedbania; </v>
+<v n="10"> Aby mogli skladac wonne ofiary Bogu niebios i aby modlili sie za zycie krola i jego synow. </v>
+<v n="11"> Ponadto wydaje taki dekret: Ktokolwiek zmieni ten rozkaz, to belka z jego domu ma byc wyrwana i podniesiona, a on bedzie na niej powieszony; jego dom zas zostanie zamieniony w gnojowisko. </v>
+<v n="12"> A Bog, ktory uczynil tam mieszkanie dla swojego imienia, niech zniszczy kazdego krola i kazdy narod, ktory by sie odwazyl zmienic ten rozkaz i zniszczyc ten dom Bozy w Jerozolimie. Ja, Dariusz, wydalem ten dekret; niech bedzie wykonany bezzwlocznie. </v>
+<v n="13"> Wtedy Tattenaj, namiestnik zarzecza, Szetarboznaj i ich towarzysze niezwlocznie uczynili tak, jak krol Dariusz rozkazal. </v>
+<v n="14"> A starsi zydowscy budowali i szczescilo im sie wedlug proroctwa Aggeusza, proroka, i Zachariasza, syna Iddo. Budowali i dokonczyli dom zgodnie z rozkazem Boga Izraela oraz z rozkazem Cyrusa, Dariusza oraz Artakserksesa, krola Persji. </v>
+<v n="15"> I ten dom zostal zakonczony w trzecim dniu miesiaca Adar, w szostym roku panowania krola Dariusza. </v>
+<v n="16"> Wowczas synowie Izraela, kaplani, Lewici oraz reszta ludu, ktory powrocil z niewoli, z radoscia obchodzili poswiecenie tego domu Bozego. </v>
+<v n="17"> I zlozyli ofiary przy poswiecaniu tego domu Bozego: sto cielcow, dwiescie baranow, czterysta jagniat, a jako ofiare za grzech za calego Izraela – dwanascie kozlow, wedlug liczby pokolen Izraela. </v>
+<v n="18"> Do sluzby Bozej w Jerozolimie ustanowili kaplanow – wedlug ich oddzialow, i Lewitow – wedlug ich zmian, jak jest napisane w ksiedze Mojzesza. </v>
+<v n="19"> Ci, ktorzy powrocili z niewoli, obchodzili tez Pasche w czternastym dniu pierwszego miesiaca. </v>
+<v n="20"> Kaplani bowiem i Lewici oczyscili sie jak jeden maz, wszyscy byli oczyszczeni. Zabili wiec baranka paschalnego dla wszystkich, ktorzy przybyli z niewoli, dla swoich braci kaplanow i dla siebie samych. </v>
+<v n="21"> I spozywali to synowie Izraela, ktorzy powrocili z niewoli, i kazdy, kto odlaczyl sie od nieczystosci pogan tej ziemi i przylaczyl sie do nich, aby szukac PANA, Boga Izraela. </v>
+<v n="22"> Przez siedem dni z radoscia obchodzili tez Swieto Przasnikow, gdyz PAN napelnil ich radoscia i zwrocil ku nim serce krola Asyrii, aby wzmocnil ich rece przy pracy wokol domu Bozego, Boga Izraela. </v>
+</c>

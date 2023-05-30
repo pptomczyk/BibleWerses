@@ -1,0 +1,24 @@
+<v n="1"> Hiob ciagnal dalej swoja odpowiedz: </v>
+<v n="2"> Jak zyje Bog, ktory odrzucil moj sad, i Wszechmocny, ktory rozgoryczyl moja dusze; </v>
+<v n="3"> Dopoki jest we mnie tchnienie i duch Bozy w moich nozdrzach; </v>
+<v n="4"> Moje wargi nie beda mowily niegodziwosci, a moj jezyk nie wypowie falszu. </v>
+<v n="5"> Nie daj Boze, abym mial was usprawiedliwiac; do smierci nie odstapie od swej niewinnosci. </v>
+<v n="6"> Bede trzymal sie swojej sprawiedliwosci i nie puszcze jej; moje serce nie oskarzy mnie, poki zyje. </v>
+<v n="7"> Niech moj wrog bedzie jak niegodziwiec, a ten, ktory powstaje przeciwko mnie, jak niesprawiedliwy. </v>
+<v n="8"> Jaka bowiem jest nadzieja obludnika, chocby zysk osiagnal, gdy Bog zabiera mu dusze? </v>
+<v n="9"> Czy Bog uslyszy jego wolanie, gdy spadnie na niego nieszczescie? </v>
+<v n="10"> Czy bedzie sie rozkoszowac Wszechmocnym? Czy bedzie wciaz wzywal Boga? </v>
+<v n="11"> Poucze was, bedac w rece Boga, nie zataje niczego o Wszechmocnym. </v>
+<v n="12"> Oto wy wszyscy to widzicie; po co wiec te prozne slowa? </v>
+<v n="13"> Taki jest dzial niegodziwca u Boga i takie dziedzictwo, ktore otrzymaja od Wszechmocnego ciemiezcy. </v>
+<v n="14"> Jesli rozmnoza sie jego synowie, pojda pod miecz; a jego potomstwo nie nasyci sie chlebem. </v>
+<v n="15"> Ci, ktorzy po nim pozostana, beda pogrzebani w smierci, a jego wdowy nie beda go oplakiwaly; </v>
+<v n="16"> Chocby nagromadzil srebra jak prochu i przygotowal sobie szat jak gliny; </v>
+<v n="17"> To choc je przygotuje, wlozy je sprawiedliwy, a niewinny bedzie dzielic srebro. </v>
+<v n="18"> Zbuduje swoj dom jak mol, jak szalas, ktory stawia stroz. </v>
+<v n="19"> Bogaty zasnie, a nie bedzie pogrzebany; otworzy oczy, ale juz go nie ma. </v>
+<v n="20"> Ogarnie go strach jak wody, w nocy porwie go wicher. </v>
+<v n="21"> Uniesie go wiatr wschodni, a odejdzie; bo wicher wyrwie go z jego miejsca. </v>
+<v n="22"> To bowiem Bog rzuci na niego i nie oszczedzi go, choc bardzo chcial uciekac przed jego reka. </v>
+<v n="23"> Beda klaskac nad nim w dlonie i wygwizdywac go z jego miejsca. </v>
+</c>

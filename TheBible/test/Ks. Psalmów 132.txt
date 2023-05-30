@@ -1,0 +1,19 @@
+<v n="1"> Piesn stopni. Pamietaj, PANIE, Dawida i wszystkie jego utrapienia; </v>
+<v n="2"> Jak przysiagl PANU i slubowal poteznemu Bogu Jakuba, mowiac: </v>
+<v n="3"> Zaprawde, nie wejde do przybytku, do mego domu, i nie wstapie na poslanie mego loza; </v>
+<v n="4"> I nie dam zasnac swoim oczom ani drzemac swoim powiekom; </v>
+<v n="5"> Poki nie znajde miejsca dla PANA, mieszkania dla poteznego Boga Jakuba. </v>
+<v n="6"> Oto uslyszelismy o niej w Efrata, znalezlismy ja na polach lesnych. </v>
+<v n="7"> Wejdzmy do jego przybytkow, oddajmy poklon u podnozka jego stop. </v>
+<v n="8"> Powstan, PANIE, i wejdz do miejsca twego odpoczynku, ty i arka twojej mocy. </v>
+<v n="9"> Niech twoi kaplani ubiora sie w sprawiedliwosc, a twoi swieci niech sie raduja. </v>
+<v n="10"> Ze wzgledu na Dawida, twego sluge, nie odtracaj oblicza twego pomazanca. </v>
+<v n="11"> Przysiagl PAN Dawidowi prawde i nie wycofa sie z tego: Z owocu twoich bioder posadze na twoim tronie. </v>
+<v n="12"> Jesli twoi synowie beda strzegli mojego przymierza i moich swiadectw, ktorych ich naucze, to wtedy i ich synowie az na wieki beda siedzieli na twoim tronie. </v>
+<v n="13"> PAN bowiem wybral Syjon i upodobal go sobie na mieszkanie: </v>
+<v n="14"> To bedzie moj odpoczynek az na wieki; tu bede mieszkal, bo go sobie upodobalem. </v>
+<v n="15"> Bede obficie blogoslawil jego zywnosc, a jego ubogich nasyce chlebem. </v>
+<v n="16"> Jego kaplanow przyodzieje zbawieniem, a jego swieci beda wolac radosnie. </v>
+<v n="17"> Tam sprawie, ze zakwitnie rog Dawida; tam zgotuje pochodnie memu pomazancowi. </v>
+<v n="18"> Okryje jego nieprzyjaciol wstydem, ale nad nim rozkwitnie jego korona. </v>
+</c>

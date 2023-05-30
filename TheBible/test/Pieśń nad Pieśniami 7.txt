@@ -1,0 +1,14 @@
+<v n="1"> Jak piekne sa twoje nogi w sandalach, corko ksiazeca! Linia twoich bioder jest jak klejnot, jak dzielo rak rzemieslnika. </v>
+<v n="2"> Twoj pepek jest jak okragla czasza, ktorej nie brakuje napoju. Twoj brzuch jest jak stog pszenicy okolony liliami. </v>
+<v n="3"> Twoje piersi sa jak dwoje sarniat, blizniat. </v>
+<v n="4"> Twoja szyja jest jak wieza z kosci sloniowej; twoje oczy jak sadzawki Cheszbonu przy bramie Bat-Rabbim; twoj nos jak wieza Libanu zwrocona w strone Damaszku. </v>
+<v n="5"> Twoja glowa na tobie jak Karmel, a wlosy twojej glowy jak purpura. Krol na twoj widok jest jakby przywiazany w swoich kruzgankach. </v>
+<v n="6"> Jakze piekna jestes i jak mila, o milosci przerozkoszna! </v>
+<v n="7"> Twoj wzrost jest podobny do palmy, a twoje piersi do kisci winogron. </v>
+<v n="8"> Powiedzialem: Wejde na palme i uchwyce sie jej galezi. Niech twoje piersi beda jak kiscie winorosli, a won twojego oddechu jak zapach jablek; </v>
+<v n="9"> Twoje usta jak wyborne wino, ktore mile splywa po podniebieniu i sprawia, ze wargi spiacych mowia. </v>
+<v n="10"> Ja naleze do mojego umilowanego i do mnie zwraca sie jego pozadanie. </v>
+<v n="11"> Chodz, moj umilowany, wyjdzmy w pole i przenocujemy we wsiach. </v>
+<v n="12"> Rankiem wstaniemy i pojdziemy do winnic, zobaczymy, czy kwitnie winorosl, czy otworzyly sie juz paczki, czy juz kwitna granaty. Tam cie obdarze swoja miloscia. </v>
+<v n="13"> Mandragory wydaja swoja won, a przed naszymi drzwiami sa wszelkie wyborne owoce, nowe i stare, ktore przechowalam dla ciebie, moj umilowany. </v>
+</c>

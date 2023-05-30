@@ -1,0 +1,17 @@
+<v n="1"> Potem Mojzesz powiedzial do naczelnikow pokolen posrod synow Izraela: Oto co PAN rozkazal. </v>
+<v n="2"> Jesli mezczyzna zlozy PANU slub lub przysiege i zwiaze swoja dusze zobowiazaniem, to nie zlamie swego slowa; wypelni wszystko wedlug tego, co wyszlo z jego ust. </v>
+<v n="3"> Jesli kobieta zlozy PANU slub i zwiaze sie zobowiazaniem w domu swego ojca, w swojej mlodosci; </v>
+<v n="4"> A jej ojciec uslyszy slub i zobowiazanie, ktorym zwiazala swoja dusze, a jej ojciec bedzie milczal o tym, wtedy wszystkie jej sluby beda wazne i kazde zobowiazanie, ktorym zwiazala swa dusze, bedzie wazne. </v>
+<v n="5"> Lecz jesli jej ojciec sprzeciwi sie jej w dniu, kiedy uslyszy o wszystkich jej slubach i zobowiazaniach, ktorymi zwiazala swoja dusze, wtedy nie beda wazne; PAN przebaczy jej, gdyz jej ojciec sprzeciwil sie temu. </v>
+<v n="6"> Ale jesli majac meza, zlozyla slub lub wypowiedziala swymi ustami cos, czym zwiazala swoja dusze; </v>
+<v n="7"> A jej maz to uslyszal i milczal o tym w dniu, gdy to uslyszal, to jej sluby beda wazne i jej zobowiazania, ktorymi zwiazala swoja dusze, beda wazne. </v>
+<v n="8"> Lecz jesli w dniu, gdy jej maz uslyszal o tym, sprzeciwil sie temu, to uniewaznia jej slub, ktory zlozyla, i to, co wypowiedziala swymi ustami, czym zwiazala swoja dusze; a PAN jej przebaczy. </v>
+<v n="9"> Ale kazdy slub wdowy i rozwiedzionej, ktorym zwiazaly swoja dusze, bedzie wazny. </v>
+<v n="10"> Lecz jesli w domu swego meza zlozyla slub lub zwiazala swoja dusze zobowiazaniem przysiegi; </v>
+<v n="11"> A jej maz uslyszal to i milczal o tym, i nie sprzeciwil sie temu, wtedy wszystkie jej sluby beda wazne i kazdy obowiazek, ktorym zobowiazala swoja dusze, bedzie wazny. </v>
+<v n="12"> Ale jesli jej maz sprzeciwil sie temu w dniu, kiedy to uslyszal, to wszelki slub i zobowiazanie, jakie padly z jej ust, beda niewazne; jej maz je uniewaznil; a PAN jej przebaczy. </v>
+<v n="13"> Wszelki slub i wszelka przysiege zobowiazania na trapienie duszy moze jej maz potwierdzic lub moze uniewaznic. </v>
+<v n="14"> A jesli jej maz bedzie milczal dzien po dniu, to potwierdza wszystkie jej sluby i wszystkie jej zobowiazania, ktore ja wiaza. Potwierdza je, poniewaz milczal o tym w dniu, kiedy je uslyszal; </v>
+<v n="15"> Lecz jesli je uslyszal i dopiero pozniej uniewazni, to poniesie jej nieprawosc. </v>
+<v n="16"> To sa ustawy, ktore PAN przykazal Mojzeszowi, miedzy mezem a jego zona, miedzy ojcem a jego corka w jej mlodosci, poki jest w domu swego ojca. </v>
+</c>

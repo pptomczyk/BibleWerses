@@ -1,0 +1,22 @@
+<v n="1"> Po tych wydarzeniach slowo PANA doszlo do Abrama w widzeniu: Nie boj sie, Abramie. Ja jestem twoja tarcza i twoja niezmiernie obfita nagroda. </v>
+<v n="2"> I Abram powiedzial: Panie BOZE, co mi dasz, skoro ja jestem bezdzietny, a szafarzem mego domu jest ten Damascenczyk Eliezer? </v>
+<v n="3"> Abram dodal: Oto nie dales mi potomka, a sluga urodzony w moim domu bedzie moim dziedzicem. </v>
+<v n="4"> A oto dotarlo do niego slowo PANA: Nie on bedzie twoim dziedzicem, lecz ten, ktory wyjdzie z twego wnetrza, bedzie twoim dziedzicem. </v>
+<v n="5"> Potem wyprowadzil go na dwor i powiedzial: Spojrz teraz na niebo i policz gwiazdy, jesli bedziesz mogl je policzyc; i powiedzial mu: Takie bedzie twoje potomstwo. </v>
+<v n="6"> I uwierzyl PANU, i poczytano mu to za sprawiedliwosc. </v>
+<v n="7"> Potem powiedzial do niego: Ja jestem PANEM, ktory cie wyprowadzil z Ur chaldejskiego, aby ci dac te ziemie w posiadanie. </v>
+<v n="8"> Abram zapytal: Panie BOZE, po czym poznam, ze ja odziedzicze? </v>
+<v n="9"> I odpowiedzial mu: Wez dla mnie trzyletnia jalowke, trzyletnia koze i trzyletniego barana, a takze synogarlice i piskle golebia. </v>
+<v n="10"> Wzial wiec to wszystko i rozcial na polowy; a jedna czesc polozyl naprzeciwko drugiej, ale ptakow nie rozcinal. </v>
+<v n="11"> Kiedy zlecialo sie ptactwo do tej padliny, Abram je odganial. </v>
+<v n="12"> Gdy slonce zachodzilo, gleboki sen ogarnal Abrama i oto groza wielkiej ciemnosci zapadla na niego. </v>
+<v n="13"> I PAN powiedzial do Abrama: Wiedz o tym dobrze, ze twoje potomstwo bedzie przybyszem w cudzej ziemi i wezma je w niewole, i bedzie uciskane przez czterysta lat. </v>
+<v n="14"> A ja osadze ten narod, ktoremu beda sluzyc; a potem wyjda stamtad z wielkim dobytkiem. </v>
+<v n="15"> Ale ty odejdziesz w pokoju do twoich ojcow i bedziesz pochowany w dobrej starosci. </v>
+<v n="16"> A w czwartym pokoleniu wroca tutaj, bo jeszcze nie dopelnila sie nieprawosc Amorytow. </v>
+<v n="17"> Gdy slonce zaszlo i nastala ciemnosc, oto ukazal sie dymiacy piec i ognista pochodnia, ktora przechodzila miedzy tymi polowami zwierzat. </v>
+<v n="18"> W tym wlasnie dniu PAN zawarl przymierze z Abramem, mowiac: Twemu potomstwu dam te ziemie, od rzeki Egiptu az do wielkiej rzeki, rzeki Eufrat; </v>
+<v n="19"> Kenitow, Kenizytow i Kadmonitow; </v>
+<v n="20"> Chetytow, Peryzzytow i Refaitow; </v>
+<v n="21"> Amorytow, Kananejczykow, Girgaszytow i Jebusytow. </v>
+</c>

@@ -1,0 +1,27 @@
+<v n="1"> Potem Hiob otworzyl swoje usta i przeklinal swoj dzien. </v>
+<v n="2"> Hiob odezwal sie i zawolal: </v>
+<v n="3"> Niech zginie dzien, w ktorym sie urodzilem, i noc, w ktora powiedziano: Poczety mezczyzna. </v>
+<v n="4"> Niech ten dzien stanie sie ciemnoscia, niech o niego nie troszczy sie Bog z wysokosci i nie oswietla go swiatlosc. </v>
+<v n="5"> Niech go pokryje ciemnosc i cien smierci, niech go ogarnie oblok i przerazi mrok dnia. </v>
+<v n="6"> Niech ta noca zawladnie ciemnosc, niech nie bedzie liczona wsrod dni roku i nie wejdzie w liczbe miesiecy. </v>
+<v n="7"> Niech ta noc bedzie samotna, niech nie bedzie w niej radosnego spiewu. </v>
+<v n="8"> Niech przeklna ja ci, ktorzy przeklinaja dzien, ktorzy sa gotowi podniesc swoj lament. </v>
+<v n="9"> Niech gwiazdy zacmia sie o zmierzchu, niech nie doczeka sie swiatla ani nie zobaczy zorzy porannej; </v>
+<v n="10"> Bo nie zamknela drzwi lona mej matki i nie ukryla smutku przed moimi oczami. </v>
+<v n="11"> Czemu nie umarlem w lonie? Czemu nie zginalem, kiedy wyszedlem z lona? </v>
+<v n="12"> Czemu przyjely mnie kolana? Czemu przyjely mnie piersi, abym mogl je ssac? </v>
+<v n="13"> Teraz bowiem lezalbym i trwal w spokoju, spalbym i odpoczywal; </v>
+<v n="14"> Z krolami i z doradcami ziemi, ktorzy sobie budowali opustoszale miejsca; </v>
+<v n="15"> Albo z ksiazetami, ktorzy mieli zloto i napelnili swe domy srebrem; </v>
+<v n="16"> Albo czemu nie stalem sie jak ukryty, martwy plod, jak niemowleta, ktore nie widzialy swiatla? </v>
+<v n="17"> Tam bezbozni przestaja straszyc, tam pozbawieni sily odpoczywaja. </v>
+<v n="18"> Tam wiezniowie razem wypoczywaja i nie slysza glosu ciemiezcy. </v>
+<v n="19"> Maly i wielki sa tam sobie rowni i niewolnik jest wolny od swego pana. </v>
+<v n="20"> Czemu nedznemu dane jest swiatlo, a zycie tym, ktorzy sa rozgoryczeni na duszy; </v>
+<v n="21"> Ktorzy z tesknota wypatruja smierci, a ta nie przychodzi, choc jej szukaja pilniej niz ukrytych skarbow; </v>
+<v n="22"> Ktorzy wielce sie raduja i ciesza, kiedy grob znajduja? </v>
+<v n="23"> Czemu dane jest swiatlo czlowiekowi, ktorego droga jest ukryta i ktorego Bog osaczyl? </v>
+<v n="24"> Kiedy bowiem mam jesc, przychodzi moje wzdychanie, a moje jeki rozchodza sie jak woda; </v>
+<v n="25"> Bo to, czego sie balem, spotkalo mnie, a to, czego sie obawialem, spadlo na mnie. </v>
+<v n="26"> Nie bylem bezpieczny, nie mialem spokoju ani odpoczynku, a jednak nadeszla trwoga. </v>
+</c>

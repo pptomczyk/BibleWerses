@@ -1,0 +1,14 @@
+<v n="1"> Dlatego nie mogac tego dluzej znosic, postanowilismy sami pozostac w Atenach; </v>
+<v n="2"> A Tymoteusza, naszego brata, sluge Boga i wspolpracownika w ewangelii Chrystusa poslalismy, aby was utwierdzil i dodal wam otuchy w wierze; </v>
+<v n="3"> Aby nikt sie nie zachwial wsrod tych utrapien. Sami przeciez wiecie, ze do tego zostalismy wyznaczeni. </v>
+<v n="4"> Gdy bowiem bylismy u was, zapowiadalismy wam, ze bedziemy cierpiec ucisk, co sie tez stalo, jak wiecie. </v>
+<v n="5"> Dlatego i ja, nie mogac tego dluzej znosic, poslalem go, aby rozeznal sie w waszej wierze, czy was kusiciel czasem nie kusil, a nasza praca nie okazala sie daremna. </v>
+<v n="6"> Teraz zas Tymoteusz wrocil od was do nas i zwiastowal nam radosna wiesc o waszej wierze i milosci, i o tym, ze nas zawsze dobrze wspominacie, pragnac nas widziec, podobnie jak my was. </v>
+<v n="7"> Dlatego dzieki wam, bracia, zostalismy pocieszeni przez wasza wiare we wszelkim naszym ucisku i potrzebie. </v>
+<v n="8"> Teraz bowiem zyjemy, jesli wy trwacie w Panu. </v>
+<v n="9"> Jakie wiec dziekczynienie mozemy zlozyc Bogu za was, za cala radosc, jakiej z powodu was doznajemy przed naszym Bogiem; </v>
+<v n="10"> Gdy w nocy i we dnie bardzo gorliwie modlimy sie, abysmy mogli zobaczyc was osobiscie i uzupelnic braki waszej wiary? </v>
+<v n="11"> A sam Bog i nasz Ojciec i nasz Pan Jezus Chrystus niech utoruje nasza droge do was. </v>
+<v n="12"> Pan zas niech sprawi, ze bedziecie wzrastac i obfitowac w milosc do siebie nawzajem i do wszystkich, taka, jaka i my mamy do was; </v>
+<v n="13"> Aby wasze serca zostaly utwierdzone jako nienaganne w swietosci wobec naszego Boga i Ojca na przyjscie naszego Pana Jezusa Chrystusa wraz ze wszystkimi jego swietymi. </v>
+</c>

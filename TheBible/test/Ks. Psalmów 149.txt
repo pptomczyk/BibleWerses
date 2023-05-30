@@ -1,0 +1,10 @@
+<v n="1"> Alleluja. Spiewajcie PANU nowa piesn; niech jego chwala zabrzmi w zgromadzeniu swietych. </v>
+<v n="2"> Niech Izrael cieszy sie swoim Stworca; niech synowie Syjonu raduja sie swoim Krolem. </v>
+<v n="3"> Niech chwala jego imie tancem; niech graja mu na bebnie i na harfie. </v>
+<v n="4"> PAN bowiem swoj lud upodobal sobie; zdobi pokornych zbawieniem. </v>
+<v n="5"> Niech swieci sie raduja w chwale Bozej, niech spiewaja na swych poslaniach. </v>
+<v n="6"> Niech chwala Boza bedzie na ich ustach, a miecz obosieczny w ich rekach; </v>
+<v n="7"> Aby dokonali zemsty na poganach i ukarali narody; </v>
+<v n="8"> Aby zakuli ich krolow w kajdany, a ich dostojnikow w zelazne okowy; </v>
+<v n="9"> Aby wykonali na nich zapisany wyrok. Taka jest chwala wszystkich jego swietych. Alleluja. </v>
+</c>

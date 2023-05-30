@@ -1,0 +1,23 @@
+<v n="1"> Zdarzylo sie, ze w czasach, kiedy rzadzili sedziowie, nastal glod na ziemi. I pewien czlowiek z Betlejem judzkiego wyruszyl wraz ze swoja zona i dwoma synami, aby zamieszkac w ziemi Moabu. </v>
+<v n="2"> Ten czlowiek mial na imie Elimelech, jego zona – Noemi, a jego dwaj synowie – Machlon i Kilion. Byli oni Efratejczykami z Betlejem judzkiego. Przybyli do ziemi Moabu i tam zamieszkali. </v>
+<v n="3"> Potem umarl Elimelech, maz Noemi, a ona pozostala sama z dwoma synami. </v>
+<v n="4"> Ci pojeli sobie za zony Moabitki: jedna miala na imie Orfa, a druga – Rut. I mieszkali tam okolo dziesieciu lat. </v>
+<v n="5"> Potem obaj, Machlon i Kilion, rowniez umarli; i tak kobieta ta pozostala sama bez swoich dwoch synow i bez meza. </v>
+<v n="6"> Wtedy powstala wraz ze swoimi synowymi, aby wrocic z ziemi Moabu, gdyz uslyszala w ziemi Moabu, ze PAN nawiedzil swoj lud i dal mu chleb. </v>
+<v n="7"> Wyszla wiec z miejsca, w ktorym byla, a wraz z nia jej dwie synowe i udaly sie w droge powrotna do ziemi Judy. </v>
+<v n="8"> I powiedziala Noemi do swych dwoch synowych: Idzcie, niech kazda z was powroci do domu swojej matki. Niech PAN okaze wam milosierdzie, tak jak okazalyscie je zmarlym i mnie. </v>
+<v n="9"> Niech PAN sprawi, aby kazda z was znalazla pokoj w domu swego meza. I pocalowala je, a one podniosly glosy i zaplakaly. </v>
+<v n="10"> I mowily do niej: Wrocimy raczej z toba do twego ludu. </v>
+<v n="11"> Lecz Noemi odpowiedziala: Zawroccie, moje corki. Czemu chcecie isc ze mna? Czy mam jeszcze w swoim lonie synow, ktorzy zostaliby waszymi mezami? </v>
+<v n="12"> Zawroccie, moje corki, idzcie, bo jestem zbyt stara, aby wyjsc za maz. A nawet gdybym powiedziala: mam jeszcze nadzieje, to chocbym tej nocy wyszla za maz i rowniez urodzila synow; </v>
+<v n="13"> Czy czekalybyscie na nich, az dorosna? Czy ze wzgledu na nich pozostalybyscie bez meza? Nie, moje corki. Odczuwam bowiem wielka gorycz ze wzgledu na was, gdyz reka PANA obrocila sie przeciwko mnie. </v>
+<v n="14"> A one znowu podniosly glosy i zaczely plakac. I Orfa pocalowala swoja tesciowa, ale Rut pozostala przy niej. </v>
+<v n="15"> Wtedy Noemi powiedziala do niej: Oto twoja szwagierka wrocila do swego ludu i do swoich bogow. Wroc takze ty za swoja szwagierka. </v>
+<v n="16"> Rut jednak odpowiedziala: Nie nalegaj na mnie, abym cie opuscila i odeszla od ciebie. Gdziekolwiek bowiem pojdziesz i ja pojde, a gdziekolwiek zamieszkasz i ja zamieszkam. Twoj lud bedzie moim ludem, a twoj Bog bedzie moim Bogiem. </v>
+<v n="17"> Gdzie ty umrzesz, tam i ja umre, i tam bede pogrzebana. Niech mi to PAN uczyni i niech do tego dorzuci, jesli cos innego niz smierc oddzieli mnie od ciebie. </v>
+<v n="18"> A gdy Noemi widziala, ze uparla sie, aby z nia isc, przestala jej odradzac. </v>
+<v n="19"> I szly obie razem, az przyszly do Betlejem. A gdy przybyly do Betlejem, cale miasto ogarnelo poruszenie z ich powodu i mowiono: Czy to jest Noemi? </v>
+<v n="20"> Lecz ona powiedziala do nich: Nie nazywajcie mnie Noemi, lecz nazywajcie mnie Mara, poniewaz Wszechmogacy napelnil mnie wielka gorycza. </v>
+<v n="21"> Wyszlam stad pelna, a PAN sprowadzil mnie pusta. Czemu nazywacie mnie Noemi, skoro PAN wystapil przeciwko mnie i Wszechmogacy sprowadzil na mnie nieszczescie? </v>
+<v n="22"> Wrocila wiec Noemi, a z nia Rut Moabitka, jej synowa, ktora wrocila z krainy Moabu. A przyszly do Betlejem na poczatku zniw jeczmienia. </v>
+</c>

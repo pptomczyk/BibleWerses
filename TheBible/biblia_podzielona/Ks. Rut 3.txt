@@ -1,0 +1,19 @@
+<v n="1"> Potem Noemi, jej teœciowa, powiedzia³a do niej: Moja córko, czy nie powinnam ci szukaæ odpoczynku, abyœ siê dobrze mia³a? </v>
+<v n="2"> I czy¿ Boaz nie jest naszym krewnym, z którego s³u¿¹cymi by³aœ? Oto dziœ w nocy bêdzie on przewiewa³ jêczmieñ na klepisku. </v>
+<v n="3"> Umyj siê wiêc i namaœæ, na³ó¿ na siebie swoje szaty i zejdŸ na klepisko, lecz nie daj siê poznaæ temu cz³owiekowi, dopóki nie skoñczy jeœæ i piæ. </v>
+<v n="4"> A gdy po³o¿y siê spaæ, upatrz miejsce, na którym siê po³o¿y, podejdŸ, odkryj jego nogi i po³ó¿ siê, a on ci powie, co masz czyniæ. </v>
+<v n="5"> I Rut powiedzia³a do niej: Uczyniê wszystko, co mi ka¿esz. </v>
+<v n="6"> Zesz³a wiêc na klepisko i uczyni³a to, co jej nakaza³a teœciowa. </v>
+<v n="7"> A gdy Boaz najad³ siê i napi³, i jego serce siê rozweseli³o, poszed³ po³o¿yæ siê przy stosie zbo¿a. Wtedy ona przysz³a po cichu, odkry³a jego nogi i po³o¿y³a siê. </v>
+<v n="8"> O pó³nocy mê¿czyzna zl¹k³ siê, obróci³, a oto kobieta le¿a³a u jego stóp. </v>
+<v n="9"> I powiedzia³: Kto ty jesteœ? Odpowiedzia³a: Jestem Rut, twoja s³u¿¹ca. Rozci¹gnij swój p³aszcz nad swoj¹ s³u¿¹c¹, bo jesteœ ze mn¹ blisko spokrewniony. </v>
+<v n="10"> A on odpowiedzia³: B³ogos³awiona jesteœ przez PANA, moja córko. Wiêksz¹ mi³oœæ okaza³aœ teraz ni¿ na pocz¹tku, gdy¿ nie posz³aœ za m³odzieñcami, czy to ubogimi, czy bogatymi. </v>
+<v n="11"> Teraz wiêc, moja córko, nie bój siê. Uczyniê wszystko, co powiedzia³aœ, gdy¿ ca³e miasto mego ludu wie, ¿e jesteœ cnotliw¹ kobiet¹. </v>
+<v n="12"> A chocia¿ to prawda, ¿e jestem z tob¹ blisko spokrewniony, to jednak bli¿ej jest z tob¹ spokrewniony inny ode mnie. </v>
+<v n="13"> Zostañ tu przez noc, a rankiem, jeœli zechce ciê on wykupiæ, dobrze, niech wykupi. Lecz jeœli nie zechce ciê wykupiæ, ja ciê wykupiê, jak ¿yje PAN! Œpij tu a¿ do rana. </v>
+<v n="14"> Spa³a wiêc u jego stóp a¿ do rana. Wsta³a jednak w porze, gdy cz³owiek nie jest w stanie rozpoznaæ drugiego. Mówi³ bowiem Boaz: Niech nikt siê nie dowie, ¿e kobieta przysz³a na klepisko. </v>
+<v n="15"> I doda³: Daj okrycie, które masz na sobie, i trzymaj je. A gdy trzyma³a je, odmierzy³ jej szeœæ miar jêczmienia i w³o¿y³ to na ni¹. Potem posz³a do miasta. </v>
+<v n="16"> A gdy przysz³a do teœciowej, ta zapyta³a j¹: Kto ty jesteœ, moja córko? I opowiedzia³a jej wszystko, co ten cz³owiek uczyni³ dla niej. </v>
+<v n="17"> I doda³a: Oto da³ mi szeœæ miar jêczmienia. Powiedzia³ bowiem do mnie: Nie mo¿esz wróciæ z pustymi rêkami do swojej teœciowej. </v>
+<v n="18"> Wtedy Noemi powiedzia³a: B¹dŸ spokojna, moja córko, a¿ siê dowiesz, jak potocz¹ siê rzeczy, gdy¿ ten cz³owiek nie spocznie, dopóki nie zakoñczy dzisiaj tej sprawy. </v>
+</c>

@@ -1,0 +1,26 @@
+<v n="1"> Jesli wiec razem z Chrystusem powstaliscie z martwych, szukajcie tego, co w gorze, gdzie Chrystus zasiada po prawicy Boga. </v>
+<v n="2"> Myslcie o tym, co w gorze, nie o tym, co na ziemi. </v>
+<v n="3"> Umarliscie bowiem i wasze zycie jest ukryte z Chrystusem w Bogu. </v>
+<v n="4"> Lecz gdy sie Chrystus, nasze zycie, ukaze, wtedy i wy razem z nim ukazecie sie w chwale. </v>
+<v n="5"> Umartwiajcie wiec wasze czlonki, ktore sa na ziemi: nierzad, nieczystosc, namietnosc, zle zadze i chciwosc, ktora jest balwochwalstwem; </v>
+<v n="6"> Z powodu ktorych przychodzi gniew Bozy na synow nieposluszenstwa. </v>
+<v n="7"> I wy niegdys tak postepowaliscie, gdy zyliscie w nich. </v>
+<v n="8"> Lecz teraz i wy odrzuccie to wszystko: gniew, zapalczywosc, zlosliwosc, bluznierstwo i nieprzyzwoite slowa z waszych ust. </v>
+<v n="9"> Nie oklamujcie sie wzajemnie, skoro zrzuciliscie z siebie starego czlowieka z jego uczynkami; </v>
+<v n="10"> A przyodzialiscie sie w nowego, ktory sie odnawia w poznaniu na obraz tego, ktory go stworzyl. </v>
+<v n="11"> Gdzie nie ma Greka ani Zyda, obrzezanego ani nieobrzezanego, cudzoziemca ani Scyty, niewolnika ani wolnego, ale wszystkim i we wszystkich Chrystus. </v>
+<v n="12"> Tak wiec jako wybrani Boga, swieci i umilowani, przyodziejcie sie w serdeczne milosierdzie, dobroc, pokore, lagodnosc, cierpliwosc; </v>
+<v n="13"> Znoszac jedni drugich i przebaczajac sobie nawzajem, jesli ktos ma skarge przeciw drugiemu: jak i Chrystus przebaczyl wam, tak i wy. </v>
+<v n="14"> A nade wszystko przyodziejcie sie w milosc, ktora jest wiezia doskonalosci. </v>
+<v n="15"> A pokoj Bozy niech rzadzi w waszych sercach, do ktorego tez jestescie powolani w jednym ciele. Badzcie tez wdzieczni. </v>
+<v n="16"> Slowo Chrystusa niech mieszka w was obficie ze wszelka madroscia, nauczajcie i napominajcie sie wzajemnie przez psalmy, hymny i piesni duchowe, z wdziecznoscia spiewajac w waszych sercach Panu. </v>
+<v n="17"> A wszystko, co czynicie w slowie lub w uczynku, wszystko czyncie w imie Pana Jezusa, dziekujac Bogu i Ojcu przez niego. </v>
+<v n="18"> Zony, badzcie poddane swym mezom, jak przystoi w Panu. </v>
+<v n="19"> Mezowie, milujcie wasze zony i nie badzcie surowi wobec nich. </v>
+<v n="20"> Dzieci, badzcie posluszne rodzicom we wszystkim, to bowiem podoba sie Panu. </v>
+<v n="21"> Ojcowie, nie pobudzajcie do gniewu waszych dzieci, aby nie upadaly na duchu. </v>
+<v n="22"> Sludzy, badzcie posluszni we wszystkim ziemskim panom, nie sluzac dla oka, jak ci, ktorzy chca sie podobac ludziom, lecz w szczerosci serca, bojac sie Boga. </v>
+<v n="23"> A wszystko, co czynicie, z serca czyncie, jak dla Pana, a nie dla ludzi; </v>
+<v n="24"> Wiedzac, ze od Pana otrzymacie dziedzictwo jako zaplate, gdyz sluzycie Panu Chrystusowi. </v>
+<v n="25"> A ten, kto wyrzadza krzywde, otrzyma zaplate za krzywde, a u Boga nie ma wzgledu na osobe. </v>
+</c>

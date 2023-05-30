@@ -1,0 +1,21 @@
+<v n="1"> I PAN powiedzial do Abrama: Wyjdz z twojej ziemi i od twojej rodziny, i z domu twego ojca do ziemi, ktora ci pokaze. </v>
+<v n="2"> A uczynie z ciebie wielki narod, bede ci blogoslawil i rozslawie twoje imie, i bedziesz blogoslawienstwem. </v>
+<v n="3"> I bede blogoslawil tym, ktorzy tobie beda blogoslawic; a tych, ktorzy przeklinaja ciebie, bede przeklinac. W tobie beda blogoslawione wszystkie narody ziemi. </v>
+<v n="4"> Wyszedl wiec Abram, jak mu PAN rozkazal, poszedl z nim tez Lot. Abram mial siedemdziesiat piec lat, gdy wyszedl z Charanu. </v>
+<v n="5"> I Abram wzial swoja zone Saraj, Lota, syna brata swego, i caly dobytek, ktory zgromadzili, i dusze, ktore nabyli w Charanie, i wyszli, aby udac sie do ziemi Kanaan; i przybyli do ziemi Kanaan. </v>
+<v n="6"> Abram przeszedl te ziemie az do miejsca Sychem, do rowniny More. Na tej ziemi byli wowczas Kananejczycy. </v>
+<v n="7"> I PAN ukazal sie Abramowi, i powiedzial: Twemu potomstwu dam te ziemie. I Abram zbudowal tam oltarz dla PANA, ktory mu sie ukazal. </v>
+<v n="8"> A stamtad przeniosl sie do gory na wschod od Betel i tam rozbil swoj namiot miedzy Betel od zachodu i Aj od wschodu. Tam rowniez zbudowal oltarz dla PANA i wzywal imienia PANA. </v>
+<v n="9"> Potem Abram wyruszyl, idac ku poludniu. </v>
+<v n="10"> A nastal glod na tej ziemi. Abram zstapil wiec do Egiptu, aby tam goscic; ciezki bowiem byl glod na ziemi. </v>
+<v n="11"> A gdy zblizal sie do Egiptu, powiedzial do swej zony Saraj: Oto wiem, ze jestes piekna kobieta. </v>
+<v n="12"> Gdy Egipcjanie cie zobacza, powiedza: To jego zona; i zabija mnie, a ciebie zostawia przy zyciu. </v>
+<v n="13"> Mow, prosze, ze jestes moja siostra, aby mi sie dobrze wiodlo ze wzgledu na ciebie i abym dzieki tobie pozostal przy zyciu. </v>
+<v n="14"> Gdy Abram wszedl do Egiptu, Egipcjanie zobaczyli, ze ta kobieta jest bardzo piekna. </v>
+<v n="15"> Ujrzeli ja tez dostojnicy faraona i chwalili ja przed nim. I zabrano te kobiete do domu faraona. </v>
+<v n="16"> Ten dobrze traktowal Abrama ze wzgledu na nia. Abram mial wiec owce, woly, osly, sluzacych i sluzace, oslice i wielblady. </v>
+<v n="17"> PAN jednak dotknal faraona i jego dom wielkimi plagami z powodu Saraj, zony Abrama. </v>
+<v n="18"> Faraon wezwal wiec Abrama i powiedzial: Cos ty mi zrobil? Czemu mi nie powiedziales, ze ona jest twoja zona? </v>
+<v n="19"> Dlaczego mowiles: Ona jest moja siostra, tak ze moglem ja wziac sobie za zone? A teraz – oto twoja zona, wez ja i idz. </v>
+<v n="20"> I faraon rozkazal o nim swoim ludziom, i odprawili go wraz z zona i wszystkim, co bylo jego. </v>
+</c>

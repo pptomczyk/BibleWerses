@@ -1,0 +1,19 @@
+<v n="1"> Brzemie Tyru. Zawodzcie, okrety Tarszisz, bo zostal zburzony tak, ze nie ma ani domu, ani zadnego portu; oznajmiono im z ziemi Kittim. </v>
+<v n="2"> Zamilczcie, mieszkancy wyspy; ktora napelnili kupcy Sydonu, przeplywajac przez morze. </v>
+<v n="3"> I ziarno Szichoru, sprowadzane przez wielkie wody, zniwo rzeki, bylo jego dochodem; byl tez rynkiem narodow. </v>
+<v n="4"> Wstydz sie, Sydonie. Przemowilo bowiem morze, przemowila twierdza morska: Nie wije sie w bolu ani nie rodze, nie wychowuje mlodziencow ani nie odchowuje dziewic. </v>
+<v n="5"> Jak na wiesc o Egipcie tak beda sie wic na wiesc o Tyrze. </v>
+<v n="6"> Przeprawcie sie do Tarszisz, zawodzcie, mieszkancy wyspy! </v>
+<v n="7"> Czy to jest wasze wesole miasto, ktorego historia siega dawnych dni? Jego wlasne nogi zawioda je na daleka wedrowke. </v>
+<v n="8"> Kto powzial takie postanowienie przeciw Tyrowi, ktory rozdawal korony, ktorego kupcy sa ksiazetami, a jego handlarze – szanowanymi ziemi? </v>
+<v n="9"> PAN zastepow to postanowil, aby ponizyc pyche calej jego chwaly i aby zniewazyc wszystkich szanowanych ziemi. </v>
+<v n="10"> Przeprawcie sie przez swoja ziemie jak rzeka, o corko Tarszisz. Nie ma juz sily. </v>
+<v n="11"> Wyciagnal swoja reke nad morze, zatrzasnal krolestwami. PAN wydal rozkaz przeciwko Kanaanowi, aby zburzyc jego twierdze; </v>
+<v n="12"> I powiedzial: Juz nie bedziesz sie weselic, ty zhanbiona dziewico, corko Sydonu. Powstan, przepraw sie do Kittim; lecz i tam nie bedziesz miala odpoczynku. </v>
+<v n="13"> Oto ziemia Chaldejczykow – ten lud nie byl ludem. Asyryjczyk zalozyl ja dla mieszkancow pustyni. Wzniesli jej wieze, pobudowali jej palace, ale on obrocil ja w gruzy. </v>
+<v n="14"> Zawodzcie, okrety Tarszisz, gdyz wasza twierdza jest zburzona. </v>
+<v n="15"> I stanie sie w tym dniu, ze Tyr pojdzie w zapomnienie na siedemdziesiat lat, na okres dni jednego krola. A po uplywie siedemdziesieciu lat Tyr bedzie spiewal jak nierzadnica. </v>
+<v n="16"> Wez harfe, obejdz miasto, zapomniana nierzadnico! Graj ladnie, spiewaj duzo, by przypomniano sobie ciebie. </v>
+<v n="17"> I stanie sie po uplywie siedemdziesieciu lat, ze PAN nawiedzi Tyr, a ten wroci do czerpania korzysci ze swego nierzadu i bedzie go uprawial ze wszystkimi krolestwami swiata na powierzchni ziemi. </v>
+<v n="18"> Lecz jego dochody i jego zysk beda poswiecone PANU. Nie bedzie ich odkladac i gromadzic. Jego dochody beda dla tych, ktorzy przebywaja przed PANEM, aby mogli jesc do syta i miec dobre ubranie. </v>
+</c>

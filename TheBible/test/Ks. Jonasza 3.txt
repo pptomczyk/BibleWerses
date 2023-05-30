@@ -1,0 +1,11 @@
+<v n="1"> Wtedy slowo PANA doszlo do Jonasza po raz drugi mowiace: </v>
+<v n="2"> Wstan, idz do Niniwy, tego wielkiego miasta, i glos przeciwko niej to, co ci rozkazuje. </v>
+<v n="3"> Wstal wiec Jonasz i poszedl do Niniwy zgodnie ze slowem PANA. A Niniwa byla bardzo wielkim miastem, na trzy dni drogi. </v>
+<v n="4"> Jonasz zaczal chodzic po miescie, ile mogl przejsc w jeden dzien, i wolal: Po czterdziestu dniach Niniwa zostanie zburzona. </v>
+<v n="5"> I mieszkancy Niniwy uwierzyli Bogu, oglosili post i oblekli sie w wory, od najwiekszego z nich az do najmniejszego. </v>
+<v n="6"> Doszla bowiem ta sprawa do krola Niniwy i powstal z tronu, i zdjal z siebie plaszcz, po czym oblekl sie w wor i siedzial w popiele. </v>
+<v n="7"> Rozkazal oglosic i opowiadac w Niniwie z dekretu krola i swoich ksiazat: Ludzie i zwierzeta, woly i owce niech nic nie jedza, niech sie nie pasa i wody nie pija; </v>
+<v n="8"> Ale ludzie i zwierzeta niech sie okryja worami i niech gorliwie wolaja do Boga. Niech kazdy sie odwroci od swojej zlej drogi i od grabiezy popelnianej swoimi rekami. </v>
+<v n="9"> Kto wie, czy Bog sie nie odwroci i nie pozaluje, i nie odstapi od zapalczywosci swego gniewu, abysmy nie zgineli. </v>
+<v n="10"> I Bog widzial ich czyny, ze odwrocili sie od swojej zlej drogi, i Bog pozalowal tego nieszczescia, ktore zapowiedzial im czynic, a nie uczynil. </v>
+</c>

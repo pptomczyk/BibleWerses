@@ -1,0 +1,15 @@
+<v n="1"> A tak ukonczono wszelka prace, ktora wykonal Salomon dla domu PANA. I Salomon wniosl tam rzeczy, ktore poswiecil jego ojciec Dawid: srebro, zloto i wszystkie naczynia wlozyl do skarbcow domu Bozego. </v>
+<v n="2"> Potem Salomon zebral starszych z Izraela, wszystkich naczelnikow z kazdego pokolenia, przywodcow rodow synow Izraela, w Jerozolimie, aby przeniesli arke przymierza PANA z miasta Dawida, ktorym jest Syjon. </v>
+<v n="3"> Zebrali sie wiec u krola wszyscy mezczyzni Izraela na swieto w siodmym miesiacu. </v>
+<v n="4"> A gdy sie zeszli wszyscy starsi z Izraela, Lewici wzieli arke; </v>
+<v n="5"> I przeniesli ja, Namiot Zgromadzenia i wszystkie naczynia swiete, ktore byly w namiocie. Przeniesli je kaplani i Lewici. </v>
+<v n="6"> Potem krol Salomon i cale zgromadzenie Izraela – zebrane u niego przed arka – zlozyli w ofierze owce i woly, ktorych nie mozna bylo zliczyc ani spisac z powodu wielkiej liczby. </v>
+<v n="7"> Wtedy kaplani wniesli arke przymierza PANA do wnetrza domu na jej miejsce, do Miejsca Najswietszego, pod skrzydla cherubinow. </v>
+<v n="8"> Cherubiny mialy bowiem rozpostarte skrzydla nad miejscem polozenia arki i okrywaly od gory arke i jej drazki. </v>
+<v n="9"> I powyciagali drazki, tak ze ich konce bylo widac z arki przed Miejscem Najswietszym, ale nie byly widoczne na zewnatrz. I sa tam az do dzis. </v>
+<v n="10"> W arce nie bylo nic oprocz dwoch tablic, ktore Mojzesz tam wlozyl na Horebie, gdy PAN zawarl przymierze z synami Izraela po ich wyjsciu z Egiptu. </v>
+<v n="11"> A gdy kaplani wyszli z miejsca swietego (gdyz wszyscy kaplani, ktorzy byli obecni, poswiecili sie, nie przestrzegajac podzialu na zmiany; </v>
+<v n="12"> Stali tez Lewici spiewacy i wszyscy, ktorzy byli z Asafa, Hemana, Jedutuna wraz ze swoimi synami i bracmi, ubrani w szaty z bisioru, z cymbalami, lutniami i cytrami, stali na wschodniej stronie oltarza, a z nimi stu dwudziestu kaplanow grajacych na trabach); </v>
+<v n="13"> I kiedy tak zgodnie trabili, i spiewali, i wydawali jeden glos, chwalac i slawiac PANA; i gdy podnosili glos przy wtorze trab, cymbalow i innych instrumentow muzycznych, chwalac PANA, ze jest dobry, ze na wieki trwa jego milosierdzie, wtedy dom, dom PANA, napelnil sie oblokiem; </v>
+<v n="14"> Tak ze kaplani nie mogli tam ustac, aby pelnic sluzbe, z powodu tego obloku, bo chwala PANA napelnila dom Bozy. </v>
+</c>

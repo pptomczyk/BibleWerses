@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi choru. Psalm pouczajacy Dawida, gdy przybyl Doeg Edomita i oznajmil Saulowi: Dawid wszedl do domu Achimeleka. Czemu chlubisz sie zlem, mocarzu? Milosierdzie Boze trwa nieustannie. </v>
+<v n="2"> Twoj jezyk knuje przewrotnosc, ostry jak brzytwa, dzialajacy podstepnie. </v>
+<v n="3"> Milujesz zlo bardziej niz dobro i klamstwo bardziej niz mowe sprawiedliwa. Sela. </v>
+<v n="4"> Milujesz wszelkie slowa szkodliwe, podstepny jezyku. </v>
+<v n="5"> Dlatego Bog zniszczy cie na wieki, pochwyci cie i wyrwie z namiotu, i wykorzeni cie z ziemi zyjacych. Sela. </v>
+<v n="6"> Zobacza to sprawiedliwi i zlekna sie, i beda sie z niego smiac: </v>
+<v n="7"> Oto czlowiek, ktory nie uczynil Boga swoja sila, ale ufal swym wielkim bogactwom i umacnial sie w swojej nieprawosci. </v>
+<v n="8"> Ja zas jestem jak zielone drzewo oliwne w domu Bozym, zaufalem milosierdziu Boga na wieki wiekow. </v>
+<v n="9"> Bede cie wyslawial na wieki, ze to uczyniles, i bede oczekiwal twego imienia, gdyz jest dobre w oczach twoich swietych. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Brzemie, ktore widzial prorok Habakuk. </v>
+<v n="2"> PANIE, jak dlugo bede wolac, a nie bedziesz wysluchiwal? Jak dlugo bede krzyczec do ciebie o krzywdzie, a nie bedziesz wybawial? </v>
+<v n="3"> Czemu dopuszczasz, abym patrzyl na nieprawosc i widzial bezprawie? Zguba i przemoc sa przede mna i znajduje sie ten, ktory roznieca spory i niezgode. </v>
+<v n="4"> Dlatego prawo jest naruszone, a nie ma juz sprawiedliwosci. Niegodziwy bowiem osacza sprawiedliwego, dlatego wydawane sa bledne wyroki. </v>
+<v n="5"> Spojrzcie na narody, zobaczcie i zdumiejcie sie bardzo, gdyz dokonuje dziela za waszych dni, w ktore nie uwierzycie, gdy wam o nim opowiedza. </v>
+<v n="6"> Oto bowiem wzbudze Chaldejczykow, narod srogi i gwaltowny; przejda przez szerokosc ziemi, aby posiasc cudze miejsca zamieszkania. </v>
+<v n="7"> Straszni sa i grozni. Sami ustalaja swoj sad i swoja wielkosc. </v>
+<v n="8"> Ich konie sa szybsze niz lamparty, dziksze niz wilki o zmierzchu. Ich jezdzcy rozciagna sie szeroko, ich jezdzcy przybeda z daleka, przyleca jak orzel spieszacy sie na zer. </v>
+<v n="9"> Kazdy z nich przybedzie dla lupu. Ich twarze beda zwrocone na wschod i zgromadza jencow jak piasek. </v>
+<v n="10"> Beda szydzic z krolow, a ksiazeta beda u nich przedmiotem pogardy. Z kazdej twierdzy beda sie nasmiewac, usypia waly i zdobeda ja. </v>
+<v n="11"> Wtedy jego duch sie odmieni, a wystapi i zawini, myslac, ze jego moc pochodzi od jego boga. </v>
+<v n="12"> Czy ty nie jestes od wiekow, PANIE, moj Boze, moj Swiety? My nie umrzemy. PANIE, postawiles ich na sad. Ty, nasza Skalo, przeznaczyles ich na karanie. </v>
+<v n="13"> Twoje oczy sa tak czyste, ze nie mozesz patrzec na zlo ani widziec bezprawia. Czemu patrzysz na czyniacych przewrotnosc? Czemu milczysz, gdy niegodziwy pozera sprawiedliwszego niz on sam? </v>
+<v n="14"> Czemu czynisz ludzi jak ryby morskie, jak zwierzeta pelzajace, ktore nie maja pana? </v>
+<v n="15"> Wyciaga wszystkie wedka, zagarnia je swoim niewodem i gromadzi je w swojej sieci. Dlatego cieszy sie i raduje. </v>
+<v n="16"> Dlatego sklada ofiare swemu niewodowi i pali kadzidlo swojej sieci. Przez nie bowiem jego dzial jest obfity i jego pozywienie bogatsze. </v>
+<v n="17"> Czy dlatego bedzie zarzucac swoja siec, by nieustannie zabijac narody bez litosci? </v>
+</c>

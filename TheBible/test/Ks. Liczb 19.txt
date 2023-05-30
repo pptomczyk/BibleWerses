@@ -1,0 +1,23 @@
+<v n="1"> I PAN powiedzial do Mojzesza i Aarona: </v>
+<v n="2"> To jest ustawa prawa, ktora nadal PAN: Powiedz synom Izraela, aby przyprowadzili do ciebie czerwona jalowke, zdrowa i bez skazy, na ktorej jeszcze nie bylo jarzma. </v>
+<v n="3"> Oddacie ja kaplanowi Eleazarowi, ktory ja wyprowadzi poza oboz, i zostanie przed nim zabita. </v>
+<v n="4"> A kaplan Eleazar wezmie nieco z jej krwi na swoj palec i pokropi nia siedem razy na wprost przed Namiotem Zgromadzenia. </v>
+<v n="5"> Potem kaze spalic jalowke na swoich oczach: spali jej skore, mieso, krew wraz z jej odchodami. </v>
+<v n="6"> I kaplan wezmie drewno cedrowe, hizop i karmazyn i wrzuci to do ognia, w ktorym plonie jalowka. </v>
+<v n="7"> Wtedy kaplan wypierze swoje szaty i umyje swoje cialo woda; potem wejdzie do obozu i bedzie nieczysty do wieczora. </v>
+<v n="8"> Rowniez ten, ktory ja bedzie palic, wypierze swoje szaty w wodzie i umyje swoje cialo woda, i bedzie nieczysty do wieczora. </v>
+<v n="9"> Czlowiek czysty zbierze popiol tej jalowki i zlozy go poza obozem na miejscu czystym; bedzie on przechowywany dla zgromadzenia synow Izraela do wody oczyszczenia; jest to ofiara za grzech. </v>
+<v n="10"> Ten, ktory zbieral popiol jalowki, wypierze swoje szaty i bedzie nieczysty do wieczora. Bedzie to ustawa wieczysta dla synow Izraela i dla przybysza mieszkajacego wsrod was. </v>
+<v n="11"> Kto dotknie jakiegokolwiek ludzkiego trupa, bedzie nieczysty przez siedem dni. </v>
+<v n="12"> Taki oczysci sie ta woda w trzecim i siodmym dniu i bedzie czysty. Jesli jednak nie oczysci sie w trzecim i siodmym dniu, bedzie nieczysty. </v>
+<v n="13"> Kto dotknie zwlok czlowieka zmarlego, a nie oczysci sie, ten zanieczysci przybytek PANA; ta dusza bedzie wykluczona z Izraela. Czlowiek ten nie zostal bowiem pokropiony woda oczyszczenia; bedzie nieczysty, a jego nieczystosc pozostanie na nim. </v>
+<v n="14"> Taka jest ustawa, gdy czlowiek umrze w namiocie: ktokolwiek wejdzie do tego namiotu i cokolwiek znajduje sie w tym namiocie bedzie nieczyste przez siedem dni. </v>
+<v n="15"> Kazde naczynie odkryte, ktore nie ma przymocowanej pokrywy, bedzie nieczyste. </v>
+<v n="16"> Kto dotknie na polu zabitego mieczem lub umarlego, lub kosci ludzkich, lub grobu bedzie nieczysty przez siedem dni. </v>
+<v n="17"> Wezma dla tego nieczystego nieco popiolu jalowki spalonej za grzech i na to wleja do naczynia zrodlanej wody. </v>
+<v n="18"> Czlowiek czysty wezmie hizop, zmoczy go w tej wodzie i pokropi namiot oraz wszystkie naczynia i wszystkich ludzi, ktorzy tam byli, takze tego, ktory dotknal kosci lub zabitego, lub zmarlego, lub grobu. </v>
+<v n="19"> Czlowiek czysty pokropi nieczystego w trzecim i siodmym dniu, a gdy go oczysci w siodmym dniu, wypierze on swoje szaty i umyje sie woda, i wieczorem bedzie czysty. </v>
+<v n="20"> A czlowiek, ktory stal sie nieczysty, a nie oczyscil sie, zostanie wykluczony sposrod zgromadzenia, gdyz ta dusza zbezczescila swiatynie PANA. Czlowiek ten nie zostal pokropiony woda oczyszczenia i jest nieczysty. </v>
+<v n="21"> Bedzie to dla nich ustawa wieczysta: kto skrapia woda oczyszczenia, wypierze swoje szaty, a kto dotknie tej wody oczyszczenia, bedzie nieczysty do wieczora. </v>
+<v n="22"> Czegokolwiek dotknie nieczysty, bedzie nieczyste; rowniez czlowiek, ktory tego dotknie, bedzie nieczysty do wieczora. </v>
+</c>

@@ -1,0 +1,6 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida dla przypomnienia. Boze, racz mnie ocalic; PANIE, pospiesz mi na pomoc. </v>
+<v n="2"> Niech sie zawstydza i okryja hanba ci, ktorzy czyhaja na moja dusze; niech sie cofna ze wstydem ci, ktorzy mi zle zycza. </v>
+<v n="3"> Niech sie cofna wskutek swej hanby ci, ktorzy mi mowia: Ha, ha! </v>
+<v n="4"> Niech sie wesela i raduja w tobie wszyscy, ktorzy cie szukaja; niech ci, ktorzy miluja twoje zbawienie, mowia zawsze: Niech Bog bedzie wywyzszony! </v>
+<v n="5"> Ja zas jestem nedzny i ubogi, Boze, pospiesz ku mnie, ty jestes moja pomoca i wybawicielem; PANIE, nie zwlekaj. </v>
+</c>

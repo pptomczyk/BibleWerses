@@ -1,0 +1,20 @@
+<v n="1"> Jesli powstanie spor miedzy mezczyznami i stana oni przed sadem, by ich sadzono, wtedy usprawiedliwia sprawiedliwego i potepia niegodziwego. </v>
+<v n="2"> A jesli niegodziwy zasluzy na kare chlosty, to sedzia kaze go polozyc i w jego obecnosci bic w liczbie odpowiadajacej jego niegodziwosci. </v>
+<v n="3"> Moze mu wymierzyc czterdziesci razow, ale nie wiecej, gdyz przez wieksza liczbe razow twoj brat zostalby wzgardzony w twoich oczach. </v>
+<v n="4"> Nie zawiazesz pyska mlocacemu wolowi. </v>
+<v n="5"> Jesli bracia mieszkaja razem, a jeden z nich umrze, nie pozostawiajac dziecka, zona zmarlego nie wyjdzie za maz za obcego, lecz brat jej meza wejdzie do niej, pojmie ja sobie za zone i wypelni wobec niej obowiazek powinowactwa. </v>
+<v n="6"> A pierworodny syn, ktorego ona urodzi, przejmie imie zmarlego brata, aby jego imie nie zginelo z Izraela. </v>
+<v n="7"> A jesli ten mezczyzna nie zechce pojac swojej bratowej, to jego bratowa pojdzie do bramy, do starszych, i powie: Brat mego meza nie chce wzbudzic swemu bratu imienia w Izraelu i nie chce wypelnic wobec mnie obowiazku powinowactwa. </v>
+<v n="8"> Wtedy starsi miasta przywolaja go i przemowia do niego. Jesli bedzie stal przy swoim i powie: Nie chce jej pojac za zone; </v>
+<v n="9"> Wowczas jego bratowa podejdzie do niego na oczach starszych, zdejmie mu z nogi jego but, plunie mu w twarz i powie: Tak postepuje sie z mezczyzna, ktory nie chce odbudowac domu swego brata. </v>
+<v n="10"> I nazwa go w Izraelu: Dom tego, ktoremu zdjeto but. </v>
+<v n="11"> Jesli dwaj mezczyzni beda sie klocic ze soba i zona jednego z nich zbliza sie, aby wyrwac swego meza z reki tego, ktory go bije, i wyciagnie ona reke, i uchwyci go za wstydliwe czesci; </v>
+<v n="12"> To odetniesz jej reke, nie zlituje sie nad nia twoje oko. </v>
+<v n="13"> Nie bedziesz mial w swym worku dwojakich odwaznikow, wiekszego i mniejszego. </v>
+<v n="14"> Nie bedziesz mial w swoim domu dwojakiej efy, wiekszej i mniejszej. </v>
+<v n="15"> Bedziesz mial wage dokladna i sprawiedliwa, bedziesz tez mial efe dokladna i sprawiedliwa, aby sie przedluzyly twoje dni na ziemi, ktora daje ci PAN, twoj Bog. </v>
+<v n="16"> Gdyz kazdy, kto postepuje niesprawiedliwie, budzi odraze u PANA, twego Boga. </v>
+<v n="17"> Pamietaj, co ci uczynil Amalek w drodze, kiedy wyszliscie z Egiptu; </v>
+<v n="18"> Jak spotkal cie w drodze i napadl na twoje tyly, na wszystkich slabych idacych za toba, gdy byles zmeczony i znuzony, i nie bal sie Boga. </v>
+<v n="19"> Gdy wiec PAN, twoj Bog, da ci odpoczynek od wszystkich twych wrogow dokola w ziemi, ktora PAN, twoj Bog, daje ci w dziedziczne posiadanie, to wymazesz spod nieba pamiec o Amaleku. Nie zapominaj o tym. </v>
+</c>

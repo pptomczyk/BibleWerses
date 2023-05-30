@@ -1,0 +1,27 @@
+<v n="1"> I Bóg mówi³ te wszystkie s³owa: </v>
+<v n="2"> Ja jestem PAN, twój Bóg, który ciê wyprowadzi³ z ziemi Egiptu, z domu niewoli. </v>
+<v n="3"> Nie bêdziesz mia³ innych bogów przede mn¹. </v>
+<v n="4"> Nie bêdziesz czyni³ sobie ¿adnego rzeŸbionego pos¹gu ani ¿adnej podobizny czegokolwiek, co jest w górze na niebie, co jest nisko na ziemi ani co jest w wodach pod ziemi¹. </v>
+<v n="5"> Nie bêdziesz oddawa³ im pok³onu ani nie bêdziesz im s³u¿y³, bo ja jestem PAN, twój Bóg, Bóg zazdrosny, nawiedzaj¹cy nieprawoœæ ojców na synach do trzeciego i czwartego pokolenia tych, którzy mnie nienawidz¹; </v>
+<v n="6"> A okazuj¹cy mi³osierdzie tysi¹com tych, którzy mnie mi³uj¹ i strzeg¹ moich przykazañ. </v>
+<v n="7"> Nie bêdziesz bra³ imienia PANA, twego Boga, nadaremnie, gdy¿ PAN nie zostawi bez kary tego, który bierze jego imiê nadaremnie. </v>
+<v n="8"> Pamiêtaj o dniu szabatu, aby go œwiêciæ. </v>
+<v n="9"> Szeœæ dni bêdziesz pracowaæ i wykonywaæ wszystkie swoje prace; </v>
+<v n="10"> Ale siódmy dzieñ jest szabatem PANA, twego Boga. W tym dniu nie bêdziesz wykonywa³ ¿adnej pracy – ani ty, ani twój syn, ani twoja córka, ani twój s³uga, ani twoja s³u¿¹ca, ani twoje byd³o, ani twój goœæ, który jest w obrêbie twoich bram. </v>
+<v n="11"> PAN bowiem przez szeœæ dni stworzy³ niebo i ziemiê, morze i wszystko, co jest w nich, a siódmego dnia odpocz¹³. Dlatego PAN b³ogos³awi³ dzieñ szabatu i uœwiêci³ go. </v>
+<v n="12"> Czcij swego ojca i swoj¹ matkê, aby twoje dni by³y d³ugie na ziemi, któr¹ PAN, twój Bóg, da tobie. </v>
+<v n="13"> Nie bêdziesz zabija³. </v>
+<v n="14"> Nie bêdziesz cudzo³o¿y³. </v>
+<v n="15"> Nie bêdziesz krad³. </v>
+<v n="16"> Nie bêdziesz fa³szywie œwiadczy³ przeciw twemu bliŸniemu. </v>
+<v n="17"> Nie bêdziesz po¿¹da³ domu twego bliŸniego ani nie bêdziesz po¿¹da³ ¿ony twego bliŸniego, ani jego s³ugi, ani jego s³u¿¹cej, ani jego wo³u, ani jego os³a, ani ¿adnej rzeczy, która nale¿y do twego bliŸniego. </v>
+<v n="18"> Wtedy ca³y lud widzia³ gromy i b³yskawice i s³ysza³ g³os tr¹by, i dostrzega³ dymi¹c¹ górê. Gdy lud to widzia³, cofn¹³ siê i stan¹³ z daleka. </v>
+<v n="19"> I mówi³ do Moj¿esza: Ty mów do nas, a bêdziemy s³uchaæ, ale niech Bóg do nas nie mówi, byœmy nie pomarli. </v>
+<v n="20"> Moj¿esz odpowiedzia³ ludowi: Nie bójcie siê. Bóg bowiem przyszed³, aby was wystawiæ na próbê i ¿eby jego bojaŸñ by³a przed waszym obliczem, byœcie nie grzeszyli. </v>
+<v n="21"> Sta³ wiêc lud z daleka, a Moj¿esz zbli¿y³ siê do gêstego mroku, w którym by³ Bóg. </v>
+<v n="22"> I PAN powiedzia³ do Moj¿esza: Tak powiesz synom Izraela: Widzieliœcie, ¿e mówi³em do was z nieba. </v>
+<v n="23"> Nie bêdziecie czyniæ przy mnie bogów ze srebra ani bogów ze z³ota nie bêdziecie sobie czyniæ. </v>
+<v n="24"> Uczynisz mi o³tarz z ziemi i bêdziesz sk³adaæ na nim twoje ca³opalenia i twoje ofiary pojednawcze, twoje owce i twoje byd³o. Na ka¿dym miejscu, gdzie upamiêtniê swoje imiê, przyjdê do ciebie i bêdê ci b³ogos³awi³. </v>
+<v n="25"> A jeœli uczynisz mi o³tarz kamienny, nie buduj go z ciosanego kamienia. Jeœli bowiem przy³o¿ysz do niego ¿elazne narzêdzie, zbezczeœcisz go. </v>
+<v n="26"> Nie bêdziesz wstêpowa³ po stopniach do mojego o³tarza, aby twoja nagoœæ nie by³a przy nim odkryta. </v>
+</c>

@@ -1,0 +1,12 @@
+<v n="1"> Slowa Nehemiasza, syna Chakaliasza. Oto w miesiacu Kislew, dwudziestego roku, gdy przebywalem w palacu Suza; </v>
+<v n="2"> Przyszedl Chanani, jeden z moich braci, a wraz z nim niektorzy mezczyzni z Judy. Zapytalem ich o ocalalych Zydow, ktorzy przezyli niewole, i o Jerozolime. </v>
+<v n="3"> I odpowiedzieli mi: Ostatki sposrod tych, ktorzy w tamtej prowincji przezyli niewole, sa w wielkim utrapieniu i pohanbieniu; ponadto mur Jerozolimy jest zburzony i jej bramy zostaly spalone ogniem. </v>
+<v n="4"> A gdy uslyszalem te slowa, usiadlem, plakalem i smucilem sie przez kilka dni, poscilem i modlilem sie przed Bogiem niebios. </v>
+<v n="5"> I powiedzialem: Ach PANIE, Boze niebios, Boze wielki i straszny, ktory zachowujesz przymierze i okazujesz milosierdzie tym, ktorzy cie miluja i przestrzegaja twoich przykazan. </v>
+<v n="6"> Niech twoje ucho bedzie uwazne, a twoje oczy beda otwarte, aby wysluchac modlitwy twego slugi, ktora teraz zanosze do ciebie dniem i noca za synow Izraela, twoje slugi, i w ktorej wyznaje grzechy synow Izraela, ktore popelnilismy przeciwko tobie. Rowniez ja i dom mego ojca zgrzeszylismy. </v>
+<v n="7"> Postapilismy bardzo niegodziwie wobec ciebie i nie przestrzegalismy przykazan, ustaw ani praw, ktore nakazales Mojzeszowi, swemu sludze. </v>
+<v n="8"> Wspomnij, prosze, na slowo, ktore przekazales Mojzeszowi, swemu sludze, gdy powiedziales: Jesli przekroczycie moje przykazania, to rozprosze was miedzy narodami; </v>
+<v n="9"> Lecz jesli nawrocicie sie do mnie i bedziecie przestrzegac moich przykazan i wypelniac je, to chocby wasi wygnancy byli na krancu nieba, zgromadze ich stamtad i przyprowadze na miejsce, ktore wybralem, aby tam przebywalo moje imie. </v>
+<v n="10"> Oni bowiem sa twoimi slugami i twoim ludem, ktory odkupiles swoja wielka moca i silna reka. </v>
+<v n="11"> Prosze, Panie, niech twoje ucho bedzie uwazne na modlitwe twego slugi i na modlitwe twoich slug, ktorzy pragna bac sie twego imienia. Spraw dzis, prosze, aby poszczescilo sie twemu sludze, i okaz mu laske na oczach tego czlowieka. Bylem bowiem podczaszym krola. </v>
+</c>

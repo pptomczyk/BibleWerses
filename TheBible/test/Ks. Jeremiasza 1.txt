@@ -1,0 +1,20 @@
+<v n="1"> Slowa Jeremiasza, syna Chilkiasza, z rodu kaplanow, ktorzy byli w Anatot, w ziemi Beniamina; </v>
+<v n="2"> Do ktorego doszlo slowo PANA za dni Jozjasza, syna Amona, krola Judy, w trzynastym roku jego panowania. </v>
+<v n="3"> Doszlo takze za dni Joakima, syna Jozjasza, krola Judy, az do konca jedenastego roku Sedekiasza, syna Jozjasza, krola Judy, az do uprowadzenia do niewoli mieszkancow Jerozolimy w piatym miesiacu; </v>
+<v n="4"> Doszlo do mnie slowo PANA mowiace: </v>
+<v n="5"> Zanim uksztaltowalem cie w lonie, znalem cie, zanim wyszedles z lona, uswiecilem cie i ustanowilem prorokiem dla narodow. </v>
+<v n="6"> Wtedy powiedzialem: Ach, Panie BOZE! Oto nie umiem mowic, bo jestem dzieckiem. </v>
+<v n="7"> Ale PAN powiedzial do mnie: Nie mow: Jestem dzieckiem. Pojdziesz bowiem, do kogokolwiek cie posle, i bedziesz mowil, cokolwiek ci rozkaze. </v>
+<v n="8"> Nie boj sie ich twarzy, bo ja jestem z toba, aby cie wybawic, mowi PAN. </v>
+<v n="9"> Wtedy PAN wyciagnal swoja reke i dotknal moich ust. I powiedzial do mnie PAN: Oto wkladam moje slowa do twoich ust. </v>
+<v n="10"> Patrz, dzis ustanawiam cie nad narodami i krolestwami, abys wykorzenial, burzyl, wytracal i niszczyl, bys budowal i sadzil. </v>
+<v n="11"> Potem doszlo do mnie slowo PANA mowiace: Co widzisz, Jeremiaszu? I odpowiedzialem: Widze galazke migdalowca. </v>
+<v n="12"> I PAN powiedzial do mnie: Dobrze widzisz. Ja bowiem przyspieszam swoje slowo, aby je wykonac. </v>
+<v n="13"> Ponownie doszlo do mnie slowo PANA mowiace: Co widzisz? Odpowiedzialem: Widze wrzacy kociol, a jego przednia strona skierowana jest ku polnocy. </v>
+<v n="14"> I PAN powiedzial do mnie: Od polnocy spadnie nieszczescie na wszystkich mieszkancow tej ziemi; </v>
+<v n="15"> Bo oto zwolam wszystkie rody z krolestw polnocnych, mowi PAN, i przyjda, a kazdy z nich ustawi swoj tron u wejscia do bram Jerozolimy, przeciw wszystkim jej murom i przeciw miastom Judy. </v>
+<v n="16"> I oglosze przeciwko nim moje sady za cala ich niegodziwosc: przeciwko tym, ktorzy mnie opuscili, palili kadzidlo innym bogom i oddali poklon dzielom swoich rak. </v>
+<v n="17"> Dlatego ty przepasz swoje biodra, wstan i mow do nich wszystko, co ci nakazuje. Nie boj sie ich twarzy, bym cie nie napelnil lekiem przed nimi. </v>
+<v n="18"> Oto bowiem ustanawiam cie dzis miastem obronnym, zelazna kolumna i murem spizowym przeciwko calej tej ziemi, przeciwko krolom Judy, ich ksiazetom, ich kaplanom i ludowi tej ziemi. </v>
+<v n="19"> I beda walczyc przeciwko tobie, ale cie nie przemoga, bo ja jestem z toba, mowi PAN, aby cie wybawic. </v>
+</c>

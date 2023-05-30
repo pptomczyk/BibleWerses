@@ -1,0 +1,11 @@
+<v n="1"> I powiedzial do mnie: Synu czlowieczy, stan na nogi, a bede do ciebie mowil. </v>
+<v n="2"> I wstapil we mnie duch, gdy przemowil do mnie, i postawil mnie na nogi; potem slyszalem tego, ktory mowil do mnie. </v>
+<v n="3"> Powiedzial mi: Synu czlowieczy, ja cie posylam do synow Izraela, do narodu buntowniczego, ktory mi sie sprzeciwil. Oni i ich ojcowie wystepowali przeciwko mnie az do dzis. </v>
+<v n="4"> Sa to synowie o bezczelnych twarzach i zatwardzialym sercu. Do nich cie posylam. Powiesz im: Tak mowi Pan BOG. </v>
+<v n="5"> A oni, czy posluchaja, czy nie – gdyz sa domem buntowniczym – przeciez beda wiedziec, ze byl wsrod nich prorok. </v>
+<v n="6"> Ale ty, synu czlowieczy, nie boj sie ich ani nie lekaj sie ich slow, chociaz otaczaja cie osty i ciernie i mieszkasz wsrod skorpionow. Nie boj sie ich slow ani nie lekaj sie ich twarzy, gdyz sa domem buntowniczym. </v>
+<v n="7"> Powiedz im moje slowa, czy usluchaja, czy nie, gdyz sa zbuntowani. </v>
+<v n="8"> Lecz ty, synu czlowieczy, sluchaj, co mowie do ciebie: Nie badz zbuntowany jak ten dom buntowniczy. Otworz swe usta i zjedz, co ci daje. </v>
+<v n="9"> I spojrzalem, a oto reka byla wyciagnieta do mnie, a w niej zwoj ksiegi; </v>
+<v n="10"> A on rozwinal go przede mna. Byl zapisany z jednej i z drugiej strony, a spisane byly w nim lamenty, zal i biadania. </v>
+</c>

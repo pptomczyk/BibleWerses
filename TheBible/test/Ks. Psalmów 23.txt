@@ -1,0 +1,7 @@
+<v n="1"> Psalm Dawida. PAN jest moim pasterzem, niczego mi nie zabraknie. </v>
+<v n="2"> Sprawia, ze klade sie na zielonych pastwiskach, prowadzi mnie nad spokojne wody. </v>
+<v n="3"> Posila moja dusze, prowadzi mnie sciezkami sprawiedliwosci ze wzgledu na swoje imie. </v>
+<v n="4"> Chocbym nawet chodzil dolina cienia smierci, zla sie nie ulekne, bo ty jestes ze mna; twoja laska i kij pocieszaja mnie. </v>
+<v n="5"> Zastawiasz przede mna stol wobec moich wrogow, namaszczasz mi glowe olejkiem, moj kielich przelewa sie. </v>
+<v n="6"> Zaprawde dobroc i milosierdzie pojda w slad za mna po wszystkie dni mego zycia i bede mieszkal w domu PANA przez dlugie czasy. </v>
+</c>

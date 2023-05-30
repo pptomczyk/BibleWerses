@@ -1,0 +1,21 @@
+<v n="1"> Czy ktos z was, majac sprawe z drugim, smie procesowac sie przed niesprawiedliwymi zamiast przed swietymi? </v>
+<v n="2"> Czy nie wiecie, ze swieci beda sadzic swiat? A jesli swiat bedzie sadzony przez was, to czy nie jestescie godni osadzac sprawy pomniejsze? </v>
+<v n="3"> Czy nie wiecie, ze bedziemy sadzic aniolow? A coz dopiero sprawy doczesne? </v>
+<v n="4"> Jesli wiec macie do osadzenia sprawy doczesne, ustanawiajcie sedziami najmniej powazanych w kosciele. </v>
+<v n="5"> Mowie to ku waszemu zawstydzeniu. Czy nie ma wsrod was ani jednego madrego, ktory moze rozsadzic miedzy swoimi bracmi? </v>
+<v n="6"> A tymczasem brat z bratem sie procesuje, i to przed niewierzacymi. </v>
+<v n="7"> W ogole juz to przynosi wam ujme, ze sie ze soba procesujecie. Czemu raczej krzywdy nie cierpicie? Czemu raczej szkody nie ponosicie? </v>
+<v n="8"> Przeciwnie, wy krzywdzicie i wyrzadzacie szkode, i to braciom. </v>
+<v n="9"> Czy nie wiecie, ze niesprawiedliwi nie odziedzicza krolestwa Bozego? Nie ludzcie sie: ani rozpustnicy, ani balwochwalcy, ani cudzoloznicy, ani zniewiesciali, ani mezczyzni wspolzyjacy ze soba; </v>
+<v n="10"> Ani zlodzieje, ani chciwi, ani pijacy, ani zlorzeczacy, ani zdziercy nie odziedzicza krolestwa Bozego. </v>
+<v n="11"> A takimi niektorzy z was byli. Lecz zostaliscie obmyci, lecz zostaliscie uswieceni, lecz zostaliscie usprawiedliwieni w imie Pana Jezusa i przez Ducha naszego Boga. </v>
+<v n="12"> Wszystko mi wolno, ale nie wszystko jest pozyteczne. Wszystko mi wolno, ale ja nie dam sie niczemu zniewolic. </v>
+<v n="13"> Pokarmy sa dla brzucha, a brzuch dla pokarmow. Lecz Bog zniszczy i jedno, i drugie. Cialo zas nie jest dla nierzadu, ale dla Pana, a Pan dla ciala. </v>
+<v n="14"> A Bog i Pana wskrzesil, i nas wskrzesi swoja moca. </v>
+<v n="15"> Czyz nie wiecie, ze wasze ciala sa czlonkami Chrystusa? Czy wiec wezme czlonki Chrystusa i uczynie je czlonkami nierzadnicy? Nie daj Boze! </v>
+<v n="16"> Czyz nie wiecie, ze ten, kto sie laczy z nierzadnica, jest z nia jednym cialem? Dwoje bowiem, mowi on, beda jednym cialem. </v>
+<v n="17"> Kto zas sie laczy z Panem, jest z nim jednym duchem. </v>
+<v n="18"> Uciekajcie od nierzadu. Wszelki grzech, ktory czlowiek popelnia, jest poza cialem. Lecz kto dopuszcza sie nierzadu, grzeszy przeciwko wlasnemu cialu. </v>
+<v n="19"> Czyz nie wiecie, ze wasze cialo jest swiatynia Ducha Swietego, ktory jest w was, a ktorego macie od Boga, i nie nalezycie do samych siebie? </v>
+<v n="20"> Drogo bowiem zostaliscie kupieni. Wyslawiajcie wiec Boga w waszym ciele i w waszym duchu, ktore naleza do Boga. </v>
+</c>

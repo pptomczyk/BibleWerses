@@ -1,0 +1,25 @@
+<v n="1"> Oto synowie Dawida, ktorzy urodzili mu sie w Hebronie: pierworodny Ammon z Achinoam, Jizreelitki, drugi Daniel z Abigail, Karmelitki; </v>
+<v n="2"> Trzeci Absalom, syn Maaki, corki Talmaja, krola Geszuru, czwarty Adoniasz, syn Chaggity; </v>
+<v n="3"> Piaty Szefatiasz z Abitali, szosty Jitream z jego zony Egli. </v>
+<v n="4"> Tych szesciu urodzilo mu sie w Hebronie, gdzie krolowal przez siedem lat i szesc miesiecy. A trzydziesci trzy lata krolowal w Jerozolimie. </v>
+<v n="5"> Ci zas urodzili mu sie w Jerozolimie: Szima, Szobab, Natan i Salomon – ci czterej z Batszui, corki Ammiela. </v>
+<v n="6"> I Ibchar, Eliszama, Elifelet; </v>
+<v n="7"> Nogah, Nefeg, Jafia; </v>
+<v n="8"> Eliszama, Eliada i Elifelet – dziewieciu. </v>
+<v n="9"> Ci wszyscy byli synami Dawida, nie liczac synow z naloznic, a ich siostra byla Tamar. </v>
+<v n="10"> Synem Salomona byl Roboam, a jego synem Abia, jego synem Asa, jego synem Jehoszafat; </v>
+<v n="11"> Jego synem Joram, jego synem Achazjasz, jego synem Joasz; </v>
+<v n="12"> Jego synem Amazjasz, jego synem Azariasz, jego synem Jotam; </v>
+<v n="13"> Jego synem Achaz, jego synem Ezechiasz, jego synem Manasses; </v>
+<v n="14"> Jego synem Amon, jego synem Jozjasz; </v>
+<v n="15"> A synami Jozjasza byli: pierworodny Jochanan, drugi Joakim, trzeci Sedekiasz, czwarty Szallum. </v>
+<v n="16"> Synowie Joakima: jego syn Jechoniasz i jego syn Sedekiasz. </v>
+<v n="17"> Synowie Jechoniasza: Assir, jego syn Szealatiel; </v>
+<v n="18"> Malkiram, Pedajasz, Szeneassar, Jekamiasz, Hoszama i Nedabiasz. </v>
+<v n="19"> Synowie Pedajasza: Zorobabel, Szimei. Synowie Zorobabela: Meszullam i Chananiasz, a ich siostra – Szelomit; </v>
+<v n="20"> I Chaszuba, Ohel, Berechiasz, Chasadiasz i Juszabchesed – pieciu. </v>
+<v n="21"> Synowie Chananiasza: Pelatiasz i Jesajasz. Synowie Refajasza, synowie Arnana, synowie Obadiasza, synowie Szekaniasza. </v>
+<v n="22"> Synowie Szekaniasza: Szemajasz; a synowie Szemajasza: Chattusz, Jigal, Bariach, Neariasz i Szafat – szesciu. </v>
+<v n="23"> Synowie Neariasza: Elioenaj, Ezechiasz i Azrikam – trzech. </v>
+<v n="24"> Synowie Elioenaja: Hodawiasz, Eliaszib, Pelajasz, Akkub, Jochanan, Delajasz, Anani – siedmiu. </v>
+</c>

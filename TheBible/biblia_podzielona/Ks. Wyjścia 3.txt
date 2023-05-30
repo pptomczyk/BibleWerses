@@ -1,0 +1,23 @@
+<v n="1"> Moj¿esz pasa³ stado swego teœcia Jetra, kap³ana Midianitów. Zaprowadzi³ stado na drug¹ stronê pustyni i przyszed³ do góry Bo¿ej, do Horebu. </v>
+<v n="2"> I Anio³ PANA ukaza³ mu siê w p³omieniu ognia, ze œrodka krzewu. Spojrza³, a oto krzew p³on¹³ ogniem, lecz nie sp³on¹³. </v>
+<v n="3"> Wtedy Moj¿esz powiedzia³: Podejdê i zobaczê to wielkie zjawisko, dlaczego ten krzew siê nie spala. </v>
+<v n="4"> A gdy PAN widzia³, ¿e podchodzi³, aby to zobaczyæ, zawo³a³ do niego Bóg ze œrodka tego krzewu: Moj¿eszu, Moj¿eszu! A on odpowiedzia³: Oto jestem. </v>
+<v n="5"> Wtedy powiedzia³: Nie zbli¿aj siê tu. Zdejmij buty z nóg, bo miejsce, na którym stoisz, jest ziemi¹ œwiêt¹. </v>
+<v n="6"> I doda³: Ja jestem Bogiem twego ojca, Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba. I Moj¿esz zakry³ twarz, bo ba³ siê patrzeæ na Boga. </v>
+<v n="7"> PAN powiedzia³: Przyjrza³em siê utrapieniom mojego ludu, który jest w Egipcie, i s³ysza³em ich krzyk z powodu nadzorców, gdy¿ znam jego cierpienia. </v>
+<v n="8"> Dlatego zst¹pi³em, aby wybawiæ go z rêki Egipcjan i wyprowadziæ z tej ziemi do ziemi dobrej i przestronnej, do ziemi op³ywaj¹cej mlekiem i miodem, na miejsce Kananejczyków, Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów. </v>
+<v n="9"> Teraz oto dotar³ do mnie krzyk synów Izraela. Widzia³em te¿ ucisk, jakim drêcz¹ ich Egipcjanie. </v>
+<v n="10"> Dlatego teraz idŸ, poœlê ciê do faraona, abyœ wyprowadzi³ mój lud, synów Izraela, z Egiptu. </v>
+<v n="11"> Moj¿esz powiedzia³ do Boga: Kim¿e ja jestem, abym mia³ iœæ do faraona i wyprowadziæ synów Izraela z Egiptu? </v>
+<v n="12"> Bóg odpowiedzia³: Oto ja bêdê z tob¹, a to bêdzie znakiem dla ciebie, ¿e ja ciê pos³a³em: gdy wyprowadzisz ten lud z Egiptu, bêdziecie s³u¿yæ Bogu na tej górze. </v>
+<v n="13"> Moj¿esz powiedzia³ do Boga: Kiedy pójdê do synów Izraela i powiem im: Bóg waszych ojców pos³a³ mnie do was, a oni zapytaj¹ mnie, jakie jest jego imiê, có¿ im odpowiem? </v>
+<v n="14"> Wtedy Bóg odrzek³ do Moj¿esza: JESTEM, KTÓRY JESTEM. I doda³: Tak powiesz synom Izraela: JESTEM pos³a³ mnie do was. </v>
+<v n="15"> I mówi³ jeszcze Bóg do Moj¿esza: Tak powiesz synom Izraela: PAN, Bóg waszych ojców, Bóg Abrahama, Bóg Izaaka i Bóg Jakuba, pos³a³ mnie do was. To jest moje imiê na wieki i takim ma pozostaæ w pamiêci po wszystkie pokolenia. </v>
+<v n="16"> IdŸ, zgromadŸ starszych Izraela i mów do nich: Ukaza³ mi siê PAN, Bóg waszych ojców, Bóg Abrahama, Izaaka i Jakuba, i powiedzia³: Nawiedzi³em was i widzia³em, co wam uczyniono w Egipcie. </v>
+<v n="17"> I postanowi³em: Wyprowadzê was z utrapienia Egiptu do ziemi Kananejczyków, Chetytów, Amorytów, Peryzzytów, Chiwwitów i Jebusytów, do ziemi op³ywaj¹cej mlekiem i miodem. </v>
+<v n="18"> Wtedy us³uchaj¹ twego g³osu. I pójdziesz ty i starsi Izraela do króla Egiptu i powiecie do niego: PAN, Bóg Hebrajczyków, spotka³ siê z nami. Dlatego teraz pozwól nam pójœæ, proszê, w trzy dni drogi na pustyniê, aby z³o¿yæ ofiarê PANU, naszemu Bogu. </v>
+<v n="19"> Wiem, ¿e król Egiptu nie pozwoli wam odejœæ, chyba ¿e przez potê¿n¹ rêkê. </v>
+<v n="20"> Wyci¹gnê wiêc rêkê i uderzê Egipt wszystkimi moimi cudami, które bêdê czyni³ poœród niego. A potem was wypuœci. </v>
+<v n="21"> Sprawiê, ¿e ten lud znajdzie przychylnoœæ w oczach Egipcjan. I stanie siê tak, gdy bêdziecie wychodziæ, ¿e nie wyjdziecie z pustymi rêkami. </v>
+<v n="22"> Ale ka¿da kobieta po¿yczy od swojej s¹siadki i od tej, która u niej przebywa, srebrne i z³ote przedmioty oraz szaty. W³o¿ycie je na waszych synów i na wasze córki i z³upicie Egipt. </v>
+</c>

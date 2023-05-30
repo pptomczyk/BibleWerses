@@ -1,0 +1,24 @@
+<v n="1"> A gdy Jezus urodzil sie w Betlejem w Judei za dni krola Heroda, oto medrcy ze Wschodu przybyli do Jerozolimy i pytali: </v>
+<v n="2"> Gdziez jest ten krol Zydow, ktory sie urodzil? Widzielismy bowiem jego gwiazde na Wschodzie i przyjechalismy, aby oddac mu poklon. </v>
+<v n="3"> Gdy krol Herod to uslyszal, przerazil sie, a z nim cala Jerozolima. </v>
+<v n="4"> Zebrawszy wiec wszystkich naczelnych kaplanow i nauczycieli ludu, wypytywal ich, gdzie mial sie urodzic Chrystus. </v>
+<v n="5"> A oni mu powiedzieli: W Betlejem w Judei; bo tak jest napisane przez proroka: </v>
+<v n="6"> A ty, Betlejem, ziemio Judy, wcale nie jestes najmniejsze wsrod wladcow Judei, z ciebie bowiem wyjdzie wladca, ktory bedzie rzadzil moim ludem, Izraelem. </v>
+<v n="7"> Wtedy Herod wezwal potajemnie medrcow i dowiadywal sie dokladnie o czas ukazania sie gwiazdy. </v>
+<v n="8"> A posylajac ich do Betlejem, powiedzial: Jedzcie i wypytajcie sie dokladnie o to dziecko, a gdy je znajdziecie, doniescie mi, abym i ja pojechal i oddal mu poklon. </v>
+<v n="9"> Oni wiec, wysluchawszy krola, odeszli. A oto gwiazda, ktora widzieli na Wschodzie, prowadzila ich, az przyszla i zatrzymala sie nad miejscem, gdzie bylo dziecko. </v>
+<v n="10"> A gdy zobaczyli gwiazde, ogromnie sie ucieszyli. </v>
+<v n="11"> Kiedy weszli do domu, zobaczyli dziecko z Maria, jego matka, i upadlszy, oddali mu poklon, potem otworzyli swoje skarby i ofiarowali mu dary: zloto, kadzidlo i mirre. </v>
+<v n="12"> Lecz bedac ostrzezeni przez Boga we snie, aby nie wracali do Heroda, powrocili do swojej ziemi inna droga. </v>
+<v n="13"> A gdy oni odeszli, oto aniol Pana ukazal sie we snie Jozefowi i powiedzial: Wstan, wez dziecko oraz jego matke i uciekaj do Egiptu, i zostan tam, az ci powiem. Herod bowiem bedzie szukal dziecka, aby je zabic. </v>
+<v n="14"> Wstal wiec, wzial w nocy dziecko oraz jego matke i uciekl do Egiptu. </v>
+<v n="15"> I przebywal tam az do smierci Heroda, aby sie wypelnilo, co powiedzial Pan przez proroka: Z Egiptu wezwalem mego syna. </v>
+<v n="16"> Wowczas Herod, widzac, ze zostal oszukany przez medrcow, bardzo sie rozgniewal i kazal zabic wszystkie dzieci, ktore byly w Betlejem i calej okolicy, w wieku do dwoch lat, stosownie do czasu, o ktorym sie dokladnie dowiedzial od medrcow. </v>
+<v n="17"> Wtedy wypelnilo sie to, co zostalo powiedziane przez proroka Jeremiasza: </v>
+<v n="18"> Slychac glos w Rama, lament, placz i wielkie zawodzenie. Rachel oplakuje swoje dzieci i nie daje sie pocieszyc, bo juz ich nie ma. </v>
+<v n="19"> A gdy Herod umarl, oto aniol Pana ukazal sie we snie Jozefowi w Egipcie; </v>
+<v n="20"> I powiedzial: Wstan, wez dziecko oraz jego matke i idz do ziemi izraelskiej. Umarli bowiem ci, ktorzy czyhali na zycie dziecka. </v>
+<v n="21"> Wstal wiec, wzial dziecko oraz jego matke i przybyl do ziemi izraelskiej. </v>
+<v n="22"> Lecz gdy uslyszal, ze Archelaus kroluje w Judei w miejsce Heroda, swego ojca, bal sie tam isc. Ale bedac napomniany przez Boga we snie, odszedl w strony Galilei. </v>
+<v n="23"> A przyszedlszy, mieszkal w miescie zwanym Nazaret, aby sie wypelnilo to, co zostalo powiedziane przez prorokow: Bedzie nazwany Nazarejczykiem. </v>
+</c>

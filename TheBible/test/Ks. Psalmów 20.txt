@@ -1,0 +1,10 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. Niech cie wyslucha PAN w dniu utrapienia, niech cie chroni imie Boga Jakuba. </v>
+<v n="2"> Niech ci zesle pomoc ze swiatyni i niech cie wesprze z Syjonu. </v>
+<v n="3"> Niech pamieta wszystkie twoje ofiary i niech przyjmie twoje calopalenia. Sela. </v>
+<v n="4"> Niech da ci wszystko, czego pragnie twoje serce, i kazdy twoj zamysl niech wypelni. </v>
+<v n="5"> Bedziemy sie radowac z twojego zbawienia i w imie naszego Boga sztandary podniesiemy. Niech PAN spelni wszystkie twoje prosby. </v>
+<v n="6"> Teraz wiem, ze PAN wybawia swego pomazanca, wyslucha go ze swego swietego nieba zbawcza moca swojej prawicy. </v>
+<v n="7"> Jedni pokladaja ufnosc w rydwanach, inni w koniach, lecz my bedziemy wspominac imie PANA, naszego Boga. </v>
+<v n="8"> Tamci zachwiali sie i upadli, a my powstalismy i ostoimy sie. </v>
+<v n="9"> PANIE, wybaw nas, a krol niech nas wyslucha w dniu naszego wolania. </v>
+</c>

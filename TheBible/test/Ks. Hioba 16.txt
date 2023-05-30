@@ -1,0 +1,23 @@
+<v n="1"> Wtedy Hiob odpowiedzial: </v>
+<v n="2"> Slyszalem wiele takich rzeczy; wy wszyscy jestescie przykrymi pocieszycielami. </v>
+<v n="3"> Kiedy bedzie koniec tych proznych slow? Albo co cie sklania do tego, ze tak odpowiadasz? </v>
+<v n="4"> Ja takze moglbym mowic jak wy; gdybyscie byli w moim polozeniu, moglbym nagromadzic slow przeciwko wam i potrzasac glowa nad wami. </v>
+<v n="5"> Ja jednak pokrzepialbym was swoimi ustami i poruszanie moich warg ulzyloby waszym cierpieniom. </v>
+<v n="6"> Ale jesli bede mowil, mojemu bolowi to nie ulzy, a jesli przestane, czyz opusci mnie? </v>
+<v n="7"> A teraz zmeczyl mnie. Spustoszyles cale moje zgromadzenie. </v>
+<v n="8"> Pomarszczyles mnie na swiadectwo, a moje wychudzenie powstaje i swiadczy przeciwko mnie w twarz. </v>
+<v n="9"> Jego gniew mnie porwal, nienawidzi mnie; zgrzyta na mnie zebami. Moj wrog przeszywa mnie wzrokiem. </v>
+<v n="10"> Otworzyli na mnie swe usta; zniewazajac, bili mnie po policzkach; zebrali sie razem przeciwko mnie. </v>
+<v n="11"> Bog wydal mnie przewrotnemu, oddal mnie w rece niegodziwych. </v>
+<v n="12"> Zylem w spokoju, ale on mnie pokruszyl; chwycil mnie za kark, roztrzaskal i postawil sobie za cel. </v>
+<v n="13"> Otoczyli mnie jego strzelcy; przeszywa moje nerki, a nie oszczedzil; wylal na ziemie moja zolc. </v>
+<v n="14"> Rozbija mnie, rane za rana; naciera na mnie jak olbrzym. </v>
+<v n="15"> Uszylem wor na swoja skore i prochem zbezczescilem swoj rog. </v>
+<v n="16"> Moja twarz jest czerwona od placzu i na moich powiekach jest cien smierci. </v>
+<v n="17"> Chociaz nie ma zadnej krzywdy na moich rekach, a moja modlitwa jest czysta. </v>
+<v n="18"> Ziemio, nie zakrywaj mojej krwi i niech moje wolanie nie znajdzie miejsca! </v>
+<v n="19"> Oto teraz moj swiadek jest w niebie, moj obronca na wysokosci. </v>
+<v n="20"> Moi przyjaciele szydza ze mnie, ale moje oko wylewa lzy ku Bogu. </v>
+<v n="21"> Oby ktos spieral sie z Bogiem o czlowieka jak czlowiek spiera sie o swego blizniego! </v>
+<v n="22"> Uplynie bowiem niewiele lat, a pojde sciezka, skad nie powroce. </v>
+</c>

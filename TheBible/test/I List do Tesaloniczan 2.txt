@@ -1,0 +1,21 @@
+<v n="1"> Sami bowiem wiecie, bracia, ze nasze przybycie do was nie bylo daremne; </v>
+<v n="2"> Lecz chociaz przedtem, jak wiecie, doznalismy cierpien i bylismy zniewazeni w Filippi, to jednak odwazylismy sie w naszym Bogu, by wsrod wielu zmagan glosic wam ewangelie Boga. </v>
+<v n="3"> Nasze pouczenie bowiem nie wzielo sie z bledu ani z nieczystosci, ani z podstepu; </v>
+<v n="4"> Lecz jak przez Boga zostalismy uznani za godnych powierzenia nam ewangelii, tak ja glosimy, nie aby podobac sie ludziom, ale Bogu, ktory bada nasze serca. </v>
+<v n="5"> Nigdy bowiem nie poslugiwalismy sie pochlebstwem w mowie, jak wiecie, ani nie kierowalismy sie ukryta chciwoscia, Bog jest swiadkiem; </v>
+<v n="6"> Ani nie szukalismy chwaly u ludzi, ani u was, ani u innych, mogac byc dla was ciezarem jako apostolowie Chrystusa; </v>
+<v n="7"> Bylismy jednak wsrod was lagodni jak karmicielka troszczaca sie o swoje dzieci. </v>
+<v n="8"> Darzylismy was taka zyczliwoscia, ze gotowi bylismy uzyczyc wam nie tylko ewangelii Boga, ale i naszych dusz, bo staliscie sie nam drodzy. </v>
+<v n="9"> Pamietacie przeciez, bracia, nasza prace i trud. Pracujac bowiem dniem i noca, aby nie obciazyc nikogo z was, glosilismy wam ewangelie Boga. </v>
+<v n="10"> Wy i Bog jestescie swiadkami, ze zachowywalismy sie w swietosci, w sprawiedliwosci i nienagannie posrod was, ktorzy wierzycie. </v>
+<v n="11"> Wiecie bowiem, ze kazdego z was, jak ojciec swoje dzieci, zachecalismy i pocieszalismy, i zaklinalismy; </v>
+<v n="12"> Abyscie postepowali w sposob godny Boga, ktory was powolal do swego krolestwa i chwaly. </v>
+<v n="13"> Dlatego tez nieustannie dziekujemy Bogu, ze gdy przyjeliscie slowo Boze, ktore slyszeliscie od nas, przyjeliscie je nie jako slowo ludzkie, ale – jak jest naprawde – jako slowo Boze, ktore tez w was, ktorzy wierzycie, skutecznie dziala. </v>
+<v n="14"> Wy bowiem, bracia, staliscie sie nasladowcami kosciolow Bozych, ktore sa w Judei w Chrystusie Jezusie, bo wy to samo wycierpieliscie od swoich rodakow, co i oni od Zydow; </v>
+<v n="15"> Ktorzy zabili i Pana Jezusa, i swoich wlasnych prorokow, i nas przesladowali; a nie podobaja sie Bogu i sprzeciwiaja sie wszystkim ludziom. </v>
+<v n="16"> Zabraniaja nam zwiastowac poganom, zeby ci nie byli zbawieni, aby zawsze dopelniali miary swoich grzechow; nadszedl bowiem na nich ostateczny gniew. </v>
+<v n="17"> My zas, bracia, rozlaczeni z wami na krotko cialem, ale nie sercem, z tym wiekszym pragnieniem staralismy sie was zobaczyc. </v>
+<v n="18"> Dlatego chcielismy przybyc do was, zwlaszcza ja, Pawel, raz i drugi, ale przeszkodzil nam szatan. </v>
+<v n="19"> Co bowiem jest nasza nadzieja, radoscia albo korona chluby? Czy nie wy nia jestescie przed naszym Panem Jezusem Chrystusem w czasie jego przyjscia? </v>
+<v n="20"> Wy bowiem jestescie nasza chwala i radoscia. </v>
+</c>

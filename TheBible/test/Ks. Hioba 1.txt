@@ -1,0 +1,23 @@
+<v n="1"> Byl w ziemi Uz czlowiek imieniem Hiob; ten czlowiek byl doskonaly i prawy, i bojacy sie Boga, a stroniacy od zla. </v>
+<v n="2"> I urodzilo mu sie siedmiu synow i trzy corki. </v>
+<v n="3"> A jego dobytek stanowilo siedem tysiecy owiec, trzy tysiace wielbladow, piecset jarzm wolow i piecset oslic; mial tez bardzo liczna sluzbe. Byl on czlowiekiem najmozniejszym wsrod wszystkich ludzi Wschodu. </v>
+<v n="4"> Jego synowie schodzili sie i urzadzali uczte, kazdy w swoim domu w ustalonym dniu. Posylali po swoje trzy siostry i zapraszali je, aby jadly i pily wraz z nimi. </v>
+<v n="5"> A gdy minely dni uczty, Hiob posylal i poswiecal ich. Potem wstawal wczesnym rankiem i skladal calopalenia stosownie do ich liczby. Mowil bowiem Hiob: Moze moi synowie zgrzeszyli i zlorzeczyli Bogu w swoich sercach. Tak Hiob czynil zawsze. </v>
+<v n="6"> Zdarzylo sie pewnego dnia, gdy synowie Bozy przybyli, aby stanac przed PANEM, ze tez szatan pojawil sie wsrod nich. </v>
+<v n="7"> Wtedy PAN zapytal szatana: Skad przychodzisz? Szatan odpowiedzial PANU: Krazylem po ziemi i przechadzalem sie po niej. </v>
+<v n="8"> PAN powiedzial do szatana: Czy zwrociles uwage na mojego sluge Hioba – ze nie ma nikogo mu rownego na ziemi? To czlowiek doskonaly i prawy, bojacy sie Boga i stroniacy od zla. </v>
+<v n="9"> A szatan odpowiedzial PANU: Czy Hiob za darmo boi sie Boga? </v>
+<v n="10"> Czy nie ogrodziles zewszad jego samego, jego domu i wszystkiego, co ma? Blogoslawiles dzielom jego rak, a jego dobytek rozmnozyl sie na ziemi. </v>
+<v n="11"> Ale wyciagnij tylko swoja reke i dotknij wszystkiego, co ma, a na pewno bedzie ci w twarz zlorzeczyl. </v>
+<v n="12"> Wtedy PAN powiedzial do szatana: Oto wszystko, co ma, jest w twojej mocy, tylko na niego nie wyciagaj reki. I szatan odszedl sprzed oblicza PANA. </v>
+<v n="13"> Zdarzylo sie ktoregos dnia, gdy jego synowie i corki jedli i pili wino w domu najstarszego brata; </v>
+<v n="14"> Ze do Hioba przybyl poslaniec i powiedzial: Woly oraly, a oslice pasly sie obok nich; </v>
+<v n="15"> I napadli Sabejczycy, i zabrali je, a slugi pozabijali ostrzem miecza. Uszedlem tylko ja sam, aby cie o tym powiadomic. </v>
+<v n="16"> A gdy ten jeszcze mowil, przyszedl inny i powiedzial: Ogien Bozy spadl z nieba, spalil owce i slugi i pochlonal ich. Uszedlem tylko ja sam, aby cie o tym powiadomic. </v>
+<v n="17"> A gdy ten jeszcze mowil, przyszedl inny i powiedzial: Chaldejczycy podzieleni na trzy oddzialy napadli na wielblady, zabrali je, a slugi pozabijali ostrzem miecza. Uszedlem tylko ja sam, aby cie o tym powiadomic. </v>
+<v n="18"> A gdy ten jeszcze mowil, przyszedl inny i powiedzial: Twoi synowie i corki jedli i pili wino w domu najstarszego brata; </v>
+<v n="19"> A oto gwaltowny wiatr powial od pustyni i uderzyl w cztery wegly domu, tak ze zawalil sie na dzieci i pomarly. Uszedlem tylko ja sam, aby cie o tym powiadomic. </v>
+<v n="20"> Wtedy Hiob wstal, rozdarl swoj plaszcz, ogolil swoja glowe, potem upadl na ziemie i oddal poklon; </v>
+<v n="21"> I powiedzial: Nagi wyszedlem z lona swojej matki i nagi tam powroce. PAN dal, PAN tez wzial, niech imie PANA bedzie blogoslawione. </v>
+<v n="22"> W tym wszystkim Hiob nie zgrzeszyl ani nie oskarzal Boga o nic niewlasciwego. </v>
+</c>

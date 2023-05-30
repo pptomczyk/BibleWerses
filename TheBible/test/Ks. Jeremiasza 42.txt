@@ -1,0 +1,23 @@
+<v n="1"> Potem wszyscy dowodcy wojsk, Jochanan, syn Kareacha, Jezaniasz, syn Hoszajasza, oraz caly lud, od malego do wielkiego, przystapili; </v>
+<v n="2"> I powiedzieli do proroka Jeremiasza: Niech nasza prosba dotrze do ciebie i modl sie za nami do PANA, twojego Boga, za cala te resztke, bo malo nas pozostalo z wielkiej liczby, jak sam widzisz na wlasne oczy; </v>
+<v n="3"> I niech PAN, twoj Bog, wskaze nam droge, ktora mamy isc, i to, co mamy czynic. </v>
+<v n="4"> Wtedy prorok Jeremiasz odpowiedzial im: Slyszalem. Oto bede sie modlic do PANA, waszego Boga, wedlug waszych slow, a cokolwiek PAN wam odpowie, ja wam oznajmie, niczego przed wami nie zataje. </v>
+<v n="5"> Oni zas powiedzieli do Jeremiasza: Niech PAN bedzie miedzy nami prawdziwym i wiernym swiadkiem, jesli nie postapimy wedlug kazdego slowa, z ktorym PAN, twoj Bog, posle cie do nas. </v>
+<v n="6"> Czy bedzie dobre, czy zle – usluchamy glosu PANA, naszego Boga, do ktorego cie posylamy; aby nam sie dobrze powodzilo, gdy bedziemy sluchac glosu PANA, naszego Boga. </v>
+<v n="7"> A po uplywie dziesieciu dni doszlo do Jeremiasza slowo PANA. </v>
+<v n="8"> Zawolal wiec Jochanana, syna Kareacha, i wszystkich dowodcow wojsk, ktorzy z nim byli, oraz caly lud, od malego do wielkiego; </v>
+<v n="9"> I powiedzial do nich: Tak mowi PAN, Bog Izraela, do ktorego mnie poslaliscie, abym przedlozyl mu wasza prosbe; </v>
+<v n="10"> Jesli pozostaniecie na stale w tej ziemi, odbuduje was i nie zburze, zasadze was i nie wykorzenie. Zal mi bowiem tego nieszczescia, ktore wam uczynilem. </v>
+<v n="11"> Nie bojcie sie krola Babilonu, ktorego tak sie boicie. Nie bojcie sie go, mowi PAN, bo ja jestem z wami, aby was wybawic i wyrwac z jego reki. </v>
+<v n="12"> Okaze wam laske, aby on sie zlitowal nad wami i dal wam wrocic do waszej ziemi. </v>
+<v n="13"> Ale jesli powiecie: Nie zostaniemy w tej ziemi, nie usluchamy glosu PANA, waszego Boga; </v>
+<v n="14"> Mowiac: Zadna miara! Lecz pojdziemy do ziemi Egiptu, gdzie nie zobaczymy wojny ani nie uslyszymy dzwieku traby, ani nie bedziemy laknac chleba; tam bedziemy mieszkac; </v>
+<v n="15"> To posluchajcie teraz slowa PANA, resztko Judy: Tak mowi PAN zastepow, Bog Izraela: Jesli w uporze przy tym zostaniecie, aby pojsc do ziemi Egiptu, i pojdziecie, aby tam przebywac; </v>
+<v n="16"> Wtedy miecz, ktorego sie boicie, dosiegnie was tam w ziemi Egiptu, a glod, ktorego sie obawiacie, bedzie was scigal tam w Egipcie, i tam pomrzecie. </v>
+<v n="17"> Tak sie stanie wszystkim, ktorzy koniecznie chca isc do Egiptu, aby tam przebywac: umra od miecza, od glodu i od zarazy, zaden z nich nie pozostanie ani nie ujdzie przed tym nieszczesciem, jakie na nich sprowadze. </v>
+<v n="18"> Tak bowiem mowi PAN zastepow, Bog Izraela: Jak sie wylaly moj gniew i moja zapalczywosc na mieszkancow Jerozolimy, tak sie wyleje moja zapalczywosc na was, gdy wejdziecie do Egiptu. I bedziecie przedmiotem zlorzeczenia, zdumienia, przeklenstwa i hanby, a nie zobaczycie juz tego miejsca. </v>
+<v n="19"> PAN do was mowi, resztko Judy: Nie idzcie do Egiptu. Wiedzcie na pewno, ze dzis was ostrzegam. </v>
+<v n="20"> Zwiedliscie bowiem swoje dusze, gdy poslaliscie mnie do PANA, waszego Boga, mowiac: Modl sie za nami do PANA, naszego Boga, i oznajmij nam wszystko, co powie PAN, nasz Bog, a my to wykonamy. </v>
+<v n="21"> Dzisiaj to wam oznajmiam, wy jednak nie sluchacie glosu PANA, waszego Boga, we wszystkim, z czym mnie do was poslal. </v>
+<v n="22"> Dlatego mowie: Wiedzcie na pewno, ze umrzecie od miecza, od glodu i od zarazy w tym miejscu, do ktorego pragniecie isc, aby tam przebywac. </v>
+</c>

@@ -1,0 +1,18 @@
+<v n="1"> Jozue wstal wczesnie rano i on oraz wszyscy synowie Izraela wyruszyli z Szittim, i przyszli nad Jordan; i tam przenocowali, zanim sie przeprawili przez rzeke. </v>
+<v n="2"> A po uplywie trzech dni przelozeni przeszli przez oboz; </v>
+<v n="3"> I rozkazali ludowi: Gdy ujrzycie arke przymierza PANA, swojego Boga, i niosacych ja kaplanow Lewitow, wy takze wyruszycie ze swego miejsca i pojdziecie za nia. </v>
+<v n="4"> Pomiedzy wami a nia niech bedzie jednak odleglosc okolo dwoch tysiecy lokci. Nie zblizajcie sie do niej, abyscie poznali droge, ktora macie isc, gdyz nie szliscie ta droga nigdy dotad. </v>
+<v n="5"> Wtedy Jozue powiedzial do ludu: Poswieccie sie, gdyz jutro PAN dokona cudow posrod was. </v>
+<v n="6"> Do kaplanow zas Jozue powiedzial: Wezcie arke przymierza i idzcie przed ludem. Wzieli wiec arke przymierza i szli przed ludem. </v>
+<v n="7"> I PAN powiedzial do Jozuego: Dzis zaczne cie wywyzszac na oczach calego Izraela, aby poznali, ze jak bylem z Mojzeszem, tak bede i z toba. </v>
+<v n="8"> Rozkaz kaplanom niosacym arke przymierza: Gdy dojdziecie do brzegu wod Jordanu, zatrzymajcie sie w Jordanie. </v>
+<v n="9"> Wtedy Jozue powiedzial do synow Izraela: Zblizcie sie i sluchajcie slow PANA, swojego Boga. </v>
+<v n="10"> I Jozue dodal: Po tym poznacie, ze Bog zywy jest wsrod was i ze na pewno wypedzi przed wami Kananejczykow, Chetytow, Chiwwitow, Peryzzytow, Girgaszytow, Amorytow i Jebusytow. </v>
+<v n="11"> Oto arka przymierza PANA calej ziemi przejdzie przed wami przez Jordan. </v>
+<v n="12"> Teraz wiec wybierzcie sobie dwunastu mezczyzn z pokolen Izraela, po jednym z kazdego pokolenia; </v>
+<v n="13"> A gdy stopy kaplanow niosacych arke PANA, Pana calej ziemi, stana w wodzie Jordanu, wtedy wody Jordanu sie rozdziela i wody plynace z gory stana jak jeden wal. </v>
+<v n="14"> Gdy wiec lud wyruszyl ze swoich namiotow, aby przeprawic sie przez Jordan, a kaplani niosacy arke przymierza szli przed ludem; </v>
+<v n="15"> I kiedy niosacy arke przyszli nad Jordan, a nogi kaplanow, ktorzy niesli arke, zanurzyly sie w wodzie przy brzegu (Jordan bowiem wzbiera i wylewa na wszystkie swoje brzegi przez caly czas zniwa); </v>
+<v n="16"> Wtedy wody plynace z gory zatrzymaly sie i stanely jak jeden wal bardzo daleko od miasta Adam lezacego w poblizu Sartan. A te, ktore plynely w dol do Morza Pustyni, czyli do Morza Slonego, odplynely zupelnie. I tak lud przeprawil sie naprzeciw Jerycha. </v>
+<v n="17"> A kaplani niosacy arke przymierza PANA stali pewnie na suchej ziemi posrodku Jordanu, a wszyscy Izraelici szli po suchej ziemi, az caly lud przeprawil sie przez Jordan. </v>
+</c>

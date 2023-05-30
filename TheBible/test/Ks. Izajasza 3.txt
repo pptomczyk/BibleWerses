@@ -1,0 +1,27 @@
+<v n="1"> Oto bowiem Pan, PAN zastepow, odbierze Jerozolimie i Judzie podpore i laske, wszelka podpore w chlebie i wszelka podpore w wodzie. </v>
+<v n="2"> Mocarza i meza walecznego, sedziego i proroka, medrca i starca; </v>
+<v n="3"> Dowodce piecdziesiatki i dostojnika, doradce, wybitnego rzemieslnika i krasomowce. </v>
+<v n="4"> Ksiazetami ustanowie chlopcow, dzieci beda panowac nad nimi. </v>
+<v n="5"> Ludzie beda gnebic jeden drugiego, kazdy swego blizniego. Dziecko powstanie przeciwko starcowi, a podly przeciwko dostojnikowi. </v>
+<v n="6"> Gdy czlowiek uchwyci sie swego brata z domu swego ojca i powie: Masz ubranie, badz naszym wodzem, niech te ruiny beda pod twoja reka; </v>
+<v n="7"> Ten przysiegnie w tym dniu, mowiac: Nie bede opatrywal tych ran; w moim domu bowiem nie ma chleba ani ubrania; nie czyncie mnie wodzem ludu. </v>
+<v n="8"> Bo Jerozolima upada, a Juda sie wali, gdyz ich jezyk i czyny sa przeciwko PANU, aby pobudzic do gniewu oczy jego majestatu. </v>
+<v n="9"> Wyraz ich twarzy swiadczy przeciwko nim; jak Sodoma oglaszaja swoj grzech, nie kryja go. Biada ich duszy! Gdyz sami na siebie sprowadzaja zlo. </v>
+<v n="10"> Powiedzcie sprawiedliwemu, ze bedzie mu dobrze, bo bedzie spozywac owoc swoich rak. </v>
+<v n="11"> Biada niegodziwemu! Bedzie mu zle, odplaca mu bowiem wedlug czynow jego rak. </v>
+<v n="12"> Ciemiezcami mego ludu sa dzieci i kobiety nim rzadza. O ludu moj! Twoi wodzowie cie zwodza i niszcza droge twoich sciezek. </v>
+<v n="13"> PAN powstal, aby sie rozprawic, stoi, aby sadzic lud. </v>
+<v n="14"> PAN stawi na sad starszych swego ludu i ich ksiazat: Wy spustoszyliscie moja winnice, w waszych domach znajduje sie lup ubogich. </v>
+<v n="15"> Po co miazdzycie moj lud i uciskacie oblicza ubogich? – mowi Pan BOG zastepow. </v>
+<v n="16"> PAN powiedzial: Poniewaz wynosza sie corki Syjonu i chodza z wyciagnieta szyja, uwodza oczami, a chodzac, drepcza i pobrzekuja swoimi nogami; </v>
+<v n="17"> Dlatego Pan ogoli wierzch glowy corek Syjonu i PAN obnazy ich nagosc. </v>
+<v n="18"> W tym dniu Pan odejmie ozdobne brzekadla od ich stop, ich czepce i ksiezyce; </v>
+<v n="19"> Lancuszki, bransolety i welony; </v>
+<v n="20"> Czapeczki, ozdoby u nog, opaski, naszyjniki i kolczyki; </v>
+<v n="21"> Pierscionki i wisiorki na czolach; </v>
+<v n="22"> Odswietne szaty, plaszcze, szale i torebki; </v>
+<v n="23"> Zwierciadelka, bisior, turbany i narzutki. </v>
+<v n="24"> I wtedy zamiast wonnosci bedzie smrod, zamiast pasa bedzie rozdarcie, zamiast upietych wlosow bedzie lysina, zamiast szerokiej szaty bedzie przepasanie worem i zamiast piekna bedzie oparzenie. </v>
+<v n="25"> Twoi mezczyzni polegna od miecza i twoi mocarze – na wojnie. </v>
+<v n="26"> Jej bramy zasmuca sie i zaplacza, a ona, spustoszona, usiadzie na ziemi. </v>
+</c>

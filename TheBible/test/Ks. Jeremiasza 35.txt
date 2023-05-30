@@ -1,0 +1,20 @@
+<v n="1"> Slowo, ktore doszlo do Jeremiasza od PANA za dni Joakima, syna Jozjasza, krola Judy, mowiace: </v>
+<v n="2"> Idz do domu Rekabitow, porozmawiaj z nimi i wprowadz ich do domu PANA, do jednej z komnat, i daj im wino do picia. </v>
+<v n="3"> Zabralem wiec ze soba Jaazaniasza, syna Jeremiasza, syna Chabasiniasza, jego braci, wszystkich jego synow i caly dom Rekabitow; </v>
+<v n="4"> I wprowadzilem ich do domu PANA, do komnaty synow Chanana, syna Jigdaliasza, meza Bozego, ktora byla obok komnaty ksiazecej nad komnata Maasejasza, syna Szalluma, stroza progu. </v>
+<v n="5"> Potem postawilem przed synami domu Rekabitow czasze pelne wina i kubki i powiedzialem do nich: Pijcie wino. </v>
+<v n="6"> Lecz oni odpowiedzieli: Nie pijemy wina, bo Jonadab, syn Rekaba, nasz ojciec, nakazal nam, mowiac: Nie pijcie wina, ani wy, ani wasi synowie, az na wieki. </v>
+<v n="7"> Nie budujcie tez domow ani nie obsiewajcie nasieniem, nie sadzcie winnic ani nie posiadajcie zadnej, ale mieszkajcie w namiotach przez wszystkie wasze dni, abyscie zyli przez wiele dni na powierzchni ziemi, w ktorej jestescie przybyszami. </v>
+<v n="8"> Bylismy wiec posluszni glosowi Jonadaba, syna Rekaba, naszego ojca, we wszystkim, co nam nakazal: nie pilismy wina przez wszystkie nasze dni, my, nasze zony, nasi synowie i nasze corki; </v>
+<v n="9"> I nie budowalismy sobie domow do zamieszkania ani nie mielismy winnicy ani pola, ani siewu. </v>
+<v n="10"> Ale mieszkamy w namiotach; bylismy posluszni i postepujemy zgodnie ze wszystkim, co nam nakazal Jonadab, nasz ojciec. </v>
+<v n="11"> A gdy Nabuchodonozor, krol Babilonu, nadciagnal do naszej ziemi, powiedzielismy: Chodzcie, wejdzmy do Jerozolimy przed wojskiem Chaldejczykow i przed wojskiem Syryjczykow. Zostalismy wiec w Jerozolimie. </v>
+<v n="12"> Wowczas doszlo slowo PANA do Jeremiasza mowiace: </v>
+<v n="13"> Tak mowi PAN zastepow, Bog Izraela: Idz i powiedz Judejczykom i mieszkancom Jerozolimy: Czy nie przyjmiecie pouczenia, by sluchac moich slow? – mowi PAN. </v>
+<v n="14"> Wypelniane sa slowa Jonadaba, syna Rekaba, ktore przykazal swoim synom, aby nie pili wina. Nie pija go bowiem az do dzis, bo sa posluszni przykazaniu swego ojca. Ja jednak mowilem do was, z wczesnym wstawaniem i mowieniem, lecz nie sluchaliscie mnie. </v>
+<v n="15"> Poslalem tez do was wszystkie swe slugi, prorokow, z wczesnym wstawaniem i przeslaniem, mowiac: Niech kazdy zawroci juz ze swej zlej drogi i poprawi swoje uczynki, nie chodzcie za innymi bogami ani im nie sluzcie, a bedziecie mieszkac w tej ziemi, ktora dalem wam i waszym ojcom. Ale nie nakloniliscie swego ucha ani mnie nie usluchaliscie. </v>
+<v n="16"> I chociaz synowie Jonadaba, syna Rekaba, wypelnili nakaz swego ojca, ktory im przekazal, to jednak ten lud nie byl mi posluszny. </v>
+<v n="17"> Dlatego tak mowi PAN, Bog zastepow, Bog Izraela: Oto sprowadze na Jude i na wszystkich mieszkancow Jerozolimy cale nieszczescie, ktore wypowiedzialem przeciwko nim, gdyz mowilem do nich, a nie sluchali, wolalem ich, a nie odpowiedzieli. </v>
+<v n="18"> Domowi Rekabitow Jeremiasz zas powiedzial: Tak mowi PAN zastepow, Bog Izraela: Poniewaz byliscie posluszni nakazowi Jonadaba, waszego ojca, i przestrzegaliscie wszystkich jego przykazan, i postepowaliscie zgodnie ze wszystkim, co wam nakazal; </v>
+<v n="19"> Dlatego tak mowi PAN zastepow, Bog Izraela: Nie zabraknie Jonadabowi, synowi Rekaba, potomka, ktory by stal przede mna po wszystkie dni. </v>
+</c>

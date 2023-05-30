@@ -1,0 +1,8 @@
+<v n="1"> Przewodnikowi choru. Psalm Dawida. W PANU pokladam ufnosc. Jakze wiec mozecie mowic mojej duszy: Odlec jak ptak na twoja gore? </v>
+<v n="2"> Bo oto niegodziwi napinaja luk, klada strzale na cieciwe, aby w ciemnosci strzelac do tych, ktorzy sa prawego serca. </v>
+<v n="3"> Gdy zostana zburzone fundamenty, coz moze zrobic sprawiedliwy? </v>
+<v n="4"> PAN jest w swym swietym przybytku, tron PANA jest w niebie, jego oczy patrza, jego powieki badaja synow ludzkich. </v>
+<v n="5"> PAN doswiadcza sprawiedliwego, ale jego dusza nienawidzi niegodziwego i tego, kto kocha bezprawie. </v>
+<v n="6"> Spusci na niegodziwych deszcz sidel, ognia i siarki, a palacy wicher bedzie udzialem ich kielicha. </v>
+<v n="7"> Bo sprawiedliwy PAN kocha sprawiedliwosc, jego oczy patrza na prawego. </v>
+</c>

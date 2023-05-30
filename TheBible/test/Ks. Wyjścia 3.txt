@@ -1,0 +1,23 @@
+<v n="1"> Mojzesz pasal stado swego tescia Jetra, kaplana Midianitow. Zaprowadzil stado na druga strone pustyni i przyszedl do gory Bozej, do Horebu. </v>
+<v n="2"> I Aniol PANA ukazal mu sie w plomieniu ognia, ze srodka krzewu. Spojrzal, a oto krzew plonal ogniem, lecz nie splonal. </v>
+<v n="3"> Wtedy Mojzesz powiedzial: Podejde i zobacze to wielkie zjawisko, dlaczego ten krzew sie nie spala. </v>
+<v n="4"> A gdy PAN widzial, ze podchodzil, aby to zobaczyc, zawolal do niego Bog ze srodka tego krzewu: Mojzeszu, Mojzeszu! A on odpowiedzial: Oto jestem. </v>
+<v n="5"> Wtedy powiedzial: Nie zblizaj sie tu. Zdejmij buty z nog, bo miejsce, na ktorym stoisz, jest ziemia swieta. </v>
+<v n="6"> I dodal: Ja jestem Bogiem twego ojca, Bogiem Abrahama, Bogiem Izaaka i Bogiem Jakuba. I Mojzesz zakryl twarz, bo bal sie patrzec na Boga. </v>
+<v n="7"> PAN powiedzial: Przyjrzalem sie utrapieniom mojego ludu, ktory jest w Egipcie, i slyszalem ich krzyk z powodu nadzorcow, gdyz znam jego cierpienia. </v>
+<v n="8"> Dlatego zstapilem, aby wybawic go z reki Egipcjan i wyprowadzic z tej ziemi do ziemi dobrej i przestronnej, do ziemi oplywajacej mlekiem i miodem, na miejsce Kananejczykow, Chetytow, Amorytow, Peryzzytow, Chiwwitow i Jebusytow. </v>
+<v n="9"> Teraz oto dotarl do mnie krzyk synow Izraela. Widzialem tez ucisk, jakim drecza ich Egipcjanie. </v>
+<v n="10"> Dlatego teraz idz, posle cie do faraona, abys wyprowadzil moj lud, synow Izraela, z Egiptu. </v>
+<v n="11"> Mojzesz powiedzial do Boga: Kimze ja jestem, abym mial isc do faraona i wyprowadzic synow Izraela z Egiptu? </v>
+<v n="12"> Bog odpowiedzial: Oto ja bede z toba, a to bedzie znakiem dla ciebie, ze ja cie poslalem: gdy wyprowadzisz ten lud z Egiptu, bedziecie sluzyc Bogu na tej gorze. </v>
+<v n="13"> Mojzesz powiedzial do Boga: Kiedy pojde do synow Izraela i powiem im: Bog waszych ojcow poslal mnie do was, a oni zapytaja mnie, jakie jest jego imie, coz im odpowiem? </v>
+<v n="14"> Wtedy Bog odrzekl do Mojzesza: JESTEM, KTORY JESTEM. I dodal: Tak powiesz synom Izraela: JESTEM poslal mnie do was. </v>
+<v n="15"> I mowil jeszcze Bog do Mojzesza: Tak powiesz synom Izraela: PAN, Bog waszych ojcow, Bog Abrahama, Bog Izaaka i Bog Jakuba, poslal mnie do was. To jest moje imie na wieki i takim ma pozostac w pamieci po wszystkie pokolenia. </v>
+<v n="16"> Idz, zgromadz starszych Izraela i mow do nich: Ukazal mi sie PAN, Bog waszych ojcow, Bog Abrahama, Izaaka i Jakuba, i powiedzial: Nawiedzilem was i widzialem, co wam uczyniono w Egipcie. </v>
+<v n="17"> I postanowilem: Wyprowadze was z utrapienia Egiptu do ziemi Kananejczykow, Chetytow, Amorytow, Peryzzytow, Chiwwitow i Jebusytow, do ziemi oplywajacej mlekiem i miodem. </v>
+<v n="18"> Wtedy usluchaja twego glosu. I pojdziesz ty i starsi Izraela do krola Egiptu i powiecie do niego: PAN, Bog Hebrajczykow, spotkal sie z nami. Dlatego teraz pozwol nam pojsc, prosze, w trzy dni drogi na pustynie, aby zlozyc ofiare PANU, naszemu Bogu. </v>
+<v n="19"> Wiem, ze krol Egiptu nie pozwoli wam odejsc, chyba ze przez potezna reke. </v>
+<v n="20"> Wyciagne wiec reke i uderze Egipt wszystkimi moimi cudami, ktore bede czynil posrod niego. A potem was wypusci. </v>
+<v n="21"> Sprawie, ze ten lud znajdzie przychylnosc w oczach Egipcjan. I stanie sie tak, gdy bedziecie wychodzic, ze nie wyjdziecie z pustymi rekami. </v>
+<v n="22"> Ale kazda kobieta pozyczy od swojej sasiadki i od tej, ktora u niej przebywa, srebrne i zlote przedmioty oraz szaty. Wlozycie je na waszych synow i na wasze corki i zlupicie Egipt. </v>
+</c>

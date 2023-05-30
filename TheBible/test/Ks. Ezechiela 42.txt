@@ -1,0 +1,21 @@
+<v n="1"> I wyprowadzil mnie na dziedziniec zewnetrzny w kierunku polnocy, i wprowadzil mnie do tych komorek, ktore staly naprzeciwko obszaru wyznaczonego i naprzeciwko budowli, od strony polnocy. </v>
+<v n="2"> Ich dlugosc od strony polnocnych drzwi wynosila sto lokci, a ich szerokosc piecdziesiat lokci. </v>
+<v n="3"> Naprzeciw dziedzinca wewnetrznego, ktory mial dwadziescia lokci, i naprzeciw posadzki dziedzinca zewnetrznego, byly kruzganki naprzeciw kruzgankow na trzech poziomach. </v>
+<v n="4"> A przed komorkami bylo przejscie szerokie na dziesiec lokci wewnatrz i sciezka do nich na jeden lokiec, a ich drzwi byly od polnocy. </v>
+<v n="5"> A gorne komorki byly wezsze, poniewaz ich kruzganki byly szersze od tych w dolnej i srodkowej czesci budowli. </v>
+<v n="6"> Byly bowiem trzypietrowe, ale nie mialy slupow jak slupy dziedzincow. Dlatego byly wezsze niz dolne i srodkowe, poczawszy od ziemi. </v>
+<v n="7"> A mur, ktory byl na zewnatrz naprzeciw tych komorek w kierunku dziedzinca zewnetrznego przed komorkami, mial piecdziesiat lokci dlugosci. </v>
+<v n="8"> Dlugosc bowiem komorek, ktore byly na dziedzincu zewnetrznym, wynosila piecdziesiat lokci, a tych przed swiatynia – sto lokci. </v>
+<v n="9"> A ponizej tych komorek bylo wejscie od wschodu, przez ktore wchodzi sie do nich z dziedzinca zewnetrznego. </v>
+<v n="10"> Na szerokosci muru dziedzinca od strony wschodniej naprzeciw obszaru wyznaczonego i naprzeciw budowli byly takze komorki. </v>
+<v n="11"> A sciezka przed nimi byla taka sama jak sciezka tamtych komorek, ktore znajdowaly sie po stronie polnocnej: mialy taka sama dlugosc i taka sama szerokosc. Takie same byly ich wyjscia, ich drzwi oraz ich uklad. </v>
+<v n="12"> A drzwi do tych komorek, ktore byly po stronie poludniowej, byly podobne do drzwi na poczatku przejscia, wlasnie tego przejscia przed murem w strone wschodu, ktoredy sie do nich wchodzi. </v>
+<v n="13"> Wtedy powiedzial do mnie: Komorki polnocne i komorki poludniowe, ktore sa przed obszarem wyznaczonym, to komorki swiete, gdzie kaplani, ktorzy zblizaja sie do PANA, beda jadali najswietsze rzeczy. Tam beda klasc rzeczy najswietsze, ofiary z pokarmow, ofiary za grzech i ofiary za przewinienie. Jest to bowiem miejsce swiete. </v>
+<v n="14"> Gdy kaplani wejda tam, nie wyjda ze swiatyni na dziedziniec zewnetrzny, ale tam zloza swoje szaty, w ktorych sluzyli, bo sa swiete. I zaloza inne szaty, i wtedy beda mogli zblizyc sie do tego, co nalezy do ludu. </v>
+<v n="15"> A gdy ukonczyl mierzenie domu wewnetrznego, wyprowadzil mnie w strone bramy, ktora byla zwrocona na wschod, i zmierzyl zewszad dokola. </v>
+<v n="16"> Pretem mierniczym zmierzyl strone wschodnia – piecset pretow wokolo wedlug preta mierniczego. </v>
+<v n="17"> Zmierzyl takze strone polnocna – piecset pretow wokolo wedlug preta mierniczego. </v>
+<v n="18"> I zmierzyl strone poludniowa – piecset pretow mierniczych. </v>
+<v n="19"> Potem obrocil sie na strone zachodnia i zmierzyl – piecset pretow wedlug preta mierniczego. </v>
+<v n="20"> Zmierzyl po czterech stronach mur zewszad dokola: dlugi na piecset pretow i szeroki na piecset pretow, aby oddzielic miejsce swiete od pospolitego. </v>
+</c>

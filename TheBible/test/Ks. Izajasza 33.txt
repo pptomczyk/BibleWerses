@@ -1,0 +1,25 @@
+<v n="1"> Biada tobie, ktory lupisz, chociaz sam nie byles zlupiony, i ktory zdradzasz, chociaz sam nie byles zdradzony! Gdy przestaniesz lupic, tez zostaniesz zlupiony; gdy przestaniesz zdradzac, tez beda cie zdradzac. </v>
+<v n="2"> PANIE, zlituj sie nad nami, ciebie oczekujemy. Badz ramieniem dla swoich kazdego poranka i naszym zbawieniem w czasie ucisku. </v>
+<v n="3"> Na glos wrzawy rozpierzchna sie narody; gdy sie podniesiesz, rozprosza sie poganie. </v>
+<v n="4"> I wasze lupy beda zebrane, jak sie zbiera robactwo; a jak rzuca sie szarancza, tak on przypadnie na nie. </v>
+<v n="5"> PAN jest wywyzszony, bo mieszka na wysokosci. Napelni Syjon sadem i sprawiedliwoscia. </v>
+<v n="6"> Madrosc i wiedza beda utwierdzeniem twych czasow, sila i twoim obfitym zbawieniem, a bojazn PANA to jego skarb. </v>
+<v n="7"> Oto ich mocarze wolaja na dworze, poslowie pokoju gorzko placza. </v>
+<v n="8"> Opustoszaly drogi, przechodzien przestal podazac sciezka. Zerwal przymierze, zniewazyl miasta, a z czlowiekiem sie nie liczy. </v>
+<v n="9"> Ziemia placze i marnieje; Liban jest zawstydzony i usycha; Szaron stal sie niczym pustynia, a Baszan i Karmel sa ogolocone. </v>
+<v n="10"> Teraz powstane – mowi PAN – teraz sie wywyzsze, teraz sie podniose. </v>
+<v n="11"> Poczniecie slome i zrodzicie sciernisko; wasze tchnienie pozre was jak ogien. </v>
+<v n="12"> I narody beda jak wypalone wapno; jak sciete ciernie beda spalone ogniem. </v>
+<v n="13"> Sluchajcie, wy, ktorzy jestescie daleko, co uczynilem, a wy, bliscy, poznajcie moja moc. </v>
+<v n="14"> Grzesznicy na Syjonie zlekli sie, strach ogarnal obludnikow: Kto z nas moze przebywac przy trawiacym ogniu? Kto z nas moze przebywac przy wiecznym plomieniu? </v>
+<v n="15"> Ten, kto postepuje w sprawiedliwosci i mowi to, co prawe; ten, kto brzydzi sie zyskiem niesprawiedliwym, kto otrzasa swe rece, by nie brac darow, kto zatyka uszy, by nie sluchac o rozlewie krwi, i zamyka oczy, by nie patrzec na zlo; </v>
+<v n="16"> Ten bedzie mieszkac na wysokosciach, zamki na skalach beda jego ucieczka; bedzie mu dany chleb i wody mu nie zabraknie. </v>
+<v n="17"> Twoje oczy ujrza krola w jego pieknie, ujrza ziemie daleka. </v>
+<v n="18"> Twoje serce bedzie wspominac groze: Gdzie jest pisarz? Gdzie jest poborca? Gdzie jest ten, co liczyl wieze? </v>
+<v n="19"> Nie zobaczysz juz okrutnego ludu, ludu o ciemnej, niewyraznej mowie, o belkotliwym i niezrozumialym jezyku. </v>
+<v n="20"> Spojrz na Syjon, miasto naszych uroczystych swiat. Twoje oczy zobacza Jerozolime, spokojne miejsce zamieszkania, namiot, ktory nie bedzie przeniesiony; jego kolki nigdy nie zostana wyciagniete i zaden z jego sznurow nie bedzie zerwany. </v>
+<v n="21"> Wielmozny PAN sam bedzie dla nas miejscem szerokich rzek i strumieni, po ktorych nie poplynie okret wioslowy ani przez ktore okazaly statek sie nie przeprawi. </v>
+<v n="22"> PAN bowiem jest naszym sedzia, PAN naszym prawodawca, PAN naszym krolem. On nas zbawi. </v>
+<v n="23"> Oslably twoje liny, nie beda mogli utrzymac twego masztu ani rozciagnac zagla. Wtedy zostanie rozdzielony ogromny lup, chromi pochwyca zdobycz. </v>
+<v n="24"> I zaden z mieszkancow nie powie: Zachorowalem. Ludowi, ktory mieszka w nim, zostanie przebaczona nieprawosc. </v>
+</c>

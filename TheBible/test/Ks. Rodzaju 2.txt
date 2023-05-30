@@ -1,0 +1,26 @@
+<v n="1"> Tak ukonczone zostaly niebiosa i ziemia oraz wszystkie ich zastepy. </v>
+<v n="2"> W siodmym dniu Bog ukonczyl swe dzielo, ktore uczynil; i odpoczal siodmego dnia od wszelkiego swego dziela, ktore stworzyl. </v>
+<v n="3"> I Bog blogoslawil siodmy dzien, i poswiecil go, bo w nim odpoczal od wszelkiego swego dziela, ktore Bog stworzyl i uczynil. </v>
+<v n="4"> Takie sa dzieje stworzenia niebios i ziemi w dniu, w ktorym PAN Bog uczynil ziemie i niebiosa; </v>
+<v n="5"> Wszelkie krzewy polne, zanim byly na ziemi, i wszelkie rosliny polne, nim wzeszly. Bo PAN Bog jeszcze nie spuscil deszczu na ziemie i nie bylo czlowieka, ktory by uprawial ziemie. </v>
+<v n="6"> Ale z ziemi wychodzila para, ktora nawilzala cala powierzchnie ziemi. </v>
+<v n="7"> Wtedy PAN Bog uksztaltowal czlowieka z prochu ziemi i tchnal w jego nozdrza tchnienie zycia. I czlowiek stal sie zywa dusza. </v>
+<v n="8"> PAN Bog zasadzil tez ogrod w Edenie, na wschodzie, i umiescil tam czlowieka, ktorego uksztaltowal. </v>
+<v n="9"> I wywiodl PAN Bog z ziemi wszelkie drzewa mile dla oka i ktorych owoce byly dobre do jedzenia oraz drzewo zycia posrodku ogrodu i drzewo poznania dobra i zla. </v>
+<v n="10"> A z Edenu wyplywala rzeka, aby nawadniac ogrod; i stamtad dzielila sie na cztery glowne rzeki. </v>
+<v n="11"> Nazwa pierwszej – Piszon; to ta, ktora okraza cala ziemie Chawila, gdzie znajduje sie zloto. </v>
+<v n="12"> A zloto tej ziemi jest wyborne. Tam tez jest bdellium i kamien onyksowy. </v>
+<v n="13"> Nazwa drugiej rzeki – Gichon; ta okraza cala ziemie Kusz. </v>
+<v n="14"> Nazwa zas trzeciej rzeki – Chiddekel; plynie ona na wschod ku Asyrii. A czwarta rzeka to Eufrat. </v>
+<v n="15"> PAN Bog wzial wiec czlowieka i umiescil go w ogrodzie Eden, aby go uprawial i strzegl. </v>
+<v n="16"> I rozkazal PAN Bog czlowiekowi: Mozesz jesc do woli z kazdego drzewa ogrodu; </v>
+<v n="17"> Ale z drzewa poznania dobra i zla jesc nie bedziesz, bo tego dnia, kiedy zjesz z niego, na pewno umrzesz. </v>
+<v n="18"> PAN Bog powiedzial tez: Niedobrze, by czlowiek byl sam; uczynie mu odpowiednia dla niego pomoc. </v>
+<v n="19"> I uksztaltowal PAN Bog z ziemi wszelkie zwierzeta polne i wszelkie ptactwo niebieskie, i przyprowadzil je do Adama, aby zobaczyc, jak je nazwie; a jak Adam nazwal kazda istote zywa, taka byla jej nazwa. </v>
+<v n="20"> I Adam nadal nazwy wszelkiemu bydlu i ptactwu niebieskiemu, i wszelkim zwierzetom polnym. Dla Adama jednak nie znalazla sie pomoc odpowiednia dla niego. </v>
+<v n="21"> Wtedy PAN Bog zeslal gleboki sen na Adama; a gdy zasnal, wyjal jedno z jego zeber i zapelnil cialem miejsce po nim. </v>
+<v n="22"> I z tego zebra, ktore PAN Bog wyjal z Adama, utworzyl kobiete i przyprowadzil ja do Adama. </v>
+<v n="23"> I Adam powiedzial: To teraz jest kosc z moich kosci i cialo z mojego ciala; dlatego bedzie nazwana kobieta, bo z mezczyzny zostala wzieta. </v>
+<v n="24"> Dlatego opusci mezczyzna swojego ojca i swoja matke i polaczy sie ze swoja zona, i beda jednym cialem. </v>
+<v n="25"> I oboje, Adam i jego zona, byli nadzy, a nie wstydzili sie. </v>
+</c>
