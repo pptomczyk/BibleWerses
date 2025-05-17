@@ -16,8 +16,8 @@ BibliaUK = Werset.Biblia("UkrainianBible.xml")
 title = BibliaPL.returnTitle()
 
 app = QApplication(sys.argv)
-screen = QWidget()
-screenLayout = QGridLayout()
+versesWindow = QWidget()
+versesWindowLayout = QGridLayout()
 
 blindButton = QPushButton()
 showButton = QPushButton()
@@ -30,14 +30,14 @@ prevButton = QPushButton()
 
 
 #stworzenie trzymadła an wersety
-qVerseP = QLabel(BibliaPL.returnVerses(),screen) 
-qVerseE = QLabel(BibliaEN.returnVerses(),screen)
-qVerseU = QLabel(BibliaUK.returnVerses(),screen)
-qTitle = QLabel(title,screen)
+qVerseP = QLabel(BibliaPL.returnVerses(),versesWindow) 
+qVerseE = QLabel(BibliaEN.returnVerses(),versesWindow)
+qVerseU = QLabel(BibliaUK.returnVerses(),versesWindow)
+qTitle = QLabel(title,versesWindow)
 #zmiana rozmiaru 
-qVerseP.setFont(QFont("Arial",int(screen.height() * 0.05)))
-qVerseE.setFont(QFont("Arial",int(screen.height() * 0.05)))
-qVerseU.setFont(QFont("Arial",int(screen.height() * 0.05)))
+qVerseP.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
+qVerseE.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
+qVerseU.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
 #wysrodkowanie
 qVerseP.setAlignment(Qt.AlignmentFlag.AlignCenter)
 qVerseE.setAlignment(Qt.AlignmentFlag.AlignCenter)
@@ -48,14 +48,13 @@ qVerseP.setWordWrap(True)
 qVerseE.setWordWrap(True)
 qVerseU.setWordWrap(True)
 #umiejscowienie
-screenLayout.addWidget(qVerseP, 0, 0 )
-screenLayout.addWidget(qVerseE, 1, 0)
-screenLayout.addWidget(qVerseU, 2, 0)
-screenLayout.addWidget(qTitle, 3, 0)
+versesWindowLayout.addWidget(qVerseP, 0, 0 )
+versesWindowLayout.addWidget(qVerseE, 1, 0)
+versesWindowLayout.addWidget(qVerseU, 2, 0)
+versesWindowLayout.addWidget(qTitle, 3, 0)
 
 # Przechwytywanie wydarzeń klawiatury
 
-#TODO blind na b
 show = True
 def keyPressEvent(event):
     global show
@@ -69,11 +68,18 @@ def keyPressEvent(event):
     elif event.key() == Qt.Key.Key_B and not show:
         updateVerses()
         show = True
+    if event.key() == Qt.Key.Key_Escape:  # Escape
+        app.quit()
+    if event.key() == Qt.Key.Key_F:
+        if versesWindow.isFullScreen():
+            versesWindow.showNormal()
+        else:
+            versesWindow.showFullScreen()
        
 def updateVerses():
-    qVerseP.setFont(QFont("Arial",int(screen.height() * 0.05)))
-    qVerseE.setFont(QFont("Arial",int(screen.height() * 0.05)))
-    qVerseU.setFont(QFont("Arial",int(screen.height() * 0.05)))
+    qVerseP.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
+    qVerseE.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
+    qVerseU.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
     qVerseP.setText(BibliaPL.returnVerses())
     qVerseE.setText(BibliaEN.returnVerses())
     qVerseU.setText(BibliaUK.returnVerses())
@@ -95,7 +101,7 @@ def prevVerse():
     setMenuVerses(BibliaPL.currentBook,BibliaPL.currentChapter,BibliaPL.currentVerse)
 
     
-screen.keyPressEvent = keyPressEvent
+versesWindow.keyPressEvent = keyPressEvent
 
 #okno 2
 menu = QWidget()
@@ -191,12 +197,15 @@ prevButton.clicked.connect(prevVerse)
 menuLayout.addWidget(prevButton,2,0)
 
 
-
-
+screen_geometry = app.primaryScreen().geometry()  # Pobierz geometrię ekranu
+menu.setGeometry(int(screen_geometry.width() / 2), int(screen_geometry.height() / 2), 600, 200)
+menu.setWindowTitle("BibleVerses")
 
 menu.setLayout(menuLayout)
 menu.show()
-#wyswietlanie okien
-screen.setLayout(screenLayout)
-screen.show()
+
+def closeEvent(event):
+    app.quit()
+versesWindow.setLayout(versesWindowLayout)
+versesWindow.show()
 app.exec()
