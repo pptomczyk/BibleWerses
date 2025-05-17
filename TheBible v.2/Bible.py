@@ -25,9 +25,7 @@ showButton = QPushButton()
 nextButton = QPushButton()
 prevButton = QPushButton()
 
-previewCurrent = QLabel()
-previewPrev = QLabel()
-previewNext = QLabel()
+
 
 
 
@@ -58,12 +56,19 @@ screenLayout.addWidget(qTitle, 3, 0)
 # Przechwytywanie wydarzeń klawiatury
 
 #TODO blind na b
-
+show = True
 def keyPressEvent(event):
+    global show
     if event.key() == Qt.Key.Key_Right:  # Strzałka w prawo
         nextVerse()
-    elif event.key() == Qt.Key.Key_Left:  # Strzałka w lewo
+    if event.key() == Qt.Key.Key_Left:  # Strzałka w lewo
         prevVerse()
+    if event.key() == Qt.Key.Key_B and show:  # blind
+        blind()
+        show = False
+    elif event.key() == Qt.Key.Key_B and not show:
+        updateVerses()
+        show = True
        
 def updateVerses():
     qVerseP.setFont(QFont("Arial",int(screen.height() * 0.05)))
@@ -104,14 +109,23 @@ comboBoxVerses = QComboBox()
 
 comboBoxBooks.addItems(books)
 
+previewCurrent = QLabel("",menu)
+previewPrev = QLabel("",menu)
+previewNext = QLabel("",menu)
 
-
-
-
+previewCurrent.setWordWrap(True)
+previewPrev.setWordWrap(True)
+previewNext.setWordWrap(True)
 
 menuLayout.addWidget(comboBoxBooks,1,1)
 menuLayout.addWidget(comboBoxChapters,1,2)
 menuLayout.addWidget(comboBoxVerses,1,3)
+
+menuLayout.addWidget(previewPrev,3,0,1,4)
+menuLayout.addWidget(previewCurrent,4,0,1,4)
+menuLayout.addWidget(previewNext,5,0,1,4)
+
+
 def updateComboBoxes():
     updateComboBoxChapters()
     updateComboBoxVerses()
@@ -150,7 +164,10 @@ def updateVerse():
     BibliaEN.setVerse(comboBoxBooks.currentIndex(),comboBoxChapters.currentIndex(),comboBoxVerses.currentIndex())
     BibliaPL.setVerse(comboBoxBooks.currentIndex(),comboBoxChapters.currentIndex(),comboBoxVerses.currentIndex())
     BibliaUK.setVerse(comboBoxBooks.currentIndex(),comboBoxChapters.currentIndex(),comboBoxVerses.currentIndex())
-
+    
+    previewCurrent.setText(str(comboBoxVerses.currentIndex()+ 1) +". "+ BibliaPL.returnVerses())
+    previewNext.setText(str(comboBoxVerses.currentIndex() + 2) +". "+ BibliaPL.returnNextVerses())
+    previewPrev.setText(str(comboBoxVerses.currentIndex() ) +". "+ BibliaPL.returnPrevVerses())
 
 updateComboBoxes()
 comboBoxBooks.currentIndexChanged.connect(updateComboBoxes)

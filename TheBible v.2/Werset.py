@@ -22,6 +22,34 @@ class Biblia:
                     verse = chapter.find(verseN)
                     if verse is not None: 
                         return verse.text
+                    else:
+                        return " "
+
+    def returnPrevVerses(self):
+        bookN = 'book[@number="{}"]'.format(self.currentBook)
+        chapterN = 'chapter[@number="{}"]'.format(self.currentChapter)
+        verseN = 'verse[@number="{}"]'.format(self.currentVerse - 1)
+        for testament in self.bible.findall('testament'):
+            for book in testament.findall(bookN):
+                for chapter in book.findall(chapterN): 
+                    verse = chapter.find(verseN)
+                    if verse is not None: 
+                        return verse.text
+                    else:
+                        return " "
+
+    def returnNextVerses(self):
+        bookN = 'book[@number="{}"]'.format(self.currentBook)
+        chapterN = 'chapter[@number="{}"]'.format(self.currentChapter)
+        verseN = 'verse[@number="{}"]'.format(self.currentVerse + 1)
+        for testament in self.bible.findall('testament'):
+            for book in testament.findall(bookN):
+                for chapter in book.findall(chapterN): 
+                    verse = chapter.find(verseN)
+                    if verse is not None: 
+                        return verse.text
+                    else:
+                        return " "
                 
          
     def next(self):
@@ -35,20 +63,16 @@ class Biblia:
             self.currentVerse = 1
         self.returnVerses()
 
-#TODO cofanie do poprzedniego rozdziału ostatni werset 
-#cofajnie do osatniego wersetu
     def prev(self):
-        
-        self.currentVerse -=1
-        if self.currentVerse <=0:
-            self.currentChapter-=1
-            self.currentVerse = 1
-        if  self.currentChapter <=0:
-            self.currentBook -=1
-            self.currentChapter = 1
-            self.currentVerse = 1
-        if self.currentBook <=0:
-            self.currentBook =1
+        self.currentVerse -= 1
+        if self.currentVerse <= 0:  
+            self.currentChapter -= 1
+            if self.currentChapter <= 0: 
+                self.currentBook -= 1
+                if self.currentBook <= 0:  
+                    self.currentBook = len(self.ksiegi)  
+                self.currentChapter = self.biblia[self.ksiegi[self.currentBook]]["chapters"]  
+            self.currentVerse = self.biblia[self.ksiegi[self.currentBook]]["verses"][self.currentChapter] 
         self.returnVerses()
 
     def returnTitle(self):
@@ -58,4 +82,4 @@ class Biblia:
     def setVerse(self,book,chapter,verse):
         self.currentBook = book + 1
         self.currentChapter = chapter + 1
-        self.currentVerse = verse + 1 
+        self.currentVerse = verse + 1
