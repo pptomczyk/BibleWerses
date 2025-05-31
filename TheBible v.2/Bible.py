@@ -4,6 +4,7 @@ from BibleStats import biblia, books
 from PyQt6.QtWidgets import QApplication, QComboBox, QLabel, QWidget, QGridLayout , QPushButton
 from PyQt6.QtGui import QFont
 from PyQt6.QtCore import Qt
+import math
 
 chapters = []
 verses = []
@@ -25,19 +26,36 @@ showButton = QPushButton()
 nextButton = QPushButton()
 prevButton = QPushButton()
 
+versesWindow.setStyleSheet("background-color: black;")
 
+def adjust_font_size(label, text, base_height, base_width):
+    min_font_size = 12  # większe minimum
+    max_font_size = int(base_height * 0.35)  # większe maksimum
+    k = 1.2  # mniejszy współczynnik, czcionka będzie większa
+    c = 10   # większa stała, mniej wpływu długości tekstu
+    avg_char_width = 0.8  # większa szerokość znaku, czcionka będzie większa
 
+    font_size_h = int(base_height * k / (math.log(len(text) + c)))
+    font_size_w = int(base_width / (len(text) * avg_char_width)) if len(text) > 0 else max_font_size
+
+    font_size = max(min_font_size, min(max_font_size, min(font_size_h, font_size_w)))
+    label.setFont(QFont("Arial", font_size))
+    label.setText(text)
 
 
 #stworzenie trzymadła an wersety
 qVerseP = QLabel(BibliaPL.returnVerses(),versesWindow) 
 qVerseE = QLabel(BibliaEN.returnVerses(),versesWindow)
 qVerseU = QLabel(BibliaUK.returnVerses(),versesWindow)
-qTitle = QLabel(title,versesWindow)
+
+qTitle = QLabel(title, versesWindow)
+qTitle.setFont(QFont("Arial", int(versesWindow.height() * 0.05)))  # Stały, większy rozmiar czcionki dla tytułu
 #zmiana rozmiaru 
 qVerseP.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
 qVerseE.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
 qVerseU.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
+for label in [qVerseP, qVerseE, qVerseU, qTitle]:
+    label.setStyleSheet("color: white; background-color: transparent;")
 #wysrodkowanie
 qVerseP.setAlignment(Qt.AlignmentFlag.AlignCenter)
 qVerseE.setAlignment(Qt.AlignmentFlag.AlignCenter)
@@ -77,14 +95,23 @@ def keyPressEvent(event):
             versesWindow.showFullScreen()
        
 def updateVerses():
-    qVerseP.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
-    qVerseE.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
-    qVerseU.setFont(QFont("Arial",int(versesWindow.height() * 0.05)))
-    qVerseP.setText(BibliaPL.returnVerses())
-    qVerseE.setText(BibliaEN.returnVerses())
-    qVerseU.setText(BibliaUK.returnVerses())
-    title = BibliaPL.returnTitle()
-    qTitle.setText(title)
+    verse_num = BibliaPL.currentVerse
+    verse_num_en = BibliaEN.currentVerse
+    verse_num_uk = BibliaUK.currentVerse
+
+    pl_text = f"{verse_num}. {BibliaPL.returnVerses()}"
+    en_text = f"{verse_num_en}. {BibliaEN.returnVerses()}"
+    uk_text = f"{verse_num_uk}. {BibliaUK.returnVerses()}"
+
+    adjust_font_size(qVerseP, pl_text, versesWindow.height(), versesWindow.width())
+    adjust_font_size(qVerseE, en_text, versesWindow.height(), versesWindow.width())
+    adjust_font_size(qVerseU, uk_text, versesWindow.height(), versesWindow.width())
+
+    qVerseP.setText(pl_text)
+    qVerseE.setText(en_text)
+    qVerseU.setText(uk_text)
+    qTitle.setText(BibliaPL.returnTitle())
+    qTitle.setFont(QFont("Arial", int(versesWindow.height() * 0.05)))
 
 def nextVerse():
     BibliaEN.next()
@@ -197,7 +224,7 @@ prevButton.clicked.connect(prevVerse)
 menuLayout.addWidget(prevButton,2,0)
 
 
-screen_geometry = app.primaryScreen().geometry()  # Pobierz geometrię ekranu
+screen_geometry = app.primaryScreen().geometry()  
 menu.setGeometry(int(screen_geometry.width() / 2), int(screen_geometry.height() / 2), 600, 200)
 menu.setWindowTitle("BibleVerses")
 
