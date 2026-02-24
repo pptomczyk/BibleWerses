@@ -1,7 +1,7 @@
 import sys
 import Werset
 from BibleStats import biblia, books
-from PyQt6.QtWidgets import QApplication, QComboBox, QLabel, QWidget, QGridLayout , QPushButton
+from PyQt6.QtWidgets import QApplication, QCheckBox, QComboBox, QLabel, QWidget, QGridLayout , QPushButton
 from PyQt6.QtGui import QFont
 from PyQt6.QtCore import Qt
 import math
@@ -28,20 +28,20 @@ prevButton = QPushButton()
 
 versesWindow.setStyleSheet("background-color: black;")
 
-def adjust_font_size(label, text, base_height, base_width):
-    min_font_size = 12  # większe minimum
-    max_font_size = int(base_height * 0.35)  # większe maksimum
-    k = 1.2  # mniejszy współczynnik, czcionka będzie większa
-    c = 10   # większa stała, mniej wpływu długości tekstu
-    avg_char_width = 0.8  # większa szerokość znaku, czcionka będzie większa
+def bigerFontSize(label):
+    current_font = label.font()
+    current_size = current_font.pointSize()
+    new_size = max(12, current_size + 2)  # Minimalna wielkość to 12
+    label.setFont(QFont(current_font.family(), new_size))
 
-    font_size_h = int(base_height * k / (math.log(len(text) + c)))
-    font_size_w = int(base_width / (len(text) * avg_char_width)) if len(text) > 0 else max_font_size
+def smallerFontSize(label):
+    current_font = label.font()
+    current_size = current_font.pointSize()
+    new_size = max(12, current_size - 2)  # Minimalna wielkość to 12
+    label.setFont(QFont(current_font.family(), new_size))
 
-    font_size = max(min_font_size, min(max_font_size, min(font_size_h, font_size_w)))
-    label.setFont(QFont("Arial", font_size))
-    label.setText(text)
-
+showEnglish = True;
+showUkrainian = True;
 
 #stworzenie trzymadła an wersety
 qVerseP = QLabel(BibliaPL.returnVerses(),versesWindow) 
@@ -71,6 +71,37 @@ versesWindowLayout.addWidget(qVerseE, 1, 0)
 versesWindowLayout.addWidget(qVerseU, 2, 0)
 versesWindowLayout.addWidget(qTitle, 3, 0)
 
+def rebuildWindow():
+    versesWindowLayout.removeWidget(qVerseP)
+    versesWindowLayout.removeWidget(qVerseE)    
+    versesWindowLayout.removeWidget(qVerseU)
+    versesWindowLayout.removeWidget(qTitle)
+    versesWindowLayout.setRowStretch(0, 1)
+    versesWindowLayout.setRowStretch(1, 0)
+    versesWindowLayout.setRowStretch(2, 0)
+    if showEnglish and showUkrainian:
+        versesWindowLayout.addWidget(qVerseP, 0, 0)
+        versesWindowLayout.addWidget(qVerseE, 1, 0)
+        versesWindowLayout.addWidget(qVerseU, 2, 0)
+        versesWindowLayout.setRowStretch(0, 1)
+        versesWindowLayout.setRowStretch(2, 1)
+    elif showEnglish and not showUkrainian:
+        versesWindowLayout.addWidget(qVerseP, 0, 0)
+        versesWindowLayout.addWidget(qVerseE, 1, 0)
+        versesWindowLayout.setRowStretch(0, 1)
+        versesWindowLayout.setRowStretch(1, 1)
+    elif not showEnglish and showUkrainian:
+        versesWindowLayout.addWidget(qVerseP, 0, 0)
+        versesWindowLayout.addWidget(qVerseU, 1, 0)
+        versesWindowLayout.setRowStretch(0, 1)
+        versesWindowLayout.setRowStretch(1, 1)
+    elif not showEnglish and not showUkrainian:
+        versesWindowLayout.addWidget(qVerseP, 0, 0)
+        versesWindowLayout.setRowStretch(0, 2)
+    versesWindowLayout.addWidget(qTitle, 3, 0)
+    #layout rozciagnac na całe okno
+        
+
 # Przechwytywanie wydarzeń klawiatury
 
 show = True
@@ -93,6 +124,14 @@ def keyPressEvent(event):
             versesWindow.showNormal()
         else:
             versesWindow.showFullScreen()
+    if event.key() == Qt.Key.Key_Plus:
+        bigerFontSize(qVerseP)
+        bigerFontSize(qVerseE)
+        bigerFontSize(qVerseU)
+    if event.key() == Qt.Key.Key_Minus:
+        smallerFontSize(qVerseP)
+        smallerFontSize(qVerseE)
+        smallerFontSize(qVerseU)    
        
 def updateVerses():
     verse_num = BibliaPL.currentVerse
@@ -103,13 +142,13 @@ def updateVerses():
     en_text = f"{verse_num_en}. {BibliaEN.returnVerses()}"
     uk_text = f"{verse_num_uk}. {BibliaUK.returnVerses()}"
 
-    adjust_font_size(qVerseP, pl_text, versesWindow.height(), versesWindow.width())
-    adjust_font_size(qVerseE, en_text, versesWindow.height(), versesWindow.width())
-    adjust_font_size(qVerseU, uk_text, versesWindow.height(), versesWindow.width())
 
     qVerseP.setText(pl_text)
-    qVerseE.setText(en_text)
-    qVerseU.setText(uk_text)
+    if showEnglish: qVerseE.setText(en_text) 
+    else: qVerseE.setText("")
+    if showUkrainian: qVerseU.setText(uk_text) 
+    else: qVerseU.setText("")
+
     qTitle.setText(BibliaPL.returnTitle())
     qTitle.setFont(QFont("Arial", int(versesWindow.height() * 0.05)))
 
@@ -137,8 +176,34 @@ menu.keyPressEvent = keyPressEvent
 comboBoxBooks = QComboBox()
 comboBoxChapters = QComboBox()
 comboBoxVerses = QComboBox()
+showEnglishCheckBox = QCheckBox("Angielski")
+showUkrainianCheckBox = QCheckBox("Ukraiński")
 
+bigerfontButton = QPushButton("+")
+lowerfontButton = QPushButton("-")
 
+fullscreenButton = QPushButton("FullScreen")
+
+bigerfontButton.clicked.connect(lambda: bigerFontSize(qVerseP))
+bigerfontButton.clicked.connect(lambda: bigerFontSize(qVerseE))
+bigerfontButton.clicked.connect(lambda: bigerFontSize(qVerseU))
+lowerfontButton.clicked.connect(lambda: smallerFontSize(qVerseP)) 
+lowerfontButton.clicked.connect(lambda: smallerFontSize(qVerseE))
+lowerfontButton.clicked.connect(lambda: smallerFontSize(qVerseU))
+fullscreenButton.clicked.connect(lambda: versesWindow.showFullScreen() if not versesWindow.isFullScreen() else versesWindow.showNormal())
+
+showEnglishCheckBox.setChecked(True)
+showUkrainianCheckBox.setChecked(True)
+
+def toggleLanguage():
+    global showEnglish, showUkrainian
+    showEnglish = showEnglishCheckBox.isChecked()
+    showUkrainian = showUkrainianCheckBox.isChecked()
+    rebuildWindow()
+    updateVerses()
+
+showUkrainianCheckBox.stateChanged.connect(lambda: toggleLanguage())    
+showEnglishCheckBox.stateChanged.connect(lambda: toggleLanguage())
 
 comboBoxBooks.addItems(books)
 
@@ -157,6 +222,14 @@ menuLayout.addWidget(comboBoxVerses,1,3)
 menuLayout.addWidget(previewPrev,3,0,1,4)
 menuLayout.addWidget(previewCurrent,4,0,1,4)
 menuLayout.addWidget(previewNext,5,0,1,4)
+
+menuLayout.addWidget(showEnglishCheckBox,0,0)
+menuLayout.addWidget(showUkrainianCheckBox,0,1)
+
+menuLayout.addWidget(bigerfontButton,0,2)
+menuLayout.addWidget(lowerfontButton,0,3)
+
+menuLayout.addWidget(fullscreenButton,0,4)
 
 
 def updateComboBoxes():
